@@ -5,6 +5,8 @@
   base = "app"
   command = "npm run build"
   publish = "dist"
+  # build when the app, the research it bundles or this file changed (run from app/; exit 0 skips the build)
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ../research ../netlify.toml"
 
 [build.environment]
   # the sync script imports the app's TypeScript schema directly, which needs Node's built-in type stripping
