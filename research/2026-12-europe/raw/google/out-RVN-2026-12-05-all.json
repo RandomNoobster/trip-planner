@@ -1,0 +1,93 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA1JWTkABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 160.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Finnair",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "16:45",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Rovaniemi Airport",
+   "arrTime": "08:30",
+   "arrDate": "2026-12-06",
+   "durationMin": 885,
+   "layovers": [
+    {
+     "min": 185,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    },
+    {
+     "min": 470,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 553.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "16:45",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Rovaniemi Airport",
+   "arrTime": "17:55",
+   "arrDate": "2026-12-06",
+   "durationMin": 1450,
+   "layovers": [
+    {
+     "min": 40,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    },
+    {
+     "min": 1015,
+     "airport": "Munich International Airport",
+     "city": "Munich",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 642.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Rovaniemi Airport",
+   "arrTime": "16:15",
+   "arrDate": "2026-12-05",
+   "durationMin": 535,
+   "layovers": [
+    {
+     "min": 220,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA0JFR0ABSAGYAQI",
+ "fetchedAt": "2026-10-11T11:28:20",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 149.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": "Norwegian, Norwegian",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "07:15",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Belgrade Nikola Tesla Airport",
+   "arrTime": "19:45",
+   "arrDate": "2026-12-05",
+   "durationMin": 750,
+   "layovers": [
+    {
+     "min": 525,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 149 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian, Norwegian. Leaves Trondheim Airport, Værnes at 7:15 AM on Saturday, December 5 and arrives at Belgrade Nikola Tesla Airport at 7:45 PM on Saturday, December 5. Total duration 12 hr 30 min.  Layover (1 of 1) is a 8 hr 45 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 163.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": "Norwegian, Norwegian",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:20",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Belgrade Nikola Tesla Airport",
+   "arrTime": "19:45",
+   "arrDate": "2026-12-05",
+   "durationMin": 565,
+   "layovers": [
+    {
+     "min": 345,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 163 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian, Norwegian. Leaves Trondheim Airport, Værnes at 10:20 AM on Saturday, December 5 and arrives at Belgrade Nikola Tesla Airport at 7:45 PM on Saturday, December 5. Total duration 9 hr 25 min.  Layover (1 of 1) is a 5 hr 45 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

@@ -1,0 +1,180 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTVqBRIDUE1JcgUSA1RSREABSAGYAQI",
+ "fetchedAt": "2026-10-11T12:27:26",
+ "priceUnavailable": 0,
+ "via": "rpc",
+ "itineraries": [
+  {
+   "price": 215.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air Europa and KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "PMI",
+   "depAirportName": "Palma de Mallorca Airport",
+   "depTime": "08:00",
+   "depDate": "2026-12-15",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-15",
+   "durationMin": 515,
+   "layovers": [
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Adolfo Suárez Madrid-Barajas Airport",
+     "city": "Madrid",
+     "code": "MAD",
+     "changeAirport": false
+    },
+    {
+     "min": 60,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "UX6012",
+    "KL1502",
+    "KL1153"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 233.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air Europa and KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "PMI",
+   "depAirportName": "Palma de Mallorca Airport",
+   "depTime": "12:25",
+   "depDate": "2026-12-15",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-15",
+   "durationMin": 645,
+   "layovers": [
+    {
+     "min": 190,
+     "overnight": false,
+     "airport": "Adolfo Suárez Madrid-Barajas Airport",
+     "city": "Madrid",
+     "code": "MAD",
+     "changeAirport": false
+    },
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "UX6048",
+    "KL1506",
+    "KL1155"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 252.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air Europa and KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "PMI",
+   "depAirportName": "Palma de Mallorca Airport",
+   "depTime": "13:35",
+   "depDate": "2026-12-15",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-15",
+   "durationMin": 575,
+   "layovers": [
+    {
+     "min": 180,
+     "overnight": false,
+     "airport": "Josep Tarradellas Barcelona-El Prat Airport",
+     "city": "Barcelona",
+     "code": "BCN",
+     "changeAirport": false
+    },
+    {
+     "min": 60,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "UX6060",
+    "KL1518",
+    "KL1155"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 277.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Discover Airlines, Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depCode": "PMI",
+   "depAirportName": "Palma de Mallorca Airport",
+   "depTime": "18:35",
+   "depDate": "2026-12-15",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-16",
+   "durationMin": 1215,
+   "layovers": [
+    {
+     "min": 795,
+     "overnight": true,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "4Y515",
+    "LH872",
+    "WF1311"
+   ],
+   "via": "rpc"
+  }
+ ]
+}

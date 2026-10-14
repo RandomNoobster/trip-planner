@@ -1,0 +1,85 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA0dEThoaEgoyMDI2LTEyLTE3agUSA0dETnIFEgNUUkRAAUgBmAEB",
+ "fetchedAt": "2026-10-11T11:20:43",
+ "priceUnavailable": 6,
+ "itineraries": [
+  {
+   "price": 221.0,
+   "roundTripTotal": true,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "08:00",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "11:25",
+   "arrDate": "2026-12-09",
+   "durationMin": 205,
+   "layovers": [
+    {
+     "min": 60,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 221 euros round trip total.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 8:00 AM on Wednesday, December 9 and arrives at Gdansk Lech Walesa Airport at 11:25 AM on Wednesday, December 9. Total duration 3 hr 25 min.  Layover (1 of 1) is a 1 hr layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 319.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "13:50",
+   "arrDate": "2026-12-09",
+   "durationMin": 450,
+   "layovers": [
+    {
+     "min": 205,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 319 euros round trip total. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Wednesday, December 9 and arrives at Gdansk Lech Walesa Airport at 1:50 PM on Wednesday, December 9. Total duration 7 hr 30 min.  Layover (1 of 1) is a 3 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 358.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "22:35",
+   "arrDate": "2026-12-09",
+   "durationMin": 325,
+   "layovers": [
+    {
+     "min": 80,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 358 euros round trip total. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:10 PM on Wednesday, December 9 and arrives at Gdansk Lech Walesa Airport at 10:35 PM on Wednesday, December 9. Total duration 5 hr 25 min.  Layover (1 of 1) is a 1 hr 20 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  }
+ ]
+}

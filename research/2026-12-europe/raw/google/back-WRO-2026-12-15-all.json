@@ -1,0 +1,93 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTVqBRIDV1JPcgUSA1RSREABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 96.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Nicolaus Copernicus Wrocław Airport",
+   "depTime": "13:45",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-15",
+   "durationMin": 565,
+   "layovers": [
+    {
+     "min": 330,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 192.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Nicolaus Copernicus Wrocław Airport",
+   "depTime": "13:45",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "20:30",
+   "arrDate": "2026-12-15",
+   "durationMin": 405,
+   "layovers": [
+    {
+     "min": 55,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 80,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 214.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Nicolaus Copernicus Wrocław Airport",
+   "depTime": "06:55",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-15",
+   "durationMin": 475,
+   "layovers": [
+    {
+     "min": 105,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    },
+    {
+     "min": 95,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

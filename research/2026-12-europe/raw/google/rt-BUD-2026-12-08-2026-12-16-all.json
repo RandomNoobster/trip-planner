@@ -1,0 +1,155 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDhqBRIDVFJEcgUSA0JVRBoaEgoyMDI2LTEyLTE2agUSA0JVRHIFEgNUUkRAAUgBmAEB",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 224.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Budapest Ferenc Liszt International Airp",
+   "arrTime": "23:30",
+   "arrDate": "2026-12-08",
+   "durationMin": 380,
+   "layovers": [
+    {
+     "min": 115,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 725.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Air France",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Budapest Ferenc Liszt International Airp",
+   "arrTime": "17:10",
+   "arrDate": "2026-12-08",
+   "durationMin": 650,
+   "layovers": [
+    {
+     "min": 105,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 185,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 760.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:25",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Budapest Ferenc Liszt International Airp",
+   "arrTime": "17:10",
+   "arrDate": "2026-12-08",
+   "durationMin": 645,
+   "layovers": [
+    {
+     "min": 70,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    },
+    {
+     "min": 215,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 859.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Wideroe and Finnair",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "15:35",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Budapest Ferenc Liszt International Airp",
+   "arrTime": "10:50",
+   "arrDate": "2026-12-09",
+   "durationMin": 1155,
+   "layovers": [
+    {
+     "min": 135,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    },
+    {
+     "min": 25,
+     "airport": "Stockholm Arlanda Airport",
+     "city": "Stockholm",
+     "overnight": false
+    },
+    {
+     "min": 610,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 241.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Budapest Ferenc Liszt International Airp",
+   "arrTime": "11:30",
+   "arrDate": "2026-12-08",
+   "durationMin": 310,
+   "layovers": [
+    {
+     "min": 50,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

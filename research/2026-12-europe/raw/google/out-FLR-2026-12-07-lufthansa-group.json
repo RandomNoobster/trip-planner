@@ -1,0 +1,37 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GjYSCjIwMjYtMTItMDcyAkxIMgJMWDICT1MyAlNOMgJFVzICNFkyAldGagUSA1RSRHIFEgNGTFJAAUgBmAEC",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 479.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe, Lufthansa and Air Dolomiti",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Amerigo Vespucci Airport",
+   "arrTime": "18:30",
+   "arrDate": "2026-12-07",
+   "durationMin": 560,
+   "layovers": [
+    {
+     "min": 155,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    },
+    {
+     "min": 115,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

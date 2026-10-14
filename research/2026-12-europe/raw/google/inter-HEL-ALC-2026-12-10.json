@@ -1,0 +1,115 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTBqBRIDSEVMcgUSA0FMQ0ABSAGYAQI",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 51.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": null,
+   "depAirportName": "Helsinki Airport",
+   "depTime": "19:55",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "arrTime": "23:35",
+   "arrDate": "2026-12-10",
+   "durationMin": 280,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 51 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Leaves Helsinki Airport at 7:55 PM on Thursday, December 10 and arrives at Alicante-Elche Miguel Hernández Airport at 11:35 PM on Thursday, December 10. Total duration 4 hr 40 min.   Select flight"
+  },
+  {
+   "price": 80.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Helsinki Airport",
+   "depTime": "06:15",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "arrTime": "09:45",
+   "arrDate": "2026-12-10",
+   "durationMin": 270,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 80 euros.This price does not include overhead bin access. Nonstop flight with Norwegian. Leaves Helsinki Airport at 6:15 AM on Thursday, December 10 and arrives at Alicante-Elche Miguel Hernández Airport at 9:45 AM on Thursday, December 10. Total duration 4 hr 30 min.   Select flight"
+  },
+  {
+   "price": 104.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 0,
+   "airlines": "Finnair",
+   "operatedBy": null,
+   "depAirportName": "Helsinki Airport",
+   "depTime": "07:20",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "arrTime": "10:50",
+   "arrDate": "2026-12-10",
+   "durationMin": 270,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 104 euros. Nonstop flight with Finnair. Leaves Helsinki Airport at 7:20 AM on Thursday, December 10 and arrives at Alicante-Elche Miguel Hernández Airport at 10:50 AM on Thursday, December 10. Total duration 4 hr 30 min.   Select flight"
+  },
+  {
+   "price": 100.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Helsinki Airport",
+   "depTime": "16:40",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "arrTime": "23:20",
+   "arrDate": "2026-12-10",
+   "durationMin": 460,
+   "layovers": [
+    {
+     "min": 160,
+     "overnight": false,
+     "airport": "Stockholm Arlanda Airport",
+     "city": "Stockholm"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 100 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Helsinki Airport at 4:40 PM on Thursday, December 10 and arrives at Alicante-Elche Miguel Hernández Airport at 11:20 PM on Thursday, December 10. Total duration 7 hr 40 min.  Layover (1 of 1) is a 2 hr 40 min layover at Stockholm Arlanda Airport in Stockholm. Select flight"
+  },
+  {
+   "price": 119.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Air Baltic",
+   "operatedBy": null,
+   "depAirportName": "Helsinki Airport",
+   "depTime": "21:35",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "arrTime": "11:30",
+   "arrDate": "2026-12-11",
+   "durationMin": 895,
+   "layovers": [
+    {
+     "min": 580,
+     "overnight": false,
+     "airport": "Riga Airport",
+     "city": "Riga"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 119 euros. 1 stop flight with Air Baltic. Leaves Helsinki Airport at 9:35 PM on Thursday, December 10 and arrives at Alicante-Elche Miguel Hernández Airport at 11:30 AM on Friday, December 11. Total duration 14 hr 55 min.  Layover (1 of 1) is a 9 hr 40 min layover at Riga Airport in Riga. Select flight"
+  }
+ ]
+}

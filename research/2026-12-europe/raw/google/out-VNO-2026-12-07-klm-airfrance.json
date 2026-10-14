@@ -1,0 +1,56 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMDcyAktMMgJBRmoFEgNUUkRyBRIDVk5PQAFIAZgBAg",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 328.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM and Air Baltic",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "13:20",
+   "arrDate": "2026-12-07",
+   "durationMin": 360,
+   "layovers": [
+    {
+     "min": 90,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 2879.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:25",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "16:15",
+   "arrDate": "2026-12-07",
+   "durationMin": 290,
+   "layovers": [
+    {
+     "min": 135,
+     "airport": "Stockholm Arlanda Airport",
+     "city": "Stockholm",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

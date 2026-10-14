@@ -1,0 +1,39 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GjYSCjIwMjYtMTItMDcyAkxIMgJMWDICT1MyAlNOMgJFVzICNFkyAldGagUSA1RSRHIFEgNIRUxAAUgBmAEC",
+ "fetchedAt": "2026-10-11T11:20:13",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 318.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe, Lufthansa and Lufthansa City Airlines",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Helsinki Airport",
+   "arrTime": "01:30",
+   "arrDate": "2026-12-08",
+   "durationMin": 920,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    },
+    {
+     "min": 425,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 318 euros. 2 stops flight with Wideroe, Lufthansa and Lufthansa City Airlines. Leaves Trondheim Airport, Værnes at 9:10 AM on Monday, December 7 and arrives at Helsinki Airport at 1:30 AM on Tuesday, December 8. Total duration 15 hr 20 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 7 hr 5 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  }
+ ]
+}

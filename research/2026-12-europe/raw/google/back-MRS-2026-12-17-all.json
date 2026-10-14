@@ -1,0 +1,386 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDTVJTcgUSA1RSREABSAGYAQI",
+ "fetchedAt": "2026-10-11T12:23:52",
+ "priceUnavailable": 0,
+ "via": "rpc",
+ "itineraries": [
+  {
+   "price": 221.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "MRS",
+   "depAirportName": "Marseille Provence Airport",
+   "depTime": "06:30",
+   "depDate": "2026-12-17",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-17",
+   "durationMin": 605,
+   "layovers": [
+    {
+     "min": 355,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1464",
+    "KL1153"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 234.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "MRS",
+   "depAirportName": "Marseille Provence Airport",
+   "depTime": "17:15",
+   "depDate": "2026-12-17",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-17",
+   "durationMin": 355,
+   "layovers": [
+    {
+     "min": 105,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1470",
+    "KL1155"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 274.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa City Airlines, Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depCode": "MRS",
+   "depAirportName": "Marseille Provence Airport",
+   "depTime": "06:55",
+   "depDate": "2026-12-17",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-17",
+   "durationMin": 475,
+   "layovers": [
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "VL1091",
+    "LH872",
+    "WF1311"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 338.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Scandinavian Airlines",
+   "operatedBy": "KLM Cityhopper, Sas Link",
+   "depCode": "MRS",
+   "depAirportName": "Marseille Provence Airport",
+   "depTime": "06:30",
+   "depDate": "2026-12-17",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:10",
+   "arrDate": "2026-12-17",
+   "durationMin": 460,
+   "layovers": [
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    },
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1464",
+    "KL1199",
+    "SK344"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 451.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Air France, Finnair and Wideroe",
+   "operatedBy": "Jettime A/S for Finnair",
+   "depCode": "MRS",
+   "depAirportName": "Marseille Provence Airport",
+   "depTime": "20:20",
+   "depDate": "2026-12-17",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "12:05",
+   "arrDate": "2026-12-19",
+   "durationMin": 2385,
+   "layovers": [
+    {
+     "min": 755,
+     "overnight": true,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    },
+    {
+     "min": 300,
+     "overnight": true,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki",
+     "code": "HEL",
+     "changeAirport": false
+    },
+    {
+     "min": 900,
+     "overnight": true,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "AF7343",
+    "AY1572",
+    "AY917",
+    "WF1447"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 491.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Tap Air Portugal and Scandinavian Airlines",
+   "operatedBy": "Portugalia - Companhia Portuguesa",
+   "depCode": "MRS",
+   "depAirportName": "Marseille Provence Airport",
+   "depTime": "06:00",
+   "depDate": "2026-12-17",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "20:30",
+   "arrDate": "2026-12-17",
+   "durationMin": 870,
+   "layovers": [
+    {
+     "min": 315,
+     "overnight": false,
+     "airport": "Humberto Delgado Airport",
+     "city": "Lisbon",
+     "code": "LIS",
+     "changeAirport": false
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "TP405",
+    "TP764",
+    "SK370"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 500.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Scandinavian Airlines",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "MRS",
+   "depAirportName": "Marseille Provence Airport",
+   "depTime": "12:20",
+   "depDate": "2026-12-17",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "20:30",
+   "arrDate": "2026-12-17",
+   "durationMin": 490,
+   "layovers": [
+    {
+     "min": 125,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    },
+    {
+     "min": 80,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1466",
+    "KL1205",
+    "SK370"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 534.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air France and Wideroe",
+   "operatedBy": null,
+   "depCode": "MRS",
+   "depAirportName": "Marseille Provence Airport",
+   "depTime": "06:05",
+   "depDate": "2026-12-17",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-17",
+   "durationMin": 525,
+   "layovers": [
+    {
+     "min": 100,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    },
+    {
+     "min": 120,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "AF7345",
+    "AF1252",
+    "WF1311"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 551.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air France and Scandinavian Airlines",
+   "operatedBy": null,
+   "depCode": "MRS",
+   "depAirportName": "Marseille Provence Airport",
+   "depTime": "10:15",
+   "depDate": "2026-12-17",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "19:15",
+   "arrDate": "2026-12-17",
+   "durationMin": 540,
+   "layovers": [
+    {
+     "min": 125,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    },
+    {
+     "min": 125,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "AF7333",
+    "AF1774",
+    "SK366"
+   ],
+   "via": "rpc"
+  }
+ ]
+}

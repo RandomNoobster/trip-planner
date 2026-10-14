@@ -1,0 +1,68 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GjYSCjIwMjYtMTItMTUyAkxIMgJMWDICT1MyAlNOMgJFVzICNFkyAldGagUSA1pBR3IFEgNUUkRAAUgBmAEC",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 271.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Croatia, Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Franjo Tuđman International Airport Zagr",
+   "depTime": "06:50",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-15",
+   "durationMin": 480,
+   "layovers": [
+    {
+     "min": 100,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    },
+    {
+     "min": 95,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 271.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Franjo Tuđman International Airport Zagr",
+   "depTime": "06:00",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-15",
+   "durationMin": 530,
+   "layovers": [
+    {
+     "min": 155,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    },
+    {
+     "min": 95,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

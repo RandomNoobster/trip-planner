@@ -1,0 +1,2680 @@
+[
+ {
+  "city": "CPH",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "CPH",
+    "public": {
+     "mode": "train",
+     "to": "city centre",
+     "minutes": 13,
+     "fareEUR": 0.84,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 30.8,
+     "minutes": 10,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "STO",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "ARN",
+    "public": {
+     "mode": "train",
+     "to": "city centre",
+     "minutes": 19,
+     "fareEUR": 3.73,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 79.32,
+     "minutes": 33,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "NYO",
+    "public": {
+     "mode": "train",
+     "to": "city centre",
+     "minutes": 111,
+     "fareEUR": 15.96,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": null
+   },
+   {
+    "code": "BMA",
+    "public": {
+     "mode": "subway/tram",
+     "to": "city centre",
+     "minutes": 29,
+     "fareEUR": 0.93,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 25.2,
+     "minutes": 16,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "GOT",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "GOT",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 20,
+     "fareEUR": 1.96,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 43.86,
+     "minutes": 23,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "HEL",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "HEL",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 51,
+     "fareEUR": 1.68,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 43.86,
+     "minutes": 22,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "TLL",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "TLL",
+    "public": {
+     "mode": "train",
+     "to": "city centre",
+     "minutes": 8,
+     "fareEUR": 0.84,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 10.27,
+     "minutes": 6,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "RIX",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "RIX",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 21,
+     "fareEUR": 0.65,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 22.4,
+     "minutes": 11,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "VNO",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "VNO",
+    "public": {
+     "mode": "train",
+     "to": "city centre",
+     "minutes": 7,
+     "fareEUR": 1.77,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": null
+   },
+   {
+    "code": "KUN",
+    "public": null,
+    "taxi": null
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Vilnius-Airport-KUN/Vilnius-Lithuania"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "GDN",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "GDN",
+    "public": {
+     "mode": "bus/train",
+     "to": "city centre",
+     "minutes": 156,
+     "fareEUR": 8.03,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 13.07,
+     "minutes": 15,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "KRK",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "KRK",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 70,
+     "fareEUR": 3.17,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 18.66,
+     "minutes": 10,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "KTW",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 80,
+     "fareEUR": 2.8,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 21.46,
+     "minutes": 11,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "WAW",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "WAW",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 26,
+     "fareEUR": 0.65,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 14.0,
+     "minutes": 11,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "WMI",
+    "public": {
+     "mode": "train",
+     "to": "city centre",
+     "minutes": 82,
+     "fareEUR": 5.41,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 55.99,
+     "minutes": 34,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "WRO",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "WRO",
+    "public": null,
+    "taxi": null
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Wroc-aw-Airport-WRO/Wroc-aw-Poland"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "POZ",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "POZ",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 17,
+     "fareEUR": 1.12,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 10.27,
+     "minutes": 13,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "BER",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "BER",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 45,
+     "fareEUR": 2.61,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 74.66,
+     "minutes": 24,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "HAM",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "HAM",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 42,
+     "fareEUR": 0.84,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 36.4,
+     "minutes": 15,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "MUC",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "MUC",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 45,
+     "fareEUR": 2.15,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 139.98,
+     "minutes": 29,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "FMM",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 45,
+     "fareEUR": 2.15,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 139.98,
+     "minutes": 29,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "CGN",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "CGN",
+    "public": {
+     "mode": "train",
+     "to": "city centre",
+     "minutes": 12,
+     "fareEUR": 2.24,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 55.99,
+     "minutes": 15,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "DUS",
+    "public": {
+     "mode": "train",
+     "to": "city centre",
+     "minutes": 89,
+     "fareEUR": 9.33,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 158.65,
+     "minutes": 36,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "NRN",
+    "public": {
+     "mode": "train",
+     "to": "city centre",
+     "minutes": 14,
+     "fareEUR": 2.52,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 65.33,
+     "minutes": 15,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "FRA",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "FRA",
+    "public": {
+     "mode": "bus/train",
+     "to": "city centre",
+     "minutes": 312,
+     "fareEUR": 20.81,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": null
+   },
+   {
+    "code": "HHN",
+    "public": {
+     "mode": "bus/train",
+     "to": "city centre",
+     "minutes": 427,
+     "fareEUR": 39.38,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": null
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "DRS",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "DRS",
+    "public": {
+     "mode": "train",
+     "to": "city centre",
+     "minutes": 13,
+     "fareEUR": 1.77,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 37.33,
+     "minutes": 15,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "LEJ",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "LEJ",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 42,
+     "fareEUR": 1.87,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 31.73,
+     "minutes": 18,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "NUE",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "NUE",
+    "public": {
+     "mode": "subway",
+     "to": "city centre",
+     "minutes": 10,
+     "fareEUR": 2.43,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 22.4,
+     "minutes": 11,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "PRG",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "PRG",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 37,
+     "fareEUR": 0.84,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 43.86,
+     "minutes": 18,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "VIE",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "VIE",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 23,
+     "fareEUR": 1.49,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 29.86,
+     "minutes": 19,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "BTS",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 23,
+     "fareEUR": 1.49,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 29.86,
+     "minutes": 19,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "BUD",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "BUD",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 32,
+     "fareEUR": 1.59,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 51.33,
+     "minutes": 26,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "BTS",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "BTS",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 15,
+     "fareEUR": 0.65,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 21.46,
+     "minutes": 12,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "VIE",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 15,
+     "fareEUR": 0.65,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 21.46,
+     "minutes": 12,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "AMS",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "AMS",
+    "public": {
+     "mode": "train",
+     "to": "city centre",
+     "minutes": 16,
+     "fareEUR": 1.68,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 51.33,
+     "minutes": 18,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "EIN",
+    "public": {
+     "mode": "train",
+     "to": "city centre",
+     "minutes": 16,
+     "fareEUR": 1.68,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 51.33,
+     "minutes": 18,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "RTM",
+    "public": {
+     "mode": "train",
+     "to": "city centre",
+     "minutes": 16,
+     "fareEUR": 1.68,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 51.33,
+     "minutes": 18,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "BRU",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "BRU",
+    "public": {
+     "mode": "train",
+     "to": "city centre",
+     "minutes": 11,
+     "fareEUR": 1.31,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 36.4,
+     "minutes": 20,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "CRL",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 201,
+     "fareEUR": 6.16,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 139.98,
+     "minutes": 53,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "LON",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "LHR",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 65,
+     "fareEUR": 2.05,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 102.66,
+     "minutes": 35,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "LGW",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 90,
+     "fareEUR": 4.67,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 195.98,
+     "minutes": 58,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "STN",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 63,
+     "fareEUR": 5.6,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 214.64,
+     "minutes": 56,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "LTN",
+    "public": {
+     "mode": "bus/train",
+     "to": "city centre",
+     "minutes": 107,
+     "fareEUR": 9.61,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 195.98,
+     "minutes": 49,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "LCY",
+    "public": {
+     "mode": "train",
+     "to": "city centre",
+     "minutes": 23,
+     "fareEUR": 2.43,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 60.66,
+     "minutes": 26,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "SEN",
+    "public": {
+     "mode": "train",
+     "to": "city centre",
+     "minutes": 56,
+     "fareEUR": 22.4,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 251.97,
+     "minutes": 64,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "EDI",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "EDI",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 26,
+     "fareEUR": 1.59,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 74.66,
+     "minutes": 19,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "GLA",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "GLA",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 19,
+     "fareEUR": 3.73,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 46.66,
+     "minutes": 12,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "PIK",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 40,
+     "fareEUR": 10.27,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 195.98,
+     "minutes": 38,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "MAN",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "MAN",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 68,
+     "fareEUR": 1.4,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 32.66,
+     "minutes": 18,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "LPL",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 68,
+     "fareEUR": 1.4,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 32.66,
+     "minutes": 19,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "DUB",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "DUB",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 15,
+     "fareEUR": 1.49,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 40.13,
+     "minutes": 16,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "PAR",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "CDG",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 45,
+     "fareEUR": 2.15,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 88.66,
+     "minutes": 41,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "ORY",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 35,
+     "fareEUR": 1.03,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 31.73,
+     "minutes": 21,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "BVA",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 110,
+     "fareEUR": 11.39,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": null
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "LYS",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "LYS",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 30,
+     "fareEUR": 1.87,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 55.99,
+     "minutes": 30,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "NCE",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "NCE",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 15,
+     "fareEUR": 0.37,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 33.6,
+     "minutes": 10,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "MRS",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "MRS",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 26,
+     "fareEUR": 1.59,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 42.0,
+     "minutes": 21,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "BCN",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "BCN",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 27,
+     "fareEUR": 1.03,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 42.93,
+     "minutes": 23,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "GRO",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 27,
+     "fareEUR": 1.03,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 40.13,
+     "minutes": 22,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "REU",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 27,
+     "fareEUR": 1.03,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 40.13,
+     "minutes": 22,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "MAD",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "MAD",
+    "public": {
+     "mode": "train",
+     "to": "city centre",
+     "minutes": 15,
+     "fareEUR": 0.75,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 39.2,
+     "minutes": 19,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "VLC",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "VLC",
+    "public": {
+     "mode": "subway",
+     "to": "city centre",
+     "minutes": 21,
+     "fareEUR": 4.2,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 29.86,
+     "minutes": 10,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "AGP",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "AGP",
+    "public": {
+     "mode": "train",
+     "to": "city centre",
+     "minutes": 17,
+     "fareEUR": 0.56,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 27.06,
+     "minutes": 10,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "SVQ",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "SVQ",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 10,
+     "fareEUR": 3.55,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 35.46,
+     "minutes": 9,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "ALC",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "ALC",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 20,
+     "fareEUR": 1.31,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 33.6,
+     "minutes": 14,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "PMI",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "PMI",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 3,
+     "fareEUR": 5.04,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 27.06,
+     "minutes": 11,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "LPA",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "LPA",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 13,
+     "fareEUR": 1.77,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 37.33,
+     "minutes": 17,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "TCI",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "TFS",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 58,
+     "fareEUR": 8.87,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 121.32,
+     "minutes": 40,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "TFN",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 15,
+     "fareEUR": 1.49,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 31.73,
+     "minutes": 11,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "LIS",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "LIS",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 24,
+     "fareEUR": 0.37,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 10.27,
+     "minutes": 9,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "OPO",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "OPO",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 20,
+     "fareEUR": 1.12,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 14.0,
+     "minutes": 15,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "FAO",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "FAO",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 10,
+     "fareEUR": 0.47,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 10.27,
+     "minutes": 7,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "FNC",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "FNC",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 33,
+     "fareEUR": 6.53,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 43.86,
+     "minutes": 18,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "ROM",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "FCO",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 45,
+     "fareEUR": 1.49,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 55.99,
+     "minutes": 28,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "CIA",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 40,
+     "fareEUR": 1.21,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 29.86,
+     "minutes": 20,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "MIL",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "MXP",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 45,
+     "fareEUR": 3.73,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 158.65,
+     "minutes": 39,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "LIN",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 12,
+     "fareEUR": 0.75,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 19.6,
+     "minutes": 12,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "BGY",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 50,
+     "fareEUR": 3.27,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 102.66,
+     "minutes": 43,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "VCE",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "VCE",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 20,
+     "fareEUR": 0.65,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 60.66,
+     "minutes": 15,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "TSF",
+    "public": {
+     "mode": "bus/train",
+     "to": "city centre",
+     "minutes": 59,
+     "fareEUR": 4.76,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 130.65,
+     "minutes": 33,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "NAP",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "NAP",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 15,
+     "fareEUR": 0.47,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 17.73,
+     "minutes": 6,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "BLQ",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "BLQ",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 16,
+     "fareEUR": 6.07,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 45.73,
+     "minutes": 13,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "FLR",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "FLR",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 14,
+     "fareEUR": 1.03,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 74.66,
+     "minutes": 8,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "PSA",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 12,
+     "fareEUR": 1.12,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 74.66,
+     "minutes": 9,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Florence-Airport-FLR/Florence-Italy",
+   "https://www.rome2rio.com/s/Florence-Airport-PSA/Florence-Italy"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "TRN",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "TRN",
+    "public": {
+     "mode": "train",
+     "to": "city centre",
+     "minutes": 30,
+     "fareEUR": 2.05,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 39.2,
+     "minutes": 17,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Turin-Airport-TRN/Turin-Italy"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "CTA",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "CTA",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 7,
+     "fareEUR": 0.19,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 111.99,
+     "minutes": 6,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Catania-Airport-CTA/Catania-Italy"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "PMO",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "PMO",
+    "public": {
+     "mode": "train",
+     "to": "city centre",
+     "minutes": 44,
+     "fareEUR": 3.27,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 158.65,
+     "minutes": 23,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Palermo-Airport-PMO/Palermo-Italy"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "BRI",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "BRI",
+    "public": null,
+    "taxi": {
+     "fareEUR": 32.66,
+     "minutes": 14,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Bari-Airport-BRI/Bari-Italy"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "TRS",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "TRS",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 56,
+     "fareEUR": 2.71,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 167.98,
+     "minutes": 33,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Trieste-Airport-TRS/Trieste-Italy"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "ATH",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "ATH",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 60,
+     "fareEUR": 5.51,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 35.46,
+     "minutes": 34,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Athens-Airport-ATH/Athens-Greece"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "SKG",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "SKG",
+    "public": null,
+    "taxi": {
+     "fareEUR": 34.53,
+     "minutes": 29,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Thessaloniki-Airport-SKG/Thessaloniki-Greece"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "IST",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "IST",
+    "public": {
+     "mode": "train",
+     "to": "city centre",
+     "minutes": 51,
+     "fareEUR": 1.59,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 46.66,
+     "minutes": 35,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "SAW",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 115,
+     "fareEUR": 0.47,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 45.73,
+     "minutes": 31,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Istanbul-Airport-IST/Istanbul-Turkey",
+   "https://www.rome2rio.com/s/Istanbul-Airport-SAW/Istanbul-Turkey"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "SOF",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "SOF",
+    "public": {
+     "mode": "subway",
+     "to": "city centre",
+     "minutes": 27,
+     "fareEUR": 0.56,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 9.33,
+     "minutes": 13,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Sofia-Airport-SOF/Sofia-Bulgaria"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "BUH",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "OTP",
+    "public": {
+     "mode": "train",
+     "to": "city centre",
+     "minutes": 25,
+     "fareEUR": 0.75,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 7.93,
+     "minutes": 19,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Bucharest-Airport-OTP/Bucharest-Romania"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "BEG",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "BEG",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 30,
+     "fareEUR": 0.37,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 30.8,
+     "minutes": 16,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Belgrade-Airport-BEG/Belgrade-Serbia"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "ZAG",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "ZAG",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 34,
+     "fareEUR": 0.56,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 34.53,
+     "minutes": 19,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Zagreb-Airport-ZAG/Zagreb-Croatia"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "SPU",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "SPU",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 49,
+     "fareEUR": 1.87,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 60.66,
+     "minutes": 24,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Split-Airport-SPU/Split-Croatia"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "DBV",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "DBV",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 40,
+     "fareEUR": 2.33,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 60.66,
+     "minutes": 21,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Dubrovnik-Airport-DBV/Dubrovnik-Croatia"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "LJU",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "LJU",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 21,
+     "fareEUR": 2.8,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 60.66,
+     "minutes": 22,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Ljubljana-Airport-LJU/Ljubljana-Slovenia"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "TIA",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "TIA",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 35,
+     "fareEUR": 2.43,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 46.66,
+     "minutes": 19,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Tirana-Airport-TIA/Tirana-Albania"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "SJJ",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "SJJ",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 8,
+     "fareEUR": 0.37,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 5.6,
+     "minutes": 6,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Sarajevo-Airport-SJJ/Sarajevo-Bosnia-and-Herzegovina"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "SKP",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "SKP",
+    "public": null,
+    "taxi": {
+     "fareEUR": 60.66,
+     "minutes": 21,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Skopje-Airport-SKP/Skopje-North-Macedonia"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "ZRH",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "ZRH",
+    "public": {
+     "mode": "train",
+     "to": "city centre",
+     "minutes": 10,
+     "fareEUR": 2.8,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 88.66,
+     "minutes": 12,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Zurich-Airport-ZRH/Zurich-Switzerland"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "GVA",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "GVA",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 23,
+     "fareEUR": 0.37,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 36.4,
+     "minutes": 9,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Geneva-Airport-GVA/Geneva-Switzerland"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "BSL",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "BSL",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 9,
+     "fareEUR": 2.8,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": null
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Basel-Airport-BSL/Basel-Switzerland"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "MLA",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "MLA",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 6,
+     "fareEUR": 2.05,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 21.46,
+     "minutes": 10,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Malta-Valletta-Airport-MLA/Valletta-Malta"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "LCA",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "LCA",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 17,
+     "fareEUR": 2.43,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 15.86,
+     "minutes": 10,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   },
+   {
+    "code": "PFO",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 17,
+     "fareEUR": 2.43,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 15.86,
+     "minutes": 10,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Larnaca-Airport-LCA/Larnaca-Cyprus",
+   "https://www.rome2rio.com/s/Larnaca-Airport-PFO/Larnaca-Cyprus"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "REK",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "KEF",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 55,
+     "fareEUR": 13.07,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 223.97,
+     "minutes": 41,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Reykjavik-Airport-KEF/Reykjavik-Iceland"
+  ],
+  "notes": "Rome2Rio estimates"
+ },
+ {
+  "city": "TRD",
+  "localTicketEUR": null,
+  "dayPassEUR": null,
+  "rideHailing": [],
+  "airports": [
+   {
+    "code": "TRD",
+    "public": {
+     "mode": "bus",
+     "to": "city centre",
+     "minutes": 55,
+     "fareEUR": 6.07,
+     "frequency": null,
+     "hours": null
+    },
+    "taxi": {
+     "fareEUR": 69.99,
+     "minutes": 29,
+     "basis": "Rome2Rio typical taxi fare",
+     "capacity": 4
+    }
+   }
+  ],
+  "sources": [
+   "https://www.rome2rio.com/s/Trondheim-Airport-Vaernes/Trondheim-Norway"
+  ],
+  "notes": "Rome2Rio estimates"
+ }
+]

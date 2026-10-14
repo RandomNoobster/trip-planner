@@ -1,0 +1,361 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDZqBRIDVFJEcgUSA1NWUUABSAGYAQI",
+ "fetchedAt": "2026-10-11T12:25:30",
+ "priceUnavailable": 0,
+ "via": "rpc",
+ "itineraries": [
+  {
+   "price": 126.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM and Transavia",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-06",
+   "arrCode": "SVQ",
+   "arrAirportName": "Seville Airport",
+   "arrTime": "18:35",
+   "arrDate": "2026-12-06",
+   "durationMin": 735,
+   "layovers": [
+    {
+     "min": 420,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1150",
+    "HV6731"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 296.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Air France",
+   "operatedBy": "HOP!, KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-06",
+   "arrCode": "SVQ",
+   "arrAirportName": "Seville Airport",
+   "arrTime": "15:45",
+   "arrDate": "2026-12-06",
+   "durationMin": 565,
+   "layovers": [
+    {
+     "min": 105,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    },
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1150",
+    "AF1341",
+    "AF1546"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 506.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": "HOP!, Sas Connect for Scandinavian Airlines, Sas Link for Scandinavian Airlines",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "05:30",
+   "depDate": "2026-12-06",
+   "arrCode": "SVQ",
+   "arrAirportName": "Seville Airport",
+   "arrTime": "15:45",
+   "arrDate": "2026-12-06",
+   "durationMin": 615,
+   "layovers": [
+    {
+     "min": 65,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "code": "CPH",
+     "changeAirport": false
+    },
+    {
+     "min": 170,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK2885",
+    "SK565",
+    "AF1546"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 356.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Wideroe, Lufthansa and Lufthansa City Airlines",
+   "operatedBy": null,
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-06",
+   "arrCode": "SVQ",
+   "arrAirportName": "Seville Airport",
+   "arrTime": "14:35",
+   "arrDate": "2026-12-07",
+   "durationMin": 1765,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    },
+    {
+     "min": 75,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    },
+    {
+     "min": 1095,
+     "overnight": true,
+     "airport": "Munich International Airport",
+     "city": "Munich",
+     "code": "MUC",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "WF1302",
+    "LH873",
+    "LH114",
+    "VL1822"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 356.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Wideroe, Lufthansa and Lufthansa City Airlines",
+   "operatedBy": null,
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-06",
+   "arrCode": "SVQ",
+   "arrAirportName": "Seville Airport",
+   "arrTime": "14:35",
+   "arrDate": "2026-12-07",
+   "durationMin": 1765,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    },
+    {
+     "min": 255,
+     "overnight": true,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    },
+    {
+     "min": 915,
+     "overnight": true,
+     "airport": "Munich International Airport",
+     "city": "Munich",
+     "code": "MUC",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "WF1302",
+    "LH873",
+    "LH122",
+    "VL1822"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 611.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": "HOP!, Sas Link",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "05:30",
+   "depDate": "2026-12-06",
+   "arrCode": "SVQ",
+   "arrAirportName": "Seville Airport",
+   "arrTime": "15:45",
+   "arrDate": "2026-12-06",
+   "durationMin": 615,
+   "layovers": [
+    {
+     "min": 170,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "code": "CPH",
+     "changeAirport": false
+    },
+    {
+     "min": 65,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK2885",
+    "AF1751",
+    "AF1546"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 644.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Tap Air Portugal",
+   "operatedBy": "Portugalia - Companhia Portuguesa, Sas Link for Scandinavian Airlines",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "08:00",
+   "depDate": "2026-12-06",
+   "arrCode": "SVQ",
+   "arrAirportName": "Seville Airport",
+   "arrTime": "23:45",
+   "arrDate": "2026-12-06",
+   "durationMin": 945,
+   "layovers": [
+    {
+     "min": 230,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    },
+    {
+     "min": 320,
+     "overnight": false,
+     "airport": "Humberto Delgado Airport",
+     "city": "Lisbon",
+     "code": "LIS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK347",
+    "TP763",
+    "TP1106"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 718.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air Europa",
+   "operatedBy": "Air Europa Express, Cityjet",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:15",
+   "depDate": "2026-12-06",
+   "arrCode": "SVQ",
+   "arrAirportName": "Seville Airport",
+   "arrTime": "20:30",
+   "arrDate": "2026-12-06",
+   "durationMin": 615,
+   "layovers": [
+    {
+     "min": 150,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "code": "CPH",
+     "changeAirport": false
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Adolfo Suárez Madrid-Barajas Airport",
+     "city": "Madrid",
+     "code": "MAD",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK2889",
+    "SK4303",
+    "UX5053"
+   ],
+   "via": "rpc"
+  }
+ ]
+}

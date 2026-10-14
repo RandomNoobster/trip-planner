@@ -1,0 +1,93 @@
+{
+ "outboundFlights": [
+  {
+   "departureStation": "PLQ",
+   "arrivalStation": "OSL",
+   "departureDate": "2026-12-06T00:00:00",
+   "price": {
+    "amount": 19.99,
+    "currencyCode": "EUR",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "originalPrice": {
+    "amount": 19.99,
+    "currencyCode": "EUR",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "priceType": "price",
+   "departureDates": [
+    "2026-12-06T11:30:00"
+   ],
+   "hasMacFlight": false
+  },
+  {
+   "departureStation": "PLQ",
+   "arrivalStation": "OSL",
+   "departureDate": "2026-12-09T00:00:00",
+   "price": {
+    "amount": 14.99,
+    "currencyCode": "EUR",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "originalPrice": {
+    "amount": 14.99,
+    "currencyCode": "EUR",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "priceType": "price",
+   "departureDates": [
+    "2026-12-09T11:30:00"
+   ],
+   "hasMacFlight": false
+  },
+  {
+   "departureStation": "PLQ",
+   "arrivalStation": "OSL",
+   "departureDate": "2026-12-13T00:00:00",
+   "price": {
+    "amount": 14.99,
+    "currencyCode": "EUR",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "originalPrice": {
+    "amount": 14.99,
+    "currencyCode": "EUR",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "priceType": "price",
+   "departureDates": [
+    "2026-12-13T11:30:00"
+   ],
+   "hasMacFlight": false
+  },
+  {
+   "departureStation": "PLQ",
+   "arrivalStation": "OSL",
+   "departureDate": "2026-12-16T00:00:00",
+   "price": {
+    "amount": 14.99,
+    "currencyCode": "EUR",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "originalPrice": {
+    "amount": 14.99,
+    "currencyCode": "EUR",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "priceType": "price",
+   "departureDates": [
+    "2026-12-16T11:30:00"
+   ],
+   "hasMacFlight": false
+  }
+ ],
+ "returnFlights": null
+}

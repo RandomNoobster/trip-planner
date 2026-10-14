@@ -1,0 +1,31 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDZqBRIDVFJEcgUSA1BPWkABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 163.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Poznań Airport",
+   "arrTime": "13:40",
+   "arrDate": "2026-12-06",
+   "durationMin": 440,
+   "layovers": [
+    {
+     "min": 210,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMTUyAktMMgJBRmoFEgNTS1ByBRIDVFJEQAFIAZgBAg",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 243.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air Serbia and KLM",
+   "operatedBy": null,
+   "depAirportName": "Skopje International Airport",
+   "depTime": "04:00",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-15",
+   "durationMin": 1150,
+   "layovers": [
+    {
+     "min": 445,
+     "airport": "Belgrade Nikola Tesla Airport",
+     "city": "Belgrade",
+     "overnight": false
+    },
+    {
+     "min": 350,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTJqBRIDSEVMcgUSA0FMQ0ABSAGYAQI",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 110.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Helsinki Airport",
+   "depTime": "12:00",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "arrTime": "15:25",
+   "arrDate": "2026-12-12",
+   "durationMin": 265,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 110 euros.This price does not include overhead bin access. Nonstop flight with Norwegian. Leaves Helsinki Airport at 12:00 PM on Saturday, December 12 and arrives at Alicante-Elche Miguel Hernández Airport at 3:25 PM on Saturday, December 12. Total duration 4 hr 25 min.   Select flight"
+  },
+  {
+   "price": 133.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM and Transavia",
+   "operatedBy": null,
+   "depAirportName": "Helsinki Airport",
+   "depTime": "06:40",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "arrTime": "19:50",
+   "arrDate": "2026-12-12",
+   "durationMin": 850,
+   "layovers": [
+    {
+     "min": 520,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 133 euros. 1 stop flight with KLM and Transavia. Leaves Helsinki Airport at 6:40 AM on Saturday, December 12 and arrives at Alicante-Elche Miguel Hernández Airport at 7:50 PM on Saturday, December 12. Total duration 14 hr 10 min.  Layover (1 of 1) is a 8 hr 40 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 147.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM and Transavia",
+   "operatedBy": null,
+   "depAirportName": "Helsinki Airport",
+   "depTime": "14:05",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "arrTime": "19:50",
+   "arrDate": "2026-12-12",
+   "durationMin": 405,
+   "layovers": [
+    {
+     "min": 90,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 147 euros. 1 stop flight with KLM and Transavia. Leaves Helsinki Airport at 2:05 PM on Saturday, December 12 and arrives at Alicante-Elche Miguel Hernández Airport at 7:50 PM on Saturday, December 12. Total duration 6 hr 45 min.  Layover (1 of 1) is a 1 hr 30 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 191.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa and Lufthansa City Airlines",
+   "operatedBy": null,
+   "depAirportName": "Helsinki Airport",
+   "depTime": "12:35",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "arrTime": "17:45",
+   "arrDate": "2026-12-12",
+   "durationMin": 370,
+   "layovers": [
+    {
+     "min": 50,
+     "overnight": false,
+     "airport": "Munich International Airport",
+     "city": "Munich"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 191 euros. 1 stop flight with Lufthansa and Lufthansa City Airlines. Leaves Helsinki Airport at 12:35 PM on Saturday, December 12 and arrives at Alicante-Elche Miguel Hernández Airport at 5:45 PM on Saturday, December 12. Total duration 6 hr 10 min.  Layover (1 of 1) is a 50 min layover at Munich International Airport in Munich. Select flight"
+  }
+ ]
+}

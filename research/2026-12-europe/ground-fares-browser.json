@@ -1,0 +1,753 @@
+[
+ {
+  "from": "PRG",
+  "to": "BER",
+  "legId": null,
+  "mode": "train",
+  "operator": "Ceske drahy railjet (also sold by DB)",
+  "service": "Direct railjet, about every 2 h, 3 h 58",
+  "durationMin": 238,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-12": 17.36
+   },
+   "text": "CZK 423 on the 06:31 rj 384 (Sat 12 Dec); other trains CZK 722-872",
+   "url": "https://www.cd.cz/en/spojeni-a-jizdenka/"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "cd.cz, checked in the browser on 12 Oct 2026, adult 2nd class, cheapest fare shown."
+ },
+ {
+  "from": "BER",
+  "to": "PRG",
+  "legId": null,
+  "mode": "train",
+  "operator": "Ceske drahy railjet (also sold by DB)",
+  "service": "Direct railjet, about every 2 h, about 4 h",
+  "durationMin": 243,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-12": 17.36
+   },
+   "text": "CZK 423 on the 19:28 rj 179 (arr. 23:31); daytime trains (07:28, 09:28) CZK 722",
+   "url": "https://www.cd.cz/en/spojeni-a-jizdenka/"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "cd.cz, checked in the browser on 12 Oct 2026, adult 2nd class, cheapest fare shown."
+ },
+ {
+  "from": "PRG",
+  "to": "HAM",
+  "legId": null,
+  "mode": "train",
+  "operator": "Ceske drahy railjet (also sold by DB)",
+  "service": "Direct railjet via Dresden and Berlin, 5 h 53",
+  "durationMin": 353,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-11": 26.55
+   },
+   "text": "CZK 647 on the 06:31 rj 384 (Fri 11 Dec); next cheapest CZK 971 at 16:31",
+   "url": "https://www.cd.cz/en/spojeni-a-jizdenka/"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "cd.cz, checked in the browser on 12 Oct 2026, adult 2nd class, cheapest fare shown."
+ },
+ {
+  "from": "HAM",
+  "to": "BTS",
+  "legId": null,
+  "mode": "train",
+  "operator": "Ceske drahy, two tickets via Prague",
+  "service": "Hamburg 05:34 - Prague 11:25 (railjet), Prague 12:37 - Bratislava 17:07",
+  "durationMin": 693,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-10": 57.74,
+    "2026-12-12": 57.74
+   },
+   "text": "Two tickets: Hamburg-Prague CZK 971 + Prague-Bratislava CZK 436 (10 and 12 Dec); a through ticket costs CZK 6,947",
+   "url": "https://www.cd.cz/en/spojeni-a-jizdenka/"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "cd.cz, checked in the browser on 12 Oct 2026, adult 2nd class, cheapest fare shown. Through tickets Germany-Slovakia are full fare only, so the Hamburg-Prague promo fare plus a separate Prague-Bratislava ticket is the cheapest found (bahn.de could not be checked: it blocks automated browsers)."
+ },
+ {
+  "from": "BER",
+  "to": "BUD",
+  "legId": null,
+  "mode": "train",
+  "operator": "Ceske drahy, two tickets via Prague",
+  "service": "Berlin 07:28 - Prague 11:25, Prague 13:37 - Budapest-Keleti 21:35 (via Bratislava)",
+  "durationMin": 847,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-12": 60.28
+   },
+   "text": "Two tickets: Berlin-Prague CZK 722 + Prague-Budapest CZK 747 (Sat 12 Dec); a through ticket costs CZK 5,822",
+   "url": "https://www.cd.cz/en/spojeni-a-jizdenka/"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "cd.cz, checked in the browser on 12 Oct 2026, adult 2nd class, cheapest fare shown. DB's Sparpreis Europa may be cheaper, but bahn.de blocks automated browsers."
+ },
+ {
+  "from": "HAM",
+  "to": "VIE",
+  "legId": null,
+  "mode": "train",
+  "operator": "Ceske drahy, two tickets via Prague",
+  "service": "Hamburg 07:33 - Prague 13:25, Prague 14:37 - Wien Hbf 18:49",
+  "durationMin": 676,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-12": 63.36
+   },
+   "text": "Two tickets: Hamburg-Prague CZK 971 + Prague-Vienna CZK 573 (Sat 12 Dec); Prague-Vienna from CZK 461 on other trains",
+   "url": "https://www.cd.cz/en/spojeni-a-jizdenka/"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "cd.cz, checked in the browser on 12 Oct 2026, adult 2nd class, cheapest fare shown. ÖBB's Nightjet could not be checked (its shop asks for a human check)."
+ },
+ {
+  "from": "ZRH",
+  "to": "VIE",
+  "legId": null,
+  "mode": "train",
+  "operator": "SBB / ÖBB",
+  "service": "16:07 ICE via Munich, arr. 00:35 (also 20:40 EuroNight seat, arr. 06:58)",
+  "durationMin": 508,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-12": 46.17
+   },
+   "text": "Supersaver CHF 43 (16:07 and 20:40); daytime CHF 56 (14:07), direct railjet CHF 64 (10:02)",
+   "url": "https://www.sbb.ch/en"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "sbb.ch, checked in the browser on 12 Oct 2026, adult 2nd class, cheapest fare shown."
+ },
+ {
+  "from": "VIE",
+  "to": "BUD",
+  "legId": null,
+  "mode": "train",
+  "operator": "ÖBB / MÁV railjet",
+  "service": "Direct railjet, 2 h 49",
+  "durationMin": 169,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-12": 13.0
+   },
+   "text": "MÁV Start Europa EUR 13 on the 06:40 railjet; EUR 17 at 07:40",
+   "url": "https://jegy.mav.hu/"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "jegy.mav.hu, checked in the browser on 12 Oct 2026, adult 2nd class, cheapest fare shown."
+ },
+ {
+  "from": "BUD",
+  "to": "VIE",
+  "legId": null,
+  "mode": "train",
+  "operator": "MÁV / ÖBB railjet",
+  "service": "Direct railjet, 2 h 50",
+  "durationMin": 170,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-12": 13.0
+   },
+   "text": "MÁV Start Europa EUR 13 at 12:30 and 14:25; EUR 15-21 on other trains",
+   "url": "https://jegy.mav.hu/"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "jegy.mav.hu, checked in the browser on 12 Oct 2026, adult 2nd class, cheapest fare shown."
+ },
+ {
+  "from": "BUD",
+  "to": "WAW",
+  "legId": "r2r-BUD-WAW-Train",
+  "mode": "train",
+  "operator": "MÁV / PKP Intercity EuroCity",
+  "service": "Direct EC 07:37 - 19:12",
+  "durationMin": 695,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-12": 40.0
+   },
+   "text": "MÁV Start Europa EUR 40 on the direct 07:37 EC; other trains EUR 40-120",
+   "url": "https://jegy.mav.hu/"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "jegy.mav.hu, checked in the browser on 12 Oct 2026, adult 2nd class, cheapest fare shown."
+ },
+ {
+  "from": "BUD",
+  "to": "WRO",
+  "legId": "r2r-BUD-WRO-Train",
+  "mode": "train",
+  "operator": "MÁV / CD / PKP Intercity",
+  "service": "08:55 - 18:46, one change (or 04:55 - 13:27, two changes)",
+  "durationMin": 591,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-11": 32.0
+   },
+   "text": "MÁV Start Europa EUR 32 (Fri 11 Dec)",
+   "url": "https://jegy.mav.hu/"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "jegy.mav.hu, checked in the browser on 12 Oct 2026, adult 2nd class, cheapest fare shown."
+ },
+ {
+  "from": "WRO",
+  "to": "BUD",
+  "legId": "r2r-WRO-BUD-Train",
+  "mode": "train",
+  "operator": "PKP Intercity / CD / MÁV",
+  "service": "06:27 - 15:03 (Budapest-Nyugati), two changes",
+  "durationMin": 516,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-12": 32.0
+   },
+   "text": "MÁV Start Europa EUR 32 (Sat 12 Dec; also EUR 32 on 11 Dec)",
+   "url": "https://jegy.mav.hu/"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "jegy.mav.hu, checked in the browser on 12 Oct 2026, adult 2nd class, cheapest fare shown."
+ },
+ {
+  "from": "BEG",
+  "to": "BTS",
+  "legId": "r2r-BEG-BTS-Train",
+  "mode": "train",
+  "operator": "Srbijavoz / MÁV, two tickets via Budapest",
+  "service": "Belgrade 06:00 - Budapest-Zuglo 12:20, Budapest-Keleti 14:55 - Bratislava 17:55",
+  "durationMin": 715,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-12": 42.0
+   },
+   "text": "Two MÁV tickets: Belgrade-Budapest EUR 28 + Budapest-Bratislava EUR 14 (Sat 12 Dec)",
+   "url": "https://jegy.mav.hu/"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "jegy.mav.hu, checked in the browser on 12 Oct 2026, adult 2nd class, cheapest fare shown. MÁV does not sell trips with both ends outside Hungary, hence two tickets."
+ },
+ {
+  "from": "SVQ",
+  "to": "MAD",
+  "legId": null,
+  "mode": "train",
+  "operator": "Renfe (AVE / Avlo)",
+  "service": "High-speed, about 2 h 30",
+  "durationMin": 156,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-04": 29.0,
+    "2026-12-05": 19.0,
+    "2026-12-06": 25.0,
+    "2026-12-07": 26.0,
+    "2026-12-08": 41.0,
+    "2026-12-09": 15.0,
+    "2026-12-10": 15.0,
+    "2026-12-11": 15.0,
+    "2026-12-12": 9.0,
+    "2026-12-13": 25.0,
+    "2026-12-14": 15.0,
+    "2026-12-15": 7.0,
+    "2026-12-16": 7.0,
+    "2026-12-17": 9.0,
+    "2026-12-18": 15.0
+   },
+   "text": "Renfe's lowest fare of each day from its fare calendar, e.g. EUR 15 on 9 Dec, EUR 25 on 13 Dec (iryo and Ouigo not checked)",
+   "url": "https://www.renfe.com/es/en"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "renfe.com fare calendar, checked in the browser on 12 Oct 2026, adult 2nd class, cheapest fare shown."
+ },
+ {
+  "from": "VLC",
+  "to": "MAD",
+  "legId": "r2r-VLC-MAD-Train",
+  "mode": "train",
+  "operator": "Renfe (AVE / Avlo)",
+  "service": "High-speed, about 1 h 50",
+  "durationMin": 112,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-04": 19.0,
+    "2026-12-05": 25.0,
+    "2026-12-06": 25.0,
+    "2026-12-07": 33.0,
+    "2026-12-08": 25.0,
+    "2026-12-09": 15.0,
+    "2026-12-10": 19.0,
+    "2026-12-11": 15.0,
+    "2026-12-12": 19.0,
+    "2026-12-13": 19.0,
+    "2026-12-14": 21.0,
+    "2026-12-15": 7.0,
+    "2026-12-16": 15.0,
+    "2026-12-17": 15.0,
+    "2026-12-18": 19.0
+   },
+   "text": "Renfe's lowest fare of each day from its fare calendar, e.g. EUR 19 on 13 Dec (iryo and Ouigo not checked)",
+   "url": "https://www.renfe.com/es/en"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "renfe.com fare calendar, checked in the browser on 12 Oct 2026, adult 2nd class, cheapest fare shown."
+ },
+ {
+  "from": "LON",
+  "to": "BRU",
+  "legId": null,
+  "mode": "train",
+  "operator": "Eurostar",
+  "service": "Direct, about 2 h",
+  "durationMin": 121,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-07": 102.64,
+    "2026-12-08": 60.17,
+    "2026-12-09": 60.17,
+    "2026-12-10": 88.48,
+    "2026-12-11": 115.62
+   },
+   "text": "Eurostar Standard GBP 51 on 9 Dec (19:34; GBP 57 at 06:16 and 07:04), GBP 98 on 11 Dec",
+   "url": "https://www.eurostar.com/uk-en"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "eurostar.com, checked in the browser on 12 Oct 2026, adult 2nd class, cheapest fare shown."
+ },
+ {
+  "from": "BRU",
+  "to": "LON",
+  "legId": null,
+  "mode": "train",
+  "operator": "Eurostar",
+  "service": "Direct, about 2 h",
+  "durationMin": 121,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-09": 64.89,
+    "2026-12-10": 100.28,
+    "2026-12-11": 136.26,
+    "2026-12-12": 123.87,
+    "2026-12-13": 136.26
+   },
+   "text": "Eurostar Standard from GBP 115.50 on Fri 11 Dec, GBP 55 on Wed 9 Dec (lowest of each day)",
+   "url": "https://www.eurostar.com/uk-en"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "eurostar.com, checked in the browser on 12 Oct 2026, adult 2nd class, cheapest fare shown."
+ },
+ {
+  "from": "STO",
+  "to": "CPH",
+  "legId": "r2r-STO-CPH-Train",
+  "mode": "train",
+  "operator": "SJ / Snälltåget + Öresundståg",
+  "service": "16:25 - 22:44, one change (06:20 - 11:58 for SEK 485)",
+  "durationMin": 379,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-12": 42.98
+   },
+   "text": "SEK 480 (16:25) or SEK 485 (06:20) on Sat 12 Dec; other trains SEK 608-1,014",
+   "url": "https://www.sj.se/en"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "sj.se, checked in the browser on 12 Oct 2026, adult 2nd class, cheapest fare shown."
+ },
+ {
+  "from": "RIX",
+  "to": "VNO",
+  "legId": "r2r-RIX-VNO-Train",
+  "mode": "train",
+  "operator": "LTG Link",
+  "service": "One direct train a day, 16:55 - 21:28",
+  "durationMin": 273,
+  "overnight": false,
+  "fare": {
+   "type": "fixed",
+   "eur": 24.0,
+   "url": "https://ltglink.lt/en",
+   "text": "EUR 24.00 2nd class (EUR 34 1st), a fixed fare; checked for 13 Nov because December is not on sale yet"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "ltglink.lt, checked in the browser on 12 Oct 2026."
+ },
+ {
+  "from": "RIX",
+  "to": "TLL",
+  "legId": "r2r-RIX-TLL-Train",
+  "mode": "train",
+  "operator": "Elron (direct Riga - Tallinn)",
+  "service": "Direct Elron train via Valga and Tartu, 07:30 - 14:06",
+  "durationMin": 396,
+  "overnight": false,
+  "fare": {
+   "type": "fixed",
+   "eur": 29.0,
+   "url": "https://elron.pilet.ee/en",
+   "text": "EUR 29.00 (07:30) or EUR 30.70 (09:30, 11:53), fixed fares; checked for 23 Oct because Elron sells about two weeks ahead"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "elron.pilet.ee, checked in the browser on 12 Oct 2026."
+ },
+ {
+  "from": "VIE",
+  "to": "SZG",
+  "legId": null,
+  "mode": "train",
+  "operator": "WESTbahn",
+  "service": "Direct from Wien Westbahnhof, 2 h 30",
+  "durationMin": 150,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-08": 13.99,
+    "2026-12-09": 18.99,
+    "2026-12-10": 13.99,
+    "2026-12-11": 13.99,
+    "2026-12-12": 13.99,
+    "2026-12-13": 13.99,
+    "2026-12-14": 13.99,
+    "2026-12-15": 13.99,
+    "2026-12-16": 13.99
+   },
+   "text": "WESTbahn from EUR 13.99 on Sat 12 Dec, lowest of each day 8-16 Dec (from Wien Westbahnhof, not Wien Hbf)",
+   "url": "https://westbahn.at/en/ticket-shop/buy-tickets/"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "westbahn.at, checked in the browser on 12 Oct 2026, adult 2nd class, cheapest fare shown."
+ },
+ {
+  "from": "BTS",
+  "to": "SZG",
+  "legId": "r2r-BTS-SZG-Train",
+  "mode": "train",
+  "operator": "ÖBB regional + WESTbahn, two tickets via Vienna",
+  "service": "Bratislava - Wien Hbf (1 h), U-Bahn to Westbahnhof, WESTbahn to Salzburg (2 h 30)",
+  "durationMin": 240,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-08": 26.69,
+    "2026-12-09": 31.69,
+    "2026-12-10": 26.69,
+    "2026-12-11": 26.69,
+    "2026-12-12": 26.69,
+    "2026-12-13": 26.69,
+    "2026-12-14": 26.69,
+    "2026-12-15": 26.69,
+    "2026-12-16": 26.69
+   },
+   "text": "Bratislava-Vienna EUR 12.70 (fixed regional fare) + WESTbahn Vienna-Salzburg EUR 13.99 (Sat 12 Dec)",
+   "url": "https://westbahn.at/en/ticket-shop/buy-tickets/"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "westbahn.at, checked in the browser on 12 Oct 2026, adult 2nd class, cheapest fare shown."
+ },
+ {
+  "from": "MUC",
+  "to": "VIE",
+  "legId": null,
+  "mode": "train",
+  "operator": "WESTbahn",
+  "service": "Direct, about 4 h 20",
+  "durationMin": 260,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-08": 38.99,
+    "2026-12-09": 28.99,
+    "2026-12-10": 38.99,
+    "2026-12-11": 68.99,
+    "2026-12-12": 23.99,
+    "2026-12-13": 38.99,
+    "2026-12-14": 28.99,
+    "2026-12-15": 23.99,
+    "2026-12-16": 28.99
+   },
+   "text": "WESTbahn lowest fare of each day 8-16 Dec, EUR 23.99 on Sat 12 Dec (to Wien Westbahnhof)",
+   "url": "https://westbahn.at/en/ticket-shop/buy-tickets/"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "westbahn.at, checked in the browser on 12 Oct 2026, adult 2nd class, cheapest fare shown."
+ },
+ {
+  "from": "VIE",
+  "to": "MUC",
+  "legId": null,
+  "mode": "train",
+  "operator": "WESTbahn",
+  "service": "Direct 06:08 - 10:33",
+  "durationMin": 265,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-08": 23.99,
+    "2026-12-09": 28.99,
+    "2026-12-10": 28.99,
+    "2026-12-11": 33.99,
+    "2026-12-12": 33.99,
+    "2026-12-13": 33.99,
+    "2026-12-14": 28.99,
+    "2026-12-15": 33.99,
+    "2026-12-16": 33.99
+   },
+   "text": "WESTbahn lowest fare of each day 8-16 Dec, EUR 33.99 on Sat 12 Dec (from Wien Westbahnhof)",
+   "url": "https://westbahn.at/en/ticket-shop/buy-tickets/"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "westbahn.at, checked in the browser on 12 Oct 2026, adult 2nd class, cheapest fare shown."
+ },
+ {
+  "from": "POZ",
+  "to": "VNO",
+  "legId": null,
+  "mode": "bus",
+  "operator": "FlixBus",
+  "service": "Coach with one change, 13-18 h",
+  "durationMin": 845,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-10": 38.98,
+    "2026-12-11": 39.98,
+    "2026-12-12": 40.98,
+    "2026-12-13": 37.98,
+    "2026-12-14": 35.48,
+    "2026-12-15": 35.98
+   },
+   "text": "FlixBus's own search for each travel date",
+   "url": "https://www.flixbus.com/bus-routes/bus-poznan-vilnius"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "FlixBus search API (the operator's), 12 Oct 2026."
+ },
+ {
+  "from": "VNO",
+  "to": "POZ",
+  "legId": null,
+  "mode": "bus",
+  "operator": "FlixBus",
+  "service": "Coach with one change, 13-19 h",
+  "durationMin": 800,
+  "overnight": false,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-10": 37.97,
+    "2026-12-11": 37.97,
+    "2026-12-12": 38.47,
+    "2026-12-13": 37.97,
+    "2026-12-14": 37.97,
+    "2026-12-15": 37.48
+   },
+   "text": "FlixBus's own search for each travel date",
+   "url": "https://www.flixbus.com/bus-routes/bus-poznan-vilnius"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "FlixBus search API (the operator's), 12 Oct 2026."
+ },
+ {
+  "from": "HEL",
+  "to": "STO",
+  "legId": null,
+  "mode": "ferry",
+  "operator": "Tallink Silja (ferry)",
+  "service": "Overnight 16:45 - 10:00 next day, cabin for up to 4",
+  "durationMin": 1095,
+  "overnight": true,
+  "fare": {
+   "type": "cabin",
+   "url": "https://booking.tallink.com/",
+   "byDate": {
+    "2026-12-10": {
+     "cabinEUR": 99.0,
+     "perPersonEUR": 16.9,
+     "berths": 4,
+     "cabinName": "C-Economy inside cabin"
+    },
+    "2026-12-12": {
+     "cabinEUR": 99.0,
+     "perPersonEUR": 16.9,
+     "berths": 4,
+     "cabinName": "cheapest cabin (departure list)"
+    },
+    "2026-12-13": {
+     "cabinEUR": 119.0,
+     "perPersonEUR": 16.9,
+     "berths": 4,
+     "cabinName": "B-Standard inside cabin"
+    }
+   },
+   "text": "Cabin price plus EUR 16.90 fuel surcharge per person: EUR 166.60 for four in one C-Economy cabin on 10 Dec; the cheapest left on 13 Dec is a B-Standard cabin (EUR 119)"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "booking.tallink.com, checked in the browser on 12 Oct 2026."
+ },
+ {
+  "from": "TLL",
+  "to": "STO",
+  "legId": null,
+  "mode": "ferry",
+  "operator": "Tallink (ferry)",
+  "service": "Overnight 18:00 - 10:30 next day on direct days; on 13 Dec via Helsinki (07:30 ferry, then Silja 16:45)",
+  "durationMin": 1050,
+  "overnight": true,
+  "fare": {
+   "type": "cabin",
+   "url": "https://booking.tallink.com/",
+   "byDate": {
+    "2026-12-10": {
+     "cabinEUR": 109.0,
+     "perPersonEUR": 18.8,
+     "berths": 4,
+     "cabinName": "E-Economy Lite cabin"
+    },
+    "2026-12-12": {
+     "cabinEUR": 119.0,
+     "perPersonEUR": 18.8,
+     "berths": 4,
+     "cabinName": "cheapest cabin (departure list)"
+    },
+    "2026-12-13": {
+     "cabinEUR": 119.0,
+     "perPersonEUR": 41.8,
+     "berths": 4,
+     "cabinName": "B-Standard inside cabin, via Helsinki"
+    }
+   },
+   "text": "10 Dec: cabin EUR 109 + EUR 18.80 surcharge per person (EUR 184.20 for four). 13 Dec has no direct sailing: Tallinn-Helsinki EUR 24.90 pp, then Helsinki-Stockholm cabin EUR 119 + EUR 16.90 pp"
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "booking.tallink.com, checked in the browser on 12 Oct 2026."
+ },
+ {
+  "from": "ROM",
+  "to": "TUN",
+  "legId": null,
+  "mode": "ferry",
+  "operator": "Grandi Navi Veloci (ferry)",
+  "service": "Weekly Friday sailing Civitavecchia - Tunis (regional train Rome - Civitavecchia first)",
+  "durationMin": 1490,
+  "overnight": true,
+  "fare": {
+   "type": "per-date",
+   "byDate": {
+    "2026-12-04": 62.0,
+    "2026-12-11": 62.0,
+    "2026-12-18": 90.0,
+    "2026-12-25": 79.0
+   },
+   "text": "GNV seat from EUR 62 (4 and 11 Dec), EUR 90 (18 Dec), EUR 79 (25 Dec); no other December sailings. The regional train to Civitavecchia (about EUR 5) is extra",
+   "url": "https://www.gnv.it/en/departures-calendar",
+   "onlyDates": true
+  },
+  "confidence": "high",
+  "checkedAt": "2026-10-12",
+  "checkedIn": "browser",
+  "notes": "gnv.it departures calendar, checked in the browser on 12 Oct 2026."
+ }
+]

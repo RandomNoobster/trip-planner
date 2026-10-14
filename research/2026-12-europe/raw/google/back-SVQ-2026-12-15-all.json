@@ -1,0 +1,94 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTVqBRIDU1ZRcgUSA1RSREABSAGYAQI",
+ "fetchedAt": "2026-10-11T12:26:21",
+ "priceUnavailable": 0,
+ "via": "rpc",
+ "itineraries": [
+  {
+   "price": 264.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depCode": "SVQ",
+   "depAirportName": "Seville Airport",
+   "depTime": "13:20",
+   "depDate": "2026-12-15",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-16",
+   "durationMin": 1530,
+   "layovers": [
+    {
+     "min": 1075,
+     "overnight": true,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "LH1141",
+    "LH872",
+    "WF1311"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 414.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Tap Air Portugal and Scandinavian Airlines",
+   "operatedBy": "Portugalia - Companhia Portuguesa",
+   "depCode": "SVQ",
+   "depAirportName": "Seville Airport",
+   "depTime": "10:00",
+   "depDate": "2026-12-15",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "20:30",
+   "arrDate": "2026-12-15",
+   "durationMin": 630,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Humberto Delgado Airport",
+     "city": "Lisbon",
+     "code": "LIS",
+     "changeAirport": false
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "TP1103",
+    "TP764",
+    "SK370"
+   ],
+   "via": "rpc"
+  }
+ ]
+}

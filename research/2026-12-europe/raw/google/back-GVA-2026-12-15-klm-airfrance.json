@@ -1,0 +1,62 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMTUyAktMMgJBRmoFEgNHVkFyBRIDVFJEQAFIAZgBAg",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 156.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Geneva Airport",
+   "depTime": "11:50",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-15",
+   "durationMin": 285,
+   "layovers": [
+    {
+     "min": 50,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 226.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air France and KLM",
+   "operatedBy": null,
+   "depAirportName": "Geneva Airport",
+   "depTime": "09:20",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-15",
+   "durationMin": 435,
+   "layovers": [
+    {
+     "min": 60,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    },
+    {
+     "min": 75,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

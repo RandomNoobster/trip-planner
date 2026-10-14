@@ -1,0 +1,43 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GjYSCjIwMjYtMTItMDcyAkxIMgJMWDICT1MyAlNOMgJFVzICNFkyAldGagUSA1RSRHIFEgNPVFBAAUgBmAEC",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 310.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Wideroe and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Bucharest Henri Coandă International Air",
+   "arrTime": "01:00",
+   "arrDate": "2026-12-08",
+   "durationMin": 890,
+   "layovers": [
+    {
+     "min": 155,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    },
+    {
+     "min": 75,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    },
+    {
+     "min": 290,
+     "airport": "Munich International Airport",
+     "city": "Munich",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

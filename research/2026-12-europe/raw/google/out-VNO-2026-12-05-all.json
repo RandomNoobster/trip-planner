@@ -1,0 +1,118 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA1ZOT0ABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 150.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Finnair",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "16:45",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "08:55",
+   "arrDate": "2026-12-06",
+   "durationMin": 910,
+   "layovers": [
+    {
+     "min": 185,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    },
+    {
+     "min": 480,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 202.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "13:05",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "23:50",
+   "arrDate": "2026-12-05",
+   "durationMin": 585,
+   "layovers": [
+    {
+     "min": 150,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    },
+    {
+     "min": 115,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 251.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM and Air Baltic",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "13:20",
+   "arrDate": "2026-12-05",
+   "durationMin": 360,
+   "layovers": [
+    {
+     "min": 90,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 3562.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:15",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "15:15",
+   "arrDate": "2026-12-05",
+   "durationMin": 240,
+   "layovers": [
+    {
+     "min": 55,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

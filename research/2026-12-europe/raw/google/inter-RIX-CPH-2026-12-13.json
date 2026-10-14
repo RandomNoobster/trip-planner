@@ -1,0 +1,117 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDUklYcgUSA0NQSEABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 48.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Riga Airport",
+   "depTime": "11:00",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "11:25",
+   "arrDate": "2026-12-13",
+   "durationMin": 85,
+   "layovers": [],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 77.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 0,
+   "airlines": "Air Baltic",
+   "operatedBy": null,
+   "depAirportName": "Riga Airport",
+   "depTime": "19:00",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "19:30",
+   "arrDate": "2026-12-13",
+   "durationMin": 90,
+   "layovers": [],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 124.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Finnair",
+   "operatedBy": null,
+   "depAirportName": "Riga Airport",
+   "depTime": "18:10",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "23:55",
+   "arrDate": "2026-12-13",
+   "durationMin": 405,
+   "layovers": [
+    {
+     "min": 230,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 148.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Air Baltic and KLM",
+   "operatedBy": null,
+   "depAirportName": "Riga Airport",
+   "depTime": "11:50",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "16:40",
+   "arrDate": "2026-12-13",
+   "durationMin": 350,
+   "layovers": [
+    {
+     "min": 130,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 179.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "Riga Airport",
+   "depTime": "13:50",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "19:05",
+   "arrDate": "2026-12-13",
+   "durationMin": 375,
+   "layovers": [
+    {
+     "min": 200,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

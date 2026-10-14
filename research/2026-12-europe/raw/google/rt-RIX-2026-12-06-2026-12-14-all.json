@@ -1,0 +1,59 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDZqBRIDVFJEcgUSA1JJWBoaEgoyMDI2LTEyLTE0agUSA1JJWHIFEgNUUkRAAUgBmAEB",
+ "fetchedAt": "2026-10-11T11:20:24",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 224.0,
+   "roundTripTotal": true,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:40",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Riga Airport",
+   "arrTime": "23:00",
+   "arrDate": "2026-12-06",
+   "durationMin": 260,
+   "layovers": [
+    {
+     "min": 115,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 224 euros round trip total.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 5:40 PM on Sunday, December 6 and arrives at Riga Airport at 11:00 PM on Sunday, December 6. Total duration 4 hr 20 min.  Layover (1 of 1) is a 1 hr 55 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 238.0,
+   "roundTripTotal": true,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "18:20",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Riga Airport",
+   "arrTime": "23:00",
+   "arrDate": "2026-12-06",
+   "durationMin": 220,
+   "layovers": [
+    {
+     "min": 75,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 238 euros round trip total.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 6:20 PM on Sunday, December 6 and arrives at Riga Airport at 11:00 PM on Sunday, December 6. Total duration 3 hr 40 min.  Layover (1 of 1) is a 1 hr 15 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

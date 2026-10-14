@@ -1,0 +1,39 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GjYSCjIwMjYtMTItMDcyAkxIMgJMWDICT1MyAlNOMgJFVzICNFkyAldGagUSA1RSRHIFEgNSRUtAAUgBmAEC",
+ "fetchedAt": "2026-10-11T11:30:03",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 424.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe, Lufthansa and Discover Airlines",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Keflavík International Airport",
+   "arrTime": "14:25",
+   "arrDate": "2026-12-08",
+   "durationMin": 1815,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    },
+    {
+     "min": 1235,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 424 euros. 2 stops flight with Wideroe, Lufthansa and Discover Airlines. Leaves Trondheim Airport, Værnes at 9:10 AM on Monday, December 7 and arrives at Keflavík International Airport at 2:25 PM on Tuesday, December 8. Total duration 30 hr 15 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 20 hr 35 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  }
+ ]
+}

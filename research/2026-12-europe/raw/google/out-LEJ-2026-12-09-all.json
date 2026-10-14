@@ -1,0 +1,180 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA0xFSkABSAGYAQI",
+ "fetchedAt": "2026-10-11T12:18:56",
+ "priceUnavailable": 0,
+ "via": "rpc",
+ "itineraries": [
+  {
+   "price": 217.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Austrian",
+   "operatedBy": "Sas Link",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:40",
+   "depDate": "2026-12-09",
+   "arrCode": "LEJ",
+   "arrAirportName": "Leipzig/Halle Airport",
+   "arrTime": "18:30",
+   "arrDate": "2026-12-09",
+   "durationMin": 470,
+   "layovers": [
+    {
+     "min": 160,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    },
+    {
+     "min": 40,
+     "overnight": false,
+     "airport": "Vienna International Airport",
+     "city": "Vienna",
+     "code": "VIE",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK351",
+    "OS978",
+    "OS285"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 358.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Lufthansa",
+   "operatedBy": null,
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-09",
+   "arrCode": "LEJ",
+   "arrAirportName": "Leipzig/Halle Airport",
+   "arrTime": "09:45",
+   "arrDate": "2026-12-10",
+   "durationMin": 1475,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    },
+    {
+     "min": 1065,
+     "overnight": true,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "WF1302",
+    "LH873",
+    "LH152"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 389.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Lufthansa",
+   "operatedBy": null,
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-09",
+   "arrCode": "LEJ",
+   "arrAirportName": "Leipzig/Halle Airport",
+   "arrTime": "23:15",
+   "arrDate": "2026-12-09",
+   "durationMin": 845,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    },
+    {
+     "min": 435,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "WF1302",
+    "LH873",
+    "LH158"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 447.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Lufthansa",
+   "operatedBy": null,
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-09",
+   "arrCode": "LEJ",
+   "arrAirportName": "Leipzig/Halle Airport",
+   "arrTime": "18:00",
+   "arrDate": "2026-12-09",
+   "durationMin": 530,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    },
+    {
+     "min": 120,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "WF1302",
+    "LH873",
+    "LH156"
+   ],
+   "via": "rpc"
+  }
+ ]
+}

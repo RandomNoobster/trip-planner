@@ -1,0 +1,59 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMTUyAkRZMgJEOGoFEgNWTk9yBRIDVFJEQAFIAZgBAg",
+ "fetchedAt": "2026-10-11T11:20:39",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 93.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": "Norwegian, Norwegian",
+   "depAirportName": "Vilnius International Airport",
+   "depTime": "13:10",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "17:55",
+   "arrDate": "2026-12-15",
+   "durationMin": 345,
+   "layovers": [
+    {
+     "min": 180,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 93 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian, Norwegian. Leaves Vilnius International Airport at 1:10 PM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 5:55 PM on Tuesday, December 15. Total duration 5 hr 45 min.  Layover (1 of 1) is a 3 hr layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 110.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": "Norwegian, Norwegian",
+   "depAirportName": "Vilnius International Airport",
+   "depTime": "13:10",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "17:15",
+   "arrDate": "2026-12-15",
+   "durationMin": 305,
+   "layovers": [
+    {
+     "min": 140,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 110 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian, Norwegian. Leaves Vilnius International Airport at 1:10 PM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 5:15 PM on Tuesday, December 15. Total duration 5 hr 5 min.  Layover (1 of 1) is a 2 hr 20 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

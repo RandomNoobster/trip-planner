@@ -1,0 +1,34 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTVqBRIDQVlUcgUSA1RSREABSAGYAQI",
+ "fetchedAt": "2026-10-12T13:14:53",
+ "priceUnavailable": 0,
+ "via": "html",
+ "itineraries": [
+  {
+   "price": 161.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Antalya Airport",
+   "depTime": "13:50",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "18:45",
+   "arrDate": "2026-12-15",
+   "durationMin": 415,
+   "layovers": [
+    {
+     "min": 100,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 161 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Antalya Airport at 1:50 PM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 6:45 PM on Tuesday, December 15. Total duration 6 hr 55 min.  Layover (1 of 1) is a 1 hr 40 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMDcyAkRZMgJEOGoFEgNUUkRyBRIDS1JLGiISCjIwMjYtMTItMTUyAkRZMgJEOGoFEgNLUktyBRIDVFJEQAFIAZgBAQ",
+ "fetchedAt": "2026-10-11T11:18:57",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 223.0,
+   "roundTripTotal": true,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "08:00",
+   "depDate": "2026-12-07",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "12:05",
+   "arrDate": "2026-12-07",
+   "durationMin": 245,
+   "layovers": [
+    {
+     "min": 60,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 223 euros round trip total.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 8:00 AM on Monday, December 7 and arrives at John Paul II Kraków Balice International Airport at 12:05 PM on Monday, December 7. Total duration 4 hr 5 min.  Layover (1 of 1) is a 1 hr layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

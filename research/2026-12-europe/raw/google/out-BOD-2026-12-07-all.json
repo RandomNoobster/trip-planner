@@ -1,0 +1,93 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA0JPREABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 158.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Bordeaux Aéroport",
+   "arrTime": "17:15",
+   "arrDate": "2026-12-07",
+   "durationMin": 655,
+   "layovers": [
+    {
+     "min": 415,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 262.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and KLM",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:40",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Bordeaux Aéroport",
+   "arrTime": "17:15",
+   "arrDate": "2026-12-07",
+   "durationMin": 395,
+   "layovers": [
+    {
+     "min": 55,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    },
+    {
+     "min": 65,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 416.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:25",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Bordeaux Aéroport",
+   "arrTime": "17:40",
+   "arrDate": "2026-12-07",
+   "durationMin": 435,
+   "layovers": [
+    {
+     "min": 70,
+     "airport": "Stockholm Arlanda Airport",
+     "city": "Stockholm",
+     "overnight": false
+    },
+    {
+     "min": 45,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

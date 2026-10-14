@@ -1,0 +1,330 @@
+[
+ {
+  "city": "RIX",
+  "name": "Riga",
+  "country": "Latvia",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Riga",
+  "airports": [
+   {
+    "code": "RIX",
+    "name": "Riga International Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "POZ",
+  "name": "Poznań",
+  "country": "Poland",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Pozna%C5%84",
+  "airports": [
+   {
+    "code": "POZ",
+    "name": "Poznań-Ławica Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus",
+   "train",
+   "train and bus"
+  ]
+ },
+ {
+  "city": "DRS",
+  "name": "Dresden",
+  "country": "Germany",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Dresden",
+  "airports": [
+   {
+    "code": "DRS",
+    "name": "Dresden Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus",
+   "train"
+  ]
+ },
+ {
+  "city": "BTS",
+  "name": "Bratislava",
+  "country": "Slovakia",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Bratislava",
+  "airports": [],
+  "groundArrivals": [
+   "bus",
+   "train"
+  ]
+ },
+ {
+  "city": "MAN",
+  "name": "Manchester",
+  "country": "United Kingdom",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Manchester",
+  "airports": [
+   {
+    "code": "MAN",
+    "name": "Manchester Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "BCN",
+  "name": "Barcelona",
+  "country": "Spain",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Barcelona",
+  "airports": [
+   {
+    "code": "BCN",
+    "name": "Barcelona-El Prat Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "PMI",
+  "name": "Palma de Mallorca",
+  "country": "Spain",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Palma_de_Mallorca",
+  "airports": [
+   {
+    "code": "PMI",
+    "name": "Palma de Mallorca Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Palma city centre (EMT line A1 'Aeroport-Palma centre'; city stop not named in source)",
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": 24,
+      "minutes": null,
+      "basis": "average UberX fare from PMI to Palma over 12 months (Uber page); a ride-hailing average, not a taxi meter or official tariff",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "ROM",
+  "name": "Rome",
+  "country": "Italy",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Rome",
+  "airports": [],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "TRN",
+  "name": "Turin",
+  "country": "Italy",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Turin",
+  "airports": [
+   {
+    "code": "TRN",
+    "name": "Turin Airport (Caselle)",
+    "known": {
+     "public": {
+      "mode": "shuttle bus",
+      "to": "Torino Porta Nuova (FLIBCO stop, near Corso Vittorio Emanuele II)",
+      "minutes": 30,
+      "fareEUR": 6,
+      "frequency": "every 30 min",
+      "hours": "04:45–00:00 from airport (from Turin 03:45–22:30)"
+     },
+     "taxi": {
+      "fareEUR": 40,
+      "minutes": 30,
+      "basis": "airport website approximate figures (about 40 EUR, about 30 min); not a fixed tariff; no official Turin tariff found",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "SKG",
+  "name": "Thessaloniki",
+  "country": "Greece",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Thessaloniki",
+  "airports": [
+   {
+    "code": "SKG",
+    "name": "Thessaloniki Makedonia Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "City centre (terminus not named in source)",
+      "minutes": 45,
+      "fareEUR": 2.0,
+      "frequency": "every 30 min",
+      "hours": "05:15–21:40 on day line 01X (starts before 06:00); night line 01N c.23:00–05:55 per greeka.com (unverified); no service c.21:40–23:00"
+     },
+     "taxi": {
+      "fareEUR": 28.0,
+      "minutes": 25,
+      "basis": "official fixed daytime airport–centre tariff, single: EUR 28 (raised from EUR 25; double EUR 38 from EUR 35) per Greek City Times, 17 Sep 2026; FEK publication not confirmed; minutes is an estimate",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "DBV",
+  "name": "Dubrovnik",
+  "country": "Croatia",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Dubrovnik",
+  "airports": [
+   {
+    "code": "DBV",
+    "name": "Dubrovnik Airport",
+    "known": {
+     "public": {
+      "mode": "shuttle bus",
+      "to": "Dubrovnik Old Town / city centre (stop not verified)",
+      "minutes": 35,
+      "fareEUR": 10.0,
+      "frequency": "no fixed timetable; departs about 30 min after arrivals once full (cestee)",
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": 45.0,
+      "minutes": null,
+      "basis": "travel-site estimate (cestee.com, updated 7 Nov 2025) for a 22 km trip, about EUR 45; not an official tariff; the same source gives Uber at EUR 22–28",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "GVA",
+  "name": "Geneva",
+  "country": "Switzerland",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Geneva",
+  "airports": [
+   {
+    "code": "GVA",
+    "name": "Geneva Airport",
+    "known": {
+     "public": {
+      "mode": "train",
+      "to": "Genève-Cornavin",
+      "minutes": 7,
+      "fareEUR": 3.22,
+      "frequency": "every 10–12 min (airporttransferportal, Oct 2026); up to 7 trains/h at peak (everyrail.com guide, Jul 2026)",
+      "hours": "05:00–00:30 (network-wide Léman Express hours, Dec 2025 timetable per English Wikipedia; airport station not separately confirmed; starts before 06:00 and runs past 23:00)"
+     },
+     "taxi": {
+      "fareEUR": 53.69,
+      "minutes": 12,
+      "basis": "official fixed fare airport to city centre, right bank: CHF 50 (Genève Aéroport website; left bank CHF 60); minutes 12 per kiwitaxi.com (third-party; its route section says about 20)",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ }
+]

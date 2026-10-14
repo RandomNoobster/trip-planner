@@ -1,0 +1,68 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA0RCVkABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 227.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe, Lufthansa and Croatia",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "16:45",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Dubrovnik Airport",
+   "arrTime": "21:15",
+   "arrDate": "2026-12-06",
+   "durationMin": 1710,
+   "layovers": [
+    {
+     "min": 950,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    },
+    {
+     "min": 455,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 241.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Croatia",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Dubrovnik Airport",
+   "arrTime": "22:00",
+   "arrDate": "2026-12-05",
+   "durationMin": 940,
+   "layovers": [
+    {
+     "min": 395,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 240,
+     "airport": "Franjo Tuđman International Airport Zagr",
+     "city": "Zagreb",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA0FHUBoaEgoyMDI2LTEyLTE3agUSA0FHUHIFEgNUUkRAAUgBmAEB",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 262.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Málaga-Costa del Sol Airport",
+   "arrTime": "15:15",
+   "arrDate": "2026-12-09",
+   "durationMin": 535,
+   "layovers": [
+    {
+     "min": 220,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 265.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM and Transavia",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Málaga-Costa del Sol Airport",
+   "arrTime": "19:30",
+   "arrDate": "2026-12-09",
+   "durationMin": 790,
+   "layovers": [
+    {
+     "min": 465,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 874.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Wideroe and Finnair",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "15:35",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Málaga-Costa del Sol Airport",
+   "arrTime": "10:15",
+   "arrDate": "2026-12-10",
+   "durationMin": 1120,
+   "layovers": [
+    {
+     "min": 135,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    },
+    {
+     "min": 25,
+     "airport": "Stockholm Arlanda Airport",
+     "city": "Stockholm",
+     "overnight": false
+    },
+    {
+     "min": 425,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 1040.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "14:45",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Málaga-Costa del Sol Airport",
+   "arrTime": "23:30",
+   "arrDate": "2026-12-09",
+   "durationMin": 525,
+   "layovers": [
+    {
+     "min": 85,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    },
+    {
+     "min": 55,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

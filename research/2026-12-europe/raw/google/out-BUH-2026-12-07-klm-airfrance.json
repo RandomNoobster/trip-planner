@@ -1,0 +1,118 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMDcyAktMMgJBRmoFEgNUUkRyBRIDT1RQQAFIAZgBAg",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 226.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM and TAROM",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Bucharest Henri Coandă International Air",
+   "arrTime": "15:25",
+   "arrDate": "2026-12-07",
+   "durationMin": 485,
+   "layovers": [
+    {
+     "min": 180,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 272.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Bucharest Henri Coandă International Air",
+   "arrTime": "17:00",
+   "arrDate": "2026-12-07",
+   "durationMin": 580,
+   "layovers": [
+    {
+     "min": 280,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 609.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "13:00",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Bucharest Henri Coandă International Air",
+   "arrTime": "23:15",
+   "arrDate": "2026-12-07",
+   "durationMin": 555,
+   "layovers": [
+    {
+     "min": 75,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    },
+    {
+     "min": 95,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 928.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and TAROM",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:15",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Bucharest Henri Coandă International Air",
+   "arrTime": "20:10",
+   "arrDate": "2026-12-07",
+   "durationMin": 535,
+   "layovers": [
+    {
+     "min": 55,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
+    },
+    {
+     "min": 95,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

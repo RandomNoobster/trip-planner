@@ -1,0 +1,167 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDU0dOcgUSA1RSREABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 985.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Vietnam Airlines and KLM",
+   "operatedBy": null,
+   "depAirportName": "Tan Son Nhat International Airport",
+   "depTime": "08:35",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-13",
+   "durationMin": 1235,
+   "layovers": [
+    {
+     "min": 110,
+     "airport": "Suvarnabhumi Airport",
+     "city": "Bangkok",
+     "overnight": false
+    },
+    {
+     "min": 150,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 993.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Vietnam Airlines, Etihad and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Tan Son Nhat International Airport",
+   "depTime": "14:10",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "09:40",
+   "arrDate": "2026-12-14",
+   "durationMin": 1530,
+   "layovers": [
+    {
+     "min": 130,
+     "airport": "Singapore Changi Airport",
+     "city": "Singapore",
+     "overnight": false
+    },
+    {
+     "min": 200,
+     "airport": "Zayed International Airport",
+     "city": "Abu Dhabi",
+     "overnight": false
+    },
+    {
+     "min": 95,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 1008.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Malaysia Airlines and KLM",
+   "operatedBy": null,
+   "depAirportName": "Tan Son Nhat International Airport",
+   "depTime": "19:00",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-14",
+   "durationMin": 1655,
+   "layovers": [
+    {
+     "min": 110,
+     "airport": "Kuala Lumpur International Airport",
+     "city": "Federal Territory of Kuala Lumpur",
+     "overnight": false
+    },
+    {
+     "min": 485,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 1222.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air France and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Tan Son Nhat International Airport",
+   "depTime": "09:45",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:30",
+   "arrDate": "2026-12-14",
+   "durationMin": 2085,
+   "layovers": [
+    {
+     "min": 810,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    },
+    {
+     "min": 220,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 1412.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air France and KLM",
+   "operatedBy": null,
+   "depAirportName": "Tan Son Nhat International Airport",
+   "depTime": "09:45",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-13",
+   "durationMin": 1165,
+   "layovers": [
+    {
+     "min": 60,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    },
+    {
+     "min": 60,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

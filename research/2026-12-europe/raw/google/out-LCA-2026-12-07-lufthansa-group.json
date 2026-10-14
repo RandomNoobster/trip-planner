@@ -1,0 +1,74 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GjYSCjIwMjYtMTItMDcyAkxIMgJMWDICT1MyAlNOMgJFVzICNFkyAldGagUSA1RSRHIFEgNMQ0FAAUgBmAEC",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 349.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Wideroe, Lufthansa and Discover Airlines",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Larnaka International Airport",
+   "arrTime": "16:20",
+   "arrDate": "2026-12-08",
+   "durationMin": 1810,
+   "layovers": [
+    {
+     "min": 155,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    },
+    {
+     "min": 75,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    },
+    {
+     "min": 1130,
+     "airport": "Munich International Airport",
+     "city": "Munich",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 409.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe, Lufthansa and Discover Airlines",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Larnaka International Airport",
+   "arrTime": "15:35",
+   "arrDate": "2026-12-08",
+   "durationMin": 1765,
+   "layovers": [
+    {
+     "min": 155,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    },
+    {
+     "min": 1185,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

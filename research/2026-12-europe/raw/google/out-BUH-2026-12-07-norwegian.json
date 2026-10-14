@@ -1,0 +1,31 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMDcyAkRZMgJEOGoFEgNUUkRyBRIDT1RQQAFIAZgBAg",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 145.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:20",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Bucharest Henri Coandă International Air",
+   "arrTime": "17:30",
+   "arrDate": "2026-12-07",
+   "durationMin": 370,
+   "layovers": [
+    {
+     "min": 125,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+  "agent": "H3",
+  "cities": {
+    "PRG": {
+      "localBeer": ["Staropramen", "Pilsner Urquell", "Gambrinus"],
+      "cheapEat": {
+        "name": "Weekday lunch menu (daily menu)",
+        "priceEUR": 6.16,
+        "note": "Under 150 Kč, weekdays 11:00–14:00 (Wikivoyage, Jan 2019 price)."
+      },
+      "saveTip": "Eat outside the tourist areas, where meals can be found for 175 Kč or less (July 2022).",
+      "sources": ["https://en.wikivoyage.org/wiki/Prague"]
+    },
+    "VIE": {
+      "localBeer": ["Ottakringer", "Gösser", "Zipfer"],
+      "cheapEat": {
+        "name": "Schnitzel (lunch menu)",
+        "priceEUR": 7.6,
+        "note": "Zum roten Bären, Alsergrund; lunch menu price for fish, meat or schnitzel."
+      },
+      "saveTip": "At Café Landtmann the menu of the day is about €11, while the schnitzel is listed at €20.",
+      "sources": ["https://en.wikivoyage.org/wiki/Vienna", "https://en.wikipedia.org/wiki/Ottakringer", "https://visitingvienna.com/eatingdrinking/beer"]
+    },
+    "BUD": {
+      "localBeer": ["Dreher Classic", "Dreher Bak"],
+      "cheapEat": {
+        "name": "Hungarian soup at Fakanál",
+        "priceEUR": 2.68,
+        "note": "Central Market Hall; two soup types at Ft980 from 11:00 (listing price)."
+      },
+      "saveTip": "Fakanál's morning dishes (09:00–11:00) cost Ft390–1,700, below its Ft1,900–3,200 mains.",
+      "sources": ["https://en.wikivoyage.org/wiki/Budapest"]
+    },
+    "BTS": {
+      "localBeer": ["Zlatý Bažant", "Stein", "Kláštorný pivovar"],
+      "cheapEat": {
+        "name": "Bagetka (cheese, ham and eggs)",
+        "priceEUR": 6.5,
+        "note": "Budget option on Wikivoyage at about €6.50; the price date is not given."
+      },
+      "saveTip": "Old Town pubs charge about €1 per half-litre glass of beer, per Wikivoyage.",
+      "sources": ["https://en.wikivoyage.org/wiki/Bratislava"]
+    },
+    "AMS": {
+      "localBeer": ["Brouwerij de Prael"],
+      "cheapEat": {
+        "name": "Bitterballen (fried ragout balls)",
+        "priceEUR": null,
+        "note": "Dutch bar snack. No price is stated in the sources; check the menu."
+      },
+      "saveTip": "Brouwerij de Prael's four-beer tasting costs €10, per the Wikivoyage listing.",
+      "sources": ["https://en.wikivoyage.org/wiki/Amsterdam", "https://www.amsterdamtourism.org/amsterdam-street-food/"]
+    },
+    "BRU": {
+      "localBeer": ["Cantillon", "Brasserie de la Senne"],
+      "cheapEat": {
+        "name": "Pie slice with salad (Arcadi)",
+        "priceEUR": 7.0,
+        "note": "Arcadi, Centre: a slice big enough for a meal; listing gives €7–7.50."
+      },
+      "saveTip": "Mamma Roma sells pizza by weight and has deals on pizza plus a drink.",
+      "sources": ["https://en.wikivoyage.org/wiki/Brussels"]
+    },
+    "LON": {
+      "localBeer": ["London Pride (Fuller's)", "Young's", "Kernel Brewery"],
+      "cheapEat": {
+        "name": "Fish and chips from a chippy",
+        "priceEUR": 13.18,
+        "note": "Average at top-rated chippies (2022 MaxFreeBets study); budget shops may cost less."
+      },
+      "saveTip": "Wetherspoon pubs such as The Crosse Keys (EC3) are fairly cheap for food and drink.",
+      "sources": ["https://en.wikivoyage.org/wiki/London", "https://www.scottishdailyexpress.co.uk/lifestyle/food/scottish-city-hailed-cheapest-place-27583828"]
+    },
+    "EDI": {
+      "localBeer": ["Caledonian Brewery", "Stewart Brewing"],
+      "cheapEat": {
+        "name": "Fish and chips from a chippy",
+        "priceEUR": 8.42,
+        "note": "Average at top-rated chippies (2022 MaxFreeBets study); budget shops may cost less."
+      },
+      "saveTip": "The Original Mosque Kitchen in the Old Town serves inexpensive curries in large portions.",
+      "sources": ["https://en.wikivoyage.org/wiki/Edinburgh", "https://www.scottishdailyexpress.co.uk/lifestyle/food/scottish-city-hailed-cheapest-place-27583828"]
+    },
+    "GLA": {
+      "localBeer": ["Tennent's", "Drygate", "West Brewery"],
+      "cheapEat": {
+        "name": "Fish and chips from a chippy",
+        "priceEUR": 9.85,
+        "note": "Average at top-rated chippies (2022 MaxFreeBets study); budget shops may cost less."
+      },
+      "saveTip": "The Counting House is a Wetherspoon pub, and the chain is usually fairly cheap for food and drink.",
+      "sources": ["https://en.wikivoyage.org/wiki/Glasgow", "https://en.wikivoyage.org/wiki/London", "https://www.scottishdailyexpress.co.uk/lifestyle/food/scottish-city-hailed-cheapest-place-27583828"]
+    },
+    "MAN": {
+      "localBeer": ["Joseph Holt", "Marble", "Blackjack"],
+      "cheapEat": {
+        "name": "Indian curry dish (Moon, Third Eye)",
+        "priceEUR": 7.08,
+        "note": "About £6 a dish at Moon or Third Eye, per Wikivoyage (no date given)."
+      },
+      "saveTip": "At Rusholme curry houses, bring your own drinks: a £10 note should leave change.",
+      "sources": ["https://en.wikivoyage.org/wiki/Manchester"]
+    }
+  }
+}

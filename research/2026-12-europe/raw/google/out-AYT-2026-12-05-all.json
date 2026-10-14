@@ -1,0 +1,60 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA0FZVEABSAGYAQI",
+ "fetchedAt": "2026-10-12T13:14:48",
+ "priceUnavailable": 0,
+ "via": "html",
+ "itineraries": [
+  {
+   "price": 205.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": "Norwegian",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "07:15",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Antalya Airport",
+   "arrTime": "20:20",
+   "arrDate": "2026-12-05",
+   "durationMin": 665,
+   "layovers": [
+    {
+     "min": 360,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 205 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Trondheim Airport, Værnes at 7:15 AM on Saturday, December 5 and arrives at Antalya Airport at 8:20 PM on Saturday, December 5. Total duration 11 hr 5 min.  Layover (1 of 1) is a 6 hr layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 219.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": "Norwegian",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:20",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Antalya Airport",
+   "arrTime": "20:20",
+   "arrDate": "2026-12-05",
+   "durationMin": 480,
+   "layovers": [
+    {
+     "min": 180,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 219 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Trondheim Airport, Værnes at 10:20 AM on Saturday, December 5 and arrives at Antalya Airport at 8:20 PM on Saturday, December 5. Total duration 8 hr.  Layover (1 of 1) is a 3 hr layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

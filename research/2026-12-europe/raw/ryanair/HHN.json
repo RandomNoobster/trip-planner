@@ -1,0 +1,7024 @@
+[
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-05T22:00:00",
+   "arrivalDate": "2026-12-05T22:25:00",
+   "price": {
+    "value": 16.99,
+    "valueMainUnit": "16",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6206~ ~~HHN~12/05/2026 22:00~STN~12/05/2026 22:25~~",
+   "flightNumber": "FR6206",
+   "previousPrice": null,
+   "priceUpdated": 1791800530000
+  },
+  "summary": {
+   "price": {
+    "value": 16.99,
+    "valueMainUnit": "16",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "OPO",
+    "name": "Porto",
+    "seoName": "porto",
+    "city": {
+     "code": "PORTO",
+     "countryCode": "pt",
+     "name": "Porto"
+    }
+   },
+   "departureDate": "2026-12-04T16:20:00",
+   "arrivalDate": "2026-12-04T18:05:00",
+   "price": {
+    "value": 20.99,
+    "valueMainUnit": "20",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4392~ ~~HHN~12/04/2026 16:20~OPO~12/04/2026 18:05~~",
+   "flightNumber": "FR4392",
+   "previousPrice": null,
+   "priceUpdated": 1791800526000
+  },
+  "summary": {
+   "price": {
+    "value": 20.99,
+    "valueMainUnit": "20",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "CTA",
+    "name": "Catania",
+    "seoName": "catania",
+    "city": {
+     "code": "CATANIA",
+     "countryCode": "it",
+     "name": "Catania"
+    }
+   },
+   "departureDate": "2026-12-06T06:00:00",
+   "arrivalDate": "2026-12-06T08:35:00",
+   "price": {
+    "value": 22.99,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1558~ ~~HHN~12/06/2026 06:00~CTA~12/06/2026 08:35~~",
+   "flightNumber": "FR1558",
+   "previousPrice": null,
+   "priceUpdated": 1791800520000
+  },
+  "summary": {
+   "price": {
+    "value": 22.99,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "FEZ",
+    "name": "Fez",
+    "seoName": "fez",
+    "city": {
+     "code": "FEZ",
+     "countryCode": "ma",
+     "name": "Fez"
+    }
+   },
+   "departureDate": "2026-12-09T12:00:00",
+   "arrivalDate": "2026-12-09T14:15:00",
+   "price": {
+    "value": 22.99,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5702~ ~~HHN~12/09/2026 12:00~FEZ~12/09/2026 14:15~~",
+   "flightNumber": "FR5702",
+   "previousPrice": null,
+   "priceUpdated": 1791800524000
+  },
+  "summary": {
+   "price": {
+    "value": 22.99,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "BCN",
+    "name": "Barcelona",
+    "seoName": "barcelona-el-prat",
+    "city": {
+     "code": "BARCELONA",
+     "countryCode": "es",
+     "macCode": "BAR",
+     "name": "Barcelona"
+    }
+   },
+   "departureDate": "2026-12-06T19:10:00",
+   "arrivalDate": "2026-12-06T21:10:00",
+   "price": {
+    "value": 24.99,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1680~ ~~HHN~12/06/2026 19:10~BCN~12/06/2026 21:10~~",
+   "flightNumber": "FR1680",
+   "previousPrice": null,
+   "priceUpdated": 1791800521000
+  },
+  "summary": {
+   "price": {
+    "value": 24.99,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "FAO",
+    "name": "Faro",
+    "seoName": "faro",
+    "city": {
+     "code": "FARO",
+     "countryCode": "pt",
+     "name": "Faro"
+    }
+   },
+   "departureDate": "2026-12-11T13:45:00",
+   "arrivalDate": "2026-12-11T15:50:00",
+   "price": {
+    "value": 24.99,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5763~ ~~HHN~12/11/2026 13:45~FAO~12/11/2026 15:50~~",
+   "flightNumber": "FR5763",
+   "previousPrice": null,
+   "priceUpdated": 1791800548000
+  },
+  "summary": {
+   "price": {
+    "value": 24.99,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "FEZ",
+    "name": "Fez",
+    "seoName": "fez",
+    "city": {
+     "code": "FEZ",
+     "countryCode": "ma",
+     "name": "Fez"
+    }
+   },
+   "departureDate": "2026-12-08T18:50:00",
+   "arrivalDate": "2026-12-08T21:05:00",
+   "price": {
+    "value": 24.99,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5702~ ~~HHN~12/08/2026 18:50~FEZ~12/08/2026 21:05~~",
+   "flightNumber": "FR5702",
+   "previousPrice": null,
+   "priceUpdated": 1791800527000
+  },
+  "summary": {
+   "price": {
+    "value": 24.99,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "SUF",
+    "name": "Lamezia",
+    "seoName": "lamezia",
+    "city": {
+     "code": "LAMEZIA",
+     "countryCode": "it",
+     "name": "Lamezia"
+    }
+   },
+   "departureDate": "2026-12-04T22:10:00",
+   "arrivalDate": "2026-12-05T00:30:00",
+   "price": {
+    "value": 25.17,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "17",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9969~ ~~HHN~12/04/2026 22:10~SUF~12/05/2026 00:30~~",
+   "flightNumber": "FR9969",
+   "previousPrice": null,
+   "priceUpdated": 1791800526000
+  },
+  "summary": {
+   "price": {
+    "value": 25.17,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "17",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "CTA",
+    "name": "Catania",
+    "seoName": "catania",
+    "city": {
+     "code": "CATANIA",
+     "countryCode": "it",
+     "name": "Catania"
+    }
+   },
+   "departureDate": "2026-12-04T06:15:00",
+   "arrivalDate": "2026-12-04T08:50:00",
+   "price": {
+    "value": 25.32,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "32",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1558~ ~~HHN~12/04/2026 06:15~CTA~12/04/2026 08:50~~",
+   "flightNumber": "FR1558",
+   "previousPrice": null,
+   "priceUpdated": 1791800520000
+  },
+  "summary": {
+   "price": {
+    "value": 25.32,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "32",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Bulgaria",
+    "iataCode": "SOF",
+    "name": "Sofia",
+    "seoName": "sofia",
+    "city": {
+     "code": "SOFIA",
+     "countryCode": "bg",
+     "name": "Sofia"
+    }
+   },
+   "departureDate": "2026-12-05T16:10:00",
+   "arrivalDate": "2026-12-05T19:35:00",
+   "price": {
+    "value": 25.99,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1440~ ~~HHN~12/05/2026 16:10~SOF~12/05/2026 19:35~~",
+   "flightNumber": "FR1440",
+   "previousPrice": null,
+   "priceUpdated": 1791800529000
+  },
+  "summary": {
+   "price": {
+    "value": 25.99,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Bulgaria",
+    "iataCode": "SOF",
+    "name": "Sofia",
+    "seoName": "sofia",
+    "city": {
+     "code": "SOFIA",
+     "countryCode": "bg",
+     "name": "Sofia"
+    }
+   },
+   "departureDate": "2026-12-07T06:10:00",
+   "arrivalDate": "2026-12-07T09:35:00",
+   "price": {
+    "value": 25.99,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1440~ ~~HHN~12/07/2026 06:10~SOF~12/07/2026 09:35~~",
+   "flightNumber": "FR1440",
+   "previousPrice": null,
+   "priceUpdated": 1791802215000
+  },
+  "summary": {
+   "price": {
+    "value": 25.99,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-04T06:25:00",
+   "arrivalDate": "2026-12-04T09:25:00",
+   "price": {
+    "value": 26.99,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7865~ ~~HHN~12/04/2026 06:25~AGP~12/04/2026 09:25~~",
+   "flightNumber": "FR7865",
+   "previousPrice": null,
+   "priceUpdated": 1791800518000
+  },
+  "summary": {
+   "price": {
+    "value": 26.99,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "RBA",
+    "name": "Rabat",
+    "seoName": "rabat",
+    "city": {
+     "code": "RABAT",
+     "countryCode": "ma",
+     "name": "Rabat"
+    }
+   },
+   "departureDate": "2026-12-10T07:20:00",
+   "arrivalDate": "2026-12-10T09:40:00",
+   "price": {
+    "value": 26.99,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6276~ ~~HHN~12/10/2026 07:20~RBA~12/10/2026 09:40~~",
+   "flightNumber": "FR6276",
+   "previousPrice": null,
+   "priceUpdated": 1791800526000
+  },
+  "summary": {
+   "price": {
+    "value": 26.99,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-06T10:30:00",
+   "arrivalDate": "2026-12-06T10:55:00",
+   "price": {
+    "value": 27.99,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1748~ ~~HHN~12/06/2026 10:30~STN~12/06/2026 10:55~~",
+   "flightNumber": "FR1748",
+   "previousPrice": null,
+   "priceUpdated": 1791800529000
+  },
+  "summary": {
+   "price": {
+    "value": 27.99,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-06T09:45:00",
+   "arrivalDate": "2026-12-06T12:15:00",
+   "price": {
+    "value": 28.99,
+    "valueMainUnit": "28",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2663~ ~~HHN~12/06/2026 09:45~ALC~12/06/2026 12:15~~",
+   "flightNumber": "FR2663",
+   "previousPrice": null,
+   "priceUpdated": 1791803041000
+  },
+  "summary": {
+   "price": {
+    "value": 28.99,
+    "valueMainUnit": "28",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-04T16:50:00",
+   "arrivalDate": "2026-12-04T19:20:00",
+   "price": {
+    "value": 29.3,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "30",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2663~ ~~HHN~12/04/2026 16:50~ALC~12/04/2026 19:20~~",
+   "flightNumber": "FR2663",
+   "previousPrice": null,
+   "priceUpdated": 1791800517000
+  },
+  "summary": {
+   "price": {
+    "value": 29.3,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "30",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "AGA",
+    "name": "Agadir",
+    "seoName": "agadir",
+    "city": {
+     "code": "AGADIR",
+     "countryCode": "ma",
+     "name": "Agadir"
+    }
+   },
+   "departureDate": "2026-12-05T07:00:00",
+   "arrivalDate": "2026-12-05T09:55:00",
+   "price": {
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9348~ ~~HHN~12/05/2026 07:00~AGA~12/05/2026 09:55~~",
+   "flightNumber": "FR9348",
+   "previousPrice": null,
+   "priceUpdated": 1791800518000
+  },
+  "summary": {
+   "price": {
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "FEZ",
+    "name": "Fez",
+    "seoName": "fez",
+    "city": {
+     "code": "FEZ",
+     "countryCode": "ma",
+     "name": "Fez"
+    }
+   },
+   "departureDate": "2026-12-10T06:25:00",
+   "arrivalDate": "2026-12-10T08:40:00",
+   "price": {
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5702~ ~~HHN~12/10/2026 06:25~FEZ~12/10/2026 08:40~~",
+   "flightNumber": "FR5702",
+   "previousPrice": null,
+   "priceUpdated": 1791800526000
+  },
+  "summary": {
+   "price": {
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "RAK",
+    "name": "Marrakesh",
+    "seoName": "marrakesh",
+    "city": {
+     "code": "MARRAKESH",
+     "countryCode": "ma",
+     "name": "Marrakesh"
+    }
+   },
+   "departureDate": "2026-12-07T21:10:00",
+   "arrivalDate": "2026-12-07T23:55:00",
+   "price": {
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9182~ ~~HHN~12/07/2026 21:10~RAK~12/07/2026 23:55~~",
+   "flightNumber": "FR9182",
+   "previousPrice": null,
+   "priceUpdated": 1791800525000
+  },
+  "summary": {
+   "price": {
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "NDR",
+    "name": "Nador",
+    "seoName": "nador",
+    "city": {
+     "code": "NADOR",
+     "countryCode": "ma",
+     "name": "Nador"
+    }
+   },
+   "departureDate": "2026-12-09T08:00:00",
+   "arrivalDate": "2026-12-09T10:05:00",
+   "price": {
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5009~ ~~HHN~12/09/2026 08:00~NDR~12/09/2026 10:05~~",
+   "flightNumber": "FR5009",
+   "previousPrice": null,
+   "priceUpdated": 1791800528000
+  },
+  "summary": {
+   "price": {
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "PMO",
+    "name": "Palermo",
+    "seoName": "palermo",
+    "city": {
+     "code": "PALERMO",
+     "countryCode": "it",
+     "name": "Palermo"
+    }
+   },
+   "departureDate": "2026-12-11T07:25:00",
+   "arrivalDate": "2026-12-11T09:45:00",
+   "price": {
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6349~ ~~HHN~12/11/2026 07:25~PMO~12/11/2026 09:45~~",
+   "flightNumber": "FR6349",
+   "previousPrice": null,
+   "priceUpdated": 1791800524000
+  },
+  "summary": {
+   "price": {
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-11T20:45:00",
+   "arrivalDate": "2026-12-11T21:10:00",
+   "price": {
+    "value": 30.49,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "49",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1748~ ~~HHN~12/11/2026 20:45~STN~12/11/2026 21:10~~",
+   "flightNumber": "FR1748",
+   "previousPrice": null,
+   "priceUpdated": 1791800524000
+  },
+  "summary": {
+   "price": {
+    "value": 30.49,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "49",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "RAK",
+    "name": "Marrakesh",
+    "seoName": "marrakesh",
+    "city": {
+     "code": "MARRAKESH",
+     "countryCode": "ma",
+     "name": "Marrakesh"
+    }
+   },
+   "departureDate": "2026-12-05T16:30:00",
+   "arrivalDate": "2026-12-05T19:15:00",
+   "price": {
+    "value": 30.52,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "52",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9182~ ~~HHN~12/05/2026 16:30~RAK~12/05/2026 19:15~~",
+   "flightNumber": "FR9182",
+   "previousPrice": null,
+   "priceUpdated": 1791800529000
+  },
+  "summary": {
+   "price": {
+    "value": 30.52,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "52",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "RBA",
+    "name": "Rabat",
+    "seoName": "rabat",
+    "city": {
+     "code": "RABAT",
+     "countryCode": "ma",
+     "name": "Rabat"
+    }
+   },
+   "departureDate": "2026-12-06T18:35:00",
+   "arrivalDate": "2026-12-06T20:55:00",
+   "price": {
+    "value": 30.82,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "82",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6276~ ~~HHN~12/06/2026 18:35~RBA~12/06/2026 20:55~~",
+   "flightNumber": "FR6276",
+   "previousPrice": null,
+   "priceUpdated": 1791801423000
+  },
+  "summary": {
+   "price": {
+    "value": 30.82,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "82",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "FEZ",
+    "name": "Fez",
+    "seoName": "fez",
+    "city": {
+     "code": "FEZ",
+     "countryCode": "ma",
+     "name": "Fez"
+    }
+   },
+   "departureDate": "2026-12-05T21:25:00",
+   "arrivalDate": "2026-12-05T23:40:00",
+   "price": {
+    "value": 30.89,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "89",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5702~ ~~HHN~12/05/2026 21:25~FEZ~12/05/2026 23:40~~",
+   "flightNumber": "FR5702",
+   "previousPrice": null,
+   "priceUpdated": 1791803111000
+  },
+  "summary": {
+   "price": {
+    "value": 30.89,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "89",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "NDR",
+    "name": "Nador",
+    "seoName": "nador",
+    "city": {
+     "code": "NADOR",
+     "countryCode": "ma",
+     "name": "Nador"
+    }
+   },
+   "departureDate": "2026-12-05T06:10:00",
+   "arrivalDate": "2026-12-05T08:15:00",
+   "price": {
+    "value": 30.99,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5009~ ~~HHN~12/05/2026 06:10~NDR~12/05/2026 08:15~~",
+   "flightNumber": "FR5009",
+   "previousPrice": null,
+   "priceUpdated": 1791800526000
+  },
+  "summary": {
+   "price": {
+    "value": 30.99,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "NDR",
+    "name": "Nador",
+    "seoName": "nador",
+    "city": {
+     "code": "NADOR",
+     "countryCode": "ma",
+     "name": "Nador"
+    }
+   },
+   "departureDate": "2026-12-06T06:40:00",
+   "arrivalDate": "2026-12-06T08:45:00",
+   "price": {
+    "value": 30.99,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5009~ ~~HHN~12/06/2026 06:40~NDR~12/06/2026 08:45~~",
+   "flightNumber": "FR5009",
+   "previousPrice": null,
+   "priceUpdated": 1791800527000
+  },
+  "summary": {
+   "price": {
+    "value": 30.99,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "RAK",
+    "name": "Marrakesh",
+    "seoName": "marrakesh",
+    "city": {
+     "code": "MARRAKESH",
+     "countryCode": "ma",
+     "name": "Marrakesh"
+    }
+   },
+   "departureDate": "2026-12-10T16:30:00",
+   "arrivalDate": "2026-12-10T19:15:00",
+   "price": {
+    "value": 31.41,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "41",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9182~ ~~HHN~12/10/2026 16:30~RAK~12/10/2026 19:15~~",
+   "flightNumber": "FR9182",
+   "previousPrice": null,
+   "priceUpdated": 1791800527000
+  },
+  "summary": {
+   "price": {
+    "value": 31.41,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "41",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "RAK",
+    "name": "Marrakesh",
+    "seoName": "marrakesh",
+    "city": {
+     "code": "MARRAKESH",
+     "countryCode": "ma",
+     "name": "Marrakesh"
+    }
+   },
+   "departureDate": "2026-12-11T16:15:00",
+   "arrivalDate": "2026-12-11T19:00:00",
+   "price": {
+    "value": 31.99,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9182~ ~~HHN~12/11/2026 16:15~RAK~12/11/2026 19:00~~",
+   "flightNumber": "FR9182",
+   "previousPrice": null,
+   "priceUpdated": 1791800525000
+  },
+  "summary": {
+   "price": {
+    "value": 31.99,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "BCN",
+    "name": "Barcelona",
+    "seoName": "barcelona-el-prat",
+    "city": {
+     "code": "BARCELONA",
+     "countryCode": "es",
+     "macCode": "BAR",
+     "name": "Barcelona"
+    }
+   },
+   "departureDate": "2026-12-05T13:35:00",
+   "arrivalDate": "2026-12-05T15:35:00",
+   "price": {
+    "value": 33.2,
+    "valueMainUnit": "33",
+    "valueFractionalUnit": "20",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1680~ ~~HHN~12/05/2026 13:35~BCN~12/05/2026 15:35~~",
+   "flightNumber": "FR1680",
+   "previousPrice": null,
+   "priceUpdated": 1791800517000
+  },
+  "summary": {
+   "price": {
+    "value": 33.2,
+    "valueMainUnit": "33",
+    "valueFractionalUnit": "20",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-06T12:25:00",
+   "arrivalDate": "2026-12-06T15:25:00",
+   "price": {
+    "value": 33.34,
+    "valueMainUnit": "33",
+    "valueFractionalUnit": "34",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7865~ ~~HHN~12/06/2026 12:25~AGP~12/06/2026 15:25~~",
+   "flightNumber": "FR7865",
+   "previousPrice": null,
+   "priceUpdated": 1791800520000
+  },
+  "summary": {
+   "price": {
+    "value": 33.34,
+    "valueMainUnit": "33",
+    "valueFractionalUnit": "34",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-08T11:00:00",
+   "arrivalDate": "2026-12-08T11:25:00",
+   "price": {
+    "value": 33.99,
+    "valueMainUnit": "33",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1748~ ~~HHN~12/08/2026 11:00~STN~12/08/2026 11:25~~",
+   "flightNumber": "FR1748",
+   "previousPrice": null,
+   "priceUpdated": 1791800525000
+  },
+  "summary": {
+   "price": {
+    "value": 33.99,
+    "valueMainUnit": "33",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "FAO",
+    "name": "Faro",
+    "seoName": "faro",
+    "city": {
+     "code": "FARO",
+     "countryCode": "pt",
+     "name": "Faro"
+    }
+   },
+   "departureDate": "2026-12-04T13:45:00",
+   "arrivalDate": "2026-12-04T15:50:00",
+   "price": {
+    "value": 34.15,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "15",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5763~ ~~HHN~12/04/2026 13:45~FAO~12/04/2026 15:50~~",
+   "flightNumber": "FR5763",
+   "previousPrice": null,
+   "priceUpdated": 1791800519000
+  },
+  "summary": {
+   "price": {
+    "value": 34.15,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "15",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "OPO",
+    "name": "Porto",
+    "seoName": "porto",
+    "city": {
+     "code": "PORTO",
+     "countryCode": "pt",
+     "name": "Porto"
+    }
+   },
+   "departureDate": "2026-12-06T11:20:00",
+   "arrivalDate": "2026-12-06T13:05:00",
+   "price": {
+    "value": 34.99,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4392~ ~~HHN~12/06/2026 11:20~OPO~12/06/2026 13:05~~",
+   "flightNumber": "FR4392",
+   "previousPrice": null,
+   "priceUpdated": 1791800528000
+  },
+  "summary": {
+   "price": {
+    "value": 34.99,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "PMO",
+    "name": "Palermo",
+    "seoName": "palermo",
+    "city": {
+     "code": "PALERMO",
+     "countryCode": "it",
+     "name": "Palermo"
+    }
+   },
+   "departureDate": "2026-12-04T07:25:00",
+   "arrivalDate": "2026-12-04T09:45:00",
+   "price": {
+    "value": 35.39,
+    "valueMainUnit": "35",
+    "valueFractionalUnit": "39",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6349~ ~~HHN~12/04/2026 07:25~PMO~12/04/2026 09:45~~",
+   "flightNumber": "FR6349",
+   "previousPrice": null,
+   "priceUpdated": 1791800527000
+  },
+  "summary": {
+   "price": {
+    "value": 35.39,
+    "valueMainUnit": "35",
+    "valueFractionalUnit": "39",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "FAO",
+    "name": "Faro",
+    "seoName": "faro",
+    "city": {
+     "code": "FARO",
+     "countryCode": "pt",
+     "name": "Faro"
+    }
+   },
+   "departureDate": "2026-12-06T21:25:00",
+   "arrivalDate": "2026-12-06T23:30:00",
+   "price": {
+    "value": 35.99,
+    "valueMainUnit": "35",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5763~ ~~HHN~12/06/2026 21:25~FAO~12/06/2026 23:30~~",
+   "flightNumber": "FR5763",
+   "previousPrice": null,
+   "priceUpdated": 1791800521000
+  },
+  "summary": {
+   "price": {
+    "value": 35.99,
+    "valueMainUnit": "35",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-07T19:15:00",
+   "arrivalDate": "2026-12-07T19:40:00",
+   "price": {
+    "value": 36.29,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "29",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6198~ ~~HHN~12/07/2026 19:15~STN~12/07/2026 19:40~~",
+   "flightNumber": "FR6198",
+   "previousPrice": null,
+   "priceUpdated": 1791800529000
+  },
+  "summary": {
+   "price": {
+    "value": 36.29,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "29",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "RAK",
+    "name": "Marrakesh",
+    "seoName": "marrakesh",
+    "city": {
+     "code": "MARRAKESH",
+     "countryCode": "ma",
+     "name": "Marrakesh"
+    }
+   },
+   "departureDate": "2026-12-04T16:15:00",
+   "arrivalDate": "2026-12-04T19:00:00",
+   "price": {
+    "value": 37.04,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "04",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9182~ ~~HHN~12/04/2026 16:15~RAK~12/04/2026 19:00~~",
+   "flightNumber": "FR9182",
+   "previousPrice": null,
+   "priceUpdated": 1791801426000
+  },
+  "summary": {
+   "price": {
+    "value": 37.04,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "04",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-11T16:50:00",
+   "arrivalDate": "2026-12-11T19:20:00",
+   "price": {
+    "value": 37.71,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "71",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2663~ ~~HHN~12/11/2026 16:50~ALC~12/11/2026 19:20~~",
+   "flightNumber": "FR2663",
+   "previousPrice": null,
+   "priceUpdated": 1791800548000
+  },
+  "summary": {
+   "price": {
+    "value": 37.71,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "71",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "PMI",
+    "name": "Palma de Mallorca",
+    "seoName": "palma-mallorca",
+    "city": {
+     "code": "PALMA",
+     "countryCode": "es",
+     "name": "Palma"
+    }
+   },
+   "departureDate": "2026-12-05T18:50:00",
+   "arrivalDate": "2026-12-05T21:00:00",
+   "price": {
+    "value": 37.91,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "91",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 369~ ~~HHN~12/05/2026 18:50~PMI~12/05/2026 21:00~~",
+   "flightNumber": "FR369",
+   "previousPrice": null,
+   "priceUpdated": 1791800527000
+  },
+  "summary": {
+   "price": {
+    "value": 37.91,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "91",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "OPO",
+    "name": "Porto",
+    "seoName": "porto",
+    "city": {
+     "code": "PORTO",
+     "countryCode": "pt",
+     "name": "Porto"
+    }
+   },
+   "departureDate": "2026-12-11T16:20:00",
+   "arrivalDate": "2026-12-11T18:05:00",
+   "price": {
+    "value": 37.99,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4392~ ~~HHN~12/11/2026 16:20~OPO~12/11/2026 18:05~~",
+   "flightNumber": "FR4392",
+   "previousPrice": null,
+   "priceUpdated": 1791800528000
+  },
+  "summary": {
+   "price": {
+    "value": 37.99,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "BCN",
+    "name": "Barcelona",
+    "seoName": "barcelona-el-prat",
+    "city": {
+     "code": "BARCELONA",
+     "countryCode": "es",
+     "macCode": "BAR",
+     "name": "Barcelona"
+    }
+   },
+   "departureDate": "2026-12-07T11:15:00",
+   "arrivalDate": "2026-12-07T13:15:00",
+   "price": {
+    "value": 38.08,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "08",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1680~ ~~HHN~12/07/2026 11:15~BCN~12/07/2026 13:15~~",
+   "flightNumber": "FR1680",
+   "previousPrice": null,
+   "priceUpdated": 1791800553000
+  },
+  "summary": {
+   "price": {
+    "value": 38.08,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "08",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "KIR",
+    "name": "Kerry",
+    "seoName": "kerry",
+    "city": {
+     "code": "KERRY",
+     "countryCode": "ie",
+     "name": "Kerry"
+    }
+   },
+   "departureDate": "2026-12-11T12:55:00",
+   "arrivalDate": "2026-12-11T14:05:00",
+   "price": {
+    "value": 38.99,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5705~ ~~HHN~12/11/2026 12:55~KIR~12/11/2026 14:05~~",
+   "flightNumber": "FR5705",
+   "previousPrice": null,
+   "priceUpdated": 1791800528000
+  },
+  "summary": {
+   "price": {
+    "value": 38.99,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-11T06:25:00",
+   "arrivalDate": "2026-12-11T09:25:00",
+   "price": {
+    "value": 39.99,
+    "valueMainUnit": "39",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7865~ ~~HHN~12/11/2026 06:25~AGP~12/11/2026 09:25~~",
+   "flightNumber": "FR7865",
+   "previousPrice": null,
+   "priceUpdated": 1791800552000
+  },
+  "summary": {
+   "price": {
+    "value": 39.99,
+    "valueMainUnit": "39",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "TFS",
+    "name": "Tenerife South",
+    "seoName": "tenerife-south",
+    "city": {
+     "code": "TENERIFE",
+     "countryCode": "es",
+     "macCode": "TEN",
+     "name": "Tenerife"
+    }
+   },
+   "departureDate": "2026-12-10T06:10:00",
+   "arrivalDate": "2026-12-10T09:55:00",
+   "price": {
+    "value": 39.99,
+    "valueMainUnit": "39",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2793~ ~~HHN~12/10/2026 06:10~TFS~12/10/2026 09:55~~",
+   "flightNumber": "FR2793",
+   "previousPrice": null,
+   "priceUpdated": 1791800528000
+  },
+  "summary": {
+   "price": {
+    "value": 39.99,
+    "valueMainUnit": "39",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-09T15:40:00",
+   "arrivalDate": "2026-12-09T16:05:00",
+   "price": {
+    "value": 41.99,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1748~ ~~HHN~12/09/2026 15:40~STN~12/09/2026 16:05~~",
+   "flightNumber": "FR1748",
+   "previousPrice": null,
+   "priceUpdated": 1791800528000
+  },
+  "summary": {
+   "price": {
+    "value": 41.99,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "FCO",
+    "name": "Rome Fiumicino",
+    "seoName": "rome-fiumicino",
+    "city": {
+     "code": "ROME",
+     "countryCode": "it",
+     "macCode": "ROM",
+     "name": "Rome"
+    }
+   },
+   "departureDate": "2026-12-06T19:40:00",
+   "arrivalDate": "2026-12-06T21:35:00",
+   "price": {
+    "value": 43.47,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "47",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6040~ ~~HHN~12/06/2026 19:40~FCO~12/06/2026 21:35~~",
+   "flightNumber": "FR6040",
+   "previousPrice": null,
+   "priceUpdated": 1791800519000
+  },
+  "summary": {
+   "price": {
+    "value": 43.47,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "47",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "NDR",
+    "name": "Nador",
+    "seoName": "nador",
+    "city": {
+     "code": "NADOR",
+     "countryCode": "ma",
+     "name": "Nador"
+    }
+   },
+   "departureDate": "2026-12-08T08:00:00",
+   "arrivalDate": "2026-12-08T10:05:00",
+   "price": {
+    "value": 43.99,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5009~ ~~HHN~12/08/2026 08:00~NDR~12/08/2026 10:05~~",
+   "flightNumber": "FR5009",
+   "previousPrice": null,
+   "priceUpdated": 1791800528000
+  },
+  "summary": {
+   "price": {
+    "value": 43.99,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "PMO",
+    "name": "Palermo",
+    "seoName": "palermo",
+    "city": {
+     "code": "PALERMO",
+     "countryCode": "it",
+     "name": "Palermo"
+    }
+   },
+   "departureDate": "2026-12-06T14:05:00",
+   "arrivalDate": "2026-12-06T16:25:00",
+   "price": {
+    "value": 44.55,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "55",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6349~ ~~HHN~12/06/2026 14:05~PMO~12/06/2026 16:25~~",
+   "flightNumber": "FR6349",
+   "previousPrice": null,
+   "priceUpdated": 1791800531000
+  },
+  "summary": {
+   "price": {
+    "value": 44.55,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "55",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "SUF",
+    "name": "Lamezia",
+    "seoName": "lamezia",
+    "city": {
+     "code": "LAMEZIA",
+     "countryCode": "it",
+     "name": "Lamezia"
+    }
+   },
+   "departureDate": "2026-12-11T22:10:00",
+   "arrivalDate": "2026-12-12T00:30:00",
+   "price": {
+    "value": 44.99,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9969~ ~~HHN~12/11/2026 22:10~SUF~12/12/2026 00:30~~",
+   "flightNumber": "FR9969",
+   "previousPrice": null,
+   "priceUpdated": 1791800527000
+  },
+  "summary": {
+   "price": {
+    "value": 44.99,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "NDR",
+    "name": "Nador",
+    "seoName": "nador",
+    "city": {
+     "code": "NADOR",
+     "countryCode": "ma",
+     "name": "Nador"
+    }
+   },
+   "departureDate": "2026-12-04T18:20:00",
+   "arrivalDate": "2026-12-04T20:25:00",
+   "price": {
+    "value": 44.99,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5009~ ~~HHN~12/04/2026 18:20~NDR~12/04/2026 20:25~~",
+   "flightNumber": "FR5009",
+   "previousPrice": null,
+   "priceUpdated": 1791800531000
+  },
+  "summary": {
+   "price": {
+    "value": 44.99,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "FCO",
+    "name": "Rome Fiumicino",
+    "seoName": "rome-fiumicino",
+    "city": {
+     "code": "ROME",
+     "countryCode": "it",
+     "macCode": "ROM",
+     "name": "Rome"
+    }
+   },
+   "departureDate": "2026-12-10T21:00:00",
+   "arrivalDate": "2026-12-10T22:55:00",
+   "price": {
+    "value": 45.15,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "15",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6040~ ~~HHN~12/10/2026 21:00~FCO~12/10/2026 22:55~~",
+   "flightNumber": "FR6040",
+   "previousPrice": null,
+   "priceUpdated": 1791800552000
+  },
+  "summary": {
+   "price": {
+    "value": 45.15,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "15",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-10T20:45:00",
+   "arrivalDate": "2026-12-10T21:10:00",
+   "price": {
+    "value": 45.22,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "22",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1748~ ~~HHN~12/10/2026 20:45~STN~12/10/2026 21:10~~",
+   "flightNumber": "FR1748",
+   "previousPrice": null,
+   "priceUpdated": 1791800525000
+  },
+  "summary": {
+   "price": {
+    "value": 45.22,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "22",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "CTA",
+    "name": "Catania",
+    "seoName": "catania",
+    "city": {
+     "code": "CATANIA",
+     "countryCode": "it",
+     "name": "Catania"
+    }
+   },
+   "departureDate": "2026-12-11T06:15:00",
+   "arrivalDate": "2026-12-11T08:50:00",
+   "price": {
+    "value": 46.32,
+    "valueMainUnit": "46",
+    "valueFractionalUnit": "32",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1558~ ~~HHN~12/11/2026 06:15~CTA~12/11/2026 08:50~~",
+   "flightNumber": "FR1558",
+   "previousPrice": null,
+   "priceUpdated": 1791800549000
+  },
+  "summary": {
+   "price": {
+    "value": 46.32,
+    "valueMainUnit": "46",
+    "valueFractionalUnit": "32",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "PMI",
+    "name": "Palma de Mallorca",
+    "seoName": "palma-mallorca",
+    "city": {
+     "code": "PALMA",
+     "countryCode": "es",
+     "name": "Palma"
+    }
+   },
+   "departureDate": "2026-12-09T08:30:00",
+   "arrivalDate": "2026-12-09T10:40:00",
+   "price": {
+    "value": 49.99,
+    "valueMainUnit": "49",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 369~ ~~HHN~12/09/2026 08:30~PMI~12/09/2026 10:40~~",
+   "flightNumber": "FR369",
+   "previousPrice": null,
+   "priceUpdated": 1791800524000
+  },
+  "summary": {
+   "price": {
+    "value": 49.99,
+    "valueMainUnit": "49",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "CTA",
+    "name": "Catania",
+    "seoName": "catania",
+    "city": {
+     "code": "CATANIA",
+     "countryCode": "it",
+     "name": "Catania"
+    }
+   },
+   "departureDate": "2026-12-10T12:40:00",
+   "arrivalDate": "2026-12-10T15:15:00",
+   "price": {
+    "value": 50.99,
+    "valueMainUnit": "50",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1558~ ~~HHN~12/10/2026 12:40~CTA~12/10/2026 15:15~~",
+   "flightNumber": "FR1558",
+   "previousPrice": null,
+   "priceUpdated": 1791800552000
+  },
+  "summary": {
+   "price": {
+    "value": 50.99,
+    "valueMainUnit": "50",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "KIR",
+    "name": "Kerry",
+    "seoName": "kerry",
+    "city": {
+     "code": "KERRY",
+     "countryCode": "ie",
+     "name": "Kerry"
+    }
+   },
+   "departureDate": "2026-12-04T12:55:00",
+   "arrivalDate": "2026-12-04T14:05:00",
+   "price": {
+    "value": 51.99,
+    "valueMainUnit": "51",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5705~ ~~HHN~12/04/2026 12:55~KIR~12/04/2026 14:05~~",
+   "flightNumber": "FR5705",
+   "previousPrice": null,
+   "priceUpdated": 1791800530000
+  },
+  "summary": {
+   "price": {
+    "value": 51.99,
+    "valueMainUnit": "51",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-07T17:30:00",
+   "arrivalDate": "2026-12-07T20:00:00",
+   "price": {
+    "value": 55.99,
+    "valueMainUnit": "55",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2663~ ~~HHN~12/07/2026 17:30~ALC~12/07/2026 20:00~~",
+   "flightNumber": "FR2663",
+   "previousPrice": null,
+   "priceUpdated": 1791800553000
+  },
+  "summary": {
+   "price": {
+    "value": 55.99,
+    "valueMainUnit": "55",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "BCN",
+    "name": "Barcelona",
+    "seoName": "barcelona-el-prat",
+    "city": {
+     "code": "BARCELONA",
+     "countryCode": "es",
+     "macCode": "BAR",
+     "name": "Barcelona"
+    }
+   },
+   "departureDate": "2026-12-09T13:55:00",
+   "arrivalDate": "2026-12-09T15:55:00",
+   "price": {
+    "value": 57.92,
+    "valueMainUnit": "57",
+    "valueFractionalUnit": "92",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1680~ ~~HHN~12/09/2026 13:55~BCN~12/09/2026 15:55~~",
+   "flightNumber": "FR1680",
+   "previousPrice": null,
+   "priceUpdated": 1791800553000
+  },
+  "summary": {
+   "price": {
+    "value": 57.92,
+    "valueMainUnit": "57",
+    "valueFractionalUnit": "92",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "TFS",
+    "name": "Tenerife South",
+    "seoName": "tenerife-south",
+    "city": {
+     "code": "TENERIFE",
+     "countryCode": "es",
+     "macCode": "TEN",
+     "name": "Tenerife"
+    }
+   },
+   "departureDate": "2026-12-07T13:50:00",
+   "arrivalDate": "2026-12-07T17:35:00",
+   "price": {
+    "value": 63.29,
+    "valueMainUnit": "63",
+    "valueFractionalUnit": "29",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2793~ ~~HHN~12/07/2026 13:50~TFS~12/07/2026 17:35~~",
+   "flightNumber": "FR2793",
+   "previousPrice": null,
+   "priceUpdated": 1791801421000
+  },
+  "summary": {
+   "price": {
+    "value": 63.29,
+    "valueMainUnit": "63",
+    "valueFractionalUnit": "29",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "SUF",
+    "name": "Lamezia",
+    "seoName": "lamezia",
+    "city": {
+     "code": "LAMEZIA",
+     "countryCode": "it",
+     "name": "Lamezia"
+    }
+   },
+   "departureDate": "2026-12-07T09:25:00",
+   "arrivalDate": "2026-12-07T11:45:00",
+   "price": {
+    "value": 65.99,
+    "valueMainUnit": "65",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9969~ ~~HHN~12/07/2026 09:25~SUF~12/07/2026 11:45~~",
+   "flightNumber": "FR9969",
+   "previousPrice": null,
+   "priceUpdated": 1791800526000
+  },
+  "summary": {
+   "price": {
+    "value": 65.99,
+    "valueMainUnit": "65",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-04T20:45:00",
+   "arrivalDate": "2026-12-04T21:10:00",
+   "price": {
+    "value": 66.92,
+    "valueMainUnit": "66",
+    "valueFractionalUnit": "92",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1748~ ~~HHN~12/04/2026 20:45~STN~12/04/2026 21:10~~",
+   "flightNumber": "FR1748",
+   "previousPrice": null,
+   "priceUpdated": 1791800526000
+  },
+  "summary": {
+   "price": {
+    "value": 66.92,
+    "valueMainUnit": "66",
+    "valueFractionalUnit": "92",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "KIR",
+    "name": "Kerry",
+    "seoName": "kerry",
+    "city": {
+     "code": "KERRY",
+     "countryCode": "ie",
+     "name": "Kerry"
+    }
+   },
+   "departureDate": "2026-12-06T14:10:00",
+   "arrivalDate": "2026-12-06T15:20:00",
+   "price": {
+    "value": 75.99,
+    "valueMainUnit": "75",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5705~ ~~HHN~12/06/2026 14:10~KIR~12/06/2026 15:20~~",
+   "flightNumber": "FR5705",
+   "previousPrice": null,
+   "priceUpdated": 1791800527000
+  },
+  "summary": {
+   "price": {
+    "value": 75.99,
+    "valueMainUnit": "75",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "NDR",
+    "name": "Nador",
+    "seoName": "nador",
+    "city": {
+     "code": "NADOR",
+     "countryCode": "ma",
+     "name": "Nador"
+    }
+   },
+   "departureDate": "2026-12-11T18:20:00",
+   "arrivalDate": "2026-12-11T20:25:00",
+   "price": {
+    "value": 76.99,
+    "valueMainUnit": "76",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5009~ ~~HHN~12/11/2026 18:20~NDR~12/11/2026 20:25~~",
+   "flightNumber": "FR5009",
+   "previousPrice": null,
+   "priceUpdated": 1791800529000
+  },
+  "summary": {
+   "price": {
+    "value": 76.99,
+    "valueMainUnit": "76",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "CTA",
+    "name": "Catania",
+    "seoName": "catania",
+    "city": {
+     "code": "CATANIA",
+     "countryCode": "it",
+     "name": "Catania"
+    }
+   },
+   "departureDate": "2026-12-07T13:15:00",
+   "arrivalDate": "2026-12-07T15:50:00",
+   "price": {
+    "value": 103.28,
+    "valueMainUnit": "103",
+    "valueFractionalUnit": "28",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1558~ ~~HHN~12/07/2026 13:15~CTA~12/07/2026 15:50~~",
+   "flightNumber": "FR1558",
+   "previousPrice": null,
+   "priceUpdated": 1791800552000
+  },
+  "summary": {
+   "price": {
+    "value": 103.28,
+    "valueMainUnit": "103",
+    "valueFractionalUnit": "28",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-09T15:25:00",
+   "arrivalDate": "2026-12-09T18:25:00",
+   "price": {
+    "value": 111.77,
+    "valueMainUnit": "111",
+    "valueFractionalUnit": "77",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7865~ ~~HHN~12/09/2026 15:25~AGP~12/09/2026 18:25~~",
+   "flightNumber": "FR7865",
+   "previousPrice": null,
+   "priceUpdated": 1791800553000
+  },
+  "summary": {
+   "price": {
+    "value": 111.77,
+    "valueMainUnit": "111",
+    "valueFractionalUnit": "77",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-12T22:00:00",
+   "arrivalDate": "2026-12-12T22:25:00",
+   "price": {
+    "value": 16.99,
+    "valueMainUnit": "16",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6206~ ~~HHN~12/12/2026 22:00~STN~12/12/2026 22:25~~",
+   "flightNumber": "FR6206",
+   "previousPrice": null,
+   "priceUpdated": 1791800528000
+  },
+  "summary": {
+   "price": {
+    "value": 16.99,
+    "valueMainUnit": "16",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-19T22:00:00",
+   "arrivalDate": "2026-12-19T22:25:00",
+   "price": {
+    "value": 22.99,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6206~ ~~HHN~12/19/2026 22:00~STN~12/19/2026 22:25~~",
+   "flightNumber": "FR6206",
+   "previousPrice": null,
+   "priceUpdated": 1791802323000
+  },
+  "summary": {
+   "price": {
+    "value": 22.99,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "BCN",
+    "name": "Barcelona",
+    "seoName": "barcelona-el-prat",
+    "city": {
+     "code": "BARCELONA",
+     "countryCode": "es",
+     "macCode": "BAR",
+     "name": "Barcelona"
+    }
+   },
+   "departureDate": "2026-12-13T19:10:00",
+   "arrivalDate": "2026-12-13T21:10:00",
+   "price": {
+    "value": 24.99,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1680~ ~~HHN~12/13/2026 19:10~BCN~12/13/2026 21:10~~",
+   "flightNumber": "FR1680",
+   "previousPrice": null,
+   "priceUpdated": 1791800548000
+  },
+  "summary": {
+   "price": {
+    "value": 24.99,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "BCN",
+    "name": "Barcelona",
+    "seoName": "barcelona-el-prat",
+    "city": {
+     "code": "BARCELONA",
+     "countryCode": "es",
+     "macCode": "BAR",
+     "name": "Barcelona"
+    }
+   },
+   "departureDate": "2026-12-14T11:15:00",
+   "arrivalDate": "2026-12-14T13:15:00",
+   "price": {
+    "value": 28.61,
+    "valueMainUnit": "28",
+    "valueFractionalUnit": "61",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1680~ ~~HHN~12/14/2026 11:15~BCN~12/14/2026 13:15~~",
+   "flightNumber": "FR1680",
+   "previousPrice": null,
+   "priceUpdated": 1791800519000
+  },
+  "summary": {
+   "price": {
+    "value": 28.61,
+    "valueMainUnit": "28",
+    "valueFractionalUnit": "61",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-14T17:30:00",
+   "arrivalDate": "2026-12-14T20:00:00",
+   "price": {
+    "value": 29.47,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "47",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2663~ ~~HHN~12/14/2026 17:30~ALC~12/14/2026 20:00~~",
+   "flightNumber": "FR2663",
+   "previousPrice": null,
+   "priceUpdated": 1791800520000
+  },
+  "summary": {
+   "price": {
+    "value": 29.47,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "47",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "AGA",
+    "name": "Agadir",
+    "seoName": "agadir",
+    "city": {
+     "code": "AGADIR",
+     "countryCode": "ma",
+     "name": "Agadir"
+    }
+   },
+   "departureDate": "2026-12-12T07:00:00",
+   "arrivalDate": "2026-12-12T09:55:00",
+   "price": {
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9348~ ~~HHN~12/12/2026 07:00~AGA~12/12/2026 09:55~~",
+   "flightNumber": "FR9348",
+   "previousPrice": null,
+   "priceUpdated": 1791800551000
+  },
+  "summary": {
+   "price": {
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "RAK",
+    "name": "Marrakesh",
+    "seoName": "marrakesh",
+    "city": {
+     "code": "MARRAKESH",
+     "countryCode": "ma",
+     "name": "Marrakesh"
+    }
+   },
+   "departureDate": "2026-12-14T21:10:00",
+   "arrivalDate": "2026-12-14T23:55:00",
+   "price": {
+    "value": 31.63,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "63",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9182~ ~~HHN~12/14/2026 21:10~RAK~12/14/2026 23:55~~",
+   "flightNumber": "FR9182",
+   "previousPrice": null,
+   "priceUpdated": 1791800530000
+  },
+  "summary": {
+   "price": {
+    "value": 31.63,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "63",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "FAO",
+    "name": "Faro",
+    "seoName": "faro",
+    "city": {
+     "code": "FARO",
+     "countryCode": "pt",
+     "name": "Faro"
+    }
+   },
+   "departureDate": "2026-12-13T21:25:00",
+   "arrivalDate": "2026-12-13T23:30:00",
+   "price": {
+    "value": 32.99,
+    "valueMainUnit": "32",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5763~ ~~HHN~12/13/2026 21:25~FAO~12/13/2026 23:30~~",
+   "flightNumber": "FR5763",
+   "previousPrice": null,
+   "priceUpdated": 1791800553000
+  },
+  "summary": {
+   "price": {
+    "value": 32.99,
+    "valueMainUnit": "32",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-13T10:30:00",
+   "arrivalDate": "2026-12-13T10:55:00",
+   "price": {
+    "value": 32.99,
+    "valueMainUnit": "32",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1748~ ~~HHN~12/13/2026 10:30~STN~12/13/2026 10:55~~",
+   "flightNumber": "FR1748",
+   "previousPrice": null,
+   "priceUpdated": 1791800523000
+  },
+  "summary": {
+   "price": {
+    "value": 32.99,
+    "valueMainUnit": "32",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "BCN",
+    "name": "Barcelona",
+    "seoName": "barcelona-el-prat",
+    "city": {
+     "code": "BARCELONA",
+     "countryCode": "es",
+     "macCode": "BAR",
+     "name": "Barcelona"
+    }
+   },
+   "departureDate": "2026-12-12T13:35:00",
+   "arrivalDate": "2026-12-12T15:35:00",
+   "price": {
+    "value": 33.27,
+    "valueMainUnit": "33",
+    "valueFractionalUnit": "27",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1680~ ~~HHN~12/12/2026 13:35~BCN~12/12/2026 15:35~~",
+   "flightNumber": "FR1680",
+   "previousPrice": null,
+   "priceUpdated": 1791800552000
+  },
+  "summary": {
+   "price": {
+    "value": 33.27,
+    "valueMainUnit": "33",
+    "valueFractionalUnit": "27",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "CTA",
+    "name": "Catania",
+    "seoName": "catania",
+    "city": {
+     "code": "CATANIA",
+     "countryCode": "it",
+     "name": "Catania"
+    }
+   },
+   "departureDate": "2026-12-13T06:00:00",
+   "arrivalDate": "2026-12-13T08:35:00",
+   "price": {
+    "value": 34.99,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1558~ ~~HHN~12/13/2026 06:00~CTA~12/13/2026 08:35~~",
+   "flightNumber": "FR1558",
+   "previousPrice": null,
+   "priceUpdated": 1791800552000
+  },
+  "summary": {
+   "price": {
+    "value": 34.99,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-14T19:15:00",
+   "arrivalDate": "2026-12-14T19:40:00",
+   "price": {
+    "value": 35.19,
+    "valueMainUnit": "35",
+    "valueFractionalUnit": "19",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6198~ ~~HHN~12/14/2026 19:15~STN~12/14/2026 19:40~~",
+   "flightNumber": "FR6198",
+   "previousPrice": null,
+   "priceUpdated": 1791800529000
+  },
+  "summary": {
+   "price": {
+    "value": 35.19,
+    "valueMainUnit": "35",
+    "valueFractionalUnit": "19",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-13T09:45:00",
+   "arrivalDate": "2026-12-13T12:15:00",
+   "price": {
+    "value": 35.99,
+    "valueMainUnit": "35",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2663~ ~~HHN~12/13/2026 09:45~ALC~12/13/2026 12:15~~",
+   "flightNumber": "FR2663",
+   "previousPrice": null,
+   "priceUpdated": 1791800552000
+  },
+  "summary": {
+   "price": {
+    "value": 35.99,
+    "valueMainUnit": "35",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Bulgaria",
+    "iataCode": "SOF",
+    "name": "Sofia",
+    "seoName": "sofia",
+    "city": {
+     "code": "SOFIA",
+     "countryCode": "bg",
+     "name": "Sofia"
+    }
+   },
+   "departureDate": "2026-12-14T06:10:00",
+   "arrivalDate": "2026-12-14T09:35:00",
+   "price": {
+    "value": 37.17,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "17",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1440~ ~~HHN~12/14/2026 06:10~SOF~12/14/2026 09:35~~",
+   "flightNumber": "FR1440",
+   "previousPrice": null,
+   "priceUpdated": 1791800527000
+  },
+  "summary": {
+   "price": {
+    "value": 37.17,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "17",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-18T20:45:00",
+   "arrivalDate": "2026-12-18T21:10:00",
+   "price": {
+    "value": 37.99,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1748~ ~~HHN~12/18/2026 20:45~STN~12/18/2026 21:10~~",
+   "flightNumber": "FR1748",
+   "previousPrice": null,
+   "priceUpdated": 1791802324000
+  },
+  "summary": {
+   "price": {
+    "value": 37.99,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "PMI",
+    "name": "Palma de Mallorca",
+    "seoName": "palma-mallorca",
+    "city": {
+     "code": "PALMA",
+     "countryCode": "es",
+     "name": "Palma"
+    }
+   },
+   "departureDate": "2026-12-12T18:50:00",
+   "arrivalDate": "2026-12-12T21:00:00",
+   "price": {
+    "value": 39.99,
+    "valueMainUnit": "39",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 369~ ~~HHN~12/12/2026 18:50~PMI~12/12/2026 21:00~~",
+   "flightNumber": "FR369",
+   "previousPrice": null,
+   "priceUpdated": 1791800527000
+  },
+  "summary": {
+   "price": {
+    "value": 39.99,
+    "valueMainUnit": "39",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Bulgaria",
+    "iataCode": "SOF",
+    "name": "Sofia",
+    "seoName": "sofia",
+    "city": {
+     "code": "SOFIA",
+     "countryCode": "bg",
+     "name": "Sofia"
+    }
+   },
+   "departureDate": "2026-12-12T16:10:00",
+   "arrivalDate": "2026-12-12T19:35:00",
+   "price": {
+    "value": 40.71,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "71",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1440~ ~~HHN~12/12/2026 16:10~SOF~12/12/2026 19:35~~",
+   "flightNumber": "FR1440",
+   "previousPrice": null,
+   "priceUpdated": 1791800524000
+  },
+  "summary": {
+   "price": {
+    "value": 40.71,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "71",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "FEZ",
+    "name": "Fez",
+    "seoName": "fez",
+    "city": {
+     "code": "FEZ",
+     "countryCode": "ma",
+     "name": "Fez"
+    }
+   },
+   "departureDate": "2026-12-15T18:50:00",
+   "arrivalDate": "2026-12-15T21:05:00",
+   "price": {
+    "value": 41.62,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "62",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5702~ ~~HHN~12/15/2026 18:50~FEZ~12/15/2026 21:05~~",
+   "flightNumber": "FR5702",
+   "previousPrice": null,
+   "priceUpdated": 1791802325000
+  },
+  "summary": {
+   "price": {
+    "value": 41.62,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "62",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "TFS",
+    "name": "Tenerife South",
+    "seoName": "tenerife-south",
+    "city": {
+     "code": "TENERIFE",
+     "countryCode": "es",
+     "macCode": "TEN",
+     "name": "Tenerife"
+    }
+   },
+   "departureDate": "2026-12-14T13:50:00",
+   "arrivalDate": "2026-12-14T17:35:00",
+   "price": {
+    "value": 41.63,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "63",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2793~ ~~HHN~12/14/2026 13:50~TFS~12/14/2026 17:35~~",
+   "flightNumber": "FR2793",
+   "previousPrice": null,
+   "priceUpdated": 1791801426000
+  },
+  "summary": {
+   "price": {
+    "value": 41.63,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "63",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-15T11:00:00",
+   "arrivalDate": "2026-12-15T11:25:00",
+   "price": {
+    "value": 43.28,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "28",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1748~ ~~HHN~12/15/2026 11:00~STN~12/15/2026 11:25~~",
+   "flightNumber": "FR1748",
+   "previousPrice": null,
+   "priceUpdated": 1791800528000
+  },
+  "summary": {
+   "price": {
+    "value": 43.28,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "28",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "BCN",
+    "name": "Barcelona",
+    "seoName": "barcelona-el-prat",
+    "city": {
+     "code": "BARCELONA",
+     "countryCode": "es",
+     "macCode": "BAR",
+     "name": "Barcelona"
+    }
+   },
+   "departureDate": "2026-12-16T13:55:00",
+   "arrivalDate": "2026-12-16T15:55:00",
+   "price": {
+    "value": 43.99,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1680~ ~~HHN~12/16/2026 13:55~BCN~12/16/2026 15:55~~",
+   "flightNumber": "FR1680",
+   "previousPrice": null,
+   "priceUpdated": 1791800522000
+  },
+  "summary": {
+   "price": {
+    "value": 43.99,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "KIR",
+    "name": "Kerry",
+    "seoName": "kerry",
+    "city": {
+     "code": "KERRY",
+     "countryCode": "ie",
+     "name": "Kerry"
+    }
+   },
+   "departureDate": "2026-12-13T14:10:00",
+   "arrivalDate": "2026-12-13T15:20:00",
+   "price": {
+    "value": 44.99,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5705~ ~~HHN~12/13/2026 14:10~KIR~12/13/2026 15:20~~",
+   "flightNumber": "FR5705",
+   "previousPrice": null,
+   "priceUpdated": 1791800527000
+  },
+  "summary": {
+   "price": {
+    "value": 44.99,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "RAK",
+    "name": "Marrakesh",
+    "seoName": "marrakesh",
+    "city": {
+     "code": "MARRAKESH",
+     "countryCode": "ma",
+     "name": "Marrakesh"
+    }
+   },
+   "departureDate": "2026-12-12T16:30:00",
+   "arrivalDate": "2026-12-12T19:15:00",
+   "price": {
+    "value": 45.99,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9182~ ~~HHN~12/12/2026 16:30~RAK~12/12/2026 19:15~~",
+   "flightNumber": "FR9182",
+   "previousPrice": null,
+   "priceUpdated": 1791800528000
+  },
+  "summary": {
+   "price": {
+    "value": 45.99,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "NDR",
+    "name": "Nador",
+    "seoName": "nador",
+    "city": {
+     "code": "NADOR",
+     "countryCode": "ma",
+     "name": "Nador"
+    }
+   },
+   "departureDate": "2026-12-13T06:40:00",
+   "arrivalDate": "2026-12-13T08:45:00",
+   "price": {
+    "value": 45.99,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5009~ ~~HHN~12/13/2026 06:40~NDR~12/13/2026 08:45~~",
+   "flightNumber": "FR5009",
+   "previousPrice": null,
+   "priceUpdated": 1791803226000
+  },
+  "summary": {
+   "price": {
+    "value": 45.99,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "FCO",
+    "name": "Rome Fiumicino",
+    "seoName": "rome-fiumicino",
+    "city": {
+     "code": "ROME",
+     "countryCode": "it",
+     "macCode": "ROM",
+     "name": "Rome"
+    }
+   },
+   "departureDate": "2026-12-17T21:00:00",
+   "arrivalDate": "2026-12-17T22:55:00",
+   "price": {
+    "value": 45.99,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6040~ ~~HHN~12/17/2026 21:00~FCO~12/17/2026 22:55~~",
+   "flightNumber": "FR6040",
+   "previousPrice": null,
+   "priceUpdated": 1791803393000
+  },
+  "summary": {
+   "price": {
+    "value": 45.99,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "PMI",
+    "name": "Palma de Mallorca",
+    "seoName": "palma-mallorca",
+    "city": {
+     "code": "PALMA",
+     "countryCode": "es",
+     "name": "Palma"
+    }
+   },
+   "departureDate": "2026-12-16T08:30:00",
+   "arrivalDate": "2026-12-16T10:40:00",
+   "price": {
+    "value": 47.42,
+    "valueMainUnit": "47",
+    "valueFractionalUnit": "42",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 369~ ~~HHN~12/16/2026 08:30~PMI~12/16/2026 10:40~~",
+   "flightNumber": "FR369",
+   "previousPrice": null,
+   "priceUpdated": 1791802843000
+  },
+  "summary": {
+   "price": {
+    "value": 47.42,
+    "valueMainUnit": "47",
+    "valueFractionalUnit": "42",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "PMI",
+    "name": "Palma de Mallorca",
+    "seoName": "palma-mallorca",
+    "city": {
+     "code": "PALMA",
+     "countryCode": "es",
+     "name": "Palma"
+    }
+   },
+   "departureDate": "2026-12-18T17:25:00",
+   "arrivalDate": "2026-12-18T19:35:00",
+   "price": {
+    "value": 47.99,
+    "valueMainUnit": "47",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 369~ ~~HHN~12/18/2026 17:25~PMI~12/18/2026 19:35~~",
+   "flightNumber": "FR369",
+   "previousPrice": null,
+   "priceUpdated": 1791800528000
+  },
+  "summary": {
+   "price": {
+    "value": 47.99,
+    "valueMainUnit": "47",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "BCN",
+    "name": "Barcelona",
+    "seoName": "barcelona-el-prat",
+    "city": {
+     "code": "BARCELONA",
+     "countryCode": "es",
+     "macCode": "BAR",
+     "name": "Barcelona"
+    }
+   },
+   "departureDate": "2026-12-17T17:00:00",
+   "arrivalDate": "2026-12-17T19:00:00",
+   "price": {
+    "value": 49.06,
+    "valueMainUnit": "49",
+    "valueFractionalUnit": "06",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1680~ ~~HHN~12/17/2026 17:00~BCN~12/17/2026 19:00~~",
+   "flightNumber": "FR1680",
+   "previousPrice": null,
+   "priceUpdated": 1791800520000
+  },
+  "summary": {
+   "price": {
+    "value": 49.06,
+    "valueMainUnit": "49",
+    "valueFractionalUnit": "06",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "FEZ",
+    "name": "Fez",
+    "seoName": "fez",
+    "city": {
+     "code": "FEZ",
+     "countryCode": "ma",
+     "name": "Fez"
+    }
+   },
+   "departureDate": "2026-12-16T12:00:00",
+   "arrivalDate": "2026-12-16T14:15:00",
+   "price": {
+    "value": 50.99,
+    "valueMainUnit": "50",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5702~ ~~HHN~12/16/2026 12:00~FEZ~12/16/2026 14:15~~",
+   "flightNumber": "FR5702",
+   "previousPrice": null,
+   "priceUpdated": 1791800527000
+  },
+  "summary": {
+   "price": {
+    "value": 50.99,
+    "valueMainUnit": "50",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "FEZ",
+    "name": "Fez",
+    "seoName": "fez",
+    "city": {
+     "code": "FEZ",
+     "countryCode": "ma",
+     "name": "Fez"
+    }
+   },
+   "departureDate": "2026-12-12T21:25:00",
+   "arrivalDate": "2026-12-12T23:40:00",
+   "price": {
+    "value": 52.99,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5702~ ~~HHN~12/12/2026 21:25~FEZ~12/12/2026 23:40~~",
+   "flightNumber": "FR5702",
+   "previousPrice": null,
+   "priceUpdated": 1791803222000
+  },
+  "summary": {
+   "price": {
+    "value": 52.99,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-16T15:40:00",
+   "arrivalDate": "2026-12-16T16:05:00",
+   "price": {
+    "value": 54.99,
+    "valueMainUnit": "54",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1748~ ~~HHN~12/16/2026 15:40~STN~12/16/2026 16:05~~",
+   "flightNumber": "FR1748",
+   "previousPrice": null,
+   "priceUpdated": 1791800532000
+  },
+  "summary": {
+   "price": {
+    "value": 54.99,
+    "valueMainUnit": "54",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-16T15:25:00",
+   "arrivalDate": "2026-12-16T18:25:00",
+   "price": {
+    "value": 55.15,
+    "valueMainUnit": "55",
+    "valueFractionalUnit": "15",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7865~ ~~HHN~12/16/2026 15:25~AGP~12/16/2026 18:25~~",
+   "flightNumber": "FR7865",
+   "previousPrice": null,
+   "priceUpdated": 1791800522000
+  },
+  "summary": {
+   "price": {
+    "value": 55.15,
+    "valueMainUnit": "55",
+    "valueFractionalUnit": "15",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "FCO",
+    "name": "Rome Fiumicino",
+    "seoName": "rome-fiumicino",
+    "city": {
+     "code": "ROME",
+     "countryCode": "it",
+     "macCode": "ROM",
+     "name": "Rome"
+    }
+   },
+   "departureDate": "2026-12-19T22:55:00",
+   "arrivalDate": "2026-12-20T00:50:00",
+   "price": {
+    "value": 55.39,
+    "valueMainUnit": "55",
+    "valueFractionalUnit": "39",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6040~ ~~HHN~12/19/2026 22:55~FCO~12/20/2026 00:50~~",
+   "flightNumber": "FR6040",
+   "previousPrice": null,
+   "priceUpdated": 1791800519000
+  },
+  "summary": {
+   "price": {
+    "value": 55.39,
+    "valueMainUnit": "55",
+    "valueFractionalUnit": "39",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "RBA",
+    "name": "Rabat",
+    "seoName": "rabat",
+    "city": {
+     "code": "RABAT",
+     "countryCode": "ma",
+     "name": "Rabat"
+    }
+   },
+   "departureDate": "2026-12-13T18:35:00",
+   "arrivalDate": "2026-12-13T20:55:00",
+   "price": {
+    "value": 55.99,
+    "valueMainUnit": "55",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6276~ ~~HHN~12/13/2026 18:35~RBA~12/13/2026 20:55~~",
+   "flightNumber": "FR6276",
+   "previousPrice": null,
+   "priceUpdated": 1791800525000
+  },
+  "summary": {
+   "price": {
+    "value": 55.99,
+    "valueMainUnit": "55",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "PMI",
+    "name": "Palma de Mallorca",
+    "seoName": "palma-mallorca",
+    "city": {
+     "code": "PALMA",
+     "countryCode": "es",
+     "name": "Palma"
+    }
+   },
+   "departureDate": "2026-12-19T18:50:00",
+   "arrivalDate": "2026-12-19T21:00:00",
+   "price": {
+    "value": 56.05,
+    "valueMainUnit": "56",
+    "valueFractionalUnit": "05",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 369~ ~~HHN~12/19/2026 18:50~PMI~12/19/2026 21:00~~",
+   "flightNumber": "FR369",
+   "previousPrice": null,
+   "priceUpdated": 1791800531000
+  },
+  "summary": {
+   "price": {
+    "value": 56.05,
+    "valueMainUnit": "56",
+    "valueFractionalUnit": "05",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "PMO",
+    "name": "Palermo",
+    "seoName": "palermo",
+    "city": {
+     "code": "PALERMO",
+     "countryCode": "it",
+     "name": "Palermo"
+    }
+   },
+   "departureDate": "2026-12-13T14:05:00",
+   "arrivalDate": "2026-12-13T16:25:00",
+   "price": {
+    "value": 56.82,
+    "valueMainUnit": "56",
+    "valueFractionalUnit": "82",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6349~ ~~HHN~12/13/2026 14:05~PMO~12/13/2026 16:25~~",
+   "flightNumber": "FR6349",
+   "previousPrice": null,
+   "priceUpdated": 1791800527000
+  },
+  "summary": {
+   "price": {
+    "value": 56.82,
+    "valueMainUnit": "56",
+    "valueFractionalUnit": "82",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-17T20:45:00",
+   "arrivalDate": "2026-12-17T21:10:00",
+   "price": {
+    "value": 57.23,
+    "valueMainUnit": "57",
+    "valueFractionalUnit": "23",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1748~ ~~HHN~12/17/2026 20:45~STN~12/17/2026 21:10~~",
+   "flightNumber": "FR1748",
+   "previousPrice": null,
+   "priceUpdated": 1791800528000
+  },
+  "summary": {
+   "price": {
+    "value": 57.23,
+    "valueMainUnit": "57",
+    "valueFractionalUnit": "23",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "OPO",
+    "name": "Porto",
+    "seoName": "porto",
+    "city": {
+     "code": "PORTO",
+     "countryCode": "pt",
+     "name": "Porto"
+    }
+   },
+   "departureDate": "2026-12-13T11:20:00",
+   "arrivalDate": "2026-12-13T13:05:00",
+   "price": {
+    "value": 60.89,
+    "valueMainUnit": "60",
+    "valueFractionalUnit": "89",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4392~ ~~HHN~12/13/2026 11:20~OPO~12/13/2026 13:05~~",
+   "flightNumber": "FR4392",
+   "previousPrice": null,
+   "priceUpdated": 1791800526000
+  },
+  "summary": {
+   "price": {
+    "value": 60.89,
+    "valueMainUnit": "60",
+    "valueFractionalUnit": "89",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "NDR",
+    "name": "Nador",
+    "seoName": "nador",
+    "city": {
+     "code": "NADOR",
+     "countryCode": "ma",
+     "name": "Nador"
+    }
+   },
+   "departureDate": "2026-12-15T08:00:00",
+   "arrivalDate": "2026-12-15T10:05:00",
+   "price": {
+    "value": 61.29,
+    "valueMainUnit": "61",
+    "valueFractionalUnit": "29",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5009~ ~~HHN~12/15/2026 08:00~NDR~12/15/2026 10:05~~",
+   "flightNumber": "FR5009",
+   "previousPrice": null,
+   "priceUpdated": 1791802295000
+  },
+  "summary": {
+   "price": {
+    "value": 61.29,
+    "valueMainUnit": "61",
+    "valueFractionalUnit": "29",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-13T12:25:00",
+   "arrivalDate": "2026-12-13T15:25:00",
+   "price": {
+    "value": 63.99,
+    "valueMainUnit": "63",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7865~ ~~HHN~12/13/2026 12:25~AGP~12/13/2026 15:25~~",
+   "flightNumber": "FR7865",
+   "previousPrice": null,
+   "priceUpdated": 1791800548000
+  },
+  "summary": {
+   "price": {
+    "value": 63.99,
+    "valueMainUnit": "63",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "SUF",
+    "name": "Lamezia",
+    "seoName": "lamezia",
+    "city": {
+     "code": "LAMEZIA",
+     "countryCode": "it",
+     "name": "Lamezia"
+    }
+   },
+   "departureDate": "2026-12-14T09:25:00",
+   "arrivalDate": "2026-12-14T11:45:00",
+   "price": {
+    "value": 66.89,
+    "valueMainUnit": "66",
+    "valueFractionalUnit": "89",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9969~ ~~HHN~12/14/2026 09:25~SUF~12/14/2026 11:45~~",
+   "flightNumber": "FR9969",
+   "previousPrice": null,
+   "priceUpdated": 1791800531000
+  },
+  "summary": {
+   "price": {
+    "value": 66.89,
+    "valueMainUnit": "66",
+    "valueFractionalUnit": "89",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "FCO",
+    "name": "Rome Fiumicino",
+    "seoName": "rome-fiumicino",
+    "city": {
+     "code": "ROME",
+     "countryCode": "it",
+     "macCode": "ROM",
+     "name": "Rome"
+    }
+   },
+   "departureDate": "2026-12-13T19:40:00",
+   "arrivalDate": "2026-12-13T21:35:00",
+   "price": {
+    "value": 66.94,
+    "valueMainUnit": "66",
+    "valueFractionalUnit": "94",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6040~ ~~HHN~12/13/2026 19:40~FCO~12/13/2026 21:35~~",
+   "flightNumber": "FR6040",
+   "previousPrice": null,
+   "priceUpdated": 1791800550000
+  },
+  "summary": {
+   "price": {
+    "value": 66.94,
+    "valueMainUnit": "66",
+    "valueFractionalUnit": "94",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "FAO",
+    "name": "Faro",
+    "seoName": "faro",
+    "city": {
+     "code": "FARO",
+     "countryCode": "pt",
+     "name": "Faro"
+    }
+   },
+   "departureDate": "2026-12-18T13:45:00",
+   "arrivalDate": "2026-12-18T15:50:00",
+   "price": {
+    "value": 67.99,
+    "valueMainUnit": "67",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5763~ ~~HHN~12/18/2026 13:45~FAO~12/18/2026 15:50~~",
+   "flightNumber": "FR5763",
+   "previousPrice": null,
+   "priceUpdated": 1791801673000
+  },
+  "summary": {
+   "price": {
+    "value": 67.99,
+    "valueMainUnit": "67",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-18T16:50:00",
+   "arrivalDate": "2026-12-18T19:20:00",
+   "price": {
+    "value": 68.99,
+    "valueMainUnit": "68",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2663~ ~~HHN~12/18/2026 16:50~ALC~12/18/2026 19:20~~",
+   "flightNumber": "FR2663",
+   "previousPrice": null,
+   "priceUpdated": 1791801651000
+  },
+  "summary": {
+   "price": {
+    "value": 68.99,
+    "valueMainUnit": "68",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "FEZ",
+    "name": "Fez",
+    "seoName": "fez",
+    "city": {
+     "code": "FEZ",
+     "countryCode": "ma",
+     "name": "Fez"
+    }
+   },
+   "departureDate": "2026-12-17T06:25:00",
+   "arrivalDate": "2026-12-17T08:40:00",
+   "price": {
+    "value": 70.99,
+    "valueMainUnit": "70",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5702~ ~~HHN~12/17/2026 06:25~FEZ~12/17/2026 08:40~~",
+   "flightNumber": "FR5702",
+   "previousPrice": null,
+   "priceUpdated": 1791803386000
+  },
+  "summary": {
+   "price": {
+    "value": 70.99,
+    "valueMainUnit": "70",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "CTA",
+    "name": "Catania",
+    "seoName": "catania",
+    "city": {
+     "code": "CATANIA",
+     "countryCode": "it",
+     "name": "Catania"
+    }
+   },
+   "departureDate": "2026-12-18T06:15:00",
+   "arrivalDate": "2026-12-18T08:50:00",
+   "price": {
+    "value": 73.99,
+    "valueMainUnit": "73",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1558~ ~~HHN~12/18/2026 06:15~CTA~12/18/2026 08:50~~",
+   "flightNumber": "FR1558",
+   "previousPrice": null,
+   "priceUpdated": 1791801648000
+  },
+  "summary": {
+   "price": {
+    "value": 73.99,
+    "valueMainUnit": "73",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "NDR",
+    "name": "Nador",
+    "seoName": "nador",
+    "city": {
+     "code": "NADOR",
+     "countryCode": "ma",
+     "name": "Nador"
+    }
+   },
+   "departureDate": "2026-12-12T06:10:00",
+   "arrivalDate": "2026-12-12T08:15:00",
+   "price": {
+    "value": 75.72,
+    "valueMainUnit": "75",
+    "valueFractionalUnit": "72",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5009~ ~~HHN~12/12/2026 06:10~NDR~12/12/2026 08:15~~",
+   "flightNumber": "FR5009",
+   "previousPrice": null,
+   "priceUpdated": 1791800524000
+  },
+  "summary": {
+   "price": {
+    "value": 75.72,
+    "valueMainUnit": "75",
+    "valueFractionalUnit": "72",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "RBA",
+    "name": "Rabat",
+    "seoName": "rabat",
+    "city": {
+     "code": "RABAT",
+     "countryCode": "ma",
+     "name": "Rabat"
+    }
+   },
+   "departureDate": "2026-12-17T07:20:00",
+   "arrivalDate": "2026-12-17T09:40:00",
+   "price": {
+    "value": 78.69,
+    "valueMainUnit": "78",
+    "valueFractionalUnit": "69",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6276~ ~~HHN~12/17/2026 07:20~RBA~12/17/2026 09:40~~",
+   "flightNumber": "FR6276",
+   "previousPrice": null,
+   "priceUpdated": 1791801424000
+  },
+  "summary": {
+   "price": {
+    "value": 78.69,
+    "valueMainUnit": "78",
+    "valueFractionalUnit": "69",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-18T06:25:00",
+   "arrivalDate": "2026-12-18T09:25:00",
+   "price": {
+    "value": 80.99,
+    "valueMainUnit": "80",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7865~ ~~HHN~12/18/2026 06:25~AGP~12/18/2026 09:25~~",
+   "flightNumber": "FR7865",
+   "previousPrice": null,
+   "priceUpdated": 1791801642000
+  },
+  "summary": {
+   "price": {
+    "value": 80.99,
+    "valueMainUnit": "80",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "RAK",
+    "name": "Marrakesh",
+    "seoName": "marrakesh",
+    "city": {
+     "code": "MARRAKESH",
+     "countryCode": "ma",
+     "name": "Marrakesh"
+    }
+   },
+   "departureDate": "2026-12-17T16:30:00",
+   "arrivalDate": "2026-12-17T19:15:00",
+   "price": {
+    "value": 80.99,
+    "valueMainUnit": "80",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9182~ ~~HHN~12/17/2026 16:30~RAK~12/17/2026 19:15~~",
+   "flightNumber": "FR9182",
+   "previousPrice": null,
+   "priceUpdated": 1791800532000
+  },
+  "summary": {
+   "price": {
+    "value": 80.99,
+    "valueMainUnit": "80",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-17T14:25:00",
+   "arrivalDate": "2026-12-17T16:55:00",
+   "price": {
+    "value": 82.24,
+    "valueMainUnit": "82",
+    "valueFractionalUnit": "24",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2663~ ~~HHN~12/17/2026 14:25~ALC~12/17/2026 16:55~~",
+   "flightNumber": "FR2663",
+   "previousPrice": null,
+   "priceUpdated": 1791800523000
+  },
+  "summary": {
+   "price": {
+    "value": 82.24,
+    "valueMainUnit": "82",
+    "valueFractionalUnit": "24",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "CTA",
+    "name": "Catania",
+    "seoName": "catania",
+    "city": {
+     "code": "CATANIA",
+     "countryCode": "it",
+     "name": "Catania"
+    }
+   },
+   "departureDate": "2026-12-17T12:40:00",
+   "arrivalDate": "2026-12-17T15:15:00",
+   "price": {
+    "value": 82.58,
+    "valueMainUnit": "82",
+    "valueFractionalUnit": "58",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1558~ ~~HHN~12/17/2026 12:40~CTA~12/17/2026 15:15~~",
+   "flightNumber": "FR1558",
+   "previousPrice": null,
+   "priceUpdated": 1791800522000
+  },
+  "summary": {
+   "price": {
+    "value": 82.58,
+    "valueMainUnit": "82",
+    "valueFractionalUnit": "58",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "NDR",
+    "name": "Nador",
+    "seoName": "nador",
+    "city": {
+     "code": "NADOR",
+     "countryCode": "ma",
+     "name": "Nador"
+    }
+   },
+   "departureDate": "2026-12-16T08:00:00",
+   "arrivalDate": "2026-12-16T10:05:00",
+   "price": {
+    "value": 83.99,
+    "valueMainUnit": "83",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5009~ ~~HHN~12/16/2026 08:00~NDR~12/16/2026 10:05~~",
+   "flightNumber": "FR5009",
+   "previousPrice": null,
+   "priceUpdated": 1791800528000
+  },
+  "summary": {
+   "price": {
+    "value": 83.99,
+    "valueMainUnit": "83",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-19T06:10:00",
+   "arrivalDate": "2026-12-19T08:40:00",
+   "price": {
+    "value": 85.99,
+    "valueMainUnit": "85",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2663~ ~~HHN~12/19/2026 06:10~ALC~12/19/2026 08:40~~",
+   "flightNumber": "FR2663",
+   "previousPrice": null,
+   "priceUpdated": 1791801637000
+  },
+  "summary": {
+   "price": {
+    "value": 85.99,
+    "valueMainUnit": "85",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "BCN",
+    "name": "Barcelona",
+    "seoName": "barcelona-el-prat",
+    "city": {
+     "code": "BARCELONA",
+     "countryCode": "es",
+     "macCode": "BAR",
+     "name": "Barcelona"
+    }
+   },
+   "departureDate": "2026-12-19T13:35:00",
+   "arrivalDate": "2026-12-19T15:35:00",
+   "price": {
+    "value": 86.99,
+    "valueMainUnit": "86",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1680~ ~~HHN~12/19/2026 13:35~BCN~12/19/2026 15:35~~",
+   "flightNumber": "FR1680",
+   "previousPrice": null,
+   "priceUpdated": 1791802322000
+  },
+  "summary": {
+   "price": {
+    "value": 86.99,
+    "valueMainUnit": "86",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "CTA",
+    "name": "Catania",
+    "seoName": "catania",
+    "city": {
+     "code": "CATANIA",
+     "countryCode": "it",
+     "name": "Catania"
+    }
+   },
+   "departureDate": "2026-12-14T13:15:00",
+   "arrivalDate": "2026-12-14T15:50:00",
+   "price": {
+    "value": 92.45,
+    "valueMainUnit": "92",
+    "valueFractionalUnit": "45",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1558~ ~~HHN~12/14/2026 13:15~CTA~12/14/2026 15:50~~",
+   "flightNumber": "FR1558",
+   "previousPrice": null,
+   "priceUpdated": 1791800521000
+  },
+  "summary": {
+   "price": {
+    "value": 92.45,
+    "valueMainUnit": "92",
+    "valueFractionalUnit": "45",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "TFS",
+    "name": "Tenerife South",
+    "seoName": "tenerife-south",
+    "city": {
+     "code": "TENERIFE",
+     "countryCode": "es",
+     "macCode": "TEN",
+     "name": "Tenerife"
+    }
+   },
+   "departureDate": "2026-12-17T06:10:00",
+   "arrivalDate": "2026-12-17T09:55:00",
+   "price": {
+    "value": 93.99,
+    "valueMainUnit": "93",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2793~ ~~HHN~12/17/2026 06:10~TFS~12/17/2026 09:55~~",
+   "flightNumber": "FR2793",
+   "previousPrice": null,
+   "priceUpdated": 1791800530000
+  },
+  "summary": {
+   "price": {
+    "value": 93.99,
+    "valueMainUnit": "93",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "SUF",
+    "name": "Lamezia",
+    "seoName": "lamezia",
+    "city": {
+     "code": "LAMEZIA",
+     "countryCode": "it",
+     "name": "Lamezia"
+    }
+   },
+   "departureDate": "2026-12-17T09:05:00",
+   "arrivalDate": "2026-12-17T11:25:00",
+   "price": {
+    "value": 96.68,
+    "valueMainUnit": "96",
+    "valueFractionalUnit": "68",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9969~ ~~HHN~12/17/2026 09:05~SUF~12/17/2026 11:25~~",
+   "flightNumber": "FR9969",
+   "previousPrice": null,
+   "priceUpdated": 1791800527000
+  },
+  "summary": {
+   "price": {
+    "value": 96.68,
+    "valueMainUnit": "96",
+    "valueFractionalUnit": "68",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "PMO",
+    "name": "Palermo",
+    "seoName": "palermo",
+    "city": {
+     "code": "PALERMO",
+     "countryCode": "it",
+     "name": "Palermo"
+    }
+   },
+   "departureDate": "2026-12-18T07:25:00",
+   "arrivalDate": "2026-12-18T09:45:00",
+   "price": {
+    "value": 97.99,
+    "valueMainUnit": "97",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6349~ ~~HHN~12/18/2026 07:25~PMO~12/18/2026 09:45~~",
+   "flightNumber": "FR6349",
+   "previousPrice": null,
+   "priceUpdated": 1791802323000
+  },
+  "summary": {
+   "price": {
+    "value": 97.99,
+    "valueMainUnit": "97",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "KIR",
+    "name": "Kerry",
+    "seoName": "kerry",
+    "city": {
+     "code": "KERRY",
+     "countryCode": "ie",
+     "name": "Kerry"
+    }
+   },
+   "departureDate": "2026-12-18T12:55:00",
+   "arrivalDate": "2026-12-18T14:05:00",
+   "price": {
+    "value": 104.07,
+    "valueMainUnit": "104",
+    "valueFractionalUnit": "07",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5705~ ~~HHN~12/18/2026 12:55~KIR~12/18/2026 14:05~~",
+   "flightNumber": "FR5705",
+   "previousPrice": null,
+   "priceUpdated": 1791800532000
+  },
+  "summary": {
+   "price": {
+    "value": 104.07,
+    "valueMainUnit": "104",
+    "valueFractionalUnit": "07",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "RAK",
+    "name": "Marrakesh",
+    "seoName": "marrakesh",
+    "city": {
+     "code": "MARRAKESH",
+     "countryCode": "ma",
+     "name": "Marrakesh"
+    }
+   },
+   "departureDate": "2026-12-19T16:30:00",
+   "arrivalDate": "2026-12-19T19:15:00",
+   "price": {
+    "value": 108.97,
+    "valueMainUnit": "108",
+    "valueFractionalUnit": "97",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9182~ ~~HHN~12/19/2026 16:30~RAK~12/19/2026 19:15~~",
+   "flightNumber": "FR9182",
+   "previousPrice": null,
+   "priceUpdated": 1791802324000
+  },
+  "summary": {
+   "price": {
+    "value": 108.97,
+    "valueMainUnit": "108",
+    "valueFractionalUnit": "97",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "PMO",
+    "name": "Palermo",
+    "seoName": "palermo",
+    "city": {
+     "code": "PALERMO",
+     "countryCode": "it",
+     "name": "Palermo"
+    }
+   },
+   "departureDate": "2026-12-19T21:10:00",
+   "arrivalDate": "2026-12-19T23:30:00",
+   "price": {
+    "value": 113.05,
+    "valueMainUnit": "113",
+    "valueFractionalUnit": "05",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6349~ ~~HHN~12/19/2026 21:10~PMO~12/19/2026 23:30~~",
+   "flightNumber": "FR6349",
+   "previousPrice": null,
+   "priceUpdated": 1791800531000
+  },
+  "summary": {
+   "price": {
+    "value": 113.05,
+    "valueMainUnit": "113",
+    "valueFractionalUnit": "05",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "NDR",
+    "name": "Nador",
+    "seoName": "nador",
+    "city": {
+     "code": "NADOR",
+     "countryCode": "ma",
+     "name": "Nador"
+    }
+   },
+   "departureDate": "2026-12-18T18:20:00",
+   "arrivalDate": "2026-12-18T20:25:00",
+   "price": {
+    "value": 115.99,
+    "valueMainUnit": "115",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5009~ ~~HHN~12/18/2026 18:20~NDR~12/18/2026 20:25~~",
+   "flightNumber": "FR5009",
+   "previousPrice": null,
+   "priceUpdated": 1791802326000
+  },
+  "summary": {
+   "price": {
+    "value": 115.99,
+    "valueMainUnit": "115",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Bulgaria",
+    "iataCode": "SOF",
+    "name": "Sofia",
+    "seoName": "sofia",
+    "city": {
+     "code": "SOFIA",
+     "countryCode": "bg",
+     "name": "Sofia"
+    }
+   },
+   "departureDate": "2026-12-19T16:10:00",
+   "arrivalDate": "2026-12-19T19:35:00",
+   "price": {
+    "value": 126.14,
+    "valueMainUnit": "126",
+    "valueFractionalUnit": "14",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1440~ ~~HHN~12/19/2026 16:10~SOF~12/19/2026 19:35~~",
+   "flightNumber": "FR1440",
+   "previousPrice": null,
+   "priceUpdated": 1791800531000
+  },
+  "summary": {
+   "price": {
+    "value": 126.14,
+    "valueMainUnit": "126",
+    "valueFractionalUnit": "14",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "SUF",
+    "name": "Lamezia",
+    "seoName": "lamezia",
+    "city": {
+     "code": "LAMEZIA",
+     "countryCode": "it",
+     "name": "Lamezia"
+    }
+   },
+   "departureDate": "2026-12-18T22:10:00",
+   "arrivalDate": "2026-12-19T00:30:00",
+   "price": {
+    "value": 129.99,
+    "valueMainUnit": "129",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9969~ ~~HHN~12/18/2026 22:10~SUF~12/19/2026 00:30~~",
+   "flightNumber": "FR9969",
+   "previousPrice": null,
+   "priceUpdated": 1791800528000
+  },
+  "summary": {
+   "price": {
+    "value": 129.99,
+    "valueMainUnit": "129",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "RAK",
+    "name": "Marrakesh",
+    "seoName": "marrakesh",
+    "city": {
+     "code": "MARRAKESH",
+     "countryCode": "ma",
+     "name": "Marrakesh"
+    }
+   },
+   "departureDate": "2026-12-18T16:15:00",
+   "arrivalDate": "2026-12-18T19:00:00",
+   "price": {
+    "value": 140.99,
+    "valueMainUnit": "140",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9182~ ~~HHN~12/18/2026 16:15~RAK~12/18/2026 19:00~~",
+   "flightNumber": "FR9182",
+   "previousPrice": null,
+   "priceUpdated": 1791800532000
+  },
+  "summary": {
+   "price": {
+    "value": 140.99,
+    "valueMainUnit": "140",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-19T09:40:00",
+   "arrivalDate": "2026-12-19T12:40:00",
+   "price": {
+    "value": 143.62,
+    "valueMainUnit": "143",
+    "valueFractionalUnit": "62",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7865~ ~~HHN~12/19/2026 09:40~AGP~12/19/2026 12:40~~",
+   "flightNumber": "FR7865",
+   "previousPrice": null,
+   "priceUpdated": 1791800522000
+  },
+  "summary": {
+   "price": {
+    "value": 143.62,
+    "valueMainUnit": "143",
+    "valueFractionalUnit": "62",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "NDR",
+    "name": "Nador",
+    "seoName": "nador",
+    "city": {
+     "code": "NADOR",
+     "countryCode": "ma",
+     "name": "Nador"
+    }
+   },
+   "departureDate": "2026-12-19T06:10:00",
+   "arrivalDate": "2026-12-19T08:15:00",
+   "price": {
+    "value": 146.51,
+    "valueMainUnit": "146",
+    "valueFractionalUnit": "51",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5009~ ~~HHN~12/19/2026 06:10~NDR~12/19/2026 08:15~~",
+   "flightNumber": "FR5009",
+   "previousPrice": null,
+   "priceUpdated": 1791800529000
+  },
+  "summary": {
+   "price": {
+    "value": 146.51,
+    "valueMainUnit": "146",
+    "valueFractionalUnit": "51",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "FEZ",
+    "name": "Fez",
+    "seoName": "fez",
+    "city": {
+     "code": "FEZ",
+     "countryCode": "ma",
+     "name": "Fez"
+    }
+   },
+   "departureDate": "2026-12-19T21:25:00",
+   "arrivalDate": "2026-12-19T23:40:00",
+   "price": {
+    "value": 151.99,
+    "valueMainUnit": "151",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5702~ ~~HHN~12/19/2026 21:25~FEZ~12/19/2026 23:40~~",
+   "flightNumber": "FR5702",
+   "previousPrice": null,
+   "priceUpdated": 1791803225000
+  },
+  "summary": {
+   "price": {
+    "value": 151.99,
+    "valueMainUnit": "151",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "AGA",
+    "name": "Agadir",
+    "seoName": "agadir",
+    "city": {
+     "code": "AGADIR",
+     "countryCode": "ma",
+     "name": "Agadir"
+    }
+   },
+   "departureDate": "2026-12-19T07:00:00",
+   "arrivalDate": "2026-12-19T09:55:00",
+   "price": {
+    "value": 174.99,
+    "valueMainUnit": "174",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9348~ ~~HHN~12/19/2026 07:00~AGA~12/19/2026 09:55~~",
+   "flightNumber": "FR9348",
+   "previousPrice": null,
+   "priceUpdated": 1791801622000
+  },
+  "summary": {
+   "price": {
+    "value": 174.99,
+    "valueMainUnit": "174",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HHN",
+    "name": "Frankfurt Hahn",
+    "seoName": "frankfurt-hahn",
+    "city": {
+     "code": "FRANKFURT",
+     "countryCode": "de",
+     "macCode": "FRT",
+     "name": "Frankfurt"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "OPO",
+    "name": "Porto",
+    "seoName": "porto",
+    "city": {
+     "code": "PORTO",
+     "countryCode": "pt",
+     "name": "Porto"
+    }
+   },
+   "departureDate": "2026-12-18T16:20:00",
+   "arrivalDate": "2026-12-18T18:05:00",
+   "price": {
+    "value": 196.99,
+    "valueMainUnit": "196",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4392~ ~~HHN~12/18/2026 16:20~OPO~12/18/2026 18:05~~",
+   "flightNumber": "FR4392",
+   "previousPrice": null,
+   "priceUpdated": 1791800530000
+  },
+  "summary": {
+   "price": {
+    "value": 196.99,
+    "valueMainUnit": "196",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ }
+]

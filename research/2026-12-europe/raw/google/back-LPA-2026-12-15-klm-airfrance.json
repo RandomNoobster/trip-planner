@@ -1,0 +1,39 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMTUyAktMMgJBRmoFEgNMUEFyBRIDVFJEQAFIAZgBAg",
+ "fetchedAt": "2026-10-11T11:25:36",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 249.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air Europa and KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Gran Canaria Airport",
+   "depTime": "10:00",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-15",
+   "durationMin": 730,
+   "layovers": [
+    {
+     "min": 195,
+     "overnight": false,
+     "airport": "Adolfo Suárez Madrid-Barajas Airport",
+     "city": "Madrid"
+    },
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 249 euros. 2 stops flight with Air Europa and KLM. Operated by KLM Cityhopper. Leaves Gran Canaria Airport at 10:00 AM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 11:10 PM on Tuesday, December 15. Total duration 12 hr 10 min.  Layover (1 of 2) is a 3 hr 15 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Layover (2 of 2) is a 1 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  }
+ ]
+}

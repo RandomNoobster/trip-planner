@@ -1,0 +1,37 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA0RCVkABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 263.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Croatia",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Dubrovnik Airport",
+   "arrTime": "22:00",
+   "arrDate": "2026-12-09",
+   "durationMin": 940,
+   "layovers": [
+    {
+     "min": 330,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 305,
+     "airport": "Franjo Tuđman International Airport Zagr",
+     "city": "Zagreb",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMDcyAktMMgJBRmoFEgNUUkRyBRIDQlJVQAFIAZgBAg",
+ "fetchedAt": "2026-10-11T11:23:24",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 133.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Brussels Airport",
+   "arrTime": "10:10",
+   "arrDate": "2026-12-07",
+   "durationMin": 230,
+   "layovers": [
+    {
+     "min": 45,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 133 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Monday, December 7 and arrives at Brussels Airport at 10:10 AM on Monday, December 7. Total duration 3 hr 50 min.  Layover (1 of 1) is a 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 218.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and KLM",
+   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:25",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Brussels Airport",
+   "arrTime": "14:15",
+   "arrDate": "2026-12-07",
+   "durationMin": 470,
+   "layovers": [
+    {
+     "min": 115,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    },
+    {
+     "min": 125,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 218 euros. 2 stops flight with Scandinavian Airlines and KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:25 AM on Monday, December 7 and arrives at Brussels Airport at 2:15 PM on Monday, December 7. Total duration 7 hr 50 min.  Layover (1 of 2) is a 1 hr 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 218.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "16:35",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Brussels Airport",
+   "arrTime": "22:20",
+   "arrDate": "2026-12-07",
+   "durationMin": 345,
+   "layovers": [
+    {
+     "min": 80,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    },
+    {
+     "min": 45,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 218 euros. 2 stops flight with Scandinavian Airlines and KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 4:35 PM on Monday, December 7 and arrives at Brussels Airport at 10:20 PM on Monday, December 7. Total duration 5 hr 45 min.  Layover (1 of 2) is a 1 hr 20 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 248.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Brussels Airport",
+   "arrTime": "22:20",
+   "arrDate": "2026-12-07",
+   "durationMin": 310,
+   "layovers": [
+    {
+     "min": 125,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 248 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:10 PM on Monday, December 7 and arrives at Brussels Airport at 10:20 PM on Monday, December 7. Total duration 5 hr 10 min.  Layover (1 of 1) is a 2 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDRkxScgUSA1RSREABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 150.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Amerigo Vespucci Airport",
+   "depTime": "11:25",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-13",
+   "durationMin": 310,
+   "layovers": [
+    {
+     "min": 50,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 243.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air France and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Amerigo Vespucci Airport",
+   "depTime": "06:50",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:45",
+   "arrDate": "2026-12-13",
+   "durationMin": 475,
+   "layovers": [
+    {
+     "min": 70,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    },
+    {
+     "min": 80,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 272.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air Dolomiti, Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Amerigo Vespucci Airport",
+   "depTime": "06:30",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:45",
+   "arrDate": "2026-12-13",
+   "durationMin": 495,
+   "layovers": [
+    {
+     "min": 125,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    },
+    {
+     "min": 85,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 331.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Amerigo Vespucci Airport",
+   "depTime": "06:40",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:20",
+   "arrDate": "2026-12-13",
+   "durationMin": 460,
+   "layovers": [
+    {
+     "min": 70,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 95,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTFqBRIDRFVCcgUSA0xQQUABSAGYAQI",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 49.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": null,
+   "depAirportName": "Dublin Airport",
+   "depTime": "05:50",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Gran Canaria Airport",
+   "arrTime": "10:10",
+   "arrDate": "2026-12-11",
+   "durationMin": 260,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 49 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Leaves Dublin Airport at 5:50 AM on Friday, December 11 and arrives at Gran Canaria Airport at 10:10 AM on Friday, December 11. Total duration 4 hr 20 min.   Select flight"
+  },
+  {
+   "price": 136.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Vueling",
+   "operatedBy": null,
+   "depAirportName": "Dublin Airport",
+   "depTime": "12:50",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Gran Canaria Airport",
+   "arrTime": "19:50",
+   "arrDate": "2026-12-11",
+   "durationMin": 420,
+   "layovers": [
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Josep Tarradellas Barcelona-El Prat Airport",
+     "city": "Barcelona"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 136 euros.This price does not include overhead bin access. 1 stop flight with Vueling. Leaves Dublin Airport at 12:50 PM on Friday, December 11 and arrives at Gran Canaria Airport at 7:50 PM on Friday, December 11. Total duration 7 hr.  Layover (1 of 1) is a 55 min layover at Josep Tarradellas Barcelona-El Prat Airport in Barcelona. Select flight"
+  },
+  {
+   "price": 173.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Aer Lingus and Iberia",
+   "operatedBy": "Iberia Express",
+   "depAirportName": "Dublin Airport",
+   "depTime": "06:15",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Gran Canaria Airport",
+   "arrTime": "13:50",
+   "arrDate": "2026-12-11",
+   "durationMin": 455,
+   "layovers": [
+    {
+     "min": 120,
+     "overnight": false,
+     "airport": "Adolfo Suárez Madrid-Barajas Airport",
+     "city": "Madrid"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 173 euros. 1 stop flight with Aer Lingus and Iberia. Operated by Iberia Express. Leaves Dublin Airport at 6:15 AM on Friday, December 11 and arrives at Gran Canaria Airport at 1:50 PM on Friday, December 11. Total duration 7 hr 35 min.  Layover (1 of 1) is a 2 hr layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Select flight"
+  },
+  {
+   "price": 205.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Iberia",
+   "operatedBy": "Iberia Express, Iberia Express",
+   "depAirportName": "Dublin Airport",
+   "depTime": "18:30",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Gran Canaria Airport",
+   "arrTime": "02:00",
+   "arrDate": "2026-12-12",
+   "durationMin": 450,
+   "layovers": [
+    {
+     "min": 120,
+     "overnight": false,
+     "airport": "Adolfo Suárez Madrid-Barajas Airport",
+     "city": "Madrid"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 205 euros. 1 stop flight with Iberia. Operated by Iberia Express, Iberia Express. Leaves Dublin Airport at 6:30 PM on Friday, December 11 and arrives at Gran Canaria Airport at 2:00 AM on Saturday, December 12. Total duration 7 hr 30 min.  Layover (1 of 1) is a 2 hr layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Select flight"
+  },
+  {
+   "price": 209.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM and Transavia",
+   "operatedBy": null,
+   "depAirportName": "Dublin Airport",
+   "depTime": "08:50",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Gran Canaria Airport",
+   "arrTime": "17:45",
+   "arrDate": "2026-12-11",
+   "durationMin": 535,
+   "layovers": [
+    {
+     "min": 160,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 209 euros. 1 stop flight with KLM and Transavia. Leaves Dublin Airport at 8:50 AM on Friday, December 11 and arrives at Gran Canaria Airport at 5:45 PM on Friday, December 11. Total duration 8 hr 55 min.  Layover (1 of 1) is a 2 hr 40 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  }
+ ]
+}

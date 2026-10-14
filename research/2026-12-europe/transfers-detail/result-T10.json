@@ -1,0 +1,445 @@
+[
+ {
+  "city": "RAK",
+  "airports": [
+   {
+    "code": "RAK",
+    "public": {
+     "line": "Bus 19 airport express (city bus; operator given as Alsa by Wikivoyage, aifly.one and cestujlevne.com), Menara airport to Jemaa el-Fna",
+     "from": "Bus stop just outside the terminal (exact stop not described in the sources read)",
+     "to": "Jemaa el-Fna, the main square of the medina; line 19 also calls at Guéliz and the Marrakesh train station (cestujlevne.com)",
+     "minutes": 25,
+     "fareEUR": 2.7,
+     "fareText": "MAD 30 one way, MAD 50 return (return valid 14 days per cestujlevne.com); pay the driver, cash is safest (aifly.one: cash or a local card). Journey quoted as 15-20 min, 25 min (Wikivoyage, cestujlevne.com) and 30-40 min (aifly.one, July 2026); 25 used. City buses 11 and 12 cost only MAD 4 but need a walk to the road (see alternatives)",
+     "frequency": "every 20-30 min (20 min per cestujlevne.com; 30 min per Wikivoyage and aifly.one)",
+     "hours": "about 06:00-23:30 (Wikivoyage; cestujlevne.com, updated 1 Feb 2026); aifly.one (July 2026) says about 06:00-21:00 and another Wikivoyage section 05:15-21:15, so do not count on a late bus",
+     "url": "https://en.wikivoyage.org/wiki/Marrakech"
+    },
+    "alternatives": [
+     {
+      "line": "City bus 11 or 12 (Marrakesh city bus), stop 'Aeroport' on Avenue Gnassa",
+      "to": "Jemaa el-Fna and the Bab Doukkala bus station (line 12 also serves the bus station; line 18 serves the train station per cestujlevne.com)",
+      "minutes": null,
+      "fareEUR": 0.4,
+      "fareText": "MAD 4 per ride, cash to the driver, exact change best (Wikivoyage says the driver can give change); runs about 06:30-22:30 every 10-15 min (cestujlevne.com). The stop is a 400-500 m walk from the terminal along the main road, awkward with luggage",
+      "url": "https://www.cestujlevne.com/letiste/marrakes/doprava"
+     }
+    ],
+    "taxi": {
+     "fareEUR": 7.7,
+     "minutes": 15,
+     "basis": "Official fixed fare of MAD 85 to Jemaa el-Fna, paid in advance at the 'kech.cab' taxi kiosk inside the arrivals hall (cash or card) in exchange for a paper ticket, per cestujlevne.com (updated 1 Feb 2026). Not confirmed on an official site (kech.cab did not resolve). Other sources are higher: Wikivoyage says a grand taxi has a set rate of MAD 150 and the counter charges about MAD 200; aifly.one (July 2026) says there is no published tariff and petit taxis ask MAD 100-150 by day and MAD 150-200 after dark. Ride is 10-15 min (Wikivoyage)",
+     "url": "https://www.cestujlevne.com/letiste/marrakes/doprava"
+    }
+   }
+  ],
+  "stations": [
+   {
+    "name": "CTM (Gare Voyageurs) and Supratours terminals beside Marrakesh train station, Avenue Hassan II, Guéliz",
+    "serves": "CTM and Supratours coaches (the train station is next to them)",
+    "toCentre": "Metered taxi to Jemaa el-Fna about MAD 12 per Wikivoyage (per taxi, not per person); drivers may ask MAD 50 or more, so offer MAD 20 or hail one on the main road. CTM is one block south of the Supratours station; Supratours is just southwest of the train station",
+    "line": null,
+    "minutes": null,
+    "fareEUR": 1.1,
+    "url": "https://en.wikivoyage.org/wiki/Marrakech"
+   },
+   {
+    "name": "Gare Routière at Bab Doukkala (former main bus station, Alsa coaches)",
+    "serves": "intercity coaches; Wikivoyage says its public intercity departures moved to Al Azzouzia on 24 July 2026, although another section of the same page still describes it as in use",
+    "toCentre": "About 20 min on foot to Jemaa el-Fna, or MAD 15-20 by petit taxi (Wikivoyage); city buses 11 and 12 from the airport also run to this bus station",
+    "line": null,
+    "minutes": 20,
+    "fareEUR": 0,
+    "url": "https://en.wikivoyage.org/wiki/Marrakech"
+   },
+   {
+    "name": "Al Azzouzia bus station (new, opened 24 July 2026 per Wikivoyage)",
+    "serves": "all public intercity departures, replacing the Bab Doukkala Gare Routière (Wikivoyage)",
+    "toCentre": "Wikivoyage gives no address and no route to Jemaa el-Fna, only 'urban transport and taxis'; check which station your coach uses and agree a taxi price before you ride",
+    "line": null,
+    "minutes": null,
+    "fareEUR": null,
+    "url": "https://en.wikivoyage.org/wiki/Marrakech"
+   }
+  ]
+ },
+ {
+  "city": "AGA",
+  "airports": [
+   {
+    "code": "AGA",
+    "public": {
+     "line": "Alsa airport shuttle (navette aéroport), Agadir Al Massira airport to the city centre",
+     "from": "Airport (shuttle stop not named in the sources read)",
+     "to": "Agadir city centre (stop not named in the sources read)",
+     "minutes": null,
+     "fareEUR": 4.5,
+     "fareText": "MAD 50 one way or MAD 80 round trip per person, as of Jan 2024 (Wikivoyage). Alsa's own page https://www.alsa.ma/en/navette-aeroport is linked from alsa.ma/en/agadir but could not be read, so the current fare and timetable are unconfirmed. A 2026 conference logistics page in the search results hints at hourly departures and 30-40 min, unverified. Wikivoyage's wording is inconsistent: it lists this shuttle yet also says there are 'no direct buses from the airport'",
+     "frequency": null,
+     "hours": null,
+     "url": "https://en.wikivoyage.org/wiki/Agadir"
+    },
+    "alternatives": [
+     {
+      "line": "Bus 37 from the road junction just outside the airport to Inezgane, then city bus 97/98/99 or a grand taxi to Agadir",
+      "to": "Inezgane Gare Routière (about 10 km from the centre), then Agadir",
+      "minutes": null,
+      "fareEUR": 1.0,
+      "fareText": "MAD 7 for bus 37 (about every 40 min) plus MAD 4 for the onward bus or MAD 7 for a shared grand taxi (Wikivoyage, Jan 2024); two changes with luggage, so only for very tight budgets",
+      "url": "https://en.wikivoyage.org/wiki/Agadir"
+     }
+    ],
+    "taxi": {
+     "fareEUR": 18.2,
+     "minutes": 30,
+     "basis": "Official taxi MAD 200 to the city plus MAD 20 per bag (Wikivoyage; the page does not say if it is a fixed fare). A transfer-booking site in the search results also quotes a fixed MAD 200 and about half an hour. Cheaper taxis outside the terminal started at MAD 80-100 (Wikivoyage, Jan 2018). Airport is about 20 km from the city",
+     "url": "https://en.wikivoyage.org/wiki/Agadir"
+    }
+   }
+  ],
+  "stations": [
+   {
+    "name": "Agadir CTM bus station (CTM and Supratours coaches)",
+    "serves": "CTM and Supratours long-distance coaches (Wikivoyage lists Essaouira MAD 70, Marrakesh MAD 100, Ouarzazate MAD 140)",
+    "toCentre": "Wikivoyage gives the station's coordinates (30.415815, -9.565515) but no distance or directions to the centre or the beach; check the map pin before you arrive",
+    "line": null,
+    "minutes": null,
+    "fareEUR": null,
+    "url": "https://en.wikivoyage.org/wiki/Agadir"
+   },
+   {
+    "name": "Gare Routière Inezgane (regional bus hub about 10 km from the centre)",
+    "serves": "CTM, Supratours and other operators' regional and long-distance buses",
+    "toCentre": "City bus 97, 98 or 99 to the centre, MAD 3.50 per person, or a shared grand taxi from MAD 5 per person (Wikivoyage)",
+    "line": "City bus 97, 98 or 99",
+    "minutes": null,
+    "fareEUR": 0.3,
+    "url": "https://en.wikivoyage.org/wiki/Agadir"
+   }
+  ]
+ },
+ {
+  "city": "TUN",
+  "airports": [
+   {
+    "code": "TUN",
+    "public": {
+     "line": "Bus 35 (Transtu) direct airport bus, Tunis-Carthage airport to Tunis Marine",
+     "from": "Stop opposite the taxi rank at the arrivals gate (Webdo, 13 March 2026)",
+     "to": "Tunis Marine, beside the TGM station at the east end of the centre near Avenue Habib Bourguiba; metro lines 1 and 4 and the TGM suburban train connect there",
+     "minutes": 25,
+     "fareEUR": 0.3,
+     "fareText": "TND 1, bought from the conductor on board (Webdo; Wikivoyage). Line numbers differ by source: Webdo (March 2026) says line 35 was restored in a new direct format, airmundo.com lists lines 35 and 635, Wikivoyage calls it 'bus no. 104 Airport'",
+     "frequency": "about every 30 min (30 buses a day per Webdo; every 30 min per airmundo.com)",
+     "hours": "first bus 05:30, service until 20:45 (Webdo, March 2026); no night service (Wikivoyage)",
+     "url": "https://www.webdo.tn/fr/?p=394556"
+    },
+    "alternatives": [],
+    "taxi": {
+     "fareEUR": 5.9,
+     "minutes": 20,
+     "basis": "Third-party estimate of TND 20 for the 7 km to Avenue Habib Bourguiba (airmundo.com, 2026), not an official tariff. Tunis taxis are metered: Wikivoyage says about TND 5-7 by day and about TND 10 at night, with some drivers asking up to TND 40, so insist on the meter or agree a price first",
+     "url": "https://airmundo.com/en/tunis-carthage-airport/public-transport/"
+    }
+   }
+  ]
+ },
+ {
+  "city": "DXB",
+  "airports": [
+   {
+    "code": "DXB",
+    "public": {
+     "line": "Dubai Metro Red Line (RTA) from the Terminal 1 or Terminal 3 station",
+     "from": "Terminal 1 and Terminal 3 each have their own metro station (Wikivoyage); the page names no station for Terminal 2",
+     "to": "Central Dubai: the Red Line runs on to Union and BurJuman (Khalid Bin Al Waleed), the Red/Green Line interchanges; Wikivoyage says 15-20 min from the airport to the city centre",
+     "minutes": 20,
+     "fareEUR": 1.8,
+     "fareText": "Zone-based: Silver nol card AED 3 (1 zone), AED 5 (2 zones), AED 7.50 (3 or more zones); Red Ticket (paper nol, AED 2 card price) AED 4, 6 or 8.50 (Wikivoyage). The pages read do not say how many zones the airport stations to the centre cross, so the exact fare is unconfirmed: it is at most AED 7.50 (EUR 1.8) on a Silver card. A nol card or ticket is needed at the gates; cash and bank cards are not accepted Estimate: the top Silver nol card fare, AED 7.50 (fares are AED 3, 5 or 7.50 by zones; the nol card itself costs AED 25 including AED 19 credit).",
+     "frequency": "every 3-5 min (Wikivoyage); Wikipedia gives 5-7 min off-peak (older figures)",
+     "hours": "05:50 to midnight Saturday-Wednesday, Thursday to 01:00, Friday only 13:00-23:59 per Wikivoyage (may be outdated; 4 and 18 December 2026 are Fridays, so check RTA)",
+     "url": "https://en.wikivoyage.org/wiki/Dubai"
+    },
+    "alternatives": [],
+    "taxi": {
+     "fareEUR": 14.0,
+     "minutes": 20,
+     "basis": "Estimate from the RTA airport taxi tariff (AED 25 start, AED 2.19 per km) for about 15 km to Downtown, about AED 58.",
+     "url": "https://en.wikivoyage.org/wiki/Dubai"
+    }
+   },
+   {
+    "code": "DWC",
+    "public": {
+     "line": "RTA express bus F55 (Al Maktoum airport to Ibn Battuta Metro Station), then the Metro Red Line",
+     "from": "Bus stop at Al Maktoum International Airport (exact stop not named in the sources read)",
+     "to": "Ibn Battuta Metro Station; change there to the Red Line for central Dubai. Wikivoyage names the Expo 2020 metro station as the F55 destination instead, so confirm in the RTA app",
+     "minutes": 120,
+     "fareEUR": null,
+     "fareText": "Bus fare 'less than AED 8' (about EUR 1.9 at most) per person, nol card only, no cash on RTA buses (freetoursbyfoot.com); the Metro leg from Ibn Battuta is extra and no combined fare was found (a search-result summary mentioned AED 7.55 for bus plus metro, unverified). 'minutes' is Wikivoyage's 'at least 2 hours' for public transport from DWC to central Dubai; the bus leg alone is about 40 min. Flag as a long transfer",
+     "frequency": "hourly (dubizzle.com, freetoursbyfoot.com); Wikivoyage says about every 30 min",
+     "hours": "F55 about 06:00-22:00 (freetoursbyfoot.com, updated Feb 2025); night bus F55A about 23:00-06:00 (see alternatives)",
+     "url": "https://freetoursbyfoot.com/transportation-between-al-maktoum-airport-and-dubai/"
+    },
+    "alternatives": [
+     {
+      "line": "RTA night bus F55A (Wikivoyage calls the night bus N55 to Al Ghubaiba), Al Maktoum airport to Satwa bus station",
+      "to": "Satwa bus station, Dubai (stops include Jumeirah Beach Park, Burj Al Arab and Ibn Battuta per dubizzle.com)",
+      "minutes": 90,
+      "fareEUR": null,
+      "fareText": "Fare not found; nol card required; runs hourly about 23:00-06:00",
+      "url": "https://www.dubizzle.com/blog/cars/al-maktoum-international-airport-public-transportation/"
+     }
+    ],
+    "taxi": {
+     "fareEUR": 34.0,
+     "minutes": 60,
+     "basis": "Metered, RTA-regulated Dubai Taxi cabs, not a fixed fare: dubizzle.com quotes about AED 140 for the roughly 60 km to the city centre in about an hour; freetoursbyfoot.com says AED 100-150. Wikivoyage: DWC is nearly 60 km from central Dubai",
+     "url": "https://www.dubizzle.com/blog/cars/al-maktoum-international-airport-public-transportation/"
+    }
+   }
+  ]
+ },
+ {
+  "city": "TBS",
+  "airports": [
+   {
+    "code": "TBS",
+    "public": {
+     "line": "Bus 337 (Tbilisi Transport Company city bus), Tbilisi airport to Station Square 1 (main railway station)",
+     "from": "Municipal bus stop in front of the arrivals hall",
+     "to": "Station Square 1 (Tbilisi Central Railway Station) via Baratashvili St and Rustaveli Ave in the centre; Wikivoyage also lists Avlabari, Freedom Square, Republic Square and Tamar Bridge",
+     "minutes": 50,
+     "fareEUR": 0.3,
+     "fareText": "GEL 1 for a 90-minute ticket with a Metromoney card (card costs GEL 2, sold at metro station payment offices and Bank of Georgia express branches) or a bank card (airport page); Wikivoyage mentions GEL 1.50 by contactless credit card. Cash and mobile-app payment do not give the 90-minute ticket",
+     "frequency": "every 20-30 min (Wikivoyage); no interval on the airport page",
+     "hours": "airport page timetable 06:59-22:59; Wikivoyage warns not to count on the last one or two buses and says the night service was not running in 2022, while a 2026 third-party guide claims 24/7 service at reduced frequency, so plan a taxi for late arrivals",
+     "url": "https://www.tbilisiairport.com/en-EN/bus/page/bus"
+    },
+    "alternatives": [],
+    "taxi": {
+     "fareEUR": 13.8,
+     "minutes": 25,
+     "basis": "Fixed rate published on the airport website's taxi page: GEL 40 to the city centre (GEL 50 to suburbs), 24-hour service, 20-30 min (operator tbstaxi.ge; the page does not say if it is the official airport desk). Wikivoyage mentions a GEL 20-30 rate board at the taxi rank. A 2026 third-party guide quotes the airport taxi at GEL 30-45 (GEL 35-50 at night), Bolt GEL 15-25 and Yandex Go GEL 17-27 (EUR 5.2-9.3)",
+     "url": "https://www.tbilisiairport.com/en-EN/taxi/page/taxi"
+    }
+   }
+  ]
+ },
+ {
+  "city": "EVN",
+  "airports": [
+   {
+    "code": "EVN",
+    "public": {
+     "line": "Route N201 'Elitebus' express minibus (also called bus 201), Zvartnots airport to central Yerevan",
+     "from": "Stop in front of the terminal entrance (Wikivoyage)",
+     "to": "Central Yerevan; stops include France Square, Pak Shuka and Yeritasardakan (Wikivoyage). For the return, board at Yeritasardakan (opposite the SAS supermarket) or Republic Square (Abovyan Street)",
+     "minutes": 40,
+     "fareEUR": 0.7,
+     "fareText": "AMD 300 per person per ride, paid in cash in AMD to the driver (airport page); not recommended with heavy luggage (airconnect.live). Journey 30-45 min in the July 2026 guide and 25 min from Yeritasardakan in ideal traffic (Wikivoyage); 40 used",
+     "frequency": "every 30 min",
+     "hours": "07:00-22:00 (for late arrivals use route N100, see alternatives)",
+     "url": "https://www.aia-zvartnots.aero/EN/Content/Transport"
+    },
+    "alternatives": [
+     {
+      "line": "Route N100 shuttle (airport page; Wikivoyage calls it bus 100), airport to Yerevan city centre",
+      "to": "Yerevan city centre (stops not listed on the airport page, which links a Yandex Maps route)",
+      "minutes": null,
+      "fareEUR": 1.2,
+      "fareText": "AMD 500 one way; pay with a QR ticket from the TelCell app, a paper QR ticket from the TelCell terminals in the arrival and departure halls, or Visa/Mastercard on board. Runs 06:50-22:00 every 30 min and hourly 22:00-06:50, so it is the public option for late arrivals",
+      "url": "https://www.aia-zvartnots.aero/EN/Content/Transport"
+     }
+    ],
+    "taxi": {
+     "fareEUR": 8.6,
+     "minutes": 25,
+     "basis": "Ride-hailing estimate: GG or Yandex Go AMD 2,500-4,500 to the centre (midpoint AMD 3,500), 20-30 min (airconnect.live, updated July 2026). The taxi desks in the arrivals hall (Eco Taxi and others) publish no fares on the airport page; the same guide puts an airport taxi at AMD 5,000-9,000 (EUR 12.3-22.1) and Wikivoyage says unofficial drivers outside offer about half the official price",
+     "url": "https://airconnect.live/en/airports/yerevan-airport-transport-guide"
+    }
+   }
+  ]
+ },
+ {
+  "city": "RVN",
+  "airports": [
+   {
+    "code": "RVN",
+    "public": {
+     "line": "Airport Express Rovaniemi airport bus (airportbus.fi), airport to the railway station and city centre",
+     "from": "Bus stop at the terminal (the operator page gives no stop description)",
+     "to": "Rovaniemi Railway Station and city centre; the summer route also serves Santa Claus Village. The airport is about 10 km from the centre (Finavia)",
+     "minutes": 15,
+     "fareEUR": 8.0,
+     "fareText": "EUR 8.00 adult one way ('Airport express one way ticket summer' in the operator's shop); buy online in advance or pay by card on the bus, no cash. The winter (December) fare and timetable were not on the page read. Journey about 15 min per a Travelextra guide seen in search results; the operator page gives no journey time. Wikivoyage lists the Santa Claus Bus at EUR 7",
+     "frequency": "runs daily (operator page, summer wording); no interval given and December timetable not read",
+     "hours": null,
+     "url": "https://www.airportbus.fi"
+    },
+    "alternatives": [
+     {
+      "line": "Santa Claus Bus (santaclausbus.fi) minibus shuttle",
+      "to": "hotels in the city centre",
+      "minutes": null,
+      "fareEUR": 7.0,
+      "fareText": "EUR 7 per person one way, available for every scheduled flight (Wikivoyage); the operator site was not read",
+      "url": "https://en.wikivoyage.org/wiki/Rovaniemi"
+     },
+     {
+      "line": "Local city bus (Wikivoyage: line 11; a guide in the search results says line 8)",
+      "to": "city centre (stop not named)",
+      "minutes": null,
+      "fareEUR": 3.5,
+      "fareText": "EUR 3.50 (Wikivoyage; the other guide says EUR 3.60); slower and only runs for some flights",
+      "url": "https://en.wikivoyage.org/wiki/Rovaniemi"
+     }
+    ],
+    "taxi": {
+     "fareEUR": 30,
+     "minutes": 10,
+     "basis": "Meter estimate, no fixed airport fare: Finavia lists the three taxi platforms in front of the terminal (Taksi Rovaniemi, Lähitaksi Rovaniemi, Menevä) but no prices. Guides seen in search results quote about EUR 30-40 (Arctic Centre) and about EUR 20 for a 10-minute ride (Travelextra); EUR 30 is a rounded middle of that EUR 20-40 range. Bolt and Uber also operate in Rovaniemi (Arctic Centre guide). Agree the fare first",
+     "url": "https://www.finavia.fi/en/airports/rovaniemi/parking-access/taxis"
+    }
+   }
+  ]
+ },
+ {
+  "city": "SZG",
+  "airports": [
+   {
+    "code": "SZG",
+    "public": {
+     "line": "Bus 2 (Salzburg city trolley bus, O-Bus), airport to Salzburg Hauptbahnhof",
+     "from": "City bus stop at the airport terminal (the airport page links a map but gives no text description)",
+     "to": "Salzburg Hauptbahnhof (main station); the old town is about 15 min on foot or a trolley bus ride from there (Wikivoyage)",
+     "minutes": 23,
+     "fareEUR": 3.0,
+     "fareText": "EUR 3 single bought from the driver (Wikivoyage, 2024 prices, may have risen). The airport page lists no prices and says tickets are sold at the bus stop machine or online; an advance ticket is cheaper (EUR 2.10 in a guide seen in search results, unverified)",
+     "frequency": "every 15-20 min daily, every 20 min on Sundays and public holidays; first and last departures are not on the airport page",
+     "hours": null,
+     "url": "https://www.salzburg-airport.com/en/flights-arrival/arrival-to-the-airport/public-transportation"
+    },
+    "alternatives": [
+     {
+      "line": "Bus 10 (Salzburg city bus), Monday to Saturday only",
+      "to": "city centre (stop not named on the airport page)",
+      "minutes": 15,
+      "fareEUR": 3.0,
+      "fareText": "Departs every 15 min; same EUR 3 driver single as the other StadtBus lines (Wikivoyage, 2024 prices); does not run on Sundays",
+      "url": "https://www.salzburg-airport.com/en/flights-arrival/arrival-to-the-airport/public-transportation"
+     }
+    ],
+    "taxi": {
+     "fareEUR": 15,
+     "minutes": 20,
+     "basis": "Meter estimate. The airport page confirms taxi ranks in front of the terminal and the Hauptbahnhof and 15-20 min between the two, but lists no fare. A guide seen in search results quotes about EUR 12-18 (page not opened); 15 is the middle of that range",
+     "url": "https://www.salzburg-airport.com/en/flights-arrival/arrival-to-the-airport/taxi-transfer-service"
+    }
+   }
+  ],
+  "stations": [
+   {
+    "name": "Salzburg Hauptbahnhof (main station, trains)",
+    "serves": "trains",
+    "toCentre": "Walk about 15 min to the old town (the station is in the New Town north of the Salzach), or take one of the trolley buses (Wikivoyage; line numbers not given). Bus 2 to the airport also starts here",
+    "line": null,
+    "minutes": 15,
+    "fareEUR": 0,
+    "url": "https://en.wikivoyage.org/wiki/Salzburg"
+   }
+  ]
+ },
+ {
+  "city": "SXB",
+  "airports": [
+   {
+    "code": "SXB",
+    "public": {
+     "line": "Shuttle train (TER, SNCF) from Strasbourg Aéroport to Strasbourg station",
+     "from": "Airport railway platform, reached from the terminal by a covered pedestrian footbridge",
+     "to": "Strasbourg station (Gare Centrale), a short walk west of the town centre with tram and bus connections (Wikivoyage)",
+     "minutes": 8,
+     "fareEUR": 3.2,
+     "fareText": "EUR 3.20 one way, train only (TER ticket). Combined train + tram/bus ticket valid 24 h in the Eurométropole is EUR 4.60 for 1 person. The CTS app sells TER + tram + bus tickets from EUR 1.90 for immediate departure (single-journey validity not stated). Buy at the airport or station ticket machines (cards accepted) or on the platform",
+     "frequency": "up to 5 trains an hour (airport page); Wikivoyage says every 15 min",
+     "hours": "First and last trains not on the airport page. It links a PDF timetable valid 4 July-12 December 2026, so a new timetable is likely from 13 December; Lonely Planet (FR) says a coach replaces the train for late departures",
+     "url": "https://www.strasbourg.aeroport.fr/en/passengers/car-parks-and-access/shuttle-train/"
+    },
+    "alternatives": [
+     {
+      "line": "Same TER shuttle with the combined train + tram/bus 24 h ticket",
+      "to": "Strasbourg station, then any tram, bus or TER in the Eurométropole for 24 h",
+      "minutes": 8,
+      "fareEUR": 4.6,
+      "fareText": "EUR 4.60 for 1 person, valid 24 h on bus, tram and TER lines in the Eurométropole, including to and from the airport",
+      "url": "https://www.strasbourg.aeroport.fr/en/passengers/car-parks-and-access/shuttle-train/"
+     }
+    ],
+    "taxi": {
+     "fareEUR": null,
+     "minutes": null,
+     "basis": "No taxi fare or taxi page was found on the airport pages, Wikivoyage or Lonely Planet (FR); the airport is 10 km from Strasbourg by motorway (Lonely Planet)",
+     "url": null
+    }
+   }
+  ],
+  "stations": [
+   {
+    "name": "Strasbourg station (Gare de Strasbourg-Ville / Gare Centrale, trains)",
+    "serves": "trains",
+    "toCentre": "A short walk west of the town centre (Wikivoyage); Lonely Planet (FR) says you reach the centre quickly on foot or by tram. No walking minutes or tram line to the cathedral are given in the sources read",
+    "line": null,
+    "minutes": null,
+    "fareEUR": 0,
+    "url": "https://en.wikivoyage.org/wiki/Strasbourg"
+   }
+  ]
+ },
+ {
+  "city": "BOD",
+  "airports": [
+   {
+    "code": "BOD",
+    "public": {
+     "line": "Tram F (TBM, line opened 6 December 2025), Bordeaux Aéroport to Hôtel de Ville and Gare Saint-Jean",
+     "from": "Tram stop right outside the terminals, in front of the express car park near Hall B",
+     "to": "Hôtel de Ville (city hall, city centre) after 35 min; the line continues via the Pellegrin hospital to Gare Saint-Jean (45 min)",
+     "minutes": 35,
+     "fareEUR": 1.9,
+     "fareText": "EUR 1.90 single, EUR 15.70 for 10 trips (airport page; Wikivoyage lists the older EUR 1.80). Buy at the relay press shop in the airport, at the vending machines next to the bus stop in front of Hall B, or in the TBM app",
+     "frequency": "every 10 min Monday-Saturday, every 15 min on Sunday",
+     "hours": "from 5 a.m. on weekdays; last trams at midnight (1 a.m. on Thursday, Friday and Saturday nights); Sunday hours not stated",
+     "url": "https://www.bordeaux.aeroport.fr/en/tram"
+    },
+    "alternatives": [
+     {
+      "line": "30'DIRECT shuttle, airport to Gare Saint-Jean without stops",
+      "to": "Gare Saint-Jean station",
+      "minutes": 30,
+      "fareEUR": null,
+      "fareText": "Fare, frequency and hours are not on the airport pages read; a guide in the search results quoted EUR 10 on board and EUR 9 online (2025 fares), unverified",
+      "url": "https://www.bordeaux.aeroport.fr/en/access-transport"
+     }
+    ],
+    "taxi": {
+     "fareEUR": null,
+     "minutes": null,
+     "basis": "The airport has a taxi page (https://www.bordeaux.aeroport.fr/en/access-transport/taxis) that could not be read within the fetch limit; an older guide seen in search results suggested EUR 45-60, which is not verified, so no fare is given",
+     "url": "https://www.bordeaux.aeroport.fr/en/access-transport"
+    }
+   }
+  ],
+  "stations": [
+   {
+    "name": "Bordeaux Gare Saint-Jean (trains)",
+    "serves": "trains",
+    "toCentre": "Tram C (trams C, D and F all serve the station); Wikivoyage says take tram C for the northern part of the centre and a bus for the Place de la Victoire area. Buses, trams and taxis leave from the station forecourt. Walking time not given. Single ticket EUR 1.90 (TBM fare on the airport page; Wikivoyage lists the older EUR 1.80), free changes within one hour",
+    "line": "Tram C (also trams D and F)",
+    "minutes": null,
+    "fareEUR": 1.9,
+    "url": "https://en.wikivoyage.org/wiki/Bordeaux"
+   }
+  ]
+ }
+]

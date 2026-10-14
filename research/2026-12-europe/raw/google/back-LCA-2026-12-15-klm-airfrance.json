@@ -1,0 +1,31 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMTUyAktMMgJBRmoFEgNMQ0FyBRIDVFJEQAFIAZgBAg",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 237.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Transavia and KLM",
+   "operatedBy": null,
+   "depAirportName": "Larnaka International Airport",
+   "depTime": "13:50",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-15",
+   "durationMin": 620,
+   "layovers": [
+    {
+     "min": 210,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

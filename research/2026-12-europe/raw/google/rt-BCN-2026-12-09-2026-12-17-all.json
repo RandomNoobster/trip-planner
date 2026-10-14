@@ -1,0 +1,33 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA0JDThoaEgoyMDI2LTEyLTE3agUSA0JDTnIFEgNUUkRAAUgBmAEB",
+ "fetchedAt": "2026-10-11T11:24:36",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 360.0,
+   "roundTripTotal": true,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "12:15",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Josep Tarradellas Barcelona-El Prat Airport",
+   "arrTime": "17:45",
+   "arrDate": "2026-12-09",
+   "durationMin": 330,
+   "layovers": [
+    {
+     "min": 65,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 360 euros round trip total.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 12:15 PM on Wednesday, December 9 and arrives at Josep Tarradellas Barcelona-El Prat Airport at 5:45 PM on Wednesday, December 9. Total duration 5 hr 30 min.  Layover (1 of 1) is a 1 hr 5 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMTUyAktMMgJBRmoFEgNSRUtyBRIDVFJEQAFIAZgBAg",
+ "fetchedAt": "2026-10-11T11:30:02",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 176.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Transavia and KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Keflavík International Airport",
+   "depTime": "14:45",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-15",
+   "durationMin": 445,
+   "layovers": [
+    {
+     "min": 125,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 176 euros. 1 stop flight with Transavia and KLM. Operated by KLM Cityhopper. Leaves Keflavík International Airport at 2:45 PM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 11:10 PM on Tuesday, December 15. Total duration 7 hr 25 min.  Layover (1 of 1) is a 2 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 2410.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Keflavík International Airport",
+   "depTime": "11:55",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "18:00",
+   "arrDate": "2026-12-15",
+   "durationMin": 305,
+   "layovers": [
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 2410 euros. 1 stop flight with Scandinavian Airlines. Leaves Keflavík International Airport at 11:55 AM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 6:00 PM on Tuesday, December 15. Total duration 5 hr 5 min.  Layover (1 of 1) is a 1 hr 25 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

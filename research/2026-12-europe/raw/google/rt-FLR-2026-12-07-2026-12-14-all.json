@@ -1,0 +1,93 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA0ZMUhoaEgoyMDI2LTEyLTE0agUSA0ZMUnIFEgNUUkRAAUgBmAEB",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 257.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Amerigo Vespucci Airport",
+   "arrTime": "12:25",
+   "arrDate": "2026-12-07",
+   "durationMin": 365,
+   "layovers": [
+    {
+     "min": 105,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 499.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe, Lufthansa and Air Dolomiti",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Amerigo Vespucci Airport",
+   "arrTime": "18:30",
+   "arrDate": "2026-12-07",
+   "durationMin": 560,
+   "layovers": [
+    {
+     "min": 155,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    },
+    {
+     "min": 115,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 624.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "15:05",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Amerigo Vespucci Airport",
+   "arrTime": "22:55",
+   "arrDate": "2026-12-07",
+   "durationMin": 470,
+   "layovers": [
+    {
+     "min": 75,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
+    },
+    {
+     "min": 65,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

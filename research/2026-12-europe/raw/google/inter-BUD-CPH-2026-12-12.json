@@ -1,0 +1,226 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTJqBRIDQlVEcgUSA0NQSEABSAGYAQI",
+ "priceUnavailable": 6,
+ "itineraries": [
+  {
+   "price": 32.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Wizz Air",
+   "operatedBy": null,
+   "depAirportName": "Budapest Ferenc Liszt International Airport",
+   "depTime": "06:30",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "08:35",
+   "arrDate": "2026-12-12",
+   "durationMin": 125,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 32 euros.This price does not include overhead bin access. Nonstop flight with Wizz Air. Leaves Budapest Ferenc Liszt International Airport at 6:30 AM on Saturday, December 12 and arrives at Copenhagen Airport at 8:35 AM on Saturday, December 12. Total duration 2 hr 5 min.   Select flight"
+  },
+  {
+   "price": 34.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": "Malta Air",
+   "depAirportName": "Budapest Ferenc Liszt International Airport",
+   "depTime": "17:40",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "19:40",
+   "arrDate": "2026-12-12",
+   "durationMin": 120,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 34 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Operated by Malta Air. Leaves Budapest Ferenc Liszt International Airport at 5:40 PM on Saturday, December 12 and arrives at Copenhagen Airport at 7:40 PM on Saturday, December 12. Total duration 2 hr.   Select flight"
+  },
+  {
+   "price": 104.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Budapest Ferenc Liszt International Airport",
+   "depTime": "12:25",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "18:15",
+   "arrDate": "2026-12-12",
+   "durationMin": 350,
+   "layovers": [
+    {
+     "min": 135,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 104 euros. 1 stop flight with KLM. Leaves Budapest Ferenc Liszt International Airport at 12:25 PM on Saturday, December 12 and arrives at Copenhagen Airport at 6:15 PM on Saturday, December 12. Total duration 5 hr 50 min.  Layover (1 of 1) is a 2 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 146.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Budapest Ferenc Liszt International Airport",
+   "depTime": "13:30",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "17:35",
+   "arrDate": "2026-12-12",
+   "durationMin": 245,
+   "layovers": [
+    {
+     "min": 75,
+     "overnight": false,
+     "airport": "Munich International Airport",
+     "city": "Munich"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 146 euros. 1 stop flight with Lufthansa. Leaves Budapest Ferenc Liszt International Airport at 1:30 PM on Saturday, December 12 and arrives at Copenhagen Airport at 5:35 PM on Saturday, December 12. Total duration 4 hr 5 min.  Layover (1 of 1) is a 1 hr 15 min layover at Munich International Airport in Munich. Select flight"
+  },
+  {
+   "price": 104.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Budapest Ferenc Liszt International Airport",
+   "depTime": "17:05",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "22:40",
+   "arrDate": "2026-12-12",
+   "durationMin": 335,
+   "layovers": [
+    {
+     "min": 125,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 104 euros. 1 stop flight with KLM. Leaves Budapest Ferenc Liszt International Airport at 5:05 PM on Saturday, December 12 and arrives at Copenhagen Airport at 10:40 PM on Saturday, December 12. Total duration 5 hr 35 min.  Layover (1 of 1) is a 2 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 135.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Budapest Ferenc Liszt International Airport",
+   "depTime": "12:20",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "18:40",
+   "arrDate": "2026-12-12",
+   "durationMin": 380,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 135 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Budapest Ferenc Liszt International Airport at 12:20 PM on Saturday, December 12 and arrives at Copenhagen Airport at 6:40 PM on Saturday, December 12. Total duration 6 hr 20 min.  Layover (1 of 1) is a 2 hr 35 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 154.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Budapest Ferenc Liszt International Airport",
+   "depTime": "14:25",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "18:25",
+   "arrDate": "2026-12-12",
+   "durationMin": 240,
+   "layovers": [
+    {
+     "min": 50,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 154 euros. 1 stop flight with Lufthansa. Leaves Budapest Ferenc Liszt International Airport at 2:25 PM on Saturday, December 12 and arrives at Copenhagen Airport at 6:25 PM on Saturday, December 12. Total duration 4 hr.  Layover (1 of 1) is a 50 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 161.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "Budapest Ferenc Liszt International Airport",
+   "depTime": "12:55",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "19:00",
+   "arrDate": "2026-12-12",
+   "durationMin": 365,
+   "layovers": [
+    {
+     "min": 195,
+     "overnight": false,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 161 euros. 1 stop flight with LOT. Leaves Budapest Ferenc Liszt International Airport at 12:55 PM on Saturday, December 12 and arrives at Copenhagen Airport at 7:00 PM on Saturday, December 12. Total duration 6 hr 5 min.  Layover (1 of 1) is a 3 hr 15 min layover at Warsaw Chopin Airport in Warsaw. Select flight"
+  },
+  {
+   "price": 204.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "SWISS",
+   "operatedBy": "Helvetic, Air Baltic",
+   "depAirportName": "Budapest Ferenc Liszt International Airport",
+   "depTime": "14:55",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "19:05",
+   "arrDate": "2026-12-12",
+   "durationMin": 250,
+   "layovers": [
+    {
+     "min": 40,
+     "overnight": false,
+     "airport": "Zurich Airport",
+     "city": "Zürich"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 204 euros. 1 stop flight with SWISS. Operated by Helvetic, Air Baltic. Leaves Budapest Ferenc Liszt International Airport at 2:55 PM on Saturday, December 12 and arrives at Copenhagen Airport at 7:05 PM on Saturday, December 12. Total duration 4 hr 10 min.  Layover (1 of 1) is a 40 min layover at Zurich Airport in Zürich. Select flight"
+  }
+ ]
+}

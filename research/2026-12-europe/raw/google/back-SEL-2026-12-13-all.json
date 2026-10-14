@@ -1,0 +1,161 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDU0VMcgUSA1RSREABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 707.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Finnair and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Incheon International Airport",
+   "depTime": "23:00",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-14",
+   "durationMin": 1430,
+   "layovers": [
+    {
+     "min": 105,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki",
+     "overnight": false
+    },
+    {
+     "min": 25,
+     "airport": "Stockholm Arlanda Airport",
+     "city": "Stockholm",
+     "overnight": false
+    },
+    {
+     "min": 230,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 714.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Incheon International Airport",
+   "depTime": "23:05",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-14",
+   "durationMin": 1530,
+   "layovers": [
+    {
+     "min": 545,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 757.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Etihad and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Incheon International Airport",
+   "depTime": "18:00",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "09:40",
+   "arrDate": "2026-12-14",
+   "durationMin": 1420,
+   "layovers": [
+    {
+     "min": 185,
+     "airport": "Zayed International Airport",
+     "city": "Abu Dhabi",
+     "overnight": false
+    },
+    {
+     "min": 95,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 970.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Incheon International Airport",
+   "depTime": "23:05",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "12:25",
+   "arrDate": "2026-12-14",
+   "durationMin": 1280,
+   "layovers": [
+    {
+     "min": 90,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 160,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 2822.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Asiana Airlines and KLM",
+   "operatedBy": null,
+   "depAirportName": "Gimpo International Airport",
+   "depTime": "07:55",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-13",
+   "durationMin": 1395,
+   "layovers": [
+    {
+     "min": 195,
+     "airport": "Kansai International Airport",
+     "city": "Osaka",
+     "overnight": false
+    },
+    {
+     "min": 100,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GjYSCjIwMjYtMTItMTUyAkxIMgJMWDICT1MyAlNOMgJFVzICNFkyAldGagUSA01BTnIFEgNUUkRAAUgBmAEC",
+ "fetchedAt": "2026-10-11T11:23:52",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 246.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa City Airlines, Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Manchester Airport",
+   "depTime": "06:00",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-15",
+   "durationMin": 470,
+   "layovers": [
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 246 euros. 2 stops flight with Lufthansa City Airlines, Lufthansa and Wideroe. Leaves Manchester Airport at 6:00 AM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 2:50 PM on Tuesday, December 15. Total duration 7 hr 50 min.  Layover (1 of 2) is a 1 hr 25 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+  },
+  {
+   "price": 287.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa City Airlines, Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Manchester Airport",
+   "depTime": "17:45",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-16",
+   "durationMin": 1205,
+   "layovers": [
+    {
+     "min": 820,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 287 euros. 2 stops flight with Lufthansa City Airlines, Lufthansa and Wideroe. Leaves Manchester Airport at 5:45 PM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 2:50 PM on Wednesday, December 16. Total duration 20 hr 5 min.  Layover (1 of 2) is a 13 hr 40 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+  }
+ ]
+}

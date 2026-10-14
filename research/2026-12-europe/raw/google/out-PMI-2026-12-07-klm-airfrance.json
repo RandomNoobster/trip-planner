@@ -1,0 +1,37 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMDcyAktMMgJBRmoFEgNUUkRyBRIDUE1JQAFIAZgBAg",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 350.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Air Europa",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Palma de Mallorca Airport",
+   "arrTime": "15:55",
+   "arrDate": "2026-12-07",
+   "durationMin": 575,
+   "layovers": [
+    {
+     "min": 60,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 145,
+     "airport": "Adolfo Suárez Madrid-Barajas Airport",
+     "city": "Madrid",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

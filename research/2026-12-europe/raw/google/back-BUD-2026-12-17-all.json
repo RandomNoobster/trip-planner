@@ -1,0 +1,33 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDQlVEcgUSA1RSREABSAGYAQI",
+ "fetchedAt": "2026-10-11T11:22:56",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 141.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Budapest Ferenc Liszt International Airport",
+   "depTime": "12:10",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "17:15",
+   "arrDate": "2026-12-17",
+   "durationMin": 305,
+   "layovers": [
+    {
+     "min": 100,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 141 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Budapest Ferenc Liszt International Airport at 12:10 PM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 5:15 PM on Thursday, December 17. Total duration 5 hr 5 min.  Layover (1 of 1) is a 1 hr 40 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDVk5PcgUSA1NUT0ABSAGYAQI",
+ "priceUnavailable": 6,
+ "itineraries": [
+  {
+   "price": 48.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Vilnius International Airport",
+   "depTime": "12:20",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Stockholm Arlanda Airport",
+   "arrTime": "12:45",
+   "arrDate": "2026-12-13",
+   "durationMin": 85,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 48 euros.This price does not include overhead bin access. Nonstop flight with Norwegian. Leaves Vilnius International Airport at 12:20 PM on Sunday, December 13 and arrives at Stockholm Arlanda Airport at 12:45 PM on Sunday, December 13. Total duration 1 hr 25 min.   Select flight"
+  },
+  {
+   "price": 59.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Air Baltic",
+   "operatedBy": null,
+   "depAirportName": "Vilnius International Airport",
+   "depTime": "21:35",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Stockholm Arlanda Airport",
+   "arrTime": "07:20",
+   "arrDate": "2026-12-14",
+   "durationMin": 645,
+   "layovers": [
+    {
+     "min": 525,
+     "overnight": false,
+     "airport": "Riga Airport",
+     "city": "Riga"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 59 euros. 1 stop flight with Air Baltic. Leaves Vilnius International Airport at 9:35 PM on Sunday, December 13 and arrives at Stockholm Arlanda Airport at 7:20 AM on Monday, December 14. Total duration 10 hr 45 min.  Layover (1 of 1) is a 8 hr 45 min layover at Riga Airport in Riga. Select flight"
+  },
+  {
+   "price": 83.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Finnair",
+   "operatedBy": "Nordic Reg for Finnair, Jettime A/S for Finnair",
+   "depAirportName": "Vilnius International Airport",
+   "depTime": "09:20",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Stockholm Arlanda Airport",
+   "arrTime": "12:30",
+   "arrDate": "2026-12-13",
+   "durationMin": 250,
+   "layovers": [
+    {
+     "min": 80,
+     "overnight": false,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 83 euros. 1 stop flight with Finnair. Operated by Nordic Reg for Finnair, Jettime A/S for Finnair. Leaves Vilnius International Airport at 9:20 AM on Sunday, December 13 and arrives at Stockholm Arlanda Airport at 12:30 PM on Sunday, December 13. Total duration 4 hr 10 min.  Layover (1 of 1) is a 1 hr 20 min layover at Helsinki Airport in Helsinki. Select flight"
+  },
+  {
+   "price": 83.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Finnair",
+   "operatedBy": "Nordic Reg for Finnair, Nordic Reg for Finnair",
+   "depAirportName": "Vilnius International Airport",
+   "depTime": "21:20",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Stockholm Arlanda Airport",
+   "arrTime": "23:50",
+   "arrDate": "2026-12-13",
+   "durationMin": 210,
+   "layovers": [
+    {
+     "min": 50,
+     "overnight": false,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 83 euros. 1 stop flight with Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Vilnius International Airport at 9:20 PM on Sunday, December 13 and arrives at Stockholm Arlanda Airport at 11:50 PM on Sunday, December 13. Total duration 3 hr 30 min.  Layover (1 of 1) is a 50 min layover at Helsinki Airport in Helsinki. Select flight"
+  },
+  {
+   "price": 86.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Air Baltic",
+   "operatedBy": null,
+   "depAirportName": "Vilnius International Airport",
+   "depTime": "15:25",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Stockholm Arlanda Airport",
+   "arrTime": "19:55",
+   "arrDate": "2026-12-13",
+   "durationMin": 330,
+   "layovers": [
+    {
+     "min": 210,
+     "overnight": false,
+     "airport": "Riga Airport",
+     "city": "Riga"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 86 euros. 1 stop flight with Air Baltic. Leaves Vilnius International Airport at 3:25 PM on Sunday, December 13 and arrives at Stockholm Arlanda Airport at 7:55 PM on Sunday, December 13. Total duration 5 hr 30 min.  Layover (1 of 1) is a 3 hr 30 min layover at Riga Airport in Riga. Select flight"
+  }
+ ]
+}

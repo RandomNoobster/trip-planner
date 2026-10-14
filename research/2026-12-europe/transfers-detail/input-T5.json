@@ -1,0 +1,372 @@
+[
+ {
+  "city": "TLL",
+  "name": "Tallinn",
+  "country": "Estonia",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Tallinn",
+  "airports": [
+   {
+    "code": "TLL",
+    "name": "Tallinn Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Tallinn city centre",
+      "minutes": null,
+      "fareEUR": 2.0,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": 10.0,
+      "minutes": null,
+      "basis": "Typical official taxi to the city centre per the cestee.com Tallinn airport guide (third-party; not an official tariff).",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus",
+   "train",
+   "train and bus"
+  ]
+ },
+ {
+  "city": "WRO",
+  "name": "Wrocław",
+  "country": "Poland",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Wroc%C5%82aw",
+  "airports": [
+   {
+    "code": "WRO",
+    "name": "Wrocław Airport (Copernicus)",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus",
+   "train",
+   "train and bus"
+  ]
+ },
+ {
+  "city": "FRA",
+  "name": "Frankfurt",
+  "country": "Germany",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Frankfurt",
+  "airports": [
+   {
+    "code": "FRA",
+    "name": "Frankfurt Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "BUD",
+  "name": "Budapest",
+  "country": "Hungary",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Budapest",
+  "airports": [
+   {
+    "code": "BUD",
+    "name": "Budapest Ferenc Liszt International Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Deák Ferenc tér (metro M1/M2/M3), via bus 200E to Kőbánya-Kispest, then metro M3",
+      "minutes": 45,
+      "fareEUR": 2.33,
+      "frequency": null,
+      "hours": "bus 200E runs 24 h per BKK, but the M3 link may not run overnight (night 200E ends at Határ út, per guide)"
+     },
+     "taxi": {
+      "fareEUR": 39.72,
+      "minutes": 32.5,
+      "basis": "metered estimate per hungaryunlocked.com: midpoint of HUF 13,500-15,500 on the regulated tariff; minutes midpoint of 30-35 min; no fixed fare",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus",
+   "train"
+  ]
+ },
+ {
+  "city": "GLA",
+  "name": "Glasgow",
+  "country": "United Kingdom",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Glasgow",
+  "airports": [
+   {
+    "code": "GLA",
+    "name": "Glasgow Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Buchanan Bus Station (stop not confirmed)",
+      "minutes": 20,
+      "fareEUR": 12.98,
+      "frequency": "every 15-30 min (2025 university page, unverified)",
+      "hours": "unclear: sources conflict (round the clock vs no buses 00:00-05:00)"
+     },
+     "taxi": {
+      "fareEUR": 29.49,
+      "minutes": 20,
+      "basis": "third-party calculator (GobyTaxi) to Argyle Street near Central; low confidence; minutes = upper end of 15-20 min",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "MRS",
+  "name": "Marseille",
+  "country": "France",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Marseille",
+  "airports": [
+   {
+    "code": "MRS",
+    "name": "Marseille Provence Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "ALC",
+  "name": "Alicante",
+  "country": "Spain",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Alicante",
+  "airports": [
+   {
+    "code": "ALC",
+    "name": "Alicante-Elche Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Alicante RENFE railway station (C-6 stop)",
+      "minutes": null,
+      "fareEUR": 4.7,
+      "frequency": "not stated by operator; tourism site says about every 20 min (unverified)",
+      "hours": "24 h daily incl. night departures per spain.info; first and last departures not verified"
+     },
+     "taxi": {
+      "fareEUR": 30,
+      "minutes": 15,
+      "basis": "approximate average per spain.info (official tourism site); not an official tariff; no Alicante fixed fare found",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "FNC",
+  "name": "Funchal, Madeira",
+  "country": "Portugal",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Funchal",
+  "airports": [
+   {
+    "code": "FNC",
+    "name": "Madeira Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Funchal city centre (Avenida do Mar)",
+      "minutes": 24,
+      "fareEUR": null,
+      "frequency": "about every 30 min mornings, hourly afternoons (aggregator)",
+      "hours": "about 08:30–22:00 from the airport, daily except 25 Dec; no early or late service, so a taxi is needed for earlier or later flights"
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": 25,
+      "basis": "metered on the official Madeira tariff: 4.00 base weekday from the airport, +20% nights and weekends, +1.50 for baggage; no fixed airport fare; total not computed; minutes = midpoint of 20–30 (aggregator)",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "FLR",
+  "name": "Florence",
+  "country": "Italy",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Florence",
+  "airports": [
+   {
+    "code": "FLR",
+    "name": "Florence Airport (Peretola)",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Firenze Santa Maria Novella (direct airport bus; operator not confirmed)",
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": "no EUR fare found; rome2rio shows only NOK prices",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "ATH",
+  "name": "Athens",
+  "country": "Greece",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Athens",
+  "airports": [
+   {
+    "code": "ATH",
+    "name": "Athens International Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Syntagma Square (express bus; X95 per taxitoathens.com)",
+      "minutes": 75,
+      "fareEUR": 5.5,
+      "frequency": "every 20–40 min (taxitoathens.com, 2026)",
+      "hours": "24 h per taxitoathens.com (not stated on the OASA page)"
+     },
+     "taxi": {
+      "fareEUR": 50.0,
+      "minutes": 40,
+      "basis": "official fixed daytime fare airport to inner ring (05:00–24:00) under decision 147620/2026 (FEK B', 18 Sep 2026), as cited by hemenhesap.com (checked 24 Sep 2026); night EUR 65; minutes is an estimate",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "SPU",
+  "name": "Split",
+  "country": "Croatia",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Split",
+  "airports": [
+   {
+    "code": "SPU",
+    "name": "Split Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Split city centre (Promet line 37; stop not verified)",
+      "minutes": 55,
+      "fareEUR": 1.5,
+      "frequency": "every 10–20 min daytime (every 30 min early and late)",
+      "hours": "04:00–00:00 (no service before 04:00 or after 00:00)"
+     },
+     "taxi": {
+      "fareEUR": 45.0,
+      "minutes": null,
+      "basis": "travel-site estimate (cestee.com, updated 3 Feb 2026), about EUR 45; no official Split airport tariff reached (split-airport.hr returned certificate and DNS errors)",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "ZRH",
+  "name": "Zurich",
+  "country": "Switzerland",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Zurich",
+  "airports": [
+   {
+    "code": "ZRH",
+    "name": "Zurich Airport",
+    "known": {
+     "public": {
+      "mode": "train",
+      "to": "Zürich Hauptbahnhof",
+      "minutes": 11,
+      "fareEUR": 7.73,
+      "frequency": "about every 15 min combined (S2 and S16 each about every 30 min)",
+      "hours": "about 05:00–01:00 (approximate; day lines run from 05:00 or 05:30 to 00:00 or 01:00, so they start before 06:00 and run past 23:00; exact S2/S16 times not confirmed)"
+     },
+     "taxi": {
+      "fareEUR": 53.69,
+      "minutes": 20,
+      "basis": "typical metered estimate, not an official fixed fare: about CHF 50 per travel-site estimates; airconnect.live (2026 guide) gives CHF 50–70 metered, CHF 50–60 to HB, 15–25 min (20 used)",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus",
+   "train"
+  ]
+ }
+]

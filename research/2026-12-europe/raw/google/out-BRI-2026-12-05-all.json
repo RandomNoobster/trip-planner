@@ -1,0 +1,99 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA0JSSUABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 247.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe, Lufthansa and Discover Airlines",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Bari International Airport-Karol Wojtyla",
+   "arrTime": "19:25",
+   "arrDate": "2026-12-05",
+   "durationMin": 615,
+   "layovers": [
+    {
+     "min": 160,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    },
+    {
+     "min": 135,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 254.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and ITA",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Bari International Airport-Karol Wojtyla",
+   "arrTime": "17:30",
+   "arrDate": "2026-12-05",
+   "durationMin": 670,
+   "layovers": [
+    {
+     "min": 100,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 245,
+     "airport": "Milan Linate Airport",
+     "city": "Milan",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 302.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and ITA",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Bari International Airport-Karol Wojtyla",
+   "arrTime": "14:30",
+   "arrDate": "2026-12-05",
+   "durationMin": 490,
+   "layovers": [
+    {
+     "min": 55,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 90,
+     "airport": "Leonardo da Vinci International Airport",
+     "city": "Rome",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

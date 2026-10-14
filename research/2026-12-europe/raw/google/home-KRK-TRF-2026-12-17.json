@@ -1,0 +1,148 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDS1JLcgUSA1RSRkABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 23.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": null,
+   "depAirportName": "John Paul II Kraków Balice International",
+   "depTime": "07:20",
+   "depDate": "2026-12-17",
+   "arrAirportName": "TORP Sandefjord Airport",
+   "arrTime": "09:30",
+   "arrDate": "2026-12-17",
+   "durationMin": 130,
+   "layovers": [],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 219.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "John Paul II Kraków Balice International",
+   "depTime": "14:00",
+   "depDate": "2026-12-17",
+   "arrAirportName": "TORP Sandefjord Airport",
+   "arrTime": "00:30",
+   "arrDate": "2026-12-18",
+   "durationMin": 630,
+   "layovers": [
+    {
+     "min": 50,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 290,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 266.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "John Paul II Kraków Balice International",
+   "depTime": "11:55",
+   "depDate": "2026-12-17",
+   "arrAirportName": "TORP Sandefjord Airport",
+   "arrTime": "21:15",
+   "arrDate": "2026-12-17",
+   "durationMin": 560,
+   "layovers": [
+    {
+     "min": 75,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 210,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 322.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "John Paul II Kraków Balice International",
+   "depTime": "06:20",
+   "depDate": "2026-12-17",
+   "arrAirportName": "TORP Sandefjord Airport",
+   "arrTime": "15:05",
+   "arrDate": "2026-12-17",
+   "durationMin": 525,
+   "layovers": [
+    {
+     "min": 130,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    },
+    {
+     "min": 120,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 439.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Austrian and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "John Paul II Kraków Balice International",
+   "depTime": "14:45",
+   "depDate": "2026-12-17",
+   "arrAirportName": "TORP Sandefjord Airport",
+   "arrTime": "00:30",
+   "arrDate": "2026-12-18",
+   "durationMin": 585,
+   "layovers": [
+    {
+     "min": 110,
+     "airport": "Vienna International Airport",
+     "city": "Vienna",
+     "overnight": false
+    },
+    {
+     "min": 225,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

@@ -1,0 +1,463 @@
+{
+  "agent": "R2",
+  "cities": {
+    "MAD": {
+      "cheapEat": {
+        "name": "Bocadillo de calamares",
+        "priceEUR": 5.5,
+        "note": "Madrid's classic fried-squid roll; €5-6.50 in a 2026 guide, under €6 at most counters"
+      },
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Madrid",
+        "https://es.wikipedia.org/wiki/Mahou",
+        "https://tablejourney.com/spain/madrid/signature-dishes/",
+        "https://es.wikipedia.org/wiki/Bocadillo_de_calamares"
+      ]
+    },
+    "VLC": {
+      "cheapEat": {
+        "name": "Esmorzaret: bocadillo, drink, coffee",
+        "priceEUR": 6.5,
+        "note": "Valencian second breakfast; €6.50 in Oct-Nov 2025 reviews, a guide says €5-6"
+      },
+      "saveTip": "Make the weekday menú del día at lunch your main meal, as it averages about €13 in Valencia (2024 survey).",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Valencia",
+        "https://gastroranking.es/r/bar-san-pedro_278316/",
+        "https://www.directoalpaladar.com/viajes/brunch-lunch-esmorzaret-asi-mitico-almuerzo-valenciano-solo-a-prueba-valientes",
+        "https://www.hosteltur.com/166857_el-menu-del-dia-en-un-restaurante-cuesta-14-euros-en-espana.html"
+      ]
+    },
+    "AGP": {
+      "cheapEat": {
+        "name": "Espeto de sardinas",
+        "priceEUR": 4,
+        "note": "Beach-grilled sardine skewer; about €3-4 at chiringuitos, some at €2 in Mar 2026"
+      },
+      "saveTip": "Make the menú del día at lunch your main meal, as it averages about €13.40 in Andalucía (2025 survey).",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/M%C3%A1laga",
+        "https://cervezavictoria.es/en/visit-our-brewery",
+        "https://planomato.com/es/malaga/n/espetos-baratos-canas-euro",
+        "https://blog.felicesvacaciones.es/cuanto-vale-un-espeto-en-malaga",
+        "https://www.menorca.info/balears/noticias/2025/11/25/2518907/extremadura-galicia-estas-son-comunidades-menu-del-dia-mas-barato.html"
+      ]
+    },
+    "SVQ": {
+      "saveTip": "Pick bars without an English menu, where prices are likely lower, and order tinto de verano, often cheaper than sangría.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Seville"
+      ]
+    },
+    "ALC": {
+      "localBeer": [
+        "Estrella Levante"
+      ],
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Alicante",
+        "https://es.wikipedia.org/wiki/Estrella_de_Levante",
+        "https://en.wikipedia.org/wiki/S.A._Damm"
+      ]
+    },
+    "PMI": {
+      "localBeer": [
+        "Estrella Damm",
+        "San Miguel"
+      ],
+      "saveTip": "Make the menú del día at lunch your main meal, as it averages about €16 in the Balearic Islands (2025 survey).",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Palma_de_Mallorca",
+        "https://tablejourney.com/spain/palma/signature-dishes/",
+        "https://en.wikivoyage.org/wiki/Mallorca",
+        "https://en.wikivoyage.org/wiki/Spain",
+        "https://en.wikipedia.org/wiki/Estrella_Damm",
+        "https://www.menorca.info/balears/noticias/2025/11/25/2518907/extremadura-galicia-estas-son-comunidades-menu-del-dia-mas-barato.html"
+      ]
+    },
+    "LPA": {
+      "cheapEat": {
+        "name": "Papas arrugadas con mojo",
+        "priceEUR": 5,
+        "note": "Canary staple, often served as a tapa; €4-6 a ración in a 2026 Tenerife guide"
+      },
+      "saveTip": "Lunch on the menú del día in San Telmo's inexpensive restaurants, as Las Palmas averages about €13 (2024 survey).",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Las_Palmas",
+        "https://en.wikivoyage.org/wiki/Canary_Islands",
+        "https://lamaletainquieta.com/papas-arrugadas-mojo/",
+        "https://www.hosteltur.com/166857_el-menu-del-dia-en-un-restaurante-cuesta-14-euros-en-espana.html"
+      ]
+    },
+    "TCI": {
+      "localBeer": [
+        "Dorada",
+        "Tropical"
+      ],
+      "cheapEat": {
+        "name": "Papas arrugadas con mojo",
+        "priceEUR": 5,
+        "note": "Salted wrinkled potatoes with sauce; €4-6 in the north, up to €9 in the south (2026)"
+      },
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Tenerife",
+        "https://en.wikivoyage.org/wiki/Canary_Islands",
+        "https://en.wikipedia.org/wiki/Compania_Cervecera_de_Canarias",
+        "https://lamaletainquieta.com/papas-arrugadas-mojo/"
+      ]
+    },
+    "LCA": {
+      "cheapEat": {
+        "name": "Souvlaki pita",
+        "priceEUR": 5.5,
+        "note": "Pork or chicken pitta; €5.50 on Souvlaki.gr's Larnaca Wolt menu (undated)"
+      },
+      "saveTip": "Skip the beachfront seafood places and eat where Cypriots do, as prices away from tourist beaches are more moderate.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Larnaca",
+        "https://en.wikivoyage.org/wiki/Cyprus",
+        "https://en.wikipedia.org/wiki/Beer_in_Cyprus",
+        "https://wolt.com/el/cyp/larnaca/restaurant/souvlakigr"
+      ]
+    },
+    "LIS": {
+      "localBeer": [
+        "Sagres",
+        "Super Bock"
+      ],
+      "cheapEat": {
+        "name": "Bifana (pork roll)",
+        "priceEUR": 3,
+        "note": "Pork-loin sandwich; €2.50-4.50 at traditional tascas in a recent guide"
+      },
+      "saveTip": "Order the prato do dia from the sheet on the door, and leave the unrequested couvert untouched so it is not charged.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Lisbon",
+        "https://en.wikivoyage.org/wiki/Portugal",
+        "https://en.wikipedia.org/wiki/Central_de_Cervejas",
+        "https://en.wikipedia.org/wiki/Super_Bock",
+        "https://doeatbetterexperience.com/blog/bifana-in-lisbon-guide/"
+      ]
+    },
+    "OPO": {
+      "saveTip": "At prato do dia eateries, say you enjoyed the soup and politely ask for a little more if you are still hungry.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Porto",
+        "https://en.wikipedia.org/wiki/Super_Bock",
+        "https://en.wikipedia.org/wiki/Portal:Beer/Selected_beer"
+      ]
+    },
+    "FAO": {
+      "localBeer": [
+        "Sagres",
+        "Super Bock"
+      ],
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Faro",
+        "https://en.wikivoyage.org/wiki/Portugal",
+        "https://en.wikipedia.org/wiki/Central_de_Cervejas",
+        "https://en.wikipedia.org/wiki/Super_Bock"
+      ]
+    },
+    "FNC": {
+      "cheapEat": {
+        "name": "Bolo do caco with garlic butter",
+        "priceEUR": 3.5,
+        "note": "Madeiran flatbread snack; €2-5 in a Funchal dish guide"
+      },
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Funchal",
+        "https://en.wikipedia.org/wiki/Madeira_Brewery",
+        "https://tablejourney.com/portugal/funchal/signature-dishes/",
+        "https://en.wikipedia.org/wiki/Bolo_do_caco"
+      ]
+    },
+    "MIL": {
+      "localBeer": [
+        "Peroni",
+        "Birra Moretti",
+        "Birrificio Lambrate"
+      ],
+      "cheapEat": {
+        "name": "Panzerotto at Luini",
+        "priceEUR": 3.5,
+        "note": "Fried mozzarella-tomato calzone near the Duomo; €3.20-3.50 in Apr 2025"
+      },
+      "saveTip": "Go for aperitivo from about 19:00, when many bars serve a fixed-price drink with a free snack buffet.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Milan",
+        "https://en.wikipedia.org/wiki/Beer_in_Italy",
+        "https://en.wikipedia.org/wiki/Peroni",
+        "https://en.wikipedia.org/wiki/Birra_Moretti",
+        "https://spottedbylocals.com/milan/bar-luini",
+        "https://www.inyourpocket.com/italy/milan/venues/Luini"
+      ]
+    },
+    "VCE": {
+      "localBeer": [
+        "Birra Moretti",
+        "Peroni"
+      ],
+      "saveTip": "Eat and drink standing at the bar like Venetians, since seated prices for the same cicchetti and coffee can be double.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Venice",
+        "https://en.wikipedia.org/wiki/Beer_in_Italy",
+        "https://en.wikipedia.org/wiki/Birra_Moretti",
+        "https://en.wikipedia.org/wiki/Peroni"
+      ]
+    },
+    "NAP": {
+      "localBeer": [
+        "Peroni",
+        "Nastro Azzurro"
+      ],
+      "saveTip": "Snack on street food such as pizza fritta (€2-4) or a sfogliatella (€1.50-3) instead of sit-down meals.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Naples",
+        "https://en.wikipedia.org/wiki/Beer_in_Italy",
+        "https://en.wikipedia.org/wiki/Peroni",
+        "https://tablejourney.com/italy/naples/signature-dishes/"
+      ]
+    },
+    "BLQ": {
+      "localBeer": [
+        "Peroni",
+        "Birra Moretti"
+      ],
+      "cheapEat": {
+        "name": "Tigelle (four or five pieces)",
+        "priceEUR": 8,
+        "note": "€1.70-1.90 each at Tigellino (Wikivoyage); baskets run €7-12 in a 2026 guide"
+      },
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Bologna",
+        "https://en.wikipedia.org/wiki/Beer_in_Italy",
+        "https://en.wikipedia.org/wiki/Peroni",
+        "https://en.wikipedia.org/wiki/Birra_Moretti",
+        "https://tablejourney.com/italy/bologna/signature-dishes/"
+      ]
+    },
+    "FLR": {
+      "localBeer": [
+        "Peroni",
+        "Birra Moretti"
+      ],
+      "saveTip": "Have coffee standing at the bar (al banco), where a cappuccino costs €1-3 against about €4 at a table.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Florence",
+        "https://en.wikipedia.org/wiki/Beer_in_Italy",
+        "https://en.wikipedia.org/wiki/Peroni",
+        "https://en.wikipedia.org/wiki/Birra_Moretti"
+      ]
+    },
+    "TRN": {
+      "localBeer": [
+        "Menabrea",
+        "Peroni",
+        "Birrificio Torino"
+      ],
+      "cheapEat": {
+        "name": "Tramezzino sandwich",
+        "priceEUR": 3,
+        "note": "Crustless triangle sandwich devised in Turin in 1925; €2-5 at bars (2026 guide)"
+      },
+      "saveTip": "Refill at the green-bull 'turet' fountains and ask restaurants for a carafe of tap water instead of bottled.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Turin",
+        "https://en.wikipedia.org/wiki/Birra_Menabrea",
+        "https://en.wikipedia.org/wiki/Peroni",
+        "https://en.wikipedia.org/wiki/Tramezzino",
+        "https://tablejourney.com/italy/turin/signature-dishes/"
+      ]
+    },
+    "CTA": {
+      "localBeer": [
+        "Birra Messina",
+        "Peroni"
+      ],
+      "saveTip": "Have a cold panino made to order at a salumeria for €1-3, remembering most close 13:00-16:00 and Sunday afternoons.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Catania",
+        "https://it.wikipedia.org/wiki/Birra_Messina",
+        "https://en.wikipedia.org/wiki/Beer_in_Italy",
+        "https://en.wikipedia.org/wiki/Peroni"
+      ]
+    },
+    "PMO": {
+      "localBeer": [
+        "Birra Messina",
+        "Peroni",
+        "Ballarak"
+      ],
+      "saveTip": "Graze at the old-centre sandwich stands and Ballarò market, where panelle, arancina and sfincione cost about €2-4 each.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Palermo",
+        "https://www.sluurpy.it/palermo/ristoranti",
+        "https://tablejourney.com/italy/palermo/street-food/ballarak-sfincione-sf/",
+        "https://tablejourney.com/italy/palermo/signature-dishes/",
+        "https://it.wikipedia.org/wiki/Birra_Messina",
+        "https://en.wikipedia.org/wiki/Peroni"
+      ]
+    },
+    "BRI": {
+      "localBeer": [
+        "Peroni",
+        "Raffo"
+      ],
+      "saveTip": "Lunch on focaccia barese (about €2 a slice) or a €1-2 bag of sgagliozze in Bari Vecchia instead of a sit-down meal.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Bari",
+        "https://www.gamberorossointernational.com/news/where-to-eat-the-best-panzerotti-in-bari/",
+        "https://en.wikipedia.org/wiki/Peroni",
+        "https://en.wikipedia.org/wiki/Birra_Raffo",
+        "https://budgettraveller.org/?p=4658"
+      ]
+    },
+    "TRS": {
+      "localBeer": [
+        "Birra Moretti",
+        "Peroni"
+      ],
+      "cheapEat": {
+        "name": "Panino caldaia (boiled pork)",
+        "priceEUR": 5,
+        "note": "Hot boiled-pork roll at a Trieste buffet; €5.00 on Buffet L'Approdo's menu (undated)"
+      },
+      "saveTip": "Lunch at a traditional Trieste buffet, where hot pork and sausage rolls cost about €4-5, instead of a sit-down meal.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Trieste",
+        "https://www.sluurpy.it/trieste/ristorante/12925/buffet-lapprodo/menu-prezzi",
+        "https://en.wikipedia.org/wiki/Birra_Moretti",
+        "https://en.wikipedia.org/wiki/Peroni"
+      ]
+    },
+    "ATH": {
+      "localBeer": [
+        "Mythos",
+        "Fix",
+        "Alfa"
+      ],
+      "cheapEat": {
+        "name": "Takeaway pita souvlaki",
+        "priceEUR": 4,
+        "note": "Mitropoleos pita shops; Athens averages about €4 in an Apr 2026 report"
+      },
+      "saveTip": "At the Mitropoleos souvlaki shops ask for the takeaway pita, not the seated plate, which Wikivoyage lists at about €9.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Athens",
+        "https://en.wikivoyage.org/wiki/Greece",
+        "https://en.wikipedia.org/wiki/Beer_in_Greece",
+        "https://en.wikipedia.org/wiki/Mythos_Beer",
+        "https://www.iefimerida.gr/english/greeces-beloved-souvlaki-no-longer-cheap-eat"
+      ]
+    },
+    "SKG": {
+      "localBeer": [
+        "Mythos",
+        "Vergina",
+        "Alfa"
+      ],
+      "saveTip": "Have breakfast at a bakery (fourno) on koulouri, tiropita or bougatsa rather than a café, where coffee alone costs €3-5.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Thessaloniki",
+        "https://en.wikivoyage.org/wiki/Greece",
+        "https://en.wikipedia.org/wiki/Beer_in_Greece",
+        "https://en.wikipedia.org/wiki/Mythos_Beer"
+      ]
+    },
+    "IST": {
+      "localBeer": [
+        "Efes Pilsen",
+        "Tuborg",
+        "Bomonti"
+      ],
+      "saveTip": "Eat lunch at an esnaf lokantası (old-school canteen) and always ask the price first where none is displayed.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Istanbul",
+        "https://en.wikivoyage.org/wiki/Istanbul/Historical_Peninsula",
+        "https://en.wikivoyage.org/wiki/Turkey",
+        "https://en.wikipedia.org/wiki/Beer_in_Turkey",
+        "https://api.frankfurter.dev/v1/latest?base=EUR"
+      ]
+    },
+    "SOF": {
+      "saveTip": "Breakfast on banitsa from a bakery with ayran or boza, and grab takeaway pizza slices or sandwiches for under €2.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Sofia",
+        "https://www.spottedbylocals.com/sofia/mekitsa-kafe",
+        "https://www.ffbham.bg/en/post/top-kamenitza-manager-says-beer-maker-s-market-share-up-to-28-x000d--158997714079098",
+        "https://seenews.com/news/bulgarias-zagorka-grows-net-profit-slightly-in-2018-revenue-drops-660125",
+        "https://api.frankfurter.dev/v1/latest?base=EUR"
+      ]
+    },
+    "BUH": {
+      "cheapEat": {
+        "name": "Covrigi pretzel at LUCA",
+        "priceEUR": 0.94,
+        "note": "Warm soft pretzel at LUCA counters; RON 4-6 in a 2026 guide"
+      },
+      "saveTip": "Graze at Piața Obor market stalls, where mici with bread and a lager cost under 35 RON and lángos RON 15-22.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Bucharest",
+        "https://en.wikivoyage.org/wiki/Romania",
+        "https://tablejourney.com/romania/bucharest/budget-eating/"
+      ]
+    },
+    "SPU": {
+      "saveTip": "Buy fruit, vegetables and picnic food at the Pazar farmers market, which Wikivoyage says is best on weekend mornings.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Split",
+        "https://www.croatiaweek.com/every-countrys-most-popular-beer-what-is-croatias/",
+        "https://total-croatia-news.com/news/living-in-croatia/beer-in-croatia/"
+      ]
+    },
+    "LJU": {
+      "saveTip": "Drink at bars just outside the old town or near the university, which Wikivoyage says are cheaper.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Ljubljana"
+      ]
+    },
+    "TIA": {
+      "localBeer": [
+        "Birra Tirana",
+        "Korça",
+        "Peja"
+      ],
+      "saveTip": "Eat at cantina-style local restaurants (daily dishes 200-400 lek, about €2-4) rather than the fancier Blloku places.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Tirana",
+        "https://en.wikipedia.org/wiki/Birra_Tirana",
+        "https://en.wikipedia.org/wiki/Birra_Kor%C3%A7a"
+      ]
+    },
+    "SJJ": {
+      "cheapEat": {
+        "name": "Ćevapi in somun flatbread",
+        "priceEUR": 5.1,
+        "note": "10-12 KM a portion in a 2026 guide; Wikivoyage listed 6 KM in 2019"
+      },
+      "saveTip": "Eat burek or pita from a buregdžinica, about 4-7 KM per 200 g (€2-3.60), rather than at sit-down restaurants.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Sarajevo",
+        "https://tablejourney.com/bosnia-and-herzegovina/sarajevo/signature-dishes/"
+      ]
+    },
+    "BEG": {
+      "saveTip": "Have burek with drinkable yoghurt from any pekara for breakfast, as slices run about 150-300 RSD (€1.30-2.60).",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Belgrade",
+        "https://wolt.com/sr/srb/belgrade/venue/intermezzo-system-senjak",
+        "https://wolt.com/sr/srb/belgrade/venue/blok-shop",
+        "https://wolt.com/uk/Serbia/Belgrade/restaurant/evap",
+        "https://www.travelwithhello.com/blog/serbia-food-dining-guide",
+        "https://tablejourney.com/serbia/budget-eating/"
+      ]
+    },
+    "MLA": {
+      "saveTip": "Look for traditional bakeries and pastizzerie, where Wikivoyage says bread costs mere cents and a pastizz 30-50 cents.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Valletta",
+        "https://en.wikipedia.org/wiki/Simonds_Farsons_Cisk"
+      ]
+    }
+  }
+}

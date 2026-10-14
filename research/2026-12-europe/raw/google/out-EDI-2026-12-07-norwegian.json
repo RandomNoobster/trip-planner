@@ -1,0 +1,59 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMDcyAkRZMgJEOGoFEgNUUkRyBRIDRURJQAFIAZgBAg",
+ "fetchedAt": "2026-10-11T11:23:32",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 108.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": "Norwegian",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:20",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Edinburgh Airport",
+   "arrTime": "12:55",
+   "arrDate": "2026-12-07",
+   "durationMin": 215,
+   "layovers": [
+    {
+     "min": 40,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 108 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Trondheim Airport, Værnes at 10:20 AM on Monday, December 7 and arrives at Edinburgh Airport at 12:55 PM on Monday, December 7. Total duration 3 hr 35 min.  Layover (1 of 1) is a 40 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 108.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": "Norwegian, Norwegian",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "14:55",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Edinburgh Airport",
+   "arrTime": "17:45",
+   "arrDate": "2026-12-07",
+   "durationMin": 230,
+   "layovers": [
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 108 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian, Norwegian. Leaves Trondheim Airport, Værnes at 2:55 PM on Monday, December 7 and arrives at Edinburgh Airport at 5:45 PM on Monday, December 7. Total duration 3 hr 50 min.  Layover (1 of 1) is a 55 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

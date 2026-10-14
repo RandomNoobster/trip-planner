@@ -1,0 +1,111 @@
+{
+  "agent": "S2",
+  "cities": {
+    "MLA": {
+      "transit": {
+        "eur": 2.0,
+        "note": "Malta Public Transport's adult single (2 h) is EUR 2.00 in the winter season and EUR 2.50 only in summer, so a December trip pays 2.00 (operator fare page for the 2025/26 season; Wikivoyage Malta agrees).",
+        "url": "https://www.publictransport.com.mt/en/fares"
+      },
+      "beerBar": {
+        "eur": 3.5,
+        "note": "A Sept 2026 Valletta bar guide quotes a pint of Cisk at EUR 3.50 (Carmen Bar), a large Cisk at EUR 3.00 and EUR 2.50-3.50 at local spots, with only premium Strait Street bars reaching about EUR 5.00, so 5.00 is a tourist-bar price, not a normal bar.",
+        "url": "https://europenightlife.com/malta/valletta/best-bars-in-valletta"
+      },
+      "beerShop": {
+        "eur": 1.3,
+        "note": "An April 2026 Malta grocery price guide puts a 500 ml Cisk at EUR 0.90-1.20 at Lidl/PAVI and EUR 1.20-1.60 at Welbee's/Greens, while the table's 2.19 matches tourist convenience shops (EUR 2.00-3.50) and delivery-app listings.",
+        "url": "https://freemalta.com/articles/cost-groceries-malta-2026"
+      }
+    },
+    "VCE": {
+      "transit": {
+        "eur": 9.5,
+        "note": "ACTV's standard 75-minute Rete Unica single ticket, the one that works on the vaporetto and the buses and trams, costs EUR 9.50 (confirmed by 2026 travel guides), while the table's 1.50 is only the mainland road-network ticket (Mestre/Lido buses, trams) that does not include boats.",
+        "url": "https://actv.avmspa.it/en/content/venice-urban-services"
+      }
+    },
+    "ZAG": {
+      "transit": {
+        "eur": 0.93,
+        "note": "ZET's price list (read Oct 2026) sells time-limited single tickets at kiosks for EUR 0.53 (30 min), EUR 0.93 (60 min) and EUR 1.33 (90 min), with driver prices of 0.80, 1.33 and 1.99, so the table's 0.52 is only the 30-minute ticket and the standard 60-minute single is 0.93.",
+        "url": "https://www.zet.hr/cijene-prodaja-i-placanje/cijene-karata-grad-zagreb/400"
+      }
+    },
+    "LPA": {
+      "transit": {
+        "eur": 1.4,
+        "note": "Guaguas Municipales' own fare page lists a single trip paid to the driver at EUR 1.40 including IGIC (page read Oct 2026), well below the LivingCost-derived 1.90, and rechargeable cards are cheaper still.",
+        "url": "https://www.guaguas.com/tarifas-carnets/pago-directo"
+      }
+    },
+    "SPU": {
+      "transit": {
+        "eur": 1.5,
+        "note": "Promet Split's price list valid from 1 June 2026 gives the Split-Split single ticket (60 min) at EUR 1.50 bought at the ticket office, online or in the app and EUR 3.00 from the driver, versus the table's 1.08 (price table decoded from the operator's PDF).",
+        "url": "https://www.promet-split.hr/cjenik/cjenik-putnih-karata"
+      },
+      "fastFood": {
+        "eur": 8.0,
+        "note": "McDonald's Croatia sells at near-uniform national prices (Big Mac EUR 4.70 in Feb 2026 per Lider, Wolt delivery listings show the Big Mac McMenu at EUR 9.10 in Split and 9.00 in Zagreb, about EUR 1 above restaurant prices), so a Split combo is about EUR 8, not 10.26.",
+        "url": "https://en.lider.media/?p=214708"
+      }
+    },
+    "DBV": {
+      "fastFood": {
+        "eur": 8.0,
+        "note": "The Croatian Big Mac cost EUR 4.70 in Feb 2026 (Lider) and Wolt delivery listings show the Big Mac McMenu at EUR 9.00-9.10 with roughly EUR 1 delivery markup, so a Dubrovnik combo is about EUR 8 (LivingCost scaled says 7.58), not Numbeo's 11.50.",
+        "url": "https://en.lider.media/?p=214708"
+      }
+    },
+    "BEG": {
+      "fastFood": {
+        "eur": 8.4,
+        "note": "Vreme put a Big Mac meal at about RSD 920 in 2025 and reported the Big Mac alone at RSD 580 in Sept 2026, so a combo is roughly RSD 950-1,000, which is EUR 8.1-8.5 at fx.json's 117.2 RSD/EUR, far below the 11.92 in the table.",
+        "url": "https://vreme.com/en/ekonomija/nekad-i-sad-pre-deset-godina-dva-big-mek-obroka-za-920-danas-jedan-za-iste-pare/"
+      }
+    },
+    "TIA": {
+      "mealMid2": {
+        "eur": 34.0,
+        "note": "A 2026 Albania price check puts a mid-range Tirana restaurant meal at EUR 12-18 per person and a July 2026 guide gives mains at 600-1,000 lek (EUR 6-11) and salads at 300-600 lek, so a three-course dinner for two without drinks is about EUR 30-40, not the LivingCost-scaled 52.97 (Sarajevo is 30.94, Skopje 29.42).",
+        "url": "https://www.albania-spirit.com/blog/albania-getting-more-expensive/"
+      }
+    }
+  },
+  "checked": {
+    "BCN": "looked fine: beerBar left at 3.50 (Riviera Travel 2025 average EUR 3.30 per glass, city survey 2024 average beer EUR 2.40, LivingCost 5.05 matches Irish-pub pricing of EUR 5.00 in Feb 2026); transit 2.65 within 10% of EUR 2.90 (Wikivoyage, Jan 2026)",
+    "VLC": "looked fine: transit 1.97 vs EMT bus EUR 2.00 (2025)",
+    "SVQ": "looked fine: transit 1.40 matches TUSSAM EUR 1.40",
+    "PMI": "looked fine: transit 2.00 matches EMT EUR 2.00",
+    "LPA": "transit corrected",
+    "TCI": "looked fine: transit 1.25 could not be checked against a current fare, no evidence of a gap, left",
+    "LIS": "looked fine: transit 2.05 sits between Carris on-board EUR 2.20 and card EUR 1.66 (2025)",
+    "OPO": "left alone: transit 1.48 sits between the Andante fare and STCP on-board EUR 1.85, no clear 20% gap",
+    "FAO": "looked fine: transit 2.92 vs EUR 2.70 (Jan 2024); Numbeo and LivingCost agree within 10% on every item incl. mealMid2 40",
+    "ROM": "looked fine: beerBar 5.00 is the low end of what Rome bars charge (craft pubs EUR 5-9 a pint, Apr 2026), no 20% evidence for a change",
+    "VCE": "transit corrected",
+    "NAP": "left alone: beerBar 5.00 round figure but within plausible range, no source showed a 20% gap",
+    "TRN": "left alone: beerBar 5.00 (LivingCost 6.25 raw) is within 20% of plausible; no source found to settle it",
+    "PMO": "left alone: beerBar 5.00 vs LivingCost 4.27 raw, no clear gap; mealMid2 40.68 is lowish but no evidence found",
+    "CTA": "left alone: beerBar 6.00 is above Palermo and Naples but LivingCost raw also says 6.24 and no menu or news source found; transit 1.40 matches AMTS (EUR 1.40)",
+    "BRI": "left alone: beerBar 3.50 agrees with LivingCost raw 3.09, no contrary source found",
+    "BLQ": "looked fine: transit 2.30 matches TPER prepaid single EUR 2.30 (EUR 2.50 on board)",
+    "ATH": "looked fine: transit 1.20 matches the base 90-minute ticket (Dec 2025)",
+    "SKG": "looked fine: transit 0.60 matches OASTH 70-minute ticket and metro EUR 0.60 (Jul 2025)",
+    "IST": "looked fine, not stale: shop beer 2.18 vs a 50 cl can recommended price of TRY 125 (Jul 2026) which is EUR 2.27, bar beer 4.26 is at the top of a TRY 150-250 guide range, mid-range dinner guide TRY 700-1,200 per person is below the table's 49.79 for two, transit 0.76 equals the TRY 42 fare in force since 16 Feb 2026",
+    "SOF": "looked fine: transit 0.79 vs EUR 0.80 on Wikivoyage; fastFood 10.14 could not be verified (Sofia delivery menus are above EUR 10), left",
+    "BUH": "left alone: transit 0.75 sits between the STB surface fare of 3 lei (EUR 0.56) and a metro ride of about 5 lei (EUR 0.94), no clear 20% gap",
+    "BEG": "fastFood corrected; transit 0 confirmed free (Wikivoyage 2026)",
+    "ZAG": "transit corrected; fastFood 8.94 left because it is within 20% of the roughly EUR 8 restaurant price (it looks like a delivery-app price)",
+    "SPU": "transit and fastFood corrected",
+    "DBV": "fastFood corrected",
+    "LJU": "looked fine: transit 1.50 matches the Urbana single fare",
+    "TIA": "mealMid2 corrected; other items inside the 2026 ranges (beer 0.5 l bar EUR 2-3.20, shop EUR 1-1.70, cappuccino EUR 1.30-2.00); fastFood 10.16 could not be verified, left",
+    "SJJ": "looked fine: transit 1.11 matches a 2.20 KM single ticket",
+    "SKP": "looked fine: transit 0.66 sits between 35 denars (app) and 50 denars (cash)",
+    "MLA": "transit, beerBar and beerShop corrected",
+    "LCA": "looked fine: transit 2.40 matches the cash bus fare of EUR 2.40 (Wikivoyage, Apr 2024); no independent source found for fastFood 7.10, left"
+  },
+  "notes": "All 25 allowed WebSearch calls were used; no numbeo.com page was fetched or opened, and Numbeo-derived aggregator pages found in results (combien-coute.net, Wise) were ignored. Evidence came from operator fare pages (Malta Public Transport, ACTV, ZET, Guaguas Municipales, Promet Split), Wikivoyage, local news (Lider, Vreme, Time Out Barcelona) and 2026 price guides. Definition choices: Zagreb and Split use the pre-paid kiosk/app single (driver prices are 1.33 and 3.00); Venice uses the 75-minute boat-inclusive ticket (EUR 1.50 buys only mainland buses and trams); Las Palmas uses the pay-the-driver fare. The Split fare was read out of the operator's PDF table (columns: ticket office/online/value card, then 'kod vozaca'), so a quick human glance at the PDF is worth it. The Malta beer figures rest on travel-guide sites (Sept 2026, Apr 2026) rather than an official source, so confidence is medium (a Dec 2025 alcohol-price article gives EUR 2.50-4.00 for Cisk in casual bars and EUR 0.80-1.20 for a 500 ml can, and Expatistan's crowd figure of EUR 3.21 for Valletta points the same way). The McDonald's Croatia delivery prices (Wolt) and the 2025 Belgrade meal price (Vreme, about RSD 900-920) were read from search-result snippets and the article headline because the Wolt pages could not be fetched, so the Croatian and Serbian combo values are estimates with roughly +/- EUR 0.5 of uncertainty. Not changed but worth knowing: (1) Spanish beerBar values (BCN, MAD, VLC, AGP, ALC, SVQ 2.67-3.50) look like caña-sized prices; I found no source with true 0.5 l prices per city, so I left all of them, including Barcelona, whose LivingCost 5.05 matches Irish-pub prices; (2) the Italian round 5.00 beers (ROM, NAP, TRN, PMO) and Catania 6.00 could not be disproved with menus or news, so unchanged; (3) Istanbul is not stale in EUR terms because Numbeo converts at the current rate, but one search summary mentioned a further 10% fare rise on 20 July 2026 (about TRY 46.20, EUR 0.84) that I could not confirm and that is below the 20% threshold anyway; (4) FNC fastFood 12.00 is 20% above Lisbon and Porto at 10.00 (McDonald's pricing is national) but I found no Madeira-specific source; (5) Croatian LivingCost-only fastFood for Zagreb (8.94) looks like a delivery price."
+}

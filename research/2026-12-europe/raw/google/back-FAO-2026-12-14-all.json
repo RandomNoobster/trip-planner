@@ -1,0 +1,137 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTRqBRIDRkFPcgUSA1RSREABSAGYAQI",
+ "fetchedAt": "2026-10-11T12:28:32",
+ "priceUnavailable": 0,
+ "via": "rpc",
+ "itineraries": [
+  {
+   "price": 87.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Transavia and KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "FAO",
+   "depAirportName": "Faro International Airport",
+   "depTime": "14:40",
+   "depDate": "2026-12-14",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-14",
+   "durationMin": 450,
+   "layovers": [
+    {
+     "min": 130,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "HV5358",
+    "KL1155"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 435.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Tap Air Portugal and Scandinavian Airlines",
+   "operatedBy": null,
+   "depCode": "FAO",
+   "depAirportName": "Faro International Airport",
+   "depTime": "06:05",
+   "depDate": "2026-12-14",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "20:30",
+   "arrDate": "2026-12-14",
+   "durationMin": 805,
+   "layovers": [
+    {
+     "min": 340,
+     "overnight": false,
+     "airport": "Humberto Delgado Airport",
+     "city": "Lisbon",
+     "code": "LIS",
+     "changeAirport": false
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "TP1908",
+    "TP764",
+    "SK370"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 445.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Tap Air Portugal, Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depCode": "FAO",
+   "depAirportName": "Faro International Airport",
+   "depTime": "16:30",
+   "depDate": "2026-12-14",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-15",
+   "durationMin": 1280,
+   "layovers": [
+    {
+     "min": 695,
+     "overnight": true,
+     "airport": "Humberto Delgado Airport",
+     "city": "Lisbon",
+     "code": "LIS",
+     "changeAirport": false
+    },
+    {
+     "min": 70,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "TP1906",
+    "LH1173",
+    "LH872",
+    "WF1311"
+   ],
+   "via": "rpc"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDTUFEcgUSA1RSREABSAGYAQI",
+ "fetchedAt": "2026-10-11T11:24:47",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 160.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Adolfo Suárez Madrid-Barajas Airport",
+   "depTime": "12:20",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "18:45",
+   "arrDate": "2026-12-17",
+   "durationMin": 385,
+   "layovers": [
+    {
+     "min": 105,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 160 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Adolfo Suárez Madrid-Barajas Airport at 12:20 PM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 6:45 PM on Thursday, December 17. Total duration 6 hr 25 min.  Layover (1 of 1) is a 1 hr 45 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

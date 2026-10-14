@@ -1,0 +1,200 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDQ1BIcgUSA0tSS0ABSAGYAQI",
+ "priceUnavailable": 6,
+ "itineraries": [
+  {
+   "price": 53.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": "Malta Air",
+   "depAirportName": "Copenhagen Airport",
+   "depTime": "14:40",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "16:15",
+   "arrDate": "2026-12-13",
+   "durationMin": 95,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 53 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Operated by Malta Air. Leaves Copenhagen Airport at 2:40 PM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 4:15 PM on Sunday, December 13. Total duration 1 hr 35 min.   Select flight"
+  },
+  {
+   "price": 67.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Copenhagen Airport",
+   "depTime": "18:40",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "20:10",
+   "arrDate": "2026-12-13",
+   "durationMin": 90,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 67 euros.This price does not include overhead bin access. Nonstop flight with Norwegian. Leaves Copenhagen Airport at 6:40 PM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 8:10 PM on Sunday, December 13. Total duration 1 hr 30 min.   Select flight"
+  },
+  {
+   "price": 106.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "Copenhagen Airport",
+   "depTime": "10:10",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "14:20",
+   "arrDate": "2026-12-13",
+   "durationMin": 250,
+   "layovers": [
+    {
+     "min": 115,
+     "overnight": false,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 106 euros. 1 stop flight with LOT. Leaves Copenhagen Airport at 10:10 AM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 2:20 PM on Sunday, December 13. Total duration 4 hr 10 min.  Layover (1 of 1) is a 1 hr 55 min layover at Warsaw Chopin Airport in Warsaw. Select flight"
+  },
+  {
+   "price": 120.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "Copenhagen Airport",
+   "depTime": "19:50",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "23:50",
+   "arrDate": "2026-12-13",
+   "durationMin": 240,
+   "layovers": [
+    {
+     "min": 105,
+     "overnight": false,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 120 euros. 1 stop flight with LOT. Leaves Copenhagen Airport at 7:50 PM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 11:50 PM on Sunday, December 13. Total duration 4 hr.  Layover (1 of 1) is a 1 hr 45 min layover at Warsaw Chopin Airport in Warsaw. Select flight"
+  },
+  {
+   "price": 128.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "SWISS",
+   "operatedBy": "Air Baltic",
+   "depAirportName": "Copenhagen Airport",
+   "depTime": "08:40",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "13:55",
+   "arrDate": "2026-12-13",
+   "durationMin": 315,
+   "layovers": [
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Zurich Airport",
+     "city": "Zürich"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 128 euros. 1 stop flight with SWISS. Operated by Air Baltic. Leaves Copenhagen Airport at 8:40 AM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 1:55 PM on Sunday, December 13. Total duration 5 hr 15 min.  Layover (1 of 1) is a 1 hr 35 min layover at Zurich Airport in Zürich. Select flight"
+  },
+  {
+   "price": 143.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Copenhagen Airport",
+   "depTime": "08:55",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "12:50",
+   "arrDate": "2026-12-13",
+   "durationMin": 235,
+   "layovers": [
+    {
+     "min": 50,
+     "overnight": false,
+     "airport": "Munich International Airport",
+     "city": "Munich"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 143 euros. 1 stop flight with Lufthansa. Leaves Copenhagen Airport at 8:55 AM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 12:50 PM on Sunday, December 13. Total duration 3 hr 55 min.  Layover (1 of 1) is a 50 min layover at Munich International Airport in Munich. Select flight"
+  },
+  {
+   "price": 174.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Copenhagen Airport",
+   "depTime": "19:10",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "23:05",
+   "arrDate": "2026-12-13",
+   "durationMin": 235,
+   "layovers": [
+    {
+     "min": 50,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 174 euros. 1 stop flight with Lufthansa. Leaves Copenhagen Airport at 7:10 PM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 11:05 PM on Sunday, December 13. Total duration 3 hr 55 min.  Layover (1 of 1) is a 50 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 205.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Copenhagen Airport",
+   "depTime": "06:00",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "11:15",
+   "arrDate": "2026-12-13",
+   "durationMin": 315,
+   "layovers": [
+    {
+     "min": 110,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 205 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Copenhagen Airport at 6:00 AM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 11:15 AM on Sunday, December 13. Total duration 5 hr 15 min.  Layover (1 of 1) is a 1 hr 50 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  }
+ ]
+}

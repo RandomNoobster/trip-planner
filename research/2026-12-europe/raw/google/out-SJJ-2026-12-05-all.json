@@ -1,0 +1,68 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA1NKSkABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 220.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "16:45",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Sarajevo International Airport",
+   "arrTime": "11:45",
+   "arrDate": "2026-12-06",
+   "durationMin": 1140,
+   "layovers": [
+    {
+     "min": 750,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    },
+    {
+     "min": 90,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 298.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Austrian",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:15",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Sarajevo International Airport",
+   "arrTime": "23:00",
+   "arrDate": "2026-12-05",
+   "durationMin": 765,
+   "layovers": [
+    {
+     "min": 345,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
+    },
+    {
+     "min": 150,
+     "airport": "Vienna International Airport",
+     "city": "Vienna",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

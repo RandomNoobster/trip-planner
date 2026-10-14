@@ -1,0 +1,124 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTBqBRIDU1RPcgUSA1ZOT0ABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 32.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Stockholm Arlanda Airport",
+   "depTime": "13:25",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "15:40",
+   "arrDate": "2026-12-10",
+   "durationMin": 75,
+   "layovers": [],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 58.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Air Baltic",
+   "operatedBy": null,
+   "depAirportName": "Stockholm Arlanda Airport",
+   "depTime": "20:35",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "00:30",
+   "arrDate": "2026-12-11",
+   "durationMin": 175,
+   "layovers": [
+    {
+     "min": 60,
+     "airport": "Riga Airport",
+     "city": "Riga",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 66.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "Stockholm Arlanda Airport",
+   "depTime": "19:30",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "01:05",
+   "arrDate": "2026-12-11",
+   "durationMin": 275,
+   "layovers": [
+    {
+     "min": 105,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 102.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Finnair",
+   "operatedBy": null,
+   "depAirportName": "Stockholm Arlanda Airport",
+   "depTime": "07:55",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "13:00",
+   "arrDate": "2026-12-10",
+   "durationMin": 245,
+   "layovers": [
+    {
+     "min": 85,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 165.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM and Air Baltic",
+   "operatedBy": null,
+   "depAirportName": "Stockholm Arlanda Airport",
+   "depTime": "13:30",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "19:55",
+   "arrDate": "2026-12-10",
+   "durationMin": 325,
+   "layovers": [
+    {
+     "min": 70,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

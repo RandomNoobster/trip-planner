@@ -1,0 +1,226 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTJqBRIDV0FXcgUSA0xDQUABSAGYAQI",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 37.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Wizz Air",
+   "operatedBy": null,
+   "depAirportName": "Warsaw Chopin Airport",
+   "depTime": "07:05",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Larnaka International Airport",
+   "arrTime": "11:35",
+   "arrDate": "2026-12-12",
+   "durationMin": 210,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 37 euros.This price does not include overhead bin access. Nonstop flight with Wizz Air. Leaves Warsaw Chopin Airport at 7:05 AM on Saturday, December 12 and arrives at Larnaka International Airport at 11:35 AM on Saturday, December 12. Total duration 3 hr 30 min.   Select flight"
+  },
+  {
+   "price": 108.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 0,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "Warsaw Chopin Airport",
+   "depTime": "10:45",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Larnaka International Airport",
+   "arrTime": "15:15",
+   "arrDate": "2026-12-12",
+   "durationMin": 210,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 108 euros. Nonstop flight with LOT. Leaves Warsaw Chopin Airport at 10:45 AM on Saturday, December 12 and arrives at Larnaka International Airport at 3:15 PM on Saturday, December 12. Total duration 3 hr 30 min.   Select flight"
+  },
+  {
+   "price": 122.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "SKY express",
+   "operatedBy": null,
+   "depAirportName": "Warsaw Chopin Airport",
+   "depTime": "15:15",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Larnaka International Airport",
+   "arrTime": "22:10",
+   "arrDate": "2026-12-12",
+   "durationMin": 355,
+   "layovers": [
+    {
+     "min": 105,
+     "overnight": false,
+     "airport": "Athens International Airport \"Eleftherios Venizelos\"",
+     "city": "Athens"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 122 euros. 1 stop flight with SKY express. Leaves Warsaw Chopin Airport at 3:15 PM on Saturday, December 12 and arrives at Larnaka International Airport at 10:10 PM on Saturday, December 12. Total duration 5 hr 55 min.  Layover (1 of 1) is a 1 hr 45 min layover at Athens International Airport \"Eleftherios Venizelos\" in Athens. Select flight"
+  },
+  {
+   "price": 129.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Aegean",
+   "operatedBy": null,
+   "depAirportName": "Warsaw Chopin Airport",
+   "depTime": "18:20",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Larnaka International Airport",
+   "arrTime": "01:20",
+   "arrDate": "2026-12-13",
+   "durationMin": 360,
+   "layovers": [
+    {
+     "min": 115,
+     "overnight": false,
+     "airport": "Athens International Airport \"Eleftherios Venizelos\"",
+     "city": "Athens"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 129 euros. 1 stop flight with Aegean. Leaves Warsaw Chopin Airport at 6:20 PM on Saturday, December 12 and arrives at Larnaka International Airport at 1:20 AM on Sunday, December 13. Total duration 6 hr.  Layover (1 of 1) is a 1 hr 55 min layover at Athens International Airport \"Eleftherios Venizelos\" in Athens. Select flight"
+  },
+  {
+   "price": 167.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Austrian",
+   "operatedBy": null,
+   "depAirportName": "Warsaw Chopin Airport",
+   "depTime": "10:10",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Larnaka International Airport",
+   "arrTime": "16:30",
+   "arrDate": "2026-12-12",
+   "durationMin": 320,
+   "layovers": [
+    {
+     "min": 60,
+     "overnight": false,
+     "airport": "Vienna International Airport",
+     "city": "Vienna"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 167 euros. 1 stop flight with Austrian. Leaves Warsaw Chopin Airport at 10:10 AM on Saturday, December 12 and arrives at Larnaka International Airport at 4:30 PM on Saturday, December 12. Total duration 5 hr 20 min.  Layover (1 of 1) is a 1 hr layover at Vienna International Airport in Vienna. Select flight"
+  },
+  {
+   "price": 168.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT and SKY express",
+   "operatedBy": null,
+   "depAirportName": "Warsaw Chopin Airport",
+   "depTime": "15:20",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Larnaka International Airport",
+   "arrTime": "22:10",
+   "arrDate": "2026-12-12",
+   "durationMin": 350,
+   "layovers": [
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Athens International Airport \"Eleftherios Venizelos\"",
+     "city": "Athens"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 168 euros. 1 stop flight with LOT and SKY express. Leaves Warsaw Chopin Airport at 3:20 PM on Saturday, December 12 and arrives at Larnaka International Airport at 10:10 PM on Saturday, December 12. Total duration 5 hr 50 min.  Layover (1 of 1) is a 1 hr 25 min layover at Athens International Airport \"Eleftherios Venizelos\" in Athens. Select flight"
+  },
+  {
+   "price": 216.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT and Aegean",
+   "operatedBy": null,
+   "depAirportName": "Warsaw Chopin Airport",
+   "depTime": "15:20",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Larnaka International Airport",
+   "arrTime": "01:20",
+   "arrDate": "2026-12-13",
+   "durationMin": 540,
+   "layovers": [
+    {
+     "min": 280,
+     "overnight": false,
+     "airport": "Athens International Airport \"Eleftherios Venizelos\"",
+     "city": "Athens"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 216 euros. 1 stop flight with LOT and Aegean. Leaves Warsaw Chopin Airport at 3:20 PM on Saturday, December 12 and arrives at Larnaka International Airport at 1:20 AM on Sunday, December 13. Total duration 9 hr.  Layover (1 of 1) is a 4 hr 40 min layover at Athens International Airport \"Eleftherios Venizelos\" in Athens. Select flight"
+  },
+  {
+   "price": 217.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT and Aegean",
+   "operatedBy": null,
+   "depAirportName": "Warsaw Chopin Airport",
+   "depTime": "15:20",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Larnaka International Airport",
+   "arrTime": "22:55",
+   "arrDate": "2026-12-12",
+   "durationMin": 395,
+   "layovers": [
+    {
+     "min": 130,
+     "overnight": false,
+     "airport": "Athens International Airport \"Eleftherios Venizelos\"",
+     "city": "Athens"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 217 euros. 1 stop flight with LOT and Aegean. Leaves Warsaw Chopin Airport at 3:20 PM on Saturday, December 12 and arrives at Larnaka International Airport at 10:55 PM on Saturday, December 12. Total duration 6 hr 35 min.  Layover (1 of 1) is a 2 hr 10 min layover at Athens International Airport \"Eleftherios Venizelos\" in Athens. Select flight"
+  },
+  {
+   "price": 396.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "British Airways",
+   "operatedBy": null,
+   "depAirportName": "Warsaw Chopin Airport",
+   "depTime": "12:50",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Larnaka International Airport",
+   "arrTime": "00:15",
+   "arrDate": "2026-12-13",
+   "durationMin": 625,
+   "layovers": [
+    {
+     "min": 170,
+     "overnight": false,
+     "airport": "Heathrow Airport",
+     "city": "London"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 396 euros. 1 stop flight with British Airways. Leaves Warsaw Chopin Airport at 12:50 PM on Saturday, December 12 and arrives at Larnaka International Airport at 12:15 AM on Sunday, December 13. Total duration 10 hr 25 min.  Layover (1 of 1) is a 2 hr 50 min layover at Heathrow Airport in London. Select flight"
+  }
+ ]
+}

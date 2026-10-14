@@ -1,0 +1,475 @@
+[
+  {
+    "city": "RIX",
+    "airports": [
+      {
+        "code": "RIX",
+        "public": {
+          "line": "Bus 22 (Rīgas satiksme)",
+          "from": "Arrivals hall bus stop at the terminal entrance (Wikivoyage)",
+          "to": "Riga old town, 30–40 min per Wikivoyage; stop near the central bus and railway stations",
+          "minutes": 40,
+          "fareEUR": 1.5,
+          "fareText": "EUR 1.50 bought in advance (90-minute ticket: arrivals-hall machines, Narvesen shops, the official app or Mobilly; Wikivoyage); EUR 1.81 paid by card on board (Wikivoyage)",
+          "frequency": null,
+          "hours": "all day; after midnight runs as night route N22 until about 04:45 (Wikivoyage)",
+          "url": "https://en.wikivoyage.org/wiki/Riga"
+        },
+        "alternatives": [
+          {
+            "line": "Night bus N22 (Rīgas satiksme)",
+            "to": "Riga city centre (night service after midnight until about 04:45, per Wikivoyage)",
+            "minutes": null,
+            "fareEUR": null,
+            "fareText": "not stated on the page used",
+            "url": "https://en.wikivoyage.org/wiki/Riga"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 33,
+          "minutes": 15,
+          "basis": "official airport pre-paid taxi voucher: EUR 33 per Wikivoyage (a search summary gave EUR 33.50 and describes a price set in advance per ride to central hotels; airport site returned 403, not checked directly). Wikivoyage also reports a fixed EUR 15 from Baltic Taxi (now XTaxi) when booked online, not verified",
+          "url": "https://en.wikivoyage.org/wiki/Riga"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Riga central bus station (Rīgas Centrālā autoosta)",
+        "serves": "intercity buses",
+        "toCentre": "Near the route 22 stop by the central bus and railway stations (Wikivoyage); walk time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Riga"
+      }
+    ]
+  },
+  {
+    "city": "POZ",
+    "airports": [
+      {
+        "code": "POZ",
+        "public": {
+          "line": "Bus 159 (Poznań city public transport, ZTM network)",
+          "from": "Poznań-Ławica airport bus stop (ticket machine at the stop)",
+          "to": "Poznań Główny main railway station (Wikivoyage: around 25 minutes)",
+          "minutes": 25,
+          "fareEUR": 1.4,
+          "fareText": "PLN 6 (35-minute ticket, normal fare; nest.poznan.pl); buy at the stop machine (card or cash) or with the PEKA, jakdojade, MoBilet or SkyCash app",
+          "frequency": "every 7–8 min at peak, every 10 min off-peak (nest.poznan.pl; direction not stated)",
+          "hours": "about 04:30–23:30 daily (nest.poznan.pl)",
+          "url": "https://nest.poznan.pl/en/blog/dojazd-lotnisko-lawica-poznan"
+        },
+        "alternatives": [
+          {
+            "line": "Bus 148 (Poznań city public transport, ZTM network)",
+            "to": "Rondo Kaponiera, where line 148 terminates (Wikivoyage); 24 min quoted for the other direction",
+            "minutes": 24,
+            "fareEUR": 1.4,
+            "fareText": "PLN 6 (35-minute ticket, normal fare; nest.poznan.pl)",
+            "url": "https://nest.poznan.pl/en/blog/dojazd-lotnisko-lawica-poznan"
+          },
+          {
+            "line": "Night bus 222 (Poznań city public transport, ZTM network)",
+            "to": "Poznań Główny, Rondo Kaponiera and Grodziska (night route, nest.poznan.pl)",
+            "minutes": null,
+            "fareEUR": null,
+            "fareText": "not stated on the page used",
+            "url": "https://nest.poznan.pl/en/blog/dojazd-lotnisko-lawica-poznan"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 9.1,
+          "minutes": 15,
+          "basis": "taxi company quote PLN 25–40 (EUR 5.7–9.1; upper figure used), depending on company and time of day; fixed or meter not stated (nest.poznan.pl). Bolt/Uber PLN 20–40 with dynamic pricing shown in the app",
+          "url": "https://nest.poznan.pl/en/blog/dojazd-lotnisko-lawica-poznan"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Poznań Główny (trains) and Poznań PKS coach station (buses)",
+        "serves": "trains (virtually all trains from NW Poland and Wielkopolska); intercity buses, FlixBus among them (stop not stated)",
+        "toCentre": "Walk time not stated on the page used; several city tram and bus lines near the coach station (not named)",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Pozna%C5%84"
+      }
+    ]
+  },
+  {
+    "city": "DRS",
+    "airports": [
+      {
+        "code": "DRS",
+        "public": {
+          "line": "S-Bahn S2 (VVO network)",
+          "from": "Dresden Airport S-Bahn platform beneath the terminal (airporttransferportal.com)",
+          "to": "Dresden Hauptbahnhof (main station), 20 min per Wikivoyage; Dresden-Neustadt is an earlier stop",
+          "minutes": 20,
+          "fareEUR": 3.6,
+          "fareText": "EUR 3.60 single, VVO Dresden zone, valid from 1 April 2026 (airporttransferportal.com; Wikivoyage also gives EUR 3.60)",
+          "frequency": "every 30 min (Wikivoyage)",
+          "hours": null,
+          "url": "https://en.wikivoyage.org/wiki/Dresden"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": 48,
+          "minutes": 25,
+          "basis": "official regulated fixed airport fare to Dresden Hauptbahnhof, EUR 48 per car (tariff ordinance from 13 April 2026, per airporttransferportal.com; not checked on an official site). Altstadt runs on the meter. Travel time 15–25 min (general range, upper figure used)",
+          "url": "https://www.airporttransferportal.com/ar/airport-guides/drs"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Dresden Hauptbahnhof (trains) and ZOB Wiener Platz (intercity buses)",
+        "serves": "trains; intercity buses incl. FlixBus (most stop behind the main station; some FlixBus near Dresden-Neustadt)",
+        "toCentre": "Old Town about 2 km away, at the south end of Prager Straße (Wikivoyage); walk and transit times not stated; trams run through the night",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Dresden"
+      }
+    ]
+  },
+  {
+    "city": "BTS",
+    "airports": [],
+    "stations": [
+      {
+        "name": "Bratislava hlavná stanica (main railway station)",
+        "serves": "trains; most international trains stop here (Wikivoyage)",
+        "toCentre": "Walk 20–25 min, described as an unchallenging walk (Wikivoyage)",
+        "line": null,
+        "minutes": 25,
+        "fareEUR": 0,
+        "url": "https://en.wikivoyage.org/wiki/Bratislava"
+      },
+      {
+        "name": "Mlynské nivy bus station (Autobusová stanica, Bratislava Nivy)",
+        "serves": "intercity coaches incl. FlixBus, RegioJet, Slovak Lines and Eurolines",
+        "toCentre": "About 15 min walk to the city centre (bratislavaguide.com); nearby city stops Autobusová stanica, Malý trh and Košická (no line numbers stated on that page)",
+        "line": null,
+        "minutes": 15,
+        "fareEUR": 0,
+        "url": "https://www.bratislavaguide.com/transport/bus-station"
+      }
+    ]
+  },
+  {
+    "city": "MAN",
+    "airports": [
+      {
+        "code": "MAN",
+        "public": {
+          "line": "Bus 43 (operator not stated on the pages used)",
+          "from": "Manchester Airport bus stop (exact stop not named on the pages used)",
+          "to": "Piccadilly Gardens (cestee); Wikivoyage gives about 50 min to Piccadilly, which conflicts with cestee's 78 min",
+          "minutes": 78,
+          "fareEUR": 2.4,
+          "fareText": "GBP 2 single, any distance (cestee; Wikivoyage: 'just £2 for a single fare of any distance')",
+          "frequency": "every 10 min, every 30 min at night (cestee)",
+          "hours": "24 hours a day (cestee)",
+          "url": "https://www.cestee.com/airport/manchester-man/transport"
+        },
+        "alternatives": [
+          {
+            "line": "National Rail train to Manchester Piccadilly (operator not stated)",
+            "to": "Manchester Piccadilly (some trains continue to Oxford Road, Deansgate or Victoria)",
+            "minutes": 20,
+            "fareEUR": 7.3,
+            "fareText": "GBP 6.20 on the day; advance fares from GBP 1.45 for a specific service (cestee, Jan 2026)",
+            "url": "https://www.cestee.com/airport/manchester-man/transport"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 35.4,
+          "minutes": null,
+          "basis": "metered taxi, not a fixed fare: about GBP 30 for a night trip from the airport to Piccadilly station (cestee, Jan 2026); Uber GBP 20–30 (ride-hailing estimate, same page)",
+          "url": "https://www.cestee.com/airport/manchester-man/transport"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Chorlton Street Coach Station (National Express)",
+        "serves": "National Express coaches",
+        "toCentre": "Close to the centre, between Chinatown and The Village (Wikivoyage); walk time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Manchester"
+      },
+      {
+        "name": "Shudehill Interchange (FlixBus and Megabus)",
+        "serves": "FlixBus and Megabus coaches",
+        "toCentre": "North of the city centre; free Route 2 bus links Shudehill with Piccadilly every 10 min Mon–Sat 07:00–19:30 (Wikivoyage); walk time not stated",
+        "line": "Free Route 2 bus (Shudehill to Piccadilly)",
+        "minutes": null,
+        "fareEUR": 0,
+        "url": "https://en.wikivoyage.org/wiki/Manchester"
+      }
+    ]
+  },
+  {
+    "city": "BCN",
+    "airports": [
+      {
+        "code": "BCN",
+        "public": {
+          "line": "Rodalies R2 Nord (Renfe) train",
+          "from": "Aeroport T2 train station (free shuttle from Terminal 1, Wikivoyage)",
+          "to": "Barcelona-Sants, 20 min without a change (Passeig de Gràcia and El Clot are also on the line; times not stated)",
+          "minutes": 20,
+          "fareEUR": 5.1,
+          "fareText": "EUR 5.05 single, 2026, valid only for the train (travelguide.barcelona); adult fare not stated on that page",
+          "frequency": "every 30 min (Wikivoyage)",
+          "hours": "until around midnight (Wikivoyage); first train not stated",
+          "url": "https://www.travelguide.barcelona/airport-elprat-bcn/transfer-city-center/"
+        },
+        "alternatives": [
+          {
+            "line": "Aerobús A1 (Terminal 1; A2 serves Terminal 2)",
+            "to": "Plaça de Catalunya (about 35 min, traffic dependent; A2 goes to Plaça d'Espanya)",
+            "minutes": 35,
+            "fareEUR": 7.5,
+            "fareText": "EUR 7.45 one-way (Wikivoyage: 'EUR 7.45 for a single journey')",
+            "url": "https://www.travelguide.barcelona/airport-elprat-bcn/transfer-city-center/"
+          }
+        ],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": 40,
+          "basis": "metered only, no fixed fare to the centre. AENA page (tariffs from Jan 2025): weekdays 08:00–20:00 start EUR 2.75 + EUR 1.32/km (EUR 1.62/km nights and weekends), airport supplement EUR 4.50, minimum airport departure fare EUR 21 including supplements; trip usually 20–40 min. City-centre total not stated",
+          "url": "https://www.aeropuertobarcelona-elprat.com/cast/traslados-aeropuerto-bcn-taxi-4033.htm"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Barcelona Nord bus station (Estació del Nord, Carrer de Nàpols)",
+        "serves": "all long-distance buses, FlixBus among them (Wikivoyage); some buses also use Barcelona Sants",
+        "toCentre": "Near Arc de Triomf metro and railway stations (Wikivoyage); walk or transit time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Barcelona"
+      }
+    ]
+  },
+  {
+    "city": "PMI",
+    "airports": [
+      {
+        "code": "PMI",
+        "public": {
+          "line": "EMT bus A1 (Aeroport – Palma centre)",
+          "from": "Palma airport bus stop (exact stop not named on the pages used)",
+          "to": "Plaça d'Espanya, the main bus, coach and rail interchange (about 20 min); the line's last stop is at Es Baluard art museum (palmaairport.info)",
+          "minutes": 20,
+          "fareEUR": 3,
+          "fareText": "EUR 3 by bank card; EUR 5 cash (palmaairport.info; card payment on EMT buses from 13 Mar 2026; the page does not label the fare adult). Wikivoyage: 'In 2024 the single adult fare ... is €5'",
+          "frequency": "every 12–15 min by day, every 30 min after 21:00 (palmaairport.info; Wikivoyage says every 15 min to midnight)",
+          "hours": "first bus from airport 05:30, last 03:10 (palmaairport.info); Wikivoyage gives first from 06:15",
+          "url": "https://www.palmaairport.info/taking-the-bus-from-palma-airport"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": 28,
+          "minutes": 15,
+          "basis": "Wikivoyage: EUR 28 by day, EUR 34 midnight–05:00 to the centre; not stated whether official, so treated as an estimate. Wikivoyage: 15 min in normal traffic. (Earlier pass: average UberX EUR 24, ride-hailing, not used)",
+          "url": "https://en.wikivoyage.org/wiki/Palma_de_Mallorca"
+        }
+      }
+    ]
+  },
+  {
+    "city": "ROM",
+    "airports": [],
+    "stations": [
+      {
+        "name": "Roma Tiburtina bus station (Stazione degli autobus, Largo Guido Mazzoni)",
+        "serves": "long-distance coaches, FlixBus among them (flixbus.it stop page)",
+        "toCentre": "Metro B from Tiburtina to Termini, 4 stops (flixbus.it: Tiburtina is the fourth station north of Termini on Line B); journey time not stated. BIT ticket EUR 1.50 per 2026 guides; ATAC page did not show it; a rise to EUR 2 was discussed, not confirmed",
+        "line": "Metro B (Tiburtina to Termini)",
+        "minutes": null,
+        "fareEUR": 1.5,
+        "url": "https://www.flixbus.it/autobus/roma/roma-tiburtina-stazione-degli-autobus"
+      },
+      {
+        "name": "Roma Anagnina FlixBus stop",
+        "serves": "FlixBus (listed as a stop on the Tiburtina stop page, 8 km away)",
+        "toCentre": "Metro A from Anagnina towards the centre; journey time not stated on the pages used; BIT fare as for Tiburtina",
+        "line": "Metro A (Anagnina)",
+        "minutes": null,
+        "fareEUR": 1.5,
+        "url": "https://www.flixbus.it/autobus/roma/roma-tiburtina-stazione-degli-autobus"
+      }
+    ]
+  },
+  {
+    "city": "TRN",
+    "airports": [
+      {
+        "code": "TRN",
+        "public": {
+          "line": "Trenitalia SFM4, SFM6 or SFM7 regional train to Torino Aeroporto",
+          "from": "Torino Aeroporto (Caselle) railway station, beneath the terminal (Wikivoyage)",
+          "to": "Torino Porta Susa station, about 30 min (Trenitalia also lists Lingotto, Rebaudengo Fossata and Corso Grosseto)",
+          "minutes": 30,
+          "fareEUR": 3.7,
+          "fareText": "EUR 3.70 single from Torino (Trenitalia page; Wikivoyage gives EUR 4.00 for the same train)",
+          "frequency": "every 30 min on weekdays (Trenitalia)",
+          "hours": "airport to Torino 06:00–22:28; Porta Susa to airport 05:01–21:25 (weekday timetable, Trenitalia)",
+          "url": "https://www.trenitalia.com/it/regionale/collegamenti-regionale/aeroporto-di-torino-caselle.html"
+        },
+        "alternatives": [
+          {
+            "line": "Flibco shuttle bus",
+            "to": "Corso Vittorio Emanuele II outside Porta Susa station, stop 5 (Wikivoyage)",
+            "minutes": 25,
+            "fareEUR": 7.5,
+            "fareText": "EUR 7.50 each way (Wikivoyage: '€7.5 each way, or 11€ return'); the flibco.com airport page gave no price",
+            "url": "https://en.wikivoyage.org/wiki/Turin"
+          },
+          {
+            "line": "Arriva bus 268",
+            "to": "Turin Porta Susa and Porta Nuova railway stations (some continue to Lingotto)",
+            "minutes": 55,
+            "fareEUR": 8,
+            "fareText": "EUR 8.00 single, 2025 prices; EUR 11 return valid 7 days (Wikivoyage)",
+            "url": "https://en.wikivoyage.org/wiki/Turin"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 40,
+          "minutes": null,
+          "basis": "Wikivoyage: a fixed fare 'typically applies' to the centre, 'usually costing around €36–40' (upper figure used); no official tariff found; travel time not stated; confirm with the driver before starting",
+          "url": "https://en.wikivoyage.org/wiki/Turin"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Corso Vittorio Emanuele II bus stops by Porta Susa station (no bus station)",
+        "serves": "long-distance buses (Wikivoyage: buses pick up and drop off on Corso Vittorio Emanuele II)",
+        "toCentre": "Porta Susa is on Metro Line 1, which connects to Porta Nuova (Wikivoyage); walk and transit times not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Turin"
+      }
+    ]
+  },
+  {
+    "city": "SKG",
+    "airports": [
+      {
+        "code": "SKG",
+        "public": {
+          "line": "Bus 01X (OASTH, Thessaloniki airport line)",
+          "from": "Airport bus stop (ticket booth at the stop, or machines on the bus; cards accepted)",
+          "to": "City centre; route passes the New Railway Station and the Macedonia InterCity Bus Terminal (Wikivoyage names no single terminus)",
+          "minutes": 40,
+          "fareEUR": 2,
+          "fareText": "EUR 2.00 single trip (Wikivoyage, prices as of July 2025); 2026 sources also quote EUR 2 (not on the page used)",
+          "frequency": "every 15–30 min by day (Wikivoyage)",
+          "hours": "24 hours; night route 01N every 30 min (Wikivoyage)",
+          "url": "https://en.wikivoyage.org/wiki/Thessaloniki"
+        },
+        "alternatives": [
+          {
+            "line": "Bus 01N (night airport route)",
+            "to": "City centre (night service; route not verified on the page used)",
+            "minutes": null,
+            "fareEUR": null,
+            "fareText": "not stated on the page used",
+            "url": "https://en.wikivoyage.org/wiki/Thessaloniki"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 28,
+          "minutes": null,
+          "basis": "official fixed single fare to central Thessaloniki: EUR 25 now, rising to EUR 28 once the decision is published in the Government Gazette (FEK). Greek City Times (17 Sep 2026) said it was still pending; publication not confirmed. Double tariff EUR 35 rising to EUR 38",
+          "url": "https://greekcitytimes.com/2026/09/17/airport-taxi-fares-to-rise-in-athens-and-thessaloniki/"
+        }
+      }
+    ]
+  },
+  {
+    "city": "DBV",
+    "airports": [
+      {
+        "code": "DBV",
+        "public": {
+          "line": "Platanus airport shuttle bus (official airport shuttle for flights; commercial, not city transit)",
+          "from": "Dubrovnik airport (Ruđer Bošković), shuttle pick-up (exact stop not stated)",
+          "to": "Old Town at Ploče gate, about 30 min; final stop is Gruž Bus Station, about 35 min (Platanus)",
+          "minutes": 30,
+          "fareEUR": 10,
+          "fareText": "EUR 10 one-way; return EUR 15, valid 15 days; children under 6 free (Platanus). Sold online at ticket.platanus.hr, the airport counter, the bus station or the cable car stop; not sold on board",
+          "frequency": "no fixed clock times: leaves about 30 min after each flight arrival, first to last flight, daily (Platanus)",
+          "hours": "from the first flight to the last, daily (Platanus); exact times not published on the page used",
+          "url": "https://www.platanus.hr/shuttle-bus"
+        },
+        "alternatives": [
+          {
+            "line": "Libertas city bus 11, 27 or 38",
+            "to": "Dubrovnik city (stops not stated on the pages used; Wikivoyage: 'quite difficult' to use, may need to change lines)",
+            "minutes": null,
+            "fareEUR": 4.9,
+            "fareText": "EUR 4.90 (Wikivoyage, Sep 2025); a 2026 event sheet quotes EUR 2.50 on board (not verified)",
+            "url": "https://en.wikivoyage.org/wiki/Dubrovnik"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 43,
+          "minutes": null,
+          "basis": "Wikivoyage: 'Taxis from the airport to the centre will cost €43' (not labelled as an official fare); no official tariff on the airport page; other guides (search summary, not verified) quote about EUR 35–38 to hotels",
+          "url": "https://en.wikivoyage.org/wiki/Dubrovnik"
+        }
+      }
+    ]
+  },
+  {
+    "city": "GVA",
+    "airports": [
+      {
+        "code": "GVA",
+        "public": {
+          "line": "Airport train to Genève-Cornavin (Léman Express / SBB trains from Genève Aéroport station)",
+          "from": "Genève Aéroport railway station",
+          "to": "Genève-Cornavin main station, about 7 min (Wikivoyage; TPG)",
+          "minutes": 7,
+          "fareEUR": 3.2,
+          "fareText": "CHF 3.00 adult single, unireso zone 10, valid 60 min (tpg.ch official fares page); tickets from machines at bus stops and in the station (Wikivoyage)",
+          "frequency": null,
+          "hours": null,
+          "url": "https://en.wikivoyage.org/wiki/Geneva"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": 53.7,
+          "minutes": null,
+          "basis": "official flat fare to the city centre, right bank: CHF 50 (left bank CHF 60), per the Genève Aéroport taxi page (gva.ch); fixed by destination, not a meter estimate; travel time not stated",
+          "url": "https://www.gva.ch/en/passengers/access-and-transport/taxis"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Geneva intercity bus station (name and address not stated on the page used)",
+        "serves": "international bus routes (Wikivoyage)",
+        "toCentre": "Walk or transit time not stated on the page used",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Geneva"
+      }
+    ]
+  }
+]

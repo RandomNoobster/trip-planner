@@ -1,0 +1,131 @@
+{
+  "agent": "H9",
+  "cities": {
+    "RAK": {
+      "localBeer": ["Casablanca", "Flag Spéciale", "Stork"],
+      "cheapEat": {"name": "Tagine at a budget café", "priceEUR": 2.73, "note": "Chez Yassine lists tagines at 30 dirham; stall harira costs 10-15 dirham a bowl"},
+      "saveTip": "Eat at the cheaper Djemaa el-Fna stalls without greeters; menus show prices and harira starts at 10 dirham.",
+      "sources": ["https://en.wikivoyage.org/wiki/Marrakech", "https://en.wikivoyage.org/wiki/Morocco", "https://tablejourney.com/morocco/marrakech/budget-eating/"]
+    },
+    "AGA": {
+      "localBeer": ["Casablanca", "Flag Spéciale", "Stork"],
+      "cheapEat": {"name": "Set menu in New Talbourjt", "priceEUR": 3.18, "note": "Cheapest zone, menus from 35 dirham (undated Wikivoyage); sfinj costs 1-2 dirham"},
+      "saveTip": "Eat in New Talbourjt, the cheapest restaurant zone, not on the beachfront, which is the most expensive tourist zone.",
+      "sources": ["https://en.wikivoyage.org/wiki/Agadir", "https://en.wikivoyage.org/wiki/Morocco"]
+    },
+    "TUN": {
+      "localBeer": ["Celtia", "Löwenbräu", "Heineken"],
+      "cheapEat": {"name": "Lablabi chickpea soup", "priceEUR": 2.67, "note": "8-10 dinars a bowl at popular stalls, per a January 2026 expat guide"},
+      "saveTip": "Eat brik and fricassé from snack stands (1-5 dinars) rather than tourist restaurants, where couscous costs 15-25 dinars.",
+      "sources": ["https://en.wikivoyage.org/wiki/Tunis", "https://en.wikivoyage.org/wiki/Tunisia", "https://www.cyriljarnias.com/?p=31734"]
+    },
+    "DXB": {
+      "localBeer": ["Heineken", "Carlsberg", "Corona"],
+      "cheapEat": {"name": "Chicken shawarma wrap", "priceEUR": 2.8, "note": "AED 8-15 at old Dubai cafeterias; karak chai costs AED 1-3 (2026 guide)"},
+      "saveTip": "Alcohol is only sold in licensed hotel bars and pubs, about 30-35 dirham a pint, so use happy hours (25-35 dirham).",
+      "sources": ["https://en.wikivoyage.org/wiki/Dubai", "https://www.roughguides.com/united-arab-emirates/dubai/eating-drinking/", "https://whatson.ae/2025/06/9-must-visit-spots-for-the-best-happy-hour-in-dubai/", "https://thebettervacation.com/dubai/cheap-eats-in-dubai/amp/", "https://dri.co.jp/auto/report/bonafide/230615-united-arab-emirates-uae-beer-market.html"]
+    },
+    "TBS": {
+      "localBeer": ["Natakhtari", "Kazbegi", "Zedazeni"],
+      "cheapEat": {"name": "Five khinkali dumplings", "priceEUR": 2.58, "note": "Klike's Khinkali: 1-2 lari per dumpling (Oct 2022); price assumes 5 at 1.5 lari"},
+      "saveTip": "Follow students to the cheaper bars where tourists are welcome, and avoid the overpriced drinks in the Old Town.",
+      "sources": ["https://en.wikivoyage.org/wiki/Tbilisi", "https://en.wikivoyage.org/wiki/Georgia_(country)"]
+    },
+    "EVN": {
+      "localBeer": ["Kilikia", "Kotayk", "Gyumri"],
+      "cheapEat": {"name": "Beef kebab sandwich at Master Class", "priceEUR": 3.69, "note": "1500 dram per Wikivoyage (Oct 2026); lahmajun stands sell a cheap snack"},
+      "saveTip": "Eat lahmajun, the cheap Armenian pizza, at local joints like Tun Lahmajo instead of sit-down restaurants.",
+      "sources": ["https://en.wikivoyage.org/wiki/Yerevan", "https://en.wikivoyage.org/wiki/Armenia", "https://en.wikipedia.org/wiki/Beer_in_Armenia"]
+    },
+    "BKK": {
+      "localBeer": ["Singha", "Chang", "Leo"],
+      "cheapEat": {"name": "Pad thai from a street stall", "priceEUR": 1.33, "note": "Carts and street restaurants charge about 50 baht; Boat Noodle Alley bowls are 50 baht too"},
+      "saveTip": "Eat at street stalls and noodle shops (bowls about 50-100 baht) and order Leo, which is 10-20% cheaper than Singha.",
+      "sources": ["https://en.wikivoyage.org/wiki/Bangkok", "https://en.wikivoyage.org/wiki/Thailand", "https://tablejourney.com/thailand/bangkok/budget-eating/"]
+    },
+    "KUL": {
+      "localBeer": ["Tiger", "Carlsberg", "Heineken"],
+      "cheapEat": {"name": "Hawker stall noodle bowl", "priceEUR": 1.97, "note": "Peter's Pork Noodle RM8.50-9.50; Soong Kee beef noodles RM11-13 (2025); roti canai RM1"},
+      "saveTip": "Eat at hawker stalls and mamak restaurants (noodles RM8-10, roti canai about RM1) and skip beer: a can costs RM7.50+.",
+      "sources": ["https://en.wikivoyage.org/wiki/Kuala_Lumpur", "https://en.wikivoyage.org/wiki/Kuala_Lumpur/Brickfields_and_Bangsar", "https://en.wikivoyage.org/wiki/Kuala_Lumpur/Old_City_Centre", "https://en.wikivoyage.org/wiki/Malaysia", "https://en.wikipedia.org/wiki/Heineken_Malaysia", "https://en.wikipedia.org/wiki/Beer_in_Malaysia"]
+    },
+    "SIN": {
+      "localBeer": ["Tiger", "Anchor", "Carlsberg"],
+      "cheapEat": {"name": "Hawker centre chicken rice", "priceEUR": 3.49, "note": "S$5 at Wee Nam Kee, S$6 at Tian Tian; most hawker dishes cost S$4-6"},
+      "saveTip": "Eat at hawker centres, where most dishes cost S$4-6, and drink beer there (about S$7) instead of in bars (S$10-15).",
+      "sources": ["https://en.wikivoyage.org/wiki/Singapore", "https://en.wikipedia.org/wiki/Beer_in_Singapore", "https://tablejourney.com/singapore/singapore/budget-eating/"]
+    },
+    "TYO": {
+      "localBeer": ["Asahi", "Kirin", "Sapporo"],
+      "cheapEat": {"name": "Gyudon beef bowl at a chain", "priceEUR": 2.54, "note": "From about 450 yen at Yoshinoya, Matsuya or Sukiya; water or tea is usually free"},
+      "saveTip": "Eat gyudon and noodle-bar meals from about 450 yen (water or tea usually free); supermarkets discount food after 20:00.",
+      "sources": ["https://en.wikivoyage.org/wiki/Tokyo", "https://en.wikivoyage.org/wiki/Japan", "https://tablejourney.com/japan/tokyo/budget-eating/"]
+    },
+    "SEL": {
+      "localBeer": ["Cass", "Hite", "Terra"],
+      "cheapEat": {"name": "Mayak gimbap at Gwangjang Market", "priceEUR": 2.0, "note": "Market stalls charge 3,000 won; bindaetteok costs 4,000 won"},
+      "saveTip": "Buy soju and beer at convenience stores, not bars, and eat in the food courts in department-store basements.",
+      "sources": ["https://en.wikivoyage.org/wiki/Seoul", "https://en.wikivoyage.org/wiki/South_Korea", "https://tablejourney.com/south-korea/seoul/budget-eating/"]
+    },
+    "SGN": {
+      "localBeer": ["Saigon", "333", "Tiger"],
+      "cheapEat": {"name": "Banh mi from a street stall", "priceEUR": 1.12, "note": "25,000-40,000 dong in 2026 (Vietnam Tourism); pho costs 40,000-70,000 dong"},
+      "saveTip": "Eat where locals do (plastic stools, printed wall menu, no English signs); banh mi costs 25,000-40,000 dong.",
+      "sources": ["https://en.wikivoyage.org/wiki/Ho_Chi_Minh_City", "https://en.wikivoyage.org/wiki/Vietnam", "https://www.vietnamtourism.com/en/ho-chi-minh-city-travel-costs-what-to-budget-per-day-in-2026"]
+    },
+    "RVN": {
+      "localBeer": ["Lapin Kulta", "Karhu", "Karjala"],
+      "cheapEat": {"name": "Weekday lounas lunch buffet", "priceEUR": 8.0, "note": "University canteen 8 euro for guests (2023); Finnish set lunches 8-15 euro with a drink"},
+      "saveTip": "Eat the weekday lounas buffet (8-15 euro, drink included) and buy beer in shops (about 2 euro, versus 5-6 in bars).",
+      "sources": ["https://en.wikivoyage.org/wiki/Rovaniemi", "https://en.wikivoyage.org/wiki/Finland", "https://en.wikivoyage.org/wiki/Finnish_cuisine", "https://en.wikipedia.org/wiki/Beer_in_Finland"]
+    },
+    "SZG": {
+      "localBeer": ["Stiegl", "Augustiner Bräu"],
+      "cheapEat": {"name": "Weekday Mittagsmenü set lunch", "priceEUR": 8.0, "note": "Wikivoyage: lunch menus about 7-10 euro; Bosna sausage stands are the cheap street snack"},
+      "saveTip": "At Augustiner Bräustübl you may bring your own food (not drinks), and a half-litre beer costs 3.60 euro.",
+      "sources": ["https://en.wikivoyage.org/wiki/Salzburg", "https://de.wikivoyage.org/wiki/Salzburg", "https://en.wikivoyage.org/wiki/Austria", "https://en.wikipedia.org/wiki/Beer_in_Austria"]
+    },
+    "SXB": {
+      "localBeer": ["Kronenbourg", "Fischer", "Meteor"],
+      "cheapEat": {"name": "Tarte flambée at Flam's", "priceEUR": 8.2, "note": "Traditionnelle is 8.20 euro on the Flam's Frères carte; gratinée 10.20 euro"},
+      "saveTip": "Ask for a free carafe d'eau and share a choucroute garnie, a heaping plate big enough for two, instead of two mains.",
+      "sources": ["https://en.wikivoyage.org/wiki/Strasbourg", "https://fr.wikivoyage.org/wiki/Strasbourg", "https://flams.fr/index.php/carte-flams-freres/", "https://en.wikivoyage.org/wiki/France", "https://en.wikipedia.org/wiki/Beer_in_France"]
+    },
+    "BOD": {
+      "localBeer": ["Kronenbourg 1664", "Heineken"],
+      "cheapEat": {"name": "Canelé from a pâtissier", "priceEUR": 1.9, "note": "PM Pâtissier Bordelais lists 1.90 euro; Baillardran is pricier"},
+      "saveTip": "Ask for a free carafe d'eau, and try the galette-and-cider menu at Creperie Saint-Michel for under 14 euro.",
+      "sources": ["https://en.wikivoyage.org/wiki/Bordeaux", "https://fr.wikivoyage.org/wiki/Bordeaux", "https://www.meininger-hotels.com/blog/en/?p=52977", "https://tablejourney.com/france/bordeaux/budget-eating/", "https://en.wikivoyage.org/wiki/France", "https://fr.wikipedia.org/wiki/Brasseries_Kronenbourg"]
+    },
+    "BIO": {
+      "localBeer": ["San Miguel", "Mahou", "Keler"],
+      "cheapEat": {"name": "Pintxo at a bar counter", "priceEUR": 2.5, "note": "Pintxos cost 1-3 euro each (Wikipedia); Wikivoyage says 2-3 euro in San Sebastián"},
+      "saveTip": "Order a zurito or caña of tap beer, normally cheaper than bottles, with counter pintxos at 1-3 euro each.",
+      "sources": ["https://en.wikivoyage.org/wiki/Bilbao", "https://en.wikivoyage.org/wiki/Basque_Country", "https://en.wikivoyage.org/wiki/San_Sebasti%C3%A1n", "https://en.wikivoyage.org/wiki/Spain", "https://en.wikipedia.org/wiki/Basque_cuisine"]
+    },
+    "HER": {
+      "localBeer": ["Mythos", "Heineken", "Alfa"],
+      "cheapEat": {"name": "Cheap taverna meal in centre", "priceEUR": 10.0, "note": "City-centre tavernas serve full meals for under 20 euro for two people"},
+      "saveTip": "Eat at cheap city-centre tavernas, or keep a strict budget by buying fruit, vegetables and cheese at supermarkets.",
+      "sources": ["https://en.wikivoyage.org/wiki/Heraklion", "https://en.wikivoyage.org/wiki/Greece"]
+    },
+    "AYT": {
+      "localBeer": ["Efes", "Tuborg"],
+      "cheapEat": {"name": "Lahmacun Turkish thin pizza", "priceEUR": 2.5, "note": "Lahmacun about 2-3 euro, pide 4-8 euro per a 2026 Antalya transfer-firm guide"},
+      "saveTip": "Eat around Muratpaşa Mosque or at esnaf lokantası workers' eateries, and have simit from street carts for breakfast.",
+      "sources": ["https://en.wikivoyage.org/wiki/Antalya", "https://en.wikivoyage.org/wiki/Turkey", "https://en.wikipedia.org/wiki/Beer_in_Turkey", "https://antalyatransfer.taxi/blog/turkish-food-restaurant-guide-tourists-what-to-eat-breakfast-kebab-2026"]
+    },
+    "FUE": {
+      "localBeer": ["Dorada", "Tropical"],
+      "cheapEat": {"name": "Papas arrugadas with mojo", "priceEUR": null, "note": "Salted wrinkly potatoes with mojo sauce, a Canarian tapa; no price found"},
+      "saveTip": "Order the menú del día at lunch, a fixed-price meal where water or wine is commonly included.",
+      "sources": ["https://en.wikivoyage.org/wiki/Canary_Islands", "https://en.wikivoyage.org/wiki/Spain", "https://en.wikipedia.org/wiki/Papas_arrugadas"]
+    },
+    "LUX": {
+      "localBeer": ["Bofferding", "Battin", "Diekirch"],
+      "cheapEat": {"name": "Gromperekichelcher potato fritters", "priceEUR": null, "note": "Christmas-market snack; Winterlights runs 20 Nov 2026 to 3 Jan 2027; no price found"},
+      "saveTip": "A modest dinner and drink tops 20 euro, so eat cheap near Place d'Armes or at dish-of-the-day cafes.",
+      "sources": ["https://en.wikivoyage.org/wiki/Luxembourg_(city)", "https://en.wikivoyage.org/wiki/Luxembourg", "https://en.wikipedia.org/wiki/Beer_in_Luxembourg", "https://www.visitluxembourg.com/winterlights"]
+    }
+  }
+}

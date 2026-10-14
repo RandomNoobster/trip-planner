@@ -1,0 +1,39 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GjYSCjIwMjYtMTItMTUyAkxIMgJMWDICT1MyAlNOMgJFVzICNFkyAldGagUSA1ZJRXIFEgNUUkRAAUgBmAEC",
+ "fetchedAt": "2026-10-11T11:22:49",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 292.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Austrian, Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Vienna International Airport",
+   "depTime": "07:00",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-15",
+   "durationMin": 470,
+   "layovers": [
+    {
+     "min": 100,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 292 euros. 2 stops flight with Austrian, Lufthansa and Wideroe. Leaves Vienna International Airport at 7:00 AM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 2:50 PM on Tuesday, December 15. Total duration 7 hr 50 min.  Layover (1 of 2) is a 1 hr 40 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+  }
+ ]
+}

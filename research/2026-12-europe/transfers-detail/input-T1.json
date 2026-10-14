@@ -1,0 +1,383 @@
+[
+ {
+  "city": "CPH",
+  "name": "Copenhagen",
+  "country": "Denmark",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Copenhagen",
+  "airports": [
+   {
+    "code": "CPH",
+    "name": "Copenhagen Airport (Kastrup)",
+    "known": {
+     "public": {
+      "mode": "metro",
+      "to": "Copenhagen city centre",
+      "minutes": 13,
+      "fareEUR": 5.35,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": 21.0,
+      "minutes": null,
+      "basis": "Estimate for a daytime metered ride of about 8 km: 45 DKK start plus 14 DKK per km (gobytaxi.com, labelled 2026). Calculator sites give 127-149 DKK (2023 data). Not an official tariff.",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus",
+   "train"
+  ]
+ },
+ {
+  "city": "VNO",
+  "name": "Vilnius",
+  "country": "Lithuania",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Vilnius",
+  "airports": [
+   {
+    "code": "VNO",
+    "name": "Vilnius Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus",
+   "train",
+   "train and bus"
+  ]
+ },
+ {
+  "city": "BER",
+  "name": "Berlin",
+  "country": "Germany",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Berlin",
+  "airports": [
+   {
+    "code": "BER",
+    "name": "Berlin Brandenburg Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus",
+   "train"
+  ]
+ },
+ {
+  "city": "LEJ",
+  "name": "Leipzig",
+  "country": "Germany",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Leipzig",
+  "airports": [
+   {
+    "code": "LEJ",
+    "name": "Leipzig/Halle Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus",
+   "train"
+  ]
+ },
+ {
+  "city": "AMS",
+  "name": "Amsterdam",
+  "country": "Netherlands",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Amsterdam",
+  "airports": [
+   {
+    "code": "AMS",
+    "name": "Amsterdam Airport Schiphol",
+    "known": {
+     "public": {
+      "mode": "train",
+      "to": "Amsterdam Centraal",
+      "minutes": 17,
+      "fareEUR": 5.5,
+      "frequency": "8 per hour (about every 7-8 min), NS trains via Sloterdijk and Lelylaan",
+      "hours": "about 05:30-01:00; sources conflict on overnight trains (none about 01:00-05:30 per airporttransferportal.com; hourly overnight trains per amsterdamtourism.org)"
+     },
+     "taxi": {
+      "fareEUR": 37.5,
+      "minutes": 27.5,
+      "basis": "midpoint of EUR 30-45 Uber/Bolt range per amsterdamtourism.org (metered EUR 40-55, no single figure); minutes midpoint of 20-35 min per airporttransferportal.com",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "DUB",
+  "name": "Dublin",
+  "country": "Ireland",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Dublin",
+  "airports": [
+   {
+    "code": "DUB",
+    "name": "Dublin Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "MAD",
+  "name": "Madrid",
+  "country": "Spain",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Madrid",
+  "airports": [
+   {
+    "code": "MAD",
+    "name": "Madrid-Barajas Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "LPA",
+  "name": "Las Palmas, Gran Canaria",
+  "country": "Spain",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Las_Palmas",
+  "airports": [
+   {
+    "code": "LPA",
+    "name": "Gran Canaria Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "San Telmo bus station, Las Palmas centre (line 60)",
+      "minutes": null,
+      "fareEUR": 2.3,
+      "frequency": "2 buses per hour 06:15–20:15 (Aena); later frequency not stated",
+      "hours": "06:15–23:15 (Aena, line 60); winter timetable not checked"
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": "no fixed fare; metered only per Aena (year not stated): daytime flag 3.85 + 1.35/km; night and holiday flag 4.25 + 1.55/km; airport supplement 2.10; no trip distance or time published",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "MIL",
+  "name": "Milan",
+  "country": "Italy",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Milan",
+  "airports": [],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "CTA",
+  "name": "Catania",
+  "country": "Italy",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Catania",
+  "airports": [
+   {
+    "code": "CTA",
+    "name": "Catania Airport (Fontanarossa)",
+    "known": {
+     "public": {
+      "mode": "shuttle bus",
+      "to": "Catania Centrale railway station (Piazza Giovanni XXIII)",
+      "minutes": 15,
+      "fareEUR": 4,
+      "frequency": "about every 18–25 min",
+      "hours": "04:40–00:30 from airport (no bus 00:30–04:40)"
+     },
+     "taxi": {
+      "fareEUR": 27,
+      "minutes": null,
+      "basis": "experimental fixed fare to Piazza Duomo or Stazione Centrale, valid 1 Jul–31 Dec 2026 (reported by news, not on an official Comune page)",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "IST",
+  "name": "Istanbul",
+  "country": "Turkey",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Istanbul",
+  "airports": [
+   {
+    "code": "IST",
+    "name": "Istanbul Airport",
+    "known": {
+     "public": {
+      "mode": "metro",
+      "to": "Sultanahmet (old town): M11 to Gayrettepe, M2 to Yenikapı, then T1 tram",
+      "minutes": 100,
+      "fareEUR": 0.76,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": 41.31,
+      "minutes": 50,
+      "basis": "computed metered estimate, not a fixed fare: 2026 IBB daytime tariff from 20 Jul 2026 per Turkish press (opening TL 71.94 + TL 47.92/km) x 46 km (midpoint of a 42–50 km travel-site range) = TL 2,276; excludes waiting time, tolls and night rate; minutes is an estimate",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "LJU",
+  "name": "Ljubljana",
+  "country": "Slovenia",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Ljubljana",
+  "airports": [
+   {
+    "code": "LJU",
+    "name": "Ljubljana Jože Pučnik Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Ljubljana bus station (Avtobusna postaja)",
+      "minutes": 55,
+      "fareEUR": 3.7,
+      "frequency": "every 25–60 min",
+      "hours": "05:00–20:00 (no service before 05:00 or after 20:00; weekend first run 06:10; source wording ambiguous, verify)"
+     },
+     "taxi": {
+      "fareEUR": 40.0,
+      "minutes": null,
+      "basis": "travel-site estimate (cestee.com, updated 14 Feb 2025) for taxis outside the terminal, about EUR 40; not an official tariff; lju.aero refused the connection",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "BSL",
+  "name": "Basel",
+  "country": "Switzerland",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Basel",
+  "airports": [
+   {
+    "code": "BSL",
+    "name": "EuroAirport Basel-Mulhouse-Freiburg",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Basel SBB (main railway station)",
+      "minutes": 20,
+      "fareEUR": 5.48,
+      "frequency": "every 7–10 min (euroairport.com)",
+      "hours": "04:30–00:00 (starts before 06:00 and runs until midnight)"
+     },
+     "taxi": {
+      "fareEUR": 53.69,
+      "minutes": 20,
+      "basis": "indicative EuroAirport website price 'approximate prices from the city center to EuroAirport: BASEL 50 CHF', used for the reverse trip; not a fixed tariff; airconnect.live (Aug 2026) gives CHF 40–55 metered, 15–25 min (20 used)",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus",
+   "train",
+   "train and bus"
+  ]
+ }
+]

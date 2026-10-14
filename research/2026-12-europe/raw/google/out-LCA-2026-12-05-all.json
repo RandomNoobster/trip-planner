@@ -1,0 +1,99 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA0xDQUABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 294.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe, Lufthansa and Discover Airlines",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "16:45",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Larnaka International Airport",
+   "arrTime": "15:35",
+   "arrDate": "2026-12-06",
+   "durationMin": 1310,
+   "layovers": [
+    {
+     "min": 750,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    },
+    {
+     "min": 135,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 1066.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Cyprus Airways",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "05:30",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Larnaka International Airport",
+   "arrTime": "18:10",
+   "arrDate": "2026-12-05",
+   "durationMin": 700,
+   "layovers": [
+    {
+     "min": 65,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
+    },
+    {
+     "min": 145,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 1241.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Austrian",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "05:30",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Larnaka International Airport",
+   "arrTime": "16:30",
+   "arrDate": "2026-12-05",
+   "durationMin": 600,
+   "layovers": [
+    {
+     "min": 40,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
+    },
+    {
+     "min": 175,
+     "airport": "Vienna International Airport",
+     "city": "Vienna",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

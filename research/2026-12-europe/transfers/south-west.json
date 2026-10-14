@@ -1,0 +1,317 @@
+[
+  {
+    "city": "ALC",
+    "localTicketEUR": 1.5,
+    "dayPassEUR": null,
+    "rideHailing": ["Uber", "Bolt"],
+    "airports": [
+      {
+        "code": "ALC",
+        "public": {"mode": "bus", "to": "Alicante RENFE railway station (C-6 stop)", "minutes": null, "fareEUR": 4.7, "frequency": "not stated by operator; tourism site says about every 20 min (unverified)", "hours": "24 h daily incl. night departures per spain.info; first and last departures not verified"},
+        "taxi": {"fareEUR": 30, "minutes": 15, "basis": "approximate average per spain.info (official tourism site); not an official tariff; no Alicante fixed fare found", "capacity": 4}
+      }
+    ],
+    "sources": ["https://www.alicante.es/es/node/49760", "https://www.spain.info/es/avion/aeropuerto-alicante-elche/", "https://blog.gettransfer.com/top-5-ways-to-get-from-alicante-airport-to-alicante-city-center", "https://www.aena.es/es/alicante-elche/como-llegar/autobus.html", "https://www.uber.com/global/en/r/airports/alc/taxi/", "https://bolt.eu/en/cities/alicante/"],
+    "notes": "City single 1.50 is the TAM fare from 1 Oct 2026 (official alicante.es page, checked). That page shows no 24 h ticket (the 35 EUR Mobilis monthly pass is not one), so dayPassEUR is null. The C-6 fare of 4.70 comes only from a gettransfer blog citing a Vectalia notice of 24 Jul 2026; the Vectalia page returned 403, so it is unverified (older excerpts show 3.85, 4.50 and 7.70). The spain.info figure of 1.45 matches the previous city single, so it is probably not the C-6 fare. Uber's ALC airport excerpt shows an average of about 24 EUR to Alacant (not fetched). Bolt from a search excerpt only; FreeNow and Cabify not checked; winter timetable not checked."
+  },
+  {
+    "city": "PMI",
+    "localTicketEUR": null,
+    "dayPassEUR": null,
+    "rideHailing": ["Uber"],
+    "airports": [
+      {
+        "code": "PMI",
+        "public": {"mode": "bus", "to": "Palma city centre (EMT line A1 'Aeroport-Palma centre'; city stop not named in source)", "minutes": null, "fareEUR": null, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": 24, "minutes": null, "basis": "average UberX fare from PMI to Palma over 12 months (Uber page); a ride-hailing average, not a taxi meter or official tariff", "capacity": 4}
+      }
+    ],
+    "sources": ["https://www.aena.es/es/palma-de-mallorca/como-llegar/autobus.html", "https://www.aena.es/es/palma-de-mallorca/como-llegar/taxi.html", "https://mobipalma.mobi/mobilitat/transport/bus-emt/", "https://mobipalma.mobi/mobilitat/transport/taxi/", "https://www.uber.com/global/en/r/airports/pmi/"],
+    "notes": "The A1 is the only city-centre airport bus that Aena names, but its fare, journey time, frequency and hours could not be read: emtpalma.es gave no content and mobipalma.mobi shows only a ten-trip pass with no price and no 24 h price. No official taxi tariff figure found; the municipal taxi regulation PDF was not read. Uber is confirmed on its PMI airport page; Bolt absent from its Spanish list excerpt (possibly truncated); FreeNow and Cabify not checked. Winter timetable not checked."
+  },
+  {
+    "city": "LPA",
+    "localTicketEUR": null,
+    "dayPassEUR": null,
+    "rideHailing": [],
+    "airports": [
+      {
+        "code": "LPA",
+        "public": {"mode": "bus", "to": "San Telmo bus station, Las Palmas centre (line 60)", "minutes": null, "fareEUR": 2.3, "frequency": "2 buses per hour 06:15–20:15 (Aena); later frequency not stated", "hours": "06:15–23:15 (Aena, line 60); winter timetable not checked"},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": "no fixed fare; metered only per Aena (year not stated): daytime flag 3.85 + 1.35/km; night and holiday flag 4.25 + 1.55/km; airport supplement 2.10; no trip distance or time published", "capacity": 4}
+      }
+    ],
+    "sources": ["https://www.aena.es/es/gran-canaria/como-llegar/autobus.html", "https://www.aena.es/es/gran-canaria/como-llegar/taxi.html", "https://www.aena.es/es/gran-canaria.html", "https://www.uber.com/global/en/r/spain/cities/"],
+    "notes": "Line 60 fare 2.30 to San Telmo (2.95 via the Santa Catalina interchange) is from the Aena table; the year and fare type are not stated, so treat it as provisional. Local network tickets (Guaguas Municipales) not found: its site failed with a certificate error and globalgc.com returned 404. Taxi total cannot be computed without a trip distance. No ride-hailing app confirmed: the LPA airport pages on Uber returned 404 and Las Palmas is not in Uber's Spanish directory; Bolt absent from its list; FreeNow and Cabify not checked."
+  },
+  {
+    "city": "TCI",
+    "localTicketEUR": null,
+    "dayPassEUR": 10,
+    "rideHailing": ["Uber"],
+    "airports": [
+      {
+        "code": "TFS",
+        "public": {"mode": "bus", "to": "Santa Cruz de Tenerife (TITSA line 10; stop not named in source)", "minutes": 55, "fareEUR": null, "frequency": null, "hours": "05:10–22:15 weekdays per TITSA timetable (direction not confirmed; weekend times not read)"},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": "no published fixed or metered figure found", "capacity": 4}
+      },
+      {
+        "code": "TFN",
+        "public": {"mode": "bus", "to": "Puerto de la Cruz area (TITSA line 30; stop not named in source)", "minutes": 30, "fareEUR": null, "frequency": null, "hours": "06:30–23:20 weekdays; 07:15–21:15 Sat, Sun and holidays (direction not confirmed)"},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": "no published fixed or metered figure found", "capacity": 4}
+      }
+    ],
+    "sources": ["https://www.titsa.com/index.php/tus-guaguas/billetes-y-tarifas/billetes-y-titulos-de-pago", "https://www.titsa.com/index.php/tus-guaguas/billetes-y-tarifas/tarifas-vigentes", "https://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-010", "https://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-030", "https://www.aena.es/es/tenerife-sur/como-llegar/taxi.html", "https://www.uber.com/global/en/r/airports/tfs/", "https://www.uber.com/global/en/r/airports/tfn/"],
+    "notes": "Destinations as requested: TFS to Santa Cruz de Tenerife, TFN to the Puerto de la Cruz area. TITSA fares are distance-based and the fare table is an image with no year, so localTicketEUR is null. dayPassEUR 10 is TITSA's 1-day tourist card (valid 24 h from first use); the card costs 2 EUR extra, not included; no year shown. Line hours are from TITSA timetable pages and the direction is not confirmed. Taxi: no published fixed or metered figure; officialtaxitenerife.com shows only a placeholder. Uber: airport pages say 24/7 availability; Santa Cruz is in Uber's Spanish directory, Puerto de la Cruz is not named. Bolt absent from its Spanish list excerpt; FreeNow and Cabify not checked."
+  },
+  {
+    "city": "LIS",
+    "localTicketEUR": 1.9,
+    "dayPassEUR": 7.25,
+    "rideHailing": ["Uber", "Bolt", "FreeNow"],
+    "airports": [
+      {
+        "code": "LIS",
+        "public": {"mode": "metro", "to": "Baixa-Chiado", "minutes": 25, "fareEUR": 1.9, "frequency": null, "hours": "about 06:30–01:00"},
+        "taxi": {"fareEUR": 19, "minutes": null, "basis": "official fixed fare, zone 2 daytime, to Baixa from 15 Oct 2026 (RTP report of the new zone scheme); night, weekend and holiday fare 23", "capacity": 4}
+      }
+    ],
+    "sources": ["https://www.metrolisboa.pt/wp-content/uploads/2025/12/Tarifas_site_2026_PT.pdf", "https://www.metrolisboa.pt/2025/12/19/novas-tarifas-2026/", "https://www.rtp.pt/noticias/pais/taxis-no-aeroporto-de-lisboa-vao-passar-a-ter-taxa-fixa-a-partir-de-outubro_n1764877", "https://shop.visitlisboa.com/pages/taxi-voucher", "https://www.airporttransferportal.com/en/airport-guides/lis/cost-to-city", "https://www.lisbontourism.org/uber-bolt-lisbon/", "https://bolt.eu/en-pt/cities/"],
+    "notes": "Metro 2026 tariff from 1 Jan 2026. Single 1.90 is valid 1 h on one trip and needs a Navegante occasional card (0.50 extra). Day pass 7.25 is the Carris/Metro pass (Carris/Metro/CP 11.40). Taxi: the pre-change Visit Lisboa voucher table shows 20.40 for the 2nd ring (daytime), which the RTP report replaces from 15 Oct 2026 with a zone scheme: zone 2 (includes Santa Maria Maior, the parish covering Baixa) is 19 daytime and 23 nights, weekends and holidays; zone 1 is 16 and 20. Taxi minutes not published. Metro journey time and hours come from an aggregator (Oct 2026). Cabify excluded: press reports its Portuguese service closed in 2019."
+  },
+  {
+    "city": "OPO",
+    "localTicketEUR": null,
+    "dayPassEUR": null,
+    "rideHailing": ["Uber", "Bolt"],
+    "airports": [
+      {
+        "code": "OPO",
+        "public": {"mode": "metro", "to": "São Bento station", "minutes": null, "fareEUR": 2.3, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": null, "minutes": 20, "basis": "no official fixed airport fare found; metered, no EUR estimate found; minutes = midpoint of the 15–25 min quoted for Aliados/Bolhão (aggregator)", "capacity": 4}
+      }
+    ],
+    "sources": ["https://www.airporttransferportal.com/en/airport-guides/opo/cost-to-city", "https://andante.pt/tarifario-andante/", "https://www.andante.pt/", "https://bolt.eu/en-pt/cities/"],
+    "notes": "Metro single 2.30 (zone Z4) and 0.60 Andante card come from an Oct 2026 aggregator, not the operator. The Andante 2026 tariff flyer is a PDF with no readable text, and metrodoporto.pt timed out twice, so the fare is provisional. Metro journey time, frequency and hours not found. City single and 24 h tickets not found. Uber named by the aggregator only; Bolt confirmed on Bolt's official city list. FreeNow and Cabify not checked."
+  },
+  {
+    "city": "FAO",
+    "localTicketEUR": null,
+    "dayPassEUR": null,
+    "rideHailing": ["Uber", "Bolt"],
+    "airports": [
+      {
+        "code": "FAO",
+        "public": {"mode": "bus", "to": "Faro centre (via Faro railway station)", "minutes": 20, "fareEUR": 2.25, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": 11, "minutes": 10, "basis": "airport's typical daytime metered estimate as quoted by an aggregator; not a fixed fare; tariff year not stated; about 13 at nights and weekends", "capacity": 4}
+      }
+    ],
+    "sources": ["https://www.airporttransferportal.com/en/airport-guides/fao/cost-to-city", "https://bolt.eu/en-pt/cities/"],
+    "notes": "Route 16 ('linha rosa', operator Próximo per the aggregator) is the airport's only bus; fare paid to the driver; about 20 min to the centre via the railway station. Fare, time and taxi figures come from an aggregator and are unverified against official sources. Frequency and hours not stated in any source read; Próximo's site gave no fares or timetable. City single and day tickets not found. Uber named by the aggregator only; Bolt confirmed on Bolt's official list. FreeNow and Cabify not checked."
+  },
+  {
+    "city": "FNC",
+    "localTicketEUR": null,
+    "dayPassEUR": null,
+    "rideHailing": ["Bolt"],
+    "airports": [
+      {
+        "code": "FNC",
+        "public": {"mode": "bus", "to": "Funchal city centre (Avenida do Mar)", "minutes": 24, "fareEUR": null, "frequency": "about every 30 min mornings, hourly afternoons (aggregator)", "hours": "about 08:30–22:00 from the airport, daily except 25 Dec; no early or late service, so a taxi is needed for earlier or later flights"},
+        "taxi": {"fareEUR": null, "minutes": 25, "basis": "metered on the official Madeira tariff: 4.00 base weekday from the airport, +20% nights and weekends, +1.50 for baggage; no fixed airport fare; total not computed; minutes = midpoint of 20–30 (aggregator)", "capacity": 4}
+      }
+    ],
+    "sources": ["https://www.airporttransferportal.com/en/airport-guides/fnc/cost-to-city", "https://www.horariosdofunchal.pt/index.php/cartao-giro", "https://bolt.eu/en-pt/cities/"],
+    "notes": "Aerobus (SAM express) fare not found: sam.pt refused the connection, and the aggregator says fares changed on 1 Apr 2026 without giving a figure. Aerobus is cash only per the aggregator. Horários do Funchal card costs 0.50 (bilhete) and 5.00 (passe); single and day fares are not on the pages read (monthly passes only), so both city fields are null. Bolt's official list names 'Madeira', not Funchal; treated as covering Funchal but unverified at city level. Uber, FreeNow and Cabify not named in any source read."
+  },
+  {
+    "city": "ROM",
+    "localTicketEUR": 1.5,
+    "dayPassEUR": 8.5,
+    "rideHailing": ["Uber"],
+    "airports": [
+      {
+        "code": "FCO",
+        "public": {"mode": "train", "to": "Roma Termini", "minutes": 32, "fareEUR": 14, "frequency": "every 15 min", "hours": "05:38–23:27 from FCO (Termini departures 04:50–23:05)"},
+        "taxi": {"fareEUR": 55, "minutes": 50, "basis": "official fixed fare to inside the Aurelian Walls (Termini is inside), ADR page; tariff of 16 Jul 2024; minutes = midpoint of an aggregator range of 40–60", "capacity": 4}
+      },
+      {
+        "code": "CIA",
+        "public": {"mode": "bus", "to": "Roma Termini (Ciampino Airlink bus to Ciampino station, then regional train)", "minutes": 50, "fareEUR": 2.7, "frequency": "every 20 min (aggregator)", "hours": null},
+        "taxi": {"fareEUR": 40, "minutes": 27, "basis": "official fixed fare to the Aurelian Walls (ADR, undated); minutes = aggregator drive estimate", "capacity": 4}
+      }
+    ],
+    "sources": ["https://www.adr.it/pax-fco-treno", "https://www.adr.it/pax-fco-taxi", "https://www.trenitalia.com/en/services/connections-to-and-from-rome-fiumicino-airport.html", "https://www.trenitalia.com/en/connections/ciampino-airlink.html", "https://www.adr.it/pax-cia-taxi", "https://www.atac.roma.it/en/tickets-and-passes", "https://www.uber.com/it/it/"],
+    "notes": "FCO: Leonardo Express is the fastest and the only train option (ADR page quoting Trenitalia; undated). Cheaper coach options exist (Terravision from 4.00 advertised, not a confirmed adult single; SIT about 7, aggregator). FCO taxi 55 is the official fixed fare; the latest tariff found is of 16 Jul 2024. CIA: Trenitalia Ciampino Airlink is 2.70 per person for one journey to Termini (bus and train together; the bus leg is not sold alone, checked on the Trenitalia page). Total journey time not published; 50 min is approximate (travel guide summary). Faster: Terravision coach from 6.50, about 40–45 min (aggregator). City: ATAC page (undated, checked) shows BIT 1.50 (100 min), 24 h 8.50, 48 h 15, 72 h 22; a May 2026 guide said a rise to 2.00 was planned for July 2026 pending approval, not confirmed on the ATAC page. Ride-hailing: Uber only weakly confirmed (navigation label on uber.com/it); Bolt and FreeNow not confirmed; Cabify page 404."
+  },
+  {
+    "city": "MIL",
+    "localTicketEUR": null,
+    "dayPassEUR": null,
+    "rideHailing": ["Uber"],
+    "airports": [
+      {
+        "code": "MXP",
+        "public": {"mode": "train", "to": "Milano Centrale", "minutes": null, "fareEUR": null, "frequency": "every 30 min", "hours": "05:09–22:09 from T1–T2 (SEA timetable page; not cross-checked)"},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": "no official fixed fare found; SEA taxi page lists phone numbers only", "capacity": 4}
+      },
+      {
+        "code": "LIN",
+        "public": {"mode": null, "to": null, "minutes": null, "fareEUR": null, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": "no fare on the SEA Linate taxi page", "capacity": 4}
+      },
+      {
+        "code": "BGY",
+        "public": {"mode": null, "to": null, "minutes": null, "fareEUR": null, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": "not found (airport site returned 403)", "capacity": 4}
+      }
+    ],
+    "sources": ["https://www.milanomalpensa-airport.com/it/da-per/in-treno", "https://www.milanomalpensa-airport.com/it/da-per/in-taxi", "https://www.milanolinate-airport.com/it/da-per/in-metro", "https://www.milanolinate-airport.com/it/da-per/in-taxi", "https://www.atm.it/en/", "https://www.uber.com/it/it/"],
+    "notes": "Largely unfilled. Malpensa Express: only the SEA timetable was readable (no fare or journey time); malpensaexpress.it and trenord.it returned 403. ATM ticket prices are not shown on the readable pages, so both city fields are null. Linate: SEA pages list no bus or taxi fares. Bergamo: orioaeroporto.it redirects to milanbergamoairport.it, which returned 403. No official Milan taxi fixed fare found. An aggregator gives Malpensa taxi around 90–100 and Linate metered 20–30; not used. Uber only weakly confirmed (navigation label); FreeNow's Italian page names only a Milan office; Bolt not confirmed; Cabify page 404. Needs follow-up: ATM tickets, Malpensa Express fare and time, Linate and Bergamo bus fares and times, and taxi fares."
+  },
+  {
+    "city": "VCE",
+    "localTicketEUR": 9.5,
+    "dayPassEUR": 25,
+    "rideHailing": [],
+    "airports": [
+      {
+        "code": "VCE",
+        "public": {"mode": null, "to": "Venezia San Marco (Giardinetti) or Rialto, by Alilaguna water bus (Blue or Orange line; Red line is summer-only)", "minutes": null, "fareEUR": null, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": "no road taxi into the old town (aggregator); water taxi only, no verified fare", "capacity": 4}
+      },
+      {
+        "code": "TSF",
+        "public": {"mode": "bus", "to": "Venice (ATVO Treviso Airport express bus; stop not verified)", "minutes": null, "fareEUR": null, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": "not found", "capacity": 4}
+      }
+    ],
+    "sources": ["https://avm.avmspa.it/it/content/urbano-venezia", "https://avm.avmspa.it/it/content/prezzi-vigore-0", "https://www.alilaguna.it/en/", "https://www.atvo.it/", "https://www.uber.com/it/it/"],
+    "notes": "localTicketEUR 9.50 is the ACTV 75-minute vaporetto ticket, the main single for the old town; the bus-only single is 1.50 (valid 75 min; excludes airport trips). Daily Pass 25 covers vaporetti (validity as reported) and is the day figure used; there is no bus-only day ticket, and the Mestre Daily Pass 5 covers the mainland only. ACTV pages are undated. Airport: the Alilaguna water bus is the main public option, but its fares and times are not on the pages read (alilaguna.it tickets page 404), and a water bus is not an allowed mode, so mode is null. The ACTV airport bus page was not found. Treviso: the ATVO page names an express bus to Venice with no fare or time; trevisoairport.it and veniceairport.it returned 403. No road taxis reach the old town; water-taxi figures in aggregators conflict and were not used. Uber: no car ride-hailing confirmed (navigation label only)."
+  },
+  {
+    "city": "NAP",
+    "localTicketEUR": 1.5,
+    "dayPassEUR": 5.5,
+    "rideHailing": ["Uber"],
+    "airports": [
+      {
+        "code": "NAP",
+        "public": {"mode": "shuttle bus", "to": "Napoli Centrale (Piazza Garibaldi)", "minutes": 15, "fareEUR": 5, "frequency": "every 15 min", "hours": "05:30–00:00 from airport (Centrale to airport 05:10–23:50)"},
+        "taxi": {"fareEUR": 21, "minutes": null, "basis": "flat fare per car to Stazione Centrale per the Comune tariff, last updated 2024 (Sicurauto, 2026 article); a Napolike snippet mentions 25 for 2026 fixed fares, not verified", "capacity": 4}
+      }
+    ],
+    "sources": ["https://www2.anm.it/index.php?option=com_content&task=view&id=1314&Itemid=373", "https://www2.anm.it/index.php?option=com_content&task=view&id=3994&Itemid=373", "https://www.aeroportodinapoli.it/en/by-taxi", "https://www.sicurauto.it/news/traffico-e-viabilita/taxi-napoli-aeroporto-numero-e-tariffe/", "https://www.napolike.it/come-acquistare-e-usare-i-biglietti-dei-trasporti-a-napoli", "https://www.uber.com/it/newsroom/uber-e-touring-club-italiano-alla-scoperta-dei-tesori-nascosti-delle-citta-italiane"],
+    "notes": "Alibus (ANM) single 5.00, about 15 min to Centrale, every 15 min; no faster public option found. City: Napolike guide gives a single of 1.50 (valid 90 min on ANM vehicles) and a daily of 5.50; ANM's own 2024 price table was an image and not readable, and older snippets showed 1.30 and 4.50 (unverified). The daily ticket's validity is not confirmed. Taxi: flat fare per car (supplements included, per GESAC); shared taxi 6.00 per passenger. The airport site confirms flat rates exist but gives no amount (it links to a 2024 tariff PDF). The 25 figure is unverified. Ride-hailing: Uber named in a 2023 Uber press release only; FreeNow only in a secondary FAQ (not included); Bolt and Cabify not found in Naples."
+  },
+  {
+    "city": "BLQ",
+    "localTicketEUR": 2.3,
+    "dayPassEUR": 9,
+    "rideHailing": [],
+    "airports": [
+      {
+        "code": "BLQ",
+        "public": {"mode": "train", "to": "Bologna Centrale", "minutes": 7, "fareEUR": 12.8, "frequency": "every 7–15 min", "hours": "05:40–24:00 from airport"},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": "no fixed fare or estimate published on the airport or operator sites; Cotabo and Cat quote on request", "capacity": 4}
+      }
+    ],
+    "sources": ["https://www.bologna-airport.it/en/", "https://www.bologna-airport.it/en/from-and-to-the-airport/transfer-from-and-to-the-airport/train-to-the-city-centre/?idC=62594", "https://www.bologna-airport.it/en/from-and-to-the-airport/transfer-from-and-to-the-airport/taxi/?idC=62439", "https://www.tper.it/tariffe", "https://www.cotabo.it/"],
+    "notes": "Marconi Express train (fastest and only direct rail link): 7 min, every 7–15 min, 12.80 one way per the airport homepage (no date shown). TPER city ticket page (no year shown): ordinary ticket 2.30 valid 75 min; 24 h ticket 9.00. The TPER Q bus (about 30 min) runs to Ospedale Maggiore by day and Piazzale Medaglie d'Oro at night, with no fare found, so it is not used as a cheaper option. Taxi: no fixed fare or estimate published. Ride-hailing: Uber and FreeNow only from secondary sites; Uber's 2023 release does not list Bologna, so none included."
+  },
+  {
+    "city": "FLR",
+    "localTicketEUR": 2,
+    "dayPassEUR": null,
+    "rideHailing": [],
+    "airports": [
+      {
+        "code": "FLR",
+        "public": {"mode": "bus", "to": "Firenze Santa Maria Novella (direct airport bus; operator not confirmed)", "minutes": null, "fareEUR": null, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": "no EUR fare found; rome2rio shows only NOK prices", "capacity": 4}
+      },
+      {
+        "code": "PSA",
+        "public": {"mode": "train", "to": "Firenze Santa Maria Novella (via Pisa Centrale; People Mover from the airport)", "minutes": null, "fareEUR": null, "frequency": "about every 15 min (train leg, rome2rio)", "hours": null},
+        "taxi": {"fareEUR": null, "minutes": 62, "basis": "rome2rio drive estimate for about 80 km (aggregator, not an official tariff); no EUR fare found", "capacity": 4}
+      }
+    ],
+    "sources": ["https://www.at-bus.it/it/ticket", "https://www.at-bus.it/", "https://www.rome2rio.com/it/s/Pisa-Airport/Florence-Italy", "https://www.rome2rio.com/it/s/Florence-Airport/Florence-Italy"],
+    "notes": "Florence and Pisa are poorly covered: the Florence airport, ATAF, Pisa airport and Volainbus sites refused, reset or did not resolve, and Toscana Aeroporti and Omio returned 403; the search budget ran out before any Florence or Pisa search. localTicketEUR 2.00 is the Autolinee Toscane 'Biglietto urbano capoluogo' (3.00 on board) from at-bus.it; the page does not name Florence and its fare PDFs carry validity dates (to 31 Jul 2026; from 1 Aug 2026), so it may be off. No 24 h ticket found. FLR: the direct bus to Santa Maria Novella has no fare, time or frequency in any readable source; rome2rio's FLR options (T2 tram, bus 35) do not reach SMN. PSA: People Mover fare and time not found; the train leg to SMN runs about every 15 min, but no EUR fare was found, so total fare and time are null. Taxi minutes 62 is a rome2rio estimate. Ride-hailing: Uber and FreeNow conflicting, not included."
+  },
+  {
+    "city": "TRN",
+    "localTicketEUR": 2,
+    "dayPassEUR": 4.5,
+    "rideHailing": ["Uber", "FreeNow"],
+    "airports": [
+      {
+        "code": "TRN",
+        "public": {"mode": "shuttle bus", "to": "Torino Porta Nuova (FLIBCO stop, near Corso Vittorio Emanuele II)", "minutes": 30, "fareEUR": 6, "frequency": "every 30 min", "hours": "04:45–00:00 from airport (from Turin 03:45–22:30)"},
+        "taxi": {"fareEUR": 40, "minutes": 30, "basis": "airport website approximate figures (about 40 EUR, about 30 min); not a fixed tariff; no official Turin tariff found", "capacity": 4}
+      }
+    ],
+    "sources": ["https://www.aeroportoditorino.it/it/tomove/trasporti-e-parcheggi/in-bus", "https://www.aeroportoditorino.it/it/tomove/trasporti-e-parcheggi/in-taxi", "https://www.gtt.to.it/cms/biglietti-abbonamenti/biglietti/biglietti-carnet", "https://www.uber.com/it/newsroom/uber-e-touring-club-italiano-alla-scoperta-dei-tesori-nascosti-delle-citta-italiane"],
+    "notes": "FLIBCO shuttle is the fastest cheap option (30 min; 6.00 at the stop, lower when booked online). Slower and dearer: Arriva Italia bus 7.50 (8.50 on board), 45–50 min, every 15–30 min from Piazza Carlo Felice; night timetable not stated. GTT official ticket page (no effective date; linked brochure labelled Oct 2025): 100-min ticket 2.00 paper (1.90 digital); daily 4.50 paper (3.70 digital), valid to end of service rather than 24 h. Ride-hailing: FreeNow and WeTaxi bookable per the airport taxi page (WeTaxi is not in this list); Uber from its 2023 release naming Turin."
+  },
+  {
+    "city": "CTA",
+    "localTicketEUR": 1.4,
+    "dayPassEUR": 3.5,
+    "rideHailing": ["Uber", "FreeNow"],
+    "airports": [
+      {
+        "code": "CTA",
+        "public": {"mode": "shuttle bus", "to": "Catania Centrale railway station (Piazza Giovanni XXIII)", "minutes": 15, "fareEUR": 4, "frequency": "about every 18–25 min", "hours": "04:40–00:30 from airport (no bus 00:30–04:40)"},
+        "taxi": {"fareEUR": 27, "minutes": null, "basis": "experimental fixed fare to Piazza Duomo or Stazione Centrale, valid 1 Jul–31 Dec 2026 (reported by news, not on an official Comune page)", "capacity": 4}
+      }
+    ],
+    "sources": ["https://amts.ct.it/alibus", "https://www.amts.ct.it/biglietti-e-abbonamenti", "https://bluekeys.it/blog/catania-airport-to-catania-city-centre-transfer", "https://free-now.com/it/citta/", "https://www.uber.com/it/it/ride/"],
+    "notes": "Public = AMTS Alibus, official fare 4.00 (valid 90 min on other AMTS lines; regular AMTS tickets are not valid on it). The 15-min run comes from a blog citing AMTS booklets; other sources say 20–28 min. Timetable from summer 2026 booklets; no winter timetable found, so check December service. Possible cheaper alternative: Airlink shuttle to the airport rail station plus a train to Centrale; total fare and time not verified. City 90-min ticket 1.40 (2.00 on board); the 3.50 day ticket is valid until 23:59 on the validation day, not 24 h (4.10 on board). Taxi 27 is an experimental fixed fare (news; Giunta decision of 18 Jun 2026) that runs to 31 Dec 2026, so December travel falls inside its period. Ride-hailing: Uber links 'Taxi Catania' only (navigation label, weak); FreeNow's official list includes Catania; Bolt's does not; Cabify unavailable."
+  },
+  {
+    "city": "PMO",
+    "localTicketEUR": 1.4,
+    "dayPassEUR": 3.5,
+    "rideHailing": ["Uber", "FreeNow"],
+    "airports": [
+      {
+        "code": "PMO",
+        "public": {"mode": "shuttle bus", "to": "Palermo Stazione Centrale (Via T. Fazello bus terminal)", "minutes": 50, "fareEUR": 6.5, "frequency": "every 30 min", "hours": "05:05–01:05 from airport (city departures 03:30–21:30)"},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": "no official fixed fare or metered estimate found", "capacity": 4}
+      }
+    ],
+    "sources": ["https://www.prestiaecomande.it/wp-content/uploads/2026/07/LineaPalermoAeroporto-V4.pdf", "https://www.prestiaecomande.it/biglietti-e-abbonamenti/", "https://www.amat.pa.it/biglietti/", "https://free-now.com/it/citta/", "https://www.uber.com/it/it/ride/"],
+    "notes": "Public = Prestia e Comandè shuttle, 6.50 paid on board (6.00 online). Official July 2026 timetable PDF: 50 min to Stazione Centrale, every 30 min, airport departures 05:05–01:05, all year. A regional train to Palermo Centrale is reported to exist; its fare and timetable were not verified (Trenitalia page 404), and old guides suggest about 5.80–5.90, which could be cheaper than the bus, so verify before relying on the bus as the cheapest option. Taxi: no official fixed fare found; GESAP connection pages 404. City: AMAT 90-min ticket 1.40 (1.80 on board); daily 3.50, valid to end of service on the validation day, not 24 h. Ride-hailing: Uber links 'Taxi Palermo' only (navigation label, weak); FreeNow's official list includes Palermo; Bolt's does not."
+  },
+  {
+    "city": "BRI",
+    "localTicketEUR": 1.2,
+    "dayPassEUR": 2.5,
+    "rideHailing": [],
+    "airports": [
+      {
+        "code": "BRI",
+        "public": {"mode": "bus", "to": "Bari Centrale (Piazza Aldo Moro stop, beside the railway station)", "minutes": 40, "fareEUR": 1.5, "frequency": "every 26–60 min (sources differ)", "hours": "05:25–22:00 from airport (ESN Bari; orariautobus lists 04:55–22:10 on weekdays)"},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": "no official fixed fare or metered estimate found", "capacity": 4}
+      }
+    ],
+    "sources": ["https://bari.esn.it/en/transports", "https://www.idealista.it/news/node/240181", "https://www.muvt.app/libretto/16-Bari%20Centrale%20-%20Aeroporto.pdf", "https://www.amtab.it/", "https://www.uber.com/it/it/ride/", "https://free-now.com/it/citta/", "https://bolt.eu/it/cities/"],
+    "notes": "Public = AMTAB line 16 (MUVT app) to Piazza Aldo Moro beside Bari Centrale; 1.50 on board, 1.00 if bought in advance. Fare, 40-min run and hours come from ESN Bari (non-official). The MUVT timetable found is in force from 1 Sep 2024 and has no fares; no 2026 timetable found. Faster: Tempesta shuttle about 5.00 (about 30 min; some pages say 4.00) or FNB train 5.30 (27 min; airport departures 05:00–23:20). City 90-min ticket 1.20 and day ticket 2.50 come from an undated idealista guide (day ticket validity not stated); AMTAB's site gave no fares, so these are unverified. Taxi: no official fixed fare; ESN lists only a taxi contact. Airport site returned 403. Ride-hailing: none confirmed; Uber links only chauffeured car hire; FreeNow and Bolt official lists exclude Bari."
+  },
+  {
+    "city": "TRS",
+    "localTicketEUR": 1.5,
+    "dayPassEUR": null,
+    "rideHailing": [],
+    "airports": [
+      {
+        "code": "TRS",
+        "public": {"mode": "bus", "to": "Trieste bus station (Largo Città di Santos), near Trieste Centrale railway station", "minutes": 56, "fareEUR": 4.05, "frequency": "about every 30 min (TPL FVG airport page)", "hours": "04:40–22:25 (approximate, undated timetable; weekends and holidays sparser)"},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": "no official fixed fare or metered estimate found", "capacity": 4}
+      }
+    ],
+    "sources": ["https://www.tplfvg.it/it/servizi/aeroporto/", "https://www.transfeero.com/it/transfer-da-e-per-aeroporto-di-trieste-trs/", "https://www.elettra.eu/about/reach-us-by-bus.html", "https://www.tplfvg.it/it/biglietti/tariffebig/", "https://dirigentigiustizia.it/attachments/article/535/ComeArrivare.pdf"],
+    "notes": "No official 2026 airport fare found. The TPL FVG airport page confirms airport buses run about every 30 min and end at the Largo Città di Santos bus station, but gives no fare or time. The 4.05 fare and 56 min come from Transfeero (commercial transfer firm, undated), and the hours from an undated PDF; treat them as provisional. An older 2011 source gave 3.30 (not used). Train: regional from the airport stop to Trieste Centrale about 29–32 min per Omio and Transfeero; aggregator fares 4–8, not verified. Taxi: no fixed fare or estimate found. City: 1.50 is the urban bus 51 single (Elettra page, updated 4 Nov 2025); the TPL FVG tariff table is a PDF that was not readable, so no day ticket. Ride-hailing: none confirmed; Uber, FreeNow and Bolt official lists do not include Trieste."
+  }
+]

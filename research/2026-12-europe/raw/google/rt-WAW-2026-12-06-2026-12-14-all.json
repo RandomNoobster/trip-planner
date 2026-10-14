@@ -1,0 +1,59 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDZqBRIDVFJEcgUSA1dBVxoaEgoyMDI2LTEyLTE0agUSA1dBV3IFEgNUUkRAAUgBmAEB",
+ "fetchedAt": "2026-10-11T11:20:52",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 233.0,
+   "roundTripTotal": true,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:25",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Warsaw Chopin Airport",
+   "arrTime": "13:45",
+   "arrDate": "2026-12-06",
+   "durationMin": 260,
+   "layovers": [
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 233 euros round trip total.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 9:25 AM on Sunday, December 6 and arrives at Warsaw Chopin Airport at 1:45 PM on Sunday, December 6. Total duration 4 hr 20 min.  Layover (1 of 1) is a 1 hr 35 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 247.0,
+   "roundTripTotal": true,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:20",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Warsaw Chopin Airport",
+   "arrTime": "13:45",
+   "arrDate": "2026-12-06",
+   "durationMin": 205,
+   "layovers": [
+    {
+     "min": 40,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 247 euros round trip total.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 10:20 AM on Sunday, December 6 and arrives at Warsaw Chopin Airport at 1:45 PM on Sunday, December 6. Total duration 3 hr 25 min.  Layover (1 of 1) is a 40 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

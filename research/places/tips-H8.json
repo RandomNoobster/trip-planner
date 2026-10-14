@@ -1,0 +1,115 @@
+{
+  "agent": "H8",
+  "cities": {
+    "BEG": {
+      "localBeer": ["Jelen", "Lav"],
+      "cheapEat": {
+        "name": "Sarajevski ćevapi, 5 pieces",
+        "priceEUR": 2.56,
+        "note": "Grill menu on Wolt, 300 RSD; a grill plate is about 600-900 RSD (guide)"
+      },
+      "saveTip": "Buy burek at Pekara Trpkovic on Nemanjina in Vračar, where slices cost under 300 RSD.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Belgrade",
+        "https://wolt.com/sr/srb/belgrade/venue/intermezzo-system-senjak",
+        "https://wolt.com/sr/srb/belgrade/venue/blok-shop",
+        "https://wolt.com/uk/Serbia/Belgrade/restaurant/evap",
+        "https://www.travelwithhello.com/blog/serbia-food-dining-guide",
+        "https://tablejourney.com/serbia/budget-eating/"
+      ]
+    },
+    "ZAG": {
+      "localBeer": ["Ožujsko", "Medvedgrad", "Karlovačko"],
+      "cheapEat": {
+        "name": "Ćevapčići and gulaš, Mali Medo",
+        "priceEUR": 4,
+        "note": "Mains at Mali Medo are €4-10; €4 is the lowest main price"
+      },
+      "saveTip": "Purgeraj's daily happy hour gives two drinks for the price of one.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Zagreb",
+        "https://www.croatiaweek.com/every-countrys-most-popular-beer-what-is-croatias/",
+        "https://total-croatia-news.com/news/living-in-croatia/beer-in-croatia/"
+      ]
+    },
+    "SPU": {
+      "localBeer": ["Ožujsko", "Karlovačko"],
+      "cheapEat": {
+        "name": "Pizzeta at Popaj",
+        "priceEUR": 2,
+        "note": "Small pizza at Popaj fast food, Pojišanska; its ham sandwich is €2.70"
+      },
+      "saveTip": "Skip Gaga Bar, where one round costs €14 and the same round may cost €20 later.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Split",
+        "https://www.croatiaweek.com/every-countrys-most-popular-beer-what-is-croatias/",
+        "https://total-croatia-news.com/news/living-in-croatia/beer-in-croatia/"
+      ]
+    },
+    "DBV": {
+      "localBeer": ["Ožujsko", "Karlovačko"],
+      "cheapEat": {
+        "name": "Medium pizza at Pizzeria La Luna",
+        "priceEUR": 6,
+        "note": "Near the Pemo hypermarket; only pizza is served before 17:00"
+      },
+      "saveTip": "Locals shop at Lidl, about 5 km east of the old town, to avoid steep Dubrovnik prices.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Dubrovnik",
+        "https://www.croatiaweek.com/every-countrys-most-popular-beer-what-is-croatias/",
+        "https://total-croatia-news.com/news/living-in-croatia/beer-in-croatia/"
+      ]
+    },
+    "LJU": {
+      "localBeer": ["Union", "Tektonix"],
+      "cheapEat": {
+        "name": "Horse burger at Hot Horse",
+        "priceEUR": 4,
+        "note": "Horse-burger chain, four city outlets; dishes €4-12, pay at the machine first"
+      },
+      "saveTip": "Fill your bottle at the free water fountains, found in 17 places around Ljubljana.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Ljubljana"
+      ]
+    },
+    "TIA": {
+      "localBeer": ["Peja"],
+      "cheapEat": {
+        "name": "Byrek (savoury filo pie)",
+        "priceEUR": 0.82,
+        "note": "Savoury filo pie, a local speciality; 50-80 lek, inexpensive"
+      },
+      "saveTip": "Flower's gives free water and bread, as locals are used to it.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Tirana"
+      ]
+    },
+    "SJJ": {
+      "localBeer": ["Sarajevsko"],
+      "cheapEat": {
+        "name": "Ćevapi at Petica Ferhatović",
+        "priceEUR": 3.07,
+        "note": "Fresh beef ćevapi; the 6 KM price is from July 2019, so check it"
+      },
+      "saveTip": "Burek, ćevapi or pita from small shops and cafés is the cheap food on the go.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Sarajevo"
+      ]
+    },
+    "SKP": {
+      "localBeer": ["Skopsko"],
+      "cheapEat": {
+        "name": "Kebapi, ten pieces",
+        "priceEUR": 4.88,
+        "note": "Destan, Old Bazaar; blog estimate of 250-300 MKD for ten pieces"
+      },
+      "saveTip": "Shop at the Green Market (Zelen pazar), less overrun by tourists, with fairer prices.",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Skopje",
+        "https://en.wikivoyage.org/wiki/Skopje/Centar",
+        "https://www.itimaker.com/blog/best-restaurants-in-skopje",
+        "https://www.jidlonacestach.cz/en/macedonian-beer/"
+      ]
+    }
+  }
+}

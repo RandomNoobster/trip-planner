@@ -1,0 +1,213 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTFqBRIDS1JLcgUSA1RJQUABSAGYAQI",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 29.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": "Ryanair Sun",
+   "depAirportName": "John Paul II Kraków Balice International Airport",
+   "depTime": "07:05",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Tirana International Airport",
+   "arrTime": "08:55",
+   "arrDate": "2026-12-11",
+   "durationMin": 110,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 29 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Operated by Ryanair Sun. Leaves John Paul II Kraków Balice International Airport at 7:05 AM on Friday, December 11 and arrives at Tirana International Airport at 8:55 AM on Friday, December 11. Total duration 1 hr 50 min.   Select flight"
+  },
+  {
+   "price": 94.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Air Serbia",
+   "operatedBy": null,
+   "depAirportName": "John Paul II Kraków Balice International Airport",
+   "depTime": "09:15",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Tirana International Airport",
+   "arrTime": "14:35",
+   "arrDate": "2026-12-11",
+   "durationMin": 320,
+   "layovers": [
+    {
+     "min": 135,
+     "overnight": false,
+     "airport": "Belgrade Nikola Tesla Airport",
+     "city": "Belgrade"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 94 euros. 1 stop flight with Air Serbia. Leaves John Paul II Kraków Balice International Airport at 9:15 AM on Friday, December 11 and arrives at Tirana International Airport at 2:35 PM on Friday, December 11. Total duration 5 hr 20 min.  Layover (1 of 1) is a 2 hr 15 min layover at Belgrade Nikola Tesla Airport in Belgrade. Select flight"
+  },
+  {
+   "price": 114.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "John Paul II Kraków Balice International Airport",
+   "depTime": "08:45",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Tirana International Airport",
+   "arrTime": "12:40",
+   "arrDate": "2026-12-11",
+   "durationMin": 235,
+   "layovers": [
+    {
+     "min": 50,
+     "overnight": false,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 114 euros. 1 stop flight with LOT. Leaves John Paul II Kraków Balice International Airport at 8:45 AM on Friday, December 11 and arrives at Tirana International Airport at 12:40 PM on Friday, December 11. Total duration 3 hr 55 min.  Layover (1 of 1) is a 50 min layover at Warsaw Chopin Airport in Warsaw. Select flight"
+  },
+  {
+   "price": 121.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Austrian",
+   "operatedBy": "Air Dolomiti",
+   "depAirportName": "John Paul II Kraków Balice International Airport",
+   "depTime": "14:45",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Tirana International Airport",
+   "arrTime": "00:50",
+   "arrDate": "2026-12-12",
+   "durationMin": 605,
+   "layovers": [
+    {
+     "min": 455,
+     "overnight": false,
+     "airport": "Vienna International Airport",
+     "city": "Vienna"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 121 euros. 1 stop flight with Austrian. Operated by Air Dolomiti. Leaves John Paul II Kraków Balice International Airport at 2:45 PM on Friday, December 11 and arrives at Tirana International Airport at 12:50 AM on Saturday, December 12. Total duration 10 hr 5 min.  Layover (1 of 1) is a 7 hr 35 min layover at Vienna International Airport in Vienna. Select flight"
+  },
+  {
+   "price": 139.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "John Paul II Kraków Balice International Airport",
+   "depTime": "13:00",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Tirana International Airport",
+   "arrTime": "22:50",
+   "arrDate": "2026-12-11",
+   "durationMin": 590,
+   "layovers": [
+    {
+     "min": 360,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 139 euros. 1 stop flight with Lufthansa. Leaves John Paul II Kraków Balice International Airport at 1:00 PM on Friday, December 11 and arrives at Tirana International Airport at 10:50 PM on Friday, December 11. Total duration 9 hr 50 min.  Layover (1 of 1) is a 6 hr layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 146.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "John Paul II Kraków Balice International Airport",
+   "depTime": "13:30",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Tirana International Airport",
+   "arrTime": "22:50",
+   "arrDate": "2026-12-11",
+   "durationMin": 560,
+   "layovers": [
+    {
+     "min": 70,
+     "overnight": false,
+     "airport": "Munich International Airport",
+     "city": "Munich"
+    },
+    {
+     "min": 220,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 146 euros. 2 stops flight with Lufthansa. Leaves John Paul II Kraków Balice International Airport at 1:30 PM on Friday, December 11 and arrives at Tirana International Airport at 10:50 PM on Friday, December 11. Total duration 9 hr 20 min.  Layover (1 of 2) is a 1 hr 10 min layover at Munich International Airport in Munich. Layover (2 of 2) is a 3 hr 40 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 161.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "John Paul II Kraków Balice International Airport",
+   "depTime": "10:10",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Tirana International Airport",
+   "arrTime": "15:20",
+   "arrDate": "2026-12-11",
+   "durationMin": 310,
+   "layovers": [
+    {
+     "min": 80,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 161 euros. 1 stop flight with Lufthansa. Leaves John Paul II Kraków Balice International Airport at 10:10 AM on Friday, December 11 and arrives at Tirana International Airport at 3:20 PM on Friday, December 11. Total duration 5 hr 10 min.  Layover (1 of 1) is a 1 hr 20 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 268.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Aegean",
+   "operatedBy": null,
+   "depAirportName": "John Paul II Kraków Balice International Airport",
+   "depTime": "12:25",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Tirana International Airport",
+   "arrTime": "18:00",
+   "arrDate": "2026-12-11",
+   "durationMin": 335,
+   "layovers": [
+    {
+     "min": 120,
+     "overnight": false,
+     "airport": "Athens International Airport \"Eleftherios Venizelos\"",
+     "city": "Athens"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 268 euros. 1 stop flight with Aegean. Leaves John Paul II Kraków Balice International Airport at 12:25 PM on Friday, December 11 and arrives at Tirana International Airport at 6:00 PM on Friday, December 11. Total duration 5 hr 35 min.  Layover (1 of 1) is a 2 hr layover at Athens International Airport \"Eleftherios Venizelos\" in Athens. Select flight"
+  }
+ ]
+}

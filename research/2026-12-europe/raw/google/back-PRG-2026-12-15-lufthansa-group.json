@@ -1,0 +1,109 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GjYSCjIwMjYtMTItMTUyAkxIMgJMWDICT1MyAlNOMgJFVzICNFkyAldGagUSA1BSR3IFEgNUUkRAAUgBmAEC",
+ "fetchedAt": "2026-10-11T11:22:38",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 268.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Letiště Václava Havla Praha",
+   "depTime": "06:10",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-15",
+   "durationMin": 520,
+   "layovers": [
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Munich International Airport",
+     "city": "Munich"
+    },
+    {
+     "min": 70,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 268 euros. 3 stops flight with Lufthansa and Wideroe. Leaves Letiště Václava Havla Praha at 6:10 AM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 2:50 PM on Tuesday, December 15. Total duration 8 hr 40 min.  Layover (1 of 3) is a 55 min layover at Munich International Airport in Munich. Layover (2 of 3) is a 1 hr 10 min layover at Frankfurt Airport in Frankfurt am Main. Layover (3 of 3) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+  },
+  {
+   "price": 297.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air Dolomiti, Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Letiště Václava Havla Praha",
+   "depTime": "19:00",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-16",
+   "durationMin": 1190,
+   "layovers": [
+    {
+     "min": 840,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 297 euros. 2 stops flight with Air Dolomiti, Lufthansa and Wideroe. Leaves Letiště Václava Havla Praha at 7:00 PM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 2:50 PM on Wednesday, December 16. Total duration 19 hr 50 min.  Layover (1 of 2) is a 14 hr layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+  },
+  {
+   "price": 544.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Letiště Václava Havla Praha",
+   "depTime": "07:05",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-15",
+   "durationMin": 465,
+   "layovers": [
+    {
+     "min": 115,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 544 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Letiště Václava Havla Praha at 7:05 AM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 2:50 PM on Tuesday, December 15. Total duration 7 hr 45 min.  Layover (1 of 2) is a 1 hr 55 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+  }
+ ]
+}

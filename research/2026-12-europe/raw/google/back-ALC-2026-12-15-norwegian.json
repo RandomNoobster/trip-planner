@@ -1,0 +1,52 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMTUyAkRZMgJEOGoFEgNBTENyBRIDVFJEQAFIAZgBAg",
+ "fetchedAt": "2026-10-11T11:25:19",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 63.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "depTime": "17:30",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "21:50",
+   "arrDate": "2026-12-15",
+   "durationMin": 260,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 63 euros.This price does not include overhead bin access. Nonstop flight with Norwegian. Leaves Alicante-Elche Miguel Hernández Airport at 5:30 PM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 9:50 PM on Tuesday, December 15. Total duration 4 hr 20 min.   Select flight"
+  },
+  {
+   "price": 149.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "depTime": "12:15",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "18:45",
+   "arrDate": "2026-12-15",
+   "durationMin": 390,
+   "layovers": [
+    {
+     "min": 105,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 149 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Alicante-Elche Miguel Hernández Airport at 12:15 PM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 6:45 PM on Tuesday, December 15. Total duration 6 hr 30 min.  Layover (1 of 1) is a 1 hr 45 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

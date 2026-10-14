@@ -1,0 +1,282 @@
+[
+  {
+    "city": "LON",
+    "airports": [
+      {
+        "code": "LHR",
+        "public": {
+          "line": "London Underground (Piccadilly line)",
+          "from": "Heathrow Underground stations (Terminals 2&3; Terminals 4 and 5)",
+          "to": "Central London (zone 1); no station named on the Heathrow page",
+          "minutes": null,
+          "fareEUR": 6.5,
+          "fareText": "GBP 5.50 'prices start from' per heathrow.com; adult and peak/off-peak not stated, so the single fare may be higher",
+          "frequency": "every 10 min (heathrow.com)",
+          "hours": null,
+          "url": "https://www.heathrow.com/transport-and-directions/getting-to-central-london"
+        },
+        "alternatives": [
+          {
+            "line": "Elizabeth line",
+            "to": "Central London (zone 1)",
+            "minutes": null,
+            "fareEUR": 16.4,
+            "fareText": "GBP 13.90 'from Heathrow to central London (zone 1)' per heathrow.com; journey 'under 45 minutes' per the same page",
+            "url": "https://www.heathrow.com/transport-and-directions/getting-to-central-london"
+          },
+          {
+            "line": "Heathrow Express",
+            "to": "London Paddington (change there for the Underground or Elizabeth line)",
+            "minutes": 15,
+            "fareEUR": 11.8,
+            "fareText": "GBP 10.00 'prices start from' if booked in advance per heathrow.com; anytime single not stated",
+            "url": "https://www.heathrow.com/transport-and-directions/getting-to-central-london"
+          }
+        ],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": null,
+          "url": null
+        }
+      },
+      {
+        "code": "LGW",
+        "public": {
+          "line": "Thameslink train (Gatwick Airport to London St Pancras International)",
+          "from": "Gatwick Airport station",
+          "to": "London St Pancras International",
+          "minutes": null,
+          "fareEUR": null,
+          "fareText": null,
+          "frequency": null,
+          "hours": null,
+          "url": "https://en.wikivoyage.org/wiki/London"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": null,
+          "url": null
+        }
+      },
+      {
+        "code": "STN",
+        "public": {
+          "line": null,
+          "from": null,
+          "to": null,
+          "minutes": null,
+          "fareEUR": null,
+          "fareText": null,
+          "frequency": null,
+          "hours": null,
+          "url": null
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": null,
+          "url": null
+        }
+      },
+      {
+        "code": "LTN",
+        "public": {
+          "line": "Shuttle metro train to Luton Airport Parkway, then train to London St Pancras",
+          "from": "Luton Airport (shuttle to Luton Airport Parkway station)",
+          "to": "London St Pancras International",
+          "minutes": null,
+          "fareEUR": null,
+          "fareText": null,
+          "frequency": null,
+          "hours": null,
+          "url": "https://en.wikivoyage.org/wiki/London"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": null,
+          "url": null
+        }
+      },
+      {
+        "code": "LCY",
+        "public": {
+          "line": "Docklands Light Railway (DLR)",
+          "from": "London City Airport (DLR station)",
+          "to": null,
+          "minutes": null,
+          "fareEUR": null,
+          "fareText": null,
+          "frequency": null,
+          "hours": null,
+          "url": "https://en.wikivoyage.org/wiki/London"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": null,
+          "url": null
+        }
+      },
+      {
+        "code": "SEN",
+        "public": {
+          "line": null,
+          "from": "Southend Airport railway station",
+          "to": "Central London (more than an hour by rail, per Wikivoyage)",
+          "minutes": null,
+          "fareEUR": null,
+          "fareText": null,
+          "frequency": null,
+          "hours": null,
+          "url": "https://en.wikivoyage.org/wiki/London"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": null,
+          "url": null
+        }
+      }
+    ]
+  },
+  {
+    "city": "PAR",
+    "airports": [
+      {
+        "code": "CDG",
+        "public": {
+          "line": "RER B (Paris Region Airports ticket)",
+          "from": "Roissy-CDG airport RER B station",
+          "to": "Gare du Nord RER B station (about 25 min per WebSearch summary); Chatelet-Les Halles about 28 min",
+          "minutes": 25,
+          "fareEUR": 14,
+          "fareText": "EUR 14 full adult Paris Region Airports ticket from 1 Jan 2026 (WebSearch summary of IDFM page; page not opened); reduced EUR 7",
+          "frequency": "every 6-15 min (WebSearch summary)",
+          "hours": null,
+          "url": "https://www.iledefrance-mobilites.fr/en/titres-et-tarifs/detail/ticket-paris-region-aeroports"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": 56,
+          "minutes": null,
+          "basis": "Official fixed fare to the Right Bank (EUR 56 per car; Left Bank EUR 65), Paris police prefecture, per WebSearch summary of the ADP CDG taxi page (page not opened); ride 35-60 min depending on traffic",
+          "url": "https://www.parisaeroport.fr/en/passengers/access/paris-charles-de-gaulle/taxi/paris-cdg-taxi"
+        }
+      },
+      {
+        "code": "BVA",
+        "public": {
+          "line": "Beauvais airport shuttle coach from Porte Maillot (commercial coach, not a transit-operator service; operator not named in source)",
+          "from": "Beauvais airport",
+          "to": "Porte Maillot (Pershing car park) or La Villette bus stop, Paris",
+          "minutes": 75,
+          "fareEUR": 16.9,
+          "fareText": "EUR 16.90 adult one-way booked online; EUR 18 at the airport or ticket machine (per WebSearch summary of parisinfo page; page not opened)",
+          "frequency": null,
+          "hours": null,
+          "url": "https://en.parisinfo.com/practical-paris/getting-to-paris/from-paris-beauvais-airport"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": null,
+          "url": null
+        }
+      },
+      {
+        "code": "ORY",
+        "public": {
+          "line": "Metro line 14 (Paris Region Airports ticket)",
+          "from": "Paris-Orly airport metro station",
+          "to": "Chatelet (about 25 min per WebSearch summary)",
+          "minutes": 25,
+          "fareEUR": 14,
+          "fareText": "EUR 14 Paris Region Airports ticket, which covers metro line 14 into Orly (WebSearch summary of IDFM Orly page; page not opened)",
+          "frequency": null,
+          "hours": null,
+          "url": "https://iledefrance-mobilites.fr/en/titres-et-tarifs/detail/tickets-aeroport-orly"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": 44,
+          "minutes": null,
+          "basis": "Official fixed fare from the Right Bank (EUR 44 per car; Left Bank EUR 36) since Feb 2024, per WebSearch summary; the ADP Orly page quotes older EUR 41/35 (page not opened)",
+          "url": "https://www.parisaeroport.fr/en/passengers/access/paris-orly/taxi"
+        }
+      }
+    ]
+  },
+  {
+    "city": "STO",
+    "airports": [
+      {
+        "code": "ARN",
+        "public": {
+          "line": "Flygbussarna airport bus (Arlanda to Stockholm C)",
+          "from": "Arlanda Airport bus stop (Terminal 5; temporary stop at Terminal 2, per WebSearch summary)",
+          "to": "Stockholm C (per WebSearch summary)",
+          "minutes": 40,
+          "fareEUR": 11.6,
+          "fareText": "SEK 129 standard adult one-way per WebSearch summary of the Flygbussarna Arlanda page (page blocked, HTTP 403, not opened); SL commuter train fare not found and may be lower (see alternatives)",
+          "frequency": "up to every 15 min (WebSearch summary)",
+          "hours": null,
+          "url": "https://www.flygbussarna.se/en/arlanda"
+        },
+        "alternatives": [
+          {
+            "line": "SL commuter train (Arlanda C to Stockholm C)",
+            "to": "Stockholm C",
+            "minutes": 38,
+            "fareEUR": null,
+            "fareText": "Fare not found: the SL page fetched showed only its heading; per WebSearch summary the ticket is 'Enkelbiljett SL + Arlanda' (up to 120 min of SL travel plus one Arlanda gate passage)",
+            "url": "https://sl.se/en/fares-and-tickets/visitor-tickets/travel-to-and-from-arlanda-airport"
+          },
+          {
+            "line": "Arlanda Express",
+            "to": "Stockholm Central",
+            "minutes": 18,
+            "fareEUR": 30.4,
+            "fareText": "SEK 340 one-way, fully flexible adult ticket, per WebSearch summary and earlier research; arlandaexpress.com not opened in this pass",
+            "url": "https://www.arlandaexpress.com/tickets/tickets-prices"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 71.6,
+          "minutes": null,
+          "basis": "Swedavia maximum (ceiling) fare, not a fixed price: SEK 800 for 1-4 passengers to one address inside the marked zone (the same page also cites SEK 825); zone not confirmed to cover central Stockholm; no date given",
+          "url": "https://www.swedavia.com/arlanda/taxi/"
+        }
+      },
+      {
+        "code": "NYO",
+        "public": {
+          "line": "Flygbussarna airport bus (Skavsta to Stockholm C)",
+          "from": "Stockholm Skavsta Airport",
+          "to": "Stockholm C (per WebSearch summary)",
+          "minutes": 80,
+          "fareEUR": 20.5,
+          "fareText": "from SEK 229 (Flygbussarna Stockholm to Skavsta, per WebSearch summary of the Skavsta page; page blocked, HTTP 403, not opened); summary says the listing looks several years old",
+          "frequency": null,
+          "hours": null,
+          "url": "https://www.flygbussarna.se/en/skavsta"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": null,
+          "url": null
+        }
+      }
+    ]
+  }
+]

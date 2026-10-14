@@ -1,0 +1,93 @@
+{
+ "outboundFlights": [
+  {
+   "departureStation": "TRD",
+   "arrivalStation": "GDN",
+   "departureDate": "2026-12-20T00:00:00",
+   "price": {
+    "amount": 3369.0,
+    "currencyCode": "NOK",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "originalPrice": {
+    "amount": 3369.0,
+    "currencyCode": "NOK",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "priceType": "price",
+   "departureDates": [
+    "2026-12-20T08:45:00"
+   ],
+   "hasMacFlight": false
+  },
+  {
+   "departureStation": "TRD",
+   "arrivalStation": "GDN",
+   "departureDate": "2026-12-23T00:00:00",
+   "price": {
+    "amount": 2019.0,
+    "currencyCode": "NOK",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "originalPrice": {
+    "amount": 2019.0,
+    "currencyCode": "NOK",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "priceType": "price",
+   "departureDates": [
+    "2026-12-23T08:45:00"
+   ],
+   "hasMacFlight": false
+  },
+  {
+   "departureStation": "TRD",
+   "arrivalStation": "GDN",
+   "departureDate": "2026-12-27T00:00:00",
+   "price": {
+    "amount": 899.0,
+    "currencyCode": "NOK",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "originalPrice": {
+    "amount": 899.0,
+    "currencyCode": "NOK",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "priceType": "price",
+   "departureDates": [
+    "2026-12-27T08:45:00"
+   ],
+   "hasMacFlight": false
+  },
+  {
+   "departureStation": "TRD",
+   "arrivalStation": "GDN",
+   "departureDate": "2026-12-30T00:00:00",
+   "price": {
+    "amount": 359.0,
+    "currencyCode": "NOK",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "originalPrice": {
+    "amount": 359.0,
+    "currencyCode": "NOK",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "priceType": "price",
+   "departureDates": [
+    "2026-12-30T08:45:00"
+   ],
+   "hasMacFlight": false
+  }
+ ],
+ "returnFlights": null
+}

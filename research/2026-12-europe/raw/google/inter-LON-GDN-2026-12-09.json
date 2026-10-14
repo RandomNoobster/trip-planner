@@ -1,0 +1,219 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDTE9OcgUSA0dETkABSAGYAQI",
+ "priceUnavailable": 6,
+ "itineraries": [
+  {
+   "price": 44.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": "Ryanair Sun",
+   "depAirportName": "London Stansted Airport",
+   "depTime": "09:50",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "12:55",
+   "arrDate": "2026-12-09",
+   "durationMin": 125,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 44 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Operated by Ryanair Sun. Leaves London Stansted Airport at 9:50 AM on Wednesday, December 9 and arrives at Gdansk Lech Walesa Airport at 12:55 PM on Wednesday, December 9. Total duration 2 hr 5 min.   Select flight"
+  },
+  {
+   "price": 49.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": null,
+   "depAirportName": "London Stansted Airport",
+   "depTime": "16:35",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "19:40",
+   "arrDate": "2026-12-09",
+   "durationMin": 125,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 49 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Leaves London Stansted Airport at 4:35 PM on Wednesday, December 9 and arrives at Gdansk Lech Walesa Airport at 7:40 PM on Wednesday, December 9. Total duration 2 hr 5 min.   Select flight"
+  },
+  {
+   "price": 61.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Wizz Air",
+   "operatedBy": null,
+   "depAirportName": "London Luton Airport",
+   "depTime": "21:45",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "00:55",
+   "arrDate": "2026-12-10",
+   "durationMin": 130,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 61 euros.This price does not include overhead bin access. Nonstop flight with Wizz Air. Leaves London Luton Airport at 9:45 PM on Wednesday, December 9 and arrives at Gdansk Lech Walesa Airport at 12:55 AM on Thursday, December 10. Total duration 2 hr 10 min.   Select flight"
+  },
+  {
+   "price": 150.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Heathrow Airport",
+   "depTime": "09:30",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "23:40",
+   "arrDate": "2026-12-09",
+   "durationMin": 790,
+   "layovers": [
+    {
+     "min": 605,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 150 euros. 1 stop flight with Lufthansa. Leaves Heathrow Airport at 9:30 AM on Wednesday, December 9 and arrives at Gdansk Lech Walesa Airport at 11:40 PM on Wednesday, December 9. Total duration 13 hr 10 min.  Layover (1 of 1) is a 10 hr 5 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 152.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "Heathrow Airport",
+   "depTime": "18:20",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "00:10",
+   "arrDate": "2026-12-10",
+   "durationMin": 290,
+   "layovers": [
+    {
+     "min": 70,
+     "overnight": false,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 152 euros. 1 stop flight with LOT. Leaves Heathrow Airport at 6:20 PM on Wednesday, December 9 and arrives at Gdansk Lech Walesa Airport at 12:10 AM on Thursday, December 10. Total duration 4 hr 50 min.  Layover (1 of 1) is a 1 hr 10 min layover at Warsaw Chopin Airport in Warsaw. Select flight"
+  },
+  {
+   "price": 164.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Heathrow Airport",
+   "depTime": "18:30",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "23:40",
+   "arrDate": "2026-12-09",
+   "durationMin": 250,
+   "layovers": [
+    {
+     "min": 65,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 164 euros. 1 stop flight with Lufthansa. Leaves Heathrow Airport at 6:30 PM on Wednesday, December 9 and arrives at Gdansk Lech Walesa Airport at 11:40 PM on Wednesday, December 9. Total duration 4 hr 10 min.  Layover (1 of 1) is a 1 hr 5 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 170.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
+   "depAirportName": "Heathrow Airport",
+   "depTime": "17:05",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "22:35",
+   "arrDate": "2026-12-09",
+   "durationMin": 270,
+   "layovers": [
+    {
+     "min": 90,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 170 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Heathrow Airport at 5:05 PM on Wednesday, December 9 and arrives at Gdansk Lech Walesa Airport at 10:35 PM on Wednesday, December 9. Total duration 4 hr 30 min.  Layover (1 of 1) is a 1 hr 30 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 200.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "Heathrow Airport",
+   "depTime": "10:35",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "15:50",
+   "arrDate": "2026-12-09",
+   "durationMin": 255,
+   "layovers": [
+    {
+     "min": 50,
+     "overnight": false,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 200 euros. 1 stop flight with LOT. Leaves Heathrow Airport at 10:35 AM on Wednesday, December 9 and arrives at Gdansk Lech Walesa Airport at 3:50 PM on Wednesday, December 9. Total duration 4 hr 15 min.  Layover (1 of 1) is a 50 min layover at Warsaw Chopin Airport in Warsaw. Select flight"
+  },
+  {
+   "price": 224.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Heathrow Airport",
+   "depTime": "11:45",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "17:35",
+   "arrDate": "2026-12-09",
+   "durationMin": 290,
+   "layovers": [
+    {
+     "min": 110,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 224 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Heathrow Airport at 11:45 AM on Wednesday, December 9 and arrives at Gdansk Lech Walesa Airport at 5:35 PM on Wednesday, December 9. Total duration 4 hr 50 min.  Layover (1 of 1) is a 1 hr 50 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  }
+ ]
+}

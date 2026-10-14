@@ -1,0 +1,214 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA1NWUUABSAGYAQI",
+ "fetchedAt": "2026-10-11T12:25:50",
+ "priceUnavailable": 0,
+ "via": "rpc",
+ "itineraries": [
+  {
+   "price": 163.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM and Transavia",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-09",
+   "arrCode": "SVQ",
+   "arrAirportName": "Seville Airport",
+   "arrTime": "19:25",
+   "arrDate": "2026-12-09",
+   "durationMin": 785,
+   "layovers": [
+    {
+     "min": 470,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1150",
+    "HV6729"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 257.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines, KLM and Transavia",
+   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:40",
+   "depDate": "2026-12-09",
+   "arrCode": "SVQ",
+   "arrAirportName": "Seville Airport",
+   "arrTime": "19:25",
+   "arrDate": "2026-12-09",
+   "durationMin": 525,
+   "layovers": [
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    },
+    {
+     "min": 120,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK351",
+    "KL1200",
+    "HV6729"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 413.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Tap Air Portugal",
+   "operatedBy": "Portugalia - Companhia Portuguesa, Sas Link for Scandinavian Airlines",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:40",
+   "depDate": "2026-12-09",
+   "arrCode": "SVQ",
+   "arrAirportName": "Seville Airport",
+   "arrTime": "23:45",
+   "arrDate": "2026-12-09",
+   "durationMin": 785,
+   "layovers": [
+    {
+     "min": 80,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    },
+    {
+     "min": 320,
+     "overnight": false,
+     "airport": "Humberto Delgado Airport",
+     "city": "Lisbon",
+     "code": "LIS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK351",
+    "TP763",
+    "TP1106"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 463.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Lufthansa",
+   "operatedBy": null,
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-09",
+   "arrCode": "SVQ",
+   "arrAirportName": "Seville Airport",
+   "arrTime": "12:30",
+   "arrDate": "2026-12-10",
+   "durationMin": 1640,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    },
+    {
+     "min": 1115,
+     "overnight": true,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "WF1302",
+    "LH873",
+    "LH1140"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 751.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air Europa",
+   "operatedBy": "Air Europa Express, Sas Link",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:15",
+   "depDate": "2026-12-09",
+   "arrCode": "SVQ",
+   "arrAirportName": "Seville Airport",
+   "arrTime": "20:30",
+   "arrDate": "2026-12-09",
+   "durationMin": 615,
+   "layovers": [
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "code": "CPH",
+     "changeAirport": false
+    },
+    {
+     "min": 190,
+     "overnight": false,
+     "airport": "Adolfo Suárez Madrid-Barajas Airport",
+     "city": "Madrid",
+     "code": "MAD",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK2889",
+    "SK4303",
+    "UX5053"
+   ],
+   "via": "rpc"
+  }
+ ]
+}

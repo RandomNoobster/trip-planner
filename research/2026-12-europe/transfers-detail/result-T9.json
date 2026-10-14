@@ -1,0 +1,310 @@
+[
+  {
+    "city": "MUC",
+    "airports": [
+      {
+        "code": "FMM",
+        "public": {
+          "line": "Flibco shuttle bus, Memmingen airport to Munich",
+          "from": "Memmingen airport, stop directly in front of the terminal",
+          "to": "Munich Hauptbahnhof / ZOB bus stop, directly at the main station",
+          "minutes": 85,
+          "fareEUR": 6.99,
+          "fareText": "from EUR 6.99 per person online ('Ab 6,99 € pro Person'); one-way and adult not stated on the page",
+          "frequency": "15 departures a day (airport page); the Flibco page also says every 30 min",
+          "hours": null,
+          "url": "https://www.flibco.com/de/shuttle/bus-muenchen-flughafen-memmingen"
+        },
+        "alternatives": [
+          {
+            "line": "Allgäu Airport Express (Allgäu-Airport-Express GmbH)",
+            "to": "München Zentrum, Seidlstraße 5, directly at the Hauptbahnhof; several departures a day (airport page)",
+            "minutes": null,
+            "fareEUR": 9.9,
+            "fareText": "from EUR 9.90 ('TICKETS AB 9,90 €'); one-way and adult not stated",
+            "url": "https://www.allgaeu-airport-express.de/"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 364.0,
+          "minutes": 80,
+          "basis": "Pre-booked private car quote (MyTransfers), up to 3 passengers, EUR 364.03; minivan up to 7 EUR 394.35. Not a metered fare. An airmundo guide estimates about EUR 200 for 115 km (1h20).",
+          "url": "https://www.mytransfers.com/en/destination/germany/memmingem-airport-fmm/munich/"
+        }
+      }
+    ]
+  },
+  {
+    "city": "KRK",
+    "airports": [
+      {
+        "code": "KTW",
+        "public": {
+          "line": "Matuszek bus 'Lotnisko Katowice Pyrzowice (KTW) – Kraków Dworzec Autobusowy MDA' (operator timetable)",
+          "from": "Katowice Pyrzowice airport (exact Matuszek stop is on a linked stop map, not read)",
+          "to": "Kraków MDA bus station (Dworzec Autobusowy MDA); about 2 h per third-party listings",
+          "minutes": null,
+          "fareEUR": 20.5,
+          "fareText": "PLN 90 ('Lotnisko Pyrzowice – Kraków 90 zł' on the operator site); cash or card at the airport PLN 10 more each way; adult not labelled. Older guides show PLN 43-55",
+          "frequency": "follows arriving flights (Wizz Air and Ryanair schedules); no frequency on the operator page",
+          "hours": null,
+          "url": "https://www.matuszek.com.pl/"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No taxi fare found in the pages read",
+          "url": null
+        }
+      }
+    ]
+  },
+  {
+    "city": "AMS",
+    "airports": [
+      {
+        "code": "EIN",
+        "public": {
+          "line": "Bus 400/401 (Bravo Direct), about 25 min to Eindhoven Centraal, then NS Intercity to Amsterdam Centraal",
+          "from": "Eindhoven Airport bus stop next to the terminal (P1)",
+          "to": "Amsterdam Centraal (train from Eindhoven Centraal, about 1 h 19 min)",
+          "minutes": null,
+          "fareEUR": 30.8,
+          "fareText": "EUR 5.15 bus single + EUR 25.60 NS Intercity 2nd-class single (2026 prices per amsterdamtips.com); no combined total on the page",
+          "frequency": "bus several times an hour (airport page); train frequency not verified",
+          "hours": null,
+          "url": "https://www.amsterdamtips.com/eindhoven-airport-to-amsterdam"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": 187.5,
+          "minutes": null,
+          "basis": "Private pre-booked transfer, not metered: amsterdamtips.com says it 'will generally cost EUR 150-225' (passenger count not stated; per car assumed). Midpoint used.",
+          "url": "https://www.amsterdamtips.com/eindhoven-airport-to-amsterdam"
+        }
+      }
+    ]
+  },
+  {
+    "city": "VNO",
+    "airports": [
+      {
+        "code": "KUN",
+        "public": {
+          "line": "Ollex airport express (Oro uosto Ekspresas), Kaunas airport to Vilnius",
+          "from": "Kaunas airport (listed as 'Kauno oro uostas'; exact stop not stated)",
+          "to": "Vilnius, Seinų g. stop opposite the McDonald's restaurant (per the Ollex booking page; distance to the centre not stated)",
+          "minutes": null,
+          "fareEUR": null,
+          "fareText": "no fare verified: the Ollex route page links to a fares section whose amounts were not on the page read",
+          "frequency": null,
+          "hours": null,
+          "url": "https://www.ollex.lt/ekspresas/Kauno-oro-uostas/pirkti-bilieta/Kaunas-Vilnius"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No taxi fare found in the pages read",
+          "url": null
+        }
+      }
+    ]
+  },
+  {
+    "city": "CGN",
+    "airports": [
+      {
+        "code": "DUS",
+        "public": {
+          "line": "S11 S-Bahn (Deutsche Bahn), Düsseldorf airport to Köln Hbf",
+          "from": "Düsseldorf Flughafen Terminal station, below the terminal",
+          "to": "Köln Hauptbahnhof (main station); timetable listings show 81-92 min, not on the airport page",
+          "minutes": null,
+          "fareEUR": null,
+          "fareText": "no current fare verified; older guide prices are outdated city-zone fares",
+          "frequency": "about every 20 min per a travel guide (not on the airport page)",
+          "hours": null,
+          "url": "https://www.dus.com/en/to-and-from/bus-and-train"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No taxi fare found in the pages read",
+          "url": null
+        }
+      },
+      {
+        "code": "NRN",
+        "public": {
+          "line": null,
+          "from": "Weeze airport",
+          "to": "No public option to Cologne found on the airport bus page (see alternative)",
+          "minutes": null,
+          "fareEUR": null,
+          "fareText": null,
+          "frequency": null,
+          "hours": null,
+          "url": "https://airport-weeze.com/an-abreise/bus/"
+        },
+        "alternatives": [
+          {
+            "line": "Airport Weeze Shuttle (listed as 'Düsseldorf'; timetable file 'Fahrplan-DUS-2026'; booking at airportweezeshuttle.com)",
+            "to": "Düsseldorf (stop not stated on the airport page); connection to Köln Hbf not verified",
+            "minutes": null,
+            "fareEUR": null,
+            "fareText": "fare and times not on the airport page",
+            "url": "https://airport-weeze.com/an-abreise/bus/"
+          }
+        ],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No taxi fare found in the pages read",
+          "url": null
+        }
+      }
+    ]
+  },
+  {
+    "city": "MAN",
+    "airports": [
+      {
+        "code": "LPL",
+        "public": {
+          "line": "Arriva bus 80A or 86A to Liverpool South Parkway station, then train to Manchester Oxford Road",
+          "from": "Liverpool John Lennon Airport, bus stop outside arrivals",
+          "to": "Manchester Oxford Road station (trains from Liverpool South Parkway, several per hour)",
+          "minutes": null,
+          "fareEUR": null,
+          "fareText": "airport bus GBP 2 per single adult journey (Wikivoyage Liverpool); rail fare and total not verified",
+          "frequency": "bus 80A and 86A every 15 min in the daytime (Wikivoyage Liverpool); trains several per hour (Wikivoyage Manchester)",
+          "hours": null,
+          "url": "https://en.wikivoyage.org/wiki/Manchester"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No taxi fare to Manchester found. Wikivoyage Liverpool's taxi figure (about GBP 20-25, plus GBP 6 airport hail fee) is for Liverpool city centre",
+          "url": null
+        }
+      }
+    ]
+  },
+  {
+    "city": "VCE",
+    "airports": [
+      {
+        "code": "TSF",
+        "public": {
+          "line": "Mobilità di Marca bus 6 to Treviso station (about 10 min), then regional train to Venezia Santa Lucia (about 30 min)",
+          "from": "Treviso Airport bus stop (stop name not on the page)",
+          "to": "Venezia Santa Lucia station (main rail station at the edge of the centre; walk or vaporetto to the centre)",
+          "minutes": null,
+          "fareEUR": 5.3,
+          "fareText": "bus EUR 1.30 (EUR 2.50 on board) + train EUR 3.95 (adult not stated); EUR 5.25 total, rounded",
+          "frequency": "2-3 departures per hour from the airport",
+          "hours": "06:00-22:00",
+          "url": "https://en.wikivoyage.org/wiki/Venice"
+        },
+        "alternatives": [
+          {
+            "line": "ATVO Treviso Airport Bus Express (Linea 351 layout); airport stop moved from 1 July 2026 per an ATVO notice, new stop not confirmed",
+            "to": "Venice Piazzale Roma (ATVO page says 40 min to Venice; Wikivoyage says about 70 min)",
+            "minutes": 40,
+            "fareEUR": 12,
+            "fareText": "EUR 12 one-way, EUR 22 return valid 7 days (Wikivoyage Venice); tickets from the machine in the arrivals hall, ATVO office or online",
+            "url": "https://www.atvo.it/servizi-erogati/servizi-aereoportuali/treviso-airport-bus-express"
+          }
+        ],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No current fare found. One booking-site sample (booked May 2022, page updated 2023) showed about EUR 70 for 2 passengers; not verified, drop-off point not stated",
+          "url": null
+        }
+      }
+    ]
+  },
+  {
+    "city": "LCA",
+    "airports": [
+      {
+        "code": "PFO",
+        "public": {
+          "line": "Kapnos Airport Shuttle (shared airport transfer), Paphos airport to Larnaca airport",
+          "from": "Paphos International Airport (PFO)",
+          "to": "Larnaca International Airport (Omio average journey 1h55m; the shuttle ends at the airport and the leg into Larnaca town is not verified)",
+          "minutes": 115,
+          "fareEUR": 27.1,
+          "fareText": "GBP 23 one-way (Omio sample fare for 8 June, read from a search result; Omio page blocked to WebFetch); Rome2Rio shows an EUR 14-18 estimate; sources disagree",
+          "frequency": "3 direct departures a day at 11:30, 14:30 and 20:30 (Omio listing)",
+          "hours": null,
+          "url": "https://www.omio.co.uk/coaches/paphos/larnaca"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No taxi or private transfer fare found",
+          "url": null
+        }
+      }
+    ]
+  },
+  {
+    "city": "FLR",
+    "airports": [
+      {
+        "code": "PSA",
+        "public": {
+          "line": "PisaMover people mover (about 5 min) from Pisa airport to Pisa Centrale, then Trenitalia regional train to Firenze Santa Maria Novella",
+          "from": "Pisa airport, PisaMover station",
+          "to": "Firenze Santa Maria Novella station (via Pisa Centrale; the train takes about 70-80 min per one guide)",
+          "minutes": null,
+          "fareEUR": 13.4,
+          "fareText": "PisaMover EUR 5 one-way (2025 blog and NTNU page; older guides say EUR 2.70) + Trenitalia regional EUR 8.40 adult one-way (one guide). Not confirmed on official sites",
+          "frequency": null,
+          "hours": null,
+          "url": "https://www.accordsolutions.it/en/blog/articoli/2025/how-to-get-from-pisa-airport-to-the-city-center"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No taxi fare found for Pisa airport (Wikivoyage's EUR 25 flat rate is for Florence's own airport)",
+          "url": null
+        }
+      }
+    ]
+  },
+  {
+    "city": "BCN",
+    "airports": [
+      {
+        "code": "GRO",
+        "public": {
+          "line": "Sagalés bus 604 ('Barcelona Bus'), Girona airport to Barcelona",
+          "from": "Girona airport, bus stop directly next to the terminal (behind the ticket kiosk)",
+          "to": "Barcelona Estació del Nord bus station (no stops in between)",
+          "minutes": 75,
+          "fareEUR": 22,
+          "fareText": "EUR 22, 'currently (2026)' per travelguide.barcelona (one-way not stated); other pages show EUR 19.50 (barcelona.de, undated) and EUR 16 (Wikivoyage)",
+          "frequency": "several departures a day, timed to flight arrivals (exact frequency is in the timetable PDF, not read)",
+          "hours": null,
+          "url": "https://www.travelguide.barcelona/?p=7028"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": 145,
+          "minutes": null,
+          "basis": "Girona airport taxi stand rate to Barcelona quoted by barcelona.de (not an official tariff); higher at night and at weekends, extra for luggage",
+          "url": "https://barcelona.de/en/barcelona-arrival-airport-girona.html"
+        }
+      }
+    ]
+  }
+]

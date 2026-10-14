@@ -1,0 +1,33 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDUk9NcgUSA1RSREABSAGYAQI",
+ "fetchedAt": "2026-10-11T11:26:20",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 159.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Leonardo da Vinci International Airport",
+   "depTime": "13:25",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "18:45",
+   "arrDate": "2026-12-17",
+   "durationMin": 320,
+   "layovers": [
+    {
+     "min": 75,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 159 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Leonardo da Vinci International Airport at 1:25 PM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 6:45 PM on Thursday, December 17. Total duration 5 hr 20 min.  Layover (1 of 1) is a 1 hr 15 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

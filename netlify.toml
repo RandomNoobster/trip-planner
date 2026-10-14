@@ -1,0 +1,23 @@
+# Netlify builds the app from app/ on every push to main. `npm run build` first copies the composed research sets and the
+# shared city facts from research/ into app/public/research (app/scripts/sync-research.mjs), then type-checks and bundles
+# into app/dist.
+[build]
+  base = "app"
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  # the sync script imports the app's TypeScript schema directly, which needs Node's built-in type stripping
+  NODE_VERSION = "24"
+
+# Client-side routes (/trip/..., /deals, /research) all load index.html.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Research sets change when new research is composed; let browsers revalidate them.
+[[headers]]
+  for = "/research/*"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"

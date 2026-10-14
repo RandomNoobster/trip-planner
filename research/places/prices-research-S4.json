@@ -1,0 +1,131 @@
+{
+  "agent": "S4",
+  "topic": "bar beer per 0.5 l in Spain and Portugal",
+  "cities": {
+    "MAD": {
+      "beerBar": {
+        "eur": 5.0,
+        "measuredLitres": 0.5,
+        "measuredEUR": 5.0,
+        "scaled": false,
+        "note": "Half-litre jarras and pintas cost €3.90-5.50 on 2025-26 menus of ordinary Madrid bars, mostly €4.70-5.50 (€5.00 for a 0.5 l jarra at Taberna Malaspina, €5.20 at Cervecería Cervantes, €5.50 at La Casa del Abuelo), against €1.80-3.00 for a caña (about 0.2 l in Madrid); budget chains such as Cañas y Tapas charge about €3.50. Source: Cañómetro, a community database of bar menus, read in October 2026.",
+        "url": "https://xn--caometro-e3a.es/bar/taberna-malaspina-madrid"
+      }
+    },
+    "BCN": {
+      "beerBar": {
+        "eur": 5.05,
+        "measuredLitres": 0.5,
+        "measuredEUR": 5.05,
+        "scaled": false,
+        "note": "Jarras and pintas of about 0.5 l cost €4.20-6.00 on 2024-26 menus of ordinary Barcelona bars, mostly €4.90-5.50 (€4.20 for a pinta at Foxy Bar, €4.90 at Perikete, €5.00 for a big glass at La Sagrada Cerveseria, €5.20 for a 50 cl glass at the Moritz bar in Eixample), against €2.50-3.50 for a 25-33 cl caña; tourist-strip bars such as El Nacional ask €6.70. Source: Cañómetro, a community database of bar menus, read in October 2026.",
+        "url": "https://xn--caometro-e3a.es/bar/casa-moritz-barcelona"
+      }
+    },
+    "VLC": {
+      "beerBar": {
+        "eur": 4.85,
+        "measuredLitres": 0.5,
+        "measuredEUR": 4.85,
+        "scaled": false,
+        "note": "Half-litre beers cost €3.80-5.75 on 2025-26 menus of ordinary Valencia bars (€5.50 for a 0.5 l tanque at Taberna Española, €5.50 for an Amstel jarra at Los Gómez, only €3.80 for a 0.5 l draught at Las Meninas), against about €2.20 for a 0.2 l caña, so €4.85 is the middle of the spread. Source: Cañómetro, a community database of bar menus, read in October 2026.",
+        "url": "https://xn--caometro-e3a.es/bar/taberna-espanola-valencia"
+      }
+    },
+    "SVQ": {
+      "beerBar": {
+        "eur": 3.9,
+        "measuredLitres": 0.5,
+        "measuredEUR": 3.9,
+        "scaled": false,
+        "note": "Cervecería Giralda, a classic bar next to the cathedral, lists a 1/2 l beer at €3.90 on its current menu (a small beer is €2.10), and a caña costs about €2.00 elsewhere in Seville (press report, August 2025). Almost no other Seville menu shows a half-litre price, so the figure is cross-checked against Málaga, the nearest comparable city, where ordinary bars charge €3.70-4.00.",
+        "url": "https://cerveceriagiralda.es/menu/carta-qr/"
+      }
+    },
+    "AGP": {
+      "beerBar": {
+        "eur": 3.9,
+        "measuredLitres": 0.5,
+        "measuredEUR": 3.9,
+        "scaled": false,
+        "note": "Pintas and jarras (about 0.5 l) cost €2.80-4.50 on 2025-26 menus of ordinary Málaga bars, mostly €3.70-4.00 (€3.70 at Taberna La Pechá, €3.90 at La Tribuna, €4.00 at Taberna Varo and Illari), against about €2.00 for a caña; tourist-oriented bars such as Picasso ask €5.50. Source: Cañómetro, a community database of bar menus, read in October 2026.",
+        "url": "https://xn--caometro-e3a.es/ciudad/malaga"
+      }
+    },
+    "ALC": {
+      "beerBar": {
+        "eur": 4.0,
+        "measuredLitres": 0.5,
+        "measuredEUR": 4.0,
+        "scaled": false,
+        "note": "A 0.5 l pinta or jarra costs €3.00-5.00 on 2024-26 menus of Alicante bars, most often €3.50-4.50 (€3.50 for a labelled 0.5 l pinta at T en T Tapas en Tablas, €3.80 for a jarra at Lizarran, €4.50 for jarras at El Garaje Bar and for a 50 cl pinta at La Guapa Vermutería), against €1.50-2.50 for a caña. Source: Cañómetro, a community database of bar menus, read in October 2026.",
+        "url": "https://xn--caometro-e3a.es/ciudad/alicante-alacant"
+      }
+    },
+    "PMI": {
+      "beerBar": {
+        "eur": 5.4,
+        "measuredLitres": 0.5,
+        "measuredEUR": 5.4,
+        "scaled": false,
+        "note": "A 0.5 l beer costs about €5.00-6.50 in Palma on 2023-26 menus (€5.40 for a 0.50 l jarra at Bar Cristal on Plaça d'Espanya in November 2023, €5.00 for a 50 cl Estrella Galicia at Toutatis in November 2025, €6.50 for a jarra at a restaurant in February 2026), against €2.20-3.50 for a caña. Source: Cañómetro, a community database of bar menus, read in October 2026.",
+        "url": "https://xn--caometro-e3a.es/bar/bar-cristal-palma"
+      }
+    },
+    "LPA": {
+      "beerBar": {
+        "eur": 4.0,
+        "measuredLitres": 0.5,
+        "measuredEUR": 4.0,
+        "scaled": false,
+        "note": "A jarra, nominally 0.5 l, costs €3.80-4.20 on 2025-26 menus in Gran Canaria (€4.20 at Bar El Campesino on Las Canteras beach, €3.80 at Bar Olga Corinto in Playa del Inglés), against about €2.00-2.60 for a caña. Only a few Las Palmas menus could be found, so allow about €0.50 either way.",
+        "url": "https://campesinolascanteras.com/menu"
+      }
+    },
+    "TCI": {
+      "beerBar": {
+        "eur": 4.25,
+        "measuredLitres": 0.4,
+        "measuredEUR": 3.4,
+        "scaled": true,
+        "note": "Jarras in south Tenerife are often only 40 cl and cost €3.20-4.00 on 2024-26 menus (€4.00 at Agua Café in El Médano, March 2026; €3.20 on Mestizo's 2024 list in Los Cristianos; €3.40-3.50 for unlabelled jarras in La Orotava and Los Cristianos), so a typical €3.40 jarra was treated as 0.4 l and multiplied by 1.25 to €4.25 for 0.5 l. No Santa Cruz menu with a half-litre price turned up and Santa Cruz is probably a little cheaper than the resorts.",
+        "url": "https://xn--caometro-e3a.es/bar/agua-cafe-tapas-music-bar-granadilla-de-abona"
+      }
+    },
+    "FUE": {
+      "beerBar": {
+        "eur": 3.95,
+        "measuredLitres": 0.5,
+        "measuredEUR": 3.95,
+        "scaled": false,
+        "note": "Jarras cost €3.80-4.00 on 2025-26 menus in Fuerteventura (€3.98 at Restaurante Casabel in February 2026, €3.80 at Tramontana in Puerto del Rosario in January 2025, €4.00 for an Estrella Galicia jarra at Niodra in December 2025), against €2.30-2.98 for a caña. The jarra volume is not printed (nominally 0.4-0.5 l), and Corralejo guides say some bars sell a large beer for about €2-3, so cheaper bars exist.",
+        "url": "https://xn--caometro-e3a.es/bar/restaurante-casabel-puerto-del-rosario"
+      }
+    },
+    "BIO": {
+      "beerBar": {
+        "eur": 4.3,
+        "measuredLitres": 0.5,
+        "measuredEUR": 4.3,
+        "scaled": false,
+        "note": "A jarra costs €4.00-4.50 in ordinary Bilbao bars (€4.20 at Kapikua in the Casco Viejo in October 2025, €4.00 at Mahatserri, €4.00-4.50 on a 2022 menu at Zuga, nudged up for price rises), against €2.00-2.80 for a caña, and a pub asks about €5.00. Menus do not print the jarra volume, which is nominally about 0.5 l.",
+        "url": "https://xn--caometro-e3a.es/bar/kapikua-casco-viejo-bilbao"
+      }
+    },
+    "FAO": {
+      "beerBar": {
+        "eur": 3.5,
+        "measuredLitres": 0.5,
+        "measuredEUR": 3.5,
+        "scaled": false,
+        "note": "A 0.5 l caneca costs €3.50 at a popular sports bar in Faro and €4.50 at waterfront and harbour bars, while locals' bars are cheaper (an imperial of 0.2 l is €1.00 there against €1.50-2.50 elsewhere), per a Portugal beer guide updated January 2025; a June 2026 guide gives €2.50-3.50 for a city-centre caneca and €3.00-5.00 in tourist areas.",
+        "url": "https://wetravelportugal.com/portuguese-beer/"
+      }
+    }
+  },
+  "checked": {
+    "LIS": "Current €3.00 fits: a 0.5 l caneca costs €2.50-3.50 in city-centre bars and €3.00-5.00 in tourist spots (Portugal Travel Tips guide, June 2026), while a small imperial (a 20-30 cl pour) is €1.50-3.00 in Bairro Alto (nightlife guide, July 2026), so multiplying an imperial by 2.5 would overstate the half-litre price.",
+    "OPO": "Current €3.00 sits inside the evidence, toward the upper end, so no change: the Tasca da Cordoaria menu (Restaurant Guru, about 2025) lists a Super Bock fino at €2.20 and a caneca at €3.70, a city-centre caneca is €2.50-3.50 and a tasca caneca €2.00-2.50 (Portugal Travel Tips, June 2026), and a May 2025 article quotes about €1.92 for a 50 cl pint outside tourist areas (unsourced). Canecas are rare in neighbourhood bars, where a fino at €1.00-1.50 is the usual order.",
+    "FNC": "Left at €2.50, low confidence: the only recent sources are a 2026 budget guide (0.33 l Coral about €2.50) and traveller reports of €2.00-2.50 for a 0.5 l caneca of Coral (undated forum posts), with €3.80-4.50 quoted for hotel and promenade bars, so an ordinary-bar price could be up to about €3.00. No 2025-26 menu with a half-litre price was found."
+  }
+}

@@ -1,0 +1,233 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTFqBRIDRFVCcgUSA0NQSEABSAGYAQI",
+ "priceUnavailable": 12,
+ "itineraries": [
+  {
+   "price": 59.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": null,
+   "depAirportName": "Dublin Airport",
+   "depTime": "17:25",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "20:35",
+   "arrDate": "2026-12-11",
+   "durationMin": 130,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 59 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Leaves Dublin Airport at 5:25 PM on Friday, December 11 and arrives at Copenhagen Airport at 8:35 PM on Friday, December 11. Total duration 2 hr 10 min.   Select flight"
+  },
+  {
+   "price": 76.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Dublin Airport",
+   "depTime": "13:25",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "18:15",
+   "arrDate": "2026-12-11",
+   "durationMin": 230,
+   "layovers": [
+    {
+     "min": 45,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 76 euros. 1 stop flight with KLM. Leaves Dublin Airport at 1:25 PM on Friday, December 11 and arrives at Copenhagen Airport at 6:15 PM on Friday, December 11. Total duration 3 hr 50 min.  Layover (1 of 1) is a 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 121.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "British Airways",
+   "operatedBy": null,
+   "depAirportName": "Dublin Airport",
+   "depTime": "13:35",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "19:05",
+   "arrDate": "2026-12-11",
+   "durationMin": 270,
+   "layovers": [
+    {
+     "min": 60,
+     "overnight": false,
+     "airport": "Heathrow Airport",
+     "city": "London"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 121 euros. 1 stop flight with British Airways. Leaves Dublin Airport at 1:35 PM on Friday, December 11 and arrives at Copenhagen Airport at 7:05 PM on Friday, December 11. Total duration 4 hr 30 min.  Layover (1 of 1) is a 1 hr layover at Heathrow Airport in London. Select flight"
+  },
+  {
+   "price": 89.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Dublin Airport",
+   "depTime": "08:50",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "13:40",
+   "arrDate": "2026-12-11",
+   "durationMin": 230,
+   "layovers": [
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 89 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Dublin Airport at 8:50 AM on Friday, December 11 and arrives at Copenhagen Airport at 1:40 PM on Friday, December 11. Total duration 3 hr 50 min.  Layover (1 of 1) is a 55 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 110.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Air France",
+   "operatedBy": null,
+   "depAirportName": "Dublin Airport",
+   "depTime": "15:25",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "09:10",
+   "arrDate": "2026-12-12",
+   "durationMin": 1005,
+   "layovers": [
+    {
+     "min": 780,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 110 euros. 1 stop flight with Air France. Leaves Dublin Airport at 3:25 PM on Friday, December 11 and arrives at Copenhagen Airport at 9:10 AM on Saturday, December 12. Total duration 16 hr 45 min.  Layover (1 of 1) is a 13 hr layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+  },
+  {
+   "price": 114.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Dublin Airport",
+   "depTime": "05:45",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "11:10",
+   "arrDate": "2026-12-11",
+   "durationMin": 265,
+   "layovers": [
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 114 euros.This price does not include overhead bin access. 1 stop flight with KLM. Leaves Dublin Airport at 5:45 AM on Friday, December 11 and arrives at Copenhagen Airport at 11:10 AM on Friday, December 11. Total duration 4 hr 25 min.  Layover (1 of 1) is a 1 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 170.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Eurowings",
+   "operatedBy": "Eurowings Europe",
+   "depAirportName": "Dublin Airport",
+   "depTime": "14:25",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "20:15",
+   "arrDate": "2026-12-11",
+   "durationMin": 290,
+   "layovers": [
+    {
+     "min": 105,
+     "overnight": false,
+     "airport": "Duesseldorf Airport",
+     "city": "Düsseldorf"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 170 euros.This price does not include overhead bin access. 1 stop flight with Eurowings. Operated by Eurowings Europe. Leaves Dublin Airport at 2:25 PM on Friday, December 11 and arrives at Copenhagen Airport at 8:15 PM on Friday, December 11. Total duration 4 hr 50 min.  Layover (1 of 1) is a 1 hr 45 min layover at Duesseldorf Airport in Düsseldorf. Select flight"
+  },
+  {
+   "price": 176.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "British Airways",
+   "operatedBy": null,
+   "depAirportName": "Dublin Airport",
+   "depTime": "08:50",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "14:35",
+   "arrDate": "2026-12-11",
+   "durationMin": 285,
+   "layovers": [
+    {
+     "min": 75,
+     "overnight": false,
+     "airport": "Heathrow Airport",
+     "city": "London"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 176 euros. 1 stop flight with British Airways. Leaves Dublin Airport at 8:50 AM on Friday, December 11 and arrives at Copenhagen Airport at 2:35 PM on Friday, December 11. Total duration 4 hr 45 min.  Layover (1 of 1) is a 1 hr 15 min layover at Heathrow Airport in London. Select flight"
+  },
+  {
+   "price": 176.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "British Airways",
+   "operatedBy": null,
+   "depAirportName": "Dublin Airport",
+   "depTime": "10:50",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "17:20",
+   "arrDate": "2026-12-11",
+   "durationMin": 330,
+   "layovers": [
+    {
+     "min": 120,
+     "overnight": false,
+     "airport": "Heathrow Airport",
+     "city": "London"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 176 euros. 1 stop flight with British Airways. Leaves Dublin Airport at 10:50 AM on Friday, December 11 and arrives at Copenhagen Airport at 5:20 PM on Friday, December 11. Total duration 5 hr 30 min.  Layover (1 of 1) is a 2 hr layover at Heathrow Airport in London. Select flight"
+  }
+ ]
+}

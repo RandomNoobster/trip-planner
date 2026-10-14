@@ -1,0 +1,298 @@
+[
+ {
+  "city": "MUC",
+  "name": "Munich",
+  "country": "Germany",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Munich",
+  "airports": [
+   {
+    "code": "FMM",
+    "name": "Memmingen Airport (Allgäu)",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": "north-2.json"
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "KRK",
+  "name": "Kraków",
+  "country": "Poland",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Krak%C3%B3w",
+  "airports": [
+   {
+    "code": "KTW",
+    "name": "Katowice Airport (Pyrzowice)",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": "north-2.json"
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "AMS",
+  "name": "Amsterdam",
+  "country": "Netherlands",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Amsterdam",
+  "airports": [
+   {
+    "code": "EIN",
+    "name": "Eindhoven Airport",
+    "known": {
+     "public": {
+      "mode": "train",
+      "to": "Amsterdam Centraal (airport bus 400/401 to Eindhoven Centraal, then direct NS train)",
+      "minutes": 120,
+      "fareEUR": null,
+      "frequency": "several direct NS trains per hour; airport buses several per hour",
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": 175,
+      "minutes": 90,
+      "basis": "midpoint of EUR 150-200 pre-booked private transfer quote (not a metered taxi) per airporttransferportal.com; drive about 1.5 h",
+      "capacity": 4
+     },
+     "from": "central-west.json"
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "VNO",
+  "name": "Vilnius",
+  "country": "Lithuania",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Vilnius",
+  "airports": [
+   {
+    "code": "KUN",
+    "name": "Kaunas Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": "north-2.json"
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "CGN",
+  "name": "Cologne",
+  "country": "Germany",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Cologne",
+  "airports": [
+   {
+    "code": "DUS",
+    "name": "Düsseldorf Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": "north-2.json"
+    }
+   },
+   {
+    "code": "NRN",
+    "name": "Weeze Airport (Niederrhein)",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": "north-2.json"
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "MAN",
+  "name": "Manchester",
+  "country": "United Kingdom",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Manchester",
+  "airports": [
+   {
+    "code": "LPL",
+    "name": "Liverpool John Lennon Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     },
+     "from": "central-west.json"
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "VCE",
+  "name": "Venice",
+  "country": "Italy",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Venice",
+  "airports": [
+   {
+    "code": "TSF",
+    "name": "Treviso Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Venice (ATVO Treviso Airport express bus; stop not verified)",
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": "not found",
+      "capacity": 4
+     },
+     "from": "south-west.json"
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "LCA",
+  "name": "Larnaca",
+  "country": "Cyprus",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Larnaca",
+  "airports": [
+   {
+    "code": "PFO",
+    "name": "Paphos International Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     },
+     "from": "south-east.json"
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "FLR",
+  "name": "Florence",
+  "country": "Italy",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Florence",
+  "airports": [
+   {
+    "code": "PSA",
+    "name": "Pisa International Airport",
+    "known": {
+     "public": {
+      "mode": "train",
+      "to": "Firenze Santa Maria Novella (via Pisa Centrale; People Mover from the airport)",
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": "about every 15 min (train leg, rome2rio)",
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": 62,
+      "basis": "rome2rio drive estimate for about 80 km (aggregator, not an official tariff); no EUR fare found",
+      "capacity": 4
+     },
+     "from": "south-west.json"
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "BCN",
+  "name": "Barcelona",
+  "country": "Spain",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Barcelona",
+  "airports": [
+   {
+    "code": "GRO",
+    "name": "Girona-Costa Brava Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     },
+     "from": "central-west.json"
+    }
+   }
+  ],
+  "groundArrivals": []
+ }
+]

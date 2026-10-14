@@ -1,0 +1,518 @@
+[
+  {
+    "city": "GOT",
+    "airports": [
+      {
+        "code": "GOT",
+        "public": {
+          "line": "Flygbussarna airport bus (Vy Flygbussarna)",
+          "from": "Bus stop 1, Landvetter Airport",
+          "to": "Göteborg C (Nils Ericson Terminalen), beside Göteborg Central station",
+          "minutes": 20,
+          "fareEUR": 10.7,
+          "fareText": "SEK 119 one-way adult per the aifly.one Gothenburg airport guide, May 2026 (https://aifly.one/2026/05/gothenburg-landvetter-airport-guide/); two undated pages say SEK 95; the operator's own price list was not reached",
+          "frequency": "about every 15 min (cestujlevne.com, third-party)",
+          "hours": null,
+          "url": "https://www.swedavia.com/landvetter/bus/"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": 64.9,
+          "minutes": null,
+          "basis": "Official fixed MAXIMUM, not a typical fare: SEK 725 for 1-4 passengers to one address inside Swedavia's marked zone (SEK 1,045 for 5-8 passengers); the meter applies outside the zone; whether the city centre is inside the zone is not confirmed",
+          "url": "https://www.swedavia.com/landvetter/taxi2/"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Nils Ericson Terminalen (Göteborg C bus terminal)",
+        "serves": "long-distance buses (FlixBus route 691) and the Vy Flygbussarna airport bus",
+        "toCentre": "Directly connected to Göteborg C railway station; the city centre is within walking distance (time not sourced)",
+        "line": null,
+        "minutes": null,
+        "fareEUR": 0,
+        "url": "https://www.swedavia.com/landvetter/bus/"
+      }
+    ]
+  },
+  {
+    "city": "KRK",
+    "airports": [
+      {
+        "code": "KRK",
+        "public": {
+          "line": "MPK Kraków bus 208 (night line 902 also serves the airport)",
+          "from": "Kraków Airport (Balice) bus stop",
+          "to": "Forecourt between Kraków Główny railway station and the bus station, outside Galeria Krakowska (city centre)",
+          "minutes": null,
+          "fareEUR": 1.4,
+          "fareText": "PLN 6.00 for a single ride, day or night (Wikivoyage); an agglomeration ticket for zones I+II is required; the airport's own fare table lists PLN 6 under 'Single trip / Multiple trips - 30 minutes', so check the ticket's validity period",
+          "frequency": null,
+          "hours": null,
+          "url": "https://en.wikivoyage.org/wiki/Krak%C3%B3w"
+        },
+        "alternatives": [
+          {
+            "line": "Airport train from Kraków Lotnisko (regional rail; line number not given on the page read)",
+            "to": "Kraków Główny (main railway station)",
+            "minutes": 20,
+            "fareEUR": 4.6,
+            "fareText": "PLN 20 single, PLN 40 return (Wikivoyage, Jan 2025); other listings give PLN 17-20",
+            "url": "https://en.wikivoyage.org/wiki/Krak%C3%B3w"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 20.5,
+          "minutes": null,
+          "basis": "Estimate, not a verified tariff: Wikivoyage says the airport taxi uses a fixed per-distance fare posted on the airport website and suggests about PLN 90 to the centre (converted at PLN 4.3835); Uber and Bolt about PLN 25-35",
+          "url": "https://en.wikivoyage.org/wiki/Krak%C3%B3w"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Kraków central bus station (MDA), east side of Kraków Główny",
+        "serves": "long-distance and regional buses (operators not listed on the page read)",
+        "toCentre": "Next to the railway station; walk to the Main Square (time not sourced)",
+        "line": null,
+        "minutes": null,
+        "fareEUR": 0,
+        "url": "https://en.wikivoyage.org/wiki/Krak%C3%B3w"
+      }
+    ]
+  },
+  {
+    "city": "MUC",
+    "airports": [
+      {
+        "code": "MUC",
+        "public": {
+          "line": "S-Bahn S1 (MVV; the S8 also serves the airport)",
+          "from": "Munich Airport Center S-Bahn station (airport terminals)",
+          "to": "München Hauptbahnhof (main station); about 45 min on the S1 per a third-party guide",
+          "minutes": 45,
+          "fareEUR": null,
+          "fareText": "Official MVV airport fare not found on the pages read (the MVV page shows only a generic 'ab 4,20 €' single); third-party 2026 guides give about EUR 15-15.50; an older guide gives EUR 13.60",
+          "frequency": "S1 and S8 together about every 10 min (third-party guide)",
+          "hours": null,
+          "url": "https://www.munich-airport.com/transport-directions-260334"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No taxi fare found on the pages read; the airport taxi page was not opened",
+          "url": "https://www.munich-airport.com/transport-directions-260334"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "München Hauptbahnhof (main station: trains and S-Bahn)",
+        "serves": "trains (Deutsche Bahn and regional) and the S-Bahn",
+        "toCentre": "The main station is in the city centre; walk or S-Bahn time not sourced",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": null
+      },
+      {
+        "name": "Munich central bus station (ZOB)",
+        "serves": "long-distance buses (the airport page lists FlixBus among the services; the bus route to the centre was not sourced)",
+        "toCentre": "Not sourced on the pages read",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "city": "PRG",
+    "airports": [
+      {
+        "code": "PRG",
+        "public": {
+          "line": "Trolleybus 59 (DPP) to Nádraží Veleslavín, then metro line A",
+          "from": "Airport Terminals 1 and 2 bus stops (trolleybus 59)",
+          "to": "Staroměstská metro station (Old Town), changing to metro A at Nádraží Veleslavín; the whole trip is about 35-45 min by third-party estimates",
+          "minutes": 40,
+          "fareEUR": 1.9,
+          "fareText": "CZK 46 for a 90-minute ticket in the PID Lítačka app (CZK 50 on paper); full adult fare for ages 15-60; valid on trolleybus and metro (pid.cz/en/tickets-and-fare/)",
+          "frequency": "regular few-minute intervals (prg.aero); about every 10 min at night (third-party, 2024)",
+          "hours": "about 04:00-24:00 (third-party); night buses 907 and 910 cover the gap",
+          "url": "https://www.prg.aero/en/public-transport-buses-to-airport"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No official fixed fare found on the prg.aero pages read (taxi listed as Uber booking only); the input's metered estimate of CZK 500-650 was not verified",
+          "url": "https://www.prg.aero/en/"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Praha hlavní nádraží (main railway station) and Praha Florenc (long-distance bus station)",
+        "serves": "trains and long-distance buses",
+        "toCentre": "Both are in central Prague, reached on foot or by metro (times not sourced)",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": null
+      }
+    ]
+  },
+  {
+    "city": "LON",
+    "airports": [],
+    "stations": [
+      {
+        "name": "London Victoria Coach Station",
+        "serves": "most coach services: National Express and Megabus (domestic); Eurolines, FlixBus, BlaBlaCar Bus, Sindbad and Transmarian (international)",
+        "toCentre": "In Westminster, next to Victoria rail and Tube station. Tube single, Zone 1 pay as you go: EUR 3.5 at the off-peak price of GBP 3.00 (GBP 3.10 at peak, about EUR 3.7), from 1 March 2026, per search results; the TfL newsroom page confirms the March 2026 change and the 20p cap but not the exact pound figures",
+        "line": "Tube from Victoria station (Zone 1)",
+        "minutes": null,
+        "fareEUR": 3.5,
+        "url": "https://en.wikivoyage.org/wiki/London"
+      }
+    ]
+  },
+  {
+    "city": "LYS",
+    "airports": [
+      {
+        "code": "LYS",
+        "public": {
+          "line": "TCL bus C200 from the airport bus station, then metro line A",
+          "from": "Aéroport Lyon Saint-Exupéry Gare Routière (airport bus station)",
+          "to": "Vaulx-en-Velin La Soie (eastern end of metro line A), then metro A toward the centre",
+          "minutes": null,
+          "fareEUR": 2.1,
+          "fareText": "EUR 2.10 per person for the bus and connection (Wikivoyage: 'a grand total of €2.10 per person' for bus 47 or C200); the airport's own page lists C200 and 248 but gives no fare ('un tarif abordable')",
+          "frequency": "not stated for C200; bus 47 is half-hourly (Wikivoyage)",
+          "hours": "bus 47: 06:30-22:00 (Wikivoyage); C200 not stated",
+          "url": "https://www.lyonaeroports.com/transport-aeroport-lyon-centre-ville"
+        },
+        "alternatives": [
+          {
+            "line": "Rhônexpress tram-train",
+            "to": "Lyon Part-Dieu station",
+            "minutes": 30,
+            "fareEUR": 17.1,
+            "fareText": "EUR 17.10 single adult; EUR 10.50 for ages 12-25 (Wikivoyage; the fare is not on the official page read)",
+            "url": "https://www.lyonaeroports.com/transport-aeroport-lyon-centre-ville"
+          }
+        ],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No official fare on the page read; Wikivoyage gives an estimate of about EUR 40-50 depending on destination (not a fixed tariff)",
+          "url": "https://www.lyonaeroports.com/transport-aeroport-lyon-centre-ville"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Lyon Perrache coach terminal (FlixBus, BlaBlaCar Bus)",
+        "serves": "long-distance buses (FlixBus, BlaBlaCar Bus)",
+        "toCentre": "Beside Lyon Perrache railway station at the south end of the city centre; metro or walk time not sourced",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.visiterlyon.com/stay/access-come-and-move-in-lyon/travelling-to-lyon-by-bus"
+      }
+    ]
+  },
+  {
+    "city": "AGP",
+    "airports": [
+      {
+        "code": "AGP",
+        "public": {
+          "line": "Renfe Cercanías C1 train (airport station to Málaga Centro Alameda)",
+          "from": "Málaga Airport railway station (Cercanías C1)",
+          "to": "Málaga Centro Alameda station (city centre), via María Zambrano station (about 8 min to María Zambrano per Wikivoyage)",
+          "minutes": null,
+          "fareEUR": 1.8,
+          "fareText": "EUR 1.80 single for zones 1-2 (redtransporte.com 2026 table, which lists EUR 2.05 for 3 zones; Wikivoyage Dec 2024 also EUR 1.80); the zone band for the airport leg is not confirmed and a July 2026 fare change may not be reflected",
+          "frequency": "every 20-40 min (Wikivoyage)",
+          "hours": "about 07:00-01:00 (Wikivoyage)",
+          "url": "https://en.wikivoyage.org/wiki/M%C3%A1laga"
+        },
+        "alternatives": [
+          {
+            "line": "EMT Line A express bus",
+            "to": "Paseo del Parque and Alameda Principal (city centre stops); every 20-25 min (Wikivoyage)",
+            "minutes": null,
+            "fareEUR": 4.0,
+            "fareText": "EUR 4.00 flat (redtransporte.com 2026 table: 'Billete ordinario Aeropuerto 4,00 €'; Wikivoyage: EUR 4, Oct 2024)",
+            "url": "https://en.wikivoyage.org/wiki/M%C3%A1laga"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 20.0,
+          "minutes": null,
+          "basis": "Estimate: Wikivoyage says a taxi to the city centre costs about EUR 20; not an official fixed fare",
+          "url": "https://en.wikivoyage.org/wiki/M%C3%A1laga"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Málaga main bus station (across from María Zambrano station, Paseo de los Tilos)",
+        "serves": "intercity buses from across Spain (operators not named on the page read)",
+        "toCentre": "About a km west of the centre (Wikivoyage); Metro Line 1 from El Perchel (María Zambrano) station toward the centre; EUR 1.35 per trip with an unregistered contactless card (Wikivoyage)",
+        "line": "Málaga Metro Line 1 from El Perchel (María Zambrano) station",
+        "minutes": null,
+        "fareEUR": 1.35,
+        "url": "https://en.wikivoyage.org/wiki/M%C3%A1laga"
+      }
+    ]
+  },
+  {
+    "city": "OPO",
+    "airports": [
+      {
+        "code": "OPO",
+        "public": {
+          "line": "Metro do Porto line E (Violeta) from the airport to Trindade, then change for São Bento",
+          "from": "Aeroporto metro station (airport)",
+          "to": "São Bento station (city centre), changing at Trindade; about 25-30 min to Trindade plus about 4 min more (third-party estimates)",
+          "minutes": null,
+          "fareEUR": 2.3,
+          "fareText": "Z4 single EUR 2.30 on the Andante Azul card, tariff in force from 1 Jan 2026 (metrodoporto.pt/pages/287); the card costs EUR 0.60 once; maximum travel time 1h15 after validation; Z4 covers the airport (Wikivoyage)",
+          "frequency": "roughly every 15-30 min (Wikivoyage)",
+          "hours": "about 06:00-01:00 daily (Wikivoyage)",
+          "url": "https://www.metrodoporto.pt/pages/287"
+        },
+        "alternatives": [
+          {
+            "line": "STCP night bus 3M (Av. Aliados - Airport)",
+            "to": "Avenida dos Aliados (city centre)",
+            "minutes": null,
+            "fareEUR": null,
+            "fareText": "fare not stated on the page read (check STCP); runs every 60 min, 01:00-05:00 (Wikivoyage)",
+            "url": "https://en.wikivoyage.org/wiki/Porto"
+          }
+        ],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No traditional taxi fare found; Wikivoyage gives Uber and Bolt at about EUR 10-25 to the centre (March 2025), a ride-hailing estimate",
+          "url": "https://en.wikivoyage.org/wiki/Porto"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Campanhã bus station (Porto's main coach station, next to Campanhã railway station)",
+        "serves": "long-distance coaches, including Rede Expressos (named as the main national express service)",
+        "toCentre": "Route to the centre not sourced on the page read",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Porto"
+      }
+    ]
+  },
+  {
+    "city": "NAP",
+    "airports": [
+      {
+        "code": "NAP",
+        "public": {
+          "line": "Alibus airport shuttle (operated by ANM per search results)",
+          "from": "Naples Airport (Capodichino) Alibus stop",
+          "to": "Stazione Centrale (Piazza Garibaldi); second stop Piazza Municipio near the port (molo Beverello)",
+          "minutes": 25,
+          "fareEUR": 5.0,
+          "fareText": "EUR 5 per ride, bought on the bus (Wikivoyage Naples; a mid-2026 guide also gives EUR 5); the ticket allows other public transport for up to 90 min after validation (Wikivoyage); the ANM and GESAC sites did not load",
+          "frequency": "every 15-25 min by day; sources differ (third-party)",
+          "hours": "sources conflict: from about 05:30 to around midnight (third-party)",
+          "url": "https://en.wikivoyage.org/wiki/Naples"
+        },
+        "alternatives": [
+          {
+            "line": "3S bus (ANM)",
+            "to": "Stazione Centrale and Piazza Municipio (the same stops as the Alibus)",
+            "minutes": null,
+            "fareEUR": null,
+            "fareText": "cheaper than the Alibus per Wikivoyage; fare, time and frequency not stated on the page read",
+            "url": "https://en.wikivoyage.org/wiki/Naples"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 18.0,
+          "minutes": null,
+          "basis": "Fixed fare per car to Stazione Centrale, day and night, as of Nov 2023 (Wikivoyage); includes luggage and all charges except a possible EUR 1 motorway fee; the input's EUR 21 (2024 tariff) and a 2026 figure of EUR 25 were not verified",
+          "url": "https://en.wikivoyage.org/wiki/Naples"
+        }
+      }
+    ],
+    "stations": []
+  },
+  {
+    "city": "BRI",
+    "airports": [
+      {
+        "code": "BRI",
+        "public": {
+          "line": "AMTAB bus line 16 (Aeroporto to Bari Centrale)",
+          "from": "Bari airport bus stop, right next to the railway stop entrance (Wikivoyage)",
+          "to": "Bari Centrale (Piazza Aldo Moro stop, beside the main railway station)",
+          "minutes": 40,
+          "fareEUR": 1.5,
+          "fareText": "EUR 1.50 ('Amtab Bus: 1.50€ (40+ minutes)', ESN Bari transport page); the page does not split on-board from advance prices; Wikivoyage says EUR 2.50 (conflicting); tickets from the ticket office or the MUVT app",
+          "frequency": "about one bus per hour (Wikivoyage)",
+          "hours": "from the airport 05:25-22:00; from Bari Centrale 05:20-23:00 (ESN Bari)",
+          "url": "https://bari.esn.it/en/transports"
+        },
+        "alternatives": [
+          {
+            "line": "Ferrotramviaria airport train to Bari Centrale",
+            "to": "Bari Centrale (main railway station)",
+            "minutes": null,
+            "fareEUR": 5.3,
+            "fareText": "EUR 5.30 single ('A single ticket costs €5.3', Wikivoyage); about two trains per hour on average",
+            "url": "https://en.wikivoyage.org/wiki/Bari"
+          },
+          {
+            "line": "Tempesta airport shuttle bus",
+            "to": "Bari Centrale",
+            "minutes": 30,
+            "fareEUR": 5.0,
+            "fareText": "EUR 5 per ride, about one departure per hour (Wikivoyage)",
+            "url": "https://en.wikivoyage.org/wiki/Bari"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 25.0,
+          "minutes": null,
+          "basis": "Wikivoyage: a taxi to the centre costs a fixed price of EUR 25 (2024); not checked against an official tariff",
+          "url": "https://en.wikivoyage.org/wiki/Bari"
+        }
+      }
+    ],
+    "stations": []
+  },
+  {
+    "city": "BEG",
+    "airports": [
+      {
+        "code": "BEG",
+        "public": {
+          "line": "Bus 600 (city bus line)",
+          "from": "Belgrade Nikola Tesla Airport bus stop",
+          "to": "Beograd Centar main railway station (Prokop), via several Novi Beograd stops",
+          "minutes": 45,
+          "fareEUR": 0,
+          "fareText": "free (cestujlevne.com: 'Cena – zdarma'; Wikivoyage: 'free of charge (Jan 2026)'); no notice naming line 600 was found",
+          "frequency": "every 30 min (cestujlevne.com; Wikivoyage says every 30-40 min)",
+          "hours": "last bus from the airport 23:55; first bus to the airport 04:45 (cestujlevne.com; the first departure from the airport is not stated)",
+          "url": "https://www.cestujlevne.com/letiste/belehrad/doprava"
+        },
+        "alternatives": [
+          {
+            "line": "Minibus A1 (to Slavija Square via Fontana and the main bus station)",
+            "to": "Slavija Square",
+            "minutes": 30,
+            "fareEUR": 3.4,
+            "fareText": "RSD 400 (EUR 3.4 at fx.json's approximate RSD rate) or EUR 4, paid to the driver (Wikivoyage, Jan 2026); runs at night with a break about 02:00-04:00",
+            "url": "https://en.wikivoyage.org/wiki/Belgrade"
+          },
+          {
+            "line": "Bus 72 (to Zeleni Venac, near Republic Square)",
+            "to": "Zeleni Venac (near Republic Square)",
+            "minutes": 50,
+            "fareEUR": 0,
+            "fareText": "free ('It's free and takes 50 min', every 30 min, 05:00-23:30, Wikivoyage); a 2025 travel page lists RSD 80 for line 72 (conflicts with the free policy)",
+            "url": "https://en.wikivoyage.org/wiki/Belgrade"
+          }
+        ],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "Official beg.aero taxi price not verified (beg.aero returned HTTP 403); Wikivoyage gives city metered rules only (RSD 270 to start, RSD 96-125 per km); the input's RSD 2,300 zone price is unverified",
+          "url": "https://en.wikivoyage.org/wiki/Belgrade"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Belgrade Bus Station (BAS), Novi Beograd (Antifašističke borbe 2)",
+        "serves": "long-distance buses (Flixbus named as the main operator on long-distance routes; Wikivoyage)",
+        "toCentre": "Across the street from Novi Beograd railway station; about an hour's walk to the centre, and Wikivoyage advises public transport (line not named on the page read)",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Belgrade"
+      }
+    ]
+  },
+  {
+    "city": "SJJ",
+    "airports": [
+      {
+        "code": "SJJ",
+        "public": {
+          "line": "Centrotrans airport bus (Aerodrom - Baščaršija; route number not confirmed, input says line 36)",
+          "from": "Sarajevo Airport bus stop (stop not named in the sources read)",
+          "to": "Baščaršija (old town); stops on request at central bus stops",
+          "minutes": 30,
+          "fareEUR": 2.6,
+          "fareText": "BAM 5 one-way (Wikivoyage; search results also show BAM 5 from bts.aero and tourism listings), BAM 8 return; pay the driver in cash (cestee.com, search result)",
+          "frequency": "conflicting: about hourly (Wikivoyage); every 30-40 min (airconnect.live, search result)",
+          "hours": "about 05:30-22:00 (Wikivoyage; other sources differ)",
+          "url": "https://en.wikivoyage.org/wiki/Sarajevo"
+        },
+        "alternatives": [
+          {
+            "line": "Trolleybus 103",
+            "to": "Trg Austrijski (south bank); 600 m walk through Dobrinja from the airport to the stop on Bulevar Mimara Sinana",
+            "minutes": 25,
+            "fareEUR": 0.9,
+            "fareText": "BAM 1.80, paid to the driver; every 6-7 min in daytime (Wikivoyage)",
+            "url": "https://en.wikivoyage.org/wiki/Sarajevo"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 10.2,
+          "minutes": null,
+          "basis": "Wikivoyage (undated): a taxi to the centre 'should not exceed 20 KM' (a ceiling, not an official fixed fare); some drivers ask double from foreigners; metered rule: 1.90 KM flagfall plus 1.20 KM per km",
+          "url": "https://en.wikivoyage.org/wiki/Sarajevo"
+        }
+      }
+    ],
+    "stations": []
+  },
+  {
+    "city": "LCA",
+    "airports": [
+      {
+        "code": "LCA",
+        "public": {
+          "line": "Bus 425 (operator not stated)",
+          "from": "Larnaca Airport bus stop (stop not named in the sources read)",
+          "to": "Finikoudes (Larnaca seafront, near the town centre); journey time estimates range from about 15 to 50 min across sources",
+          "minutes": null,
+          "fareEUR": 1.5,
+          "fareText": "EUR 1.50 daytime single (tripmydream guide, https://en.tripmydream.com/cyprus/larnaca/how-to-get-from-the-airport; Cyprus Mail, Nov 2021, on the route's launch, https://cyprus-mail.com/2021/11/10/cpt-bus-route-links-larnaca-airport-with-phinikoudes); other guides say EUR 2-2.70; night fares are higher; pay the driver in cash; no official 2026 tariff found",
+          "frequency": "every 20 min by day (Wikivoyage)",
+          "hours": null,
+          "url": "https://en.wikivoyage.org/wiki/Larnaca"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": 15,
+          "basis": "Meter estimate (Wikivoyage): EUR 0.65 to get in plus EUR 0.22 per km, with night surcharges after midnight; Wikivoyage notes many cabbies refuse the meter; no fixed airport fare found; the Road Transport Department guide was not read",
+          "url": "https://en.wikivoyage.org/wiki/Larnaca"
+        }
+      }
+    ],
+    "stations": []
+  }
+]

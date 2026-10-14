@@ -1,0 +1,130 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTFqBRIDS1JLcgUSA1ZOT0ABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 38.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Wizz Air",
+   "operatedBy": null,
+   "depAirportName": "John Paul II Kraków Balice International",
+   "depTime": "06:15",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "08:45",
+   "arrDate": "2026-12-11",
+   "durationMin": 90,
+   "layovers": [],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 94.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "John Paul II Kraków Balice International",
+   "depTime": "15:00",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "18:30",
+   "arrDate": "2026-12-11",
+   "durationMin": 150,
+   "layovers": [
+    {
+     "min": 35,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 136.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa and Brussels Airlines",
+   "operatedBy": null,
+   "depAirportName": "John Paul II Kraków Balice International",
+   "depTime": "06:00",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "17:55",
+   "arrDate": "2026-12-11",
+   "durationMin": 655,
+   "layovers": [
+    {
+     "min": 95,
+     "airport": "Munich International Airport",
+     "city": "Munich",
+     "overnight": false
+    },
+    {
+     "min": 255,
+     "airport": "Brussels Airport",
+     "city": "Brussels",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 171.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "John Paul II Kraków Balice International",
+   "depTime": "06:20",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "15:20",
+   "arrDate": "2026-12-11",
+   "durationMin": 480,
+   "layovers": [
+    {
+     "min": 255,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 212.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Finnair",
+   "operatedBy": null,
+   "depAirportName": "John Paul II Kraków Balice International",
+   "depTime": "09:15",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "18:05",
+   "arrDate": "2026-12-11",
+   "durationMin": 470,
+   "layovers": [
+    {
+     "min": 245,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

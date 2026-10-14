@@ -1,0 +1,432 @@
+[
+  {
+    "airline": "SAS",
+    "cheapestFare": "SAS Go Light (SAS fee pages now call it 'Economy Light')",
+    "cabinBagIncluded": false,
+    "cabinBagNote": "Go Light on flights within Europe (this includes Norway domestic and Scandinavia) has ONLY one underseat bag 40x30x15 cm. SAS FAQ 'Can I bring cabin baggage in SAS Go Light?': carry-on not included; the 1 x 8 kg carry-on is only included on long-haul to/from Asia, Canada and the US. A large carry-on is free only from EuroBonus Gold (2025 travel-agent report). Read via search summaries of flysas.com pages (the site returns 403 to the fetch tool).",
+    "checkedBagIncluded": false,
+    "addCabin": {
+      "pricing": "fixed",
+      "byZone": {"domestic": null, "nordic": null, "europe": 16.0},
+      "byZoneRangeEUR": {"domestic": null, "nordic": null, "europe": [16.0, 18.0]},
+      "minEUR": 16.0,
+      "maxEUR": 18.0,
+      "text": "SAS optional-fees page: carry-on purchase only for Economy Light tickets, fixed amount per one-way flight, max 1 per traveller, depends on route and timing. Scandinavia to/from Europe and Southern Europe: EUR 16 when bought more than 14 days before departure, EUR 18 closer to departure. An older SAS carry-on page (about 343 days old) lists EUR 35 under 4 h before departure and EUR 50 at check-in/gate. No domestic or intra-Nordic carry-on price could be read.",
+      "url": "https://www.flysas.com/us-en/legal-info/optional-services-fees"
+    },
+    "addChecked": {
+      "pricing": "fixed",
+      "kg": 23,
+      "byZone": {"domestic": null, "nordic": 18.0, "europe": 30.0},
+      "byZoneRangeEUR": {"domestic": null, "nordic": [16.0, 18.0], "europe": [30.0, 35.0]},
+      "minEUR": 16.0,
+      "maxEUR": 35.0,
+      "text": "SAS extra-baggage-fees page, Light tickets, prepaid (price falls in time bands: better price if bought 14+ days before departure). Within Scandinavia (domestic Denmark/Sweden and between Denmark, Norway, Sweden, plus Faroe Islands): first bag NOK 195, second NOK 295, third+ NOK 345; NOK 540 per bag within 22 h of departure. A second Light table (route group label not visible in the summary) shows NOK 169 / 269 / 319 and NOK 540 within 22 h; it may be Norway domestic but that is NOT confirmed, so domestic is left null. Scandinavia-Europe first bag: EUR 30 in one block and EUR 35 in another at the 14-day mark (route groups not identified in the summary), EUR 70 in the last 22 h, EUR 120 flat per bag within 22 h. SAS general page: 23 kg checked bag EUR 20 to EUR 105 overall. Airport price is higher than prepaid. Converted NOK at 10.7155.",
+      "url": "https://www.flysas.com/en/legal-info/optional-services-fees/extra-baggage-fees"
+    },
+    "zones": "SAS prices by route group (domestic Denmark/Sweden/Norway/Finland, within Scandinavia, Scandinavia to/from Europe, Southern Europe, intercontinental) and by purchase timing bands (14+ days, 13 days to 22 h, under 22 h). Exact group membership was not readable.",
+    "confidence": "medium",
+    "notes": "Inclusion answer (no cabin bag on Go Light in Europe) is consistent across several SAS pages, so high on that point. Fee amounts come from search summaries of the fee tables, which were partly garbled (two Light tables without route labels); treat domestic Norway as unknown and re-check the flysas.com extra-baggage-fees page by hand. Today (12 Oct) a bag added for 4-18 Dec travel falls in the 14+ days band.",
+    "sources": [
+      "https://www.flysas.com/en/legal-info/optional-services-fees/extra-baggage-fees",
+      "https://www.flysas.com/gb-en/legal-info/optional-services-fees/extra-baggage-fees",
+      "https://www.flysas.com/us-en/legal-info/optional-services-fees",
+      "https://www.flysas.com/us-en/help-and-contact/faq/baggage/can-i-bring-cabin-baggage-in-sas-go-light/",
+      "https://www.flysas.com/be-en/help-and-contact/faq/baggage/does-sas-go-light-include-any-baggage/",
+      "https://www.flysas.com/us-en/travel-info/baggage/carry-on",
+      "https://www.flysas.com/us-en/travel-extras/buy-extra",
+      "https://www.sas.fi/en/travel-info/ticket-options/ticket-types"
+    ],
+    "checked": "2026-10-12"
+  },
+  {
+    "airline": "Ryanair",
+    "cheapestFare": "Basic",
+    "cabinBagIncluded": false,
+    "cabinBagNote": "Basic includes only 1 small cabin bag (40x20x30 cm per Ryanair help centre; Ryanair's bag page and third parties give 40x30x20) that fits under the seat. No 10 kg overhead bag and no checked bag. Regular and Flexi Plus add Priority & 2 Cabin Bags (10 kg, 55x40x20); Plus adds a 20 kg checked bag but no 10 kg cabin bag. Source: help.ryanair.com 'What are Ryanair's fare bundle options?' (via search summary).",
+    "checkedBagIncluded": false,
+    "addCabin": {
+      "pricing": "dynamic",
+      "byZone": {"domestic": null, "nordic": null, "europe": null},
+      "minEUR": 12.5,
+      "maxEUR": 36.0,
+      "text": "Priority & 2 Cabin Bags (10 kg 55x40x20 trolley + priority boarding), per flight. Ryanair help article (older): EUR/GBP 8 to 32. Ryanair fee table as captured Aug-Oct 2026 by third parties: EUR 12.49-36 when added at booking, EUR 19.99-45.50 when added after booking. Price varies by route and date; non-refundable; sometimes sold out per flight.",
+      "url": "https://help.ryanair.com/hc/en-us/articles/360017825358-Priority-2-Cabin-Bags"
+    },
+    "addChecked": {
+      "pricing": "dynamic",
+      "kg": 20,
+      "byZone": {"domestic": null, "nordic": null, "europe": null},
+      "minEUR": 21.5,
+      "maxEUR": 60.0,
+      "text": "20 kg check-in bag, per person per one-way flight. Ryanair help article: EUR 20.99 to 59.99 depending on route and travel date; Ryanair fees table: EUR 21.49-59.99 online, EUR 59.99 at airport bag drop; EUR 39.99-75 when added later. Peak periods and certain routes sit at the top. 10 kg bag EUR 10.49-44.99 and 23 kg EUR 28.99-80.99 (third-party capture of the fee table).",
+      "url": "https://help.ryanair.com/hc/en-us/articles/360017825598"
+    },
+    "zones": "None. One price list for all routes; price depends on route, date and demand.",
+    "confidence": "medium",
+    "notes": "ryanair.com fee page is a JS shell (empty to the fetch tool) and help.ryanair.com returns 403, so ranges are from search summaries of Ryanair's own pages cross-checked with third-party captures of the fee table.",
+    "sources": [
+      "https://help.ryanair.com/hc/en-us/articles/12888555638161-What-are-Ryanair-s-fare-bundle-options",
+      "https://help.ryanair.com/hc/en-us/articles/360017825358-Priority-2-Cabin-Bags",
+      "https://help.ryanair.com/hc/en-us/articles/360017825598",
+      "https://www.ryanair.com/us/en/useful-info/help-centre/fees",
+      "https://loudavymkrokem.cz/en/easyjet-baggage-allowance/"
+    ],
+    "checked": "2026-10-12"
+  },
+  {
+    "airline": "Norwegian",
+    "cheapestFare": "LowFare",
+    "cabinBagIncluded": false,
+    "cabinBagNote": "LowFare includes one underseat bag (about 40x30x20 cm, 10 kg max) only. Norwegian's optional-charges page says overhead cabin bags (55x40x23 cm) are sold online to LowFare customers per item, per leg, with total hand baggage max 10 kg; LowFare+ and Flex include the overhead bag. Norwegian's ticket-types page is ambiguous (generic list shows an overhead bag), so this rests on the optional-charges page and Norwegian's Jan 2020 hand-baggage press release. Pages returned 403; read via search summaries.",
+    "checkedBagIncluded": false,
+    "addCabin": {
+      "pricing": "dynamic",
+      "byZone": {"domestic": 14.0, "nordic": null, "europe": null},
+      "byZoneRangeEUR": {"domestic": [14.0, 14.0], "nordic": [16.0, 30.0], "europe": [16.0, 30.0]},
+      "minEUR": 14.0,
+      "maxEUR": 30.0,
+      "text": "Overhead cabin bag per leg: EUR 13.90 domestic, EUR 15.90-29.90 international (the same table appears as USD 13.90 / 15.90-29.90 in a 2026 third-party guide). Norwegian does not separate Nordic from Europe: everything non-domestic is 'international'. These figures come from Norwegian's EUR/USD price list whose page metadata looked about 6 years old; the NOK price list could not be read, so real NOK prices may differ.",
+      "url": "https://www.norwegian.com/en/booking/helpful-booking-info/optional-service-charges/"
+    },
+    "addChecked": {
+      "pricing": "dynamic",
+      "kg": 23,
+      "byZone": {"domestic": 20.0, "nordic": null, "europe": null},
+      "byZoneRangeEUR": {"domestic": [20.0, 20.0], "nordic": [19.0, 45.0], "europe": [19.0, 45.0]},
+      "minEUR": 19.0,
+      "maxEUR": 45.0,
+      "text": "First checked bag, per bag per flight, bought online before check-in: EUR 20 domestic, EUR 19-45 international; second domestic bag EUR 29.90. At the airport EUR 45 on direct flights and EUR 90 on connecting flights. Same stale-metadata caveat as the cabin bag. No NOK price could be found; a Norwegian-language search only returned an overweight charge of NOK 150 per kg.",
+      "url": "https://www.norwegian.com/en/booking/helpful-booking-info/optional-service-charges/"
+    },
+    "zones": "Only two: domestic (within Norway) and international. No separate Nordic zone; international prices are a range depending on the itinerary.",
+    "confidence": "low",
+    "notes": "Whether LowFare excludes the overhead bag is fairly well supported (medium-high); the price level is weak because Norwegian's pages were all blocked and the readable price lists look old. Re-check in the booking flow.",
+    "sources": [
+      "https://www.norwegian.com/en/booking/helpful-booking-info/optional-service-charges/",
+      "https://www.norwegian.com/us/booking/booking-information/optional-charges/",
+      "https://www.norwegian.com/us/infourl/infoidbaggagecharges",
+      "https://www.norwegian.com/us/travel-info/baggage/hand-baggage/",
+      "https://www.norwegian.com/en/booking/helpful-booking-info/legal/lowfare-ticket-conditions/",
+      "https://media.uk.norwegian.com/pressreleases/norwegian-implements-new-hand-baggage-policy-2964112",
+      "https://www.flightfare.com/norwegian-baggage-fees-explained/"
+    ],
+    "checked": "2026-10-12"
+  },
+  {
+    "airline": "Wizz Air",
+    "cheapestFare": "WIZZ Basic",
+    "cabinBagIncluded": false,
+    "cabinBagNote": "Basic includes only the free personal bag 40x30x20 cm (10 kg), under the seat. The 55x40x23 cm 10 kg trolley needs WIZZ Priority. Source: wizzair.com Priority/cabin baggage help pages via search summary; no checked bag in Basic.",
+    "checkedBagIncluded": false,
+    "addCabin": {
+      "pricing": "dynamic",
+      "byZone": {"domestic": null, "nordic": null, "europe": null},
+      "minEUR": 10.0,
+      "maxEUR": 60.0,
+      "text": "WIZZ Priority (55x40x23 cm / 10 kg trolley + priority boarding): wizzair.com Priority page says EUR 10.00-60.00 online or via call centre and EUR 65-75 at the airport (page about 352 days old). Wizz's 'All Services and Fees' table as captured on 27 Sep 2026 shows EUR 0-57.50 online. Varies by route and date.",
+      "url": "https://www.wizzair.com/en-gb/information-and-services/wizz-services/wizz-priority"
+    },
+    "addChecked": {
+      "pricing": "dynamic",
+      "kg": 20,
+      "byZone": {"domestic": null, "nordic": null, "europe": null},
+      "minEUR": 2.0,
+      "maxEUR": 122.0,
+      "text": "20 kg checked bag online or via call centre, per flight per passenger. Wizz's 'All Services and Fees' table (read via flightfare.com, 27 Sep 2026): EUR 0-112.50 low season, EUR 2-122 high season; the exact fee depends on route and date and Wizz shows the range, not the price on your flight. Narrower third-party observed bands: EUR 13-86.50 (2026 listing) and EUR 13-91 high season; airport about EUR 55+. The EUR 2 floor is a published promotional floor, not a realistic price.",
+      "url": "https://www.wizzair.com/en-gb/help-centre/booking-information-and-services/baggage/baggage-allowance/checked-in-baggage"
+    },
+    "zones": "None. Wizz uses low season / high season bands plus route and demand; it does not publish fixed zone prices.",
+    "confidence": "medium",
+    "notes": "wizzair.com returns 405 to the fetch tool. Priority range is from Wizz's own page via search; the checked-bag range is Wizz's own fee table read second-hand from flightfare.com (27 Sep 2026). Realistic floor for the app is around EUR 13 (third-party observed).",
+    "sources": [
+      "https://www.wizzair.com/en-gb/information-and-services/wizz-services/wizz-priority",
+      "https://www.wizzair.com/en-gb/help-centre/booking-information-and-services/baggage/baggage-allowance/checked-in-baggage",
+      "https://www.wizzair.com/en-gb/help-centre/booking-information-and-services/baggage/baggage-allowance/cabin-baggage",
+      "https://www.flightfare.com/wizz-air-baggage-fees-explained/",
+      "https://www.sendmybag.com/airlines/wizz-air-baggage-allowance/"
+    ],
+    "checked": "2026-10-12"
+  },
+  {
+    "airline": "easyJet",
+    "cheapestFare": "Standard",
+    "cabinBagIncluded": false,
+    "cabinBagNote": "Standard includes only 1 small cabin bag up to 45x36x20 cm (under the seat). The large cabin bag (56x45x25 cm) is an add-on or comes with Standard Plus. Source: easyJet help centre and Which? (via search summaries).",
+    "checkedBagIncluded": false,
+    "addCabin": {
+      "pricing": "dynamic",
+      "byZone": {"domestic": null, "nordic": null, "europe": null},
+      "minEUR": 7.0,
+      "maxEUR": null,
+      "text": "Large cabin bag: easyJet advertised 'from GBP 5.99' (about EUR 7), but the UK ASA ruled that claim misleading in Jan 2026 after Which? found it above GBP 5.99 on all 520 flights checked (cheapest GBP 23.49 = EUR 27.5, average GBP 30 = EUR 35.5). Price depends on route, date, demand; no maximum published. Gate price GBP 60 (about EUR 71).",
+      "url": "https://www.easyjet.com/en/help/baggage/cabin-bags"
+    },
+    "addChecked": {
+      "pricing": "dynamic",
+      "kg": 23,
+      "byZone": {"domestic": null, "nordic": null, "europe": null},
+      "minEUR": 11.0,
+      "maxEUR": null,
+      "text": "easyJet fees table (online only, per item per flight): 15 kg from GBP 6.99 (EUR 8), 23 kg from GBP 9.49 (EUR 11); extra weight in 3 kg steps up to GBP 15 per step, max 32 kg per bag. Exact price shown at checkout and depends on route, date, demand. Bag drop desk GBP 60 (about EUR 71; one table row says GBP 40). No range maximum published; real prices are well above the 'from' (SendMyBag Jul 2026: 23 kg about GBP 9.49-50 one way).",
+      "url": "https://www.easyjet.com/en/help-centre/policy-terms-and-conditions/fees-charges"
+    },
+    "zones": "None published. Price depends on route, flight date and when you book.",
+    "confidence": "medium",
+    "notes": "easyJet pages return 403 to the fetch tool; 'from' figures come from easyJet's fees page and help pages as summarised by search. Treat the 'from' values as floors only; Which? observed typical cabin bag about EUR 27.5-35.5.",
+    "sources": [
+      "https://www.easyjet.com/en/help-centre/policy-terms-and-conditions/fees-charges",
+      "https://www.easyjet.com/en/help/baggage/hold-luggage",
+      "https://www.easyjet.com/en/help/baggage/cabin-bags",
+      "https://www.which.co.uk/news/article/most-generous-airline-hand-luggage-aqpi63C0YzjL",
+      "https://www.coastfm.co.uk/news/business/easyjets-599-cabin-bag-price-claim-is"
+    ],
+    "checked": "2026-10-12"
+  },
+  {
+    "airline": "KLM",
+    "cheapestFare": "Basic (Light where Basic is not offered)",
+    "cabinBagIncluded": false,
+    "cabinBagNote": "Basic: one small bag 40x30x15 cm under the seat only; no cabin bag, no checked bag. A standard hand bag (55x35x25 cm, combined 12 kg) can be added via booking or My Trip up to 4 h before departure. One guide says Light also has only the small bag with the large bag as an add-on, which contradicts older info that Light includes it; the Standard fare includes the cabin bag plus a 23 kg bag on European routes. Treat Light as unconfirmed.",
+    "checkedBagIncluded": false,
+    "addCabin": {
+      "pricing": "dynamic",
+      "byZone": {"domestic": null, "nordic": null, "europe": null},
+      "minEUR": 15.0,
+      "maxEUR": 35.0,
+      "text": "Hand baggage option on Basic: 'from EUR 15 per flight segment' (press/third-party relay of KLM). KLM's terms say the price depends on the destination, is shown on the website and is revised twice a year; the price list itself could not be read. Third-party range EUR 15-35 via My Trip.",
+      "url": "https://www.klm.com/information/legal/extra-options/extra-baggage"
+    },
+    "addChecked": {
+      "pricing": "dynamic",
+      "kg": 23,
+      "byZone": {"domestic": null, "nordic": null, "europe": null},
+      "minEUR": 20.0,
+      "maxEUR": 70.0,
+      "text": "KLM page 'Arrange extra checked baggage': extra checked bags cost between EUR 20 and EUR 70 on flights within Europe when bought at least 24 h before departure; the first-bag fee depends on flight duration and bag weight. Online is cheaper than the airport (about EUR 75 per sendmybag).",
+      "url": "https://www.klm.com/information/baggage/extra-oversized-overweight-baggage"
+    },
+    "zones": "Priced by destination / flight duration (KLM publishes a price list revised twice a year, not readable here). Europe is one group.",
+    "confidence": "medium",
+    "notes": "klm.com and airfrance pages timed out for the fetch tool; all KLM facts come from search summaries of KLM pages plus press. The EUR 20-70 range is KLM's own wording; the cabin-bag 'from EUR 15' is relayed.",
+    "sources": [
+      "https://www.klm.com/information/legal/extra-options/extra-baggage",
+      "https://www.klm.com/information/baggage/extra-oversized-overweight-baggage",
+      "https://www.klm.com/information/legal/fees-paid-options",
+      "https://www.klm.com/information/baggage/hand-baggage-allowance",
+      "https://www.klm.com/information/ticket-services/ticket-options",
+      "https://www.insideflyer.com/2025/07/02/klm-air-france-introduces-new-basic-fare-without-carry-on-bag-or-status-points/"
+    ],
+    "checked": "2026-10-12"
+  },
+  {
+    "airline": "Air France",
+    "cheapestFare": "Economy Basic",
+    "cabinBagIncluded": false,
+    "cabinBagNote": "Basic: personal item 40x30x15 cm only. Air France terms: Basic customers may buy one (and only one) Hand Baggage option of 55x35x25 cm, combined with the included allowance not above 12 kg, at booking or up to 4 h before departure. Basic applies to AF flight numbers within Europe and some North Africa/Turkey/Caucasus routes; rollout is gradual.",
+    "checkedBagIncluded": false,
+    "addCabin": {
+      "pricing": "dynamic",
+      "byZone": {"domestic": null, "nordic": null, "europe": null},
+      "minEUR": 15.0,
+      "maxEUR": 45.0,
+      "text": "Air France's conditions say the price of the Hand Baggage option depends on the destination, is quoted in euros incl. taxes and is revised twice a year (price list not readable). Press: 'from EUR 15 per flight'; a French source says 15-45 depending on destination and booking period.",
+      "url": "https://wwws.airfrance.us/information/legal/conditions-aba"
+    },
+    "addChecked": {
+      "pricing": "unknown",
+      "kg": 23,
+      "byZone": {"domestic": null, "nordic": null, "europe": null},
+      "minEUR": null,
+      "maxEUR": null,
+      "text": "Checked bag not included in Basic and available for a fee; no euro price for a 23 kg bag within Europe could be found on a readable page. Air France shares the KLM fare structure (KLM quotes EUR 20-70 within Europe) but that is not verified for Air France.",
+      "url": "https://wwws.airfrance.fr/en/information/bagages/bagages-supplementaires-plus-grands-plus-lourds"
+    },
+    "zones": "Priced per destination; list revised twice a year (not readable).",
+    "confidence": "low",
+    "notes": "airfrance.* pages timed out for the fetch tool; facts from search summaries of Air France terms and press.",
+    "sources": [
+      "https://wwws.airfrance.us/information/legal/conditions-aba",
+      "https://wwws.airfrance.us/information/bagages/bagage-cabine-soute",
+      "https://wwws.airfrance.fr/en/information/bagages/bagages-supplementaires-plus-grands-plus-lourds",
+      "https://www.insideflyer.com/2025/07/02/klm-air-france-introduces-new-basic-fare-without-carry-on-bag-or-status-points/",
+      "https://www.cestee.com/blog/air-france-klm-economy-basic"
+    ],
+    "checked": "2026-10-12"
+  },
+  {
+    "airline": "Widerøe",
+    "cheapestFare": "Mini",
+    "cabinBagIncluded": false,
+    "cabinBagNote": "Mini: one small bag 40x30x15 cm only, no checked bag. Smart and Flex include an 8 kg hand bag (55x40x20 cm) and a 23 kg bag (Flex on some routes 2 bags). Source: help.wideroe.no baggage pages via search summary.",
+    "checkedBagIncluded": false,
+    "addCabin": {
+      "pricing": "dynamic",
+      "byZone": {"domestic": null, "nordic": null, "europe": null},
+      "byZoneRangeEUR": {"domestic": [14.0, 16.0], "nordic": [16.0, 21.5], "europe": [16.0, 21.5]},
+      "minEUR": 14.0,
+      "maxEUR": 21.5,
+      "text": "Hand baggage added after booking on wideroe.no: NOK 150-170 domestic, NOK 170-230 international (EUR 14-16 and EUR 16-21.5 at 10.7155). Airport price is higher. A third-party guide quotes NOK 99-199, which conflicts; the Widerøe help-centre figures are used.",
+      "url": "https://help.wideroe.no/hc/no/articles/29532411699474-Priser-for-tilleggstjenester"
+    },
+    "addChecked": {
+      "pricing": "dynamic",
+      "kg": 23,
+      "byZone": {"domestic": null, "nordic": null, "europe": null},
+      "byZoneRangeEUR": {"domestic": [20.5, 45.5], "nordic": [28.0, 31.0], "europe": [28.0, 31.0]},
+      "minEUR": 20.5,
+      "maxEUR": 45.5,
+      "text": "First checked bag added after booking: NOK 220-490 domestic, NOK 300-330 international (second bag NOK 390-860 domestic / 530-580 international). At the airport NOK 300-1,250 domestic and NOK 400-1,050 international. Widerøe says adding more than 22 h before departure can be up to 50% cheaper. Ranges, so dynamic.",
+      "url": "https://help.wideroe.no/hc/no/articles/29532411699474-Priser-for-tilleggstjenester"
+    },
+    "zones": "Two: domestic (Norway) and international.",
+    "confidence": "medium",
+    "notes": "help.wideroe.no and wideroe.no return 403 to the fetch tool; the price page content was read through a search summary of the official page. The current table converted NOK at 0.085 (about 11.8 NOK/EUR) which understates EUR amounts by about 9% versus fx.json (10.7155).",
+    "sources": [
+      "https://help.wideroe.no/hc/no/articles/29532411699474-Priser-for-tilleggstjenester",
+      "https://help.wideroe.no/hc/en-gb/articles/29531904831378-Baggage-Rules",
+      "https://www.wideroe.no/fly-med-oss/priser-for-tilleggstjenester",
+      "https://www.wideroe.no/en/travel-info/baggage",
+      "https://www.wideroe.no/en/fly-with-us/ticket-types"
+    ],
+    "checked": "2026-10-12"
+  },
+  {
+    "airline": "Lufthansa",
+    "cheapestFare": "Economy Basic (Economy Light on routes without Basic)",
+    "cabinBagIncluded": false,
+    "cabinBagNote": "Economy Basic: one personal item only (40x30x15 cm); carry-on (8 kg, 55x40x23) and checked bag (23 kg) are paid add-ons, carry-on online only. Lufthansa Group newsroom: introduced gradually on selected routes (sale from 28 Apr, travel from 19 May 2026); sold via airline websites and NDC. Economy Light includes the carry-on.",
+    "checkedBagIncluded": false,
+    "addCabin": {
+      "pricing": "dynamic",
+      "byZone": {"domestic": null, "nordic": null, "europe": null},
+      "minEUR": 15.0,
+      "maxEUR": null,
+      "text": "German press relaying Lufthansa: adding a carry-on to Economy Basic starts at EUR 15; Lufthansa's own pages give no price. Gate carry-on fee EUR 60-110 depending on route (EUR 60 / CHF 60 / USD 75 to EUR 110 / CHF 110 / USD 125). Add-on bookable online up to 2 h before departure, not at the airport.",
+      "url": "https://www.lufthansa.com/ba/en/prepare-for-your-trip/travel-classes/economy-basic"
+    },
+    "addChecked": {
+      "pricing": "unknown",
+      "kg": 23,
+      "byZone": {"domestic": null, "nordic": null, "europe": null},
+      "minEUR": null,
+      "maxEUR": null,
+      "text": "Lufthansa says the first checked bag can be added to Basic/Light at a reduced rate, but no euro price for Europe was found on any readable page. Earlier unverified figures in the current table (EUR 25-50) are third-party only.",
+      "url": "https://www.lufthansa.com/us/en/europa-tarife-economy-class"
+    },
+    "zones": "Lufthansa prices by route/market; no zone table readable.",
+    "confidence": "low",
+    "notes": "lufthansa.com and business.lufthansagroup.com return 403; only the Lufthansa Group newsroom page was readable (no prices). Whether Basic is sold on a given Trondheim connection (via FRA/MUC) must be checked per route.",
+    "sources": [
+      "https://newsroom.lufthansagroup.com/en/lufthansa-group-expands-fare-portfolio-more-options-on-short--and-medium-haul-routes/",
+      "https://www.lufthansa.com/ba/en/prepare-for-your-trip/travel-classes/economy-basic",
+      "https://www.lufthansa.com/us/en/europa-tarife-economy-class",
+      "https://www.ergo-reiseversicherung.de/de/reisenews/lufthansa-neuer-basistarif",
+      "https://www.business-punk.com/business/lufthansa-kassiert-jetzt-fuer-das-handgepack-ab-ryanair-lacht/"
+    ],
+    "checked": "2026-10-12"
+  },
+  {
+    "airline": "airBaltic",
+    "cheapestFare": "Economy MINI",
+    "cabinBagIncluded": false,
+    "cabinBagNote": "MINI: personal item only (40x30x15 cm, 8 kg total). BASIC and CLASSIC include 1 cabin bag (55x40x23) plus a personal item (8 kg total). MINI holders can add a heavy cabin bag for a fee to bring 12 kg on board incl. the personal item. Read directly from airbaltic.com ticket-types and cabin-baggage pages.",
+    "checkedBagIncluded": false,
+    "addCabin": {
+      "pricing": "dynamic",
+      "byZone": {"domestic": null, "nordic": null, "europe": null},
+      "minEUR": 18.0,
+      "maxEUR": 30.0,
+      "text": "Price is not published on the fare or cabin-baggage pages ('Add heavy cabin baggage' link only). A 2025 airBaltic article quotes EUR 17.99 in Manage My Booking and EUR 30 at the gate; EUR 13.99 starting price applies to the 8 kg to 12 kg upgrade on BASIC/CLASSIC Plus/FLEX, not MINI. Low confidence on this add-on.",
+      "url": "https://www.airbaltic.com/en/baggage/cabin-baggage"
+    },
+    "addChecked": {
+      "pricing": "dynamic",
+      "kg": 23,
+      "byZone": {"domestic": null, "nordic": null, "europe": null},
+      "minEUR": 25.0,
+      "maxEUR": null,
+      "text": "airBaltic ticket-types page: checked bag not included in MINI/BASIC; 'From EUR 24.99 per bag (23 kg), per direction', bought when booking or in Manage booking; the call centre costs more. Only a 'from' price is published; no maximum.",
+      "url": "https://www.airbaltic.com/en/before-you-fly/ticket-types"
+    },
+    "zones": "None published.",
+    "confidence": "medium",
+    "notes": "Inclusions and the EUR 24.99 'from' price were read directly from airbaltic.com (fetched 12 Oct 2026). The cabin add-on price is the weak point.",
+    "sources": [
+      "https://www.airbaltic.com/en/before-you-fly/ticket-types",
+      "https://www.airbaltic.com/en/baggage/checked-baggage",
+      "https://www.airbaltic.com/en/baggage/cabin-baggage",
+      "https://blog.airbaltic.com/travel-with-cabin-baggage/"
+    ],
+    "checked": "2026-10-12"
+  },
+  {
+    "airline": "Finnair",
+    "cheapestFare": "Economy Superlight",
+    "cabinBagIncluded": false,
+    "cabinBagNote": "Superlight (Europe): '1 small bag, total 8 kg. No carry-on bag included - can be purchased' (finnair.com ticket types, fetched). Economy Light and Classic include the 55x40x23 cm carry-on (total 8 kg); Classic also includes 1 checked bag.",
+    "checkedBagIncluded": false,
+    "addCabin": {
+      "pricing": "dynamic",
+      "byZone": {"domestic": null, "nordic": null, "europe": null},
+      "byZoneRangeEUR": {"domestic": [12.0, 25.0], "nordic": [12.0, 25.0], "europe": [16.0, 30.0]},
+      "minEUR": 12.0,
+      "maxEUR": 30.0,
+      "text": "Extra carry-on, only for Economy Superlight, prepaid, one way: EUR 12-25 Finland & Northern Europe, EUR 16-30 rest of Europe (Avios 1,400-3,100 / 1,900-3,800), purchasable until 30 min before departure. The page gives ranges, not 'from', and says fees are based on the date the ticket was purchased. Domestic Finland falls in the Finland & Northern Europe group.",
+      "url": "https://www.finnair.com/en/baggage-on-finnair-flights/extra-baggage-fees"
+    },
+    "addChecked": {
+      "pricing": "dynamic",
+      "kg": 23,
+      "byZone": {"domestic": null, "nordic": null, "europe": null},
+      "byZoneRangeEUR": {"domestic": [27.0, 50.0], "nordic": [27.0, 50.0], "europe": [32.0, 55.0]},
+      "minEUR": 27.0,
+      "maxEUR": 55.0,
+      "text": "First checked bag up to 23 kg, Economy Superlight, prepaid one way: EUR 27-50 Finland & Northern Europe, EUR 32-55 rest of Europe (Avios 3,400-6,500 / 4,100-7,100), purchasable until 50 min before departure. Page updated 8 June 2026. Airport prices are higher.",
+      "url": "https://www.finnair.com/en/baggage-on-finnair-flights/extra-baggage-fees"
+    },
+    "zones": "Finland & Northern Europe = Finland, Sweden, Denmark, Norway, Estonia, Latvia, Lithuania; Rest of Europe = everything else in Europe. Fees one way.",
+    "confidence": "high",
+    "notes": "Both pages were fetched directly from finnair.com on 12 Oct 2026. Which end of each range applies depends on the ticket purchase date, which the page does not specify.",
+    "sources": [
+      "https://www.finnair.com/en/baggage-on-finnair-flights/extra-baggage-fees",
+      "https://www.finnair.com/en/finnair-ticket-types"
+    ],
+    "checked": "2026-10-12"
+  },
+  {
+    "airline": "Vueling",
+    "cheapestFare": "Basic (Fly Light bundle)",
+    "cabinBagIncluded": false,
+    "cabinBagNote": "Fly Light includes only 1 underseat bag (max 40x30x20 cm). The 55x40x20 cm / 10 kg overhead bag comes with the Fly, Fly Grande or Fly Pro bundles or as a paid extra; a German consumer court ruling (not final) concerns Fly Light prices shown without the trolley surcharge. Source: help.vueling.com via search summary.",
+    "checkedBagIncluded": false,
+    "addCabin": {
+      "pricing": "dynamic",
+      "byZone": {"domestic": null, "nordic": null, "europe": null},
+      "minEUR": 10.0,
+      "maxEUR": 59.0,
+      "text": "Overhead 55x40x20 cm bag as extra: EUR 10-59 per flight when bought in advance (secondary sources; Vueling's own cabin-bag price could not be read). One source says from EUR 29 on Fly Light. At the gate an over-size piece costs EUR 110-140 (Vueling help page).",
+      "url": "https://help.vueling.com/hc/en-gb/articles/19798835176081-Hand-Luggage-Allowance-Cabin-bags-allowance"
+    },
+    "addChecked": {
+      "pricing": "dynamic",
+      "kg": 20,
+      "byZone": {"domestic": null, "nordic": null, "europe": null},
+      "minEUR": 14.0,
+      "maxEUR": 96.0,
+      "text": "Vueling checked-luggage page: 20 kg bag 'From 14 to 96 EUR', price depends on destination/leg of the journey; adding online is about 50% cheaper than at the airport.",
+      "url": "https://www.vueling.com/en/prepare-your-trip/luggage/checked-luggage/"
+    },
+    "zones": "None published; price varies by route/leg and booking time.",
+    "confidence": "medium",
+    "notes": "vueling.com and help.vueling.com return 403 to the fetch tool; the checked-bag range is Vueling's own wording via search summary, the cabin range is third-party. A 14-96 range this wide gives little help for a specific route.",
+    "sources": [
+      "https://www.vueling.com/en/prepare-your-trip/luggage/checked-luggage/",
+      "https://help.vueling.com/hc/en-gb/articles/19798784049041-Checked-Luggage-Allowance",
+      "https://help.vueling.com/hc/en-gb/articles/19798835176081-Hand-Luggage-Allowance-Cabin-bags-allowance",
+      "https://www.vueling.com/en/vueling-services/vueling-fares",
+      "https://baggagepolicies.com/vueling-baggage-policy/"
+    ],
+    "checked": "2026-10-12"
+  }
+]

@@ -1,0 +1,33 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMTUyAktMMgJBRmoFEgNBTENyBRIDVFJEQAFIAZgBAg",
+ "fetchedAt": "2026-10-11T11:25:20",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 103.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Transavia and KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "depTime": "13:35",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-15",
+   "durationMin": 575,
+   "layovers": [
+    {
+     "min": 275,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 103 euros. 1 stop flight with Transavia and KLM. Operated by KLM Cityhopper. Leaves Alicante-Elche Miguel Hernández Airport at 1:35 PM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 11:10 PM on Tuesday, December 15. Total duration 9 hr 35 min.  Layover (1 of 1) is a 4 hr 35 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  }
+ ]
+}

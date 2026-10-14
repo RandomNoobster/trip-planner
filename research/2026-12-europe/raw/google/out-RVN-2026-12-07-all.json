@@ -1,0 +1,37 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA1JWTkABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 260.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Finnair",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "08:05",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Rovaniemi Airport",
+   "arrTime": "01:00",
+   "arrDate": "2026-12-08",
+   "durationMin": 955,
+   "layovers": [
+    {
+     "min": 480,
+     "airport": "Tromsø Airport",
+     "city": "Tromsø Municipality",
+     "overnight": false
+    },
+    {
+     "min": 170,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

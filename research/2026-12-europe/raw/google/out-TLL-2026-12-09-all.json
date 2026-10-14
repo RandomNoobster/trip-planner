@@ -1,0 +1,33 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA1RMTEABSAGYAQI",
+ "fetchedAt": "2026-10-11T11:20:18",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 108.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "07:15",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Tallinn Airport",
+   "arrTime": "11:35",
+   "arrDate": "2026-12-09",
+   "durationMin": 200,
+   "layovers": [
+    {
+     "min": 50,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 108 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 7:15 AM on Wednesday, December 9 and arrives at Tallinn Airport at 11:35 AM on Wednesday, December 9. Total duration 3 hr 20 min.  Layover (1 of 1) is a 50 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

@@ -1,0 +1,709 @@
+[
+  {
+    "city": "ATH",
+    "localTicketEUR": 1.20,
+    "dayPassEUR": 4.10,
+    "rideHailing": ["Bolt", "FreeNow"],
+    "airports": [
+      {
+        "code": "ATH",
+        "public": {
+          "mode": "bus",
+          "to": "Syntagma Square (express bus; X95 per taxitoathens.com)",
+          "minutes": 75,
+          "fareEUR": 5.50,
+          "frequency": "every 20–40 min (taxitoathens.com, 2026)",
+          "hours": "24 h per taxitoathens.com (not stated on the OASA page)"
+        },
+        "taxi": {
+          "fareEUR": 50.00,
+          "minutes": 40,
+          "basis": "official fixed daytime fare airport to inner ring (05:00–24:00) under decision 147620/2026 (FEK B', 18 Sep 2026), as cited by hemenhesap.com (checked 24 Sep 2026); night EUR 65; minutes is an estimate",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://www.oasa.gr/en/tickets/prices-of-products/",
+      "https://www.oasa.gr/en/tickets/",
+      "https://www.hemenhesap.com/en/europe-airport-taxi-fixed-fares",
+      "https://www.hemenhesap.com/en/athens-airport-taxi-fare",
+      "https://greekcitytimes.com/2026/09/17/airport-taxi-fares-to-rise-in-athens-and-thessaloniki/",
+      "https://en.wikipedia.org/wiki/Line_3_(Athens_Metro)",
+      "https://en.wikipedia.org/wiki/Athens_International_Airport",
+      "https://taxitoathens.com/athens-airport-to-city-center-taxi-metro-bus-guide-2026/",
+      "https://bolt.eu/en/cities/",
+      "https://free-now.com/uk/ride/cities/"
+    ],
+    "notes": "Public = express bus at EUR 5.50 (OASA 'Airport Express bus' price). The OASA page names X80 as an airport express line, so the X95 name, 60–90 min daytime time and 20–40 min frequency come from taxitoathens.com, a third-party transfer promoter. Metro Line 3 is the faster alternative at EUR 9.00 (OASA 'Metro Airport Ticket'; roughly 40 min, not verified). Local tickets from the OASA price page, which shows no effective date: 90-min EUR 1.20; 24-h 'Daily Ticket' EUR 4.10. Taxi: Greek City Times (fetched, 17 Sep 2026) reported the rise from EUR 40/55 to EUR 50/65 as awaiting FEK publication; hemenhesap.com says it took effect 18 Sep 2026 and that the airport site still showed EUR 40/55 on 24 Sep, so re-check before travel. Uber not confirmed (uber.com Greece city page 404). Currency EUR."
+  },
+  {
+    "city": "SKG",
+    "localTicketEUR": 0.60,
+    "dayPassEUR": 2.50,
+    "rideHailing": ["FreeNow"],
+    "airports": [
+      {
+        "code": "SKG",
+        "public": {
+          "mode": "bus",
+          "to": "City centre (terminus not named in source)",
+          "minutes": 45,
+          "fareEUR": 2.00,
+          "frequency": "every 30 min",
+          "hours": "05:15–21:40 on day line 01X (starts before 06:00); night line 01N c.23:00–05:55 per greeka.com (unverified); no service c.21:40–23:00"
+        },
+        "taxi": {
+          "fareEUR": 28.00,
+          "minutes": 25,
+          "basis": "official fixed daytime airport–centre tariff, single: EUR 28 (raised from EUR 25; double EUR 38 from EUR 35) per Greek City Times, 17 Sep 2026; FEK publication not confirmed; minutes is an estimate",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://oseth.com.gr/en/bus-fare-products",
+      "https://www.oasth.gr/en/tickets/fares/",
+      "https://thessaloniki.gr/to-from-thessaloniki-airport-makedonia/?lang=en",
+      "https://recomb.org/recomb2026/airport",
+      "https://greeka.com/macedonia/thessaloniki/car-bus",
+      "https://greekcitytimes.com/2026/09/17/airport-taxi-fares-to-rise-in-athens-and-thessaloniki/",
+      "https://free-now.com/uk/ride/cities/",
+      "https://bolt.eu/en/cities/"
+    ],
+    "notes": "Destination: city centre (terminus not named in the source). The airport line is 01X per OSETH (the municipal page calls it X1). OSETH 'Ticket for Special Bus Routes' is EUR 2.00 full / EUR 1.00 reduced, valid 70 min, covering 01X and 02X. Local: single urban-zone ticket EUR 0.60 and 24-h urban plus peri-urban ticket EUR 2.50, from the OSETH official fares page, which cites Joint Decision A 214397/2024 (Gov. Gazette B' 6196/2024) without an effective date. Airport hours and night line 01N come from secondary sources. Taxi: the rise to EUR 28 was announced (fetched article: awaiting FEK publication); if not yet in force, the previous fares are EUR 25 (day) and EUR 35 (double/night). Ride-hailing: FreeNow lists Thessaloniki; Bolt's Greek city list names only Athens, Crete and Mykonos; Uber Greece page 404. Currency EUR."
+  },
+  {
+    "city": "IST",
+    "localTicketEUR": 0.76,
+    "dayPassEUR": null,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "IST",
+        "public": {
+          "mode": "metro",
+          "to": "Sultanahmet (old town): M11 to Gayrettepe, M2 to Yenikapı, then T1 tram",
+          "minutes": 100,
+          "fareEUR": 0.76,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": {
+          "fareEUR": 41.31,
+          "minutes": 50,
+          "basis": "computed metered estimate, not a fixed fare: 2026 IBB daytime tariff from 20 Jul 2026 per Turkish press (opening TL 71.94 + TL 47.92/km) x 46 km (midpoint of a 42–50 km travel-site range) = TL 2,276; excludes waiting time, tolls and night rate; minutes is an estimate",
+          "capacity": 4
+        }
+      },
+      {
+        "code": "SAW",
+        "public": {
+          "mode": "shuttle bus",
+          "to": "Taksim Square (HAVABUS; then M2/T1 to Sultanahmet)",
+          "minutes": 90,
+          "fareEUR": 3.99,
+          "frequency": "roughly every 30 min",
+          "hours": "06:30–01:30 SAW to Taksim (no service c.01:30–06:30); Taksim to SAW 03:00–22:00"
+        },
+        "taxi": {
+          "fareEUR": 44.79,
+          "minutes": 75,
+          "basis": "computed metered estimate, not a fixed fare: same IBB daytime tariff x 50 km SAW to Taksim (sabihagokcen.aero) = TL 2,468; excludes Bosphorus bridge toll and waiting; minutes is an estimate",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://www.istanbulkart.istanbul/ucretler-limitler",
+      "https://www.iscihaber.net/gundem/istanbulda-ulasim-ucretlerine-16-subat-2026-tarihinde-yapilan-zamlar-nelerdir/206281",
+      "https://en.wikipedia.org/wiki/M11_(Istanbul_Metro)",
+      "https://kingsworldtransfer.com/en/blog/istanbul-havalimani-metro-m11",
+      "https://www.haberturk.com/zamli-taksi-ucretleri-2026-yeni-taksi-acilis-ucreti-ve-kisa-mesafe-indi-bindi-ne-kadar-oldu-3899248",
+      "https://www.sabihagokcen.aero/yolcu-ve-ziyaretciler/ulasim-ve-otopark/ulasim",
+      "https://www.sabihagokcen.aero/yolcu-ve-ziyaretciler/ulasim-ve-otopark/ulasim/havabus",
+      "https://www.havabus.com/",
+      "https://kingsworldtransfer.com/en/blog/sabiha-gokcen-taksi-fiyatlari"
+    ],
+    "notes": "Two airports in one city object. IST destination Sultanahmet (old town); SAW destination Taksim Square (HAVABUS terminus; SAW taxi computed to Taksim). IST public = M11 metro (Wikipedia: c.60 min from Terminal 2 to Gayrettepe), then M2 and T1 tram; the c.100 min total is an estimate. Fare = one full Istanbulkart ride, TL 42 (news, effective 16 Feb 2026; TRY at 55.1033 per EUR), one boarding only. Kingsworldtransfer (24 Mar 2026) says metro fares became distance-based from 20 Jul 2026 (TL 37.40 for 1–3 stations, up to TL 73.19 for 15–16 stations). Unverified, so a multi-leg IST trip may cost more than EUR 0.76. M11 hours and headway not found. The Istanbulkart price page shows no 24-hour product (BIRgec, IKIgec, ONgec are multi-ride cards), so dayPassEUR is null. SAW HAVABUS fare TL 220 (EUR 3.99) is an unverified travel-site figure (kingsworldtransfer, 2026 guide); the HAVABUS page gives timetable only. Both taxi figures are computed from the Istanbul meter tariff, not published fares. Ride-hailing: none confirmed (Bolt Istanbul page 404; FreeNow city list has no Turkey; Uber Turkey page 404; bitaksi.com returned 403). Currency TRY at 55.1033 per EUR."
+  },
+  {
+    "city": "SOF",
+    "localTicketEUR": 0.80,
+    "dayPassEUR": 3.00,
+    "rideHailing": ["Bolt"],
+    "airports": [
+      {
+        "code": "SOF",
+        "public": {
+          "mode": "metro",
+          "to": "Sofia city centre (Serdika area)",
+          "minutes": 20,
+          "fareEUR": 0.80,
+          "frequency": null,
+          "hours": "05:30–24:00 (no service before 05:30 or after midnight)"
+        },
+        "taxi": {
+          "fareEUR": 10.34,
+          "minutes": 25,
+          "basis": "computed metered estimate, not a fixed fare: 2026 daytime band EUR 0.73–1.24/km (BNR, 2 Jan 2026), midpoint 0.985 x 10.5 km (travel-site range 10–10.8 km); flag-fall not included; minutes is an estimate",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://www.metropolitan.bg/en/information-for-citizens/trip-cards-sofia-metro",
+      "https://en.wikipedia.org/wiki/Sofia_Airport",
+      "https://en.wikipedia.org/wiki/Sofia_Metro",
+      "https://bnrnews.bg/en/post/408705/increase-in-price-of-taxi-services-in-sofia",
+      "https://bolt.eu/en/cities/"
+    ],
+    "notes": "Currency: EUR. Bulgaria adopted the euro on 1 Jan 2026; the official metropolitan.bg tariff is in EUR, so EUR figures are used directly (BGN not used). Destination: Sofia centre (Serdika area). Public = metro from the Sofia Airport station next to Terminal 2 (Wikipedia: c.20 min to centre, 05:30–24:00). Line label differs between Wikipedia articles (M4 vs M2), so confirm on the day. Bus 84 also links both terminals to the centre; its frequency and journey time were not found. Local fares from metropolitan.bg: single EUR 0.80 (60-min trip; 30-min 'Ticket 30 plus' at the same price); 24-h card EUR 3.00 including night (one-day card EUR 2.00). The page's BGN figure (1.86) does not match the fixed rate (EUR 0.80 = BGN 1.56), so it was disregarded. Metro headway not found. Taxi: no official airport fare found; estimate computed from the daytime per-km band. Ride-hailing: Bolt is on its city list; FreeNow's list has no Bulgaria; Uber Bulgaria page 404, not confirmed."
+  },
+  {
+    "city": "BUH",
+    "localTicketEUR": 0.56,
+    "dayPassEUR": 1.50,
+    "rideHailing": ["Bolt"],
+    "airports": [
+      {
+        "code": "OTP",
+        "public": {
+          "mode": "bus",
+          "to": "Piața Unirii (city centre; Old Town nearby), express line 100",
+          "minutes": 40,
+          "fareEUR": null,
+          "frequency": "every 15 min by day (20 min at weekends), every 30 min at night (Wikipedia; TPBI says 15–30 min)",
+          "hours": "24 h (Wikipedia)"
+        },
+        "taxi": {
+          "fareEUR": 14.98,
+          "minutes": 31,
+          "basis": "estimate: midpoint of a travel-site range RON 60–100 (airconnect.live, undated) at 5.3406 RON per EUR; no official 2026 airport tariff found (bucharestairports.ro returned 403); minutes from a booking-site estimate for 19.3 km",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://tpbi.ro/en/",
+      "https://en.wikipedia.org/wiki/Henri_Coand%C4%83_International_Airport",
+      "https://tpbi.ro/en/tpbi-line-780-reinstated-between-october-14-17-2025-from-0830-to-1500/",
+      "https://tpbi.ro/bilete-si-abonamente/",
+      "https://www.cfrcalatori.ro/",
+      "https://www.capital.ro/biletul-stb-ar-putea-ajunge-la-5-lei-scumpirea-ar-putea-veni-dupa-cea-de-la-metrou-vot-final-saptamana-viitoare.html",
+      "https://playtech.ro/2026/biletele-stb-nu-se-scumpesc-consiliul-general-bucuresti-a-respins-cresterea-tarifelor/",
+      "https://bolt.eu/en/cities/bucharest/",
+      "https://tvrinfo.ro/?p=93813",
+      "https://airconnect.live/en/airports/bucharest-airport-taxi-cost"
+    ],
+    "notes": "Destination: Piața Unirii (Old Town / Lipscani nearby). Public = express line 100 (Wikipedia: 35–50 min, 24 h; line 783 now runs as 100; line 780 was a temporary replacement per TPBI, Oct 2025). Its fare is not on any page retrieved (TPBI ticket pages list no prices), so fareEUR is null. Alternative: airport train to Gara de Nord (every 40 min, 24 h, 20–25 min per TPBI and Wikipedia); its fare is on a CFR Călători page that was not reachable. Local fares are press-reported 2026 figures, not official: STB single 90-min RON 3 and 24-h RON 8 (capital.ro; playtech.ro reports the General Council rejected the proposed rise); the operator site did not resolve. Taxi: no official tariff found; EUR 14.98 is a midpoint estimate from an undated travel-site range. Ride-hailing: Bolt (bolt.eu Bucharest page). Wikipedia (undated) says Uber and Bolt use airport pick-up zones, but uber.com/ro returned 404, so Uber is not listed. FreeNow's city list has no Bucharest. Currency RON at 5.3406 per EUR."
+  },
+  {
+    "city": "BEG",
+    "localTicketEUR": 0.00,
+    "dayPassEUR": null,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "BEG",
+        "public": {
+          "mode": "bus",
+          "to": "Beograd Centar (main railway station), line 600",
+          "minutes": 45,
+          "fareEUR": 0.00,
+          "frequency": "every 30 min",
+          "hours": "04:45–23:55 from the airport (no service before 04:45 or after 23:55)"
+        },
+        "taxi": {
+          "fareEUR": 19.62,
+          "minutes": null,
+          "basis": "official beg.aero airport taxi price for the Stari Grad / Vračar zone, RSD 2,300 at 117.2 per EUR (search excerpt only; the page returned 403 to fetch); a 2025 travel-site figure of RSD 3,000 (EUR 25.60) also exists",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://beg.aero/eng/transports/public/public-transportation-line-600",
+      "https://beg.aero/eng/practical-informations/taxi-prices-doc",
+      "https://www.gsp.co.rs/novosti.aspx",
+      "https://www.gsp.co.rs/karte_za_prevoz.aspx",
+      "https://www.cestee.com/airport/belgrade-beg/transport",
+      "https://n1info.rs/vesti/placanje-karata-u-gradskom-prevozu/"
+    ],
+    "notes": "Fare status is unverified for visitors. Public = GSP / beg.aero line 600 to Beograd Centar, 45 min, reported free (cestee.com, 21 Apr 2025). GSP news (13 Mar 2025) quotes the mayor on abolishing public-transport fares, but a 1 Jan 2025 Beta report says 'citizens', so localTicketEUR 0.00 and no 24-hour product follow the report, not an official tariff. If visitors pay: last published single RSD 50 (EUR 0.43, 2023 tariff), day ticket RSD 120 (EUR 1.02); the A1 minibus to Trg Slavija still charged RSD 400 (EUR 3.41) cash per cestee. Taxi: the beg.aero excerpt shows RSD 2,300 for the Stari Grad / Vračar zone (used); cestee's RSD 3,000 is the alternative. No ride-hailing app confirmed (bolt.eu Belgrade and Uber BEG pages returned 404). Currency RSD at 117.2 per EUR."
+  },
+  {
+    "city": "ZAG",
+    "localTicketEUR": 1.33,
+    "dayPassEUR": 3.98,
+    "rideHailing": ["Uber", "Bolt"],
+    "airports": [
+      {
+        "code": "ZAG",
+        "public": {
+          "mode": "bus",
+          "to": "Kvaternikov trg (ZET line 290 terminus; not the railway station)",
+          "minutes": 50,
+          "fareEUR": 2.65,
+          "frequency": "every 35 min",
+          "hours": "04:20–00:27 (no service before 04:20 or after 00:27; Sundays first run 05:20)"
+        },
+        "taxi": {
+          "fareEUR": 35.00,
+          "minutes": null,
+          "basis": "official maximum fixed fare published by Zagreb Airport for ZAG–Centar (car), valid 10 Sep 2026, Taxi Gorica, includes VAT; the same EUR 35 applies to Glavni kolodvor",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://www.zagreb-airport.hr/en/passengers/to-from-the-airport/by-taxi/90",
+      "https://www.zagreb-airport.hr/en/passengers/to-from-the-airport/by-airport-shuttle/89",
+      "https://www.zet.hr/cijene-prodaja-i-placanje/cijene-karata-izdvojena-podrucja/56",
+      "https://www.zet.hr/cijene-prodaja-i-placanje/cijene-karata-grad-zagreb/400",
+      "https://www.cestee.com/airport/zagreb-zag/transport",
+      "https://plesoprijevoz.hr/zagreb/",
+      "https://www.uber.com/global/hr/airports/zag",
+      "https://bolt.eu/en-hr/cities/zagreb/"
+    ],
+    "notes": "Public = ZET 290 to Kvaternikov trg (ZET hub, about 1.5 km from Ban Jelačić Square per a travel guide), not Glavni kolodvor. Fare = 180-min zone I+II ticket, EUR 2.65 (zet.hr zone list; no effective date shown). Cestee (2 Oct 2024) suggests two 30-min tickets (about EUR 1.06); unverified. Journey time 45–50 min per airport and guide excerpts (cestee says 35); frequency and hours per cestee (2024). Pleso Prijevoz shuttle runs every 30 min, 35–40 min to Autobusni kolodvor (airport page, 2026); its fare is not on the operator page, and travel sites say EUR 8–9 (unverified). Local: ZET zone I 90-min ticket EUR 1.33 from sales points (EUR 1.99 from the driver; 30-min 0.53, 60-min 0.93). Day ticket EUR 3.98 for zone I; validity not stated on zet.hr. Ride-hailing: Uber (ZAG airport page, 2026) and Bolt (Zagreb page, 2026). Currency EUR."
+  },
+  {
+    "city": "SPU",
+    "localTicketEUR": 1.50,
+    "dayPassEUR": 6.00,
+    "rideHailing": ["Uber", "Bolt"],
+    "airports": [
+      {
+        "code": "SPU",
+        "public": {
+          "mode": "bus",
+          "to": "Split city centre (Promet line 37; stop not verified)",
+          "minutes": 55,
+          "fareEUR": 1.50,
+          "frequency": "every 10–20 min daytime (every 30 min early and late)",
+          "hours": "04:00–00:00 (no service before 04:00 or after 00:00)"
+        },
+        "taxi": {
+          "fareEUR": 45.00,
+          "minutes": null,
+          "basis": "travel-site estimate (cestee.com, updated 3 Feb 2026), about EUR 45; no official Split airport tariff reached (split-airport.hr returned certificate and DNS errors)",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://www.cestee.com/airport/split-spu/transport",
+      "https://www.promet-split.hr/cjenik/cjenik-putnih-karata",
+      "https://www.uber.com/global/hr/airports/spu",
+      "https://bolt.eu/en-hr/cities/split/"
+    ],
+    "notes": "Public = Promet line 37 (Split airport–Trogir): EUR 1.50 via app or sales points, EUR 3.00 from the driver, 55 min (50–60), per cestee (3 Feb 2026). The EUR 1.50 matches the single ticket on Promet's price list valid from 1 Jun 2026, but the PDF could not be read. The 24-h ticket of EUR 6.00 (one zone, 'JLS') comes from a search excerpt only, not a fetched page; the whole-area 24-h figure in the same excerpt is EUR 12.00. The Pleso Split shuttle appears discontinued (cestee, Feb 2026). Ride-hailing: Uber (SPU airport page, 2026) and Bolt (Split page, 2026). Currency EUR."
+  },
+  {
+    "city": "DBV",
+    "localTicketEUR": null,
+    "dayPassEUR": null,
+    "rideHailing": ["Uber", "Bolt"],
+    "airports": [
+      {
+        "code": "DBV",
+        "public": {
+          "mode": "shuttle bus",
+          "to": "Dubrovnik Old Town / city centre (stop not verified)",
+          "minutes": 35,
+          "fareEUR": 10.00,
+          "frequency": "no fixed timetable; departs about 30 min after arrivals once full (cestee)",
+          "hours": null
+        },
+        "taxi": {
+          "fareEUR": 45.00,
+          "minutes": null,
+          "basis": "travel-site estimate (cestee.com, updated 7 Nov 2025) for a 22 km trip, about EUR 45; not an official tariff; the same source gives Uber at EUR 22–28",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://www.cestee.com/airport/dubrovnik-dbv/transport",
+      "https://www.uber.com/global/hr/airports/dbv",
+      "https://bolt.eu/en-hr/cities/dubrovnik/"
+    ],
+    "notes": "Public = Platanus airport shuttle, EUR 10 one way, 35 min, per cestee (7 Nov 2025). Atlas is not named in that source, so Atlas is unconfirmed. Cestee quotes Libertas routes (lines 11/27, then 1A/1B) at EUR 4 cash; line 1A/1B runs only 3–4 times a day, so it was not treated as sensible, but the frequency of lines 11/27 was not confirmed, so they may be cheaper than the shuttle. Libertas city ticket prices were not found (libertas.hr is a university site; the Libertas bus domain did not resolve; dubrovnik-airport.com returned DNS errors), so localTicketEUR and dayPassEUR are null. Taxi figure is a travel-site estimate. Ride-hailing: Uber (DBV airport page, 2026) and Bolt (Dubrovnik page, 2026). Currency EUR."
+  },
+  {
+    "city": "LJU",
+    "localTicketEUR": null,
+    "dayPassEUR": null,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "LJU",
+        "public": {
+          "mode": "bus",
+          "to": "Ljubljana bus station (Avtobusna postaja)",
+          "minutes": 55,
+          "fareEUR": 3.70,
+          "frequency": "every 25–60 min",
+          "hours": "05:00–20:00 (no service before 05:00 or after 20:00; weekend first run 06:10; source wording ambiguous, verify)"
+        },
+        "taxi": {
+          "fareEUR": 40.00,
+          "minutes": null,
+          "basis": "travel-site estimate (cestee.com, updated 14 Feb 2025) for taxis outside the terminal, about EUR 40; not an official tariff; lju.aero refused the connection",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://www.cestee.com/airport/ljubljana-lju/transport",
+      "https://www.lpp.si/en/price-list/",
+      "https://bolt.eu/en-si/cities/ljubljana/"
+    ],
+    "notes": "Public = LPP line 64 (run with Arriva) to the Ljubljana bus station, EUR 3.70 cash to driver, 50–55 min, every 25–60 min (cestee, 14 Feb 2025; the 2026 LPP fare was not checked). Shuttle (Nomago or GoOpti) EUR 12, 45 min, same source. The LPP price list valid from 1 Sep 2026 was fetched, but its PDF had no readable text, so localTicketEUR and dayPassEUR are null. Bolt's Ljubljana page lists scooters only; Uber LJU and FreeNow Ljubljana pages returned 404, so no ride-hailing app is confirmed. Currency EUR."
+  },
+  {
+    "city": "TIA",
+    "localTicketEUR": 0.44,
+    "dayPassEUR": null,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "TIA",
+        "public": {
+          "mode": "shuttle bus",
+          "to": "Skanderbeg Square (Opera and Ballet Palace stop), city centre",
+          "minutes": 45,
+          "fareEUR": 4.36,
+          "frequency": "every full hour (24 departures a day)",
+          "hours": "24 h, hourly departures 00:00–23:00 (runs before 06:00 and late at night)"
+        },
+        "taxi": {
+          "fareEUR": 22.00,
+          "minutes": 30,
+          "basis": "travel-site figure (albaniatourguide.com, undated, likely 2026) citing the official Tirana Airport Taxi Service; quoted in EUR; not checked against an official tariff; drivers may charge more",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://luna.al/aeroport",
+      "https://tirana.al/uploads/2024/11/20241127102414_vendim-nr125-date-19112024-percaktimi-i-tarifave-te-transportit-publik.doc",
+      "https://www.bankofalbania.org/Tregjet/Kursi_zyrtar_i_kembimit/",
+      "https://albaniatourguide.com/tirana-airport-to-the-city-center-taxi-bus-timetable-price-book-distance-shuttle-bus-train-rental-car-uber/",
+      "https://bolt.eu/en-al/",
+      "https://bolt.eu/en/cities/"
+    ],
+    "notes": "Destination Skanderbeg Square (Luna stop behind the Opera and Ballet Palace). ALL converted at the Bank of Albania official reference rate, 91.65 per EUR (fetched; updated 9 Oct 2026). Luna's official page quotes ALL 400 and EUR 4.50 paid on board; 4.36 is the lek conversion. Urban single ALL 40 incl. VAT per Tirana council decision of 19 Nov 2024 (latest found; no 2026 change found), so localTicketEUR 0.44. That decision lists no 24-hour product (only monthly tickets), so dayPassEUR is null. Taxi is a travel-site figure; no official tariff found; another listing cites about ALL 2,200 (about EUR 24, unverified). Ride-hailing unconfirmed: Bolt's city list omits Albania, Bolt's Albania page does not name Tirana, Uber's Albania page returned 404, and a travel guide says Uber does not operate there. Local apps not searched (WebSearch budget ran out)."
+  },
+  {
+    "city": "SJJ",
+    "localTicketEUR": 1.12,
+    "dayPassEUR": 3.63,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "SJJ",
+        "public": {
+          "mode": "bus",
+          "to": "Baščaršija (Centrotrans line 36 terminus near the Sebilj fountain)",
+          "minutes": 30,
+          "fareEUR": 2.56,
+          "frequency": "every 30–40 min",
+          "hours": "06:00–22:00 (no service before 06:00 or after 22:00)"
+        },
+        "taxi": {
+          "fareEUR": 10.23,
+          "minutes": null,
+          "basis": "metered upper figure: Wikivoyage (undated) says the centre fare should not exceed 20 KM (converted); not a fixed or typical fare; no official airport tariff found",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://gras.ba/karte/",
+      "https://www.sarajevo-airport.ba/Page/Autobus",
+      "https://airconnect.live/en/airports/sarajevo-airport-bus-guide",
+      "https://www.visitsarajevo.ba/moving-around-town/",
+      "https://en.wikivoyage.org/wiki/Sarajevo",
+      "https://bolt.eu/en-ba/",
+      "https://bolt.eu/en/cities/"
+    ],
+    "notes": "Destination Baščaršija. BAM converted at 1.95583 per EUR (currency-board peg). Airport bus BAM 5 (Centrotrans line 36) per AirConnect (marked updated 2026); older guides also say BAM 5. City single BAM 2.20 and daily BAM 7.10 from gras.ba/karte (incl. VAT). An undated Czech guide's BAM 5.30 daily price is older and not used. Daily ticket validity not confirmed (that guide says calendar day); the 24-hour Sarajevo City Card exists but its price was not found. Taxi tariffs differ: Visit Sarajevo (undated) 1.50 KM start + 1 KM/km; Wikivoyage 1.90 + 1.20 KM/km; trip distance and time not sourced. Ride-hailing unconfirmed: Bolt's city list omits Bosnia, Bolt's Bosnia page does not name Sarajevo, Uber's Bosnia page returned 404."
+  },
+  {
+    "city": "SKP",
+    "localTicketEUR": 0.81,
+    "dayPassEUR": 1.95,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "SKP",
+        "public": {
+          "mode": "shuttle bus",
+          "to": "Central Bus Station (Nikola Karev 20), city centre",
+          "minutes": 35,
+          "fareEUR": 3.24,
+          "frequency": null,
+          "hours": "departures 00:00–23:00 per operator timetable (partly read; runs before 06:00)"
+        },
+        "taxi": {
+          "fareEUR": 24.39,
+          "minutes": null,
+          "basis": "travel-site figure: MKD 1,500 fixed (Transfeero, Airmundo, Welcome Pickups); official airport price list dated 9 Feb 2024 exists but could not be read; MKD 1,220 (Partir, Pegasus) is a lower alternative",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://skp.airports.com.mk/en-EN/passenger-guide/to-from-the-airport/page/bus",
+      "https://eraktransporter.com/",
+      "https://skp.airports.com.mk/en-EN/passenger-guide/to-from-the-airport/page/taxi",
+      "https://cdnskp.tav.aero/files/1707399641_SKP_Airport%20Taxi%20PriceList_9.2.2024.pdf",
+      "https://www.airporttransferportal.com/en/airport-guides/skp",
+      "https://en.wikivoyage.org/wiki/Skopje",
+      "https://www.transfeero.com/es/skopje-airport-transfers-skp/",
+      "https://airmundo.com/en/skopje-airport/taxi/",
+      "https://www.welcomepickups.com/?p=322093",
+      "https://flypgs.com/en/cities/flights-to-skopje",
+      "https://bolt.eu/en/cities/"
+    ],
+    "notes": "Destination Central Bus Station (Nikola Karev 20), the operator's city-centre stop; the railway station and Macedonia Square are not on its stop list. MKD converted at 61.5 per EUR (central rate). Airport bus MKD 199 one way per skp.airports.com.mk and eraktransporter.com (operator ERAK Transporter; other sites say Vardar Express). No frequency published; 35 min is the midpoint of 30–40 min per airporttransferportal.com (Oct 2026), which also says there is no 24-hour service, conflicting with the operator timetable. City single MKD 50 cash from the driver (MKD 35 by app or Skopska card) and day ticket MKD 120 for city lines (MKD 150 all lines), from Wikivoyage (undated); official transit sites were unreadable. Taxi: MKD 1,500 comes from transfer-site search snippets; the official price-list PDF could not be read. Ride-hailing unconfirmed: Bolt's city list omits North Macedonia; no Uber or Yango source."
+  },
+  {
+    "city": "ZRH",
+    "localTicketEUR": 5.05,
+    "dayPassEUR": 10.09,
+    "rideHailing": ["Uber", "Bolt"],
+    "airports": [
+      {
+        "code": "ZRH",
+        "public": {
+          "mode": "train",
+          "to": "Zürich Hauptbahnhof",
+          "minutes": 11,
+          "fareEUR": 7.73,
+          "frequency": "about every 15 min combined (S2 and S16 each about every 30 min)",
+          "hours": "about 05:00–01:00 (approximate; day lines run from 05:00 or 05:30 to 00:00 or 01:00, so they start before 06:00 and run past 23:00; exact S2/S16 times not confirmed)"
+        },
+        "taxi": {
+          "fareEUR": 53.69,
+          "minutes": 20,
+          "basis": "typical metered estimate, not an official fixed fare: about CHF 50 per travel-site estimates; airconnect.live (2026 guide) gives CHF 50–70 metered, CHF 50–60 to HB, 15–25 min (20 used)",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://www.zvv.ch/de/abos-und-tickets/tickets/einzelbillette.html",
+      "https://www.zvv.ch/de/abos-und-tickets/tickets/24h-tickets.html",
+      "https://www.zvv.ch/de/service/kundendienst/haeufige-fragen.html",
+      "https://www.zvv.ch/content/dam/markt/tarif-und-fahrausweiskontrolle/verbundtarif/2027/Preise%20ab%2013.12.2026.pdf",
+      "https://www.zh.ch/bin/zhweb/publish/regierungsratsbeschluss-unterlagen./2026/979/RRB-2026-0979_ZVV-Verbundtarif_2027.pdf",
+      "https://en.wikipedia.org/wiki/S2_(ZVV)",
+      "https://en.wikipedia.org/wiki/S16_(ZVV)",
+      "https://de.wikipedia.org/wiki/S-Bahn_Z%C3%BCrich",
+      "https://search.ch/timetable/Z%C3%BCrich-HB..Z%C3%BCrich-Flughafen",
+      "https://airconnect.live/de/airports/zurich-airport-transport-guide",
+      "https://www.zuerich.com/de/besuchen/taxifahren-zuerich",
+      "https://www.taxi-rechner.de/taxikosten-zurich/188",
+      "https://bento.travel/switzerland/ride-hailing",
+      "https://www.iamexpat.ch/expat-info/swiss-news/15-franc-fares-bolts-arrival-zurich-sparks-price-war-uber"
+    ],
+    "notes": "Destination Zürich HB. Public: ZVV airport-to-HB single CHF 7.20 (per the research agent's reading of ZVV zones; the official ZVV table, undated, does not name the airport). airconnect.live's CHF 6.80 S-Bahn figure is older and not used. Local: ZVV 1–2-zone single CHF 4.70 (1 h) and 24-hour ticket CHF 9.40 (1–2 zones), both official ZVV pages, undated. A new ZVV tariff applies from 13 Dec 2026: a search excerpt of RRB 2026/0979 gives CHF 9.60 for the 24-hour 1–2-zone ticket (unverified; the PDFs were unreadable), so travel after 13 Dec may cost more. Frequency: English Wikipedia (S2 and S16 normally every 30 min each). Hours: German Wikipedia (undated); exact S2/S16 times not confirmed. Ride-hailing: Uber and Bolt per bento.travel (updated Aug 2026); FreeNow not confirmed. Taxi: no official airport fixed fare found; taxi-rechner.de (2024) gives CHF 6.75 base plus CHF 3.80/km. Currency CHF ÷ 0.9313 per EUR."
+  },
+  {
+    "city": "GVA",
+    "localTicketEUR": 3.22,
+    "dayPassEUR": 10.74,
+    "rideHailing": ["Uber"],
+    "airports": [
+      {
+        "code": "GVA",
+        "public": {
+          "mode": "train",
+          "to": "Genève-Cornavin",
+          "minutes": 7,
+          "fareEUR": 3.22,
+          "frequency": "every 10–12 min (airporttransferportal, Oct 2026); up to 7 trains/h at peak (everyrail.com guide, Jul 2026)",
+          "hours": "05:00–00:30 (network-wide Léman Express hours, Dec 2025 timetable per English Wikipedia; airport station not separately confirmed; starts before 06:00 and runs past 23:00)"
+        },
+        "taxi": {
+          "fareEUR": 53.69,
+          "minutes": 12,
+          "basis": "official fixed fare airport to city centre, right bank: CHF 50 (Genève Aéroport website; left bank CHF 60); minutes 12 per kiwitaxi.com (third-party; its route section says about 20)",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://www.tpg.ch/en/ticket-fares",
+      "https://www.gva.ch/en/passengers/access-and-transport/taxis",
+      "https://www.ge.ch/document/30851/annexe/0",
+      "https://en.wikipedia.org/wiki/L%C3%A9man_Express",
+      "https://everyrail.com/nl/zwitserland/geneve/",
+      "https://www.airporttransferportal.com/de/airport-guides/gva",
+      "https://kiwitaxi.com/en/switzerland/taxi-from-geneva-airport-to-geneva",
+      "https://bento.travel/switzerland/ride-hailing",
+      "https://www.expatfocus.com/switzerland/guide/switzerland-taxis-and-ride-hailing-services"
+    ],
+    "notes": "Destination Genève-Cornavin (right bank); the taxi uses the right-bank fixed fare. Public: Léman Express; the airport station is in Unireso zone 10 like Cornavin (July 2026 third-party guide), so the zone-10 single CHF 3.00 (60 min, tpg.ch, no 2026 date on page) applies. TPG lines 5 and 10 also reach Cornavin (not used). Possible free arrival ticket: airporttransferportal (Oct 2026) says a free 80-min ticket is issued at baggage reclaim, while a July 2026 guide advises buying one; the gva.ch free-ticket page could not be loaded, so the standard fare is used and the true cost may be zero. Day pass: TPG zone-10 day pass CHF 10.00, valid until 05:00 the next day (not strictly 24 h). Taxi: official fixed fares on the Genève Aéroport website (right bank CHF 50, left bank CHF 60; © 2026 footer, no effective date); a canton annex (code dated Jan 2023) lists the same caps. Ride-hailing: Uber only per bento.travel (Aug 2026); an earlier March 2026 version listed Bolt for Geneva. FreeNow not confirmed. Currency CHF ÷ 0.9313 per EUR."
+  },
+  {
+    "city": "BSL",
+    "localTicketEUR": 4.51,
+    "dayPassEUR": 11.49,
+    "rideHailing": ["Uber", "Bolt"],
+    "airports": [
+      {
+        "code": "BSL",
+        "public": {
+          "mode": "bus",
+          "to": "Basel SBB (main railway station)",
+          "minutes": 20,
+          "fareEUR": 5.48,
+          "frequency": "every 7–10 min (euroairport.com)",
+          "hours": "04:30–00:00 (starts before 06:00 and runs until midnight)"
+        },
+        "taxi": {
+          "fareEUR": 53.69,
+          "minutes": 20,
+          "basis": "indicative EuroAirport website price 'approximate prices from the city center to EuroAirport: BASEL 50 CHF', used for the reverse trip; not a fixed tariff; airconnect.live (Aug 2026) gives CHF 40–55 metered, 15–25 min (20 used)",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://www.euroairport.com/en/transport",
+      "https://www.tnw.ch/en/tickets-preise/billette/einzelbillette",
+      "https://www.tnw.ch/en/tickets-preise/billette/tageskarte",
+      "https://www.tnw.ch/en/tickets-preise/grenzueberschreitende-angebote/angebote-ch-f/einzelbillette",
+      "https://www.bvb.ch/en/?p=22",
+      "https://airconnect.live/en/airports/basel-airport-transport-guide",
+      "https://bento.travel/switzerland/ride-hailing"
+    ],
+    "notes": "EuroAirport Basel-Mulhouse-Freiburg is in Saint-Louis, France; bus 50 departs from its Swiss sector, so CHF applies. Destination Basel SBB. Public: bus 50 (operator BVB per euroairport.com), about 20 min, every 7–10 min, 04:30 to midnight. Its fare is not printed on official pages, so the TNW 2-zone single CHF 5.10 (90 min) is used (inferred: airport zone 13 to city zone 10). Travel-site fares not used: CHF 4.60 (airconnect.live, Aug 2026), CHF 5.60 (airporttransferportal, undated), CHF 6.10 (european-traveler, undated). Local: TNW 1-zone single CHF 4.20 (1 h, zone 10) and TNW zone-10 day ticket CHF 10.70 (valid to 05:00 next day; also covers zones 11, 13, 14, 15). TNW tables are effective 10 Dec 2023; a roughly 3.4% average increase was reported for 2026 (effective date not found). Taxi: EuroAirport's indicative price is used for the reverse trip, not a fixed tariff; the Basel-Stadt taxi tariff PDF was unreadable. Ride-hailing: Uber and Bolt per bento.travel (Aug 2026); FreeNow not confirmed. Currency CHF ÷ 0.9313 per EUR."
+  },
+  {
+    "city": "MLA",
+    "localTicketEUR": 2.00,
+    "dayPassEUR": null,
+    "rideHailing": ["Bolt", "Uber"],
+    "airports": [
+      {
+        "code": "MLA",
+        "public": {
+          "mode": "bus",
+          "to": "Valletta bus terminus (Il-Belt Valletta stop B1)",
+          "minutes": 30,
+          "fareEUR": 3.00,
+          "frequency": "every 30 min",
+          "hours": "05:20–00:50 (weekday and weekend tables not separated)"
+        },
+        "taxi": {
+          "fareEUR": 17.00,
+          "minutes": null,
+          "basis": "third-party booking-site listing (hemenhesap.com) of the airport's former white-taxi fixed fare list, per car one way from the airport; not verified on an official source; EUR 4.50 extra on 25 Dec and 1 Jan per the same site",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://www.publictransport.com.mt/fares-and-tickets/",
+      "https://www.publictransport.com.mt/en/route/TD4",
+      "https://bolt.eu/en-mt/cities/",
+      "https://www.uber.com/mt/en/ride/",
+      "https://publictransportguide.com/malta-public-transport/",
+      "https://www.hemenhesap.com/en/malta-airport-taxi-fare"
+    ],
+    "notes": "Destination: Valletta bus terminus (TD4 stop 'Il-Belt Valletta / Valletta B1'; the official page does not name the terminus). Currency EUR, no conversion. Public: the official fares page (undated) prices Tallinja Direct routes at EUR 3.00; TD4 hours and 30-min frequency come from the official TD4 page (Airport 1 stop 05:20 to 00:50; Valletta B1 05:32 to 01:02; weekday and weekend tables not separated); journey 25–35 min from publictransportguide.com (2026 guide), 30 used as midpoint; that guide says the old X1–X4 airport routes no longer run. Local single EUR 2.00 is the last published winter fare (valid 19 Oct 2025 to 13 Jun 2026; summer EUR 2.50); the 2026/27 winter fare was not yet on the page, and December falls in the winter period. No 24-hour product on the official page (12-journey card EUR 19; 7-day Explore cards EUR 25 and EUR 27), so dayPassEUR is null. Taxi EUR 17: hemenhesap.com, a booking site that says it checked the airport list on 24 Sep 2026 (airport page since removed); per car one way; no journey time found. maltairport.com and transport.gov.mt returned 403. Uber confirmed only via its airport entry on uber.com/mt; Bolt via bolt.eu Malta. WebSearch budget ran out before further checks."
+  },
+  {
+    "city": "LCA",
+    "localTicketEUR": 2.70,
+    "dayPassEUR": null,
+    "rideHailing": ["Bolt"],
+    "airports": [
+      {
+        "code": "LCA",
+        "public": {
+          "mode": null,
+          "to": null,
+          "minutes": null,
+          "fareEUR": null,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": null,
+          "capacity": 4
+        }
+      },
+      {
+        "code": "PFO",
+        "public": {
+          "mode": null,
+          "to": null,
+          "minutes": null,
+          "fareEUR": null,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": null,
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://publictransport.com.cy/cms/page/cash-tickets",
+      "https://publictransport.com.cy/",
+      "https://publictransport.com.cy/cms/page/frequently-asked-questions",
+      "https://publictransport.com.cy/routes/page/routes-and-timetables",
+      "https://www.hermesairports.com/prepare-your-journey/fly-in/public-transportation/",
+      "https://bolt.eu/en-cy/cities/",
+      "https://pafosbuses.com/",
+      "https://kapnosairportshuttle.com/",
+      "https://booking.kapnosairportshuttle.com/coachtrip/?page=routesandfares"
+    ],
+    "notes": "Destination: Larnaca centre. No airport bus route, fare or taxi tariff was retrieved for LCA or PFO, so all their public and taxi fields are null. LCA: Hermes Airports names Cyprus Public Transport (Zenon Buses, 1416) as the airport bus operator, but its route and fare pages returned no data; the hermesairports.com taxi page returned 404; mcw.gov.cy had a certificate error. PFO: Paphos airport is far from Larnaca (roughly 130–150 km); Pafos Transport Organisation covers Paphos district only (airport lines 612 and 613 are local); the Cyprus Public Transport route selector covers Nicosia and Larnaca only; Kapnos Airport Shuttle serves both airports, but its fare table is a dynamic booking form with no data retrieved. Urban fares (publictransport.com.cy cash-tickets, effective 3 Aug 2026; general table, not Larnaca-specific): single EUR 2.70 cash paper ticket (EUR 2.00 on a card), used as localTicketEUR. A 'Daily' EUR 20.00 'Tickets for All Cities' product is listed, but its validity is not printed and it covers five cities, so dayPassEUR is null. Ride-hailing: Bolt lists Larnaca on bolt.eu Cyprus; Uber and FreeNow Cyprus URLs returned 404, so they are not listed. The WebSearch budget ran out before any Cyprus search, so Cyprus figures come from operator pages only. Currency EUR."
+  },
+  {
+    "city": "REK",
+    "localTicketEUR": 5.04,
+    "dayPassEUR": null,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "KEF",
+        "public": {
+          "mode": "coach",
+          "to": "BSÍ bus terminal (Reykjavík city centre)",
+          "minutes": 45,
+          "fareEUR": 29.23,
+          "frequency": "every 30–60 min",
+          "hours": "04:00–22:30 (no service after 22:30; airport times not separated)"
+        },
+        "taxi": {
+          "fareEUR": 164.47,
+          "minutes": 45,
+          "basis": "operator's 'from' price on hreyfill.is (VERÐ FRÁ ISK 22,500) for the KEF–Reykjavík transfer, 1–8 passengers; a starting price, not an official fixed tariff; per-car basis not stated",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://www.flybus.is/",
+      "https://www.klappid.is/en/pricing",
+      "https://straeto.is/en/user-information/news/improved-access-and-facilities-for-regional-buses-at-keflavik-airport",
+      "https://www.hreyfill.is/",
+      "https://taxireykjavik.is/",
+      "https://bolt.eu/en-is/cities/"
+    ],
+    "notes": "Destination: BSÍ bus terminal (Reykjavík centre). KEF is at Keflavík, outside Reykjavík, in the same country. Currency ISK ÷ 136.8 per EUR (ISK 3,999 = EUR 29.23; ISK 22,500 = EUR 164.47; ISK 690 = EUR 5.04). Public: the flybus.is booking widget shows ISK 3,999 for one adult, one way, on a default date of 11 Oct 2026, so it is a live fare that may differ in December; 45 min and BSÍ departures every 30–60 min, about 04:00 to 22:30, per the same page (airport times not separated). Strætó route 55 (BSÍ and/or Fjörður to KEF; twelve daily departures from 1 Oct 2026; news dated 30 Sep 2026) publishes no fare or journey time in the source read, so it is not used and may be cheaper. Taxi: hreyfill.is 'from' price (ISK 22,500, 1–8 passengers, 45 min; page timestamp 17 Jul 2026) is a starting price, not an official tariff; taxireykjavik.is lists no fixed airport price. Local: Strætó adult single ISK 690 on the Klapp pricing page (undated; its summary also mentions a ISK 690 night single, unclarified); no 24-hour ticket listed (30-day pass ISK 12,000), so dayPassEUR is null. Ride-hailing: Bolt's Iceland list omits Iceland; Uber Iceland URLs returned 404; no local app confirmed. WebSearch budget ran out before any Iceland search."
+  }
+]

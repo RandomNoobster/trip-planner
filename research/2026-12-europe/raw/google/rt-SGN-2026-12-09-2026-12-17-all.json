@@ -1,0 +1,130 @@
+{
+ "url": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDVFJEcgcIARIDU0dOGh4SCjIwMjYtMTItMTdqBwgBEgNTR05yBwgBEgNUUkRAAUgBcAGCAQsI____________AZgBAQ&hl=en&gl=NO&curr=EUR",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 1365.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Qatar Airways",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:15",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Tan Son Nhat International Airport",
+   "arrTime": "13:05",
+   "arrDate": "2026-12-10",
+   "durationMin": 1250,
+   "layovers": [
+    {
+     "min": 195,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
+    },
+    {
+     "min": 175,
+     "airport": "Hamad International Airport",
+     "city": "Doha",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 1371.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Malaysia Airlines",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Tan Son Nhat International Airport",
+   "arrTime": "18:10",
+   "arrDate": "2026-12-10",
+   "durationMin": 1140,
+   "layovers": [
+    {
+     "min": 50,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 90,
+     "airport": "Kuala Lumpur International Airport",
+     "city": "Federal Territory of Kuala Lumpur",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 1494.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Vietnam Airlines",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Tan Son Nhat International Airport",
+   "arrTime": "16:10",
+   "arrDate": "2026-12-10",
+   "durationMin": 1670,
+   "layovers": [
+    {
+     "min": 495,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 255,
+     "airport": "Suvarnabhumi Airport",
+     "city": "Bangkok",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 2133.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Air France",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Tan Son Nhat International Airport",
+   "arrTime": "07:40",
+   "arrDate": "2026-12-11",
+   "durationMin": 1950,
+   "layovers": [
+    {
+     "min": 825,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 155,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

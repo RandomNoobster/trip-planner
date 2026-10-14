@@ -1,0 +1,33 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMDcyAkRZMgJEOGoFEgNUUkRyBRIDTUlMQAFIAZgBAg",
+ "fetchedAt": "2026-10-11T11:26:29",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 202.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "08:30",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Milano Malpensa Airport",
+   "arrTime": "12:50",
+   "arrDate": "2026-12-07",
+   "durationMin": 260,
+   "layovers": [
+    {
+     "min": 40,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 202 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 8:30 AM on Monday, December 7 and arrives at Milano Malpensa Airport at 12:50 PM on Monday, December 7. Total duration 4 hr 20 min.  Layover (1 of 1) is a 40 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

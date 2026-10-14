@@ -1,0 +1,129 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTJqBRIDV1JPcgUSA1RJQUABSAGYAQI",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 20.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": "Ryanair Sun",
+   "depAirportName": "Nicolaus Copernicus Wrocław Airport",
+   "depTime": "07:00",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Tirana International Airport",
+   "arrTime": "09:00",
+   "arrDate": "2026-12-12",
+   "durationMin": 120,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 20 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Operated by Ryanair Sun. Leaves Nicolaus Copernicus Wrocław Airport at 7:00 AM on Saturday, December 12 and arrives at Tirana International Airport at 9:00 AM on Saturday, December 12. Total duration 2 hr.   Select flight"
+  },
+  {
+   "price": 110.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "Nicolaus Copernicus Wrocław Airport",
+   "depTime": "05:30",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Tirana International Airport",
+   "arrTime": "17:15",
+   "arrDate": "2026-12-12",
+   "durationMin": 705,
+   "layovers": [
+    {
+     "min": 515,
+     "overnight": false,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 110 euros. 1 stop flight with LOT. Leaves Nicolaus Copernicus Wrocław Airport at 5:30 AM on Saturday, December 12 and arrives at Tirana International Airport at 5:15 PM on Saturday, December 12. Total duration 11 hr 45 min.  Layover (1 of 1) is a 8 hr 35 min layover at Warsaw Chopin Airport in Warsaw. Select flight"
+  },
+  {
+   "price": 119.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa",
+   "operatedBy": "Air Dolomiti",
+   "depAirportName": "Nicolaus Copernicus Wrocław Airport",
+   "depTime": "14:15",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Tirana International Airport",
+   "arrTime": "22:50",
+   "arrDate": "2026-12-12",
+   "durationMin": 515,
+   "layovers": [
+    {
+     "min": 295,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 119 euros. 1 stop flight with Lufthansa. Operated by Air Dolomiti. Leaves Nicolaus Copernicus Wrocław Airport at 2:15 PM on Saturday, December 12 and arrives at Tirana International Airport at 10:50 PM on Saturday, December 12. Total duration 8 hr 35 min.  Layover (1 of 1) is a 4 hr 55 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 126.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "Nicolaus Copernicus Wrocław Airport",
+   "depTime": "12:20",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Tirana International Airport",
+   "arrTime": "17:15",
+   "arrDate": "2026-12-12",
+   "durationMin": 295,
+   "layovers": [
+    {
+     "min": 110,
+     "overnight": false,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 126 euros. 1 stop flight with LOT. Leaves Nicolaus Copernicus Wrocław Airport at 12:20 PM on Saturday, December 12 and arrives at Tirana International Airport at 5:15 PM on Saturday, December 12. Total duration 4 hr 55 min.  Layover (1 of 1) is a 1 hr 50 min layover at Warsaw Chopin Airport in Warsaw. Select flight"
+  },
+  {
+   "price": 159.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa",
+   "operatedBy": "Air Dolomiti",
+   "depAirportName": "Nicolaus Copernicus Wrocław Airport",
+   "depTime": "07:00",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Tirana International Airport",
+   "arrTime": "15:20",
+   "arrDate": "2026-12-12",
+   "durationMin": 500,
+   "layovers": [
+    {
+     "min": 280,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 159 euros. 1 stop flight with Lufthansa. Operated by Air Dolomiti. Leaves Nicolaus Copernicus Wrocław Airport at 7:00 AM on Saturday, December 12 and arrives at Tirana International Airport at 3:20 PM on Saturday, December 12. Total duration 8 hr 20 min.  Layover (1 of 1) is a 4 hr 40 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GjYSCjIwMjYtMTItMDcyAkxIMgJMWDICT1MyAlNOMgJFVzICNFkyAldGagUSA1RSRHIFEgNGUkFAAUgBmAEC",
+ "fetchedAt": "2026-10-11T11:22:03",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 403.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Wideroe and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Frankfurt Airport",
+   "arrTime": "15:00",
+   "arrDate": "2026-12-07",
+   "durationMin": 350,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 403 euros. 1 stop flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 9:10 AM on Monday, December 7 and arrives at Frankfurt Airport at 3:00 PM on Monday, December 7. Total duration 5 hr 50 min.  Layover (1 of 1) is a 2 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+  }
+ ]
+}

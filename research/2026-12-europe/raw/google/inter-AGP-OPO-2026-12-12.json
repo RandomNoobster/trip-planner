@@ -1,0 +1,174 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTJqBRIDQUdQcgUSA09QT0ABSAGYAQI",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 15.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": null,
+   "depAirportName": "Málaga-Costa del Sol Airport",
+   "depTime": "22:05",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Francisco Sá Carneiro Airport",
+   "arrTime": "22:35",
+   "arrDate": "2026-12-12",
+   "durationMin": 90,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 15 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Leaves Málaga-Costa del Sol Airport at 10:05 PM on Saturday, December 12 and arrives at Francisco Sá Carneiro Airport at 10:35 PM on Saturday, December 12. Total duration 1 hr 30 min.   Select flight"
+  },
+  {
+   "price": 22.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": null,
+   "depAirportName": "Málaga-Costa del Sol Airport",
+   "depTime": "09:30",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Francisco Sá Carneiro Airport",
+   "arrTime": "10:00",
+   "arrDate": "2026-12-12",
+   "durationMin": 90,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 22 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Leaves Málaga-Costa del Sol Airport at 9:30 AM on Saturday, December 12 and arrives at Francisco Sá Carneiro Airport at 10:00 AM on Saturday, December 12. Total duration 1 hr 30 min.   Select flight"
+  },
+  {
+   "price": 56.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Vueling",
+   "operatedBy": null,
+   "depAirportName": "Málaga-Costa del Sol Airport",
+   "depTime": "15:30",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Francisco Sá Carneiro Airport",
+   "arrTime": "21:15",
+   "arrDate": "2026-12-12",
+   "durationMin": 405,
+   "layovers": [
+    {
+     "min": 200,
+     "overnight": false,
+     "airport": "Josep Tarradellas Barcelona-El Prat Airport",
+     "city": "Barcelona"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 56 euros.This price does not include overhead bin access. 1 stop flight with Vueling. Leaves Málaga-Costa del Sol Airport at 3:30 PM on Saturday, December 12 and arrives at Francisco Sá Carneiro Airport at 9:15 PM on Saturday, December 12. Total duration 6 hr 45 min.  Layover (1 of 1) is a 3 hr 20 min layover at Josep Tarradellas Barcelona-El Prat Airport in Barcelona. Select flight"
+  },
+  {
+   "price": 65.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Air Europa",
+   "operatedBy": "Air Europa Express",
+   "depAirportName": "Málaga-Costa del Sol Airport",
+   "depTime": "21:10",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Francisco Sá Carneiro Airport",
+   "arrTime": "06:45",
+   "arrDate": "2026-12-13",
+   "durationMin": 635,
+   "layovers": [
+    {
+     "min": 490,
+     "overnight": false,
+     "airport": "Adolfo Suárez Madrid-Barajas Airport",
+     "city": "Madrid"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 65 euros. 1 stop flight with Air Europa. Operated by Air Europa Express. Leaves Málaga-Costa del Sol Airport at 9:10 PM on Saturday, December 12 and arrives at Francisco Sá Carneiro Airport at 6:45 AM on Sunday, December 13. Total duration 10 hr 35 min.  Layover (1 of 1) is a 8 hr 10 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Select flight"
+  },
+  {
+   "price": 80.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Tap Air Portugal",
+   "operatedBy": "Portugalia - Companhia Portuguesa",
+   "depAirportName": "Málaga-Costa del Sol Airport",
+   "depTime": "15:00",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Francisco Sá Carneiro Airport",
+   "arrTime": "18:00",
+   "arrDate": "2026-12-12",
+   "durationMin": 240,
+   "layovers": [
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Humberto Delgado Airport",
+     "city": "Lisbon"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 80 euros. 1 stop flight with Tap Air Portugal. Operated by Portugalia - Companhia Portuguesa. Leaves Málaga-Costa del Sol Airport at 3:00 PM on Saturday, December 12 and arrives at Francisco Sá Carneiro Airport at 6:00 PM on Saturday, December 12. Total duration 4 hr.  Layover (1 of 1) is a 1 hr 35 min layover at Humberto Delgado Airport in Lisbon. Select flight"
+  },
+  {
+   "price": 80.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Air Europa",
+   "operatedBy": "Air Europa Express",
+   "depAirportName": "Málaga-Costa del Sol Airport",
+   "depTime": "12:35",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Francisco Sá Carneiro Airport",
+   "arrTime": "15:15",
+   "arrDate": "2026-12-12",
+   "durationMin": 220,
+   "layovers": [
+    {
+     "min": 75,
+     "overnight": false,
+     "airport": "Adolfo Suárez Madrid-Barajas Airport",
+     "city": "Madrid"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 80 euros. 1 stop flight with Air Europa. Operated by Air Europa Express. Leaves Málaga-Costa del Sol Airport at 12:35 PM on Saturday, December 12 and arrives at Francisco Sá Carneiro Airport at 3:15 PM on Saturday, December 12. Total duration 3 hr 40 min.  Layover (1 of 1) is a 1 hr 15 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Select flight"
+  },
+  {
+   "price": 238.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Iberia",
+   "operatedBy": null,
+   "depAirportName": "Málaga-Costa del Sol Airport",
+   "depTime": "09:10",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Francisco Sá Carneiro Airport",
+   "arrTime": "11:45",
+   "arrDate": "2026-12-12",
+   "durationMin": 215,
+   "layovers": [
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Adolfo Suárez Madrid-Barajas Airport",
+     "city": "Madrid"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 238 euros. 1 stop flight with Iberia. Leaves Málaga-Costa del Sol Airport at 9:10 AM on Saturday, December 12 and arrives at Francisco Sá Carneiro Airport at 11:45 AM on Saturday, December 12. Total duration 3 hr 35 min.  Layover (1 of 1) is a 55 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Select flight"
+  }
+ ]
+}

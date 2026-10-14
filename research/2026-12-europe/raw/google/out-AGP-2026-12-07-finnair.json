@@ -1,0 +1,39 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMDcyAkFZMgJXRmoFEgNUUkRyBRIDQUdQQAFIAZgBAg",
+ "fetchedAt": "2026-10-11T11:25:06",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 277.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Finnair",
+   "operatedBy": "Nordic Reg for Finnair",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "08:05",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Málaga-Costa del Sol Airport",
+   "arrTime": "10:25",
+   "arrDate": "2026-12-08",
+   "durationMin": 1580,
+   "layovers": [
+    {
+     "min": 480,
+     "overnight": false,
+     "airport": "Tromsø Airport",
+     "city": "Tromsø Municipality"
+    },
+    {
+     "min": 590,
+     "overnight": false,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 277 euros. 2 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 8:05 AM on Monday, December 7 and arrives at Málaga-Costa del Sol Airport at 10:25 AM on Tuesday, December 8. Total duration 26 hr 20 min.  Layover (1 of 2) is a 8 hr layover at Tromsø Airport in Tromsø Municipality. Layover (2 of 2) is a 9 hr 50 min layover at Helsinki Airport in Helsinki. Select flight"
+  }
+ ]
+}

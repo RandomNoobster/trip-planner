@@ -1,0 +1,45 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMDcyAkFZMgJXRmoFEgNUUkRyBRIDUFJHQAFIAZgBAg",
+ "fetchedAt": "2026-10-11T11:22:40",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 403.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Wideroe and Finnair",
+   "operatedBy": "Nordic Reg for Finnair, Nordic Reg for Finnair, Jettime A/S for Finnair",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:00",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Letiště Václava Havla Praha",
+   "arrTime": "18:50",
+   "arrDate": "2026-12-07",
+   "durationMin": 770,
+   "layovers": [
+    {
+     "min": 195,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    },
+    {
+     "min": 25,
+     "overnight": false,
+     "airport": "Stockholm Arlanda Airport",
+     "city": "Stockholm"
+    },
+    {
+     "min": 165,
+     "overnight": false,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 403 euros. 3 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair, Jettime A/S for Finnair. Leaves Trondheim Airport, Værnes at 6:00 AM on Monday, December 7 and arrives at Letiště Václava Havla Praha at 6:50 PM on Monday, December 7. Total duration 12 hr 50 min.  Layover (1 of 3) is a 3 hr 15 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 2 hr 45 min layover at Helsinki Airport in Helsinki. Select flight"
+  }
+ ]
+}

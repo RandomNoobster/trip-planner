@@ -1,0 +1,115 @@
+{
+ "outboundFlights": [
+  {
+   "departureStation": "SZZ",
+   "arrivalStation": "OSL",
+   "departureDate": "2026-12-04T00:00:00",
+   "price": {
+    "amount": 79.0,
+    "currencyCode": "PLN",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "originalPrice": {
+    "amount": 79.0,
+    "currencyCode": "PLN",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "priceType": "price",
+   "departureDates": [
+    "2026-12-04T10:30:00"
+   ],
+   "hasMacFlight": false
+  },
+  {
+   "departureStation": "SZZ",
+   "arrivalStation": "OSL",
+   "departureDate": "2026-12-07T00:00:00",
+   "price": {
+    "amount": 89.0,
+    "currencyCode": "PLN",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "originalPrice": {
+    "amount": 89.0,
+    "currencyCode": "PLN",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "priceType": "price",
+   "departureDates": [
+    "2026-12-07T10:30:00"
+   ],
+   "hasMacFlight": false
+  },
+  {
+   "departureStation": "SZZ",
+   "arrivalStation": "OSL",
+   "departureDate": "2026-12-11T00:00:00",
+   "price": {
+    "amount": 79.0,
+    "currencyCode": "PLN",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "originalPrice": {
+    "amount": 79.0,
+    "currencyCode": "PLN",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "priceType": "price",
+   "departureDates": [
+    "2026-12-11T10:30:00"
+   ],
+   "hasMacFlight": false
+  },
+  {
+   "departureStation": "SZZ",
+   "arrivalStation": "OSL",
+   "departureDate": "2026-12-14T00:00:00",
+   "price": {
+    "amount": 89.0,
+    "currencyCode": "PLN",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "originalPrice": {
+    "amount": 89.0,
+    "currencyCode": "PLN",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "priceType": "price",
+   "departureDates": [
+    "2026-12-14T10:30:00"
+   ],
+   "hasMacFlight": false
+  },
+  {
+   "departureStation": "SZZ",
+   "arrivalStation": "OSL",
+   "departureDate": "2026-12-18T00:00:00",
+   "price": {
+    "amount": 79.0,
+    "currencyCode": "PLN",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "originalPrice": {
+    "amount": 79.0,
+    "currencyCode": "PLN",
+    "exchangedAmount": null,
+    "exchangedCurrencyCode": null
+   },
+   "priceType": "price",
+   "departureDates": [
+    "2026-12-18T10:30:00"
+   ],
+   "hasMacFlight": false
+  }
+ ],
+ "returnFlights": null
+}

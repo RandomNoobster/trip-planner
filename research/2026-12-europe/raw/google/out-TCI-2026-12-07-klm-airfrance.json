@@ -1,0 +1,65 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMDcyAktMMgJBRmoFEgNUUkRyBRIDVENJQAFIAZgBAg",
+ "fetchedAt": "2026-10-11T11:25:43",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 209.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM and Transavia",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Tenerife South Airport",
+   "arrTime": "16:10",
+   "arrDate": "2026-12-07",
+   "durationMin": 650,
+   "layovers": [
+    {
+     "min": 225,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 209 euros. 1 stop flight with KLM and Transavia. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Monday, December 7 and arrives at Tenerife South Airport at 4:10 PM on Monday, December 7. Total duration 10 hr 50 min.  Layover (1 of 1) is a 3 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 559.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Air Europa",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Tenerife North Airport",
+   "arrTime": "16:55",
+   "arrDate": "2026-12-07",
+   "durationMin": 695,
+   "layovers": [
+    {
+     "min": 60,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    },
+    {
+     "min": 170,
+     "overnight": false,
+     "airport": "Adolfo Suárez Madrid-Barajas Airport",
+     "city": "Madrid"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 559 euros. 2 stops flight with KLM and Air Europa. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Monday, December 7 and arrives at Tenerife North Airport at 4:55 PM on Monday, December 7. Total duration 11 hr 35 min.  Layover (1 of 2) is a 1 hr layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 2 hr 50 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Select flight"
+  }
+ ]
+}

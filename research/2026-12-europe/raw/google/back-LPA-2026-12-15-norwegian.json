@@ -1,0 +1,33 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMTUyAkRZMgJEOGoFEgNMUEFyBRIDVFJEQAFIAZgBAg",
+ "fetchedAt": "2026-10-11T11:25:35",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 225.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Gran Canaria Airport",
+   "depTime": "16:45",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "08:55",
+   "arrDate": "2026-12-16",
+   "durationMin": 910,
+   "layovers": [
+    {
+     "min": 520,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 225 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Gran Canaria Airport at 4:45 PM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 8:55 AM on Wednesday, December 16. Total duration 15 hr 10 min.  Layover (1 of 1) is a 8 hr 40 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

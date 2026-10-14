@@ -1,0 +1,371 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDhqBRIDQUxDcgUSA0dETkABSAGYAQI",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 80.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Wizz Air",
+   "operatedBy": null,
+   "depAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "depTime": "18:55",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "22:30",
+   "arrDate": "2026-12-08",
+   "durationMin": 215,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 80 euros.This price does not include overhead bin access. Nonstop flight with Wizz Air. Leaves Alicante-Elche Miguel Hernández Airport at 6:55 PM on Tuesday, December 8 and arrives at Gdansk Lech Walesa Airport at 10:30 PM on Tuesday, December 8. Total duration 3 hr 35 min.   Select flight"
+  },
+  {
+   "price": 169.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Transavia and KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "depTime": "13:35",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "22:35",
+   "arrDate": "2026-12-08",
+   "durationMin": 540,
+   "layovers": [
+    {
+     "min": 270,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 169 euros. 1 stop flight with Transavia and KLM. Operated by KLM Cityhopper. Leaves Alicante-Elche Miguel Hernández Airport at 1:35 PM on Tuesday, December 8 and arrives at Gdansk Lech Walesa Airport at 10:35 PM on Tuesday, December 8. Total duration 9 hr.  Layover (1 of 1) is a 4 hr 30 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 279.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air Europa and LOT",
+   "operatedBy": null,
+   "depAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "depTime": "12:35",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "20:50",
+   "arrDate": "2026-12-08",
+   "durationMin": 495,
+   "layovers": [
+    {
+     "min": 105,
+     "overnight": false,
+     "airport": "Adolfo Suárez Madrid-Barajas Airport",
+     "city": "Madrid"
+    },
+    {
+     "min": 50,
+     "overnight": false,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 279 euros. 2 stops flight with Air Europa and LOT. Leaves Alicante-Elche Miguel Hernández Airport at 12:35 PM on Tuesday, December 8 and arrives at Gdansk Lech Walesa Airport at 8:50 PM on Tuesday, December 8. Total duration 8 hr 15 min.  Layover (1 of 2) is a 1 hr 45 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Layover (2 of 2) is a 50 min layover at Warsaw Chopin Airport in Warsaw. Select flight"
+  },
+  {
+   "price": 240.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Brussels Airlines and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "depTime": "14:15",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "13:45",
+   "arrDate": "2026-12-09",
+   "durationMin": 1410,
+   "layovers": [
+    {
+     "min": 935,
+     "overnight": false,
+     "airport": "Brussels Airport",
+     "city": "Brussels"
+    },
+    {
+     "min": 170,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 240 euros. 2 stops flight with Brussels Airlines and Lufthansa. Leaves Alicante-Elche Miguel Hernández Airport at 2:15 PM on Tuesday, December 8 and arrives at Gdansk Lech Walesa Airport at 1:45 PM on Wednesday, December 9. Total duration 23 hr 30 min.  Layover (1 of 2) is a 15 hr 35 min layover at Brussels Airport in Brussels. Layover (2 of 2) is a 2 hr 50 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 240.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Brussels Airlines and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "depTime": "14:15",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "13:45",
+   "arrDate": "2026-12-09",
+   "durationMin": 1410,
+   "layovers": [
+    {
+     "min": 1000,
+     "overnight": false,
+     "airport": "Brussels Airport",
+     "city": "Brussels"
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 240 euros. 2 stops flight with Brussels Airlines and Lufthansa. Leaves Alicante-Elche Miguel Hernández Airport at 2:15 PM on Tuesday, December 8 and arrives at Gdansk Lech Walesa Airport at 1:45 PM on Wednesday, December 9. Total duration 23 hr 30 min.  Layover (1 of 2) is a 16 hr 40 min layover at Brussels Airport in Brussels. Layover (2 of 2) is a 1 hr 35 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 240.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Brussels Airlines and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "depTime": "14:15",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "13:45",
+   "arrDate": "2026-12-09",
+   "durationMin": 1410,
+   "layovers": [
+    {
+     "min": 850,
+     "overnight": false,
+     "airport": "Brussels Airport",
+     "city": "Brussels"
+    },
+    {
+     "min": 245,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 240 euros. 2 stops flight with Brussels Airlines and Lufthansa. Leaves Alicante-Elche Miguel Hernández Airport at 2:15 PM on Tuesday, December 8 and arrives at Gdansk Lech Walesa Airport at 1:45 PM on Wednesday, December 9. Total duration 23 hr 30 min.  Layover (1 of 2) is a 14 hr 10 min layover at Brussels Airport in Brussels. Layover (2 of 2) is a 4 hr 5 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 286.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air Europa and LOT",
+   "operatedBy": null,
+   "depAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "depTime": "20:45",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "20:50",
+   "arrDate": "2026-12-09",
+   "durationMin": 1445,
+   "layovers": [
+    {
+     "min": 1055,
+     "overnight": false,
+     "airport": "Adolfo Suárez Madrid-Barajas Airport",
+     "city": "Madrid"
+    },
+    {
+     "min": 50,
+     "overnight": false,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 286 euros. 2 stops flight with Air Europa and LOT. Leaves Alicante-Elche Miguel Hernández Airport at 8:45 PM on Tuesday, December 8 and arrives at Gdansk Lech Walesa Airport at 8:50 PM on Wednesday, December 9. Total duration 24 hr 5 min.  Layover (1 of 2) is a 17 hr 35 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Layover (2 of 2) is a 50 min layover at Warsaw Chopin Airport in Warsaw. Select flight"
+  },
+  {
+   "price": 451.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Iberia and LOT",
+   "operatedBy": "Air Nostrum for Iberia",
+   "depAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "depTime": "21:30",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "20:50",
+   "arrDate": "2026-12-09",
+   "durationMin": 1400,
+   "layovers": [
+    {
+     "min": 1005,
+     "overnight": false,
+     "airport": "Adolfo Suárez Madrid-Barajas Airport",
+     "city": "Madrid"
+    },
+    {
+     "min": 50,
+     "overnight": false,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 451 euros. 2 stops flight with Iberia and LOT. Operated by Air Nostrum for Iberia. Leaves Alicante-Elche Miguel Hernández Airport at 9:30 PM on Tuesday, December 8 and arrives at Gdansk Lech Walesa Airport at 8:50 PM on Wednesday, December 9. Total duration 23 hr 20 min.  Layover (1 of 2) is a 16 hr 45 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Layover (2 of 2) is a 50 min layover at Warsaw Chopin Airport in Warsaw. Select flight"
+  },
+  {
+   "price": 1027.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "SWISS and LOT",
+   "operatedBy": null,
+   "depAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "depTime": "19:45",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "15:50",
+   "arrDate": "2026-12-09",
+   "durationMin": 1205,
+   "layovers": [
+    {
+     "min": 740,
+     "overnight": false,
+     "airport": "Zurich Airport",
+     "city": "Zürich"
+    },
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 1027 euros. 2 stops flight with SWISS and LOT. Leaves Alicante-Elche Miguel Hernández Airport at 7:45 PM on Tuesday, December 8 and arrives at Gdansk Lech Walesa Airport at 3:50 PM on Wednesday, December 9. Total duration 20 hr 5 min.  Layover (1 of 2) is a 12 hr 20 min layover at Zurich Airport in Zürich. Layover (2 of 2) is a 2 hr 35 min layover at Warsaw Chopin Airport in Warsaw. Select flight"
+  },
+  {
+   "price": 1035.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "SWISS and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "depTime": "16:05",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "23:40",
+   "arrDate": "2026-12-08",
+   "durationMin": 455,
+   "layovers": [
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Zurich Airport",
+     "city": "Zürich"
+    },
+    {
+     "min": 80,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 1035 euros. 2 stops flight with SWISS and Lufthansa. Leaves Alicante-Elche Miguel Hernández Airport at 4:05 PM on Tuesday, December 8 and arrives at Gdansk Lech Walesa Airport at 11:40 PM on Tuesday, December 8. Total duration 7 hr 35 min.  Layover (1 of 2) is a 1 hr 25 min layover at Zurich Airport in Zürich. Layover (2 of 2) is a 1 hr 20 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 1035.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "SWISS and Lufthansa",
+   "operatedBy": "Air Dolomiti",
+   "depAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "depTime": "19:45",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "13:45",
+   "arrDate": "2026-12-09",
+   "durationMin": 1080,
+   "layovers": [
+    {
+     "min": 650,
+     "overnight": false,
+     "airport": "Zurich Airport",
+     "city": "Zürich"
+    },
+    {
+     "min": 135,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 1035 euros. 2 stops flight with SWISS and Lufthansa. Operated by Air Dolomiti. Leaves Alicante-Elche Miguel Hernández Airport at 7:45 PM on Tuesday, December 8 and arrives at Gdansk Lech Walesa Airport at 1:45 PM on Wednesday, December 9. Total duration 18 hr.  Layover (1 of 2) is a 10 hr 50 min layover at Zurich Airport in Zürich. Layover (2 of 2) is a 2 hr 15 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 1035.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "SWISS and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "depTime": "19:45",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "13:45",
+   "arrDate": "2026-12-09",
+   "durationMin": 1080,
+   "layovers": [
+    {
+     "min": 535,
+     "overnight": false,
+     "airport": "Zurich Airport",
+     "city": "Zürich"
+    },
+    {
+     "min": 255,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 1035 euros. 2 stops flight with SWISS and Lufthansa. Leaves Alicante-Elche Miguel Hernández Airport at 7:45 PM on Tuesday, December 8 and arrives at Gdansk Lech Walesa Airport at 1:45 PM on Wednesday, December 9. Total duration 18 hr.  Layover (1 of 2) is a 8 hr 55 min layover at Zurich Airport in Zürich. Layover (2 of 2) is a 4 hr 15 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  }
+ ]
+}

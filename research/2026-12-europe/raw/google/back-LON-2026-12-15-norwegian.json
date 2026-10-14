@@ -1,0 +1,59 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMTUyAkRZMgJEOGoFEgNMT05yBRIDVFJEQAFIAZgBAg",
+ "fetchedAt": "2026-10-11T11:19:15",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 161.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": "Norwegian",
+   "depAirportName": "London Gatwick Airport",
+   "depTime": "09:15",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "17:55",
+   "arrDate": "2026-12-15",
+   "durationMin": 460,
+   "layovers": [
+    {
+     "min": 275,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 161 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves London Gatwick Airport at 9:15 AM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 5:55 PM on Tuesday, December 15. Total duration 7 hr 40 min.  Layover (1 of 1) is a 4 hr 35 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 178.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "London Gatwick Airport",
+   "depTime": "09:15",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "15:35",
+   "arrDate": "2026-12-15",
+   "durationMin": 320,
+   "layovers": [
+    {
+     "min": 135,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 178 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves London Gatwick Airport at 9:15 AM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 3:35 PM on Tuesday, December 15. Total duration 5 hr 20 min.  Layover (1 of 1) is a 2 hr 15 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

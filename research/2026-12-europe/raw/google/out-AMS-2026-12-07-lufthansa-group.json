@@ -1,0 +1,39 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GjYSCjIwMjYtMTItMDcyAkxIMgJMWDICT1MyAlNOMgJFVzICNFkyAldGagUSA1RSRHIFEgNBTVNAAUgBmAEC",
+ "fetchedAt": "2026-10-11T11:23:16",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 528.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Lufthansa",
+   "operatedBy": "Air Dolomiti",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Amsterdam Airport Schiphol",
+   "arrTime": "17:55",
+   "arrDate": "2026-12-07",
+   "durationMin": 525,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    },
+    {
+     "min": 100,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 528 euros. 2 stops flight with Wideroe and Lufthansa. Operated by Air Dolomiti. Leaves Trondheim Airport, Værnes at 9:10 AM on Monday, December 7 and arrives at Amsterdam Airport Schiphol at 5:55 PM on Monday, December 7. Total duration 8 hr 45 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 1 hr 40 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDRFJTcgUSA1BSR0ABSAGYAQI",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 189.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 2,
+   "airlines": "Lufthansa",
+   "operatedBy": "Air Dolomiti",
+   "depAirportName": "Dresden Airport",
+   "depTime": "11:00",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Letiště Václava Havla Praha",
+   "arrTime": "16:05",
+   "arrDate": "2026-12-13",
+   "durationMin": 305,
+   "layovers": [
+    {
+     "min": 70,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    },
+    {
+     "min": 65,
+     "overnight": false,
+     "airport": "Munich International Airport",
+     "city": "Munich"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 189 euros.This price does not include overhead bin access. 2 stops flight with Lufthansa. Operated by Air Dolomiti. Leaves Dresden Airport at 11:00 AM on Sunday, December 13 and arrives at Letiště Václava Havla Praha at 4:05 PM on Sunday, December 13. Total duration 5 hr 5 min.  Layover (1 of 2) is a 1 hr 10 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 5 min layover at Munich International Airport in Munich. Carbon emissions estimate: 179 kilograms. Select flight"
+  }
+ ]
+}

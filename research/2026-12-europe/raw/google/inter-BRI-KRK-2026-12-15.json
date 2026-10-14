@@ -1,0 +1,77 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTVqBRIDQlJJcgUSA0tSS0ABSAGYAQI",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 62.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": "Ryanair Sun",
+   "depAirportName": "Bari International Airport-Karol Wojtyla",
+   "depTime": "21:05",
+   "depDate": "2026-12-15",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "23:00",
+   "arrDate": "2026-12-15",
+   "durationMin": 115,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 62 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Operated by Ryanair Sun. Leaves Bari International Airport-Karol Wojtyla at 9:05 PM on Tuesday, December 15 and arrives at John Paul II Kraków Balice International Airport at 11:00 PM on Tuesday, December 15. Total duration 1 hr 55 min.   Select flight"
+  },
+  {
+   "price": 123.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Air Dolomiti and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Bari International Airport-Karol Wojtyla",
+   "depTime": "18:15",
+   "depDate": "2026-12-15",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "23:40",
+   "arrDate": "2026-12-15",
+   "durationMin": 325,
+   "layovers": [
+    {
+     "min": 135,
+     "overnight": false,
+     "airport": "Munich International Airport",
+     "city": "Munich"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 123 euros. 1 stop flight with Air Dolomiti and Lufthansa. Leaves Bari International Airport-Karol Wojtyla at 6:15 PM on Tuesday, December 15 and arrives at John Paul II Kraków Balice International Airport at 11:40 PM on Tuesday, December 15. Total duration 5 hr 25 min.  Layover (1 of 1) is a 2 hr 15 min layover at Munich International Airport in Munich. Select flight"
+  },
+  {
+   "price": 128.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Transavia and KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Bari International Airport-Karol Wojtyla",
+   "depTime": "10:35",
+   "depDate": "2026-12-15",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "17:00",
+   "arrDate": "2026-12-15",
+   "durationMin": 385,
+   "layovers": [
+    {
+     "min": 105,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 128 euros. 1 stop flight with Transavia and KLM. Operated by KLM Cityhopper. Leaves Bari International Airport-Karol Wojtyla at 10:35 AM on Tuesday, December 15 and arrives at John Paul II Kraków Balice International Airport at 5:00 PM on Tuesday, December 15. Total duration 6 hr 25 min.  Layover (1 of 1) is a 1 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  }
+ ]
+}

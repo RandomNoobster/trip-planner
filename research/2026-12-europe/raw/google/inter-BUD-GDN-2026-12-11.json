@@ -1,0 +1,200 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTFqBRIDQlVEcgUSA0dETkABSAGYAQI",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 42.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Wizz Air",
+   "operatedBy": null,
+   "depAirportName": "Budapest Ferenc Liszt International Airport",
+   "depTime": "17:20",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "18:55",
+   "arrDate": "2026-12-11",
+   "durationMin": 95,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 42 euros.This price does not include overhead bin access. Nonstop flight with Wizz Air. Leaves Budapest Ferenc Liszt International Airport at 5:20 PM on Friday, December 11 and arrives at Gdansk Lech Walesa Airport at 6:55 PM on Friday, December 11. Total duration 1 hr 35 min.   Select flight"
+  },
+  {
+   "price": 68.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": "Ryanair Sun",
+   "depAirportName": "Budapest Ferenc Liszt International Airport",
+   "depTime": "10:35",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "12:15",
+   "arrDate": "2026-12-11",
+   "durationMin": 100,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 68 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Operated by Ryanair Sun. Leaves Budapest Ferenc Liszt International Airport at 10:35 AM on Friday, December 11 and arrives at Gdansk Lech Walesa Airport at 12:15 PM on Friday, December 11. Total duration 1 hr 40 min.   Select flight"
+  },
+  {
+   "price": 151.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "Budapest Ferenc Liszt International Airport",
+   "depTime": "12:55",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "15:50",
+   "arrDate": "2026-12-11",
+   "durationMin": 175,
+   "layovers": [
+    {
+     "min": 45,
+     "overnight": false,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 151 euros. 1 stop flight with LOT. Leaves Budapest Ferenc Liszt International Airport at 12:55 PM on Friday, December 11 and arrives at Gdansk Lech Walesa Airport at 3:50 PM on Friday, December 11. Total duration 2 hr 55 min.  Layover (1 of 1) is a 45 min layover at Warsaw Chopin Airport in Warsaw. Select flight"
+  },
+  {
+   "price": 145.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "Budapest Ferenc Liszt International Airport",
+   "depTime": "12:55",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "17:30",
+   "arrDate": "2026-12-11",
+   "durationMin": 275,
+   "layovers": [
+    {
+     "min": 140,
+     "overnight": false,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 145 euros. 1 stop flight with LOT. Leaves Budapest Ferenc Liszt International Airport at 12:55 PM on Friday, December 11 and arrives at Gdansk Lech Walesa Airport at 5:30 PM on Friday, December 11. Total duration 4 hr 35 min.  Layover (1 of 1) is a 2 hr 20 min layover at Warsaw Chopin Airport in Warsaw. Select flight"
+  },
+  {
+   "price": 145.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "Budapest Ferenc Liszt International Airport",
+   "depTime": "18:00",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "20:50",
+   "arrDate": "2026-12-11",
+   "durationMin": 170,
+   "layovers": [
+    {
+     "min": 40,
+     "overnight": false,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 145 euros. 1 stop flight with LOT. Leaves Budapest Ferenc Liszt International Airport at 6:00 PM on Friday, December 11 and arrives at Gdansk Lech Walesa Airport at 8:50 PM on Friday, December 11. Total duration 2 hr 50 min.  Layover (1 of 1) is a 40 min layover at Warsaw Chopin Airport in Warsaw. Select flight"
+  },
+  {
+   "price": 145.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "Budapest Ferenc Liszt International Airport",
+   "depTime": "20:25",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "00:10",
+   "arrDate": "2026-12-12",
+   "durationMin": 225,
+   "layovers": [
+    {
+     "min": 90,
+     "overnight": false,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 145 euros. 1 stop flight with LOT. Leaves Budapest Ferenc Liszt International Airport at 8:25 PM on Friday, December 11 and arrives at Gdansk Lech Walesa Airport at 12:10 AM on Saturday, December 12. Total duration 3 hr 45 min.  Layover (1 of 1) is a 1 hr 30 min layover at Warsaw Chopin Airport in Warsaw. Select flight"
+  },
+  {
+   "price": 171.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Budapest Ferenc Liszt International Airport",
+   "depTime": "18:35",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "23:40",
+   "arrDate": "2026-12-11",
+   "durationMin": 305,
+   "layovers": [
+    {
+     "min": 110,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 171 euros. 1 stop flight with Lufthansa. Leaves Budapest Ferenc Liszt International Airport at 6:35 PM on Friday, December 11 and arrives at Gdansk Lech Walesa Airport at 11:40 PM on Friday, December 11. Total duration 5 hr 5 min.  Layover (1 of 1) is a 1 hr 50 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 278.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Budapest Ferenc Liszt International Airport",
+   "depTime": "12:25",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "17:35",
+   "arrDate": "2026-12-11",
+   "durationMin": 310,
+   "layovers": [
+    {
+     "min": 80,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 278 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Budapest Ferenc Liszt International Airport at 12:25 PM on Friday, December 11 and arrives at Gdansk Lech Walesa Airport at 5:35 PM on Friday, December 11. Total duration 5 hr 10 min.  Layover (1 of 1) is a 1 hr 20 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMDcyAkRZMgJEOGoFEgNUUkRyBRIDTUFOQAFIAZgBAg",
+ "fetchedAt": "2026-10-11T11:23:50",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 183.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": "Norwegian",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "14:55",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Manchester Airport",
+   "arrTime": "17:50",
+   "arrDate": "2026-12-07",
+   "durationMin": 235,
+   "layovers": [
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 183 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Trondheim Airport, Værnes at 2:55 PM on Monday, December 7 and arrives at Manchester Airport at 5:50 PM on Monday, December 7. Total duration 3 hr 55 min.  Layover (1 of 1) is a 55 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

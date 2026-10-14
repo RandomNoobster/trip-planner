@@ -1,0 +1,33 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDhqBRIDVFJEcgUSA0VESRoaEgoyMDI2LTEyLTE3agUSA0VESXIFEgNUUkRAAUgBmAEB",
+ "fetchedAt": "2026-10-11T11:23:28",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 308.0,
+   "roundTripTotal": true,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:25",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Edinburgh Airport",
+   "arrTime": "12:55",
+   "arrDate": "2026-12-08",
+   "durationMin": 270,
+   "layovers": [
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 308 euros round trip total.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 9:25 AM on Tuesday, December 8 and arrives at Edinburgh Airport at 12:55 PM on Tuesday, December 8. Total duration 4 hr 30 min.  Layover (1 of 1) is a 1 hr 35 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

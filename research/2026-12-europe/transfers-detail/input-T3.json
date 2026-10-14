@@ -1,0 +1,378 @@
+[
+ {
+  "city": "GOT",
+  "name": "Gothenburg",
+  "country": "Sweden",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Gothenburg",
+  "airports": [
+   {
+    "code": "GOT",
+    "name": "Gothenburg Landvetter Airport",
+    "known": {
+     "public": {
+      "mode": "shuttle bus",
+      "to": "Gothenburg Central (Nils Ericson Terminal)",
+      "minutes": 20,
+      "fareEUR": 12.45,
+      "frequency": "about every 15 min (Rome2Rio estimate)",
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": 44.77,
+      "minutes": null,
+      "basis": "Quoted Landvetter-to-centre taxi 420-550 SEK across guides (Airmundo about 500; fixed-fare cabs 435-500; gu.se about 550). 500 SEK used. Not an official tariff; some quotes are undated or from event pages.",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "KRK",
+  "name": "Kraków",
+  "country": "Poland",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Krak%C3%B3w",
+  "airports": [
+   {
+    "code": "KRK",
+    "name": "Kraków John Paul II Airport (Balice)",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "MUC",
+  "name": "Munich",
+  "country": "Germany",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Munich",
+  "airports": [
+   {
+    "code": "MUC",
+    "name": "Munich Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus",
+   "train"
+  ]
+ },
+ {
+  "city": "PRG",
+  "name": "Prague",
+  "country": "Czechia",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Prague",
+  "airports": [
+   {
+    "code": "PRG",
+    "name": "Václav Havel Airport Prague",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Staroměstská metro (line A, Old Town), via Nádraží Veleslavín (bus 119, then metro A)",
+      "minutes": 45,
+      "fareEUR": 2.05,
+      "frequency": "bus 119 every 7-10 min to Nádraží Veleslavín",
+      "hours": "about 05:00-24:00; night bus 510 after midnight"
+     },
+     "taxi": {
+      "fareEUR": 23.6,
+      "minutes": 30,
+      "basis": "metered taxi estimate per helloprague.net (midpoint of CZK 500-650); no official fixed fare confirmed",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus",
+   "train"
+  ]
+ },
+ {
+  "city": "LON",
+  "name": "London",
+  "country": "United Kingdom",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/London",
+  "airports": [],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "LYS",
+  "name": "Lyon",
+  "country": "France",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Lyon",
+  "airports": [
+   {
+    "code": "LYS",
+    "name": "Lyon-Saint-Exupéry Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "AGP",
+  "name": "Málaga",
+  "country": "Spain",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/M%C3%A1laga",
+  "airports": [
+   {
+    "code": "AGP",
+    "name": "Málaga Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "OPO",
+  "name": "Porto",
+  "country": "Portugal",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Porto",
+  "airports": [
+   {
+    "code": "OPO",
+    "name": "Porto Francisco Sá Carneiro Airport",
+    "known": {
+     "public": {
+      "mode": "metro",
+      "to": "São Bento station",
+      "minutes": null,
+      "fareEUR": 2.3,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": 20,
+      "basis": "no official fixed airport fare found; metered, no EUR estimate found; minutes = midpoint of the 15–25 min quoted for Aliados/Bolhão (aggregator)",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "NAP",
+  "name": "Naples",
+  "country": "Italy",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Naples",
+  "airports": [
+   {
+    "code": "NAP",
+    "name": "Naples International Airport",
+    "known": {
+     "public": {
+      "mode": "shuttle bus",
+      "to": "Napoli Centrale (Piazza Garibaldi)",
+      "minutes": 15,
+      "fareEUR": 5,
+      "frequency": "every 15 min",
+      "hours": "05:30–00:00 from airport (Centrale to airport 05:10–23:50)"
+     },
+     "taxi": {
+      "fareEUR": 21,
+      "minutes": null,
+      "basis": "flat fare per car to Stazione Centrale per the Comune tariff, last updated 2024 (Sicurauto, 2026 article); a Napolike snippet mentions 25 for 2026 fixed fares, not verified",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "BRI",
+  "name": "Bari",
+  "country": "Italy",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Bari",
+  "airports": [
+   {
+    "code": "BRI",
+    "name": "Bari Karol Wojtyła Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Bari Centrale (Piazza Aldo Moro stop, beside the railway station)",
+      "minutes": 40,
+      "fareEUR": 1.5,
+      "frequency": "every 26–60 min (sources differ)",
+      "hours": "05:25–22:00 from airport (ESN Bari; orariautobus lists 04:55–22:10 on weekdays)"
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": "no official fixed fare or metered estimate found",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "BEG",
+  "name": "Belgrade",
+  "country": "Serbia",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Belgrade",
+  "airports": [
+   {
+    "code": "BEG",
+    "name": "Belgrade Nikola Tesla Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Beograd Centar (main railway station), line 600",
+      "minutes": 45,
+      "fareEUR": 0.0,
+      "frequency": "every 30 min",
+      "hours": "04:45–23:55 from the airport (no service before 04:45 or after 23:55)"
+     },
+     "taxi": {
+      "fareEUR": 19.62,
+      "minutes": null,
+      "basis": "official beg.aero airport taxi price for the Stari Grad / Vračar zone, RSD 2,300 at 117.2 per EUR (search excerpt only; the page returned 403 to fetch); a 2025 travel-site figure of RSD 3,000 (EUR 25.60) also exists",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "SJJ",
+  "name": "Sarajevo",
+  "country": "Bosnia and Herzegovina",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Sarajevo",
+  "airports": [
+   {
+    "code": "SJJ",
+    "name": "Sarajevo International Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Baščaršija (Centrotrans line 36 terminus near the Sebilj fountain)",
+      "minutes": 30,
+      "fareEUR": 2.56,
+      "frequency": "every 30–40 min",
+      "hours": "06:00–22:00 (no service before 06:00 or after 22:00)"
+     },
+     "taxi": {
+      "fareEUR": 10.23,
+      "minutes": null,
+      "basis": "metered upper figure: Wikivoyage (undated) says the centre fare should not exceed 20 KM (converted); not a fixed or typical fare; no official airport tariff found",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "LCA",
+  "name": "Larnaca",
+  "country": "Cyprus",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Larnaca",
+  "airports": [
+   {
+    "code": "LCA",
+    "name": "Larnaca International Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": []
+ }
+]

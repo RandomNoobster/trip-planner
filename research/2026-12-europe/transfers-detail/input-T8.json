@@ -1,0 +1,291 @@
+[
+ {
+  "city": "MIL",
+  "name": "Milan",
+  "country": "Italy",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Milan",
+  "airports": [
+   {
+    "code": "MXP",
+    "name": "Milan Malpensa Airport",
+    "known": {
+     "public": {
+      "mode": "train",
+      "to": "Milano Centrale",
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": "every 30 min",
+      "hours": "05:09–22:09 from T1–T2 (SEA timetable page; not cross-checked)"
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": "no official fixed fare found; SEA taxi page lists phone numbers only",
+      "capacity": 4
+     },
+     "from": "south-west.json"
+    }
+   },
+   {
+    "code": "LIN",
+    "name": "Milan Linate Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": "no fare on the SEA Linate taxi page",
+      "capacity": 4
+     },
+     "from": "south-west.json"
+    }
+   },
+   {
+    "code": "BGY",
+    "name": "Bergamo Orio al Serio Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": "not found (airport site returned 403)",
+      "capacity": 4
+     },
+     "from": "south-west.json"
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "ROM",
+  "name": "Rome",
+  "country": "Italy",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Rome",
+  "airports": [
+   {
+    "code": "FCO",
+    "name": "Rome Fiumicino Airport",
+    "known": {
+     "public": {
+      "mode": "train",
+      "to": "Roma Termini",
+      "minutes": 32,
+      "fareEUR": 14,
+      "frequency": "every 15 min",
+      "hours": "05:38–23:27 from FCO (Termini departures 04:50–23:05)"
+     },
+     "taxi": {
+      "fareEUR": 55,
+      "minutes": 50,
+      "basis": "official fixed fare to inside the Aurelian Walls (Termini is inside), ADR page; tariff of 16 Jul 2024; minutes = midpoint of an aggregator range of 40–60",
+      "capacity": 4
+     },
+     "from": "south-west.json"
+    }
+   },
+   {
+    "code": "CIA",
+    "name": "Rome Ciampino Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Roma Termini (Ciampino Airlink bus to Ciampino station, then regional train)",
+      "minutes": 50,
+      "fareEUR": 2.7,
+      "frequency": "every 20 min (aggregator)",
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": 40,
+      "minutes": 27,
+      "basis": "official fixed fare to the Aurelian Walls (ADR, undated); minutes = aggregator drive estimate",
+      "capacity": 4
+     },
+     "from": "south-west.json"
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "REK",
+  "name": "Reykjavik",
+  "country": "Iceland",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+  "airports": [
+   {
+    "code": "KEF",
+    "name": "Keflavík International Airport",
+    "known": {
+     "public": {
+      "mode": "coach",
+      "to": "BSÍ bus terminal (Reykjavík city centre)",
+      "minutes": 45,
+      "fareEUR": 29.23,
+      "frequency": "every 30–60 min",
+      "hours": "04:00–22:30 (no service after 22:30; airport times not separated)"
+     },
+     "taxi": {
+      "fareEUR": 164.47,
+      "minutes": 45,
+      "basis": "operator's 'from' price on hreyfill.is (VERÐ FRÁ ISK 22,500) for the KEF–Reykjavík transfer, 1–8 passengers; a starting price, not an official fixed tariff; per-car basis not stated",
+      "capacity": 4
+     },
+     "from": "south-east.json"
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "WAW",
+  "name": "Warsaw",
+  "country": "Poland",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Warsaw",
+  "airports": [
+   {
+    "code": "WMI",
+    "name": "Warsaw Modlin Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": "north-2.json"
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "TCI",
+  "name": "Tenerife",
+  "country": "Spain",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Tenerife",
+  "airports": [
+   {
+    "code": "TFS",
+    "name": "Tenerife South Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Santa Cruz de Tenerife (TITSA line 10; stop not named in source)",
+      "minutes": 55,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": "05:10–22:15 weekdays per TITSA timetable (direction not confirmed; weekend times not read)"
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": "no published fixed or metered figure found",
+      "capacity": 4
+     },
+     "from": "south-west.json"
+    }
+   },
+   {
+    "code": "TFN",
+    "name": "Tenerife North Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Puerto de la Cruz area (TITSA line 30; stop not named in source)",
+      "minutes": 30,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": "06:30–23:20 weekdays; 07:15–21:15 Sat, Sun and holidays (direction not confirmed)"
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": "no published fixed or metered figure found",
+      "capacity": 4
+     },
+     "from": "south-west.json"
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "BRU",
+  "name": "Brussels",
+  "country": "Belgium",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Brussels",
+  "airports": [
+   {
+    "code": "CRL",
+    "name": "Brussels South Charleroi Airport",
+    "known": {
+     "public": {
+      "mode": "train",
+      "to": "Brussels (stop not stated; TEC bus A to Charleroi-Sud, then SNCB train)",
+      "minutes": 90,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": 60,
+      "basis": "midpoint of 50-70 min drive time only; no fare found",
+      "capacity": 4
+     },
+     "from": "central-west.json"
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "BUH",
+  "name": "Bucharest",
+  "country": "Romania",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Bucharest",
+  "airports": [
+   {
+    "code": "OTP",
+    "name": "Bucharest Henri Coandă Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Piața Unirii (city centre; Old Town nearby), express line 100",
+      "minutes": 40,
+      "fareEUR": null,
+      "frequency": "every 15 min by day (20 min at weekends), every 30 min at night (Wikipedia; TPBI says 15–30 min)",
+      "hours": "24 h (Wikipedia)"
+     },
+     "taxi": {
+      "fareEUR": 14.98,
+      "minutes": 31,
+      "basis": "estimate: midpoint of a travel-site range RON 60–100 (airconnect.live, undated) at 5.3406 RON per EUR; no official 2026 airport tariff found (bucharestairports.ro returned 403); minutes from a booking-site estimate for 19.3 km",
+      "capacity": 4
+     },
+     "from": "south-east.json"
+    }
+   }
+  ],
+  "groundArrivals": []
+ }
+]

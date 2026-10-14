@@ -1,0 +1,77 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GjYSCjIwMjYtMTItMTUyAkxIMgJMWDICT1MyAlNOMgJFVzICNFkyAldGagUSA01MQXIFEgNUUkRAAUgBmAEC",
+ "fetchedAt": "2026-10-11T11:29:47",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 246.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Malta International Airport",
+   "depTime": "13:50",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-16",
+   "durationMin": 1500,
+   "layovers": [
+    {
+     "min": 1060,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 246 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Malta International Airport at 1:50 PM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 2:50 PM on Wednesday, December 16. Total duration 25 hr.  Layover (1 of 2) is a 17 hr 40 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+  },
+  {
+   "price": 497.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "KM Malta Airlines, Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Malta International Airport",
+   "depTime": "16:10",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-16",
+   "durationMin": 1360,
+   "layovers": [
+    {
+     "min": 800,
+     "overnight": false,
+     "airport": "Munich International Airport",
+     "city": "Munich"
+    },
+    {
+     "min": 70,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 497 euros. 3 stops flight with KM Malta Airlines, Lufthansa and Wideroe. Leaves Malta International Airport at 4:10 PM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 2:50 PM on Wednesday, December 16. Total duration 22 hr 40 min.  Layover (1 of 3) is a 13 hr 20 min layover at Munich International Airport in Munich. Layover (2 of 3) is a 1 hr 10 min layover at Frankfurt Airport in Frankfurt am Main. Layover (3 of 3) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+  }
+ ]
+}

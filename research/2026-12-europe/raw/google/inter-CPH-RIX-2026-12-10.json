@@ -1,0 +1,99 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTBqBRIDQ1BIcgUSA1JJWEABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 64.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 0,
+   "airlines": "Air Baltic",
+   "operatedBy": null,
+   "depAirportName": "Copenhagen Airport",
+   "depTime": "08:20",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Riga Airport",
+   "arrTime": "10:45",
+   "arrDate": "2026-12-10",
+   "durationMin": 85,
+   "layovers": [],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 121.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "Copenhagen Airport",
+   "depTime": "19:50",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Riga Airport",
+   "arrTime": "01:30",
+   "arrDate": "2026-12-11",
+   "durationMin": 280,
+   "layovers": [
+    {
+     "min": 120,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 122.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Copenhagen Airport",
+   "depTime": "08:40",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Riga Airport",
+   "arrTime": "16:00",
+   "arrDate": "2026-12-10",
+   "durationMin": 380,
+   "layovers": [
+    {
+     "min": 245,
+     "airport": "Stockholm Arlanda Airport",
+     "city": "Stockholm",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 194.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Finnair",
+   "operatedBy": null,
+   "depAirportName": "Copenhagen Airport",
+   "depTime": "08:55",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Riga Airport",
+   "arrTime": "13:15",
+   "arrDate": "2026-12-10",
+   "durationMin": 200,
+   "layovers": [
+    {
+     "min": 40,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

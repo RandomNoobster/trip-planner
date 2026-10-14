@@ -1,0 +1,606 @@
+[
+  {
+    "city": "HEL",
+    "airports": [
+      {
+        "code": "HEL",
+        "public": {
+          "line": "Airport train I or P (Ring Line / Kehärata commuter rail, VR commuter traffic)",
+          "from": "Helsinki Airport railway station, beneath the terminal",
+          "to": "Helsinki Central railway station (Rautatieasema)",
+          "minutes": 30,
+          "fareEUR": 4.5,
+          "fareText": "ABC EUR 4.50 via HSL app or ticket machine (contactless EUR 4.80), valid 90 min; Wikivoyage Helsinki Airport article says EUR 4.60",
+          "frequency": "every 10-30 min (Wikivoyage Helsinki page)",
+          "hours": "about 04:30-01:15 (Wikivoyage Helsinki page)",
+          "url": "https://www.vr.fi/en/railway-stations-and-routes/get-to-the-airport-by-train"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No fixed fare verified. Wikivoyage Helsinki Airport article: regular taxis to the centre mostly cost EUR 35-50; metered (rates on the sticker); fixed prices possible but not confirmed",
+          "url": "https://en.wikivoyage.org/wiki/Helsinki_Airport"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Helsinki Central railway station (trains)",
+        "serves": "long-distance trains and commuter trains (airport trains I and P)",
+        "toCentre": "Station is in the city centre; walking time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": 0,
+        "url": "https://en.wikivoyage.org/wiki/Helsinki"
+      },
+      {
+        "name": "Kamppi bus station (long-distance coaches, basement of the Kamppi mall)",
+        "serves": "long-distance coaches, national and international (Onnibus among them)",
+        "toCentre": "Directly connected to Kamppi metro station; short walk to Helsinki Central station (time not stated)",
+        "line": null,
+        "minutes": null,
+        "fareEUR": 0,
+        "url": "https://en.wikivoyage.org/wiki/Helsinki"
+      }
+    ]
+  },
+  {
+    "city": "WAW",
+    "airports": [
+      {
+        "code": "WAW",
+        "public": {
+          "line": "SKM S3 (Szybka Kolej Miejska; airport page names SKM and Koleje Mazowieckie as carriers)",
+          "from": "Warsaw Chopin Airport railway station (underground, near the terminal)",
+          "to": "Warszawa Centralna (S3 stops here per Wikivoyage); airport page: about 30 min to the CENTRUM stop",
+          "minutes": 30,
+          "fareEUR": 1.0,
+          "fareText": "75-minute zone 1 ticket PLN 4.40 per Wikivoyage Warsaw page (date not verified; ZTM site blocked to WebFetch); airport page says buy at least a 75-minute ticket",
+          "frequency": "at most every 30 min (SKM, per Wikivoyage)",
+          "hours": null,
+          "url": "https://lotnisko-chopina.pl/en/to-and-from-the-airport/"
+        },
+        "alternatives": [
+          {
+            "line": "Bus 175 (ZTM)",
+            "to": "Pl. Piłsudskiego (city centre), per airport page",
+            "minutes": null,
+            "fareEUR": 1.0,
+            "fareText": "same 75-minute zone 1 ticket (PLN 4.40 per Wikivoyage, date not verified); frequency and hours not stated",
+            "url": "https://lotnisko-chopina.pl/en/to-and-from-the-airport/"
+          },
+          {
+            "line": "Night bus N32 (ZTM)",
+            "to": "Centrum (city centre), per airport page; runs daily",
+            "minutes": null,
+            "fareEUR": 1.0,
+            "fareText": "same 75-minute zone 1 ticket (PLN 4.40 per Wikivoyage, date not verified)",
+            "url": "https://lotnisko-chopina.pl/en/to-and-from-the-airport/"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 11.4,
+          "minutes": null,
+          "basis": "Airport page: taxi to the city centre 'approx. 50 PLN' (PLN 50 / 4.3835); the page does not say whether this is a fixed fare or a meter estimate",
+          "url": "https://lotnisko-chopina.pl/en/to-and-from-the-airport/"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Warszawa Centralna (trains: intercity and SKM S1/S2/S3)",
+        "serves": "intercity trains; SKM S3",
+        "toCentre": "Closest station to the main tourist sites (Wikivoyage); walking time not stated; metro a short walk",
+        "line": null,
+        "minutes": null,
+        "fareEUR": 0,
+        "url": "https://en.wikivoyage.org/wiki/Warsaw"
+      },
+      {
+        "name": "Warszawa Zachodnia (trains) and Dworzec PKS Warszawa Zachodnia (buses)",
+        "serves": "long-distance trains; most intercity and international buses",
+        "toCentre": "Walk time not stated; Wikivoyage suggests a local train or centre-bound buses 127, 158 or 517; ZTM fare not verified",
+        "line": "Bus 127, 158 or 517 (per Wikivoyage), or local train",
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Warsaw"
+      },
+      {
+        "name": "Warszawa Wschodnia (trains)",
+        "serves": "long-distance trains",
+        "toCentre": "How to reach the centre not stated (Wikivoyage)",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Warsaw"
+      }
+    ]
+  },
+  {
+    "city": "CGN",
+    "airports": [
+      {
+        "code": "CGN",
+        "public": {
+          "line": "S19 S-Bahn (or RE6 regional express), per Wikivoyage; operator not stated on pages read",
+          "from": "Flughafen Köln/Bonn railway station (airport)",
+          "to": "Köln Hauptbahnhof (main station)",
+          "minutes": null,
+          "fareEUR": 4.0,
+          "fareText": "EUR 4.00 adult single, VRS tariff level 1b (Rhineland tariff, from 1 June 2026), valid 90 min from validation",
+          "frequency": null,
+          "hours": null,
+          "url": "https://www.vrs.de/en/tickets/ticket-assortment/single-ticket"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No taxi fare found; Wikivoyage Cologne page names only ride-hailing apps (Uber, Bolt, Free Now)",
+          "url": "https://en.wikivoyage.org/wiki/Cologne"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Leverkusen Mitte (long-distance bus stop)",
+        "serves": "long-distance buses (Wikivoyage: buses cannot stop in the city centre)",
+        "toCentre": "S-Bahn to Köln Hauptbahnhof, about 20 min (Wikivoyage; line number not stated)",
+        "line": "S-Bahn (line not stated)",
+        "minutes": 20,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Cologne"
+      }
+    ]
+  },
+  {
+    "city": "VIE",
+    "airports": [
+      {
+        "code": "BTS",
+        "public": {
+          "line": "Postbus / Slovak Lines airport bus (Bratislava Airport to Vienna), per Wikivoyage",
+          "from": "Bratislava Airport (M. R. Štefánik); bus stop not stated",
+          "to": "Vienna Südtiroler Platz (U1); under 2 hours",
+          "minutes": null,
+          "fareEUR": 5.0,
+          "fareText": "EUR 5 one way (EUR 8 return), per Wikivoyage Vienna page; not checked on operator site",
+          "frequency": null,
+          "hours": "about 08:00-18:35 (Wikivoyage Vienna page)",
+          "url": "https://en.wikivoyage.org/wiki/Vienna"
+        },
+        "alternatives": [
+          {
+            "line": "FlixBus (Bratislava Airport to Vienna)",
+            "to": "Vienna Erdberg (U3); just over 1 hour; about hourly 06:00-23:00 (Wikivoyage)",
+            "minutes": null,
+            "fareEUR": null,
+            "fareText": "EUR 4-10 each way (Wikivoyage range; price varies)",
+            "url": "https://en.wikivoyage.org/wiki/Vienna"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 75.0,
+          "minutes": null,
+          "basis": "Private flat-rate transfer, not a taxi: Rosenov Airport Transfer, EUR 75 flat, Mon-Fri 09:00-18:00 only (Wikivoyage); per-car basis not stated",
+          "url": "https://en.wikivoyage.org/wiki/Vienna"
+        }
+      },
+      {
+        "code": "VIE",
+        "public": {
+          "line": "S7 S-Bahn (ÖBB)",
+          "from": "Vienna Airport railway station",
+          "to": "Wien Mitte/Landstraße (per airport page)",
+          "minutes": 25,
+          "fareEUR": 4.1,
+          "fareText": "from EUR 4.10 to/from Wien Mitte or Wien Hauptbahnhof, incl. the entire Vienna public transport network (adult single not stated)",
+          "frequency": "every 30 min, extra trains at rush hour",
+          "hours": null,
+          "url": "https://viennaairport.com/en/passengers/arrival__parking/s-bahn__suburban_railway"
+        },
+        "alternatives": [
+          {
+            "line": "Railjet (ÖBB)",
+            "to": "Wien Hauptbahnhof; every 30 min",
+            "minutes": 15,
+            "fareEUR": 4.1,
+            "fareText": "same 'from EUR 4.10' statement as the S7 on the airport page",
+            "url": "https://viennaairport.com/en/passengers/arrival__parking/s-bahn__suburban_railway"
+          },
+          {
+            "line": "City Airport Train (CAT)",
+            "to": "Wien Mitte/Landstraße",
+            "minutes": null,
+            "fareEUR": 14.9,
+            "fareText": "EUR 14.90 one way full price (EUR 13.90 reduced with ARBÖ or ÖAMTC card); CAT page links a 'Main Line Closure' notice (not read)",
+            "url": "https://www.cityairporttrain.com/en/tickets-offers/information-about-cat-tickets"
+          }
+        ],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No taxi fare found; Wikivoyage Vienna page gives none for either airport",
+          "url": "https://en.wikivoyage.org/wiki/Vienna"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Wien Hauptbahnhof (trains: ÖBB long-distance and international, incl. Railjet)",
+        "serves": "ÖBB long-distance and international trains",
+        "toCentre": "Connected to U-Bahn and tram (Wikivoyage); line and walking time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Vienna"
+      },
+      {
+        "name": "Wien Westbahnhof (trains: WestBahn and some ÖBB international)",
+        "serves": "WestBahn services (mostly from Salzburg) and some ÖBB international trains",
+        "toCentre": "U-Bahn line and walking time not stated (Wikivoyage)",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Vienna"
+      },
+      {
+        "name": "Vienna International Busterminal (VIB, Erdberg; long-distance buses)",
+        "serves": "long-distance coaches (FlixBus arrives at Erdberg per Wikivoyage)",
+        "toCentre": "Next to Erdberg U3 metro station (Wikivoyage); time and fare to centre not stated",
+        "line": "U3 metro (Erdberg)",
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Vienna"
+      }
+    ]
+  },
+  {
+    "city": "EDI",
+    "airports": [
+      {
+        "code": "EDI",
+        "public": {
+          "line": "Airlink 100 (Lothian Buses, 24/7 express)",
+          "from": "Edinburgh Airport bus stop A, beside the plaza",
+          "to": "Waverley Bridge (outside Waverley station); 20-30 min per Wikivoyage",
+          "minutes": 30,
+          "fareEUR": 7.1,
+          "fareText": "GBP 6.00 adult single (Lothian Buses airport page); GBP 3.00 child; GBP 8.50 open return (Wikivoyage)",
+          "frequency": "up to every 10 min 04:12-01:00 from airport; up to every 20 min 01:15-04:00",
+          "hours": "24/7 (Airlink 24/7 Express Service); from Waverley Bridge up to every 10 min 03:40-00:20",
+          "url": "https://www.lothianbuses.com/our-services/airport-buses/"
+        },
+        "alternatives": [
+          {
+            "line": "Edinburgh Trams (airport tram line)",
+            "to": "City centre (Waverley railway station and York Place), per Wikivoyage",
+            "minutes": 40,
+            "fareEUR": 9.3,
+            "fareText": "GBP 7.90 single (Wikivoyage, stated as of May 2025); tram operator page not read",
+            "url": "https://en.wikivoyage.org/wiki/Edinburgh"
+          }
+        ],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": 20,
+          "basis": "Metered taxi; council sets the tariff and the airport page gives no GBP figure; page says 'just a 20 minute drive'; the council fare table linked is a 2023 proposed tariff, not current",
+          "url": "https://www.edinburghairport.com/transport-links/taxis"
+        }
+      }
+    ],
+    "stations": []
+  },
+  {
+    "city": "NCE",
+    "airports": [
+      {
+        "code": "NCE",
+        "public": {
+          "line": "Tram line 2 (Lignes d'Azur), from Terminals 1 and 2",
+          "from": "Airport tram stop, Terminal 1 and Terminal 2",
+          "to": "Jean Médecin (city centre), then Port Lympia; under 30 min per airport page",
+          "minutes": null,
+          "fareEUR": 1.7,
+          "fareText": "One-way fare not on airport page. SOLO single ticket EUR 1.70 per Lignes d'Azur Solo page (seen in search results, not fetched); airport AERO return EUR 10 (airport page). Airport-leg price not confirmed",
+          "frequency": "every 7-8 min on weekdays (not 1 May)",
+          "hours": null,
+          "url": "https://www.nice.aeroport.fr/en/directions/public-transport"
+        },
+        "alternatives": [
+          {
+            "line": "Bus 12+ (Bus Rapid Transit, Aéroport/Promenade stop)",
+            "to": "Promenade des Anglais, Place Masséna, old town (Opéra or Cathédrale), Place Garibaldi; no service 1 May",
+            "minutes": null,
+            "fareEUR": 1.7,
+            "fareText": "EUR 1.70 per Wikivoyage Nice page (bus 12); buy ticket before boarding; price not on airport page",
+            "url": "https://www.nice.aeroport.fr/en/directions/public-transport"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 32.0,
+          "minutes": null,
+          "basis": "Official fixed airport fare to Nice centre: EUR 32 (2026 indicated price incl. VAT, excluding supplements; supplements not listed on page)",
+          "url": "https://www.nice.aeroport.fr/en/directions/taxis"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Gare routière Vauban (Zou! inter-urban terminal, 16 Avenue des Diables Bleus)",
+        "serves": "Zou! regional coaches (for example from Marseille via Aix-en-Provence); FlixBus stop not stated",
+        "toCentre": "Tram line 1 links the bus station with the main train station and downtown (Wikivoyage); walk and tram times not stated",
+        "line": "Tram line 1 (per Wikivoyage)",
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Nice"
+      }
+    ]
+  },
+  {
+    "city": "SVQ",
+    "airports": [
+      {
+        "code": "SVQ",
+        "public": {
+          "line": "Tussam Bus EA (Especial Aeropuerto) airport line",
+          "from": "Seville airport bus stop (exact stop not stated)",
+          "to": "Plaza de Armas bus station (city centre end); also stops at Santa Justa station",
+          "minutes": 35,
+          "fareEUR": 6.0,
+          "fareText": "EUR 6 one way; EUR 8 same-day return (Wikivoyage Seville, Dec 2025); the same page also quotes EUR 5 (Dec 2024)",
+          "frequency": "every 15 min",
+          "hours": "about 05:00-00:30 daily",
+          "url": "https://en.wikivoyage.org/wiki/Seville"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": 26.0,
+          "minutes": null,
+          "basis": "Official Aena flat airport fare: EUR 26 Mon-Fri 07:00-21:00 ('Fare 4'); EUR 29 at other times; EUR 0.57 per bag over 10 kg (max 4); tariff date not stated",
+          "url": "https://www.aena.es/en/sevilla/getting-there/taxi.html"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Plaza de Armas bus station (inter-city buses; Tussam EA airport bus stops here)",
+        "serves": "inter-city buses and the EA airport bus",
+        "toCentre": "Just west of the city centre (Wikivoyage); walking time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": 0,
+        "url": "https://en.wikivoyage.org/wiki/Seville"
+      },
+      {
+        "name": "Prado de San Sebastián (bus stop)",
+        "serves": "some buses (Wikivoyage)",
+        "toCentre": "Near the University and Santa Cruz (Wikivoyage); walking time and transit links not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Seville"
+      }
+    ]
+  },
+  {
+    "city": "FAO",
+    "airports": [
+      {
+        "code": "FAO",
+        "public": {
+          "line": "Local bus 14 or 16 (Próximo)",
+          "from": "Faro airport bus stop (exact stop not stated)",
+          "to": "Faro centre ('downtown'; no stop named on Wikivoyage)",
+          "minutes": null,
+          "fareEUR": 2.7,
+          "fareText": "EUR 2.70 bought from the driver (Wikivoyage Faro page, price dated Jan 2024); Próximo fare page and airport transport pages were not readable",
+          "frequency": "every 30 min from downtown (Wikivoyage)",
+          "hours": null,
+          "url": "https://en.wikivoyage.org/wiki/Faro"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No taxi fare found; Wikivoyage Faro page names only Bolt and Uber; official airport pages not readable",
+          "url": "https://en.wikivoyage.org/wiki/Faro"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Faro bus station (Terminal Rodoviário Urbano, intercity buses)",
+        "serves": "daily intercity buses from Lisbon, Porto, Madrid and Seville",
+        "toCentre": "At the edge of the city centre, within 250 m of the railway station (Wikivoyage); walking time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": 0,
+        "url": "https://en.wikivoyage.org/wiki/Faro"
+      },
+      {
+        "name": "FlixBus stop (Av. Eng. Joaquim L. Belchior, south of the city)",
+        "serves": "FlixBus coaches",
+        "toCentre": "Route to the centre not stated (Wikivoyage)",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Faro"
+      }
+    ]
+  },
+  {
+    "city": "BLQ",
+    "airports": [
+      {
+        "code": "BLQ",
+        "public": {
+          "line": "Bus 81 or 91 (TPER) from the Birra stop",
+          "from": "Birra stop, about 10 min walk from the airport across the elevated motorway (Wikivoyage)",
+          "to": "Bologna Centrale railway station (both lines terminate there)",
+          "minutes": 30,
+          "fareEUR": 2.3,
+          "fareText": "EUR 2.30 pre-bought or EUR 2.50 on board (Wikivoyage Get around); Wikivoyage Get-in section says EUR 1.50 for a 75-min ticket; TPER fare page not readable",
+          "frequency": "every 15 min weekdays, 30 min Saturdays, 60 min Sundays (Wikivoyage)",
+          "hours": null,
+          "url": "https://en.wikivoyage.org/wiki/Bologna"
+        },
+        "alternatives": [
+          {
+            "line": "Marconi Express (monorail)",
+            "to": "Bologna Centrale railway station, about 7 min",
+            "minutes": 7,
+            "fareEUR": 12.8,
+            "fareText": "STANDARD single EUR 12.80, return EUR 23.30 (Marconi Express fares page); a standard digital ticket is also valid on TPER urban lines for 75 min",
+            "url": "https://www.marconiexpress.it/en/tickets/fares/"
+          },
+          {
+            "line": "TPER Line Q night shuttle (airport bus)",
+            "to": "Railway station, Piazzale Medaglie d'Oro (night service; daytime Line Q runs to Ospedale Maggiore)",
+            "minutes": 30,
+            "fareEUR": null,
+            "fareText": "fare not stated on the airport page; TPER contact 051 290290",
+            "url": "https://www.bologna-airport.it/en/from-and-to-the-airport/transfer-from-and-to-the-airport/bus-to-and-from-the-airport/?idC=62443"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 15.0,
+          "minutes": null,
+          "basis": "Approximate figure on Wikivoyage ('approx. EUR 15'), not stated as fixed or metered; the airport taxi tariff PDF found in search dates from 2008 and was not used",
+          "url": "https://en.wikivoyage.org/wiki/Bologna"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Autostazione di Bologna (intercity bus station), Piazza XX Settembre 6",
+        "serves": "intercity coaches (Flixbus, Baltour, Marino)",
+        "toCentre": "At the start of Via Indipendenza near Porta Galliera (Wikivoyage); walking time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Bologna"
+      }
+    ]
+  },
+  {
+    "city": "TRS",
+    "airports": [
+      {
+        "code": "TRS",
+        "public": {
+          "line": "Extraurban bus 51 (APT Gorizia / TPL FVG), per Wikivoyage; the airport pages read do not number the Trieste service",
+          "from": "Trieste Airport bus stop (exact stop not stated)",
+          "to": "Trieste bus station (autostazione), Largo Città di Santos, near Trieste Centrale",
+          "minutes": 55,
+          "fareEUR": null,
+          "fareText": "Adult fare not stated on the TPL FVG or APT airport pages read; the EUR 4.05 lead from the input is not verified",
+          "frequency": "about every 30 min (TPL FVG airport page); Sundays every 1-2 h (Wikivoyage)",
+          "hours": null,
+          "url": "https://tplfvg.it/it/servizi/aeroporto/"
+        },
+        "alternatives": [
+          {
+            "line": "Regional train from Trieste Airport station (Trieste-Venice line)",
+            "to": "Trieste (destination station not stated)",
+            "minutes": 25,
+            "fareEUR": null,
+            "fareText": "fare not stated (Wikivoyage Trieste page)",
+            "url": "https://en.wikivoyage.org/wiki/Trieste"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 70.0,
+          "minutes": null,
+          "basis": "Approximate figure on Wikivoyage ('around EUR 70', 30-35 min); not stated as fixed or metered; no official airport taxi tariff was read",
+          "url": "https://en.wikivoyage.org/wiki/Trieste"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Trieste coach station (autostazione), Largo Città di Santos",
+        "serves": "local routes and international coaches; the airport bus 51 starts here (Wikivoyage)",
+        "toCentre": "About 15 min walk to Piazza Unità d'Italia (APT Gorizia airport page)",
+        "line": null,
+        "minutes": 15,
+        "fareEUR": 0,
+        "url": "https://www.aptgorizia.it/aeroporto-trieste-airport/"
+      }
+    ]
+  },
+  {
+    "city": "ZAG",
+    "airports": [
+      {
+        "code": "ZAG",
+        "public": {
+          "line": "ZET bus 290 (ZET; runs between Kvaternik Square and Velika Gorica, with a stop at the airport)",
+          "from": "Zagreb Airport bus stop, outside the terminal (Wikivoyage; exact stop not stated)",
+          "to": "Kvaternik Square (Kvaternikov trg), not the railway station; 45-50 min per airport page",
+          "minutes": 50,
+          "fareEUR": null,
+          "fareText": "Fare for line 290 not found. The ZET fares page lists zone I singles only (EUR 0.53 for 30 min, EUR 0.93 for 60 min, EUR 1.33 for 90 min daytime; EUR 1.99 night)",
+          "frequency": null,
+          "hours": null,
+          "url": "https://www.zagreb-airport.hr/en/passengers/to-from-the-airport/by-bus/89"
+        },
+        "alternatives": [
+          {
+            "line": "Pleso Prijevoz airport shuttle bus",
+            "to": "Zagreb Central Bus Station (AKZ), Av. Marina Držića 4; 35-40 min per airport page",
+            "minutes": 40,
+            "fareEUR": 8.0,
+            "fareText": "EUR 8 single per Wikivoyage Zagreb page (the airport page does not state a fare); about every 30 min 08:00-20:00 from the airport (Wikivoyage)",
+            "url": "https://en.wikivoyage.org/wiki/Zagreb"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 35.0,
+          "minutes": null,
+          "basis": "Official maximum fare published by Zagreb Airport for ZAG-Centar (car, 16 km), valid 10 Sep 2026; a ceiling, not a guaranteed flat fare; VAT not stated for this figure",
+          "url": "https://www.zagreb-airport.hr/en/passengers/to-from-the-airport/by-taxi/90"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Zagreb Central Bus Station (AKZ, Autobusni kolodvor), Av. Marina Držića 4",
+        "serves": "intercity and international coaches; Pleso shuttle to the airport",
+        "toCentre": "Tram 2 or 6, about 3 stops (Wikivoyage); 30-min ZET daytime ticket EUR 0.53 (ZET fares page); railway station about 10 min walk",
+        "line": "Tram 2 or 6 (per Wikivoyage)",
+        "minutes": null,
+        "fareEUR": 0.5,
+        "url": "https://en.wikivoyage.org/wiki/Zagreb"
+      }
+    ]
+  },
+  {
+    "city": "SKP",
+    "airports": [
+      {
+        "code": "SKP",
+        "public": {
+          "line": "Airport shuttle bus (Erak Transporter, per the airport bus page)",
+          "from": "Skopje airport shuttle stop (exact stop not stated)",
+          "to": "Central Bus Terminal, via Capitol Mall and Holiday Inn (Wikivoyage)",
+          "minutes": 25,
+          "fareEUR": 3.2,
+          "fareText": "MKD 199 one-way (airport bus page), converted at the approximate fx.json rate of 61.5 MKD per EUR",
+          "frequency": "timetable follows flight arrivals and departures (airport page); departs 15-30 min after landing (Wikivoyage)",
+          "hours": "08:00-20:00 (airport page, 'working hours')",
+          "url": "https://skp.airports.com.mk/en-EN/passenger-guide/to-from-the-airport/page/bus"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "The official taxi price list dated 9 Feb 2024, linked from the airport taxi page, could not be read (PDF); no verified fare",
+          "url": "https://skp.airports.com.mk/en-EN/passenger-guide/to-from-the-airport/page/taxi"
+        }
+      }
+    ],
+    "stations": []
+  }
+]

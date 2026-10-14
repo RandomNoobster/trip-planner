@@ -1,0 +1,459 @@
+[
+  {
+    "city": "RIX",
+    "localTicketEUR": 1.50,
+    "dayPassEUR": null,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "RIX",
+        "public": {
+          "mode": "bus",
+          "to": "city centre (airport route 22)",
+          "minutes": null,
+          "fareEUR": 1.50,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": null
+      }
+    ],
+    "sources": [
+      "https://www.riga.lv/en/article/new-riga-public-transport-tickets-are-sale-now"
+    ],
+    "notes": "Local = 90-minute ticket EUR 1.50 (riga.lv article: on sale from 30 Dec 2022, valid from 2 Jan 2023). 24h ticket left null: rigassatiksme.lv returned 403 and secondary reports give EUR 5, unverified. Airport fare assumes the 90-minute ticket is valid on airport route 22 (not confirmed on an official page); journey time (about 35-40 min per secondary sources) and riga-airport.com (403) not verified. rideHailing not researched."
+  },
+  {
+    "city": "VNO",
+    "localTicketEUR": 1.00,
+    "dayPassEUR": 7.50,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "VNO",
+        "public": {
+          "mode": "bus",
+          "to": "Europa Square (line 88) / city centre (line 3G)",
+          "minutes": 20,
+          "fareEUR": 1.00,
+          "frequency": "3G every 10 min; 88 every 20-30 min",
+          "hours": "88N night bus 22:30-05:30; daytime hours not stated"
+        },
+        "taxi": null
+      },
+      {
+        "code": "KUN",
+        "public": {
+          "mode": null,
+          "to": null,
+          "minutes": null,
+          "fareEUR": null,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": null
+      }
+    ],
+    "sources": [
+      "https://judu.lt/en/for-public-transport-passengers/ticket-types-and-prices/",
+      "https://judu.lt/en/for-public-transport-passengers/vilnius-airport-by-public-transport/"
+    ],
+    "notes": "City prices from the judu.lt ticket page: 30-min EUR 1.00, 60-min EUR 1.25, 24h EUR 7.50, 72h EUR 13.50 (no effective date shown). The older judu.lt airport page still shows 0.65 / 0.90 / 5.00 EUR, which conflicts; the newer ticket page is used. Airport: buy the 30-min ticket before boarding; a contactless tap on the bus validator gives a 60-min ticket (EUR 1.25) per the airport page. KUN (Kaunas airport): official sites returned 403 and no official fare was found; third-party bus quotes are unverified and not used. rideHailing not researched."
+  },
+  {
+    "city": "GDN",
+    "localTicketEUR": 1.09,
+    "dayPassEUR": null,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "GDN",
+        "public": {
+          "mode": "bus",
+          "to": "Gdańsk Główny (Dworzec Główny), line 210",
+          "minutes": 40,
+          "fareEUR": 1.09,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": null
+      }
+    ],
+    "sources": [
+      "https://www.airport.gdansk.pl/passenger-area/transportation/bus-p99.html",
+      "https://ztm.gda.pl/bilety/ceny-biletow,a,13"
+    ],
+    "notes": "Local = single-ride ticket PLN 4.80 (regular; PLN 2.40 reduced) per the airport's transport page, which gives no validity period or date. ZTM Gdańsk's price page lists ticket types without prices, so the 24h fare is null; a PLN 24 communal 24h ticket (ZTM Gdańsk, ZKM Gdynia, MZK Wejherowo) appears only in a third-party list and is not used. Airport: bus 210 about 40 min from the city centre; buses 110 and 120 also serve the airport; night line N3 about 23:00-04:00. Frequency and hours for line 210 not stated officially. rideHailing not researched."
+  },
+  {
+    "city": "KRK",
+    "localTicketEUR": 1.37,
+    "dayPassEUR": 4.56,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "KRK",
+        "public": {
+          "mode": "bus",
+          "to": null,
+          "minutes": null,
+          "fareEUR": null,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": null
+      },
+      {
+        "code": "KTW",
+        "public": {
+          "mode": null,
+          "to": null,
+          "minutes": null,
+          "fareEUR": null,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": null
+      }
+    ],
+    "sources": [
+      "https://krakowairport.pl/en/passenger/transport-en/directions/from-to-krakow-airport"
+    ],
+    "notes": "Local = 30-minute single trip PLN 6 and 24h Zone I PLN 20, from the Kraków tariff table on the airport's transport page (MPK and krakow.pl pages gave no prices). Airport page lists agglomeration buses 209 and 300 and night line 902 but no city stop, journey time, frequency or fare; buses 292/192 and any rail link are not on it, so airport fields are null. KTW (Katowice airport): no official source reachable and only third-party coach quotes found, not used. rideHailing not researched."
+  },
+  {
+    "city": "WAW",
+    "localTicketEUR": 0.78,
+    "dayPassEUR": 3.42,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "WAW",
+        "public": {
+          "mode": "train/bus",
+          "to": "Warszawa Centrum (CENTRUM stop)",
+          "minutes": 30,
+          "fareEUR": 1.00,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": null
+      },
+      {
+        "code": "WMI",
+        "public": {
+          "mode": null,
+          "to": null,
+          "minutes": null,
+          "fareEUR": null,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": null
+      }
+    ],
+    "sources": [
+      "https://warszawa19115.pl/-/bilety-kr%C3%B3tkookresowe-w-komunikacji-miejskiej",
+      "https://lotnisko-chopina.pl/en/to-and-from-the-airport/"
+    ],
+    "notes": "Local = 20-minute ticket zones 1+2 PLN 3.40; 24h zone 1 PLN 15 (warszawa19115.pl table, page updated 2025-11-20). Airport (lotnisko-chopina.pl): about 30 min to the CENTRUM stop by SKM S2/S3 or buses 175/188 etc.; buy at least a 75-minute ticket, priced here as 75-min zone 1 at PLN 4.40. Frequency and hours not stated. Modlin (WMI): official site returned 403; third-party bus and rail fares unverified and not used. rideHailing not researched."
+  },
+  {
+    "city": "WRO",
+    "localTicketEUR": 0.91,
+    "dayPassEUR": 3.42,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "WRO",
+        "public": {
+          "mode": null,
+          "to": null,
+          "minutes": null,
+          "fareEUR": null,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": null
+      }
+    ],
+    "sources": [
+      "https://www.wroclaw.pl/rodzaje-i-ceny-biletow"
+    ],
+    "notes": "Local = 30-minute ticket PLN 4.00; 24h PLN 15 (wroclaw.pl, which states the same tariff has applied since 1 Sep 2021). Airport: airport-wroclaw.pl returned a certificate error and the city page has no airport bus fare, so airport fields are null. Third-party guides name bus 406 (some say 106) at about PLN 3-3.40; unverified, not used. rideHailing not researched."
+  },
+  {
+    "city": "POZ",
+    "localTicketEUR": 1.60,
+    "dayPassEUR": 4.11,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "POZ",
+        "public": {
+          "mode": null,
+          "to": null,
+          "minutes": null,
+          "fareEUR": null,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": null
+      }
+    ],
+    "sources": [
+      "https://www.ztm.poznan.pl/wszystko-o-biletach/cennik-biletow/"
+    ],
+    "notes": "Local = 45-minute ticket zones A-D PLN 7 (15-min PLN 5 and 90-min PLN 9 also listed); 24h zone A PLN 18 (ZTM price page; tariff from 1 Sep 2025 per Zarządzenie 445/2025/P). Airport: the ZTM page has no airport or bus-to-airport ticket, and poznan-airport.pl redirected to an unrelated website, so airport fields are null. A 22-30 min ride would likely need the 45-min ticket if the airport is in zone A-D (unverified). rideHailing not researched."
+  },
+  {
+    "city": "BER",
+    "localTicketEUR": 4.00,
+    "dayPassEUR": 11.20,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "BER",
+        "public": {
+          "mode": "train (FEX)",
+          "to": "Berlin Hauptbahnhof",
+          "minutes": 23,
+          "fareEUR": 5.00,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": null
+      }
+    ],
+    "sources": [
+      "https://www.berlin.de/en/public-transportation/1772016-2913840-billets-tarifs-reseau.en.html",
+      "https://www.vbb.de/news/neue-fahrpreise-im-vbb-ab-1-januar-2026/",
+      "https://www.vbb.de/en/driving-information/ber-airport"
+    ],
+    "notes": "Local = AB single EUR 4.00 (reduced 2.50); 24h AB EUR 11.20 (berlin.de and VBB, 2026 prices). Airport: BER is in zone C, so an ABC single (EUR 5.00 from 1 Jan 2026) is needed; FEX about 23 min from Berlin Hbf per VBB (Dec 2025 timetable). Frequency and hours not stated. rideHailing not researched."
+  },
+  {
+    "city": "HAM",
+    "localTicketEUR": 4.10,
+    "dayPassEUR": 8.20,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "HAM",
+        "public": {
+          "mode": "train (S1)",
+          "to": "Hamburg Hauptbahnhof",
+          "minutes": 25,
+          "fareEUR": 4.10,
+          "frequency": "every 10 min",
+          "hours": null
+        },
+        "taxi": null
+      }
+    ],
+    "sources": [
+      "https://www.hamburg.de/verkehr/hvv/hvv-preiserhoehung-410930",
+      "https://www.hamburg-airport.de/de/anreisen-parken/an-und-abreise-zum-airport-35172"
+    ],
+    "notes": "Local = HVV Hamburg AB single EUR 4.10 and AB day ticket EUR 8.20, regular prices (hamburg.de; online EUR 3.81 and 7.63). Airport: S1 takes 25 min per direction, every 10 min (hamburg-airport.de). The fare assumes the AB single applies because the airport lies within Hamburg city; the airport page does not state the zone, so this is unverified. rideHailing not researched."
+  },
+  {
+    "city": "MUC",
+    "localTicketEUR": 4.20,
+    "dayPassEUR": 10.10,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "MUC",
+        "public": {
+          "mode": "train (S1/S8)",
+          "to": "München Hauptbahnhof",
+          "minutes": null,
+          "fareEUR": null,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": null
+      },
+      {
+        "code": "FMM",
+        "public": {
+          "mode": null,
+          "to": null,
+          "minutes": null,
+          "fareEUR": null,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": null
+      }
+    ],
+    "sources": [
+      "https://www.muenchen.de/mvv-tickets-aktuelle-preise-fuer-fahrkarten-muenchen",
+      "https://www.mvv-muenchen.de/tickets-und-abos/rund-um-tickets/tarifsystem/zonen-und-fahrpreisermittlung"
+    ],
+    "notes": "Local = Einzelfahrkarte Zone M EUR 4.20 and Single-Tageskarte Zone M EUR 10.10 (muenchen.de, from 1 Jan 2026). Airport is in MVV zone 5; the MVV zone page gives the M-to-5 example but no price, so the airport fare is null. S1 and S8 serve the airport (the airport page notes rail works 12-16 Oct 2026 only). FMM (Memmingen): official airport page returned 403; third-party bus fares unverified and not used. rideHailing not researched."
+  },
+  {
+    "city": "CGN",
+    "localTicketEUR": 3.50,
+    "dayPassEUR": 8.40,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "CGN",
+        "public": {
+          "mode": "train (S19)",
+          "to": "Köln Hauptbahnhof",
+          "minutes": null,
+          "fareEUR": null,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": null
+      },
+      {
+        "code": "DUS",
+        "public": {
+          "mode": null,
+          "to": null,
+          "minutes": null,
+          "fareEUR": null,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": null
+      },
+      {
+        "code": "NRN",
+        "public": {
+          "mode": null,
+          "to": null,
+          "minutes": null,
+          "fareEUR": null,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": null
+      }
+    ],
+    "sources": [
+      "https://www.kvb.koeln/abos-und-tickets/preise-und-preisstufen.html",
+      "https://www.dus.com/de-de/anreisen/bus-und-bahn"
+    ],
+    "notes": "Local = Köln price tier 1b Einzelticket EUR 3.50, 24h ticket (1 person) EUR 8.40, Kurzstrecke EUR 2.90 under the Rheinlandtarif from 1 Jun 2026 (kvb.koeln). CGN: airport site returned 403; S19 to Köln Hbf is third-party information and its fare is unverified, so null. DUS: official page lists S11, U80/U81 and DB links but no fare to Köln, so null. NRN (Weeze): no official source reachable; third-party shuttle quotes (line 73, EUR 7.40 to Kevelaer station) do not reach the city centre, not used. rideHailing not researched."
+  },
+  {
+    "city": "FRA",
+    "localTicketEUR": null,
+    "dayPassEUR": null,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "FRA",
+        "public": {
+          "mode": "train (S8/S9)",
+          "to": "Frankfurt Hauptbahnhof",
+          "minutes": null,
+          "fareEUR": null,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": null
+      },
+      {
+        "code": "HHN",
+        "public": {
+          "mode": "bus",
+          "to": "Frankfurt",
+          "minutes": null,
+          "fareEUR": null,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": null
+      }
+    ],
+    "sources": [
+      "https://www.rmv.de/c/de/tickets/regeln/tarifinformationen/preisstufen-in-frankfurt-sowie-in-wiesbaden-und-umgebung",
+      "https://www.hahn-airport.de/de/passagiere-und-besucher/an-und-abreise/mit-dem-bus"
+    ],
+    "notes": "No official Frankfurt fare found: RMV pages link to price-list PDFs (not parsed), and RMV states airport trips are excluded from the cheaper stages. Third-party reports (single EUR 3.80, day EUR 7.75) conflict with other coverage, so both are null. FRA airport fare (third-party EUR 6.90) is unverified and not used. HHN: the official Hahn page only links to a Flibco bus to Frankfurt; fares and times not stated, and a third-party EUR 18.99 quote is not used. rideHailing not researched."
+  },
+  {
+    "city": "DRS",
+    "localTicketEUR": 3.60,
+    "dayPassEUR": 9.50,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "DRS",
+        "public": {
+          "mode": "train (S2)",
+          "to": "Dresden Hauptbahnhof",
+          "minutes": null,
+          "fareEUR": 3.60,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": null
+      }
+    ],
+    "sources": [
+      "https://www.dvb.de/en-gb/tickets-en/ticket-finder"
+    ],
+    "notes": "Local = Dresden zone Einzelfahrt EUR 3.60 (valid up to 1 hour) and Tageskarte EUR 9.50 (valid until 04:00 the next day), both from 1 Apr 2026 (DVB ticket finder). Airport fare assumes the Dresden-zone single applies to the S2 because the airport lies within Dresden city; the official airport page returned 403, so this is unverified. S2 journey time (third-party about 21 min), frequency and hours not verified. rideHailing not researched."
+  },
+  {
+    "city": "LEJ",
+    "localTicketEUR": 3.80,
+    "dayPassEUR": null,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "LEJ",
+        "public": {
+          "mode": "train (S5/S5X)",
+          "to": "Leipzig Hauptbahnhof",
+          "minutes": null,
+          "fareEUR": null,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": null
+      }
+    ],
+    "sources": [
+      "https://www.mdv.de/ticket/einzelfahrkarte",
+      "https://www.mdv.de/ticket/24-stunden-karte-plus-1-person"
+    ],
+    "notes": "Local = Einzelfahrkarte EUR 3.80 for 1 zone Stadt Leipzig, valid 1 hour (mdv.de; no date shown, press says it applies from 1 Aug 2026). Day ticket null: the MDV page shows the 24-Stunden-Karte Plus (1 person) at EUR 9.70 while press reports EUR 10.00 from 1 Aug 2026, and no standard 24h card was found. Airport: official site returned an SSL error; airport fare not found; third-party S5/S5X times unverified. rideHailing not researched."
+  },
+  {
+    "city": "NUE",
+    "localTicketEUR": 3.90,
+    "dayPassEUR": 10.60,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "NUE",
+        "public": {
+          "mode": "metro (U2)",
+          "to": "Nürnberg Hauptbahnhof",
+          "minutes": 12,
+          "fareEUR": 3.90,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": null
+      }
+    ],
+    "sources": [
+      "https://www.vgn.de/tickets/einzelfahrkarte/",
+      "https://www.vgn.de/tickets/tagesticket-solo/",
+      "https://www.vgn.de/en/getting-around/nuernberg-airport/",
+      "https://www.airport-nuernberg.de/en/getting-here"
+    ],
+    "notes": "Local = VGN price level A Einzelfahrkarte EUR 3.90 (valid 90 min) and TagesTicket Solo (1 person) EUR 10.60; price table dated 1 Jan 2026 (vgn.de). The airport lies inside price level A (VGN airport page), so the single fare applies to the U2 ride. Airport site: 12 min from the main station to the airport; frequency and hours not stated. rideHailing not researched."
+  }
+]

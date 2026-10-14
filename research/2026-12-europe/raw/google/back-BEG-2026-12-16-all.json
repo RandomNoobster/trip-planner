@@ -1,0 +1,33 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTZqBRIDQkVHcgUSA1RSREABSAGYAQI",
+ "fetchedAt": "2026-10-11T11:28:22",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 148.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": "Norwegian",
+   "depAirportName": "Belgrade Nikola Tesla Airport",
+   "depTime": "15:25",
+   "depDate": "2026-12-16",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "21:40",
+   "arrDate": "2026-12-16",
+   "durationMin": 375,
+   "layovers": [
+    {
+     "min": 140,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 148 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Belgrade Nikola Tesla Airport at 3:25 PM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 9:40 PM on Wednesday, December 16. Total duration 6 hr 15 min.  Layover (1 of 1) is a 2 hr 20 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

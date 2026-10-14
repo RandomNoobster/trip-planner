@@ -1,0 +1,219 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDTUFOcgUSA0tSS0ABSAGYAQI",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 77.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": "Ryanair Sun",
+   "depAirportName": "Manchester Airport",
+   "depTime": "19:10",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "22:45",
+   "arrDate": "2026-12-13",
+   "durationMin": 155,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 77 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Operated by Ryanair Sun. Leaves Manchester Airport at 7:10 PM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 10:45 PM on Sunday, December 13. Total duration 2 hr 35 min.   Select flight"
+  },
+  {
+   "price": 101.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "easyJet",
+   "operatedBy": null,
+   "depAirportName": "Manchester Airport",
+   "depTime": "06:00",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "09:40",
+   "arrDate": "2026-12-13",
+   "durationMin": 160,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 101 euros.This price does not include overhead bin access. Nonstop flight with easyJet. Leaves Manchester Airport at 6:00 AM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 9:40 AM on Sunday, December 13. Total duration 2 hr 40 min.   Select flight"
+  },
+  {
+   "price": 142.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 0,
+   "airlines": "Jet2",
+   "operatedBy": null,
+   "depAirportName": "Manchester Airport",
+   "depTime": "14:50",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "18:30",
+   "arrDate": "2026-12-13",
+   "durationMin": 160,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 142 euros. Nonstop flight with Jet2. Leaves Manchester Airport at 2:50 PM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 6:30 PM on Sunday, December 13. Total duration 2 hr 40 min.   Select flight"
+  },
+  {
+   "price": 142.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Manchester Airport",
+   "depTime": "10:55",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "23:00",
+   "arrDate": "2026-12-13",
+   "durationMin": 665,
+   "layovers": [
+    {
+     "min": 465,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 142 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Manchester Airport at 10:55 AM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 11:00 PM on Sunday, December 13. Total duration 11 hr 5 min.  Layover (1 of 1) is a 7 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 174.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa City Airlines and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Manchester Airport",
+   "depTime": "12:15",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "18:25",
+   "arrDate": "2026-12-13",
+   "durationMin": 310,
+   "layovers": [
+    {
+     "min": 110,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 174 euros. 1 stop flight with Lufthansa City Airlines and Lufthansa. Leaves Manchester Airport at 12:15 PM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 6:25 PM on Sunday, December 13. Total duration 5 hr 10 min.  Layover (1 of 1) is a 1 hr 50 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 182.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa City Airlines and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Manchester Airport",
+   "depTime": "07:15",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "16:55",
+   "arrDate": "2026-12-13",
+   "durationMin": 520,
+   "layovers": [
+    {
+     "min": 315,
+     "overnight": false,
+     "airport": "Munich International Airport",
+     "city": "Munich"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 182 euros. 1 stop flight with Lufthansa City Airlines and Lufthansa. Leaves Manchester Airport at 7:15 AM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 4:55 PM on Sunday, December 13. Total duration 8 hr 40 min.  Layover (1 of 1) is a 5 hr 15 min layover at Munich International Airport in Munich. Select flight"
+  },
+  {
+   "price": 213.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa City Airlines and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Manchester Airport",
+   "depTime": "07:15",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "12:50",
+   "arrDate": "2026-12-13",
+   "durationMin": 275,
+   "layovers": [
+    {
+     "min": 70,
+     "overnight": false,
+     "airport": "Munich International Airport",
+     "city": "Munich"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 213 euros. 1 stop flight with Lufthansa City Airlines and Lufthansa. Leaves Manchester Airport at 7:15 AM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 12:50 PM on Sunday, December 13. Total duration 4 hr 35 min.  Layover (1 of 1) is a 1 hr 10 min layover at Munich International Airport in Munich. Select flight"
+  },
+  {
+   "price": 253.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Finnair",
+   "operatedBy": "Jettime A/S for Finnair",
+   "depAirportName": "Manchester Airport",
+   "depTime": "09:55",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "18:10",
+   "arrDate": "2026-12-13",
+   "durationMin": 435,
+   "layovers": [
+    {
+     "min": 140,
+     "overnight": false,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 253 euros. 1 stop flight with Finnair. Operated by Jettime A/S for Finnair. Leaves Manchester Airport at 9:55 AM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 6:10 PM on Sunday, December 13. Total duration 7 hr 15 min.  Layover (1 of 1) is a 2 hr 20 min layover at Helsinki Airport in Helsinki. Select flight"
+  },
+  {
+   "price": 272.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Manchester Airport",
+   "depTime": "10:55",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "17:00",
+   "arrDate": "2026-12-13",
+   "durationMin": 305,
+   "layovers": [
+    {
+     "min": 110,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 272 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Manchester Airport at 10:55 AM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 5:00 PM on Sunday, December 13. Total duration 5 hr 5 min.  Layover (1 of 1) is a 1 hr 50 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDU0dOcgUSA1RSREABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 702.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Qatar Airways and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Tan Son Nhat International Airport",
+   "depTime": "19:40",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "09:30",
+   "arrDate": "2026-12-18",
+   "durationMin": 1190,
+   "layovers": [
+    {
+     "min": 115,
+     "airport": "Hamad International Airport",
+     "city": "Doha",
+     "overnight": false
+    },
+    {
+     "min": 115,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 968.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Vietnam Airlines and KLM",
+   "operatedBy": null,
+   "depAirportName": "Tan Son Nhat International Airport",
+   "depTime": "08:35",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-17",
+   "durationMin": 1235,
+   "layovers": [
+    {
+     "min": 110,
+     "airport": "Suvarnabhumi Airport",
+     "city": "Bangkok",
+     "overnight": false
+    },
+    {
+     "min": 150,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

@@ -1,0 +1,223 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA0dMQUABSAGYAQI",
+ "fetchedAt": "2026-10-11T12:21:05",
+ "priceUnavailable": 0,
+ "via": "rpc",
+ "itineraries": [
+  {
+   "price": 192.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-05",
+   "arrCode": "GLA",
+   "arrAirportName": "Glasgow Airport",
+   "arrTime": "12:45",
+   "arrDate": "2026-12-05",
+   "durationMin": 445,
+   "layovers": [
+    {
+     "min": 210,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1150",
+    "KL939"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 320.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and KLM",
+   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "07:00",
+   "depDate": "2026-12-05",
+   "arrCode": "GLA",
+   "arrAirportName": "Glasgow Airport",
+   "arrTime": "16:30",
+   "arrDate": "2026-12-05",
+   "durationMin": 630,
+   "layovers": [
+    {
+     "min": 265,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    },
+    {
+     "min": 90,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK341",
+    "KL1200",
+    "KL941"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 405.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and KLM",
+   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "13:30",
+   "depDate": "2026-12-05",
+   "arrCode": "GLA",
+   "arrAirportName": "Glasgow Airport",
+   "arrTime": "22:10",
+   "arrDate": "2026-12-05",
+   "durationMin": 580,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    },
+    {
+     "min": 160,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK355",
+    "KL1204",
+    "KL945"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 442.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Wideroe, Finnair and British Airways",
+   "operatedBy": null,
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "16:45",
+   "depDate": "2026-12-05",
+   "arrCode": "GLA",
+   "arrAirportName": "Glasgow Airport",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-06",
+   "durationMin": 1385,
+   "layovers": [
+    {
+     "min": 185,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    },
+    {
+     "min": 515,
+     "overnight": true,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki",
+     "code": "HEL",
+     "changeAirport": false
+    },
+    {
+     "min": 250,
+     "overnight": true,
+     "airport": "Heathrow Airport",
+     "city": "London",
+     "code": "LHR",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "WF1452",
+    "AY918",
+    "AY1331",
+    "BA1482"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 810.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and KLM",
+   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:40",
+   "depDate": "2026-12-05",
+   "arrCode": "GLA",
+   "arrAirportName": "Glasgow Airport",
+   "arrTime": "16:30",
+   "arrDate": "2026-12-05",
+   "durationMin": 470,
+   "layovers": [
+    {
+     "min": 115,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    },
+    {
+     "min": 90,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK347",
+    "KL1200",
+    "KL941"
+   ],
+   "via": "rpc"
+  }
+ ]
+}

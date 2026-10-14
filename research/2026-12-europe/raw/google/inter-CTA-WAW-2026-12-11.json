@@ -1,0 +1,102 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTFqBRIDQ1RBcgUSA1dBV0ABSAGYAQI",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 50.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Wizz Air",
+   "operatedBy": null,
+   "depAirportName": "Vincenzo Bellini Catania Airport",
+   "depTime": "17:35",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Warsaw Chopin Airport",
+   "arrTime": "20:25",
+   "arrDate": "2026-12-11",
+   "durationMin": 170,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 50 euros.This price does not include overhead bin access. Nonstop flight with Wizz Air. Leaves Vincenzo Bellini Catania Airport at 5:35 PM on Friday, December 11 and arrives at Warsaw Chopin Airport at 8:25 PM on Friday, December 11. Total duration 2 hr 50 min.   Select flight"
+  },
+  {
+   "price": 53.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": "Malta Air",
+   "depAirportName": "Vincenzo Bellini Catania Airport",
+   "depTime": "14:25",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Warsaw Chopin Airport",
+   "arrTime": "17:20",
+   "arrDate": "2026-12-11",
+   "durationMin": 175,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 53 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Operated by Malta Air. Leaves Vincenzo Bellini Catania Airport at 2:25 PM on Friday, December 11 and arrives at Warsaw Chopin Airport at 5:20 PM on Friday, December 11. Total duration 2 hr 55 min.   Select flight"
+  },
+  {
+   "price": 143.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "ITA and SWISS",
+   "operatedBy": "Helvetic",
+   "depAirportName": "Vincenzo Bellini Catania Airport",
+   "depTime": "16:30",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Warsaw Chopin Airport",
+   "arrTime": "09:05",
+   "arrDate": "2026-12-12",
+   "durationMin": 995,
+   "layovers": [
+    {
+     "min": 145,
+     "overnight": false,
+     "airport": "Leonardo da Vinci International Airport",
+     "city": "Rome"
+    },
+    {
+     "min": 555,
+     "overnight": false,
+     "airport": "Zurich Airport",
+     "city": "Zürich"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 143 euros. 2 stops flight with ITA and SWISS. Operated by Helvetic. Leaves Vincenzo Bellini Catania Airport at 4:30 PM on Friday, December 11 and arrives at Warsaw Chopin Airport at 9:05 AM on Saturday, December 12. Total duration 16 hr 35 min.  Layover (1 of 2) is a 2 hr 25 min layover at Leonardo da Vinci International Airport in Rome. Layover (2 of 2) is a 9 hr 15 min layover at Zurich Airport in Zürich. Select flight"
+  },
+  {
+   "price": 175.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "ITA and LOT",
+   "operatedBy": null,
+   "depAirportName": "Vincenzo Bellini Catania Airport",
+   "depTime": "16:30",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Warsaw Chopin Airport",
+   "arrTime": "22:00",
+   "arrDate": "2026-12-11",
+   "durationMin": 330,
+   "layovers": [
+    {
+     "min": 105,
+     "overnight": false,
+     "airport": "Leonardo da Vinci International Airport",
+     "city": "Rome"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 175 euros. 1 stop flight with ITA and LOT. Leaves Vincenzo Bellini Catania Airport at 4:30 PM on Friday, December 11 and arrives at Warsaw Chopin Airport at 10:00 PM on Friday, December 11. Total duration 5 hr 30 min.  Layover (1 of 1) is a 1 hr 45 min layover at Leonardo da Vinci International Airport in Rome. Select flight"
+  }
+ ]
+}

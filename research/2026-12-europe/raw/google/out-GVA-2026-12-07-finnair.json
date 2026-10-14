@@ -1,0 +1,39 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMDcyAkFZMgJXRmoFEgNUUkRyBRIDR1ZBQAFIAZgBAg",
+ "fetchedAt": "2026-10-11T11:29:32",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 280.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Finnair",
+   "operatedBy": "Nordic Reg for Finnair",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "08:05",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Geneva Airport",
+   "arrTime": "10:00",
+   "arrDate": "2026-12-08",
+   "durationMin": 1555,
+   "layovers": [
+    {
+     "min": 480,
+     "overnight": false,
+     "airport": "Tromsø Airport",
+     "city": "Tromsø Municipality"
+    },
+    {
+     "min": 670,
+     "overnight": false,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 280 euros. 2 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 8:05 AM on Monday, December 7 and arrives at Geneva Airport at 10:00 AM on Tuesday, December 8. Total duration 25 hr 55 min.  Layover (1 of 2) is a 8 hr layover at Tromsø Airport in Tromsø Municipality. Layover (2 of 2) is a 11 hr 10 min layover at Helsinki Airport in Helsinki. Select flight"
+  }
+ ]
+}

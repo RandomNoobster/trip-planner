@@ -1,0 +1,237 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTFqBRIDQ1RBcgUSA0tSS0ABSAGYAQI",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 70.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": "Ryanair Sun",
+   "depAirportName": "Vincenzo Bellini Catania Airport",
+   "depTime": "10:05",
+   "depDate": "2026-12-11",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "12:35",
+   "arrDate": "2026-12-11",
+   "durationMin": 150,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 70 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Operated by Ryanair Sun. Leaves Vincenzo Bellini Catania Airport at 10:05 AM on Friday, December 11 and arrives at John Paul II Kraków Balice International Airport at 12:35 PM on Friday, December 11. Total duration 2 hr 30 min.   Select flight"
+  },
+  {
+   "price": 119.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Vincenzo Bellini Catania Airport",
+   "depTime": "18:25",
+   "depDate": "2026-12-11",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "23:40",
+   "arrDate": "2026-12-11",
+   "durationMin": 315,
+   "layovers": [
+    {
+     "min": 100,
+     "overnight": false,
+     "airport": "Munich International Airport",
+     "city": "Munich"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 119 euros. 1 stop flight with Lufthansa. Leaves Vincenzo Bellini Catania Airport at 6:25 PM on Friday, December 11 and arrives at John Paul II Kraków Balice International Airport at 11:40 PM on Friday, December 11. Total duration 5 hr 15 min.  Layover (1 of 1) is a 1 hr 40 min layover at Munich International Airport in Munich. Select flight"
+  },
+  {
+   "price": 166.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "ITA and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Vincenzo Bellini Catania Airport",
+   "depTime": "16:30",
+   "depDate": "2026-12-11",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "23:05",
+   "arrDate": "2026-12-11",
+   "durationMin": 395,
+   "layovers": [
+    {
+     "min": 45,
+     "overnight": false,
+     "airport": "Leonardo da Vinci International Airport",
+     "city": "Rome"
+    },
+    {
+     "min": 60,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 166 euros. 2 stops flight with ITA and Lufthansa. Leaves Vincenzo Bellini Catania Airport at 4:30 PM on Friday, December 11 and arrives at John Paul II Kraków Balice International Airport at 11:05 PM on Friday, December 11. Total duration 6 hr 35 min.  Layover (1 of 2) is a 45 min layover at Leonardo da Vinci International Airport in Rome. Layover (2 of 2) is a 1 hr layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 198.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "ITA and KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Vincenzo Bellini Catania Airport",
+   "depTime": "11:40",
+   "depDate": "2026-12-11",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "23:00",
+   "arrDate": "2026-12-11",
+   "durationMin": 680,
+   "layovers": [
+    {
+     "min": 250,
+     "overnight": false,
+     "airport": "Leonardo da Vinci International Airport",
+     "city": "Rome"
+    },
+    {
+     "min": 70,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 198 euros. 2 stops flight with ITA and KLM. Operated by KLM Cityhopper. Leaves Vincenzo Bellini Catania Airport at 11:40 AM on Friday, December 11 and arrives at John Paul II Kraków Balice International Airport at 11:00 PM on Friday, December 11. Total duration 11 hr 20 min.  Layover (1 of 2) is a 4 hr 10 min layover at Leonardo da Vinci International Airport in Rome. Layover (2 of 2) is a 1 hr 10 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 227.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "ITA and SWISS",
+   "operatedBy": "Helvetic",
+   "depAirportName": "Vincenzo Bellini Catania Airport",
+   "depTime": "19:15",
+   "depDate": "2026-12-11",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "13:55",
+   "arrDate": "2026-12-12",
+   "durationMin": 1120,
+   "layovers": [
+    {
+     "min": 710,
+     "overnight": false,
+     "airport": "Leonardo da Vinci International Airport",
+     "city": "Rome"
+    },
+    {
+     "min": 125,
+     "overnight": false,
+     "airport": "Zurich Airport",
+     "city": "Zürich"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 227 euros. 2 stops flight with ITA and SWISS. Operated by Helvetic. Leaves Vincenzo Bellini Catania Airport at 7:15 PM on Friday, December 11 and arrives at John Paul II Kraków Balice International Airport at 1:55 PM on Saturday, December 12. Total duration 18 hr 40 min.  Layover (1 of 2) is a 11 hr 50 min layover at Leonardo da Vinci International Airport in Rome. Layover (2 of 2) is a 2 hr 5 min layover at Zurich Airport in Zürich. Select flight"
+  },
+  {
+   "price": 235.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "ITA and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Vincenzo Bellini Catania Airport",
+   "depTime": "10:15",
+   "depDate": "2026-12-11",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "16:55",
+   "arrDate": "2026-12-11",
+   "durationMin": 400,
+   "layovers": [
+    {
+     "min": 60,
+     "overnight": false,
+     "airport": "Leonardo da Vinci International Airport",
+     "city": "Rome"
+    },
+    {
+     "min": 80,
+     "overnight": false,
+     "airport": "Munich International Airport",
+     "city": "Munich"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 235 euros. 2 stops flight with ITA and Lufthansa. Leaves Vincenzo Bellini Catania Airport at 10:15 AM on Friday, December 11 and arrives at John Paul II Kraków Balice International Airport at 4:55 PM on Friday, December 11. Total duration 6 hr 40 min.  Layover (1 of 2) is a 1 hr layover at Leonardo da Vinci International Airport in Rome. Layover (2 of 2) is a 1 hr 20 min layover at Munich International Airport in Munich. Select flight"
+  },
+  {
+   "price": 325.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Turkish Airlines",
+   "operatedBy": null,
+   "depAirportName": "Vincenzo Bellini Catania Airport",
+   "depTime": "19:10",
+   "depDate": "2026-12-11",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "18:30",
+   "arrDate": "2026-12-12",
+   "durationMin": 1400,
+   "layovers": [
+    {
+     "min": 1125,
+     "overnight": false,
+     "airport": "Istanbul Airport",
+     "city": "Istanbul"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 325 euros. 1 stop flight with Turkish Airlines. Leaves Vincenzo Bellini Catania Airport at 7:10 PM on Friday, December 11 and arrives at John Paul II Kraków Balice International Airport at 6:30 PM on Saturday, December 12. Total duration 23 hr 20 min.  Layover (1 of 1) is a 18 hr 45 min layover at Istanbul Airport in Istanbul. Select flight"
+  },
+  {
+   "price": 363.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "ITA and KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Vincenzo Bellini Catania Airport",
+   "depTime": "12:20",
+   "depDate": "2026-12-11",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "23:00",
+   "arrDate": "2026-12-11",
+   "durationMin": 640,
+   "layovers": [
+    {
+     "min": 160,
+     "overnight": false,
+     "airport": "Milan Linate Airport",
+     "city": "Milan"
+    },
+    {
+     "min": 140,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 363 euros. 2 stops flight with ITA and KLM. Operated by KLM Cityhopper. Leaves Vincenzo Bellini Catania Airport at 12:20 PM on Friday, December 11 and arrives at John Paul II Kraków Balice International Airport at 11:00 PM on Friday, December 11. Total duration 10 hr 40 min.  Layover (1 of 2) is a 2 hr 40 min layover at Milan Linate Airport in Milan. Layover (2 of 2) is a 2 hr 20 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  }
+ ]
+}

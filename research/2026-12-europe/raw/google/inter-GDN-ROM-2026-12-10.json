@@ -1,0 +1,168 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTBqBRIDR0ROcgUSA1JPTUABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 79.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Gdansk Lech Walesa Airport",
+   "depTime": "18:15",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Leonardo da Vinci International Airport",
+   "arrTime": "23:15",
+   "arrDate": "2026-12-10",
+   "durationMin": 300,
+   "layovers": [
+    {
+     "min": 60,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 90.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "Gdansk Lech Walesa Airport",
+   "depTime": "11:55",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Leonardo da Vinci International Airport",
+   "arrTime": "18:35",
+   "arrDate": "2026-12-10",
+   "durationMin": 400,
+   "layovers": [
+    {
+     "min": 195,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 137.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Gdansk Lech Walesa Airport",
+   "depTime": "14:25",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Leonardo da Vinci International Airport",
+   "arrTime": "22:50",
+   "arrDate": "2026-12-10",
+   "durationMin": 505,
+   "layovers": [
+    {
+     "min": 290,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 183.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa and ITA",
+   "operatedBy": null,
+   "depAirportName": "Gdansk Lech Walesa Airport",
+   "depTime": "14:25",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Leonardo da Vinci International Airport",
+   "arrTime": "20:15",
+   "arrDate": "2026-12-10",
+   "durationMin": 350,
+   "layovers": [
+    {
+     "min": 125,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 216.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa and Brussels Airlines",
+   "operatedBy": null,
+   "depAirportName": "Gdansk Lech Walesa Airport",
+   "depTime": "06:10",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Leonardo da Vinci International Airport",
+   "arrTime": "20:25",
+   "arrDate": "2026-12-10",
+   "durationMin": 855,
+   "layovers": [
+    {
+     "min": 275,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    },
+    {
+     "min": 285,
+     "airport": "Brussels Airport",
+     "city": "Brussels",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 1108.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "LOT and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Gdansk Lech Walesa Airport",
+   "depTime": "05:40",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Leonardo da Vinci International Airport",
+   "arrTime": "11:20",
+   "arrDate": "2026-12-10",
+   "durationMin": 340,
+   "layovers": [
+    {
+     "min": 35,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw",
+     "overnight": false
+    },
+    {
+     "min": 55,
+     "airport": "Munich International Airport",
+     "city": "Munich",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

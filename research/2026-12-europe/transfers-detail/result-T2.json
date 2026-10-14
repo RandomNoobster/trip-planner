@@ -1,0 +1,548 @@
+[
+  {
+    "city": "STO",
+    "airports": [],
+    "stations": [
+      {
+        "name": "Stockholm Central (trains)",
+        "serves": "trains: SJ, VY, Snälltåget, Flixtrain, plus international and overnight trains",
+        "toCentre": "Connected to the T-Centralen metro hub (Wikivoyage); walking time and fare to the centre not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Stockholm"
+      },
+      {
+        "name": "Cityterminalen (buses)",
+        "serves": "long-distance and regional buses: FlixBus, NetBuss, Tapanis Buss, SL, Vy and others",
+        "toCentre": "Terminal is in the middle of Stockholm's city (Jernhusen); T-Centralen metro is nearby; walking time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": 0,
+        "url": "https://www.jernhusen.se/stationer-och-vantsalar/cityterminalen/"
+      }
+    ]
+  },
+  {
+    "city": "GDN",
+    "airports": [
+      {
+        "code": "GDN",
+        "public": {
+          "line": "Bus 210 (ZTM Gdańsk)",
+          "from": "Airport bus stop opposite the passenger terminal, next to car park P1",
+          "to": "Gdańsk Główny (Dworzec Główny) main railway station, city centre. The official page gives about 40 min for the city-to-airport direction",
+          "minutes": 40,
+          "fareEUR": 1.1,
+          "fareText": "PLN 4.80 regular single ride; buy from ticket machines at the bus stop (cash or card) or in a mobile app",
+          "frequency": "daily; headway not stated (timetable at ztm.gda.pl)",
+          "hours": null,
+          "url": "https://www.airport.gdansk.pl/en/before-travel/getting-to-the-airport/bus"
+        },
+        "alternatives": [
+          {
+            "line": "Night bus N3 (ZTM Gdańsk)",
+            "to": "Gdańsk Główny railway station; runs every night 23:00–04:00 (headway not stated)",
+            "minutes": null,
+            "fareEUR": 1.1,
+            "fareText": "PLN 4.80 regular single ride (fare stated generally for airport buses)",
+            "url": "https://www.airport.gdansk.pl/en/before-travel/getting-to-the-airport/bus"
+          }
+        ],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No official fixed fare or meter tariff on the airport taxi page; only Neptun Taxi is named as a trusted partner, with no price given",
+          "url": "https://www.airport.gdansk.pl/en/before-travel/getting-to-the-airport/taxi"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Gdańsk Główny railway station (trains)",
+        "serves": "trains; bus 210 and night bus N3 stop here",
+        "toCentre": "Main station, opened 1900; walking time to the centre not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Gda%C5%84sk"
+      },
+      {
+        "name": "Dworzec PKS Gdańsk (main bus station)",
+        "serves": "buses (per Wikivoyage)",
+        "toCentre": "Located behind the railway station; walking time to the centre not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Gda%C5%84sk"
+      }
+    ]
+  },
+  {
+    "city": "HAM",
+    "airports": [
+      {
+        "code": "HAM",
+        "public": {
+          "line": "S1 S-Bahn",
+          "from": "Airport S-Bahn station, reached from the Terminal 1 and 2 arrivals level by lift, escalator or stairs",
+          "to": "Hamburg Hauptbahnhof (central station)",
+          "minutes": 25,
+          "fareEUR": 4.1,
+          "fareText": "EUR 4.10 single ticket per Wikivoyage Hamburg (Mar 2026); airport page gives no fare; buy via hvv.de",
+          "frequency": "every 10 min",
+          "hours": "no trains midnight to 04:00 (Wikivoyage Hamburg)",
+          "url": "https://www.hamburg-airport.de/en/arrival-and-departure-to-the-airport-36990"
+        },
+        "alternatives": [
+          {
+            "line": "Night bus 606 (HVV)",
+            "to": "Rathausmarkt and Hauptbahnhof/ZOB (route stops per airport page)",
+            "minutes": null,
+            "fareEUR": null,
+            "fareText": "fare and travel time not stated on the airport page; tickets via hvv.de",
+            "url": "https://www.hamburg-airport.de/en/arrival-and-departure-to-the-airport-36990"
+          }
+        ],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No fixed fare or meter estimate stated; the airport page says fixed prices can be agreed in advance but gives no amounts. Taxi stands at both terminals; Hansa-Taxi, Taxiruf Hamburg, Taxi Hamburg or the FreeNow app suggested",
+          "url": "https://www.hamburg-airport.de/en/arrival-and-departure-to-the-airport-36990"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Hamburg Hauptbahnhof (trains)",
+        "serves": "trains, including the S1 from the airport",
+        "toCentre": "Central station; walking time to the centre not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Hamburg"
+      },
+      {
+        "name": "ZOB Hamburg (intercity bus station)",
+        "serves": "intercity buses; FlixBus dominates the domestic market (per Wikivoyage)",
+        "toCentre": "Stop named Hauptbahnhof/ZOB on the airport page's night bus 606; walking time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Hamburg"
+      }
+    ]
+  },
+  {
+    "city": "NUE",
+    "airports": [
+      {
+        "code": "NUE",
+        "public": {
+          "line": "U2 underground",
+          "from": "U-Bahn stop directly in front of the terminal",
+          "to": "Nürnberg Hauptbahnhof (central station). The official page gives 12 min for the main station-to-airport run",
+          "minutes": 12,
+          "fareEUR": null,
+          "fareText": "adult fare not found: VGN lists the airport in price level A but gives no euro amount; buy from the U-Bahn ticket machine at the airport or in the VGN app",
+          "frequency": "every 10 min (per Wikivoyage; not on the airport page)",
+          "hours": null,
+          "url": "https://www.airport-nuernberg.de/en/getting-here"
+        },
+        "alternatives": [
+          {
+            "line": "Night bus N12 (VGN)",
+            "to": "Nürnberg Hauptbahnhof (via Maxfeld); runs Friday and Saturday nights and nights before public holidays",
+            "minutes": null,
+            "fareEUR": null,
+            "fareText": "adult fare not found; VGN airport page gives no euro amount",
+            "url": "https://www.vgn.de/en/getting-around/nuernberg-airport/"
+          }
+        ],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No fixed fare or meter estimate stated; the airport page names Taxizentrale Nürnberg (24/7) only",
+          "url": "https://www.airport-nuernberg.de/en/getting-here"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "ZOB Nürnberg (Central Bus Station)",
+        "serves": "buses (Käte-Strobel-Straße, 90402 Nürnberg)",
+        "toCentre": "Directly opposite the main railway station, which is just outside the old city walls (per Wikivoyage); walking time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Nuremberg"
+      }
+    ]
+  },
+  {
+    "city": "BRU",
+    "airports": [
+      {
+        "code": "BRU",
+        "public": {
+          "line": "Airport train (SNCB/NMBS) to Brussels-Central",
+          "from": "Brussels Airport train station, Level -1",
+          "to": "Brussels-Central station, 15–20 min (Wikivoyage)",
+          "minutes": null,
+          "fareEUR": 11.6,
+          "fareText": "2nd-class single EUR 11.60 (May 2026, Wikivoyage Brussels; airport supplement usually included); weekend single EUR 10.20",
+          "frequency": "every 10–20 min (Wikivoyage)",
+          "hours": null,
+          "url": "https://en.wikivoyage.org/wiki/Brussels"
+        },
+        "alternatives": [
+          {
+            "line": "Zaventem Dorp station (SNCB local trains)",
+            "to": "Brussels stations, 15–20 min to Brussels-Central (Wikivoyage); station is within a 1 km walk of the airport",
+            "minutes": null,
+            "fareEUR": 3.8,
+            "fareText": "EUR 3.80 (May 2026, per Wikivoyage Brussels; destination not stated there)",
+            "url": "https://en.wikivoyage.org/wiki/Brussels"
+          },
+          {
+            "line": "De Lijn night bus N62",
+            "to": "Rogier metro/premetro station, 1 km north-east of Grand-Place",
+            "minutes": 30,
+            "fareEUR": 3.0,
+            "fareText": "EUR 3 paid on board (Wikivoyage Brussels); departs airport level 0; frequency not stated",
+            "url": "https://en.wikivoyage.org/wiki/Brussels"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 60,
+          "minutes": null,
+          "basis": "Estimate from Wikivoyage Brussels (about EUR 60 to the centre; it warns some drivers charge up to EUR 120), not an official fixed fare or meter tariff; the Brussels Airport site could not be read",
+          "url": "https://en.wikivoyage.org/wiki/Brussels"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Brussels-Midi/Zuid (Gare du Midi)",
+        "serves": "long-distance buses (FlixBus, RegioJet)",
+        "toCentre": "Premetro lines 4 and 10 connect Midi and Nord with the Grand-Place (Wikivoyage); walking and transit times not stated; network fare: contactless card EUR 2.40 per journey, paper single EUR 2.90",
+        "line": "Premetro 4 or 10",
+        "minutes": null,
+        "fareEUR": 2.4,
+        "url": "https://en.wikivoyage.org/wiki/Brussels"
+      },
+      {
+        "name": "Brussels-Nord (Bruxelles-Nord, Business District)",
+        "serves": "long-distance buses (FlixBus)",
+        "toCentre": "Premetro lines 4 and 10 to the Grand-Place (Wikivoyage); walking and transit times not stated; network fare as for Midi",
+        "line": "Premetro 4 or 10",
+        "minutes": null,
+        "fareEUR": 2.4,
+        "url": "https://en.wikivoyage.org/wiki/Brussels"
+      }
+    ]
+  },
+  {
+    "city": "PAR",
+    "airports": [],
+    "stations": [
+      {
+        "name": "Bercy Seine (FlixBus main hub, Quai de Bercy)",
+        "serves": "long-distance buses (FlixBus)",
+        "toCentre": "Next to Quai de Bercy, access through Parc de Bercy (Wikivoyage); Bercy metro lines 6 and 14 nearby (Wikipedia); walking time not stated; one metro ticket EUR 2.55 (2026 RATP table as summarised in search; RATP site not readable)",
+        "line": "Metro 6 or 14 (Bercy)",
+        "minutes": null,
+        "fareEUR": 2.55,
+        "url": "https://en.wikivoyage.org/wiki/Paris"
+      },
+      {
+        "name": "Bercy (Blablacar Bus / OUIBUS office, Boulevard de Bercy)",
+        "serves": "buses (OUIBUS, BlaBlaCar Bus)",
+        "toCentre": "Next to Gare de Bercy (Wikivoyage); metro, walking and transit times not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Paris"
+      },
+      {
+        "name": "RegioJet stop on Rue du Faubourg near Château-Landon",
+        "serves": "buses (RegioJet)",
+        "toCentre": "Next to Château-Landon metro stop, near Gare de l'Est (Wikivoyage); metro line and walking time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Paris"
+      }
+    ]
+  },
+  {
+    "city": "VLC",
+    "airports": [
+      {
+        "code": "VLC",
+        "public": {
+          "line": "Metrovalencia Line 3 or 5",
+          "from": "Valencia Airport metro station (Metrovalencia)",
+          "to": "Estació del Nord, beside the Xàtiva metro stop, which links to the city centre (Wikivoyage)",
+          "minutes": 21,
+          "fareEUR": 4.8,
+          "fareText": "EUR 4.80 one-way zones A+B+ per a 2026 fare table on a third-party site (Metrovalencia page not readable); cardboard card EUR 1.10 extra; Wikivoyage Valencia (undated) gives EUR 3.90 plus EUR 1 for a card",
+          "frequency": "every 8 min (Wikivoyage)",
+          "hours": "no trains midnight to 05:30 (Wikivoyage)",
+          "url": "https://en.wikivoyage.org/wiki/Valencia"
+        },
+        "alternatives": [
+          {
+            "line": "Bus 150 (Fernanbus)",
+            "to": "Àngel Guimerà metro stop (Wikivoyage: 'Àngel Guimerá, 48'); about 30–40 min; every 15 min",
+            "minutes": null,
+            "fareEUR": 1.5,
+            "fareText": "EUR 1.50 per Wikivoyage Valencia (undated; ticket name and purchase not stated); cheaper than the metro",
+            "url": "https://en.wikivoyage.org/wiki/Valencia"
+          }
+        ],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No current official fixed fare or meter estimate found; Wikivoyage's taxi figures (about EUR 20–23 plus about EUR 5 airport supplement, dated January 2015) are too old and not used",
+          "url": "https://en.wikivoyage.org/wiki/Valencia"
+        }
+      }
+    ],
+    "stations": []
+  },
+  {
+    "city": "LIS",
+    "airports": [
+      {
+        "code": "LIS",
+        "public": {
+          "line": "Metro red line (Linha Vermelha) to Saldanha, then green or blue line to Baixa-Chiado",
+          "from": "Aeroporto metro station, under Terminal 1",
+          "to": "Baixa-Chiado (change at Saldanha; under 25 min per Wikivoyage; Saldanha about 16 min away)",
+          "minutes": null,
+          "fareEUR": 1.9,
+          "fareText": "EUR 1.90 single ticket ('Carris/Metro' ticket) per metrolisboa.pt; zapping EUR 1.72 per metro journey with a personalised Navegante card",
+          "frequency": null,
+          "hours": "daily 06:30–01:00 (metrolisboa.pt)",
+          "url": "https://www.metrolisboa.pt/en/"
+        },
+        "alternatives": [
+          {
+            "line": "Night bus 208",
+            "to": "Route and stops not stated (Wikivoyage lists it as an airport night line)",
+            "minutes": null,
+            "fareEUR": 2,
+            "fareText": "EUR 2 on board per Wikivoyage Lisbon (general airport bus fare); large luggage not allowed on airport buses",
+            "url": "https://en.wikivoyage.org/wiki/Lisbon"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 19,
+          "minutes": null,
+          "basis": "Fixed fare from press reports (RTP) under a self-regulation agreement between Lisbon City Council and taxi associations; no decree or portaria found. Zone 2 weekdays 07:00–22:00 for standard vehicles; EUR 23 nights, weekends and holidays (the article also gives 24 and 28); tolls included; zone 2 lists the Santa Maria Maior and Santo António parishes (Baixa not named); starts 15 October (RTP; year not stated, other reports say 2026)",
+          "url": "https://www.rtp.pt/noticias/pais/taxis-no-aeroporto-de-lisboa-vao-passar-a-ter-taxa-fixa-a-partir-de-outubro_n1764877"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Sete Rios bus terminal (main long-distance bus station)",
+        "serves": "long-distance buses (main terminal per Wikivoyage)",
+        "toCentre": "Nearest metro: Jardim Zoológico (blue line); walking and transit time to the centre not stated",
+        "line": "Metro blue line from Jardim Zoológico",
+        "minutes": null,
+        "fareEUR": 1.9,
+        "url": "https://en.wikivoyage.org/wiki/Lisbon"
+      }
+    ]
+  },
+  {
+    "city": "VCE",
+    "airports": [
+      {
+        "code": "VCE",
+        "public": {
+          "line": "ATVO Venice Airport Bus Express, line 035 (Aeroporto Marco Polo to Venezia)",
+          "from": "Airport bus stop (ATVO); ATVO ticket office in the arrivals hall",
+          "to": "Piazzale Roma (ATVO stop; onward connection to the centre not stated); about 20 min per Wikivoyage Venice",
+          "minutes": 20,
+          "fareEUR": 10,
+          "fareText": "EUR 10 one way per Wikivoyage Venice (the ATVO page gives no fare); unlimited luggage included (ATVO page); tickets from airport machines and office, Piazzale Roma or online",
+          "frequency": null,
+          "hours": "airport to Piazzale Roma 06:00–01:10 daily (per Wikivoyage Venice)",
+          "url": "https://www.atvo.it/servizi-erogati/servizi-aereoportuali/venice-airport-bus-express"
+        },
+        "alternatives": [
+          {
+            "line": "ACTV aerobus 5 (city bus)",
+            "to": "Piazzale Roma, about 23 min (Wikivoyage); daily except about 01:00–04:00",
+            "minutes": 23,
+            "fareEUR": 10,
+            "fareText": "EUR 10 per Wikivoyage Venice; 75-minute ticket valid on buses and/or vaporetti; one piece of hand luggage included",
+            "url": "https://en.wikivoyage.org/wiki/Venice"
+          },
+          {
+            "line": "Walk about 1 km to the Triestina (Tessera) stop, then ACTV bus 5 or other routes",
+            "to": "Not stated (Wikivoyage gives no destination or time)",
+            "minutes": null,
+            "fareEUR": 1.5,
+            "fareText": "EUR 1.50 per Wikivoyage Venice; the walk comes first",
+            "url": "https://en.wikivoyage.org/wiki/Venice"
+          },
+          {
+            "line": "Alilaguna Blue line (linea blu)",
+            "to": "San Marco (also Murano, Lido, Cruise Terminal, Giudecca Stucky); about 90 min to San Marco (Wikivoyage)",
+            "minutes": 90,
+            "fareEUR": 18,
+            "fareText": "EUR 18 to Lido, Venice or Cruise Terminal; EUR 10 with IMOB smart card (Wikivoyage; fares not specific to the Blue line)",
+            "url": "https://en.wikivoyage.org/wiki/Venice"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 150,
+          "minutes": 30,
+          "basis": "Water taxi, priced per boat, not per person: about EUR 150 with about 30 min (Wikivoyage Venice, Sep 2025 figure); not an official fixed fare or meter estimate; no road taxi fare stated",
+          "url": "https://en.wikivoyage.org/wiki/Venice"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Piazzale Roma (bus terminal for ATVO and ACTV)",
+        "serves": "buses: ATVO Venice Airport Bus Express and ACTV aerobus 5 (per Wikivoyage)",
+        "toCentre": "Onward connection to the centre not stated in sources; walking or vaporetto time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Venice"
+      }
+    ]
+  },
+  {
+    "city": "PMO",
+    "airports": [
+      {
+        "code": "PMO",
+        "public": {
+          "line": "Prestia e Comandè airport shuttle bus (Palermo airport to Palermo Centrale)",
+          "from": "Airport arrivals ground floor, to the right after exiting (Bluekeys guide)",
+          "to": "Palermo Centrale, Via Fazello bus terminal, with ten city stops including Politeama and Via Roma (guide); 40–50 min per guides",
+          "minutes": null,
+          "fareEUR": 6.5,
+          "fareText": "EUR 6.50 paid on board; EUR 6.00 online or presale (Bluekeys guide, checked Aug 2026; the operator's page gives no prices); no luggage allowance published (guide)",
+          "frequency": "every 30 min (operator page)",
+          "hours": "airport departures 05:05–01:05, city departures 03:30–21:30 (Bluekeys guide; not on the operator page)",
+          "url": "https://www.prestiaecomande.it/"
+        },
+        "alternatives": [
+          {
+            "line": "Genio Express (Trenitalia regional train)",
+            "to": "Palermo Centrale (per the Trenitalia page title); the page's 34–36 min time is to Palermo Notarbartolo; Centrale time not stated",
+            "minutes": null,
+            "fareEUR": 6.8,
+            "fareText": "EUR 6.80 adult per Trenitalia's official page (single-ticket status not stated); 2 trains an hour, some hours 1; first departure 05:18, last 00:25 from the airport",
+            "url": "https://www.trenitalia.com/en/connections/palermo-airport-falcone-borsellino.html"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 44,
+          "minutes": null,
+          "basis": "Set zone rate quoted by a third-party guide: EUR 44 to Corso Vittorio Emanuele (EUR 39 Viale Lazio, EUR 50 Stazione Centrale); not confirmed on an official tariff; airport and municipal pages were not readable",
+          "url": "https://bluekeys.it/it/blog/palermo-airport-to-palermo-transfer"
+        }
+      }
+    ],
+    "stations": []
+  },
+  {
+    "city": "SOF",
+    "airports": [
+      {
+        "code": "SOF",
+        "public": {
+          "line": "Sofia Metro M4 (yellow line, per a 2026 guide)",
+          "from": "Sofia Airport metro station; passengers landing at Terminal 1 first take the free shuttle to Terminal 2 (guide)",
+          "to": "Serdika, city centre, 12 stops from the airport (guide); Sofia University station is one stop earlier. About 20–25 min per guides",
+          "minutes": null,
+          "fareEUR": 0.8,
+          "fareText": "EUR 0.80 '30+' single ticket (30 min incl. transfers), 2026 listings; originally BGN 1.60 (1.60 / 1.9558 = 0.82, rounded to 0.8 per fx.json); contactless card tapped at the gate (guide; reports on station machines conflict)",
+          "frequency": null,
+          "hours": null,
+          "url": "https://www.andybtravels.com/en-route-blog/sofia-airport-centre-train-station"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": 10.34,
+          "minutes": null,
+          "basis": "Computed meter estimate, not a fixed fare: midpoint of the 2026 daytime per-km band (EUR 0.73–1.24/km, municipal decision reported by BNR) x 10.5 km (travel-site range 10–10.8 km); flag-fall not included, so the real meter fare will be higher; some guides estimate EUR 5–8, which looks low",
+          "url": "https://bnrnews.bg/en/post/408705/increase-in-price-of-taxi-services-in-sofia"
+        }
+      }
+    ],
+    "stations": []
+  },
+  {
+    "city": "TIA",
+    "airports": [
+      {
+        "code": "TIA",
+        "public": {
+          "line": "Tirana-Airport bus line (operated by LU-NA SHPK, Luna)",
+          "from": "Airport bus stop (exact stop not stated on the official page)",
+          "to": "Behind the Palace of Opera and Ballet (official page); travel time 30–40 min",
+          "minutes": null,
+          "fareEUR": 4.1,
+          "fareText": "ALL 400 one way per the official TIA bus page (the same page shows EUR 4.50); adult fare not stated; converted at ALL 98/EUR in fx.json, an approximate rate; cash to the driver is the usual method (guides)",
+          "frequency": "every full hour, both directions (official page)",
+          "hours": "24/7 (official page)",
+          "url": "https://www.tirana-airport.com/en/transport-and-directions/15/By-Bus"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": 22.4,
+          "minutes": null,
+          "basis": "Official airport taxi posted fare of about ALL 2,200 per third-party guides, converted at ALL 98/EUR (approximate); the operator's fare list at tiataxi.al could not be read; fixed or metered type not confirmed; guides warn that asking prices can be higher",
+          "url": "https://tiataxi.al/travel"
+        }
+      }
+    ],
+    "stations": []
+  },
+  {
+    "city": "MLA",
+    "airports": [
+      {
+        "code": "MLA",
+        "public": {
+          "line": "X4 bus (airport to Valletta)",
+          "from": "Malta International Airport bus stop (exact stop not stated)",
+          "to": "Valletta (stop not stated); about 20 min per Wikivoyage Valletta",
+          "minutes": 20,
+          "fareEUR": 2.5,
+          "fareText": "EUR 2.50 adult one way, cash or contactless bank card on the bus (Wikivoyage Valletta); a third-party guide gives EUR 2.00 for the winter period from 19 Oct, unconfirmed",
+          "frequency": "about two buses per hour (Wikivoyage: 'generally two buses per hour')",
+          "hours": null,
+          "url": "https://en.wikivoyage.org/wiki/Valletta"
+        },
+        "alternatives": [
+          {
+            "line": "Airport Direct (Malta Public Transport)",
+            "to": "Not confirmed: destination and travel time not readable on the official page",
+            "minutes": null,
+            "fareEUR": 3,
+            "fareText": "EUR 3 per passenger, cash or contactless; EUR 1.50 with a personalised tallinja card (Malta Public Transport page, via search summary); nothing extra with an Unlimited Travel Card",
+            "url": "https://www.publictransport.com.mt/en/airportdirect"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 17,
+          "minutes": null,
+          "basis": "Fixed fare per destination, per car, quoted at the Malta Taxi counter in arrivals and paid before boarding; EUR 17 to Valletta per third-party fare guides (hemenhesap.com 2026 list); the airport's own tariff page could not be read; other guides give EUR 10–25 and some describe metered pricing",
+          "url": "https://www.hemenhesap.com/en/malta-airport-taxi-fare"
+        }
+      }
+    ],
+    "stations": []
+  }
+]

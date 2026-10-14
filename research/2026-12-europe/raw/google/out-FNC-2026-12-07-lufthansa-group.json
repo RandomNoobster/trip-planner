@@ -1,0 +1,83 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GjYSCjIwMjYtMTItMDcyAkxIMgJMWDICT1MyAlNOMgJFVzICNFkyAldGagUSA1RSRHIFEgNGTkNAAUgBmAEC",
+ "fetchedAt": "2026-10-11T11:26:14",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 842.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Wideroe, Lufthansa and Tap Air Portugal",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Madeira Airport",
+   "arrTime": "13:30",
+   "arrDate": "2026-12-08",
+   "durationMin": 1760,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    },
+    {
+     "min": 340,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    },
+    {
+     "min": 770,
+     "overnight": false,
+     "airport": "Humberto Delgado Airport",
+     "city": "Lisbon"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 842 euros. 3 stops flight with Wideroe, Lufthansa and Tap Air Portugal. Leaves Trondheim Airport, Værnes at 9:10 AM on Monday, December 7 and arrives at Madeira Airport at 1:30 PM on Tuesday, December 8. Total duration 29 hr 20 min.  Layover (1 of 3) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 5 hr 40 min layover at Frankfurt Airport in Frankfurt am Main. Layover (3 of 3) is a 12 hr 50 min layover at Humberto Delgado Airport in Lisbon. Select flight"
+  },
+  {
+   "price": 1038.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Wideroe, Lufthansa and Tap Air Portugal",
+   "operatedBy": "Portugalia for Tap Portugal",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Madeira Airport",
+   "arrTime": "22:55",
+   "arrDate": "2026-12-07",
+   "durationMin": 885,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    },
+    {
+     "min": 165,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    },
+    {
+     "min": 65,
+     "overnight": false,
+     "airport": "Humberto Delgado Airport",
+     "city": "Lisbon"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 1038 euros. 3 stops flight with Wideroe, Lufthansa and Tap Air Portugal. Operated by Portugalia for Tap Portugal. Leaves Trondheim Airport, Værnes at 9:10 AM on Monday, December 7 and arrives at Madeira Airport at 10:55 PM on Monday, December 7. Total duration 14 hr 45 min.  Layover (1 of 3) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 2 hr 45 min layover at Frankfurt Airport in Frankfurt am Main. Layover (3 of 3) is a 1 hr 5 min layover at Humberto Delgado Airport in Lisbon. Select flight"
+  }
+ ]
+}

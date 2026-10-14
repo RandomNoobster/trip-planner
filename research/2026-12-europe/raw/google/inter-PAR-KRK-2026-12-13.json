@@ -1,0 +1,212 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDUEFScgUSA0tSS0ABSAGYAQI",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 49.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "easyJet",
+   "operatedBy": null,
+   "depAirportName": "Aéroport de Paris-Charles de Gaulle",
+   "depTime": "07:00",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "09:15",
+   "arrDate": "2026-12-13",
+   "durationMin": 135,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 49 euros.This price does not include overhead bin access. Nonstop flight with easyJet. Leaves Aéroport de Paris-Charles de Gaulle at 7:00 AM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 9:15 AM on Sunday, December 13. Total duration 2 hr 15 min.   Select flight"
+  },
+  {
+   "price": 69.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "easyJet",
+   "operatedBy": null,
+   "depAirportName": "Aéroport de Paris-Charles de Gaulle",
+   "depTime": "17:35",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "19:50",
+   "arrDate": "2026-12-13",
+   "durationMin": 135,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 69 euros.This price does not include overhead bin access. Nonstop flight with easyJet. Leaves Aéroport de Paris-Charles de Gaulle at 5:35 PM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 7:50 PM on Sunday, December 13. Total duration 2 hr 15 min.   Select flight"
+  },
+  {
+   "price": 74.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": "Ryanair Sun",
+   "depAirportName": "Paris Beauvais Airport",
+   "depTime": "20:05",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "22:15",
+   "arrDate": "2026-12-13",
+   "durationMin": 130,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 74 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Operated by Ryanair Sun. Leaves Paris Beauvais Airport at 8:05 PM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 10:15 PM on Sunday, December 13. Total duration 2 hr 10 min.   Select flight"
+  },
+  {
+   "price": 106.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 0,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "Paris Orly Airport",
+   "depTime": "20:40",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "22:50",
+   "arrDate": "2026-12-13",
+   "durationMin": 130,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 106 euros. Nonstop flight with LOT. Leaves Paris Orly Airport at 8:40 PM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 10:50 PM on Sunday, December 13. Total duration 2 hr 10 min.   Select flight"
+  },
+  {
+   "price": 101.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Air France and KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Aéroport de Paris-Charles de Gaulle",
+   "depTime": "17:10",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "23:00",
+   "arrDate": "2026-12-13",
+   "durationMin": 350,
+   "layovers": [
+    {
+     "min": 145,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 101 euros.This price does not include overhead bin access. 1 stop flight with Air France and KLM. Operated by KLM Cityhopper. Leaves Aéroport de Paris-Charles de Gaulle at 5:10 PM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 11:00 PM on Sunday, December 13. Total duration 5 hr 50 min.  Layover (1 of 1) is a 2 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 146.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa City Airlines and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Aéroport de Paris-Charles de Gaulle",
+   "depTime": "08:55",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "12:50",
+   "arrDate": "2026-12-13",
+   "durationMin": 235,
+   "layovers": [
+    {
+     "min": 65,
+     "overnight": false,
+     "airport": "Munich International Airport",
+     "city": "Munich"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 146 euros. 1 stop flight with Lufthansa City Airlines and Lufthansa. Leaves Aéroport de Paris-Charles de Gaulle at 8:55 AM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 12:50 PM on Sunday, December 13. Total duration 3 hr 55 min.  Layover (1 of 1) is a 1 hr 5 min layover at Munich International Airport in Munich. Select flight"
+  },
+  {
+   "price": 149.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "SWISS",
+   "operatedBy": null,
+   "depAirportName": "Aéroport de Paris-Charles de Gaulle",
+   "depTime": "09:55",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "13:55",
+   "arrDate": "2026-12-13",
+   "durationMin": 240,
+   "layovers": [
+    {
+     "min": 50,
+     "overnight": false,
+     "airport": "Zurich Airport",
+     "city": "Zürich"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 149 euros. 1 stop flight with SWISS. Leaves Aéroport de Paris-Charles de Gaulle at 9:55 AM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 1:55 PM on Sunday, December 13. Total duration 4 hr.  Layover (1 of 1) is a 50 min layover at Zurich Airport in Zürich. Select flight"
+  },
+  {
+   "price": 154.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Aéroport de Paris-Charles de Gaulle",
+   "depTime": "14:25",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "18:25",
+   "arrDate": "2026-12-13",
+   "durationMin": 240,
+   "layovers": [
+    {
+     "min": 70,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 154 euros. 1 stop flight with Lufthansa. Leaves Aéroport de Paris-Charles de Gaulle at 2:25 PM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 6:25 PM on Sunday, December 13. Total duration 4 hr.  Layover (1 of 1) is a 1 hr 10 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 166.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "Aéroport de Paris-Charles de Gaulle",
+   "depTime": "10:50",
+   "depDate": "2026-12-13",
+   "arrAirportName": "John Paul II Kraków Balice International Airport",
+   "arrTime": "15:45",
+   "arrDate": "2026-12-13",
+   "durationMin": 295,
+   "layovers": [
+    {
+     "min": 90,
+     "overnight": false,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 166 euros. 1 stop flight with LOT. Leaves Aéroport de Paris-Charles de Gaulle at 10:50 AM on Sunday, December 13 and arrives at John Paul II Kraków Balice International Airport at 3:45 PM on Sunday, December 13. Total duration 4 hr 55 min.  Layover (1 of 1) is a 1 hr 30 min layover at Warsaw Chopin Airport in Warsaw. Select flight"
+  }
+ ]
+}

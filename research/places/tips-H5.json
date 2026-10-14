@@ -1,0 +1,105 @@
+{
+  "agent": "H5",
+  "cities": {
+    "BCN": {
+      "localBeer": ["Estrella Damm"],
+      "cheapEat": {
+        "name": "Tapas at Taberna Blai Tonight",
+        "priceEUR": 1,
+        "note": "€1 tapas in Sants-Montjuïc; you pick a plate and drink, then pay per toothpick"
+      },
+      "saveTip": "Eat the menú del migdia at lunch, which small bars on Avinguda del Parallel sell for €9-11 per person.",
+      "sources": ["https://en.wikivoyage.org/wiki/Barcelona", "https://en.wikipedia.org/wiki/Estrella_Damm"]
+    },
+    "MAD": {
+      "localBeer": ["Mahou"],
+      "cheapEat": {
+        "name": "Gallinejas and entresijos tapas",
+        "priceEUR": 3,
+        "note": "Raciones €3-9 at Freiduría de Gallinejas Embajadores; not for the squeamish"
+      },
+      "saveTip": "Order the menú del día at lunch; Tapería de Malasaña lists it at €11.",
+      "sources": ["https://en.wikivoyage.org/wiki/Madrid", "https://es.wikipedia.org/wiki/Mahou"]
+    },
+    "VLC": {
+      "localBeer": ["Turia"],
+      "cheapEat": {
+        "name": "Bocadillo and drink, Kiosco La Pérgola",
+        "priceEUR": 3,
+        "note": "Bocadillo and a drink for €3-4 (Oct 2017 listing); a popular lunch spot"
+      },
+      "saveTip": "Café Rialto has a well-priced set lunch menu for €10.50 in the historic Rialto Theatre.",
+      "sources": ["https://en.wikivoyage.org/wiki/Valencia", "https://juliaeats.com/2018/07/22/valencias-beer-turia-marzen/"]
+    },
+    "AGP": {
+      "localBeer": ["Victoria"],
+      "cheapEat": {
+        "name": "Empanada tapa at Restaurante Gallego Candamil",
+        "priceEUR": 1.25,
+        "note": "Galician restaurant in Málaga; the tapa of empanada costs €1.25 (Wikivoyage)"
+      },
+      "saveTip": "Buy 0.5 l beer in a shop for about €1.04 instead of about €3.00 for draught in a bar.",
+      "sources": ["https://en.wikivoyage.org/wiki/M%C3%A1laga", "https://cervezavictoria.es/en/visit-our-brewery", "places/raw/price-table.json"]
+    },
+    "SVQ": {
+      "localBeer": ["Cruzcampo"],
+      "cheapEat": {
+        "name": "Tapas at El Librero",
+        "priceEUR": 2.6,
+        "note": "Tapas €2.60-3.40 (Oct 2021 Wikivoyage listing); cheese and ham dishes too"
+      },
+      "saveTip": "Eat at local bars, which Wikivoyage says serve very good food at a low price.",
+      "sources": ["https://en.wikivoyage.org/wiki/Seville"]
+    },
+    "ALC": {
+      "localBeer": null,
+      "cheapEat": {
+        "name": "Set menu at El Nou Cisne",
+        "priceEUR": 11.9,
+        "note": "Set menu €11.90 (May 2016 listing); tapas and raciones, per Wikivoyage"
+      },
+      "saveTip": "Wikivoyage says almost every restaurant here has a menú del día for €10, so ask for it at lunch.",
+      "sources": ["https://en.wikivoyage.org/wiki/Alicante"]
+    },
+    "PMI": {
+      "localBeer": null,
+      "cheapEat": {
+        "name": "Ensaimada, Mallorcan pastry",
+        "priceEUR": 2,
+        "note": "Priced €2-6 in a Palma signature-dishes guide; no shop named there"
+      },
+      "saveTip": "Eat at Es Raconet, which Wikivoyage describes as home-cooked food at a bargain price.",
+      "sources": ["https://en.wikivoyage.org/wiki/Palma_de_Mallorca", "https://tablejourney.com/spain/palma/signature-dishes/"]
+    },
+    "LPA": {
+      "localBeer": ["Tropical"],
+      "cheapEat": {
+        "name": "Canarian tapas at Bodegón Pachichi",
+        "priceEUR": null,
+        "note": "Typical Canarian tapas, a favourite with locals; the listing gives no price"
+      },
+      "saveTip": "Eat in San Telmo, where Wikivoyage says many restaurants are inexpensive, and drink cheaply at Bodegón Pachichi.",
+      "sources": ["https://en.wikivoyage.org/wiki/Las_Palmas"]
+    },
+    "TCI": {
+      "localBeer": ["Dorada", "Reine"],
+      "cheapEat": {
+        "name": "Canarian mains at Mesón Los Gemelos",
+        "priceEUR": 8,
+        "note": "Traditional Canarian mains €8-14 in Puerto de la Cruz; weekend queues, so book ahead"
+      },
+      "saveTip": "Wikivoyage says stews cost only a few euros a portion, so order those to keep costs down.",
+      "sources": ["https://en.wikivoyage.org/wiki/Tenerife"]
+    },
+    "LCA": {
+      "localBeer": ["KEO"],
+      "cheapEat": {
+        "name": "Souvlaki in pita, Souvlaki.gr",
+        "priceEUR": null,
+        "note": "Souvlaki.gr: souvlaki wrapped in pita, per the Larnaca listing; no price given"
+      },
+      "saveTip": "Buy 0.5 l beer in a shop for about €1.68 instead of about €3.00 for draught in a bar.",
+      "sources": ["https://en.wikivoyage.org/wiki/Larnaca", "https://en.wikipedia.org/wiki/Beer_in_Cyprus", "places/raw/price-table.json"]
+    }
+  }
+}

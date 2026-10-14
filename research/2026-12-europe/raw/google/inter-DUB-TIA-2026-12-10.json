@@ -1,0 +1,168 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTBqBRIDRFVCcgUSA1RJQUABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 185.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Dublin Airport",
+   "depTime": "05:10",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Tirana International Airport",
+   "arrTime": "15:20",
+   "arrDate": "2026-12-10",
+   "durationMin": 550,
+   "layovers": [
+    {
+     "min": 300,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 213.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "SWISS",
+   "operatedBy": null,
+   "depAirportName": "Dublin Airport",
+   "depTime": "18:35",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Tirana International Airport",
+   "arrTime": "09:05",
+   "arrDate": "2026-12-11",
+   "durationMin": 810,
+   "layovers": [
+    {
+     "min": 555,
+     "airport": "Zurich Airport",
+     "city": "Zürich",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 219.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air France and Air Serbia",
+   "operatedBy": null,
+   "depAirportName": "Dublin Airport",
+   "depTime": "15:30",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Tirana International Airport",
+   "arrTime": "02:10",
+   "arrDate": "2026-12-11",
+   "durationMin": 580,
+   "layovers": [
+    {
+     "min": 195,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    },
+    {
+     "min": 55,
+     "airport": "Belgrade Nikola Tesla Airport",
+     "city": "Belgrade",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 261.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Turkish Airlines",
+   "operatedBy": null,
+   "depAirportName": "Dublin Airport",
+   "depTime": "10:40",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Tirana International Airport",
+   "arrTime": "19:35",
+   "arrDate": "2026-12-10",
+   "durationMin": 475,
+   "layovers": [
+    {
+     "min": 95,
+     "airport": "Istanbul Airport",
+     "city": "Istanbul",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 1806.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Aegean",
+   "operatedBy": null,
+   "depAirportName": "Dublin Airport",
+   "depTime": "08:50",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Tirana International Airport",
+   "arrTime": "18:00",
+   "arrDate": "2026-12-10",
+   "durationMin": 490,
+   "layovers": [
+    {
+     "min": 55,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 70,
+     "airport": "Athens International Airport \"Eleftherio",
+     "city": "Athens",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 216.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Dublin Airport",
+   "depTime": "09:10",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Tirana International Airport",
+   "arrTime": "15:20",
+   "arrDate": "2026-12-10",
+   "durationMin": 310,
+   "layovers": [
+    {
+     "min": 60,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

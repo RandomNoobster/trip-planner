@@ -1,0 +1,331 @@
+[
+ {
+  "city": "BKK",
+  "name": "Bangkok",
+  "country": "Thailand",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Bangkok",
+  "airports": [
+   {
+    "code": "BKK",
+    "name": "Suvarnabhumi Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   },
+   {
+    "code": "DMK",
+    "name": "Don Mueang International Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "KUL",
+  "name": "Kuala Lumpur",
+  "country": "Malaysia",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Kuala_Lumpur",
+  "airports": [
+   {
+    "code": "KUL",
+    "name": "Kuala Lumpur International Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "SIN",
+  "name": "Singapore",
+  "country": "Singapore",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Singapore",
+  "airports": [
+   {
+    "code": "SIN",
+    "name": "Singapore Changi Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "TYO",
+  "name": "Tokyo",
+  "country": "Japan",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Tokyo",
+  "airports": [
+   {
+    "code": "HND",
+    "name": "Tokyo Haneda Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   },
+   {
+    "code": "NRT",
+    "name": "Narita International Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "SEL",
+  "name": "Seoul",
+  "country": "South Korea",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Seoul",
+  "airports": [
+   {
+    "code": "ICN",
+    "name": "Incheon International Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   },
+   {
+    "code": "GMP",
+    "name": "Gimpo International Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "SGN",
+  "name": "Ho Chi Minh City",
+  "country": "Vietnam",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Ho_Chi_Minh_City",
+  "airports": [
+   {
+    "code": "SGN",
+    "name": "Tan Son Nhat International Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "BIO",
+  "name": "Bilbao",
+  "country": "Spain",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Bilbao",
+  "airports": [
+   {
+    "code": "BIO",
+    "name": "Bilbao Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   }
+  ],
+  "groundArrivals": [
+   "train",
+   "bus"
+  ]
+ },
+ {
+  "city": "HER",
+  "name": "Heraklion, Crete",
+  "country": "Greece",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Heraklion",
+  "airports": [
+   {
+    "code": "HER",
+    "name": "Heraklion International Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "AYT",
+  "name": "Antalya",
+  "country": "Turkey",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Antalya",
+  "airports": [
+   {
+    "code": "AYT",
+    "name": "Antalya Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "FUE",
+  "name": "Fuerteventura",
+  "country": "Spain",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Fuerteventura",
+  "airports": [
+   {
+    "code": "FUE",
+    "name": "Fuerteventura Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "LUX",
+  "name": "Luxembourg",
+  "country": "Luxembourg",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Luxembourg_%28city%29",
+  "airports": [
+   {
+    "code": "LUX",
+    "name": "Luxembourg Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   }
+  ],
+  "groundArrivals": [
+   "train",
+   "bus"
+  ]
+ }
+]

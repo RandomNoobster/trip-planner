@@ -1,0 +1,59 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDZqBRIDVFJEcgUSA0hBTRoaEgoyMDI2LTEyLTE0agUSA0hBTXIFEgNUUkRAAUgBmAEB",
+ "fetchedAt": "2026-10-11T11:21:27",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 341.0,
+   "roundTripTotal": true,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:25",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Hamburg Airport",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-06",
+   "durationMin": 325,
+   "layovers": [
+    {
+     "min": 185,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 341 euros round trip total.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 9:25 AM on Sunday, December 6 and arrives at Hamburg Airport at 2:50 PM on Sunday, December 6. Total duration 5 hr 25 min.  Layover (1 of 1) is a 3 hr 5 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 356.0,
+   "roundTripTotal": true,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:20",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Hamburg Airport",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-06",
+   "durationMin": 270,
+   "layovers": [
+    {
+     "min": 130,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 356 euros round trip total.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 10:20 AM on Sunday, December 6 and arrives at Hamburg Airport at 2:50 PM on Sunday, December 6. Total duration 4 hr 30 min.  Layover (1 of 1) is a 2 hr 10 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

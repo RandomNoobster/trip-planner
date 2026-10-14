@@ -1,0 +1,167 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTFqBRIDR0ROcgUSA1NUT0ABSAGYAQI",
+ "priceUnavailable": 12,
+ "itineraries": [
+  {
+   "price": 26.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": "Malta Air",
+   "depAirportName": "Gdansk Lech Walesa Airport",
+   "depTime": "23:10",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Stockholm Arlanda Airport",
+   "arrTime": "00:35",
+   "arrDate": "2026-12-12",
+   "durationMin": 85,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 26 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Operated by Malta Air. Leaves Gdansk Lech Walesa Airport at 11:10 PM on Friday, December 11 and arrives at Stockholm Arlanda Airport at 12:35 AM on Saturday, December 12. Total duration 1 hr 25 min.   Select flight"
+  },
+  {
+   "price": 29.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": "Malta Air",
+   "depAirportName": "Gdansk Lech Walesa Airport",
+   "depTime": "07:55",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Stockholm Arlanda Airport",
+   "arrTime": "09:20",
+   "arrDate": "2026-12-11",
+   "durationMin": 85,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 29 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Operated by Malta Air. Leaves Gdansk Lech Walesa Airport at 7:55 AM on Friday, December 11 and arrives at Stockholm Arlanda Airport at 9:20 AM on Friday, December 11. Total duration 1 hr 25 min.   Select flight"
+  },
+  {
+   "price": 41.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Wizz Air",
+   "operatedBy": null,
+   "depAirportName": "Gdansk Lech Walesa Airport",
+   "depTime": "19:35",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Stockholm Arlanda Airport",
+   "arrTime": "21:05",
+   "arrDate": "2026-12-11",
+   "durationMin": 90,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 41 euros.This price does not include overhead bin access. Nonstop flight with Wizz Air. Leaves Gdansk Lech Walesa Airport at 7:35 PM on Friday, December 11 and arrives at Stockholm Arlanda Airport at 9:05 PM on Friday, December 11. Total duration 1 hr 30 min.   Select flight"
+  },
+  {
+   "price": 101.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "Gdansk Lech Walesa Airport",
+   "depTime": "14:45",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Stockholm Arlanda Airport",
+   "arrTime": "18:50",
+   "arrDate": "2026-12-11",
+   "durationMin": 245,
+   "layovers": [
+    {
+     "min": 70,
+     "overnight": false,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 101 euros. 1 stop flight with LOT. Leaves Gdansk Lech Walesa Airport at 2:45 PM on Friday, December 11 and arrives at Stockholm Arlanda Airport at 6:50 PM on Friday, December 11. Total duration 4 hr 5 min.  Layover (1 of 1) is a 1 hr 10 min layover at Warsaw Chopin Airport in Warsaw. Select flight"
+  },
+  {
+   "price": 102.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Gdansk Lech Walesa Airport",
+   "depTime": "12:05",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Stockholm Arlanda Airport",
+   "arrTime": "18:00",
+   "arrDate": "2026-12-11",
+   "durationMin": 355,
+   "layovers": [
+    {
+     "min": 205,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 102 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Gdansk Lech Walesa Airport at 12:05 PM on Friday, December 11 and arrives at Stockholm Arlanda Airport at 6:00 PM on Friday, December 11. Total duration 5 hr 55 min.  Layover (1 of 1) is a 3 hr 25 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 102.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Gdansk Lech Walesa Airport",
+   "depTime": "12:05",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Stockholm Arlanda Airport",
+   "arrTime": "20:00",
+   "arrDate": "2026-12-11",
+   "durationMin": 475,
+   "layovers": [
+    {
+     "min": 325,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 102 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Gdansk Lech Walesa Airport at 12:05 PM on Friday, December 11 and arrives at Stockholm Arlanda Airport at 8:00 PM on Friday, December 11. Total duration 7 hr 55 min.  Layover (1 of 1) is a 5 hr 25 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 116.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Gdansk Lech Walesa Airport",
+   "depTime": "12:05",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Stockholm Arlanda Airport",
+   "arrTime": "16:00",
+   "arrDate": "2026-12-11",
+   "durationMin": 235,
+   "layovers": [
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 116 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Gdansk Lech Walesa Airport at 12:05 PM on Friday, December 11 and arrives at Stockholm Arlanda Airport at 4:00 PM on Friday, December 11. Total duration 3 hr 55 min.  Layover (1 of 1) is a 1 hr 25 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

@@ -1,0 +1,6518 @@
+{
+ "fetched": "2026-10-12",
+ "sources": {
+  "numbeo": {
+   "label": "Numbeo",
+   "url": "https://www.numbeo.com/cost-of-living/"
+  },
+  "livingcost": {
+   "label": "LivingCost.org",
+   "url": "https://livingcost.org/"
+  }
+ },
+ "numbeo": {
+  "AGA": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Agadir",
+   "items": {
+    "beerBar": {
+     "eur": 4.55,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "AGP": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Malaga",
+   "items": {
+    "mealCheap": {
+     "eur": 15.0,
+     "low": 12.0,
+     "high": 20.0
+    },
+    "mealMid2": {
+     "eur": 60.0,
+     "low": 40.0,
+     "high": 80.0
+    },
+    "fastFood": {
+     "eur": 11.0,
+     "low": 9.0,
+     "high": 12.0
+    },
+    "beerBar": {
+     "eur": 3.0,
+     "low": 2.0,
+     "high": 5.0
+    },
+    "beerImportBar": {
+     "eur": 4.0,
+     "low": 3.0,
+     "high": 5.0
+    },
+    "beerImportShop": {
+     "eur": 4.0,
+     "low": 3.0,
+     "high": 5.0
+    },
+    "cappuccino": {
+     "eur": 2.33,
+     "low": 1.2,
+     "high": 4.0
+    },
+    "wine": {
+     "eur": 6.0,
+     "low": 4.0,
+     "high": 7.0
+    },
+    "beerShop": {
+     "eur": 1.04,
+     "low": 0.98,
+     "high": 1.25
+    },
+    "transit": {
+     "eur": 1.4,
+     "low": 0.71,
+     "high": 1.5
+    },
+    "taxiStart": {
+     "eur": 1.68,
+     "low": 1.66,
+     "high": 3.0
+    },
+    "taxiKm": {
+     "eur": 1.07,
+     "low": 1.07,
+     "high": 1.68
+    }
+   },
+   "entries": 675,
+   "contributors": 69,
+   "updated": "11 October 2026"
+  },
+  "ALC": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Alicante",
+   "items": {
+    "mealCheap": {
+     "eur": 17.5,
+     "low": 9.0,
+     "high": 30.0
+    },
+    "mealMid2": {
+     "eur": 60.0,
+     "low": 35.0,
+     "high": 80.0
+    },
+    "fastFood": {
+     "eur": 10.0,
+     "low": 8.0,
+     "high": 12.0
+    },
+    "beerBar": {
+     "eur": 3.0,
+     "low": 1.5,
+     "high": 4.0
+    },
+    "beerImportBar": {
+     "eur": 3.0,
+     "low": 3.0,
+     "high": 3.5
+    },
+    "beerImportShop": {
+     "eur": 3.0,
+     "low": 3.0,
+     "high": 3.5
+    },
+    "cappuccino": {
+     "eur": 1.94,
+     "low": 1.2,
+     "high": 2.5
+    },
+    "wine": {
+     "eur": 5.0,
+     "low": 3.0,
+     "high": 8.0
+    },
+    "beerShop": {
+     "eur": 1.05,
+     "low": 0.68,
+     "high": 1.3
+    },
+    "transit": {
+     "eur": 1.45,
+     "low": 1.45,
+     "high": 1.45
+    },
+    "taxiStart": {
+     "eur": 2.75,
+     "low": 1.45,
+     "high": 4.0
+    },
+    "taxiKm": {
+     "eur": 1.2,
+     "low": 1.2,
+     "high": 2.0
+    }
+   },
+   "entries": 506,
+   "contributors": 52,
+   "updated": "2 October 2026"
+  },
+  "AMS": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Amsterdam",
+   "items": {
+    "mealCheap": {
+     "eur": 20.0,
+     "low": 15.0,
+     "high": 40.0
+    },
+    "mealMid2": {
+     "eur": 80.0,
+     "low": 60.0,
+     "high": 105.0
+    },
+    "fastFood": {
+     "eur": 13.47,
+     "low": 12.0,
+     "high": 15.0
+    },
+    "beerBar": {
+     "eur": 6.8,
+     "low": 4.0,
+     "high": 9.0
+    },
+    "beerImportBar": {
+     "eur": 5.0,
+     "low": 4.5,
+     "high": 7.0
+    },
+    "beerImportShop": {
+     "eur": 5.0,
+     "low": 4.5,
+     "high": 7.0
+    },
+    "cappuccino": {
+     "eur": 4.06,
+     "low": 3.0,
+     "high": 6.0
+    },
+    "wine": {
+     "eur": 8.0,
+     "low": 5.0,
+     "high": 15.0
+    },
+    "beerShop": {
+     "eur": 1.57,
+     "low": 0.89,
+     "high": 3.0
+    },
+    "transit": {
+     "eur": 3.4,
+     "low": 2.0,
+     "high": 3.9
+    },
+    "taxiStart": {
+     "eur": 4.15,
+     "low": 4.15,
+     "high": 5.0
+    },
+    "taxiKm": {
+     "eur": 3.02,
+     "low": 3.0,
+     "high": 3.05
+    }
+   },
+   "entries": 1499,
+   "contributors": 235,
+   "updated": "11 October 2026"
+  },
+  "ATH": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Athens",
+   "items": {
+    "mealCheap": {
+     "eur": 15.0,
+     "low": 12.0,
+     "high": 25.0
+    },
+    "mealMid2": {
+     "eur": 60.0,
+     "low": 40.0,
+     "high": 90.0
+    },
+    "fastFood": {
+     "eur": 10.0,
+     "low": 8.0,
+     "high": 10.0
+    },
+    "beerBar": {
+     "eur": 5.0,
+     "low": 4.0,
+     "high": 7.0
+    },
+    "beerImportBar": {
+     "eur": 5.0,
+     "low": 4.0,
+     "high": 6.0
+    },
+    "beerImportShop": {
+     "eur": 5.0,
+     "low": 4.0,
+     "high": 6.0
+    },
+    "cappuccino": {
+     "eur": 3.67,
+     "low": 2.5,
+     "high": 4.5
+    },
+    "wine": {
+     "eur": 9.0,
+     "low": 5.0,
+     "high": 15.0
+    },
+    "beerShop": {
+     "eur": 1.88,
+     "low": 0.9,
+     "high": 3.14
+    },
+    "transit": {
+     "eur": 1.2,
+     "low": 1.2,
+     "high": 1.4
+    },
+    "taxiStart": {
+     "eur": 4.0,
+     "low": 2.0,
+     "high": 5.0
+    },
+    "taxiKm": {
+     "eur": 0.9,
+     "low": 0.9,
+     "high": 2.0
+    }
+   },
+   "entries": 2228,
+   "contributors": 271,
+   "updated": "8 October 2026"
+  },
+  "AYT": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Antalya",
+   "items": {
+    "beerBar": {
+     "eur": 2.72,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "BCN": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Barcelona",
+   "items": {
+    "mealCheap": {
+     "eur": 16.0,
+     "low": 12.0,
+     "high": 25.0
+    },
+    "mealMid2": {
+     "eur": 60.0,
+     "low": 40.0,
+     "high": 80.0
+    },
+    "fastFood": {
+     "eur": 12.0,
+     "low": 10.0,
+     "high": 15.0
+    },
+    "beerBar": {
+     "eur": 3.5,
+     "low": 2.7,
+     "high": 5.0
+    },
+    "beerImportBar": {
+     "eur": 4.0,
+     "low": 3.0,
+     "high": 7.0
+    },
+    "beerImportShop": {
+     "eur": 4.0,
+     "low": 3.0,
+     "high": 7.0
+    },
+    "cappuccino": {
+     "eur": 2.89,
+     "low": 2.0,
+     "high": 4.5
+    },
+    "wine": {
+     "eur": 7.0,
+     "low": 4.0,
+     "high": 12.0
+    },
+    "beerShop": {
+     "eur": 1.28,
+     "low": 0.76,
+     "high": 2.0
+    },
+    "transit": {
+     "eur": 2.65,
+     "low": 2.6,
+     "high": 3.0
+    },
+    "taxiStart": {
+     "eur": 2.75,
+     "low": 2.75,
+     "high": 3.75
+    },
+    "taxiKm": {
+     "eur": 1.32,
+     "low": 1.32,
+     "high": 2.5
+    }
+   },
+   "entries": 1418,
+   "contributors": 255,
+   "updated": "9 October 2026"
+  },
+  "BEG": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Belgrade",
+   "items": {
+    "mealCheap": {
+     "eur": 11.84,
+     "low": 7.66,
+     "high": 21.29
+    },
+    "mealMid2": {
+     "eur": 51.09,
+     "low": 42.58,
+     "high": 68.13
+    },
+    "fastFood": {
+     "eur": 11.92,
+     "low": 10.22,
+     "high": 12.77
+    },
+    "beerBar": {
+     "eur": 3.19,
+     "low": 2.13,
+     "high": 4.26
+    },
+    "beerImportBar": {
+     "eur": 3.62,
+     "low": 2.55,
+     "high": 6.39
+    },
+    "beerImportShop": {
+     "eur": 3.62,
+     "low": 2.55,
+     "high": 6.39
+    },
+    "cappuccino": {
+     "eur": 2.75,
+     "low": 1.28,
+     "high": 3.83
+    },
+    "wine": {
+     "eur": 7.66,
+     "low": 3.41,
+     "high": 12.77
+    },
+    "beerShop": {
+     "eur": 0.81,
+     "low": 0.68,
+     "high": 1.02
+    },
+    "transit": {
+     "eur": 0.0,
+     "low": 0.0,
+     "high": 0.0
+    },
+    "taxiStart": {
+     "eur": 2.73,
+     "low": 2.73,
+     "high": 3.41
+    },
+    "taxiKm": {
+     "eur": 0.89,
+     "low": 0.89,
+     "high": 1.36
+    }
+   },
+   "entries": 2126,
+   "contributors": 256,
+   "updated": "9 October 2026"
+  },
+  "BER": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Berlin",
+   "items": {
+    "mealCheap": {
+     "eur": 15.0,
+     "low": 10.0,
+     "high": 28.0
+    },
+    "mealMid2": {
+     "eur": 70.0,
+     "low": 50.0,
+     "high": 110.0
+    },
+    "fastFood": {
+     "eur": 12.0,
+     "low": 10.0,
+     "high": 14.0
+    },
+    "beerBar": {
+     "eur": 4.85,
+     "low": 3.0,
+     "high": 5.5
+    },
+    "beerImportBar": {
+     "eur": 4.0,
+     "low": 3.0,
+     "high": 5.0
+    },
+    "beerImportShop": {
+     "eur": 4.0,
+     "low": 3.0,
+     "high": 5.0
+    },
+    "cappuccino": {
+     "eur": 3.87,
+     "low": 2.5,
+     "high": 5.0
+    },
+    "wine": {
+     "eur": 6.0,
+     "low": 3.7,
+     "high": 10.0
+    },
+    "beerShop": {
+     "eur": 1.17,
+     "low": 0.79,
+     "high": 2.0
+    },
+    "transit": {
+     "eur": 4.0,
+     "low": 3.6,
+     "high": 4.0
+    },
+    "taxiStart": {
+     "eur": 4.65,
+     "low": 4.3,
+     "high": 7.0
+    },
+    "taxiKm": {
+     "eur": 2.8,
+     "low": 2.5,
+     "high": 3.0
+    }
+   },
+   "entries": 1970,
+   "contributors": 315,
+   "updated": "8 October 2026"
+  },
+  "BIO": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Bilbao",
+   "items": {
+    "beerBar": {
+     "eur": 3.0,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "BKK": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Bangkok",
+   "items": {
+    "beerBar": {
+     "eur": 2.39,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "BLQ": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Bologna",
+   "items": {
+    "mealCheap": {
+     "eur": 20.0,
+     "low": 15.0,
+     "high": 25.0
+    },
+    "mealMid2": {
+     "eur": 80.0,
+     "low": 60.0,
+     "high": 90.0
+    },
+    "fastFood": {
+     "eur": 12.0,
+     "low": 10.0,
+     "high": 12.0
+    },
+    "beerBar": {
+     "eur": 6.0,
+     "low": 4.5,
+     "high": 7.0
+    },
+    "beerImportBar": {
+     "eur": 5.0,
+     "low": 4.5,
+     "high": 7.0
+    },
+    "beerImportShop": {
+     "eur": 5.0,
+     "low": 4.5,
+     "high": 7.0
+    },
+    "cappuccino": {
+     "eur": 1.99,
+     "low": 1.4,
+     "high": 2.8
+    },
+    "wine": {
+     "eur": 7.0,
+     "low": 5.0,
+     "high": 15.0
+    },
+    "beerShop": {
+     "eur": 1.68,
+     "low": 1.3,
+     "high": 3.0
+    },
+    "transit": {
+     "eur": 2.3,
+     "low": 2.3,
+     "high": 2.5
+    },
+    "taxiStart": {
+     "eur": 4.1,
+     "low": 4.1,
+     "high": 8.0
+    },
+    "taxiKm": {
+     "eur": 1.5,
+     "low": 1.5,
+     "high": 1.5
+    }
+   },
+   "entries": 765,
+   "contributors": 73,
+   "updated": "2 October 2026"
+  },
+  "BOD": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Bordeaux",
+   "items": {
+    "beerBar": {
+     "eur": 7.0,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "BRI": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Bari",
+   "items": {
+    "mealCheap": {
+     "eur": 15.0,
+     "low": 10.0,
+     "high": 20.0
+    },
+    "mealMid2": {
+     "eur": 60.0,
+     "low": 40.0,
+     "high": 75.0
+    },
+    "fastFood": {
+     "eur": 10.0,
+     "low": 8.0,
+     "high": 15.0
+    },
+    "beerBar": {
+     "eur": 3.5,
+     "low": 2.5,
+     "high": 5.0
+    },
+    "beerImportBar": {
+     "eur": 3.0,
+     "low": 2.0,
+     "high": 6.0
+    },
+    "beerImportShop": {
+     "eur": 3.0,
+     "low": 2.0,
+     "high": 6.0
+    },
+    "cappuccino": {
+     "eur": 1.75,
+     "low": 1.1,
+     "high": 2.5
+    },
+    "wine": {
+     "eur": 6.5,
+     "low": 5.0,
+     "high": 10.0
+    },
+    "beerShop": {
+     "eur": 1.7,
+     "low": 0.7,
+     "high": 3.0
+    },
+    "transit": {
+     "eur": 1.2,
+     "low": 1.0,
+     "high": 1.5
+    },
+    "taxiStart": {
+     "eur": 5.0,
+     "low": 3.5,
+     "high": 15.0
+    },
+    "taxiKm": {
+     "eur": 2.0,
+     "low": 1.2,
+     "high": 2.5
+    }
+   },
+   "entries": 352,
+   "contributors": 29,
+   "updated": "2 October 2026"
+  },
+  "BRU": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Brussels",
+   "items": {
+    "mealCheap": {
+     "eur": 20.0,
+     "low": 12.0,
+     "high": 39.0
+    },
+    "mealMid2": {
+     "eur": 80.0,
+     "low": 60.0,
+     "high": 100.0
+    },
+    "fastFood": {
+     "eur": 13.5,
+     "low": 11.6,
+     "high": 15.0
+    },
+    "beerBar": {
+     "eur": 5.0,
+     "low": 4.0,
+     "high": 8.0
+    },
+    "beerImportBar": {
+     "eur": 5.0,
+     "low": 4.0,
+     "high": 8.0
+    },
+    "beerImportShop": {
+     "eur": 5.0,
+     "low": 4.0,
+     "high": 8.0
+    },
+    "cappuccino": {
+     "eur": 3.97,
+     "low": 3.0,
+     "high": 6.0
+    },
+    "wine": {
+     "eur": 8.75,
+     "low": 7.0,
+     "high": 13.0
+    },
+    "beerShop": {
+     "eur": 2.38,
+     "low": 1.2,
+     "high": 3.5
+    },
+    "transit": {
+     "eur": 2.5,
+     "low": 2.3,
+     "high": 3.0
+    },
+    "taxiStart": {
+     "eur": 2.6,
+     "low": 2.4,
+     "high": 15.0
+    },
+    "taxiKm": {
+     "eur": 2.05,
+     "low": 1.8,
+     "high": 3.0
+    }
+   },
+   "entries": 1073,
+   "contributors": 129,
+   "updated": "11 October 2026"
+  },
+  "BSL": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Basel",
+   "items": {
+    "mealCheap": {
+     "eur": 26.83,
+     "low": 23.61,
+     "high": 32.2
+    },
+    "mealMid2": {
+     "eur": 111.62,
+     "low": 98.74,
+     "high": 160.99
+    },
+    "fastFood": {
+     "eur": 16.1,
+     "low": 16.1,
+     "high": 18.25
+    },
+    "beerBar": {
+     "eur": 8.26,
+     "low": 6.44,
+     "high": 9.55
+    },
+    "beerImportBar": {
+     "eur": 8.59,
+     "low": 5.9,
+     "high": 9.12
+    },
+    "beerImportShop": {
+     "eur": 8.59,
+     "low": 5.9,
+     "high": 9.12
+    },
+    "cappuccino": {
+     "eur": 5.63,
+     "low": 4.29,
+     "high": 6.65
+    },
+    "wine": {
+     "eur": 10.73,
+     "low": 8.05,
+     "high": 21.47
+    },
+    "beerShop": {
+     "eur": 2.22,
+     "low": 1.93,
+     "high": 2.47
+    },
+    "transit": {
+     "eur": 4.19,
+     "low": 3.65,
+     "high": 4.51
+    },
+    "taxiStart": {
+     "eur": 6.98,
+     "low": 6.98,
+     "high": 6.98
+    },
+    "taxiKm": {
+     "eur": 4.08,
+     "low": 4.08,
+     "high": 4.08
+    }
+   },
+   "entries": 694,
+   "contributors": 75,
+   "updated": "2 October 2026"
+  },
+  "BTS": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Bratislava",
+   "items": {
+    "mealCheap": {
+     "eur": 10.0,
+     "low": 8.0,
+     "high": 15.0
+    },
+    "mealMid2": {
+     "eur": 60.0,
+     "low": 35.0,
+     "high": 100.0
+    },
+    "fastFood": {
+     "eur": 9.5,
+     "low": 8.8,
+     "high": 11.0
+    },
+    "beerBar": {
+     "eur": 3.0,
+     "low": 2.0,
+     "high": 4.0
+    },
+    "beerImportBar": {
+     "eur": 3.0,
+     "low": 2.0,
+     "high": 4.2
+    },
+    "beerImportShop": {
+     "eur": 3.0,
+     "low": 2.0,
+     "high": 4.2
+    },
+    "cappuccino": {
+     "eur": 3.19,
+     "low": 2.0,
+     "high": 4.0
+    },
+    "wine": {
+     "eur": 6.0,
+     "low": 3.5,
+     "high": 10.0
+    },
+    "beerShop": {
+     "eur": 0.97,
+     "low": 0.8,
+     "high": 1.2
+    },
+    "transit": {
+     "eur": 1.2,
+     "low": 1.1,
+     "high": 2.0
+    },
+    "taxiStart": {
+     "eur": 6.5,
+     "low": 3.5,
+     "high": 10.0
+    },
+    "taxiKm": {
+     "eur": 1.5,
+     "low": 0.8,
+     "high": 2.0
+    }
+   },
+   "entries": 941,
+   "contributors": 111,
+   "updated": "11 October 2026"
+  },
+  "BUD": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Budapest",
+   "items": {
+    "mealCheap": {
+     "eur": 12.32,
+     "low": 8.22,
+     "high": 17.8
+    },
+    "mealMid2": {
+     "eur": 54.77,
+     "low": 38.34,
+     "high": 82.15
+    },
+    "fastFood": {
+     "eur": 9.11,
+     "low": 8.22,
+     "high": 10.95
+    },
+    "beerBar": {
+     "eur": 3.29,
+     "low": 1.92,
+     "high": 4.11
+    },
+    "beerImportBar": {
+     "eur": 3.29,
+     "low": 1.92,
+     "high": 4.38
+    },
+    "beerImportShop": {
+     "eur": 3.29,
+     "low": 1.92,
+     "high": 4.38
+    },
+    "cappuccino": {
+     "eur": 2.99,
+     "low": 1.64,
+     "high": 3.97
+    },
+    "wine": {
+     "eur": 5.42,
+     "low": 3.83,
+     "high": 9.58
+    },
+    "beerShop": {
+     "eur": 1.13,
+     "low": 0.82,
+     "high": 1.92
+    },
+    "transit": {
+     "eur": 1.37,
+     "low": 1.23,
+     "high": 1.37
+    },
+    "taxiStart": {
+     "eur": 3.01,
+     "low": 3.01,
+     "high": 3.56
+    },
+    "taxiKm": {
+     "eur": 1.2,
+     "low": 1.2,
+     "high": 1.42
+    }
+   },
+   "entries": 2439,
+   "contributors": 293,
+   "updated": "11 October 2026"
+  },
+  "BUH": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Bucharest",
+   "items": {
+    "mealCheap": {
+     "eur": 13.11,
+     "low": 7.49,
+     "high": 22.48
+    },
+    "mealMid2": {
+     "eur": 51.51,
+     "low": 33.72,
+     "high": 79.61
+    },
+    "fastFood": {
+     "eur": 6.56,
+     "low": 6.0,
+     "high": 8.43
+    },
+    "beerBar": {
+     "eur": 3.37,
+     "low": 1.87,
+     "high": 4.12
+    },
+    "beerImportBar": {
+     "eur": 3.75,
+     "low": 2.34,
+     "high": 4.68
+    },
+    "beerImportShop": {
+     "eur": 3.75,
+     "low": 2.34,
+     "high": 4.68
+    },
+    "cappuccino": {
+     "eur": 3.14,
+     "low": 1.69,
+     "high": 4.87
+    },
+    "wine": {
+     "eur": 5.62,
+     "low": 3.0,
+     "high": 7.49
+    },
+    "beerShop": {
+     "eur": 1.09,
+     "low": 0.75,
+     "high": 1.5
+    },
+    "transit": {
+     "eur": 0.75,
+     "low": 0.56,
+     "high": 0.94
+    },
+    "taxiStart": {
+     "eur": 0.56,
+     "low": 0.51,
+     "high": 0.75
+    },
+    "taxiKm": {
+     "eur": 0.56,
+     "low": 0.54,
+     "high": 0.75
+    }
+   },
+   "entries": 2470,
+   "contributors": 277,
+   "updated": "10 October 2026"
+  },
+  "CGN": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Cologne",
+   "items": {
+    "mealCheap": {
+     "eur": 15.0,
+     "low": 8.0,
+     "high": 20.0
+    },
+    "mealMid2": {
+     "eur": 75.0,
+     "low": 53.5,
+     "high": 110.0
+    },
+    "fastFood": {
+     "eur": 10.5,
+     "low": 10.0,
+     "high": 15.0
+    },
+    "beerBar": {
+     "eur": 5.0,
+     "low": 4.0,
+     "high": 5.7
+    },
+    "beerImportBar": {
+     "eur": 5.0,
+     "low": 3.7,
+     "high": 5.7
+    },
+    "beerImportShop": {
+     "eur": 5.0,
+     "low": 3.7,
+     "high": 5.7
+    },
+    "cappuccino": {
+     "eur": 3.67,
+     "low": 2.5,
+     "high": 4.0
+    },
+    "wine": {
+     "eur": 6.0,
+     "low": 4.0,
+     "high": 10.0
+    },
+    "beerShop": {
+     "eur": 1.14,
+     "low": 0.8,
+     "high": 2.0
+    },
+    "transit": {
+     "eur": 3.5,
+     "low": 3.0,
+     "high": 4.0
+    },
+    "taxiStart": {
+     "eur": 4.9,
+     "low": 4.0,
+     "high": 4.9
+    },
+    "taxiKm": {
+     "eur": 2.4,
+     "low": 2.1,
+     "high": 2.6
+    }
+   },
+   "entries": 762,
+   "contributors": 83,
+   "updated": "5 October 2026"
+  },
+  "CPH": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Copenhagen",
+   "items": {
+    "mealCheap": {
+     "eur": 18.73,
+     "low": 12.04,
+     "high": 40.13
+    },
+    "mealMid2": {
+     "eur": 107.02,
+     "low": 66.89,
+     "high": 200.66
+    },
+    "fastFood": {
+     "eur": 12.04,
+     "low": 11.37,
+     "high": 13.38
+    },
+    "beerBar": {
+     "eur": 8.03,
+     "low": 5.35,
+     "high": 10.03
+    },
+    "beerImportBar": {
+     "eur": 6.69,
+     "low": 5.35,
+     "high": 8.7
+    },
+    "beerImportShop": {
+     "eur": 6.69,
+     "low": 5.35,
+     "high": 8.7
+    },
+    "cappuccino": {
+     "eur": 6.23,
+     "low": 4.47,
+     "high": 8.03
+    },
+    "wine": {
+     "eur": 9.36,
+     "low": 6.69,
+     "high": 16.05
+    },
+    "beerShop": {
+     "eur": 1.63,
+     "low": 1.07,
+     "high": 2.01
+    },
+    "transit": {
+     "eur": 3.21,
+     "low": 3.21,
+     "high": 4.28
+    },
+    "taxiStart": {
+     "eur": 5.22,
+     "low": 5.22,
+     "high": 9.77
+    },
+    "taxiKm": {
+     "eur": 1.47,
+     "low": 1.47,
+     "high": 3.48
+    }
+   },
+   "entries": 1168,
+   "contributors": 149,
+   "updated": "11 October 2026"
+  },
+  "CTA": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Catania",
+   "items": {
+    "mealCheap": {
+     "eur": 15.0,
+     "low": 12.0,
+     "high": 21.49
+    },
+    "mealMid2": {
+     "eur": 50.0,
+     "low": 40.0,
+     "high": 70.0
+    },
+    "fastFood": {
+     "eur": 10.0,
+     "low": 10.0,
+     "high": 12.0
+    },
+    "beerBar": {
+     "eur": 6.0,
+     "low": 4.0,
+     "high": 7.0
+    },
+    "beerImportBar": {
+     "eur": 3.75,
+     "low": 3.0,
+     "high": 5.0
+    },
+    "beerImportShop": {
+     "eur": 3.75,
+     "low": 3.0,
+     "high": 5.0
+    },
+    "cappuccino": {
+     "eur": 2.02,
+     "low": 1.0,
+     "high": 3.0
+    },
+    "wine": {
+     "eur": 7.0,
+     "low": 4.0,
+     "high": 10.87
+    },
+    "beerShop": {
+     "eur": 1.6,
+     "low": 1.0,
+     "high": 2.2
+    },
+    "transit": {
+     "eur": 1.4,
+     "low": 1.0,
+     "high": 1.6
+    }
+   },
+   "entries": 279,
+   "contributors": 27,
+   "updated": "2 October 2026"
+  },
+  "DBV": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Dubrovnik",
+   "items": {
+    "mealCheap": {
+     "eur": 17.5,
+     "low": 9.0,
+     "high": 34.0
+    },
+    "mealMid2": {
+     "eur": 70.0,
+     "low": 50.0,
+     "high": 180.0
+    },
+    "fastFood": {
+     "eur": 11.5,
+     "low": 10.0,
+     "high": 15.0
+    },
+    "beerBar": {
+     "eur": 5.0,
+     "low": 3.0,
+     "high": 9.0
+    },
+    "beerImportBar": {
+     "eur": 7.0,
+     "low": 5.0,
+     "high": 8.0
+    },
+    "beerImportShop": {
+     "eur": 7.0,
+     "low": 5.0,
+     "high": 8.0
+    },
+    "cappuccino": {
+     "eur": 3.7,
+     "low": 2.5,
+     "high": 5.0
+    },
+    "wine": {
+     "eur": 4.0,
+     "low": 4.0,
+     "high": 10.0
+    },
+    "beerShop": {
+     "eur": 1.17,
+     "low": 1.1,
+     "high": 1.3
+    },
+    "transit": {
+     "eur": 2.5,
+     "low": 2.5,
+     "high": 2.5
+    },
+    "taxiStart": {
+     "eur": 4.0,
+     "low": 1.3,
+     "high": 8.0
+    },
+    "taxiKm": {
+     "eur": 1.07,
+     "low": 0.65,
+     "high": 1.5
+    }
+   },
+   "entries": null,
+   "contributors": null,
+   "updated": "2 October 2026"
+  },
+  "DRS": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Dresden",
+   "items": {
+    "mealCheap": {
+     "eur": 15.0,
+     "low": 8.0,
+     "high": 25.0
+    },
+    "mealMid2": {
+     "eur": 75.4,
+     "low": 50.0,
+     "high": 90.0
+    },
+    "fastFood": {
+     "eur": 10.0,
+     "low": 10.0,
+     "high": 11.0
+    },
+    "beerBar": {
+     "eur": 5.4,
+     "low": 4.0,
+     "high": 5.9
+    },
+    "beerImportBar": {
+     "eur": 5.9,
+     "low": 4.0,
+     "high": 6.0
+    },
+    "beerImportShop": {
+     "eur": 5.9,
+     "low": 4.0,
+     "high": 6.0
+    },
+    "cappuccino": {
+     "eur": 3.88,
+     "low": 3.0,
+     "high": 4.0
+    },
+    "wine": {
+     "eur": 5.0,
+     "low": 4.99,
+     "high": 12.0
+    },
+    "beerShop": {
+     "eur": 0.98,
+     "low": 0.89,
+     "high": 1.29
+    },
+    "transit": {
+     "eur": 3.4,
+     "low": 3.0,
+     "high": 3.7
+    },
+    "taxiStart": {
+     "eur": 4.0,
+     "low": 4.0,
+     "high": 4.5
+    },
+    "taxiKm": {
+     "eur": 2.4,
+     "low": 2.4,
+     "high": 2.4
+    }
+   },
+   "entries": 598,
+   "contributors": 47,
+   "updated": "4 October 2026"
+  },
+  "DUB": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Dublin",
+   "items": {
+    "mealCheap": {
+     "eur": 21.0,
+     "low": 15.0,
+     "high": 35.0
+    },
+    "mealMid2": {
+     "eur": 90.0,
+     "low": 75.0,
+     "high": 120.0
+    },
+    "fastFood": {
+     "eur": 12.0,
+     "low": 11.0,
+     "high": 14.0
+    },
+    "beerBar": {
+     "eur": 7.0,
+     "low": 5.0,
+     "high": 8.5
+    },
+    "beerImportBar": {
+     "eur": 6.75,
+     "low": 5.0,
+     "high": 8.0
+    },
+    "beerImportShop": {
+     "eur": 6.75,
+     "low": 5.0,
+     "high": 8.0
+    },
+    "cappuccino": {
+     "eur": 4.39,
+     "low": 3.7,
+     "high": 5.0
+    },
+    "wine": {
+     "eur": 12.0,
+     "low": 9.0,
+     "high": 17.0
+    },
+    "beerShop": {
+     "eur": 3.04,
+     "low": 2.0,
+     "high": 4.0
+    },
+    "transit": {
+     "eur": 2.0,
+     "low": 2.0,
+     "high": 3.0
+    },
+    "taxiStart": {
+     "eur": 4.6,
+     "low": 4.0,
+     "high": 5.4
+    },
+    "taxiKm": {
+     "eur": 1.35,
+     "low": 1.0,
+     "high": 3.0
+    }
+   },
+   "entries": 1554,
+   "contributors": 247,
+   "updated": "3 October 2026"
+  },
+  "DXB": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Dubai",
+   "items": {
+    "beerBar": {
+     "eur": 12.17,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "EDI": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Edinburgh",
+   "items": {
+    "mealCheap": {
+     "eur": 21.29,
+     "low": 16.56,
+     "high": 35.48
+    },
+    "mealMid2": {
+     "eur": 94.61,
+     "low": 82.78,
+     "high": 106.43
+    },
+    "fastFood": {
+     "eur": 9.4,
+     "low": 8.04,
+     "high": 11.83
+    },
+    "beerBar": {
+     "eur": 7.1,
+     "low": 5.09,
+     "high": 8.28
+    },
+    "beerImportBar": {
+     "eur": 7.1,
+     "low": 5.91,
+     "high": 9.46
+    },
+    "beerImportShop": {
+     "eur": 7.1,
+     "low": 5.91,
+     "high": 9.46
+    },
+    "cappuccino": {
+     "eur": 4.56,
+     "low": 3.84,
+     "high": 5.32
+    },
+    "wine": {
+     "eur": 9.84,
+     "low": 8.28,
+     "high": 14.19
+    },
+    "beerShop": {
+     "eur": 2.82,
+     "low": 1.77,
+     "high": 3.55
+    },
+    "transit": {
+     "eur": 2.84,
+     "low": 2.6,
+     "high": 2.84
+    },
+    "taxiStart": {
+     "eur": 4.73,
+     "low": 4.26,
+     "high": 5.91
+    },
+    "taxiKm": {
+     "eur": 1.66,
+     "low": 1.66,
+     "high": 2.2
+    }
+   },
+   "entries": 831,
+   "contributors": 118,
+   "updated": "7 October 2026"
+  },
+  "EVN": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Yerevan",
+   "items": {
+    "beerBar": {
+     "eur": 2.46,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "FAO": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Faro",
+   "items": {
+    "mealCheap": {
+     "eur": 12.0,
+     "low": 12.0,
+     "high": 15.0
+    },
+    "mealMid2": {
+     "eur": 40.0,
+     "low": 30.0,
+     "high": 60.0
+    },
+    "fastFood": {
+     "eur": 10.0,
+     "low": 7.0,
+     "high": 11.0
+    },
+    "beerBar": {
+     "eur": 2.5,
+     "low": 2.0,
+     "high": 4.0
+    },
+    "beerImportBar": {
+     "eur": 2.25,
+     "low": 2.0,
+     "high": 3.5
+    },
+    "beerImportShop": {
+     "eur": 2.25,
+     "low": 2.0,
+     "high": 3.5
+    },
+    "cappuccino": {
+     "eur": 1.67,
+     "low": 0.7,
+     "high": 2.0
+    },
+    "wine": {
+     "eur": 4.5,
+     "low": 3.0,
+     "high": 5.0
+    },
+    "beerShop": {
+     "eur": 0.83,
+     "low": 0.65,
+     "high": 2.0
+    },
+    "transit": {
+     "eur": 2.92,
+     "low": 2.85,
+     "high": 3.0
+    },
+    "taxiStart": {
+     "eur": 3.3,
+     "low": null,
+     "high": null
+    },
+    "taxiKm": {
+     "eur": 1.0,
+     "low": null,
+     "high": null
+    }
+   },
+   "entries": 149,
+   "contributors": 16,
+   "updated": "2 October 2026"
+  },
+  "FLR": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Florence",
+   "items": {
+    "mealCheap": {
+     "eur": 24.0,
+     "low": 19.0,
+     "high": 30.0
+    },
+    "mealMid2": {
+     "eur": 70.0,
+     "low": 55.0,
+     "high": 90.0
+    },
+    "fastFood": {
+     "eur": 13.0,
+     "low": 11.5,
+     "high": 15.0
+    },
+    "beerBar": {
+     "eur": 6.0,
+     "low": 5.0,
+     "high": 7.0
+    },
+    "beerImportBar": {
+     "eur": 7.0,
+     "low": 5.0,
+     "high": 8.0
+    },
+    "beerImportShop": {
+     "eur": 7.0,
+     "low": 5.0,
+     "high": 8.0
+    },
+    "cappuccino": {
+     "eur": 2.0,
+     "low": 1.4,
+     "high": 3.5
+    },
+    "wine": {
+     "eur": 7.0,
+     "low": 6.0,
+     "high": 12.0
+    },
+    "beerShop": {
+     "eur": 1.8,
+     "low": 1.0,
+     "high": 2.0
+    },
+    "transit": {
+     "eur": 1.82,
+     "low": 1.7,
+     "high": 2.0
+    },
+    "taxiStart": {
+     "eur": 3.3,
+     "low": 3.3,
+     "high": 4.5
+    },
+    "taxiKm": {
+     "eur": 1.1,
+     "low": 1.1,
+     "high": 1.1
+    }
+   },
+   "entries": 779,
+   "contributors": 68,
+   "updated": "10 October 2026"
+  },
+  "FNC": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Funchal",
+   "items": {
+    "mealCheap": {
+     "eur": 13.5,
+     "low": 10.5,
+     "high": 20.0
+    },
+    "mealMid2": {
+     "eur": 57.5,
+     "low": 40.0,
+     "high": 90.0
+    },
+    "fastFood": {
+     "eur": 12.0,
+     "low": 10.0,
+     "high": 15.0
+    },
+    "beerBar": {
+     "eur": 2.5,
+     "low": 1.5,
+     "high": 3.5
+    },
+    "beerImportBar": {
+     "eur": 3.5,
+     "low": 2.0,
+     "high": 6.0
+    },
+    "beerImportShop": {
+     "eur": 3.5,
+     "low": 2.0,
+     "high": 6.0
+    },
+    "cappuccino": {
+     "eur": 1.76,
+     "low": 1.0,
+     "high": 3.5
+    },
+    "wine": {
+     "eur": 6.0,
+     "low": 3.79,
+     "high": 6.99
+    },
+    "beerShop": {
+     "eur": 1.11,
+     "low": 0.71,
+     "high": 1.5
+    },
+    "transit": {
+     "eur": 2.0,
+     "low": 1.25,
+     "high": 2.95
+    },
+    "taxiStart": {
+     "eur": 3.5,
+     "low": 3.0,
+     "high": 4.0
+    },
+    "taxiKm": {
+     "eur": 1.24,
+     "low": 0.47,
+     "high": 2.0
+    }
+   },
+   "entries": 152,
+   "contributors": 26,
+   "updated": "2 October 2026"
+  },
+  "FRA": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Frankfurt",
+   "items": {
+    "mealCheap": {
+     "eur": 15.0,
+     "low": 14.0,
+     "high": 25.0
+    },
+    "mealMid2": {
+     "eur": 80.0,
+     "low": 58.0,
+     "high": 110.0
+    },
+    "fastFood": {
+     "eur": 12.0,
+     "low": 12.0,
+     "high": 12.5
+    },
+    "beerBar": {
+     "eur": 5.0,
+     "low": 4.0,
+     "high": 6.0
+    },
+    "beerImportBar": {
+     "eur": 5.0,
+     "low": 4.0,
+     "high": 5.5
+    },
+    "beerImportShop": {
+     "eur": 5.0,
+     "low": 4.0,
+     "high": 5.5
+    },
+    "cappuccino": {
+     "eur": 4.01,
+     "low": 2.5,
+     "high": 5.0
+    },
+    "wine": {
+     "eur": 5.0,
+     "low": 4.99,
+     "high": 12.0
+    },
+    "beerShop": {
+     "eur": 1.01,
+     "low": 0.75,
+     "high": 1.29
+    },
+    "transit": {
+     "eur": 3.8,
+     "low": 3.7,
+     "high": 4.0
+    },
+    "taxiStart": {
+     "eur": 4.0,
+     "low": 2.75,
+     "high": 6.0
+    },
+    "taxiKm": {
+     "eur": 2.0,
+     "low": 1.65,
+     "high": 5.0
+    }
+   },
+   "entries": 887,
+   "contributors": 115,
+   "updated": "11 October 2026"
+  },
+  "GDN": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Gdansk",
+   "items": {
+    "mealCheap": {
+     "eur": 10.25,
+     "low": 7.97,
+     "high": 15.95
+    },
+    "mealMid2": {
+     "eur": 51.26,
+     "low": 38.73,
+     "high": 68.35
+    },
+    "fastFood": {
+     "eur": 7.97,
+     "low": 7.29,
+     "high": 8.2
+    },
+    "beerBar": {
+     "eur": 3.42,
+     "low": 2.73,
+     "high": 4.56
+    },
+    "beerImportBar": {
+     "eur": 3.42,
+     "low": 2.73,
+     "high": 4.56
+    },
+    "beerImportShop": {
+     "eur": 3.42,
+     "low": 2.73,
+     "high": 4.56
+    },
+    "cappuccino": {
+     "eur": 3.68,
+     "low": 2.28,
+     "high": 4.1
+    },
+    "wine": {
+     "eur": 6.04,
+     "low": 4.56,
+     "high": 10.25
+    },
+    "beerShop": {
+     "eur": 1.08,
+     "low": 0.68,
+     "high": 2.28
+    },
+    "transit": {
+     "eur": 1.09,
+     "low": 1.09,
+     "high": 1.14
+    },
+    "taxiStart": {
+     "eur": 1.82,
+     "low": 1.82,
+     "high": 2.39
+    },
+    "taxiKm": {
+     "eur": 0.9,
+     "low": 0.68,
+     "high": 0.91
+    }
+   },
+   "entries": 857,
+   "contributors": 68,
+   "updated": "3 October 2026"
+  },
+  "GLA": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Glasgow",
+   "items": {
+    "mealCheap": {
+     "eur": 18.92,
+     "low": 13.01,
+     "high": 37.84
+    },
+    "mealMid2": {
+     "eur": 65.04,
+     "low": 53.22,
+     "high": 94.61
+    },
+    "fastFood": {
+     "eur": 9.46,
+     "low": 8.28,
+     "high": 12.29
+    },
+    "beerBar": {
+     "eur": 4.73,
+     "low": 3.55,
+     "high": 7.1
+    },
+    "beerImportBar": {
+     "eur": 5.91,
+     "low": 4.73,
+     "high": 7.1
+    },
+    "beerImportShop": {
+     "eur": 5.91,
+     "low": 4.73,
+     "high": 7.1
+    },
+    "cappuccino": {
+     "eur": 4.35,
+     "low": 2.96,
+     "high": 4.73
+    },
+    "wine": {
+     "eur": 9.84,
+     "low": 7.69,
+     "high": 10.64
+    },
+    "beerShop": {
+     "eur": 2.94,
+     "low": 2.6,
+     "high": 4.14
+    },
+    "transit": {
+     "eur": 3.9,
+     "low": 3.31,
+     "high": 8.28
+    },
+    "taxiStart": {
+     "eur": 5.2,
+     "low": 5.2,
+     "high": 5.91
+    },
+    "taxiKm": {
+     "eur": 1.04,
+     "low": 1.04,
+     "high": 1.04
+    }
+   },
+   "entries": 818,
+   "contributors": 94,
+   "updated": "9 October 2026"
+  },
+  "GOT": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Gothenburg",
+   "items": {
+    "mealCheap": {
+     "eur": 11.6,
+     "low": 9.81,
+     "high": 17.84
+    },
+    "mealMid2": {
+     "eur": 75.83,
+     "low": 53.53,
+     "high": 107.06
+    },
+    "fastFood": {
+     "eur": 11.11,
+     "low": 9.81,
+     "high": 14.27
+    },
+    "beerBar": {
+     "eur": 6.2,
+     "low": 4.46,
+     "high": 7.58
+    },
+    "beerImportBar": {
+     "eur": 6.69,
+     "low": 5.8,
+     "high": 10.71
+    },
+    "beerImportShop": {
+     "eur": 6.69,
+     "low": 5.8,
+     "high": 10.71
+    },
+    "cappuccino": {
+     "eur": 4.41,
+     "low": 3.39,
+     "high": 6.24
+    },
+    "wine": {
+     "eur": 13.38,
+     "low": 7.14,
+     "high": 17.84
+    },
+    "beerShop": {
+     "eur": 1.84,
+     "low": 1.34,
+     "high": 2.68
+    },
+    "transit": {
+     "eur": 3.3,
+     "low": 3.3,
+     "high": 3.39
+    },
+    "taxiStart": {
+     "eur": 5.44,
+     "low": 5.44,
+     "high": 8.92
+    },
+    "taxiKm": {
+     "eur": 1.5,
+     "low": 1.5,
+     "high": 1.5
+    }
+   },
+   "entries": 751,
+   "contributors": 102,
+   "updated": "2 October 2026"
+  },
+  "GVA": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Geneva",
+   "items": {
+    "mealCheap": {
+     "eur": 26.83,
+     "low": 19.32,
+     "high": 37.57
+    },
+    "mealMid2": {
+     "eur": 118.06,
+     "low": 72.98,
+     "high": 214.66
+    },
+    "fastFood": {
+     "eur": 16.64,
+     "low": 16.1,
+     "high": 19.32
+    },
+    "beerBar": {
+     "eur": 8.59,
+     "low": 7.51,
+     "high": 10.73
+    },
+    "beerImportBar": {
+     "eur": 8.59,
+     "low": 6.44,
+     "high": 12.88
+    },
+    "beerImportShop": {
+     "eur": 8.59,
+     "low": 6.44,
+     "high": 12.88
+    },
+    "cappuccino": {
+     "eur": 5.59,
+     "low": 3.22,
+     "high": 6.44
+    },
+    "wine": {
+     "eur": 10.73,
+     "low": 9.12,
+     "high": 16.1
+    },
+    "beerShop": {
+     "eur": 2.68,
+     "low": 1.69,
+     "high": 4.29
+    },
+    "transit": {
+     "eur": 3.22,
+     "low": 3.22,
+     "high": 4.29
+    },
+    "taxiStart": {
+     "eur": 6.67,
+     "low": 6.6,
+     "high": 8.59
+    },
+    "taxiKm": {
+     "eur": 3.43,
+     "low": 3.43,
+     "high": 3.43
+    }
+   },
+   "entries": 767,
+   "contributors": 74,
+   "updated": "8 October 2026"
+  },
+  "HAM": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Hamburg",
+   "items": {
+    "mealCheap": {
+     "eur": 15.0,
+     "low": 12.0,
+     "high": 25.0
+    },
+    "mealMid2": {
+     "eur": 62.5,
+     "low": 50.0,
+     "high": 90.0
+    },
+    "fastFood": {
+     "eur": 12.0,
+     "low": 10.9,
+     "high": 15.0
+    },
+    "beerBar": {
+     "eur": 5.0,
+     "low": 4.0,
+     "high": 6.5
+    },
+    "beerImportBar": {
+     "eur": 4.25,
+     "low": 3.6,
+     "high": 6.0
+    },
+    "beerImportShop": {
+     "eur": 4.25,
+     "low": 3.6,
+     "high": 6.0
+    },
+    "cappuccino": {
+     "eur": 4.13,
+     "low": 2.5,
+     "high": 5.0
+    },
+    "wine": {
+     "eur": 6.0,
+     "low": 3.5,
+     "high": 7.0
+    },
+    "beerShop": {
+     "eur": 1.03,
+     "low": 0.9,
+     "high": 1.2
+    },
+    "transit": {
+     "eur": 3.9,
+     "low": 3.0,
+     "high": 4.1
+    },
+    "taxiStart": {
+     "eur": 6.0,
+     "low": 4.9,
+     "high": 6.0
+    },
+    "taxiKm": {
+     "eur": 2.7,
+     "low": 2.7,
+     "high": 2.7
+    }
+   },
+   "entries": 1026,
+   "contributors": 124,
+   "updated": "2 October 2026"
+  },
+  "HEL": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Helsinki",
+   "items": {
+    "mealCheap": {
+     "eur": 16.0,
+     "low": 13.7,
+     "high": 30.0
+    },
+    "mealMid2": {
+     "eur": 100.0,
+     "low": 67.0,
+     "high": 150.0
+    },
+    "fastFood": {
+     "eur": 12.0,
+     "low": 10.0,
+     "high": 15.0
+    },
+    "beerBar": {
+     "eur": 9.0,
+     "low": 4.0,
+     "high": 11.0
+    },
+    "beerImportBar": {
+     "eur": 8.0,
+     "low": 5.0,
+     "high": 10.0
+    },
+    "beerImportShop": {
+     "eur": 8.0,
+     "low": 5.0,
+     "high": 10.0
+    },
+    "cappuccino": {
+     "eur": 4.67,
+     "low": 3.0,
+     "high": 5.7
+    },
+    "wine": {
+     "eur": 14.0,
+     "low": 8.0,
+     "high": 15.0
+    },
+    "beerShop": {
+     "eur": 3.41,
+     "low": 2.59,
+     "high": 4.0
+    },
+    "transit": {
+     "eur": 3.3,
+     "low": 3.2,
+     "high": 3.6
+    },
+    "taxiStart": {
+     "eur": 14.4,
+     "low": 6.0,
+     "high": 14.4
+    },
+    "taxiKm": {
+     "eur": 1.14,
+     "low": 1.05,
+     "high": 1.5
+    }
+   },
+   "entries": 1116,
+   "contributors": 122,
+   "updated": "7 October 2026"
+  },
+  "HER": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Heraklion",
+   "items": {
+    "beerBar": {
+     "eur": 5.0,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "IST": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Istanbul",
+   "items": {
+    "mealCheap": {
+     "eur": 10.86,
+     "low": 5.88,
+     "high": 18.11
+    },
+    "mealMid2": {
+     "eur": 49.79,
+     "low": 30.78,
+     "high": 72.43
+    },
+    "fastFood": {
+     "eur": 8.33,
+     "low": 7.7,
+     "high": 9.96
+    },
+    "beerBar": {
+     "eur": 4.26,
+     "low": 2.17,
+     "high": 6.34
+    },
+    "beerImportBar": {
+     "eur": 5.43,
+     "low": 3.26,
+     "high": 9.05
+    },
+    "beerImportShop": {
+     "eur": 5.43,
+     "low": 3.26,
+     "high": 9.05
+    },
+    "cappuccino": {
+     "eur": 3.86,
+     "low": 2.53,
+     "high": 6.34
+    },
+    "wine": {
+     "eur": 11.77,
+     "low": 6.34,
+     "high": 21.73
+    },
+    "beerShop": {
+     "eur": 2.18,
+     "low": 1.68,
+     "high": 3.44
+    },
+    "transit": {
+     "eur": 0.76,
+     "low": 0.76,
+     "high": 0.91
+    },
+    "taxiStart": {
+     "eur": 1.18,
+     "low": 0.98,
+     "high": 1.45
+    },
+    "taxiKm": {
+     "eur": 0.79,
+     "low": 0.65,
+     "high": 0.91
+    }
+   },
+   "entries": 4023,
+   "contributors": 535,
+   "updated": "12 October 2026"
+  },
+  "KRK": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Krakow-Cracow",
+   "items": {
+    "beerBar": {
+     "eur": 4.11,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "KUL": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Kuala-Lumpur",
+   "items": {
+    "beerBar": {
+     "eur": 3.94,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "LCA": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Larnaca",
+   "items": {
+    "mealCheap": {
+     "eur": 12.0,
+     "low": 10.0,
+     "high": 17.0
+    },
+    "mealMid2": {
+     "eur": 47.5,
+     "low": 35.0,
+     "high": 70.0
+    },
+    "fastFood": {
+     "eur": 7.1,
+     "low": 6.0,
+     "high": 9.8
+    },
+    "beerBar": {
+     "eur": 3.0,
+     "low": 3.0,
+     "high": 3.5
+    },
+    "beerImportBar": {
+     "eur": 4.1,
+     "low": 3.0,
+     "high": 5.0
+    },
+    "beerImportShop": {
+     "eur": 4.1,
+     "low": 3.0,
+     "high": 5.0
+    },
+    "cappuccino": {
+     "eur": 3.38,
+     "low": 2.0,
+     "high": 5.0
+    },
+    "wine": {
+     "eur": 7.0,
+     "low": 4.0,
+     "high": 10.0
+    },
+    "beerShop": {
+     "eur": 1.68,
+     "low": 1.0,
+     "high": 2.86
+    },
+    "transit": {
+     "eur": 2.4,
+     "low": 2.4,
+     "high": 2.5
+    },
+    "taxiStart": {
+     "eur": 6.5,
+     "low": 3.0,
+     "high": 10.0
+    },
+    "taxiKm": {
+     "eur": 2.0,
+     "low": 1.0,
+     "high": 3.42
+    }
+   },
+   "entries": 294,
+   "contributors": 27,
+   "updated": "2 October 2026"
+  },
+  "LEJ": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Leipzig",
+   "items": {
+    "mealCheap": {
+     "eur": 15.0,
+     "low": 7.0,
+     "high": 20.0
+    },
+    "mealMid2": {
+     "eur": 70.0,
+     "low": 50.0,
+     "high": 100.0
+    },
+    "fastFood": {
+     "eur": 10.0,
+     "low": 10.0,
+     "high": 12.0
+    },
+    "beerBar": {
+     "eur": 5.0,
+     "low": 3.8,
+     "high": 6.0
+    },
+    "beerImportBar": {
+     "eur": 4.0,
+     "low": 3.0,
+     "high": 5.0
+    },
+    "beerImportShop": {
+     "eur": 4.0,
+     "low": 3.0,
+     "high": 5.0
+    },
+    "cappuccino": {
+     "eur": 3.36,
+     "low": 2.5,
+     "high": 4.3
+    },
+    "wine": {
+     "eur": 4.99,
+     "low": 3.0,
+     "high": 8.0
+    },
+    "beerShop": {
+     "eur": 0.97,
+     "low": 0.7,
+     "high": 1.0
+    },
+    "transit": {
+     "eur": 3.5,
+     "low": 3.5,
+     "high": 3.9
+    },
+    "taxiStart": {
+     "eur": 3.5,
+     "low": 3.5,
+     "high": 5.0
+    },
+    "taxiKm": {
+     "eur": 1.7,
+     "low": 1.7,
+     "high": 3.2
+    }
+   },
+   "entries": 519,
+   "contributors": 60,
+   "updated": "2 October 2026"
+  },
+  "LIS": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Lisbon",
+   "items": {
+    "mealCheap": {
+     "eur": 15.0,
+     "low": 11.0,
+     "high": 20.0
+    },
+    "mealMid2": {
+     "eur": 55.0,
+     "low": 40.0,
+     "high": 75.0
+    },
+    "fastFood": {
+     "eur": 10.0,
+     "low": 8.0,
+     "high": 12.0
+    },
+    "beerBar": {
+     "eur": 3.0,
+     "low": 1.5,
+     "high": 5.0
+    },
+    "beerImportBar": {
+     "eur": 3.0,
+     "low": 2.0,
+     "high": 5.0
+    },
+    "beerImportShop": {
+     "eur": 3.0,
+     "low": 2.0,
+     "high": 5.0
+    },
+    "cappuccino": {
+     "eur": 2.7,
+     "low": 1.2,
+     "high": 4.0
+    },
+    "wine": {
+     "eur": 5.0,
+     "low": 2.99,
+     "high": 8.0
+    },
+    "beerShop": {
+     "eur": 1.17,
+     "low": 0.64,
+     "high": 2.0
+    },
+    "transit": {
+     "eur": 2.05,
+     "low": 1.8,
+     "high": 2.75
+    },
+    "taxiStart": {
+     "eur": 3.5,
+     "low": 3.25,
+     "high": 5.0
+    },
+    "taxiKm": {
+     "eur": 0.96,
+     "low": 0.5,
+     "high": 2.0
+    }
+   },
+   "entries": 1786,
+   "contributors": 195,
+   "updated": "11 October 2026"
+  },
+  "LJU": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Ljubljana",
+   "items": {
+    "mealCheap": {
+     "eur": 14.0,
+     "low": 9.0,
+     "high": 15.0
+    },
+    "mealMid2": {
+     "eur": 60.0,
+     "low": 50.0,
+     "high": 70.0
+    },
+    "fastFood": {
+     "eur": 10.0,
+     "low": 9.0,
+     "high": 12.0
+    },
+    "beerBar": {
+     "eur": 3.5,
+     "low": 2.7,
+     "high": 4.2
+    },
+    "beerImportBar": {
+     "eur": 4.0,
+     "low": 3.0,
+     "high": 5.0
+    },
+    "beerImportShop": {
+     "eur": 4.0,
+     "low": 3.0,
+     "high": 5.0
+    },
+    "cappuccino": {
+     "eur": 2.61,
+     "low": 2.0,
+     "high": 3.5
+    },
+    "wine": {
+     "eur": 7.0,
+     "low": 5.0,
+     "high": 12.0
+    },
+    "beerShop": {
+     "eur": 1.25,
+     "low": 1.0,
+     "high": 1.5
+    },
+    "transit": {
+     "eur": 1.5,
+     "low": 1.5,
+     "high": 1.5
+    },
+    "taxiStart": {
+     "eur": 1.95,
+     "low": 1.95,
+     "high": 2.0
+    },
+    "taxiKm": {
+     "eur": 1.14,
+     "low": 1.09,
+     "high": 1.4
+    }
+   },
+   "entries": 849,
+   "contributors": 84,
+   "updated": "6 October 2026"
+  },
+  "LON": {
+   "url": "https://www.numbeo.com/cost-of-living/in/London",
+   "items": {
+    "mealCheap": {
+     "eur": 23.65,
+     "low": 16.56,
+     "high": 35.48
+    },
+    "mealMid2": {
+     "eur": 94.61,
+     "low": 70.96,
+     "high": 177.39
+    },
+    "fastFood": {
+     "eur": 9.46,
+     "low": 8.59,
+     "high": 11.83
+    },
+    "beerBar": {
+     "eur": 8.28,
+     "low": 5.91,
+     "high": 9.46
+    },
+    "beerImportBar": {
+     "eur": 7.3,
+     "low": 5.91,
+     "high": 9.46
+    },
+    "beerImportShop": {
+     "eur": 7.3,
+     "low": 5.91,
+     "high": 9.46
+    },
+    "cappuccino": {
+     "eur": 5.03,
+     "low": 3.84,
+     "high": 6.15
+    },
+    "wine": {
+     "eur": 11.83,
+     "low": 7.1,
+     "high": 17.74
+    },
+    "beerShop": {
+     "eur": 2.8,
+     "low": 1.77,
+     "high": 4.73
+    },
+    "transit": {
+     "eur": 3.55,
+     "low": 2.96,
+     "high": 5.91
+    },
+    "taxiStart": {
+     "eur": 4.97,
+     "low": 4.97,
+     "high": 6.86
+    },
+    "taxiKm": {
+     "eur": 2.93,
+     "low": 2.37,
+     "high": 4.41
+    }
+   },
+   "entries": 2038,
+   "contributors": 411,
+   "updated": "11 October 2026"
+  },
+  "LPA": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Las-Palmas",
+   "items": {
+    "beerBar": {
+     "eur": 2.75,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "LUX": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Luxembourg",
+   "items": {
+    "beerBar": {
+     "eur": 7.0,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "LYS": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Lyon",
+   "items": {
+    "mealCheap": {
+     "eur": 15.0,
+     "low": 10.0,
+     "high": 22.0
+    },
+    "mealMid2": {
+     "eur": 60.0,
+     "low": 40.0,
+     "high": 90.0
+    },
+    "fastFood": {
+     "eur": 12.0,
+     "low": 9.5,
+     "high": 13.0
+    },
+    "beerBar": {
+     "eur": 7.0,
+     "low": 5.0,
+     "high": 9.0
+    },
+    "beerImportBar": {
+     "eur": 5.5,
+     "low": 4.0,
+     "high": 8.0
+    },
+    "beerImportShop": {
+     "eur": 5.5,
+     "low": 4.0,
+     "high": 8.0
+    },
+    "cappuccino": {
+     "eur": 3.64,
+     "low": 2.0,
+     "high": 4.9
+    },
+    "wine": {
+     "eur": 7.14,
+     "low": 3.69,
+     "high": 12.0
+    },
+    "beerShop": {
+     "eur": 2.42,
+     "low": 1.2,
+     "high": 3.0
+    },
+    "transit": {
+     "eur": 2.1,
+     "low": 2.0,
+     "high": 2.3
+    },
+    "taxiStart": {
+     "eur": 7.3,
+     "low": 2.5,
+     "high": 7.3
+    },
+    "taxiKm": {
+     "eur": 1.96,
+     "low": 1.96,
+     "high": 1.96
+    }
+   },
+   "entries": 710,
+   "contributors": 69,
+   "updated": "8 October 2026"
+  },
+  "MAD": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Madrid",
+   "items": {
+    "mealCheap": {
+     "eur": 16.0,
+     "low": 12.0,
+     "high": 25.0
+    },
+    "mealMid2": {
+     "eur": 60.0,
+     "low": 40.0,
+     "high": 100.0
+    },
+    "fastFood": {
+     "eur": 10.0,
+     "low": 9.0,
+     "high": 12.0
+    },
+    "beerBar": {
+     "eur": 3.5,
+     "low": 3.0,
+     "high": 5.0
+    },
+    "beerImportBar": {
+     "eur": 4.5,
+     "low": 3.5,
+     "high": 5.0
+    },
+    "beerImportShop": {
+     "eur": 4.5,
+     "low": 3.5,
+     "high": 5.0
+    },
+    "cappuccino": {
+     "eur": 2.74,
+     "low": 1.5,
+     "high": 4.0
+    },
+    "wine": {
+     "eur": 7.0,
+     "low": 4.0,
+     "high": 15.0
+    },
+    "beerShop": {
+     "eur": 1.07,
+     "low": 0.8,
+     "high": 1.5
+    },
+    "transit": {
+     "eur": 1.5,
+     "low": 1.1,
+     "high": 2.6
+    },
+    "taxiStart": {
+     "eur": 3.35,
+     "low": 2.55,
+     "high": 5.0
+    },
+    "taxiKm": {
+     "eur": 1.35,
+     "low": 1.3,
+     "high": 2.0
+    }
+   },
+   "entries": 1568,
+   "contributors": 221,
+   "updated": "11 October 2026"
+  },
+  "MAN": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Manchester",
+   "items": {
+    "mealCheap": {
+     "eur": 17.74,
+     "low": 11.81,
+     "high": 23.65
+    },
+    "mealMid2": {
+     "eur": 78.05,
+     "low": 59.13,
+     "high": 106.43
+    },
+    "fastFood": {
+     "eur": 9.46,
+     "low": 8.87,
+     "high": 13.01
+    },
+    "beerBar": {
+     "eur": 7.1,
+     "low": 4.14,
+     "high": 8.16
+    },
+    "beerImportBar": {
+     "eur": 5.91,
+     "low": 5.32,
+     "high": 7.57
+    },
+    "beerImportShop": {
+     "eur": 5.91,
+     "low": 5.32,
+     "high": 7.57
+    },
+    "cappuccino": {
+     "eur": 4.26,
+     "low": 2.37,
+     "high": 5.32
+    },
+    "wine": {
+     "eur": 9.8,
+     "low": 5.91,
+     "high": 16.56
+    },
+    "beerShop": {
+     "eur": 2.21,
+     "low": 1.3,
+     "high": 2.96
+    },
+    "transit": {
+     "eur": 2.37,
+     "low": 2.37,
+     "high": 2.37
+    },
+    "taxiStart": {
+     "eur": 4.02,
+     "low": 4.02,
+     "high": 4.14
+    },
+    "taxiKm": {
+     "eur": 1.92,
+     "low": 1.92,
+     "high": 1.92
+    }
+   },
+   "entries": 688,
+   "contributors": 86,
+   "updated": "2 October 2026"
+  },
+  "MIL": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Milan",
+   "items": {
+    "mealCheap": {
+     "eur": 20.0,
+     "low": 15.0,
+     "high": 30.0
+    },
+    "mealMid2": {
+     "eur": 80.0,
+     "low": 65.0,
+     "high": 100.0
+    },
+    "fastFood": {
+     "eur": 12.0,
+     "low": 10.0,
+     "high": 14.0
+    },
+    "beerBar": {
+     "eur": 6.0,
+     "low": 5.0,
+     "high": 8.0
+    },
+    "beerImportBar": {
+     "eur": 6.0,
+     "low": 5.0,
+     "high": 8.0
+    },
+    "beerImportShop": {
+     "eur": 6.0,
+     "low": 5.0,
+     "high": 8.0
+    },
+    "cappuccino": {
+     "eur": 1.87,
+     "low": 1.4,
+     "high": 3.0
+    },
+    "wine": {
+     "eur": 8.5,
+     "low": 5.0,
+     "high": 10.0
+    },
+    "beerShop": {
+     "eur": 1.78,
+     "low": 1.2,
+     "high": 2.0
+    },
+    "transit": {
+     "eur": 2.2,
+     "low": 2.2,
+     "high": 2.5
+    },
+    "taxiStart": {
+     "eur": 7.0,
+     "low": 4.1,
+     "high": 10.0
+    },
+    "taxiKm": {
+     "eur": 2.0,
+     "low": 1.32,
+     "high": 5.0
+    }
+   },
+   "entries": 1868,
+   "contributors": 225,
+   "updated": "6 October 2026"
+  },
+  "MLA": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Malta",
+   "items": {
+    "mealCheap": {
+     "eur": 20.0,
+     "low": 8.48,
+     "high": 30.0
+    },
+    "mealMid2": {
+     "eur": 80.0,
+     "low": 60.0,
+     "high": 100.0
+    },
+    "fastFood": {
+     "eur": 12.0,
+     "low": 11.0,
+     "high": 13.0
+    },
+    "beerBar": {
+     "eur": 5.0,
+     "low": 4.0,
+     "high": 10.0
+    },
+    "beerImportBar": {
+     "eur": 6.0,
+     "low": 4.0,
+     "high": 8.0
+    },
+    "beerImportShop": {
+     "eur": 6.0,
+     "low": 4.0,
+     "high": 8.0
+    },
+    "cappuccino": {
+     "eur": 2.84,
+     "low": 2.0,
+     "high": 5.09
+    },
+    "wine": {
+     "eur": 5.33,
+     "low": 4.5,
+     "high": 11.0
+    },
+    "beerShop": {
+     "eur": 2.19,
+     "low": 2.0,
+     "high": 2.5
+    },
+    "transit": {
+     "eur": 2.5,
+     "low": 2.0,
+     "high": 2.5
+    },
+    "taxiStart": {
+     "eur": 3.5,
+     "low": 3.5,
+     "high": 4.5
+    },
+    "taxiKm": {
+     "eur": 1.6,
+     "low": 1.6,
+     "high": 1.7
+    }
+   },
+   "entries": 251,
+   "contributors": 24,
+   "updated": "2 October 2026"
+  },
+  "MRS": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Marseille",
+   "items": {
+    "mealCheap": {
+     "eur": 17.0,
+     "low": 12.0,
+     "high": 25.0
+    },
+    "mealMid2": {
+     "eur": 65.0,
+     "low": 60.0,
+     "high": 80.0
+    },
+    "fastFood": {
+     "eur": 12.0,
+     "low": 10.0,
+     "high": 15.0
+    },
+    "beerBar": {
+     "eur": 6.0,
+     "low": 4.0,
+     "high": 8.0
+    },
+    "beerImportBar": {
+     "eur": 6.0,
+     "low": 5.0,
+     "high": 8.0
+    },
+    "beerImportShop": {
+     "eur": 6.0,
+     "low": 5.0,
+     "high": 8.0
+    },
+    "cappuccino": {
+     "eur": 3.14,
+     "low": 1.8,
+     "high": 5.0
+    },
+    "wine": {
+     "eur": 9.0,
+     "low": 6.0,
+     "high": 12.0
+    },
+    "beerShop": {
+     "eur": 3.62,
+     "low": 1.5,
+     "high": 5.0
+    },
+    "transit": {
+     "eur": 1.75,
+     "low": 1.6,
+     "high": 2.0
+    },
+    "taxiStart": {
+     "eur": 5.0,
+     "low": 5.0,
+     "high": 9.0
+    },
+    "taxiKm": {
+     "eur": 3.0,
+     "low": 1.5,
+     "high": 4.0
+    }
+   },
+   "entries": 312,
+   "contributors": 29,
+   "updated": "8 October 2026"
+  },
+  "MUC": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Munich",
+   "items": {
+    "mealCheap": {
+     "eur": 16.25,
+     "low": 12.0,
+     "high": 25.0
+    },
+    "mealMid2": {
+     "eur": 80.0,
+     "low": 50.0,
+     "high": 120.0
+    },
+    "fastFood": {
+     "eur": 12.0,
+     "low": 12.0,
+     "high": 14.0
+    },
+    "beerBar": {
+     "eur": 4.65,
+     "low": 4.0,
+     "high": 5.5
+    },
+    "beerImportBar": {
+     "eur": 5.0,
+     "low": 4.0,
+     "high": 6.0
+    },
+    "beerImportShop": {
+     "eur": 5.0,
+     "low": 4.0,
+     "high": 6.0
+    },
+    "cappuccino": {
+     "eur": 3.93,
+     "low": 2.7,
+     "high": 5.0
+    },
+    "wine": {
+     "eur": 6.0,
+     "low": 5.0,
+     "high": 10.0
+    },
+    "beerShop": {
+     "eur": 1.14,
+     "low": 0.95,
+     "high": 1.69
+    },
+    "transit": {
+     "eur": 4.1,
+     "low": 4.0,
+     "high": 4.2
+    },
+    "taxiStart": {
+     "eur": 5.9,
+     "low": 5.9,
+     "high": 5.9
+    },
+    "taxiKm": {
+     "eur": 2.7,
+     "low": 2.7,
+     "high": 3.0
+    }
+   },
+   "entries": 1937,
+   "contributors": 252,
+   "updated": "8 October 2026"
+  },
+  "NAP": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Naples",
+   "items": {
+    "mealCheap": {
+     "eur": 15.0,
+     "low": 10.0,
+     "high": 20.0
+    },
+    "mealMid2": {
+     "eur": 65.0,
+     "low": 50.0,
+     "high": 90.0
+    },
+    "fastFood": {
+     "eur": 10.0,
+     "low": 10.0,
+     "high": 13.0
+    },
+    "beerBar": {
+     "eur": 5.0,
+     "low": 2.0,
+     "high": 7.0
+    },
+    "beerImportBar": {
+     "eur": 4.25,
+     "low": 3.0,
+     "high": 5.0
+    },
+    "beerImportShop": {
+     "eur": 4.25,
+     "low": 3.0,
+     "high": 5.0
+    },
+    "cappuccino": {
+     "eur": 2.01,
+     "low": 1.5,
+     "high": 2.5
+    },
+    "wine": {
+     "eur": 5.62,
+     "low": 4.0,
+     "high": 10.0
+    },
+    "beerShop": {
+     "eur": 1.62,
+     "low": 1.0,
+     "high": 3.5
+    },
+    "transit": {
+     "eur": 1.5,
+     "low": 1.5,
+     "high": 2.0
+    },
+    "taxiStart": {
+     "eur": 4.0,
+     "low": 3.5,
+     "high": 10.0
+    },
+    "taxiKm": {
+     "eur": 1.1,
+     "low": 1.1,
+     "high": 2.0
+    }
+   },
+   "entries": 793,
+   "contributors": 65,
+   "updated": "10 October 2026"
+  },
+  "NCE": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Nice",
+   "items": {
+    "mealCheap": {
+     "eur": 18.0,
+     "low": 12.0,
+     "high": 25.0
+    },
+    "mealMid2": {
+     "eur": 80.0,
+     "low": 55.0,
+     "high": 120.0
+    },
+    "fastFood": {
+     "eur": 12.0,
+     "low": 11.0,
+     "high": 12.0
+    },
+    "beerBar": {
+     "eur": 7.0,
+     "low": 4.0,
+     "high": 10.0
+    },
+    "beerImportBar": {
+     "eur": 7.0,
+     "low": 5.0,
+     "high": 9.0
+    },
+    "beerImportShop": {
+     "eur": 7.0,
+     "low": 5.0,
+     "high": 9.0
+    },
+    "cappuccino": {
+     "eur": 3.33,
+     "low": 2.2,
+     "high": 6.0
+    },
+    "wine": {
+     "eur": 8.0,
+     "low": 5.0,
+     "high": 12.0
+    },
+    "beerShop": {
+     "eur": 3.17,
+     "low": 1.28,
+     "high": 4.0
+    },
+    "transit": {
+     "eur": 1.7,
+     "low": 1.7,
+     "high": 2.5
+    },
+    "taxiStart": {
+     "eur": 3.0,
+     "low": 3.0,
+     "high": 3.0
+    },
+    "taxiKm": {
+     "eur": 2.08,
+     "low": 2.08,
+     "high": 2.08
+    }
+   },
+   "entries": 318,
+   "contributors": 36,
+   "updated": "2 October 2026"
+  },
+  "NUE": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Nuremberg",
+   "items": {
+    "mealCheap": {
+     "eur": 15.8,
+     "low": 12.0,
+     "high": 25.0
+    },
+    "mealMid2": {
+     "eur": 72.5,
+     "low": 54.3,
+     "high": 110.0
+    },
+    "fastFood": {
+     "eur": 12.0,
+     "low": 10.0,
+     "high": 13.0
+    },
+    "beerBar": {
+     "eur": 4.5,
+     "low": 3.5,
+     "high": 5.5
+    },
+    "beerImportBar": {
+     "eur": 4.8,
+     "low": 3.5,
+     "high": 8.0
+    },
+    "beerImportShop": {
+     "eur": 4.8,
+     "low": 3.5,
+     "high": 8.0
+    },
+    "cappuccino": {
+     "eur": 4.0,
+     "low": 2.5,
+     "high": 5.0
+    },
+    "wine": {
+     "eur": 5.25,
+     "low": 4.99,
+     "high": 14.99
+    },
+    "beerShop": {
+     "eur": 1.11,
+     "low": 0.95,
+     "high": 1.5
+    },
+    "transit": {
+     "eur": 3.9,
+     "low": 3.47,
+     "high": 4.2
+    },
+    "taxiStart": {
+     "eur": 4.0,
+     "low": 4.0,
+     "high": 4.7
+    },
+    "taxiKm": {
+     "eur": 2.4,
+     "low": 2.0,
+     "high": 2.4
+    }
+   },
+   "entries": 714,
+   "contributors": 61,
+   "updated": "2 October 2026"
+  },
+  "OPO": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Porto",
+   "items": {
+    "mealCheap": {
+     "eur": 12.0,
+     "low": 9.0,
+     "high": 20.0
+    },
+    "mealMid2": {
+     "eur": 50.0,
+     "low": 35.0,
+     "high": 75.0
+    },
+    "fastFood": {
+     "eur": 10.0,
+     "low": 8.0,
+     "high": 12.0
+    },
+    "beerBar": {
+     "eur": 3.0,
+     "low": 2.0,
+     "high": 4.5
+    },
+    "beerImportBar": {
+     "eur": 4.0,
+     "low": 3.0,
+     "high": 5.0
+    },
+    "beerImportShop": {
+     "eur": 4.0,
+     "low": 3.0,
+     "high": 5.0
+    },
+    "cappuccino": {
+     "eur": 2.39,
+     "low": 0.8,
+     "high": 4.0
+    },
+    "wine": {
+     "eur": 5.0,
+     "low": 3.0,
+     "high": 8.0
+    },
+    "beerShop": {
+     "eur": 1.22,
+     "low": 0.85,
+     "high": 1.97
+    },
+    "transit": {
+     "eur": 1.48,
+     "low": 1.3,
+     "high": 2.5
+    },
+    "taxiStart": {
+     "eur": 3.5,
+     "low": 3.25,
+     "high": 5.0
+    },
+    "taxiKm": {
+     "eur": 0.75,
+     "low": 0.75,
+     "high": 1.1
+    }
+   },
+   "entries": 904,
+   "contributors": 115,
+   "updated": "6 October 2026"
+  },
+  "PAR": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Paris",
+   "items": {
+    "beerBar": {
+     "eur": 7.0,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "PMI": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Palma-De-Mallorca",
+   "items": {
+    "beerBar": {
+     "eur": 4.0,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "PMO": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Palermo",
+   "items": {
+    "beerBar": {
+     "eur": 5.0,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "POZ": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Poznan",
+   "items": {
+    "beerBar": {
+     "eur": 2.74,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "PRG": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Prague",
+   "items": {
+    "mealCheap": {
+     "eur": 9.72,
+     "low": 7.79,
+     "high": 15.65
+    },
+    "mealMid2": {
+     "eur": 45.1,
+     "low": 32.8,
+     "high": 82.01
+    },
+    "fastFood": {
+     "eur": 9.02,
+     "low": 7.38,
+     "high": 10.33
+    },
+    "beerBar": {
+     "eur": 2.83,
+     "low": 2.05,
+     "high": 3.08
+    },
+    "beerImportBar": {
+     "eur": 2.87,
+     "low": 2.05,
+     "high": 3.28
+    },
+    "beerImportShop": {
+     "eur": 2.87,
+     "low": 2.05,
+     "high": 3.28
+    },
+    "cappuccino": {
+     "eur": 3.27,
+     "low": 2.05,
+     "high": 4.1
+    },
+    "wine": {
+     "eur": 6.15,
+     "low": 4.1,
+     "high": 10.25
+    },
+    "beerShop": {
+     "eur": 1.09,
+     "low": 0.62,
+     "high": 1.56
+    },
+    "transit": {
+     "eur": 1.6,
+     "low": 1.44,
+     "high": 1.85
+    },
+    "taxiStart": {
+     "eur": 2.46,
+     "low": 1.85,
+     "high": 3.28
+    },
+    "taxiKm": {
+     "eur": 1.44,
+     "low": 1.15,
+     "high": 1.64
+    }
+   },
+   "entries": 2318,
+   "contributors": 305,
+   "updated": "7 October 2026"
+  },
+  "REK": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Reykjavik",
+   "items": {
+    "beerBar": {
+     "eur": 12.44,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "RIX": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Riga",
+   "items": {
+    "beerBar": {
+     "eur": 5.0,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "ROM": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Rome",
+   "items": {
+    "beerBar": {
+     "eur": 5.0,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "SEL": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Seoul",
+   "items": {
+    "beerBar": {
+     "eur": 3.33,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "SGN": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Ho-Chi-Minh-City",
+   "items": {
+    "beerBar": {
+     "eur": 0.92,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "SIN": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Singapore",
+   "items": {
+    "beerBar": {
+     "eur": 7.33,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "SJJ": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Sarajevo",
+   "items": {
+    "beerBar": {
+     "eur": 2.56,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "SKG": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Thessaloniki",
+   "items": {
+    "beerBar": {
+     "eur": 5.0,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "SKP": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Skopje",
+   "items": {
+    "beerBar": {
+     "eur": 2.44,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "SOF": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Sofia",
+   "items": {
+    "beerBar": {
+     "eur": 3.07,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "SPU": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Split",
+   "items": {
+    "beerBar": {
+     "eur": 4.25,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "STO": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Stockholm",
+   "items": {
+    "beerBar": {
+     "eur": 7.1,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "SVQ": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Sevilla",
+   "items": {
+    "beerBar": {
+     "eur": 2.67,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "SXB": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Strasbourg",
+   "items": {
+    "beerBar": {
+     "eur": 7.0,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "SZG": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Salzburg",
+   "items": {
+    "beerBar": {
+     "eur": 5.2,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "TBS": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Tbilisi",
+   "items": {
+    "beerBar": {
+     "eur": 2.41,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "TIA": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Tirana",
+   "items": {
+    "beerBar": {
+     "eur": 3.17,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "TLL": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Tallinn",
+   "items": {
+    "beerBar": {
+     "eur": 6.0,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "TRN": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Turin",
+   "items": {
+    "beerBar": {
+     "eur": 5.0,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "TRS": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Trieste",
+   "items": {
+    "beerBar": {
+     "eur": 5.25,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "TUN": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Tunis",
+   "items": {
+    "beerBar": {
+     "eur": 1.5,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "TYO": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Tokyo",
+   "items": {
+    "beerBar": {
+     "eur": 3.39,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "VIE": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Vienna",
+   "items": {
+    "beerBar": {
+     "eur": 5.4,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "VLC": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Valencia",
+   "items": {
+    "beerBar": {
+     "eur": 3.0,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "VNO": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Vilnius",
+   "items": {
+    "beerBar": {
+     "eur": 5.0,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "WAW": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Warsaw",
+   "items": {
+    "beerBar": {
+     "eur": 4.11,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "WRO": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Wroclaw",
+   "items": {
+    "beerBar": {
+     "eur": 3.65,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "ZAG": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Zagreb",
+   "items": {
+    "beerBar": {
+     "eur": 3.0,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "ZRH": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Zurich",
+   "items": {
+    "beerBar": {
+     "eur": 8.61,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  },
+  "TRD": {
+   "url": "https://www.numbeo.com/cost-of-living/in/Trondheim",
+   "items": {
+    "beerBar": {
+     "eur": 11.57,
+     "low": null,
+     "high": null
+    }
+   },
+   "fromList": true
+  }
+ },
+ "livingcost": {
+  "AGA": {
+   "url": "https://livingcost.org/cost/morocco/agadir",
+   "items": {
+    "mealCheap": {
+     "eur": 4.83
+    },
+    "mealMid2": {
+     "eur": 22.22
+    },
+    "fastFood": {
+     "eur": 6.76
+    },
+    "beerBar": {
+     "eur": 4.82
+    },
+    "cappuccino": {
+     "eur": 2.0
+    },
+    "transit": {
+     "eur": 0.46
+    },
+    "beerShop": {
+     "eur": 2.52
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "AGP": {
+   "url": "https://livingcost.org/cost/spain/malaga",
+   "items": {
+    "mealCheap": {
+     "eur": 15.01
+    },
+    "mealMid2": {
+     "eur": 49.7
+    },
+    "fastFood": {
+     "eur": 10.61
+    },
+    "beerBar": {
+     "eur": 3.56
+    },
+    "cappuccino": {
+     "eur": 2.81
+    },
+    "transit": {
+     "eur": 1.45
+    },
+    "beerShop": {
+     "eur": 1.07
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "ALC": {
+   "url": "https://livingcost.org/cost/spain/alicante",
+   "items": {
+    "mealCheap": {
+     "eur": 14.8
+    },
+    "mealMid2": {
+     "eur": 50.97
+    },
+    "fastFood": {
+     "eur": 10.24
+    },
+    "beerBar": {
+     "eur": 3.35
+    },
+    "cappuccino": {
+     "eur": 2.17
+    },
+    "transit": {
+     "eur": 1.51
+    },
+    "beerShop": {
+     "eur": 1.1
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "AMS": {
+   "url": "https://livingcost.org/cost/netherlands/amsterdam",
+   "items": {
+    "mealCheap": {
+     "eur": 19.65
+    },
+    "mealMid2": {
+     "eur": 83.02
+    },
+    "fastFood": {
+     "eur": 13.9
+    },
+    "beerBar": {
+     "eur": 6.97
+    },
+    "cappuccino": {
+     "eur": 4.3
+    },
+    "transit": {
+     "eur": 3.5
+    },
+    "beerShop": {
+     "eur": 1.57
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "ATH": {
+   "url": "https://livingcost.org/cost/greece/athens",
+   "items": {
+    "mealCheap": {
+     "eur": 14.71
+    },
+    "mealMid2": {
+     "eur": 56.19
+    },
+    "fastFood": {
+     "eur": 8.83
+    },
+    "beerBar": {
+     "eur": 5.23
+    },
+    "cappuccino": {
+     "eur": 4.08
+    },
+    "transit": {
+     "eur": 1.24
+    },
+    "beerShop": {
+     "eur": 1.78
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "AYT": {
+   "url": "https://livingcost.org/cost/turkey/antalya",
+   "items": {
+    "mealCheap": {
+     "eur": 8.61
+    },
+    "mealMid2": {
+     "eur": 38.41
+    },
+    "fastFood": {
+     "eur": 8.58
+    },
+    "beerBar": {
+     "eur": 2.89
+    },
+    "cappuccino": {
+     "eur": 3.36
+    },
+    "transit": {
+     "eur": 0.69
+    },
+    "beerShop": {
+     "eur": 1.87
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "BCN": {
+   "url": "https://livingcost.org/cost/spain/barcelona",
+   "items": {
+    "mealCheap": {
+     "eur": 15.46
+    },
+    "mealMid2": {
+     "eur": 57.18
+    },
+    "fastFood": {
+     "eur": 12.41
+    },
+    "beerBar": {
+     "eur": 5.18
+    },
+    "cappuccino": {
+     "eur": 3.06
+    },
+    "transit": {
+     "eur": 2.74
+    },
+    "beerShop": {
+     "eur": 1.26
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "BEG": {
+   "url": "https://livingcost.org/cost/serbia/belgrade",
+   "items": {
+    "mealCheap": {
+     "eur": 10.93
+    },
+    "mealMid2": {
+     "eur": 45.65
+    },
+    "fastFood": {
+     "eur": 10.94
+    },
+    "beerBar": {
+     "eur": 3.03
+    },
+    "cappuccino": {
+     "eur": 2.69
+    },
+    "transit": {
+     "eur": 0.82
+    },
+    "beerShop": {
+     "eur": 0.8
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "BER": {
+   "url": "https://livingcost.org/cost/germany/bb/berlin",
+   "items": {
+    "mealCheap": {
+     "eur": 14.43
+    },
+    "mealMid2": {
+     "eur": 62.09
+    },
+    "fastFood": {
+     "eur": 12.83
+    },
+    "beerBar": {
+     "eur": 4.69
+    },
+    "cappuccino": {
+     "eur": 4.15
+    },
+    "transit": {
+     "eur": 4.1
+    },
+    "beerShop": {
+     "eur": 1.27
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "BIO": {
+   "url": "https://livingcost.org/cost/spain/bilbao",
+   "items": {
+    "mealCheap": {
+     "eur": 17.68
+    },
+    "mealMid2": {
+     "eur": 52.11
+    },
+    "fastFood": {
+     "eur": 11.35
+    },
+    "beerBar": {
+     "eur": 3.61
+    },
+    "cappuccino": {
+     "eur": 2.36
+    },
+    "transit": {
+     "eur": 1.63
+    },
+    "beerShop": {
+     "eur": 1.3
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "BKK": {
+   "url": "https://livingcost.org/cost/thailand/bangkok",
+   "items": {
+    "mealCheap": {
+     "eur": 3.0
+    },
+    "mealMid2": {
+     "eur": 32.39
+    },
+    "fastFood": {
+     "eur": 6.26
+    },
+    "beerBar": {
+     "eur": 2.7
+    },
+    "cappuccino": {
+     "eur": 2.62
+    },
+    "transit": {
+     "eur": 1.09
+    },
+    "beerShop": {
+     "eur": 1.62
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "BLQ": {
+   "url": "https://livingcost.org/cost/italy/er/bologna",
+   "items": {
+    "mealCheap": {
+     "eur": 16.85
+    },
+    "mealMid2": {
+     "eur": 66.5
+    },
+    "fastFood": {
+     "eur": 10.94
+    },
+    "beerBar": {
+     "eur": 6.18
+    },
+    "cappuccino": {
+     "eur": 1.88
+    },
+    "transit": {
+     "eur": 2.38
+    },
+    "beerShop": {
+     "eur": 1.59
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "BOD": {
+   "url": "https://livingcost.org/cost/france/naq/bordeaux",
+   "items": {
+    "mealCheap": {
+     "eur": 18.7
+    },
+    "mealMid2": {
+     "eur": 63.99
+    },
+    "fastFood": {
+     "eur": 13.01
+    },
+    "beerBar": {
+     "eur": 7.25
+    },
+    "cappuccino": {
+     "eur": 3.56
+    },
+    "transit": {
+     "eur": 1.95
+    },
+    "beerShop": {
+     "eur": 3.69
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "BRI": {
+   "url": "https://livingcost.org/cost/italy/ap/bari",
+   "items": {
+    "mealCheap": {
+     "eur": 16.11
+    },
+    "mealMid2": {
+     "eur": 61.58
+    },
+    "fastFood": {
+     "eur": 10.34
+    },
+    "beerBar": {
+     "eur": 3.09
+    },
+    "cappuccino": {
+     "eur": 1.84
+    },
+    "transit": {
+     "eur": 1.04
+    },
+    "beerShop": {
+     "eur": 1.76
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "BRU": {
+   "url": "https://livingcost.org/cost/belgium/brussels",
+   "items": {
+    "mealCheap": {
+     "eur": 18.91
+    },
+    "mealMid2": {
+     "eur": 71.39
+    },
+    "fastFood": {
+     "eur": 12.24
+    },
+    "beerBar": {
+     "eur": 5.03
+    },
+    "cappuccino": {
+     "eur": 3.91
+    },
+    "transit": {
+     "eur": 2.6
+    },
+    "beerShop": {
+     "eur": 2.28
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "BSL": {
+   "url": "https://livingcost.org/cost/switzerland/basel",
+   "items": {
+    "mealCheap": {
+     "eur": 24.83
+    },
+    "mealMid2": {
+     "eur": 108.67
+    },
+    "fastFood": {
+     "eur": 17.21
+    },
+    "beerBar": {
+     "eur": 8.32
+    },
+    "cappuccino": {
+     "eur": 6.01
+    },
+    "transit": {
+     "eur": 3.95
+    },
+    "beerShop": {
+     "eur": 2.3
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "BTS": {
+   "url": "https://livingcost.org/cost/slovakia/bratislava",
+   "items": {
+    "mealCheap": {
+     "eur": 9.37
+    },
+    "mealMid2": {
+     "eur": 50.91
+    },
+    "fastFood": {
+     "eur": 9.5
+    },
+    "beerBar": {
+     "eur": 2.79
+    },
+    "cappuccino": {
+     "eur": 3.0
+    },
+    "transit": {
+     "eur": 1.24
+    },
+    "beerShop": {
+     "eur": 1.01
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "BUD": {
+   "url": "https://livingcost.org/cost/hungary/budapest",
+   "items": {
+    "mealCheap": {
+     "eur": 12.44
+    },
+    "mealMid2": {
+     "eur": 59.9
+    },
+    "fastFood": {
+     "eur": 8.77
+    },
+    "beerBar": {
+     "eur": 3.28
+    },
+    "cappuccino": {
+     "eur": 3.21
+    },
+    "transit": {
+     "eur": 1.46
+    },
+    "beerShop": {
+     "eur": 1.2
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "BUH": {
+   "url": "https://livingcost.org/cost/romania/bucharest",
+   "items": {
+    "mealCheap": {
+     "eur": 10.33
+    },
+    "mealMid2": {
+     "eur": 48.0
+    },
+    "fastFood": {
+     "eur": 7.25
+    },
+    "beerBar": {
+     "eur": 3.11
+    },
+    "cappuccino": {
+     "eur": 3.28
+    },
+    "transit": {
+     "eur": 0.79
+    },
+    "beerShop": {
+     "eur": 1.12
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "CGN": {
+   "url": "https://livingcost.org/cost/germany/nw/cologne",
+   "items": {
+    "mealCheap": {
+     "eur": 14.43
+    },
+    "mealMid2": {
+     "eur": 66.14
+    },
+    "fastFood": {
+     "eur": 10.46
+    },
+    "beerBar": {
+     "eur": 4.96
+    },
+    "cappuccino": {
+     "eur": 3.63
+    },
+    "transit": {
+     "eur": 3.68
+    },
+    "beerShop": {
+     "eur": 1.11
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "CPH": {
+   "url": "https://livingcost.org/cost/denmark/copenhagen",
+   "items": {
+    "mealCheap": {
+     "eur": 18.81
+    },
+    "mealMid2": {
+     "eur": 96.46
+    },
+    "fastFood": {
+     "eur": 12.72
+    },
+    "beerBar": {
+     "eur": 8.11
+    },
+    "cappuccino": {
+     "eur": 6.53
+    },
+    "transit": {
+     "eur": 3.31
+    },
+    "beerShop": {
+     "eur": 1.54
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "CTA": {
+   "url": "https://livingcost.org/cost/italy/si/catania",
+   "items": {
+    "mealCheap": {
+     "eur": 15.55
+    },
+    "mealMid2": {
+     "eur": 51.12
+    },
+    "fastFood": {
+     "eur": 10.25
+    },
+    "beerBar": {
+     "eur": 6.24
+    },
+    "cappuccino": {
+     "eur": 2.08
+    },
+    "transit": {
+     "eur": 1.44
+    },
+    "beerShop": {
+     "eur": 1.66
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "DBV": {
+   "url": "https://livingcost.org/cost/croatia/dubrovnik",
+   "items": {
+    "mealCheap": {
+     "eur": 15.49
+    },
+    "mealMid2": {
+     "eur": 72.84
+    },
+    "fastFood": {
+     "eur": 7.7
+    },
+    "beerBar": {
+     "eur": 6.26
+    },
+    "cappuccino": {
+     "eur": 3.79
+    },
+    "transit": {
+     "eur": 2.57
+    },
+    "beerShop": {
+     "eur": 1.2
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "DRS": {
+   "url": "https://livingcost.org/cost/germany/sn/dresden",
+   "items": {
+    "mealCheap": {
+     "eur": 12.9
+    },
+    "mealMid2": {
+     "eur": 67.52
+    },
+    "fastFood": {
+     "eur": 9.88
+    },
+    "beerBar": {
+     "eur": 4.85
+    },
+    "cappuccino": {
+     "eur": 3.69
+    },
+    "transit": {
+     "eur": 3.53
+    },
+    "beerShop": {
+     "eur": 0.95
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "DUB": {
+   "url": "https://livingcost.org/cost/ireland/dublin",
+   "items": {
+    "mealCheap": {
+     "eur": 17.31
+    },
+    "mealMid2": {
+     "eur": 83.22
+    },
+    "fastFood": {
+     "eur": 12.21
+    },
+    "beerBar": {
+     "eur": 7.82
+    },
+    "cappuccino": {
+     "eur": 4.57
+    },
+    "transit": {
+     "eur": 2.08
+    },
+    "beerShop": {
+     "eur": 3.22
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "DXB": {
+   "url": "https://livingcost.org/cost/united-arab-emirates/dubai",
+   "items": {
+    "mealCheap": {
+     "eur": 10.59
+    },
+    "mealMid2": {
+     "eur": 61.21
+    },
+    "fastFood": {
+     "eur": 8.69
+    },
+    "beerBar": {
+     "eur": 12.0
+    },
+    "cappuccino": {
+     "eur": 5.72
+    },
+    "transit": {
+     "eur": 1.45
+    },
+    "beerShop": {
+     "eur": 2.62
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "EDI": {
+   "url": "https://livingcost.org/cost/united-kingdom/sct/edinburgh",
+   "items": {
+    "mealCheap": {
+     "eur": 19.87
+    },
+    "mealMid2": {
+     "eur": 80.27
+    },
+    "fastFood": {
+     "eur": 9.14
+    },
+    "beerBar": {
+     "eur": 7.44
+    },
+    "cappuccino": {
+     "eur": 4.46
+    },
+    "transit": {
+     "eur": 2.64
+    },
+    "beerShop": {
+     "eur": 2.53
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "EVN": {
+   "url": "https://livingcost.org/cost/armenia/yerevan",
+   "items": {
+    "mealCheap": {
+     "eur": 9.42
+    },
+    "mealMid2": {
+     "eur": 46.22
+    },
+    "fastFood": {
+     "eur": 7.8
+    },
+    "beerBar": {
+     "eur": 2.17
+    },
+    "cappuccino": {
+     "eur": 3.12
+    },
+    "transit": {
+     "eur": 0.37
+    },
+    "beerShop": {
+     "eur": 1.33
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "FAO": {
+   "url": "https://livingcost.org/cost/portugal/faro",
+   "items": {
+    "mealCheap": {
+     "eur": 11.03
+    },
+    "mealMid2": {
+     "eur": 37.59
+    },
+    "fastFood": {
+     "eur": 9.81
+    },
+    "beerBar": {
+     "eur": 2.7
+    },
+    "cappuccino": {
+     "eur": 1.96
+    },
+    "transit": {
+     "eur": 3.03
+    },
+    "beerShop": {
+     "eur": 0.88
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "FLR": {
+   "url": "https://livingcost.org/cost/italy/tu/florence",
+   "items": {
+    "mealCheap": {
+     "eur": 20.36
+    },
+    "mealMid2": {
+     "eur": 61.58
+    },
+    "fastFood": {
+     "eur": 12.62
+    },
+    "beerBar": {
+     "eur": 5.96
+    },
+    "cappuccino": {
+     "eur": 2.18
+    },
+    "transit": {
+     "eur": 1.75
+    },
+    "beerShop": {
+     "eur": 1.68
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "FNC": {
+   "url": "https://livingcost.org/cost/portugal/funchal",
+   "items": {
+    "mealCheap": {
+     "eur": 10.66
+    },
+    "mealMid2": {
+     "eur": 47.26
+    },
+    "fastFood": {
+     "eur": 9.72
+    },
+    "beerBar": {
+     "eur": 2.36
+    },
+    "cappuccino": {
+     "eur": 1.63
+    },
+    "transit": {
+     "eur": 2.08
+    },
+    "beerShop": {
+     "eur": 1.18
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "FRA": {
+   "url": "https://livingcost.org/cost/germany/he/frankfurt",
+   "items": {
+    "mealCheap": {
+     "eur": 15.49
+    },
+    "mealMid2": {
+     "eur": 82.9
+    },
+    "fastFood": {
+     "eur": 12.35
+    },
+    "beerBar": {
+     "eur": 5.13
+    },
+    "cappuccino": {
+     "eur": 4.2
+    },
+    "transit": {
+     "eur": 3.94
+    },
+    "beerShop": {
+     "eur": 1.08
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "GDN": {
+   "url": "https://livingcost.org/cost/poland/gdansk",
+   "items": {
+    "mealCheap": {
+     "eur": 11.03
+    },
+    "mealMid2": {
+     "eur": 58.28
+    },
+    "fastFood": {
+     "eur": 8.57
+    },
+    "beerBar": {
+     "eur": 3.65
+    },
+    "cappuccino": {
+     "eur": 3.9
+    },
+    "transit": {
+     "eur": 1.16
+    },
+    "beerShop": {
+     "eur": 1.11
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "GLA": {
+   "url": "https://livingcost.org/cost/united-kingdom/sct/glasgow",
+   "items": {
+    "mealCheap": {
+     "eur": 20.46
+    },
+    "mealMid2": {
+     "eur": 62.01
+    },
+    "fastFood": {
+     "eur": 9.0
+    },
+    "beerBar": {
+     "eur": 5.71
+    },
+    "cappuccino": {
+     "eur": 4.27
+    },
+    "transit": {
+     "eur": 3.7
+    },
+    "beerShop": {
+     "eur": 2.88
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "GOT": {
+   "url": "https://livingcost.org/cost/sweden/gothenburg",
+   "items": {
+    "mealCheap": {
+     "eur": 12.48
+    },
+    "mealMid2": {
+     "eur": 79.42
+    },
+    "fastFood": {
+     "eur": 11.42
+    },
+    "beerBar": {
+     "eur": 6.18
+    },
+    "cappuccino": {
+     "eur": 4.47
+    },
+    "transit": {
+     "eur": 3.51
+    },
+    "beerShop": {
+     "eur": 1.94
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "GVA": {
+   "url": "https://livingcost.org/cost/switzerland/geneva",
+   "items": {
+    "mealCheap": {
+     "eur": 27.12
+    },
+    "mealMid2": {
+     "eur": 112.34
+    },
+    "fastFood": {
+     "eur": 16.67
+    },
+    "beerBar": {
+     "eur": 8.99
+    },
+    "cappuccino": {
+     "eur": 5.97
+    },
+    "transit": {
+     "eur": 3.32
+    },
+    "beerShop": {
+     "eur": 2.94
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "HAM": {
+   "url": "https://livingcost.org/cost/germany/hh/hamburg",
+   "items": {
+    "mealCheap": {
+     "eur": 15.61
+    },
+    "mealMid2": {
+     "eur": 67.8
+    },
+    "fastFood": {
+     "eur": 12.48
+    },
+    "beerBar": {
+     "eur": 5.21
+    },
+    "cappuccino": {
+     "eur": 4.29
+    },
+    "transit": {
+     "eur": 4.0
+    },
+    "beerShop": {
+     "eur": 1.05
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "HEL": {
+   "url": "https://livingcost.org/cost/finland/helsinki",
+   "items": {
+    "mealCheap": {
+     "eur": 13.74
+    },
+    "mealMid2": {
+     "eur": 77.19
+    },
+    "fastFood": {
+     "eur": 12.78
+    },
+    "beerBar": {
+     "eur": 8.25
+    },
+    "cappuccino": {
+     "eur": 4.92
+    },
+    "transit": {
+     "eur": 3.31
+    },
+    "beerShop": {
+     "eur": 3.15
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "HER": {
+   "url": "https://livingcost.org/cost/greece/heraklion",
+   "items": {
+    "mealCheap": {
+     "eur": 13.37
+    },
+    "mealMid2": {
+     "eur": 51.72
+    },
+    "fastFood": {
+     "eur": 9.22
+    },
+    "beerBar": {
+     "eur": 5.19
+    },
+    "cappuccino": {
+     "eur": 3.58
+    },
+    "transit": {
+     "eur": 1.36
+    },
+    "beerShop": {
+     "eur": 1.88
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "IST": {
+   "url": "https://livingcost.org/cost/turkey/istanbul",
+   "items": {
+    "mealCheap": {
+     "eur": 8.94
+    },
+    "mealMid2": {
+     "eur": 42.74
+    },
+    "fastFood": {
+     "eur": 8.54
+    },
+    "beerBar": {
+     "eur": 4.07
+    },
+    "cappuccino": {
+     "eur": 3.7
+    },
+    "transit": {
+     "eur": 0.81
+    },
+    "beerShop": {
+     "eur": 2.06
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "KRK": {
+   "url": "https://livingcost.org/cost/poland/krakow",
+   "items": {
+    "mealCheap": {
+     "eur": 10.79
+    },
+    "mealMid2": {
+     "eur": 42.03
+    },
+    "fastFood": {
+     "eur": 9.05
+    },
+    "beerBar": {
+     "eur": 4.6
+    },
+    "cappuccino": {
+     "eur": 4.17
+    },
+    "transit": {
+     "eur": 1.45
+    },
+    "beerShop": {
+     "eur": 1.26
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "KUL": {
+   "url": "https://livingcost.org/cost/malaysia/kuala-lumpur",
+   "items": {
+    "mealCheap": {
+     "eur": 4.06
+    },
+    "mealMid2": {
+     "eur": 25.5
+    },
+    "fastFood": {
+     "eur": 4.59
+    },
+    "beerBar": {
+     "eur": 4.34
+    },
+    "cappuccino": {
+     "eur": 3.04
+    },
+    "transit": {
+     "eur": 0.66
+    },
+    "beerShop": {
+     "eur": 2.94
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "LCA": {
+   "url": "https://livingcost.org/cost/cyprus/larnaca",
+   "items": {
+    "mealCheap": {
+     "eur": 13.35
+    },
+    "mealMid2": {
+     "eur": 51.08
+    },
+    "fastFood": {
+     "eur": 6.68
+    },
+    "beerBar": {
+     "eur": 3.08
+    },
+    "cappuccino": {
+     "eur": 3.47
+    },
+    "transit": {
+     "eur": 2.46
+    },
+    "beerShop": {
+     "eur": 1.65
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "LEJ": {
+   "url": "https://livingcost.org/cost/germany/sn/leipzig",
+   "items": {
+    "mealCheap": {
+     "eur": 13.5
+    },
+    "mealMid2": {
+     "eur": 61.8
+    },
+    "fastFood": {
+     "eur": 10.42
+    },
+    "beerBar": {
+     "eur": 5.21
+    },
+    "cappuccino": {
+     "eur": 3.44
+    },
+    "transit": {
+     "eur": 3.6
+    },
+    "beerShop": {
+     "eur": 1.0
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "LIS": {
+   "url": "https://livingcost.org/cost/portugal/lisbon",
+   "items": {
+    "mealCheap": {
+     "eur": 13.12
+    },
+    "mealMid2": {
+     "eur": 51.23
+    },
+    "fastFood": {
+     "eur": 9.96
+    },
+    "beerBar": {
+     "eur": 2.91
+    },
+    "cappuccino": {
+     "eur": 3.31
+    },
+    "transit": {
+     "eur": 2.05
+    },
+    "beerShop": {
+     "eur": 1.16
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "LJU": {
+   "url": "https://livingcost.org/cost/slovenia/ljubljana",
+   "items": {
+    "mealCheap": {
+     "eur": 14.74
+    },
+    "mealMid2": {
+     "eur": 53.06
+    },
+    "fastFood": {
+     "eur": 9.64
+    },
+    "beerBar": {
+     "eur": 3.44
+    },
+    "cappuccino": {
+     "eur": 2.37
+    },
+    "transit": {
+     "eur": 1.54
+    },
+    "beerShop": {
+     "eur": 1.29
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "LON": {
+   "url": "https://livingcost.org/cost/united-kingdom/eng/london",
+   "items": {
+    "mealCheap": {
+     "eur": 20.19
+    },
+    "mealMid2": {
+     "eur": 88.18
+    },
+    "fastFood": {
+     "eur": 10.64
+    },
+    "beerBar": {
+     "eur": 8.6
+    },
+    "cappuccino": {
+     "eur": 5.05
+    },
+    "transit": {
+     "eur": 3.58
+    },
+    "beerShop": {
+     "eur": 2.84
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "LPA": {
+   "url": "https://livingcost.org/cost/spain/las-palmas",
+   "items": {
+    "mealCheap": {
+     "eur": 12.91
+    },
+    "mealMid2": {
+     "eur": 54.43
+    },
+    "fastFood": {
+     "eur": 10.06
+    },
+    "beerBar": {
+     "eur": 3.51
+    },
+    "cappuccino": {
+     "eur": 2.58
+    },
+    "transit": {
+     "eur": 1.96
+    },
+    "beerShop": {
+     "eur": 1.53
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "LUX": {
+   "url": "https://livingcost.org/cost/luxembourg/luxembourg",
+   "items": {
+    "mealCheap": {
+     "eur": 22.24
+    },
+    "mealMid2": {
+     "eur": 79.35
+    },
+    "fastFood": {
+     "eur": 13.72
+    },
+    "beerBar": {
+     "eur": 6.61
+    },
+    "cappuccino": {
+     "eur": 4.1
+    },
+    "transit": {
+     "eur": 3.29
+    },
+    "beerShop": {
+     "eur": 1.87
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "LYS": {
+   "url": "https://livingcost.org/cost/france/ara/lyon",
+   "items": {
+    "mealCheap": {
+     "eur": 15.38
+    },
+    "mealMid2": {
+     "eur": 56.19
+    },
+    "fastFood": {
+     "eur": 12.48
+    },
+    "beerBar": {
+     "eur": 6.25
+    },
+    "cappuccino": {
+     "eur": 3.61
+    },
+    "transit": {
+     "eur": 2.15
+    },
+    "beerShop": {
+     "eur": 2.46
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "MAD": {
+   "url": "https://livingcost.org/cost/spain/madrid",
+   "items": {
+    "mealCheap": {
+     "eur": 15.66
+    },
+    "mealMid2": {
+     "eur": 53.65
+    },
+    "fastFood": {
+     "eur": 11.69
+    },
+    "beerBar": {
+     "eur": 4.14
+    },
+    "cappuccino": {
+     "eur": 3.36
+    },
+    "transit": {
+     "eur": 1.56
+    },
+    "beerShop": {
+     "eur": 1.18
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "MAN": {
+   "url": "https://livingcost.org/cost/united-kingdom/eng/manchester",
+   "items": {
+    "mealCheap": {
+     "eur": 18.12
+    },
+    "mealMid2": {
+     "eur": 83.38
+    },
+    "fastFood": {
+     "eur": 9.53
+    },
+    "beerBar": {
+     "eur": 6.94
+    },
+    "cappuccino": {
+     "eur": 4.19
+    },
+    "transit": {
+     "eur": 2.37
+    },
+    "beerShop": {
+     "eur": 2.23
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "MIL": {
+   "url": "https://livingcost.org/cost/italy/lo/milan",
+   "items": {
+    "mealCheap": {
+     "eur": 17.89
+    },
+    "mealMid2": {
+     "eur": 74.31
+    },
+    "fastFood": {
+     "eur": 12.73
+    },
+    "beerBar": {
+     "eur": 6.46
+    },
+    "cappuccino": {
+     "eur": 2.2
+    },
+    "transit": {
+     "eur": 2.28
+    },
+    "beerShop": {
+     "eur": 1.72
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "MLA": {
+   "url": "https://livingcost.org/cost/malta/valletta",
+   "items": {
+    "mealCheap": {
+     "eur": 17.38
+    },
+    "mealMid2": {
+     "eur": 70.98
+    },
+    "fastFood": {
+     "eur": 11.33
+    },
+    "beerBar": {
+     "eur": 4.52
+    },
+    "cappuccino": {
+     "eur": 2.91
+    },
+    "transit": {
+     "eur": 2.58
+    },
+    "beerShop": {
+     "eur": 2.09
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "MRS": {
+   "url": "https://livingcost.org/cost/france/pac/marseille",
+   "items": {
+    "mealCheap": {
+     "eur": 16.66
+    },
+    "mealMid2": {
+     "eur": 65.3
+    },
+    "fastFood": {
+     "eur": 11.57
+    },
+    "beerBar": {
+     "eur": 5.88
+    },
+    "cappuccino": {
+     "eur": 3.66
+    },
+    "transit": {
+     "eur": 1.87
+    },
+    "beerShop": {
+     "eur": 3.09
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "MUC": {
+   "url": "https://livingcost.org/cost/germany/by/munich",
+   "items": {
+    "mealCheap": {
+     "eur": 17.12
+    },
+    "mealMid2": {
+     "eur": 70.51
+    },
+    "fastFood": {
+     "eur": 12.67
+    },
+    "beerBar": {
+     "eur": 4.85
+    },
+    "cappuccino": {
+     "eur": 4.24
+    },
+    "transit": {
+     "eur": 4.25
+    },
+    "beerShop": {
+     "eur": 1.2
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "NAP": {
+   "url": "https://livingcost.org/cost/italy/cm/naples",
+   "items": {
+    "mealCheap": {
+     "eur": 13.59
+    },
+    "mealMid2": {
+     "eur": 56.86
+    },
+    "fastFood": {
+     "eur": 10.15
+    },
+    "beerBar": {
+     "eur": 5.18
+    },
+    "cappuccino": {
+     "eur": 2.04
+    },
+    "transit": {
+     "eur": 1.56
+    },
+    "beerShop": {
+     "eur": 2.03
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "NCE": {
+   "url": "https://livingcost.org/cost/france/pac/nice",
+   "items": {
+    "mealCheap": {
+     "eur": 18.96
+    },
+    "mealMid2": {
+     "eur": 68.29
+    },
+    "fastFood": {
+     "eur": 12.35
+    },
+    "beerBar": {
+     "eur": 6.79
+    },
+    "cappuccino": {
+     "eur": 3.39
+    },
+    "transit": {
+     "eur": 1.77
+    },
+    "beerShop": {
+     "eur": 2.76
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "NUE": {
+   "url": "https://livingcost.org/cost/germany/by/nuremberg",
+   "items": {
+    "mealCheap": {
+     "eur": 15.62
+    },
+    "mealMid2": {
+     "eur": 75.0
+    },
+    "fastFood": {
+     "eur": 12.02
+    },
+    "beerBar": {
+     "eur": 4.68
+    },
+    "cappuccino": {
+     "eur": 3.87
+    },
+    "transit": {
+     "eur": 3.9
+    },
+    "beerShop": {
+     "eur": 1.04
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "OPO": {
+   "url": "https://livingcost.org/cost/portugal/porto",
+   "items": {
+    "mealCheap": {
+     "eur": 11.86
+    },
+    "mealMid2": {
+     "eur": 44.32
+    },
+    "fastFood": {
+     "eur": 8.42
+    },
+    "beerBar": {
+     "eur": 2.78
+    },
+    "cappuccino": {
+     "eur": 2.52
+    },
+    "transit": {
+     "eur": 1.62
+    },
+    "beerShop": {
+     "eur": 1.21
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "PAR": {
+   "url": "https://livingcost.org/cost/france/idf/paris",
+   "items": {
+    "mealCheap": {
+     "eur": 16.01
+    },
+    "mealMid2": {
+     "eur": 62.21
+    },
+    "fastFood": {
+     "eur": 11.9
+    },
+    "beerBar": {
+     "eur": 7.42
+    },
+    "cappuccino": {
+     "eur": 5.22
+    },
+    "transit": {
+     "eur": 2.6
+    },
+    "beerShop": {
+     "eur": 2.47
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "PMI": {
+   "url": "https://livingcost.org/cost/spain/palma-de-mallorca",
+   "items": {
+    "mealCheap": {
+     "eur": 16.63
+    },
+    "mealMid2": {
+     "eur": 53.56
+    },
+    "fastFood": {
+     "eur": 12.35
+    },
+    "beerBar": {
+     "eur": 4.32
+    },
+    "cappuccino": {
+     "eur": 3.24
+    },
+    "transit": {
+     "eur": 2.07
+    },
+    "beerShop": {
+     "eur": 1.2
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "PMO": {
+   "url": "https://livingcost.org/cost/italy/si/palermo",
+   "items": {
+    "mealCheap": {
+     "eur": 10.99
+    },
+    "mealMid2": {
+     "eur": 37.77
+    },
+    "fastFood": {
+     "eur": 9.77
+    },
+    "beerBar": {
+     "eur": 4.27
+    },
+    "cappuccino": {
+     "eur": 1.86
+    },
+    "transit": {
+     "eur": 1.45
+    },
+    "beerShop": {
+     "eur": 1.51
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "POZ": {
+   "url": "https://livingcost.org/cost/poland/poznan",
+   "items": {
+    "mealCheap": {
+     "eur": 10.92
+    },
+    "mealMid2": {
+     "eur": 46.93
+    },
+    "fastFood": {
+     "eur": 8.33
+    },
+    "beerBar": {
+     "eur": 2.93
+    },
+    "cappuccino": {
+     "eur": 3.19
+    },
+    "transit": {
+     "eur": 1.22
+    },
+    "beerShop": {
+     "eur": 1.09
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "PRG": {
+   "url": "https://livingcost.org/cost/czech-republic/prague",
+   "items": {
+    "mealCheap": {
+     "eur": 9.49
+    },
+    "mealMid2": {
+     "eur": 42.88
+    },
+    "fastFood": {
+     "eur": 9.56
+    },
+    "beerBar": {
+     "eur": 2.69
+    },
+    "cappuccino": {
+     "eur": 3.45
+    },
+    "transit": {
+     "eur": 1.67
+    },
+    "beerShop": {
+     "eur": 1.1
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "RAK": {
+   "url": "https://livingcost.org/cost/morocco/marrakesh",
+   "items": {
+    "mealCheap": {
+     "eur": 3.64
+    },
+    "mealMid2": {
+     "eur": 29.11
+    },
+    "fastFood": {
+     "eur": 6.22
+    },
+    "beerBar": {
+     "eur": 5.78
+    },
+    "cappuccino": {
+     "eur": 2.05
+    },
+    "transit": {
+     "eur": 0.38
+    },
+    "beerShop": {
+     "eur": 2.14
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "REK": {
+   "url": "https://livingcost.org/cost/iceland/reykjavik",
+   "items": {
+    "mealCheap": {
+     "eur": 25.27
+    },
+    "mealMid2": {
+     "eur": 87.32
+    },
+    "fastFood": {
+     "eur": 17.84
+    },
+    "beerBar": {
+     "eur": 11.92
+    },
+    "cappuccino": {
+     "eur": 5.8
+    },
+    "transit": {
+     "eur": 4.8
+    },
+    "beerShop": {
+     "eur": 3.32
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "RIX": {
+   "url": "https://livingcost.org/cost/latvia/riga",
+   "items": {
+    "mealCheap": {
+     "eur": 12.33
+    },
+    "mealMid2": {
+     "eur": 49.93
+    },
+    "fastFood": {
+     "eur": 8.17
+    },
+    "beerBar": {
+     "eur": 5.18
+    },
+    "cappuccino": {
+     "eur": 3.49
+    },
+    "transit": {
+     "eur": 1.56
+    },
+    "beerShop": {
+     "eur": 1.74
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "ROM": {
+   "url": "https://livingcost.org/cost/italy/lz/rome",
+   "items": {
+    "mealCheap": {
+     "eur": 14.14
+    },
+    "mealMid2": {
+     "eur": 56.6
+    },
+    "fastFood": {
+     "eur": 10.79
+    },
+    "beerBar": {
+     "eur": 5.53
+    },
+    "cappuccino": {
+     "eur": 2.03
+    },
+    "transit": {
+     "eur": 1.55
+    },
+    "beerShop": {
+     "eur": 1.46
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "RVN": {
+   "url": "https://livingcost.org/cost/finland/rovaniemi",
+   "items": {
+    "mealCheap": {
+     "eur": 13.92
+    },
+    "mealMid2": {
+     "eur": 82.19
+    },
+    "fastFood": {
+     "eur": 10.94
+    },
+    "beerBar": {
+     "eur": 7.16
+    },
+    "cappuccino": {
+     "eur": 4.35
+    },
+    "transit": {
+     "eur": 3.37
+    },
+    "beerShop": {
+     "eur": 3.09
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "SEL": {
+   "url": "https://livingcost.org/cost/south-korea/seoul",
+   "items": {
+    "mealCheap": {
+     "eur": 6.36
+    },
+    "mealMid2": {
+     "eur": 40.52
+    },
+    "fastFood": {
+     "eur": 5.33
+    },
+    "beerBar": {
+     "eur": 3.0
+    },
+    "cappuccino": {
+     "eur": 3.1
+    },
+    "transit": {
+     "eur": 0.9
+    },
+    "beerShop": {
+     "eur": 1.66
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "SGN": {
+   "url": "https://livingcost.org/cost/vietnam/ho-chi-minh",
+   "items": {
+    "mealCheap": {
+     "eur": 1.87
+    },
+    "mealMid2": {
+     "eur": 16.97
+    },
+    "fastFood": {
+     "eur": 4.26
+    },
+    "beerBar": {
+     "eur": 1.02
+    },
+    "cappuccino": {
+     "eur": 1.65
+    },
+    "transit": {
+     "eur": 0.24
+    },
+    "beerShop": {
+     "eur": 0.82
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "SIN": {
+   "url": "https://livingcost.org/cost/singapore/singapore",
+   "items": {
+    "mealCheap": {
+     "eur": 9.4
+    },
+    "mealMid2": {
+     "eur": 48.79
+    },
+    "fastFood": {
+     "eur": 6.94
+    },
+    "beerBar": {
+     "eur": 7.36
+    },
+    "cappuccino": {
+     "eur": 4.63
+    },
+    "transit": {
+     "eur": 1.4
+    },
+    "beerShop": {
+     "eur": 4.07
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "SJJ": {
+   "url": "https://livingcost.org/cost/bosnia-and-herzegovina/sarajevo",
+   "items": {
+    "mealCheap": {
+     "eur": 7.92
+    },
+    "mealMid2": {
+     "eur": 28.73
+    },
+    "fastFood": {
+     "eur": 7.28
+    },
+    "beerBar": {
+     "eur": 2.48
+    },
+    "cappuccino": {
+     "eur": 2.0
+    },
+    "transit": {
+     "eur": 1.15
+    },
+    "beerShop": {
+     "eur": 0.85
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "SKG": {
+   "url": "https://livingcost.org/cost/greece/thessaloniki",
+   "items": {
+    "mealCheap": {
+     "eur": 13.47
+    },
+    "mealMid2": {
+     "eur": 49.83
+    },
+    "fastFood": {
+     "eur": 9.63
+    },
+    "beerBar": {
+     "eur": 5.02
+    },
+    "cappuccino": {
+     "eur": 4.21
+    },
+    "transit": {
+     "eur": 0.62
+    },
+    "beerShop": {
+     "eur": 1.81
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "SKP": {
+   "url": "https://livingcost.org/cost/north-macedonia/skopje",
+   "items": {
+    "mealCheap": {
+     "eur": 7.75
+    },
+    "mealMid2": {
+     "eur": 27.32
+    },
+    "fastFood": {
+     "eur": 5.97
+    },
+    "beerBar": {
+     "eur": 2.38
+    },
+    "cappuccino": {
+     "eur": 1.94
+    },
+    "transit": {
+     "eur": 0.68
+    },
+    "beerShop": {
+     "eur": 0.98
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "SOF": {
+   "url": "https://livingcost.org/cost/bulgaria/sofia",
+   "items": {
+    "mealCheap": {
+     "eur": 12.32
+    },
+    "mealMid2": {
+     "eur": 51.4
+    },
+    "fastFood": {
+     "eur": 10.29
+    },
+    "beerBar": {
+     "eur": 3.17
+    },
+    "cappuccino": {
+     "eur": 2.98
+    },
+    "transit": {
+     "eur": 0.82
+    },
+    "beerShop": {
+     "eur": 1.04
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "SPU": {
+   "url": "https://livingcost.org/cost/croatia/split",
+   "items": {
+    "mealCheap": {
+     "eur": 15.37
+    },
+    "mealMid2": {
+     "eur": 67.87
+    },
+    "fastFood": {
+     "eur": 10.42
+    },
+    "beerBar": {
+     "eur": 4.35
+    },
+    "cappuccino": {
+     "eur": 2.53
+    },
+    "transit": {
+     "eur": 1.12
+    },
+    "beerShop": {
+     "eur": 1.56
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "STO": {
+   "url": "https://livingcost.org/cost/sweden/stockholm",
+   "items": {
+    "mealCheap": {
+     "eur": 14.69
+    },
+    "mealMid2": {
+     "eur": 78.85
+    },
+    "fastFood": {
+     "eur": 10.41
+    },
+    "beerBar": {
+     "eur": 6.85
+    },
+    "cappuccino": {
+     "eur": 4.85
+    },
+    "transit": {
+     "eur": 4.02
+    },
+    "beerShop": {
+     "eur": 2.07
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "SVQ": {
+   "url": "https://livingcost.org/cost/spain/seville",
+   "items": {
+    "mealCheap": {
+     "eur": 13.33
+    },
+    "mealMid2": {
+     "eur": 47.38
+    },
+    "fastFood": {
+     "eur": 8.86
+    },
+    "beerBar": {
+     "eur": 3.1
+    },
+    "cappuccino": {
+     "eur": 2.28
+    },
+    "transit": {
+     "eur": 1.45
+    },
+    "beerShop": {
+     "eur": 1.12
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "SXB": {
+   "url": "https://livingcost.org/cost/france/ges/strasbourg",
+   "items": {
+    "mealCheap": {
+     "eur": 14.91
+    },
+    "mealMid2": {
+     "eur": 56.7
+    },
+    "fastFood": {
+     "eur": 11.79
+    },
+    "beerBar": {
+     "eur": 5.93
+    },
+    "cappuccino": {
+     "eur": 3.84
+    },
+    "transit": {
+     "eur": 1.95
+    },
+    "beerShop": {
+     "eur": 1.78
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "SZG": {
+   "url": "https://livingcost.org/cost/austria/salzburg",
+   "items": {
+    "mealCheap": {
+     "eur": 15.01
+    },
+    "mealMid2": {
+     "eur": 63.45
+    },
+    "fastFood": {
+     "eur": 11.76
+    },
+    "beerBar": {
+     "eur": 4.9
+    },
+    "cappuccino": {
+     "eur": 4.45
+    },
+    "transit": {
+     "eur": 2.49
+    },
+    "beerShop": {
+     "eur": 1.22
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "TBS": {
+   "url": "https://livingcost.org/cost/georgia/tbilisi",
+   "items": {
+    "mealCheap": {
+     "eur": 9.36
+    },
+    "mealMid2": {
+     "eur": 31.05
+    },
+    "fastFood": {
+     "eur": 8.28
+    },
+    "beerBar": {
+     "eur": 2.47
+    },
+    "cappuccino": {
+     "eur": 3.02
+    },
+    "transit": {
+     "eur": 0.34
+    },
+    "beerShop": {
+     "eur": 1.45
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "TCI": {
+   "url": "https://livingcost.org/cost/spain/tenerife",
+   "items": {
+    "mealCheap": {
+     "eur": 15.59
+    },
+    "mealMid2": {
+     "eur": 54.93
+    },
+    "fastFood": {
+     "eur": 10.99
+    },
+    "beerBar": {
+     "eur": 2.94
+    },
+    "cappuccino": {
+     "eur": 2.14
+    },
+    "transit": {
+     "eur": 1.29
+    },
+    "beerShop": {
+     "eur": 1.46
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "TIA": {
+   "url": "https://livingcost.org/cost/albania/tirana",
+   "items": {
+    "mealCheap": {
+     "eur": 8.68
+    },
+    "mealMid2": {
+     "eur": 49.18
+    },
+    "fastFood": {
+     "eur": 10.31
+    },
+    "beerBar": {
+     "eur": 2.87
+    },
+    "cappuccino": {
+     "eur": 2.04
+    },
+    "transit": {
+     "eur": 0.44
+    },
+    "beerShop": {
+     "eur": 1.54
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "TLL": {
+   "url": "https://livingcost.org/cost/estonia/tallinn",
+   "items": {
+    "mealCheap": {
+     "eur": 13.12
+    },
+    "mealMid2": {
+     "eur": 71.77
+    },
+    "fastFood": {
+     "eur": 9.81
+    },
+    "beerBar": {
+     "eur": 5.74
+    },
+    "cappuccino": {
+     "eur": 4.12
+    },
+    "transit": {
+     "eur": 2.05
+    },
+    "beerShop": {
+     "eur": 1.79
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "TRN": {
+   "url": "https://livingcost.org/cost/italy/pi/turin",
+   "items": {
+    "mealCheap": {
+     "eur": 18.08
+    },
+    "mealMid2": {
+     "eur": 72.11
+    },
+    "fastFood": {
+     "eur": 12.39
+    },
+    "beerBar": {
+     "eur": 6.25
+    },
+    "cappuccino": {
+     "eur": 1.84
+    },
+    "transit": {
+     "eur": 1.97
+    },
+    "beerShop": {
+     "eur": 1.63
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "TRS": {
+   "url": "https://livingcost.org/cost/italy/fg/trieste",
+   "items": {
+    "mealCheap": {
+     "eur": 18.62
+    },
+    "mealMid2": {
+     "eur": 72.7
+    },
+    "fastFood": {
+     "eur": 12.27
+    },
+    "beerBar": {
+     "eur": 5.7
+    },
+    "cappuccino": {
+     "eur": 1.99
+    },
+    "transit": {
+     "eur": 1.49
+    },
+    "beerShop": {
+     "eur": 1.66
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "TUN": {
+   "url": "https://livingcost.org/cost/tunisia/tunis",
+   "items": {
+    "mealCheap": {
+     "eur": 3.65
+    },
+    "mealMid2": {
+     "eur": 18.22
+    },
+    "fastFood": {
+     "eur": 5.03
+    },
+    "beerBar": {
+     "eur": 1.78
+    },
+    "cappuccino": {
+     "eur": 0.93
+    },
+    "transit": {
+     "eur": 0.35
+    },
+    "beerShop": {
+     "eur": 1.21
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "TYO": {
+   "url": "https://livingcost.org/cost/japan/tokyo",
+   "items": {
+    "mealCheap": {
+     "eur": 6.71
+    },
+    "mealMid2": {
+     "eur": 39.12
+    },
+    "fastFood": {
+     "eur": 4.45
+    },
+    "beerBar": {
+     "eur": 3.31
+    },
+    "cappuccino": {
+     "eur": 3.04
+    },
+    "transit": {
+     "eur": 1.16
+    },
+    "beerShop": {
+     "eur": 1.57
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "VCE": {
+   "url": "https://livingcost.org/cost/italy/ve/venice",
+   "items": {
+    "mealCheap": {
+     "eur": 19.2
+    },
+    "mealMid2": {
+     "eur": 59.27
+    },
+    "fastFood": {
+     "eur": 10.84
+    },
+    "beerBar": {
+     "eur": 5.79
+    },
+    "cappuccino": {
+     "eur": 2.03
+    },
+    "transit": {
+     "eur": 1.55
+    },
+    "beerShop": {
+     "eur": 1.52
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "VIE": {
+   "url": "https://livingcost.org/cost/austria/vienna",
+   "items": {
+    "mealCheap": {
+     "eur": 18.57
+    },
+    "mealMid2": {
+     "eur": 76.74
+    },
+    "fastFood": {
+     "eur": 12.48
+    },
+    "beerBar": {
+     "eur": 5.61
+    },
+    "cappuccino": {
+     "eur": 4.85
+    },
+    "transit": {
+     "eur": 3.1
+    },
+    "beerShop": {
+     "eur": 1.32
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "VLC": {
+   "url": "https://livingcost.org/cost/spain/valencia",
+   "items": {
+    "mealCheap": {
+     "eur": 14.21
+    },
+    "mealMid2": {
+     "eur": 54.86
+    },
+    "fastFood": {
+     "eur": 12.45
+    },
+    "beerBar": {
+     "eur": 3.87
+    },
+    "cappuccino": {
+     "eur": 2.74
+    },
+    "transit": {
+     "eur": 2.04
+    },
+    "beerShop": {
+     "eur": 1.17
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "VNO": {
+   "url": "https://livingcost.org/cost/lithuania/vilnius",
+   "items": {
+    "mealCheap": {
+     "eur": 11.52
+    },
+    "mealMid2": {
+     "eur": 56.78
+    },
+    "fastFood": {
+     "eur": 7.92
+    },
+    "beerBar": {
+     "eur": 4.85
+    },
+    "cappuccino": {
+     "eur": 3.57
+    },
+    "transit": {
+     "eur": 1.04
+    },
+    "beerShop": {
+     "eur": 1.59
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "WAW": {
+   "url": "https://livingcost.org/cost/poland/warsaw",
+   "items": {
+    "mealCheap": {
+     "eur": 11.16
+    },
+    "mealMid2": {
+     "eur": 47.41
+    },
+    "fastFood": {
+     "eur": 9.45
+    },
+    "beerBar": {
+     "eur": 4.63
+    },
+    "cappuccino": {
+     "eur": 4.14
+    },
+    "transit": {
+     "eur": 1.08
+    },
+    "beerShop": {
+     "eur": 1.19
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "WRO": {
+   "url": "https://livingcost.org/cost/poland/wroclaw",
+   "items": {
+    "mealCheap": {
+     "eur": 10.16
+    },
+    "mealMid2": {
+     "eur": 41.4
+    },
+    "fastFood": {
+     "eur": 9.19
+    },
+    "beerBar": {
+     "eur": 3.89
+    },
+    "cappuccino": {
+     "eur": 3.86
+    },
+    "transit": {
+     "eur": 1.09
+    },
+    "beerShop": {
+     "eur": 1.14
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "ZAG": {
+   "url": "https://livingcost.org/cost/croatia/zagreb",
+   "items": {
+    "mealCheap": {
+     "eur": 11.73
+    },
+    "mealMid2": {
+     "eur": 51.92
+    },
+    "fastFood": {
+     "eur": 9.08
+    },
+    "beerBar": {
+     "eur": 2.93
+    },
+    "cappuccino": {
+     "eur": 2.15
+    },
+    "transit": {
+     "eur": 0.54
+    },
+    "beerShop": {
+     "eur": 1.54
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "ZRH": {
+   "url": "https://livingcost.org/cost/switzerland/zurich",
+   "items": {
+    "mealCheap": {
+     "eur": 26.92
+    },
+    "mealMid2": {
+     "eur": 70.77
+    },
+    "fastFood": {
+     "eur": 16.47
+    },
+    "beerBar": {
+     "eur": 8.96
+    },
+    "cappuccino": {
+     "eur": 6.71
+    },
+    "transit": {
+     "eur": 5.1
+    },
+    "beerShop": {
+     "eur": 2.55
+    }
+   },
+   "updated": "2026-06-21"
+  },
+  "TRD": {
+   "url": "https://livingcost.org/cost/norway/trondheim",
+   "items": {
+    "mealCheap": {
+     "eur": 18.85
+    },
+    "mealMid2": {
+     "eur": 108.41
+    },
+    "fastFood": {
+     "eur": 14.12
+    },
+    "beerBar": {
+     "eur": 11.67
+    },
+    "cappuccino": {
+     "eur": 5.06
+    },
+    "transit": {
+     "eur": 4.21
+    },
+    "beerShop": {
+     "eur": 3.14
+    }
+   },
+   "updated": "2026-06-21"
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMDcyAkRZMgJEOGoFEgNUUkRyBRIDUklYQAFIAZgBAg",
+ "fetchedAt": "2026-10-11T11:20:30",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 108.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": "Norwegian",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:20",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Riga Airport",
+   "arrTime": "16:05",
+   "arrDate": "2026-12-07",
+   "durationMin": 285,
+   "layovers": [
+    {
+     "min": 140,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 108 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Trondheim Airport, Værnes at 10:20 AM on Monday, December 7 and arrives at Riga Airport at 4:05 PM on Monday, December 7. Total duration 4 hr 45 min.  Layover (1 of 1) is a 2 hr 20 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

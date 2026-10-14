@@ -1,0 +1,160 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTFqBRIDQ1BIcgUSA01BTkABSAGYAQI",
+ "priceUnavailable": 12,
+ "itineraries": [
+  {
+   "price": 42.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "easyJet",
+   "operatedBy": null,
+   "depAirportName": "Copenhagen Airport",
+   "depTime": "21:55",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Manchester Airport",
+   "arrTime": "23:00",
+   "arrDate": "2026-12-11",
+   "durationMin": 125,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 42 euros.This price does not include overhead bin access. Nonstop flight with easyJet. Leaves Copenhagen Airport at 9:55 PM on Friday, December 11 and arrives at Manchester Airport at 11:00 PM on Friday, December 11. Total duration 2 hr 5 min.   Select flight"
+  },
+  {
+   "price": 43.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": null,
+   "depAirportName": "Copenhagen Airport",
+   "depTime": "20:15",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Manchester Airport",
+   "arrTime": "21:20",
+   "arrDate": "2026-12-11",
+   "durationMin": 125,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 43 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Leaves Copenhagen Airport at 8:15 PM on Friday, December 11 and arrives at Manchester Airport at 9:20 PM on Friday, December 11. Total duration 2 hr 5 min.   Select flight"
+  },
+  {
+   "price": 65.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "easyJet",
+   "operatedBy": null,
+   "depAirportName": "Copenhagen Airport",
+   "depTime": "16:25",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Manchester Airport",
+   "arrTime": "17:30",
+   "arrDate": "2026-12-11",
+   "durationMin": 125,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 65 euros.This price does not include overhead bin access. Nonstop flight with easyJet. Leaves Copenhagen Airport at 4:25 PM on Friday, December 11 and arrives at Manchester Airport at 5:30 PM on Friday, December 11. Total duration 2 hr 5 min.   Select flight"
+  },
+  {
+   "price": 75.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": null,
+   "depAirportName": "Copenhagen Airport",
+   "depTime": "11:00",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Manchester Airport",
+   "arrTime": "12:05",
+   "arrDate": "2026-12-11",
+   "durationMin": 125,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 75 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Leaves Copenhagen Airport at 11:00 AM on Friday, December 11 and arrives at Manchester Airport at 12:05 PM on Friday, December 11. Total duration 2 hr 5 min.   Select flight"
+  },
+  {
+   "price": 97.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Copenhagen Airport",
+   "depTime": "19:20",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Manchester Airport",
+   "arrTime": "22:05",
+   "arrDate": "2026-12-11",
+   "durationMin": 225,
+   "layovers": [
+    {
+     "min": 60,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 97 euros. 1 stop flight with KLM. Leaves Copenhagen Airport at 7:20 PM on Friday, December 11 and arrives at Manchester Airport at 10:05 PM on Friday, December 11. Total duration 3 hr 45 min.  Layover (1 of 1) is a 1 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 113.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Copenhagen Airport",
+   "depTime": "12:05",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Manchester Airport",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-11",
+   "durationMin": 330,
+   "layovers": [
+    {
+     "min": 165,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 113 euros. 1 stop flight with KLM. Leaves Copenhagen Airport at 12:05 PM on Friday, December 11 and arrives at Manchester Airport at 4:35 PM on Friday, December 11. Total duration 5 hr 30 min.  Layover (1 of 1) is a 2 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 216.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Copenhagen Airport",
+   "depTime": "17:00",
+   "depDate": "2026-12-11",
+   "arrAirportName": "Manchester Airport",
+   "arrTime": "20:15",
+   "arrDate": "2026-12-11",
+   "durationMin": 255,
+   "layovers": [
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 216 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Copenhagen Airport at 5:00 PM on Friday, December 11 and arrives at Manchester Airport at 8:15 PM on Friday, December 11. Total duration 4 hr 15 min.  Layover (1 of 1) is a 55 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

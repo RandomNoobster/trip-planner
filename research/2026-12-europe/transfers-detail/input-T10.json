@@ -1,0 +1,278 @@
+[
+ {
+  "city": "RAK",
+  "name": "Marrakesh",
+  "country": "Morocco",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Marrakech",
+  "airports": [
+   {
+    "code": "RAK",
+    "name": "Marrakesh Menara Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "AGA",
+  "name": "Agadir",
+  "country": "Morocco",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Agadir",
+  "airports": [
+   {
+    "code": "AGA",
+    "name": "Agadir–Al Massira Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "TUN",
+  "name": "Tunis",
+  "country": "Tunisia",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Tunis",
+  "airports": [
+   {
+    "code": "TUN",
+    "name": "Tunis–Carthage International Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "DXB",
+  "name": "Dubai",
+  "country": "United Arab Emirates",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Dubai",
+  "airports": [
+   {
+    "code": "DXB",
+    "name": "Dubai International Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   },
+   {
+    "code": "DWC",
+    "name": "Al Maktoum International Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "TBS",
+  "name": "Tbilisi",
+  "country": "Georgia",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Tbilisi",
+  "airports": [
+   {
+    "code": "TBS",
+    "name": "Tbilisi International Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "EVN",
+  "name": "Yerevan",
+  "country": "Armenia",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Yerevan",
+  "airports": [
+   {
+    "code": "EVN",
+    "name": "Zvartnots International Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "RVN",
+  "name": "Rovaniemi",
+  "country": "Finland",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Rovaniemi",
+  "airports": [
+   {
+    "code": "RVN",
+    "name": "Rovaniemi Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "SZG",
+  "name": "Salzburg",
+  "country": "Austria",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Salzburg",
+  "airports": [
+   {
+    "code": "SZG",
+    "name": "Salzburg Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   }
+  ],
+  "groundArrivals": [
+   "train"
+  ]
+ },
+ {
+  "city": "SXB",
+  "name": "Strasbourg",
+  "country": "France",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Strasbourg",
+  "airports": [
+   {
+    "code": "SXB",
+    "name": "Strasbourg Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   }
+  ],
+  "groundArrivals": [
+   "train"
+  ]
+ },
+ {
+  "city": "BOD",
+  "name": "Bordeaux",
+  "country": "France",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Bordeaux",
+  "airports": [
+   {
+    "code": "BOD",
+    "name": "Bordeaux–Mérignac Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": null,
+     "from": null
+    }
+   }
+  ],
+  "groundArrivals": [
+   "train"
+  ]
+ }
+]

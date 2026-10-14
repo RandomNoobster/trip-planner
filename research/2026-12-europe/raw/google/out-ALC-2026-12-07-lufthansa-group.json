@@ -1,0 +1,45 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GjYSCjIwMjYtMTItMDcyAkxIMgJMWDICT1MyAlNOMgJFVzICNFkyAldGagUSA1RSRHIFEgNBTENAAUgBmAEC",
+ "fetchedAt": "2026-10-11T11:25:20",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 628.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Wideroe, Lufthansa and Lufthansa City Airlines",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "arrTime": "10:55",
+   "arrDate": "2026-12-09",
+   "durationMin": 2985,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    },
+    {
+     "min": 1035,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    },
+    {
+     "min": 1385,
+     "overnight": false,
+     "airport": "Munich International Airport",
+     "city": "Munich"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 628 euros. 3 stops flight with Wideroe, Lufthansa and Lufthansa City Airlines. Leaves Trondheim Airport, Værnes at 9:10 AM on Monday, December 7 and arrives at Alicante-Elche Miguel Hernández Airport at 10:55 AM on Wednesday, December 9. Total duration 49 hr 45 min.  Layover (1 of 3) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 17 hr 15 min layover at Frankfurt Airport in Frankfurt am Main. Layover (3 of 3) is a 23 hr 5 min layover at Munich International Airport in Munich. Select flight"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDhqBRIDVFJEcgUSA0JFUhoaEgoyMDI2LTEyLTE2agUSA0JFUnIFEgNUUkRAAUgBmAEB",
+ "fetchedAt": "2026-10-11T11:21:19",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 292.0,
+   "roundTripTotal": true,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:25",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Berlin Brandenburg Airport",
+   "arrTime": "13:15",
+   "arrDate": "2026-12-08",
+   "durationMin": 230,
+   "layovers": [
+    {
+     "min": 80,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 292 euros round trip total.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 9:25 AM on Tuesday, December 8 and arrives at Berlin Brandenburg Airport at 1:15 PM on Tuesday, December 8. Total duration 3 hr 50 min.  Layover (1 of 1) is a 1 hr 20 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

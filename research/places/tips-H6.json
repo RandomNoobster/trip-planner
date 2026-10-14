@@ -1,0 +1,105 @@
+{
+  "agent": "H6",
+  "cities": {
+    "LIS": {
+      "localBeer": ["Sagres"],
+      "cheapEat": {
+        "name": "Portuguese main, Restaurante Santa Rita",
+        "priceEUR": 9,
+        "note": "Busy shared-table spot; mains €5–9 (May 2017 price)."
+      },
+      "saveTip": "At Café A Brasileira, standing at the counter is the cheapest option; the terrace costs the most.",
+      "sources": ["https://en.wikivoyage.org/wiki/Lisbon", "https://en.wikipedia.org/wiki/Central_de_Cervejas", "https://en.wikipedia.org/wiki/Portal:Beer/Selected_beer"]
+    },
+    "OPO": {
+      "localBeer": ["Super Bock"],
+      "cheapEat": {
+        "name": "Pratos do dia (today's menu)",
+        "priceEUR": 10,
+        "note": "Set menu with soup, main, dessert, house wine and coffee; €7–10 a person."
+      },
+      "saveTip": "Prioridade Bar in Ribeira is one of the cheapest places for a large beer, at only a few euros.",
+      "sources": ["https://en.wikivoyage.org/wiki/Porto", "https://en.wikipedia.org/wiki/Super_Bock", "https://en.wikipedia.org/wiki/Portal:Beer/Selected_beer"]
+    },
+    "FAO": {
+      "localBeer": null,
+      "cheapEat": {
+        "name": "Menu of the day, Restaurante Travessa",
+        "priceEUR": 11,
+        "note": "Generous servings and a good variety; €11 menu of the day (2024 listing)."
+      },
+      "saveTip": "Buy picnic food at the Faro Municipal Market, where the underground supermarket opens daily 08:00–20:30.",
+      "sources": ["https://en.wikivoyage.org/wiki/Faro"]
+    },
+    "FNC": {
+      "localBeer": ["Coral"],
+      "cheapEat": {
+        "name": "Picado (beef steak with chips)",
+        "priceEUR": 10,
+        "note": "Restaurante Beer Garden; the €10 normal size is enough for two."
+      },
+      "saveTip": "Share one normal-size Picado between two people; the listing says €10 is enough for two.",
+      "sources": ["https://en.wikivoyage.org/wiki/Funchal", "https://en.wikipedia.org/wiki/Madeira_Brewery"]
+    },
+    "ROM": {
+      "localBeer": ["Peroni", "Nastro Azzurro"],
+      "cheapEat": {
+        "name": "Pizza al taglio (by the slice)",
+        "priceEUR": 2,
+        "note": "About €2 a slice, per the Wikivoyage Rome Eat section."
+      },
+      "saveTip": "Buy pizza al taglio by the slice (about €2) rather than a lunch set menu, which costs €15–20.",
+      "sources": ["https://en.wikivoyage.org/wiki/Rome", "https://en.wikipedia.org/wiki/Peroni_Brewery"]
+    },
+    "MIL": {
+      "localBeer": ["Birrificio Lambrate"],
+      "cheapEat": {
+        "name": "Dumplings at La Ravioleria Sarpi",
+        "priceEUR": 3,
+        "note": "Chinese dumplings, takeaway only; 4 for €3 (2018 listing price)."
+      },
+      "saveTip": "Go to Bar Magenta for aperitivo around 19:00, when free appetizers are given out.",
+      "sources": ["https://en.wikivoyage.org/wiki/Milan"]
+    },
+    "VCE": {
+      "localBeer": null,
+      "cheapEat": {
+        "name": "Cicchetti (Venetian bar snacks)",
+        "priceEUR": 3,
+        "note": "Pile a plate at Cantine del Vino già Schiavi; listed at €2–3 (2024)."
+      },
+      "saveTip": "At Bacareto da Lele a small glass of wine costs one euro; queuing at the bar is normal.",
+      "sources": ["https://en.wikivoyage.org/wiki/Venice"]
+    },
+    "NAP": {
+      "localBeer": null,
+      "cheapEat": {
+        "name": "Pizza margherita, L'Antica Pizzeria da Michele",
+        "priceEUR": 7,
+        "note": "Pizza and soft drink together, €6–7; queues are usual."
+      },
+      "saveTip": "Pizza and soft drink at L'Antica Pizzeria da Michele cost €6–7, under the €15 cheap-meal price.",
+      "sources": ["https://en.wikivoyage.org/wiki/Naples"]
+    },
+    "BLQ": {
+      "localBeer": null,
+      "cheapEat": {
+        "name": "Tigellini (tigella bread)",
+        "priceEUR": 1.9,
+        "note": "Each costs €1.70–1.90 (Wikivoyage Bologna Eat section)."
+      },
+      "saveTip": "Eat lunch at Tamburini, a reasonably priced self-service, or at Mercato di Mezzo, which has good prices.",
+      "sources": ["https://en.wikivoyage.org/wiki/Bologna"]
+    },
+    "FLR": {
+      "localBeer": null,
+      "cheapEat": {
+        "name": "Panino at I fratellini",
+        "priceEUR": 5,
+        "note": "Panini €5 (March 2024 price); patrons eat on the sidewalk."
+      },
+      "saveTip": "At I fratellini you can eat on the sidewalk with your wine, which was listed from €2 (2018 price).",
+      "sources": ["https://en.wikivoyage.org/wiki/Florence"]
+    }
+  }
+}

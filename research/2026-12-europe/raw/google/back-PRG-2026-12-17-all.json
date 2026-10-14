@@ -1,0 +1,181 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDUFJHcgUSA1RSREABSAGYAQI",
+ "fetchedAt": "2026-10-11T11:22:36",
+ "priceUnavailable": 6,
+ "itineraries": [
+  {
+   "price": 147.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Letiště Václava Havla Praha",
+   "depTime": "11:35",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-17",
+   "durationMin": 300,
+   "layovers": [
+    {
+     "min": 70,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 147 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Letiště Václava Havla Praha at 11:35 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 4:35 PM on Thursday, December 17. Total duration 5 hr.  Layover (1 of 1) is a 1 hr 10 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 161.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Letiště Václava Havla Praha",
+   "depTime": "14:30",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "18:45",
+   "arrDate": "2026-12-17",
+   "durationMin": 255,
+   "layovers": [
+    {
+     "min": 80,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 161 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Letiště Václava Havla Praha at 2:30 PM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 6:45 PM on Thursday, December 17. Total duration 4 hr 15 min.  Layover (1 of 1) is a 1 hr 20 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 166.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Letiště Václava Havla Praha",
+   "depTime": "18:30",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-17",
+   "durationMin": 280,
+   "layovers": [
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 166 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Letiště Václava Havla Praha at 6:30 PM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 11:10 PM on Thursday, December 17. Total duration 4 hr 40 min.  Layover (1 of 1) is a 55 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 207.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Letiště Václava Havla Praha",
+   "depTime": "07:05",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-17",
+   "durationMin": 465,
+   "layovers": [
+    {
+     "min": 115,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 207 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Letiště Václava Havla Praha at 7:05 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 2:50 PM on Thursday, December 17. Total duration 7 hr 45 min.  Layover (1 of 2) is a 1 hr 55 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+  },
+  {
+   "price": 340.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air France and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Letiště Václava Havla Praha",
+   "depTime": "06:30",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-17",
+   "durationMin": 500,
+   "layovers": [
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
+    },
+    {
+     "min": 120,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 340 euros. 2 stops flight with Air France and Wideroe. Leaves Letiště Václava Havla Praha at 6:30 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 2:50 PM on Thursday, December 17. Total duration 8 hr 20 min.  Layover (1 of 2) is a 55 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 2 hr layover at Bergen Airport in Bergen. Select flight"
+  },
+  {
+   "price": 1219.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Austrian and Scandinavian Airlines",
+   "operatedBy": "Air Dolomiti, Sas Link",
+   "depAirportName": "Letiště Václava Havla Praha",
+   "depTime": "07:25",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:30",
+   "arrDate": "2026-12-17",
+   "durationMin": 425,
+   "layovers": [
+    {
+     "min": 115,
+     "overnight": false,
+     "airport": "Vienna International Airport",
+     "city": "Vienna"
+    },
+    {
+     "min": 50,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 1219 euros. 2 stops flight with Austrian and Scandinavian Airlines. Operated by Air Dolomiti, Sas Link. Leaves Letiště Václava Havla Praha at 7:25 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 2:30 PM on Thursday, December 17. Total duration 7 hr 5 min.  Layover (1 of 2) is a 1 hr 55 min layover at Vienna International Airport in Vienna. Layover (2 of 2) is a 50 min layover at Copenhagen Airport in Copenhagen. Select flight"
+  }
+ ]
+}

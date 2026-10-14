@@ -1,0 +1,92 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDS1JLcgUSA09TTEABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 24.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "John Paul II Kraków Balice International",
+   "depTime": "12:45",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Oslo lufthavn",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-17",
+   "durationMin": 125,
+   "layovers": [],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 29.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Wizz Air",
+   "operatedBy": null,
+   "depAirportName": "John Paul II Kraków Balice International",
+   "depTime": "12:55",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Oslo lufthavn",
+   "arrTime": "15:15",
+   "arrDate": "2026-12-17",
+   "durationMin": 140,
+   "layovers": [],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 80.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "John Paul II Kraków Balice International",
+   "depTime": "05:35",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Oslo lufthavn",
+   "arrTime": "09:50",
+   "arrDate": "2026-12-17",
+   "durationMin": 255,
+   "layovers": [
+    {
+     "min": 65,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 80.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "John Paul II Kraków Balice International",
+   "depTime": "14:00",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Oslo lufthavn",
+   "arrTime": "22:40",
+   "arrDate": "2026-12-17",
+   "durationMin": 520,
+   "layovers": [
+    {
+     "min": 295,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

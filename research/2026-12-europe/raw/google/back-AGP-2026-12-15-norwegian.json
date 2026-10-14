@@ -1,0 +1,33 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMTUyAkRZMgJEOGoFEgNBR1ByBRIDVFJEQAFIAZgBAg",
+ "fetchedAt": "2026-10-11T11:25:03",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 149.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": "Norwegian",
+   "depAirportName": "Málaga-Costa del Sol Airport",
+   "depTime": "12:00",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "18:45",
+   "arrDate": "2026-12-15",
+   "durationMin": 405,
+   "layovers": [
+    {
+     "min": 100,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 149 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Málaga-Costa del Sol Airport at 12:00 PM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 6:45 PM on Tuesday, December 15. Total duration 6 hr 45 min.  Layover (1 of 1) is a 1 hr 40 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

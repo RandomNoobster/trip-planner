@@ -1,0 +1,85 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDRkFPcgUSA1RSREABSAGYAQI",
+ "fetchedAt": "2026-10-11T12:28:21",
+ "priceUnavailable": 0,
+ "via": "rpc",
+ "itineraries": [
+  {
+   "price": 87.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Transavia and KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "FAO",
+   "depAirportName": "Faro International Airport",
+   "depTime": "14:40",
+   "depDate": "2026-12-13",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-13",
+   "durationMin": 450,
+   "layovers": [
+    {
+     "min": 130,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "HV5358",
+    "KL1155"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 451.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depCode": "FAO",
+   "depAirportName": "Faro International Airport",
+   "depTime": "13:25",
+   "depDate": "2026-12-13",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-14",
+   "durationMin": 1465,
+   "layovers": [
+    {
+     "min": 210,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    },
+    {
+     "min": 885,
+     "overnight": true,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "LH1161",
+    "LH876",
+    "WF1311"
+   ],
+   "via": "rpc"
+  }
+ ]
+}

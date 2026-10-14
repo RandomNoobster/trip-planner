@@ -1,0 +1,45 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMDcyAkFZMgJXRmoFEgNUUkRyBRIDUk9NQAFIAZgBAg",
+ "fetchedAt": "2026-10-11T11:26:23",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 299.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Wideroe and Finnair",
+   "operatedBy": "Nordic Reg for Finnair, Nordic Reg for Finnair",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:00",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Leonardo da Vinci International Airport",
+   "arrTime": "17:55",
+   "arrDate": "2026-12-07",
+   "durationMin": 715,
+   "layovers": [
+    {
+     "min": 195,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    },
+    {
+     "min": 25,
+     "overnight": false,
+     "airport": "Stockholm Arlanda Airport",
+     "city": "Stockholm"
+    },
+    {
+     "min": 35,
+     "overnight": false,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 299 euros. 3 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 6:00 AM on Monday, December 7 and arrives at Leonardo da Vinci International Airport at 5:55 PM on Monday, December 7. Total duration 11 hr 55 min.  Layover (1 of 3) is a 3 hr 15 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 35 min layover at Helsinki Airport in Helsinki. Select flight"
+  }
+ ]
+}

@@ -1,0 +1,395 @@
+[
+ {
+  "city": "HEL",
+  "name": "Helsinki",
+  "country": "Finland",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Helsinki",
+  "airports": [
+   {
+    "code": "HEL",
+    "name": "Helsinki-Vantaa Airport",
+    "known": {
+     "public": {
+      "mode": "train",
+      "to": "Helsinki city centre (Central station)",
+      "minutes": 30,
+      "fareEUR": 4.5,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": 37.9,
+      "minutes": null,
+      "basis": "Taksi Helsinki fixed fare to central postcodes 00100-00180 and 00220 for 1-4 passengers (page undated). Menevä listing 42 EUR; a 2023 guide 35 EUR. Not an official tariff.",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus",
+   "train",
+   "train and bus"
+  ]
+ },
+ {
+  "city": "WAW",
+  "name": "Warsaw",
+  "country": "Poland",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Warsaw",
+  "airports": [
+   {
+    "code": "WAW",
+    "name": "Warsaw Chopin Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus",
+   "train",
+   "train and bus"
+  ]
+ },
+ {
+  "city": "CGN",
+  "name": "Cologne",
+  "country": "Germany",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Cologne",
+  "airports": [
+   {
+    "code": "CGN",
+    "name": "Cologne Bonn Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "VIE",
+  "name": "Vienna",
+  "country": "Austria",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Vienna",
+  "airports": [
+   {
+    "code": "BTS",
+    "name": "Bratislava Airport (M. R. Štefánik)",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Bratislava Hlavná stanica (main railway station), bus 61",
+      "minutes": 30,
+      "fareEUR": 1.3,
+      "frequency": "about every 15 min on average (bus 61)",
+      "hours": "about 04:40-23:30 for bus 61; night bus N61 about hourly"
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": 17.5,
+      "basis": "drive time only (midpoint of 15-20 min); no taxi fare found",
+      "capacity": 4
+     }
+    }
+   },
+   {
+    "code": "VIE",
+    "name": "Vienna International Airport",
+    "known": {
+     "public": {
+      "mode": "coach",
+      "to": "Bratislava centre (stop not stated)",
+      "minutes": 45,
+      "fareEUR": null,
+      "frequency": "conflicting: hourly (operator) or every 30 min (FAQ)",
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus",
+   "train"
+  ]
+ },
+ {
+  "city": "EDI",
+  "name": "Edinburgh",
+  "country": "United Kingdom",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Edinburgh",
+  "airports": [
+   {
+    "code": "EDI",
+    "name": "Edinburgh Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Waverley Bridge (Airlink 100 terminus, next to Waverley station)",
+      "minutes": 30,
+      "fareEUR": 7.08,
+      "frequency": "every 10 min 04:00-01:00; every 15-20 min 01:15-03:45",
+      "hours": "about 04:00-03:45 next day (first and last departures not stated)"
+     },
+     "taxi": {
+      "fareEUR": 34.21,
+      "minutes": 20,
+      "basis": "metered black-cab estimate per edinburghtourism.org: midpoint of GBP 27-31 weekday daytime range (not a fixed fare); minutes from the airport's own page",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "NCE",
+  "name": "Nice",
+  "country": "France",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Nice",
+  "airports": [
+   {
+    "code": "NCE",
+    "name": "Nice Côte d'Azur Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "SVQ",
+  "name": "Seville",
+  "country": "Spain",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Seville",
+  "airports": [
+   {
+    "code": "SVQ",
+    "name": "Seville Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "FAO",
+  "name": "Faro",
+  "country": "Portugal",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Faro",
+  "airports": [
+   {
+    "code": "FAO",
+    "name": "Faro Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Faro centre (via Faro railway station)",
+      "minutes": 20,
+      "fareEUR": 2.25,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": 11,
+      "minutes": 10,
+      "basis": "airport's typical daytime metered estimate as quoted by an aggregator; not a fixed fare; tariff year not stated; about 13 at nights and weekends",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "BLQ",
+  "name": "Bologna",
+  "country": "Italy",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Bologna",
+  "airports": [
+   {
+    "code": "BLQ",
+    "name": "Bologna Guglielmo Marconi Airport",
+    "known": {
+     "public": {
+      "mode": "train",
+      "to": "Bologna Centrale",
+      "minutes": 7,
+      "fareEUR": 12.8,
+      "frequency": "every 7–15 min",
+      "hours": "05:40–24:00 from airport"
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": "no fixed fare or estimate published on the airport or operator sites; Cotabo and Cat quote on request",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "TRS",
+  "name": "Trieste",
+  "country": "Italy",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Trieste",
+  "airports": [
+   {
+    "code": "TRS",
+    "name": "Trieste Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Trieste bus station (Largo Città di Santos), near Trieste Centrale railway station",
+      "minutes": 56,
+      "fareEUR": 4.05,
+      "frequency": "about every 30 min (TPL FVG airport page)",
+      "hours": "04:40–22:25 (approximate, undated timetable; weekends and holidays sparser)"
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": "no official fixed fare or metered estimate found",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "ZAG",
+  "name": "Zagreb",
+  "country": "Croatia",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Zagreb",
+  "airports": [
+   {
+    "code": "ZAG",
+    "name": "Zagreb Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Kvaternikov trg (ZET line 290 terminus; not the railway station)",
+      "minutes": 50,
+      "fareEUR": 2.65,
+      "frequency": "every 35 min",
+      "hours": "04:20–00:27 (no service before 04:20 or after 00:27; Sundays first run 05:20)"
+     },
+     "taxi": {
+      "fareEUR": 35.0,
+      "minutes": null,
+      "basis": "official maximum fixed fare published by Zagreb Airport for ZAG–Centar (car), valid 10 Sep 2026, Taxi Gorica, includes VAT; the same EUR 35 applies to Glavni kolodvor",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "SKP",
+  "name": "Skopje",
+  "country": "North Macedonia",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Skopje",
+  "airports": [
+   {
+    "code": "SKP",
+    "name": "Skopje International Airport",
+    "known": {
+     "public": {
+      "mode": "shuttle bus",
+      "to": "Central Bus Station (Nikola Karev 20), city centre",
+      "minutes": 35,
+      "fareEUR": 3.24,
+      "frequency": null,
+      "hours": "departures 00:00–23:00 per operator timetable (partly read; runs before 06:00)"
+     },
+     "taxi": {
+      "fareEUR": 24.39,
+      "minutes": null,
+      "basis": "travel-site figure: MKD 1,500 fixed (Transfeero, Airmundo, Welcome Pickups); official airport price list dated 9 Feb 2024 exists but could not be read; MKD 1,220 (Partir, Pegasus) is a lower alternative",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": []
+ }
+]

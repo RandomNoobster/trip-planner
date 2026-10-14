@@ -1,0 +1,89 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTBqBRIDTE9OcgUSA1BPWkABSAGYAQI",
+ "priceUnavailable": 6,
+ "itineraries": [
+  {
+   "price": 30.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": "Ryanair Sun",
+   "depAirportName": "London Stansted Airport",
+   "depTime": "08:55",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Poznań Airport",
+   "arrTime": "11:55",
+   "arrDate": "2026-12-10",
+   "durationMin": 120,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 30 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Operated by Ryanair Sun. Leaves London Stansted Airport at 8:55 AM on Thursday, December 10 and arrives at Poznań Airport at 11:55 AM on Thursday, December 10. Total duration 2 hr.   Carbon emissions estimate: 101 kilograms. Select flight"
+  },
+  {
+   "price": 50.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Wizz Air",
+   "operatedBy": null,
+   "depAirportName": "London Luton Airport",
+   "depTime": "07:45",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Poznań Airport",
+   "arrTime": "10:50",
+   "arrDate": "2026-12-10",
+   "durationMin": 125,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 50 euros.This price does not include overhead bin access. Nonstop flight with Wizz Air. Leaves London Luton Airport at 7:45 AM on Thursday, December 10 and arrives at Poznań Airport at 10:50 AM on Thursday, December 10. Total duration 2 hr 5 min.   Carbon emissions estimate: 89 kilograms. Select flight"
+  },
+  {
+   "price": 52.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": "Ryanair Sun",
+   "depAirportName": "London Stansted Airport",
+   "depTime": "13:25",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Poznań Airport",
+   "arrTime": "16:25",
+   "arrDate": "2026-12-10",
+   "durationMin": 120,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 52 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Operated by Ryanair Sun. Leaves London Stansted Airport at 1:25 PM on Thursday, December 10 and arrives at Poznań Airport at 4:25 PM on Thursday, December 10. Total duration 2 hr.   Carbon emissions estimate: 86 kilograms. Select flight"
+  },
+  {
+   "price": 151.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "Heathrow Airport",
+   "depTime": "18:20",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Poznań Airport",
+   "arrTime": "00:05",
+   "arrDate": "2026-12-11",
+   "durationMin": 285,
+   "layovers": [
+    {
+     "min": 70,
+     "overnight": false,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 151 euros. 1 stop flight with LOT. Leaves Heathrow Airport at 6:20 PM on Thursday, December 10 and arrives at Poznań Airport at 12:05 AM on Friday, December 11. Total duration 4 hr 45 min.  Layover (1 of 1) is a 1 hr 10 min layover at Warsaw Chopin Airport in Warsaw. Carbon emissions estimate: 178 kilograms. Select flight"
+  }
+ ]
+}

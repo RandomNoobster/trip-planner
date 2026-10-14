@@ -1,0 +1,501 @@
+[
+  {
+    "city": "TLL",
+    "airports": [
+      {
+        "code": "TLL",
+        "public": {
+          "line": "Bus 2 (Tallinn city bus; operator not stated on the airport page)",
+          "from": "Tallinn Airport stop on the Tartu highway in front of the car park, a short walk from the terminal",
+          "to": "Tallinn city centre toward Balti jaam (about 20 min to Balti jaam per Wikivoyage; city-side stop not stated)",
+          "minutes": 20,
+          "fareEUR": 2.0,
+          "fareText": "EUR 2 single trip: QR ticket bought online or from a machine, or contactless bank card on the validator (airport.ee)",
+          "frequency": "roughly every 12-15 min per Wikivoyage (not stated on airport.ee)",
+          "hours": null,
+          "url": "https://airport.ee/en/public-transport/"
+        },
+        "alternatives": [
+          {
+            "line": "Tram T2 (Tallinn Airport - Old City Harbour - Kopli)",
+            "to": "Old City Harbour (Vanasadam) and Kopli",
+            "minutes": null,
+            "fareEUR": 2.0,
+            "fareText": "EUR 2 (airport.ee: fares apply to city buses and trams)",
+            "url": "https://airport.ee/en/public-transport/"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 10.0,
+          "minutes": null,
+          "basis": "Wikivoyage estimate 'should cost EUR 7-10' to the Old Town; not an official tariff or fixed fare; fareEUR is the upper figure; airport.ee gives no taxi fare",
+          "url": "https://en.wikivoyage.org/wiki/Tallinn"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Balti jaam (Tallinn Baltic Station), Toompuiestee 37 (trains)",
+        "serves": "trains (Elron local trains, per Wikivoyage)",
+        "toCentre": "Immediately west of the Old Town (Wikivoyage); walking time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": 0,
+        "url": "https://en.wikivoyage.org/wiki/Tallinn"
+      },
+      {
+        "name": "Tallinn Bus Station (Bussijaam), Tartu mnt. (intercity buses)",
+        "serves": "long-distance buses (Lux Express, Ecolines, FlixBus, per Wikivoyage)",
+        "toCentre": "About 20 min to the Old Town on foot (Wikivoyage); buses 2, 17, 23 and trams 2, 4 also serve it",
+        "line": null,
+        "minutes": 20,
+        "fareEUR": 0,
+        "url": "https://en.wikivoyage.org/wiki/Tallinn"
+      }
+    ]
+  },
+  {
+    "city": "WRO",
+    "airports": [
+      {
+        "code": "WRO",
+        "public": {
+          "line": "Bus 106 (city bus; operator not stated on the cited pages)",
+          "from": "Wrocław Airport (Copernicus) bus stop (exact stop not stated)",
+          "to": "Central Wrocław (city-side stop not stated)",
+          "minutes": null,
+          "fareEUR": 1.0,
+          "fareText": "PLN 4.60 adult full fare per the wroclaw.pl fare table (table dated from 1 Sep 2021; 2026 price not confirmed)",
+          "frequency": "roughly every 20 min in daytime (Wikivoyage)",
+          "hours": "Night service runs on bus 206 along the same route (Wikivoyage); daytime hours not stated",
+          "url": "https://www.wroclaw.pl/rodzaje-i-ceny-biletow"
+        },
+        "alternatives": [
+          {
+            "line": "Night bus 206 (replaces 106 at night on the same route, per Wikivoyage)",
+            "to": "Central Wrocław",
+            "minutes": 60,
+            "fareEUR": null,
+            "fareText": "Fare for line 206 not stated; Wikivoyage ties the PLN 4.60 airport single fare to the trip without naming a line",
+            "url": "https://en.wikivoyage.org/wiki/Wroc%C5%82aw"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 13.7,
+          "minutes": null,
+          "basis": "Wikivoyage: 'around 45-60 zł during the daytime' to the centre or train station; not an official tariff; fareEUR is the upper figure (PLN 60)",
+          "url": "https://en.wikivoyage.org/wiki/Wroc%C5%82aw"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Wrocław Główny (trains) and PKS Centrum bus station (FlixBus, RegioJet)",
+        "serves": "trains and long-distance buses",
+        "toCentre": "Main station; PKS Centrum is directly behind it (Wikivoyage); walking time to the centre not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Wroc%C5%82aw"
+      }
+    ]
+  },
+  {
+    "city": "FRA",
+    "airports": [
+      {
+        "code": "FRA",
+        "public": {
+          "line": "S-Bahn S8 or S9 (RMV); regional trains RB58, RE59, RE2 and RE3 also run from the same station",
+          "from": "Frankfurt Airport Regional Station, underground level of Terminal 1 (follow the 'Train stations S T' signs)",
+          "to": "Frankfurt (Main) Hauptbahnhof (12 min is the bahnhof.de figure for the Hbf-to-airport trip; airport-to-Hbf time not stated)",
+          "minutes": 12,
+          "fareEUR": 6.6,
+          "fareText": "EUR 6.60 adult single per Wikivoyage; not verified on RMV or airport pages; a 2026 guide found in search quotes EUR 6.90 (unverified)",
+          "frequency": "about every 10 min per bahnhof.de (Hbf-to-airport direction)",
+          "hours": null,
+          "url": "https://www.frankfurt-airport.com/en/transport-and-parking/to-from-the-airport/travel-by-train.html"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No taxi fare on the airport travel-by-train page or on Wikivoyage (which lists a door-to-door taxi with no fare); not verified",
+          "url": "https://en.wikivoyage.org/wiki/Frankfurt"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Fernbusbahnhof Frankfurt am Main, Stuttgarter Straße 26 (long-distance buses, incl. FlixBus)",
+        "serves": "long-distance buses (Wikivoyage)",
+        "toCentre": "Directly south of Frankfurt Hauptbahnhof; S-Bahn and U-Bahn transfers there (walking time not stated)",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Frankfurt"
+      }
+    ]
+  },
+  {
+    "city": "BUD",
+    "airports": [
+      {
+        "code": "BUD",
+        "public": {
+          "line": "Bus 100E (Airport Express, BKK)",
+          "from": "Budapest Airport (Ferenc Liszt), Airport Express bus stop (exact stop not stated)",
+          "to": "Deák Ferenc tér, Károly körút side in front of Városháza Park (ride 30-40 min per Wikivoyage; upper figure used)",
+          "minutes": 40,
+          "fareEUR": 6.8,
+          "fareText": "HUF 2,500 'Airport shuttle bus single ticket' (bkk.hu, valid for one ride); buy and validate on the bus with a contactless bank card (Budapest Pay&GO, bkk.hu)",
+          "frequency": "every 7-15 min most of the day; every 30 min between midnight and 5 am (Wikivoyage)",
+          "hours": "24 h (Wikivoyage)",
+          "url": "https://bkk.hu/en/tickets-and-passes/prices/"
+        },
+        "alternatives": [
+          {
+            "line": "Bus 200E to Kőbánya-Kispest, then metro M3 to Deák Ferenc tér",
+            "to": "Deák Ferenc tér",
+            "minutes": 45,
+            "fareEUR": 2.7,
+            "fareText": "HUF 1,000 for both legs (Wikivoyage); bkk.hu lists no 200E plus M3 combined fare; M3 runs about 04:30-00:00 and 200E is less frequent late at night (Wikivoyage)",
+            "url": "https://en.wikivoyage.org/wiki/Budapest"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 35.6,
+          "minutes": null,
+          "basis": "Főtaxi metered tariff: 'from Ft13000' inbound to central Budapest per Wikivoyage (meter estimate, not a fixed fare); official rates from 1 Aug 2026 per Wikivoyage: HUF 1,300 base, HUF 521/km, HUF 130/min waiting, HUF 800 airport surcharge",
+          "url": "https://en.wikivoyage.org/wiki/Budapest"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Budapest Keleti station (Baross tér), trains",
+        "serves": "trains (Wikivoyage)",
+        "toCentre": "Metro M2 or M4 from Keleti (Wikivoyage); walking time not stated",
+        "line": "Metro M2 (Keleti; M4 also stops there, per Wikivoyage)",
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Budapest"
+      },
+      {
+        "name": "Budapest Nyugati station (Nyugati tér), trains",
+        "serves": "trains (Wikivoyage)",
+        "toCentre": "Metro M3 at Nyugati (Wikivoyage); walking time not stated",
+        "line": "Metro M3 (Nyugati)",
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Budapest"
+      },
+      {
+        "name": "Népliget bus station (Üllői út 131), intercity buses",
+        "serves": "intercity buses (Volánbusz station per Wikivoyage)",
+        "toCentre": "Metro M3 at Népliget (Wikivoyage); walking time not stated",
+        "line": "Metro M3 (Népliget)",
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Budapest"
+      }
+    ]
+  },
+  {
+    "city": "GLA",
+    "airports": [
+      {
+        "code": "GLA",
+        "public": {
+          "line": "Glasgow Airport Express bus (First Glasgow service 500, to Buchanan Bus Station)",
+          "from": "Glasgow Airport bus stop (exact stop not stated)",
+          "to": "Buchanan Bus Station (city centre; 15 min from the terminal per Wikivoyage)",
+          "minutes": 15,
+          "fareEUR": 11.8,
+          "fareText": "GBP 10 single adult per Wikivoyage (EUR 11.8); other sources quote GBP 8.50 to 11 (conflicting; First Bus pages not readable); buy in the First Bus app or pay the driver",
+          "frequency": "every 10-15 min (Wikivoyage)",
+          "hours": "08:00-23:00, then hourly overnight (Wikivoyage); not confirmed on an operator page",
+          "url": "https://en.wikivoyage.org/wiki/Glasgow"
+        },
+        "alternatives": [
+          {
+            "line": "Ember E5 or E16 (electric request bus; pre-booking required)",
+            "to": "Buchanan Bus Station",
+            "minutes": 25,
+            "fareEUR": 5.1,
+            "fareText": "GBP 4.35 single as of May 2026 per Wikivoyage (EUR 5.1); tickets must be pre-booked online; not confirmed on ember.to",
+            "url": "https://en.wikivoyage.org/wiki/Glasgow"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 47.2,
+          "minutes": 20,
+          "basis": "Wikivoyage: taxis to the centre 'in 2023 are about GBP 40' (dated 2023; not an official tariff; fixed or metered not stated); minutes per Wikivoyage 'takes 20 min'",
+          "url": "https://en.wikivoyage.org/wiki/Glasgow"
+        }
+      }
+    ]
+  },
+  {
+    "city": "MRS",
+    "airports": [
+      {
+        "code": "MRS",
+        "public": {
+          "line": "Airport shuttle A1 (formerly bus 91) to Marseille Saint-Charles, per the airport access page",
+          "from": "Marseille Provence Airport, shuttle bus stop (exact stop not stated)",
+          "to": "Marseille Saint-Charles station (train and bus station)",
+          "minutes": 25,
+          "fareEUR": null,
+          "fareText": "Not verified: the airport shuttle page gives no price (online booking form only). Wikivoyage gives EUR 10 one-way as of May 2022 (stale) and EUR 8.30 in its 'Get around' section (conflict). Search results quote a 2026 single fare of EUR 15 (unverified)",
+          "frequency": "about every 15-20 min (Wikivoyage, 2022 figures)",
+          "hours": null,
+          "url": "https://www.marseille-airport.com/access-car-parks/access/bus"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": 60.0,
+          "minutes": null,
+          "basis": "Wikivoyage: EUR 50 by day and EUR 60 at night for a trip to Marseille (not a confirmed fixed fare); the airport taxi page links an official distance-based tariff PDF whose filename says 2022 (metered by km)",
+          "url": "https://www.marseille-airport.com/access-car-parks/access/taxis"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Gare Routière Saint-Charles (bus station, next to the train station)",
+        "serves": "long-distance buses (Wikivoyage: Nice services and FlixBus connections; FlixBus stop not stated)",
+        "toCentre": "Short uphill walk from the Canebière and Old Port (Wikivoyage); walking time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Marseille"
+      }
+    ]
+  },
+  {
+    "city": "ALC",
+    "airports": [
+      {
+        "code": "ALC",
+        "public": {
+          "line": "Bus C-6 (Vectalia group; city circular route)",
+          "from": "Alicante-Elche airport, departure level (level +2) of the new terminal",
+          "to": "Alicante city centre: bus station, Plaza Puerta del Mar, Plaza de los Luceros and the central market (Wikivoyage)",
+          "minutes": 20,
+          "fareEUR": 4.5,
+          "fareText": "EUR 4.50 one-way (2025, per Wikivoyage); 2026 secondary sources quote EUR 4.60-4.70 (vectalia.es returned 403, so not verified)",
+          "frequency": "every 20 min (Wikivoyage)",
+          "hours": "24 h, buses run 24/7 (Wikivoyage)",
+          "url": "https://en.wikivoyage.org/wiki/Alicante"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": 25.0,
+          "minutes": null,
+          "basis": "Wikivoyage: 'A taxi to the city will cost EUR 20-25'; not an official fixed fare or meter tariff; fareEUR is the upper figure",
+          "url": "https://en.wikivoyage.org/wiki/Alicante"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Estació d'Autobusos Alacant (Alicante bus station), Muelle de Poniente s/n, by Avda de Loring",
+        "serves": "long-distance buses (ALSA to Valencia, Barcelona, Granada, per Wikivoyage) and city bus lines 6 and 24",
+        "toCentre": "Walking time to the centre not stated (Wikivoyage); city bus lines 6 and 24 start and end here",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Alicante"
+      }
+    ]
+  },
+  {
+    "city": "FNC",
+    "airports": [
+      {
+        "code": "FNC",
+        "public": {
+          "line": "Aerobus (Madeira airport bus; route number not verified)",
+          "from": "Madeira Airport (FNC) bus stop (exact stop not stated)",
+          "to": "Funchal city centre; Avenida do Mar per the input lead (not verified)",
+          "minutes": null,
+          "fareEUR": 6.5,
+          "fareText": "EUR 6.50 adult per several 2026 guides found in search (the fare PDF on siga.madeira.gov.pt could not be read); older listings quote about EUR 5",
+          "frequency": null,
+          "hours": "about 08:30-22:00 from the airport per the input lead; last departure 22:00 per several guides (not verified on the SIGA page)",
+          "url": "https://siga.madeira.gov.pt/public/index.php/aerobus"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No official taxi fare found on the airport or SIGA pages; input lead says a metered official Madeira tariff (EUR 4.00 weekday flag-fall from the airport, +20% nights and weekends, +1.50 baggage), total not computed; not verified",
+          "url": null
+        }
+      }
+    ]
+  },
+  {
+    "city": "FLR",
+    "airports": [
+      {
+        "code": "FLR",
+        "public": {
+          "line": "Tram T2 (Florence tramway)",
+          "from": "Florence Airport (Peretola), Peretola Aeroporto tram stop (exact walk not stated)",
+          "to": "Santa Maria Novella station (Wikivoyage); search results name the T2 stop at Piazza dell'Unità, beside the station",
+          "minutes": 20,
+          "fareEUR": 2.0,
+          "fareText": "EUR 2.00 from 1 Aug 2026 per La Nazione (search result; not verified); Wikivoyage listed EUR 1.70 (as of Jan 2024)",
+          "frequency": "every 5-15 min depending on time of day (Wikivoyage)",
+          "hours": "runs until '12:30' (02:00 on weekends) per Wikivoyage; '12:30' may be a typo, verify",
+          "url": "https://en.wikivoyage.org/wiki/Florence"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": 32.0,
+          "minutes": null,
+          "basis": "Official airport taxi flat fares per visitflorence.com (page dated 15 Dec 2025): EUR 28 weekdays 06:00-22:00, EUR 30 Sundays and public holidays, EUR 32 at night (22:00-06:00); fare covers up to 3 people and 3 bags, EUR 1.30 per extra bag or person (max EUR 14.40); fareEUR is the night figure; Wikivoyage's older EUR 25 flat rate is superseded",
+          "url": "https://visitflorence.com/it/muoversi-a-firenze/in-taxi.html"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Piazzale Montelungo bus station (next to Santa Maria Novella station)",
+        "serves": "intercity and regional buses (Wikivoyage: buses that start or end in Florence)",
+        "toCentre": "Adjacent to Santa Maria Novella station (Wikivoyage); walking time to the centre not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Florence"
+      },
+      {
+        "name": "Busitalia SITA Nord Autostazione, Via Santa Caterina da Siena 15/17",
+        "serves": "regional and intercity buses (Tiemme SpA and CAPautolinee, per Wikivoyage)",
+        "toCentre": "Walking or transit time to the centre not stated (Wikivoyage)",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Florence"
+      }
+    ]
+  },
+  {
+    "city": "ATH",
+    "airports": [
+      {
+        "code": "ATH",
+        "public": {
+          "line": "Express bus X95 (airport to Syntagma Square)",
+          "from": "Athens International Airport (Eleftherios Venizelos), express bus stop (exact stop not stated)",
+          "to": "Syntagma Square (city centre)",
+          "minutes": null,
+          "fareEUR": 5.5,
+          "fareText": "EUR 5.50 adult single per a July 2026 transfer guide and a 2024 page citing aia.gr (search results; not read on oasa.gr or aia.gr); reduced EUR 2.70 for younger travellers and seniors (search results); heavy traffic can stretch the ride toward 90 min (search results)",
+          "frequency": null,
+          "hours": "24 h per search results (not verified on oasa.gr)",
+          "url": "https://www.oasa.gr/en/"
+        },
+        "alternatives": [
+          {
+            "line": "Metro line 3 (airport trains)",
+            "to": "Syntagma and Monastiraki (change at Doukissis Plakentias, per Wikivoyage)",
+            "minutes": null,
+            "fareEUR": 9.0,
+            "fareText": "EUR 9 each way (Wikivoyage); airport trains every 36 min (Wikivoyage); metro runs about 05:30-00:30 (Wikivoyage)",
+            "url": "https://en.wikivoyage.org/wiki/Athens"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 65.0,
+          "minutes": null,
+          "basis": "Fixed fare airport to inner ring: EUR 50 day and EUR 65 night under decision 147620/2026 (FEK B', 18 Sep 2026), as reported by hemenhesap.com (search result; not checked against the Gazette); the aia.gr page returned 403 and a search copy showed EUR 40 day / EUR 55 night; Wikivoyage lists EUR 40 day / EUR 60 night; fareEUR is the night figure",
+          "url": "https://www.aia.gr/traveler/access-and-transportation/taxi-and-limousine/"
+        }
+      }
+    ]
+  },
+  {
+    "city": "SPU",
+    "airports": [
+      {
+        "code": "SPU",
+        "public": {
+          "line": "Promet bus line 37 (Split - Airport - Trogir)",
+          "from": "Split Airport bus stop (exact stop not stated)",
+          "to": "Split city centre; Wikivoyage says the line ends at Split's local bus station, Sukoišan (not the inter-city station)",
+          "minutes": 50,
+          "fareEUR": 1.5,
+          "fareText": "EUR 1.50 Zone 1 ticket via app, card machine or ticket office; EUR 3.00 from the driver (portal.hr news on the 1 June price change, search result); Wikivoyage lists EUR 3.00; airport-leg zone not confirmed",
+          "frequency": "every 20-30 min (Wikivoyage)",
+          "hours": "04:00-00:00 (Wikivoyage)",
+          "url": "https://www.promet-split.hr/en/"
+        },
+        "alternatives": [
+          {
+            "line": "Airport shuttle (Pleso Prijevoz) to the inter-city bus station (Autobusni kolodvor)",
+            "to": "Split inter-city bus station (Autobusni kolodvor)",
+            "minutes": 30,
+            "fareEUR": 8.0,
+            "fareText": "EUR 8 one-way per Wikivoyage (adult not stated); search results quote EUR 8-10; airport-to-town 07:30-23:00, at least hourly (Wikivoyage)",
+            "url": "https://en.wikivoyage.org/wiki/Split"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 46.0,
+          "minutes": 30,
+          "basis": "Wikivoyage: 'To Split expect to pay EUR 46, 30 minutes'; not stated whether fixed or metered; no official Split airport tariff found (split-airport.hr failed with a certificate error)",
+          "url": "https://en.wikivoyage.org/wiki/Split"
+        }
+      }
+    ]
+  },
+  {
+    "city": "ZRH",
+    "airports": [
+      {
+        "code": "ZRH",
+        "public": {
+          "line": "S-Bahn to Zürich HB (S2 or S16 per input lead; line numbers not confirmed on the pages read)",
+          "from": "Zurich Airport railway station (exact platform not stated)",
+          "to": "Zürich Hauptbahnhof (main station, at the end of Bahnhofstrasse)",
+          "minutes": 10,
+          "fareEUR": 7.7,
+          "fareText": "CHF 7.20 adult 2nd-class single, 3 zones, city-airport route (zvv.ch 2026 price table); CHF 7.40 planned from Dec 2026 (zvv.ch); Wikivoyage listed CHF 6.80 (older)",
+          "frequency": "about every 10-15 min during the day, less often early and late (Wikivoyage)",
+          "hours": null,
+          "url": "https://www.zvv.ch/de/ueber-uns/zuercher-verkehrsverbund/medien/medienmitteilungen/2026/2026-03-31-Tarifanpassung-im-Dezember-2026--ZVV-startet-Vernehmlassung.html"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": 53.7,
+          "minutes": 20,
+          "basis": "Typical CHF 50 for about 12 km and 20 min per airmundo.com (search result; page not read); Blacklane estimate CHF 50-70 (search result); not an official fixed fare; no official airport taxi tariff could be read (flughafen-zuerich.ch had no taxi information)",
+          "url": null
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Zürich Hauptbahnhof (HB), trains",
+        "serves": "trains (S-Bahn, IC/ICN and international services, per Wikivoyage)",
+        "toCentre": "At the end of Bahnhofstrasse in the city centre (Wikivoyage); walking time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Zurich"
+      },
+      {
+        "name": "Sihlquai bus station (intercity buses: FlixBus, BlaBlaCar)",
+        "serves": "long-distance buses (FlixBus and BlaBlaCar, per Wikivoyage)",
+        "toCentre": "About two blocks from Zürich HB (Wikivoyage); walking time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Zurich"
+      }
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMDcyAktMMgJBRmoFEgNUUkRyBRIDUkVLQAFIAZgBAg",
+ "fetchedAt": "2026-10-11T11:30:02",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 207.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM and Transavia",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Keflavík International Airport",
+   "arrTime": "13:45",
+   "arrDate": "2026-12-07",
+   "durationMin": 505,
+   "layovers": [
+    {
+     "min": 160,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 207 euros. 1 stop flight with KLM and Transavia. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Monday, December 7 and arrives at Keflavík International Airport at 1:45 PM on Monday, December 7. Total duration 8 hr 25 min.  Layover (1 of 1) is a 2 hr 40 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  }
+ ]
+}

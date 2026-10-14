@@ -1,0 +1,43 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA0FHQUABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 689.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Wideroe and Finnair",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "18:35",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Agadir Al-Massira International Airport",
+   "arrTime": "15:25",
+   "arrDate": "2026-12-09",
+   "durationMin": 2750,
+   "layovers": [
+    {
+     "min": 1395,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    },
+    {
+     "min": 25,
+     "airport": "Stockholm Arlanda Airport",
+     "city": "Stockholm",
+     "overnight": false
+    },
+    {
+     "min": 735,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

@@ -1,0 +1,260 @@
+[
+ {
+  "city": "LON",
+  "name": "London",
+  "country": "United Kingdom",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/London",
+  "airports": [
+   {
+    "code": "LHR",
+    "name": "London Heathrow Airport",
+    "known": {
+     "public": {
+      "mode": "train",
+      "to": "Liverpool Street (Elizabeth line)",
+      "minutes": 40,
+      "fareEUR": 16.4,
+      "frequency": "every 10 min from T2&3 (6/h); every 15 min from T4; every 30 min from T5",
+      "hours": "05:15-00:12 weekdays (first from T5, last from T2&3, T4 last 23:47); Sunday start later"
+     },
+     "taxi": {
+      "fareEUR": 109.13,
+      "minutes": 85,
+      "basis": "metered black-cab estimate: midpoint of GBP 75-110 per thetraveler.org (Mar 2026); minutes midpoint of 70-100 min busy-daytime range",
+      "capacity": 4
+     },
+     "from": "central-west.json"
+    }
+   },
+   {
+    "code": "LGW",
+    "name": "London Gatwick Airport",
+    "known": {
+     "public": {
+      "mode": "train",
+      "to": "Liverpool Street",
+      "minutes": 45,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": "00:01-23:56 (trip.com snapshot, unverified)"
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     },
+     "from": "central-west.json"
+    }
+   },
+   {
+    "code": "STN",
+    "name": "London Stansted Airport",
+    "known": {
+     "public": {
+      "mode": "train",
+      "to": "Liverpool Street",
+      "minutes": 55,
+      "fareEUR": null,
+      "frequency": "118 trains per day (Trainline; no per-hour figure)",
+      "hours": "03:00-02:30 (Trainline, unverified)"
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     },
+     "from": "central-west.json"
+    }
+   },
+   {
+    "code": "LTN",
+    "name": "London Luton Airport",
+    "known": {
+     "public": {
+      "mode": "train",
+      "to": "Liverpool Street",
+      "minutes": 71,
+      "fareEUR": null,
+      "frequency": "155 trains per day (Trainline; no per-hour figure)",
+      "hours": "02:41-01:44 (Trainline, unverified)"
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     },
+     "from": "central-west.json"
+    }
+   },
+   {
+    "code": "LCY",
+    "name": "London City Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     },
+     "from": "central-west.json"
+    }
+   },
+   {
+    "code": "SEN",
+    "name": "London Southend Airport",
+    "known": {
+     "public": {
+      "mode": "train",
+      "to": "Liverpool Street",
+      "minutes": 55,
+      "fareEUR": null,
+      "frequency": "roughly every 20 min by day (airporttransferportal.com)",
+      "hours": "first departure 04:35 on weekdays; last departure conflicts (22:30-23:00 vs 04:05 per live-departures.info)"
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": 75,
+      "basis": "drive time midpoint of 60-90 min (airporttransferportal.com); no GBP fare published",
+      "capacity": 4
+     },
+     "from": "central-west.json"
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "PAR",
+  "name": "Paris",
+  "country": "France",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Paris",
+  "airports": [
+   {
+    "code": "CDG",
+    "name": "Paris Charles de Gaulle Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     },
+     "from": "central-west.json"
+    }
+   },
+   {
+    "code": "BVA",
+    "name": "Beauvais-Tillé Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     },
+     "from": "central-west.json"
+    }
+   },
+   {
+    "code": "ORY",
+    "name": "Paris Orly Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     },
+     "from": "central-west.json"
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "STO",
+  "name": "Stockholm",
+  "country": "Sweden",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Stockholm",
+  "airports": [
+   {
+    "code": "ARN",
+    "name": "Stockholm Arlanda Airport",
+    "known": {
+     "public": {
+      "mode": "train",
+      "to": "Stockholm Central",
+      "minutes": 18,
+      "fareEUR": 30.45,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": 66.26,
+      "minutes": 40,
+      "basis": "Fixed-rate quotes: 740 SEK standard (ACM 2024 travel page); 2026-dated guides 545-745 SEK; Trippus ceiling 700-750 SEK. Minutes is the midpoint of the 35-50 min range from a guide. Not an official tariff.",
+      "capacity": 4
+     },
+     "from": "north.json"
+    }
+   },
+   {
+    "code": "NYO",
+    "name": "Stockholm Skavsta Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     },
+     "from": "north.json"
+    }
+   }
+  ],
+  "groundArrivals": []
+ }
+]

@@ -1,0 +1,106 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDRFVCcgUSA1NUT0ABSAGYAQI",
+ "via": "ui",
+ "itineraries": [
+  {
+   "price": 97.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Dublin Airport",
+   "depTime": "05:45",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Stockholm Arlanda Airport",
+   "arrTime": "12:45",
+   "arrDate": "2026-12-13",
+   "durationMin": 360,
+   "layovers": [
+    {
+     "min": 140,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 115.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Dublin Airport",
+   "depTime": "05:10",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Stockholm Arlanda Airport",
+   "arrTime": "11:55",
+   "arrDate": "2026-12-13",
+   "durationMin": 345,
+   "layovers": [
+    {
+     "min": 100,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 126.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Finnair",
+   "operatedBy": null,
+   "depAirportName": "Dublin Airport",
+   "depTime": "09:45",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Stockholm Arlanda Airport",
+   "arrTime": "16:10",
+   "arrDate": "2026-12-13",
+   "durationMin": 325,
+   "layovers": [
+    {
+     "min": 80,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 241.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Dublin Airport",
+   "depTime": "16:05",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Stockholm Arlanda Airport",
+   "arrTime": "21:00",
+   "arrDate": "2026-12-13",
+   "durationMin": 235,
+   "layovers": [
+    {
+     "min": 45,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "trip-finder",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": ["/c", "app\\start.cmd"],
+      "port": 5173
+    }
+  ]
+}

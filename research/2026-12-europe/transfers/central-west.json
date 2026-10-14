@@ -1,0 +1,688 @@
+[
+  {
+    "city": "PRG",
+    "localTicketEUR": 1.6,
+    "dayPassEUR": 6.16,
+    "rideHailing": ["Uber", "Bolt"],
+    "airports": [
+      {
+        "code": "PRG",
+        "public": {
+          "mode": "bus",
+          "to": "Staroměstská metro (line A, Old Town), via Nádraží Veleslavín (bus 119, then metro A)",
+          "minutes": 45,
+          "fareEUR": 2.05,
+          "frequency": "bus 119 every 7-10 min to Nádraží Veleslavín",
+          "hours": "about 05:00-24:00; night bus 510 after midnight"
+        },
+        "taxi": {
+          "fareEUR": 23.6,
+          "minutes": 30,
+          "basis": "metered taxi estimate per helloprague.net (midpoint of CZK 500-650); no official fixed fare confirmed",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://pid.cz/en/new-pid-tariff-from-1-january-2026-dont-pay-more-than-you-have-to/",
+      "https://www.cd.cz/airport",
+      "https://www.helloprague.net/getting-from-prague-airport-to-city-centre/",
+      "https://www.helloprague.net/?p=2768",
+      "https://airconnect.live/en/airports/prague-airport-taxi-cost"
+    ],
+    "notes": "2026 PID tariff in force from 1 Jan 2026. localTicket = 30-min paper ticket (CZK 39); dayPass = 24-h paper ticket (CZK 150); public fare = 90-min paper ticket (CZK 50, covers bus 119 plus metro A; app price CZK 46). Centre target: Old Town (Staroměstská). Route, times and frequency from helloprague.net, a travel guide whose journey-time figures range 35-60 min. Airport Express bus to Praha hl. n. costs CZK 200 (about 35 min; faster, not cheapest). An unverified claim of a fixed CZK 700 taxi fare was not used. Ride-hailing named by helloprague.net; FreeNow not confirmed."
+  },
+  {
+    "city": "VIE",
+    "localTicketEUR": 3,
+    "dayPassEUR": 9.7,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "VIE",
+        "public": {
+          "mode": "train",
+          "to": "Wien Hauptbahnhof (ÖBB Railjet/IC from the airport)",
+          "minutes": 15,
+          "fareEUR": 5.5,
+          "frequency": "roughly every 30 min",
+          "hours": null
+        },
+        "taxi": {
+          "fareEUR": 33.5,
+          "minutes": 25,
+          "basis": "midpoint of EUR 25-42 airport-taxi range on cityairporttrain.com (undated); blog estimate of EUR 35-60 not used; minutes midpoint of 20-30 min (blog)",
+          "capacity": 4
+        }
+      },
+      {
+        "code": "BTS",
+        "public": {
+          "mode": "coach",
+          "to": "Wien Hauptbahnhof (direct Slovak Lines bus)",
+          "minutes": 75,
+          "fareEUR": null,
+          "frequency": "conflicting: every 2 h (FAQ) or every 4 h (operator listing)",
+          "hours": null
+        },
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": null,
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://www.cityairporttrain.com/en/",
+      "https://www.cityairporttrain.com/en/info-service/airport-taxi/",
+      "https://thebettervacation.com/vienna/vienna-airport-to-city-centre/",
+      "https://www.rome2rio.com/s/Bratislava-Airport-BTS/Vienna"
+    ],
+    "notes": "Price year not stated in sources. localTicket (EUR 3.00 single ride) and dayPass (EUR 9.70, 24 h) come from thebettervacation.com, a blog; Wiener Linien tariff not retrieved. Centre target: Wien Hauptbahnhof. VIE public figures (ÖBB train EUR 5.50, about 15 min) are from the same blog and were not checked on the ÖBB site; the S7 also costs EUR 5.50 but ends at Wien Mitte (about 20 min). Hours not found. City Airport Train page: 21 min non-stop, but from 7 Sep 2026 CAT runs as premium buses until 31 Oct 2027, so no CAT train is expected in December 2026. Ride-hailing apps not named in sources. BTS airport to Vienna: direct bus to Wien Hbf about 75 min (rome2rio); fare, hours and taxi not found."
+  },
+  {
+    "city": "BUD",
+    "localTicketEUR": 1.37,
+    "dayPassEUR": 7.53,
+    "rideHailing": ["Uber", "Bolt"],
+    "airports": [
+      {
+        "code": "BUD",
+        "public": {
+          "mode": "bus",
+          "to": "Deák Ferenc tér (metro M1/M2/M3), via bus 200E to Kőbánya-Kispest, then metro M3",
+          "minutes": 45,
+          "fareEUR": 2.33,
+          "frequency": null,
+          "hours": "bus 200E runs 24 h per BKK, but the M3 link may not run overnight (night 200E ends at Határ út, per guide)"
+        },
+        "taxi": {
+          "fareEUR": 39.72,
+          "minutes": 32.5,
+          "basis": "metered estimate per hungaryunlocked.com: midpoint of HUF 13,500-15,500 on the regulated tariff; minutes midpoint of 30-35 min; no fixed fare",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://bkk.hu/en/travel-information/airport-express/",
+      "https://bkk.hu/en/tickets-and-passes/prices/",
+      "https://bkk.hu/en/tickets-and-passes/prices/90-minute-ticket/",
+      "https://hungaryunlocked.com/es/del-aeropuerto-de-budapest-al-centro-guia-local/"
+    ],
+    "notes": "Price year: 2026 guide (reviewed Oct 2026); BKK price pages are undated. localTicket = single ride ticket (HUF 500); dayPass = 24-h Budapest travelcard (HUF 2,750). Centre target: Deák Ferenc tér. Public fare HUF 850 is the guide's figure for bus 200E plus metro M3 on one 90-min ticket; it conflicts with the HUF 500 ticket price, so verify. Minutes are the lower bound of the guide's 45-60+ min range. Direct alternative: 100E airport express, HUF 2,500 (BKK), about 40 min, every 6-10 min by day, 24/7. FreeNow not named in sources."
+  },
+  {
+    "city": "BTS",
+    "localTicketEUR": 1.3,
+    "dayPassEUR": null,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "BTS",
+        "public": {
+          "mode": "bus",
+          "to": "Bratislava Hlavná stanica (main railway station), bus 61",
+          "minutes": 30,
+          "fareEUR": 1.3,
+          "frequency": "about every 15 min on average (bus 61)",
+          "hours": "about 04:40-23:30 for bus 61; night bus N61 about hourly"
+        },
+        "taxi": {
+          "fareEUR": null,
+          "minutes": 17.5,
+          "basis": "drive time only (midpoint of 15-20 min); no taxi fare found",
+          "capacity": 4
+        }
+      },
+      {
+        "code": "VIE",
+        "public": {
+          "mode": "coach",
+          "to": "Bratislava centre (stop not stated)",
+          "minutes": 45,
+          "fareEUR": null,
+          "frequency": "conflicting: hourly (operator) or every 30 min (FAQ)",
+          "hours": null
+        },
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": null,
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://www.bratislavaguide.com/transport/public-transport-bratislava/bus-61",
+      "https://imhd.sk/ba/doc/en/10220/Tickets?dfpi=54",
+      "https://www.rome2rio.com/s/Vienna-Airport-VIE/Bratislava"
+    ],
+    "notes": "Price year not stated; bratislavaguide.com figures are undated and may predate the June 2025 zone reform. localTicket = 3-zone 60-min airport ticket (EUR 1.30), not a confirmed standard 1-zone single. Official tariff not retrieved (imhd.sk pages were old tariffs). Centre target: Bratislava hlavná stanica. dayPass and ride-hailing not found. Cross-border VIE route: rome2rio lists a FlixBus (about 45 min, end stop not stated) and an ÖBB train (about 1 h 32 min, to Bratislava-Petržalka); no EUR fares found."
+  },
+  {
+    "city": "AMS",
+    "localTicketEUR": 3.4,
+    "dayPassEUR": 10,
+    "rideHailing": ["Uber", "Bolt"],
+    "airports": [
+      {
+        "code": "AMS",
+        "public": {
+          "mode": "train",
+          "to": "Amsterdam Centraal",
+          "minutes": 17,
+          "fareEUR": 5.5,
+          "frequency": "8 per hour (about every 7-8 min), NS trains via Sloterdijk and Lelylaan",
+          "hours": "about 05:30-01:00; sources conflict on overnight trains (none about 01:00-05:30 per airporttransferportal.com; hourly overnight trains per amsterdamtourism.org)"
+        },
+        "taxi": {
+          "fareEUR": 37.5,
+          "minutes": 27.5,
+          "basis": "midpoint of EUR 30-45 Uber/Bolt range per amsterdamtourism.org (metered EUR 40-55, no single figure); minutes midpoint of 20-35 min per airporttransferportal.com",
+          "capacity": 4
+        }
+      },
+      {
+        "code": "EIN",
+        "public": {
+          "mode": "train",
+          "to": "Amsterdam Centraal (airport bus 400/401 to Eindhoven Centraal, then direct NS train)",
+          "minutes": 120,
+          "fareEUR": null,
+          "frequency": "several direct NS trains per hour; airport buses several per hour",
+          "hours": null
+        },
+        "taxi": {
+          "fareEUR": 175,
+          "minutes": 90,
+          "basis": "midpoint of EUR 150-200 pre-booked private transfer quote (not a metered taxi) per airporttransferportal.com; drive about 1.5 h",
+          "capacity": 4
+        }
+      },
+      {
+        "code": "RTM",
+        "public": {
+          "mode": "train",
+          "to": "Amsterdam Centraal (RET bus 33 to Rotterdam Centraal, then direct NS train)",
+          "minutes": 60,
+          "fareEUR": null,
+          "frequency": "bus 33 frequent by day, every 30 min after 21:00; train frequency not stated",
+          "hours": "bus 33 runs until about midnight on weekdays; first departures and train times not stated"
+        },
+        "taxi": {
+          "fareEUR": 145,
+          "minutes": 67.5,
+          "basis": "midpoint of EUR 120-170 pre-booked private transfer quote (not a metered taxi) per airporttransferportal.com; minutes midpoint of 60-75 min",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://www.gvb.nl/tarieven",
+      "https://www.ns.nl/en/featured/destinations/schiphol",
+      "https://www.amsterdamtips.com/?p=3107",
+      "https://www.airporttransferportal.com/de/airport-guides/ams",
+      "https://www.amsterdamtourism.org/getting-around-amsterdam/schiphol-to-amsterdam/",
+      "https://www.rijksoverheid.nl/onderwerpen/taxi/vraag-en-antwoord/wat-zijn-de-kosten-voor-een-taxi",
+      "https://www.airporttransferportal.com/de/airport-guides/ein",
+      "https://everyrail.com/trains/eindhoven-to-amsterdam/",
+      "https://www.airporttransferportal.com/de/airport-guides/rtm"
+    ],
+    "notes": "Centre target: Amsterdam Centraal. localTicket = GVB 1-hour ticket; dayPass = GVB 24-hour card (from gvb.nl search excerpts; direct fetch blocked). AMS fare EUR 5.50 is the contactless or phone price (paper ticket +EUR 1.60) per AmsterdamTips. Uber and Bolt per amsterdamtourism.org; FreeNow not confirmed. EIN and RTM: NS train fares not found, so public fares are null (airport bus fares of EUR 5.15 and about EUR 2-3 are partial and not summed). RTM minutes are the sum of the stated leg times (20 + 40), excluding transfers. EIN and RTM taxi figures are midpoints of pre-booked private transfer quotes, not metered taxi. The national taxi maximum (about EUR 70-75) is a ceiling, not a typical fare. Travel-site fallbacks: airporttransferportal.com and amsterdamtourism.org."
+  },
+  {
+    "city": "BRU",
+    "localTicketEUR": null,
+    "dayPassEUR": null,
+    "rideHailing": ["Uber"],
+    "airports": [
+      {
+        "code": "BRU",
+        "public": {
+          "mode": "train",
+          "to": "Brussels-Central",
+          "minutes": 17,
+          "fareEUR": null,
+          "frequency": "every 10-15 min",
+          "hours": "first departure not stated; last train to Brussels-Central about 23:45 (guide)"
+        },
+        "taxi": {
+          "fareEUR": 60,
+          "minutes": 20,
+          "basis": "midpoint of EUR 50-70 pre-booked fixed-price range (no year) per airporttransferportal.com; regulated meter tariff not applied",
+          "capacity": 4
+        }
+      },
+      {
+        "code": "CRL",
+        "public": {
+          "mode": "train",
+          "to": "Brussels (stop not stated; TEC bus A to Charleroi-Sud, then SNCB train)",
+          "minutes": 90,
+          "fareEUR": null,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": {
+          "fareEUR": null,
+          "minutes": 60,
+          "basis": "midpoint of 50-70 min drive time only; no fare found",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://www.airporttransferportal.com/de/airport-guides/bru",
+      "https://www.airporttransferportal.com/de/airport-guides/crl"
+    ],
+    "notes": "Centre target: Bruxelles-Central. All figures come from airport guides on airporttransferportal.com (a travel site; no year stated). localTicket, dayPass and the BRU train fare were not found (stib-mivb.be returned 404; belgiantrain.be blocked). Uber stated as available; Bolt and FreeNow not verified. CRL: the Flibco shuttle to Bruxelles-Midi (55-60 min, about every 20 min, dynamic pricing, no fare found) also serves the airport and was not priced."
+  },
+  {
+    "city": "LON",
+    "localTicketEUR": 4.25,
+    "dayPassEUR": 10.5,
+    "rideHailing": ["Uber", "Bolt"],
+    "airports": [
+      {
+        "code": "LHR",
+        "public": {
+          "mode": "train",
+          "to": "Liverpool Street (Elizabeth line)",
+          "minutes": 40,
+          "fareEUR": 16.4,
+          "frequency": "every 10 min from T2&3 (6/h); every 15 min from T4; every 30 min from T5",
+          "hours": "05:15-00:12 weekdays (first from T5, last from T2&3, T4 last 23:47); Sunday start later"
+        },
+        "taxi": {
+          "fareEUR": 109.13,
+          "minutes": 85,
+          "basis": "metered black-cab estimate: midpoint of GBP 75-110 per thetraveler.org (Mar 2026); minutes midpoint of 70-100 min busy-daytime range",
+          "capacity": 4
+        }
+      },
+      {
+        "code": "LGW",
+        "public": {
+          "mode": "train",
+          "to": "Liverpool Street",
+          "minutes": 45,
+          "fareEUR": null,
+          "frequency": null,
+          "hours": "00:01-23:56 (trip.com snapshot, unverified)"
+        },
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": null,
+          "capacity": 4
+        }
+      },
+      {
+        "code": "STN",
+        "public": {
+          "mode": "train",
+          "to": "Liverpool Street",
+          "minutes": 55,
+          "fareEUR": null,
+          "frequency": "118 trains per day (Trainline; no per-hour figure)",
+          "hours": "03:00-02:30 (Trainline, unverified)"
+        },
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": null,
+          "capacity": 4
+        }
+      },
+      {
+        "code": "LTN",
+        "public": {
+          "mode": "train",
+          "to": "Liverpool Street",
+          "minutes": 71,
+          "fareEUR": null,
+          "frequency": "155 trains per day (Trainline; no per-hour figure)",
+          "hours": "02:41-01:44 (Trainline, unverified)"
+        },
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": null,
+          "capacity": 4
+        }
+      },
+      {
+        "code": "LCY",
+        "public": {
+          "mode": null,
+          "to": null,
+          "minutes": null,
+          "fareEUR": null,
+          "frequency": null,
+          "hours": null
+        },
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": null,
+          "capacity": 4
+        }
+      },
+      {
+        "code": "SEN",
+        "public": {
+          "mode": "train",
+          "to": "Liverpool Street",
+          "minutes": 55,
+          "fareEUR": null,
+          "frequency": "roughly every 20 min by day (airporttransferportal.com)",
+          "hours": "first departure 04:35 on weekdays; last departure conflicts (22:30-23:00 vs 04:05 per live-departures.info)"
+        },
+        "taxi": {
+          "fareEUR": null,
+          "minutes": 75,
+          "basis": "drive time midpoint of 60-90 min (airporttransferportal.com); no GBP fare published",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://www.london.gov.uk/md3464-march-2026-transport-london-fare-changes",
+      "https://www.heathrow.com/transport-and-directions/by-rail-or-train/elizabeth-line",
+      "https://www.thetraveler.org/heathrow-airport-to-central-london-best-transportation-options-compared/",
+      "https://uk.trip.com/trains/uk/route/gatwick-airport-to-london-liverpool-street",
+      "https://www.thetrainline.com/train-times/stansted-airport-to-london-liverpool-street",
+      "https://www.thetrainline.com/train-times/luton-airport-parkway-to-london-liverpool-street",
+      "https://live-departures.info/rail/timetable/Southend-Airport/London-Liverpool-Street/",
+      "https://www.airporttransferportal.com/ar/airport-guides/sen",
+      "https://bolt.eu/en-gb/cities/london/",
+      "https://www.uber.com/gb/en/"
+    ],
+    "notes": "2026 prices. Centre target: Liverpool Street (Zone 1), same for all six. localTicket = TfL pay-as-you-go single, Zones 1-2, peak GBP 3.60 (off-peak GBP 3.10), per GLA MD3464 (fares from 1 Mar 2026). dayPass = PAYG daily cap, Zones 1-2, GBP 8.90. LHR: Elizabeth line fare 'starts from' GBP 13.90 on heathrow.com (peak/off-peak not stated); the Piccadilly line, usually cheaper, was not priced. LGW, STN and LTN: train times from trip.com and Trainline; only advance fares found (STN GBP 16.90, LTN GBP 9.70), so fares are null; LGW, STN and LTN taxi not found. LCY public and taxi not verified. SEN: only an advance-to-anytime fare range (GBP 13-22) was found, so fare is null. Ride-hailing: Bolt confirmed on bolt.eu; Uber indirect (uber.com/gb/en lists Getting around London); FreeNow not confirmed. Heathrow warns that Christmas and New Year times differ."
+  },
+  {
+    "city": "EDI",
+    "localTicketEUR": 2.83,
+    "dayPassEUR": 7.08,
+    "rideHailing": ["Uber", "Bolt", "FreeNow"],
+    "airports": [
+      {
+        "code": "EDI",
+        "public": {
+          "mode": "bus",
+          "to": "Waverley Bridge (Airlink 100 terminus, next to Waverley station)",
+          "minutes": 30,
+          "fareEUR": 7.08,
+          "frequency": "every 10 min 04:00-01:00; every 15-20 min 01:15-03:45",
+          "hours": "about 04:00-03:45 next day (first and last departures not stated)"
+        },
+        "taxi": {
+          "fareEUR": 34.21,
+          "minutes": 20,
+          "basis": "metered black-cab estimate per edinburghtourism.org: midpoint of GBP 27-31 weekday daytime range (not a fixed fare); minutes from the airport's own page",
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://www.lothianbuses.com/fares-and-tickets/",
+      "https://www.edinburghairport.com/transport-links/buses-and-coaches/edinburgh-city-bus-links",
+      "https://www.edinburghairport.com/transport-links/taxis",
+      "https://www.edinburghtourism.org/taxis-ride-hailing/",
+      "https://www.lothianbuses.com/news/2024/06/airlink-100-moving-to-waverley-bridge/",
+      "https://edinburghtrams.com/news/changes-tram-fares-2026",
+      "https://www.edinburghtourism.org/airport-to-city-centre/",
+      "https://everythingedinburgh.com/edinburgh-to-edinburgh-airport/"
+    ],
+    "notes": "2026 fares. Centre target: Waverley station / Waverley Bridge. localTicket = Lothian single fare GBP 2.40 (rose 22 Feb 2026 per Lothian/tram notice). dayPass GBP 6.00 is as reported; the research notes do not confirm the day-ticket price, so check the Lothian fares page. Public = Airlink 100 'Airport Single' GBP 6.00, the cheapest public option; the tram costs more (guides quote GBP 7.90-8.50). No Uber or Bolt airport price found; the taxi figure is a black-cab estimate. Ride-hailing apps named by edinburghtourism.org."
+  },
+  {
+    "city": "GLA",
+    "localTicketEUR": 2.36,
+    "dayPassEUR": 7.79,
+    "rideHailing": ["FreeNow"],
+    "airports": [
+      {
+        "code": "GLA",
+        "public": {
+          "mode": "bus",
+          "to": "Buchanan Bus Station (stop not confirmed)",
+          "minutes": 20,
+          "fareEUR": 12.98,
+          "frequency": "every 15-30 min (2025 university page, unverified)",
+          "hours": "unclear: sources conflict (round the clock vs no buses 00:00-05:00)"
+        },
+        "taxi": {
+          "fareEUR": 29.49,
+          "minutes": 20,
+          "basis": "third-party calculator (GobyTaxi) to Argyle Street near Central; low confidence; minutes = upper end of 15-20 min",
+          "capacity": 4
+        }
+      },
+      {
+        "code": "PIK",
+        "public": {
+          "mode": "train",
+          "to": "Glasgow Central",
+          "minutes": 56,
+          "fareEUR": 7.31,
+          "frequency": "2 per hour; up to every 15 min at busy times",
+          "hours": "about 06:00-00:15 (Sunday about 09:00-23:00)"
+        },
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": null,
+          "capacity": 4
+        }
+      }
+    ],
+    "sources": [
+      "https://avantiwestcoast.co.uk:443/where-we-go/airports/glasgow-airport",
+      "https://www.firstbus.co.uk/greater-glasgow/tickets/ps2-fare-cap",
+      "https://www.firstbus.co.uk/greater-glasgow/news-and-service-updates/updates/changes-tickets-across-glasgow-and-surrounding",
+      "https://www.firstbus.co.uk/greater-glasgow/glasgow-airport-express",
+      "https://uofgliving.gla.ac.uk/story/24510423/arriving-at-glasgow-international-airport",
+      "https://www.gla.ac.uk/international/support/whatwedo/internationalstudentwelcome/arriving-at-glasgow-airport/by-bus/",
+      "https://www.gobytaxi.com/amp/europe/scotland/glasgow-airport",
+      "https://www.citizendailypost.com/faq/is-there-taxis-outside-glasgow-airport/",
+      "https://www.automotiveworld.com/news/freenow-app-now-available-in-glasgow/",
+      "https://www.glasgowprestwick.com/to-and-from-the-airport/",
+      "https://www.scotrail.co.uk/train-times/prestwick-international-airport-to-glasgow-central",
+      "https://www.dundee.ac.uk/guides/travel-prestwick-international-airport"
+    ],
+    "notes": "2026 fares: First Glasgow changes from 7 Sep 2026 (day tickets valid to 30 Nov 2026); Avanti page updated 19 Feb 2026. Centre target: Glasgow Central (GLA bus ends at Buchanan Bus Station, stop not confirmed). The GLA airport rail option to Glasgow Central was not priced, so the GBP 11.00 bus may not be the cheapest; the bus fare is from Avanti's page and may not be a single fare. Taxi: third-party calculator only, low confidence. PIK: train fare and 56-min average come from a ScotRail search summary (page blocked; year not confirmed); the airport site says about 40 min. Bus X77 about GBP 7.80 (2025 guide), not cheapest. Ride-hailing: FreeNow only (from an article); Uber and Bolt not verified for Glasgow. localTicket and dayPass ticket types not stated."
+  },
+  {
+    "city": "MAN",
+    "localTicketEUR": null,
+    "dayPassEUR": null,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "MAN",
+        "public": {"mode": null, "to": null, "minutes": null, "fareEUR": null, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": null, "capacity": 4}
+      },
+      {
+        "code": "LPL",
+        "public": {"mode": null, "to": null, "minutes": null, "fareEUR": null, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": null, "capacity": 4}
+      }
+    ],
+    "sources": [],
+    "notes": "Not researched in this run: the WebSearch budget for this turn ran out before any Manchester or Liverpool search. All figures null; re-run needed."
+  },
+  {
+    "city": "DUB",
+    "localTicketEUR": null,
+    "dayPassEUR": null,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "DUB",
+        "public": {"mode": null, "to": null, "minutes": null, "fareEUR": null, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": null, "capacity": 4}
+      }
+    ],
+    "sources": [],
+    "notes": "Not researched in this run: the WebSearch budget for this turn ran out before any Dublin search. All figures null; re-run needed."
+  },
+  {
+    "city": "PAR",
+    "localTicketEUR": null,
+    "dayPassEUR": null,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "CDG",
+        "public": {"mode": null, "to": null, "minutes": null, "fareEUR": null, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": null, "capacity": 4}
+      },
+      {
+        "code": "ORY",
+        "public": {"mode": null, "to": null, "minutes": null, "fareEUR": null, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": null, "capacity": 4}
+      },
+      {
+        "code": "BVA",
+        "public": {"mode": null, "to": null, "minutes": null, "fareEUR": null, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": null, "capacity": 4}
+      }
+    ],
+    "sources": [],
+    "notes": "Not researched in this run: the WebSearch budget for this turn ran out before any Paris search. All figures null; re-run needed."
+  },
+  {
+    "city": "LYS",
+    "localTicketEUR": null,
+    "dayPassEUR": null,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "LYS",
+        "public": {"mode": null, "to": null, "minutes": null, "fareEUR": null, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": null, "capacity": 4}
+      }
+    ],
+    "sources": [],
+    "notes": "Not researched in this run: the WebSearch budget for this turn ran out before any Lyon search. All figures null; re-run needed."
+  },
+  {
+    "city": "NCE",
+    "localTicketEUR": null,
+    "dayPassEUR": null,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "NCE",
+        "public": {"mode": null, "to": null, "minutes": null, "fareEUR": null, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": null, "capacity": 4}
+      }
+    ],
+    "sources": [],
+    "notes": "Not researched in this run: the WebSearch budget for this turn ran out before any Nice search. All figures null; re-run needed."
+  },
+  {
+    "city": "MRS",
+    "localTicketEUR": null,
+    "dayPassEUR": null,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "MRS",
+        "public": {"mode": null, "to": null, "minutes": null, "fareEUR": null, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": null, "capacity": 4}
+      }
+    ],
+    "sources": [],
+    "notes": "Not researched in this run: the WebSearch budget for this turn ran out before any Marseille search. All figures null; re-run needed."
+  },
+  {
+    "city": "BCN",
+    "localTicketEUR": null,
+    "dayPassEUR": null,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "BCN",
+        "public": {"mode": null, "to": null, "minutes": null, "fareEUR": null, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": null, "capacity": 4}
+      },
+      {
+        "code": "GRO",
+        "public": {"mode": null, "to": null, "minutes": null, "fareEUR": null, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": null, "capacity": 4}
+      },
+      {
+        "code": "REU",
+        "public": {"mode": null, "to": null, "minutes": null, "fareEUR": null, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": null, "capacity": 4}
+      }
+    ],
+    "sources": [],
+    "notes": "Not researched in this run: the WebSearch budget for this turn ran out before any Barcelona search. GRO and REU are long-distance coach options. All figures null; re-run needed."
+  },
+  {
+    "city": "MAD",
+    "localTicketEUR": null,
+    "dayPassEUR": null,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "MAD",
+        "public": {"mode": null, "to": null, "minutes": null, "fareEUR": null, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": null, "capacity": 4}
+      }
+    ],
+    "sources": [],
+    "notes": "Not researched in this run: the WebSearch budget for this turn ran out before any Madrid search. All figures null; re-run needed."
+  },
+  {
+    "city": "VLC",
+    "localTicketEUR": null,
+    "dayPassEUR": null,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "VLC",
+        "public": {"mode": null, "to": null, "minutes": null, "fareEUR": null, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": null, "capacity": 4}
+      }
+    ],
+    "sources": [],
+    "notes": "Not researched in this run: the WebSearch budget for this turn ran out before any Valencia search. All figures null; re-run needed."
+  },
+  {
+    "city": "AGP",
+    "localTicketEUR": null,
+    "dayPassEUR": null,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "AGP",
+        "public": {"mode": null, "to": null, "minutes": null, "fareEUR": null, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": null, "capacity": 4}
+      }
+    ],
+    "sources": [],
+    "notes": "Not researched in this run: the WebSearch budget for this turn ran out before any Malaga search. All figures null; re-run needed."
+  },
+  {
+    "city": "SVQ",
+    "localTicketEUR": null,
+    "dayPassEUR": null,
+    "rideHailing": null,
+    "airports": [
+      {
+        "code": "SVQ",
+        "public": {"mode": null, "to": null, "minutes": null, "fareEUR": null, "frequency": null, "hours": null},
+        "taxi": {"fareEUR": null, "minutes": null, "basis": null, "capacity": 4}
+      }
+    ],
+    "sources": [],
+    "notes": "Not researched in this run: the WebSearch budget for this turn ran out before any Seville search. All figures null; re-run needed."
+  }
+]

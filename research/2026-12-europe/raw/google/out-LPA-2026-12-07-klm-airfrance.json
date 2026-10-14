@@ -1,0 +1,97 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMDcyAktMMgJBRmoFEgNUUkRyBRIDTFBBQAFIAZgBAg",
+ "fetchedAt": "2026-10-11T11:25:35",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 125.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM and Transavia",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Gran Canaria Airport",
+   "arrTime": "17:55",
+   "arrDate": "2026-12-07",
+   "durationMin": 755,
+   "layovers": [
+    {
+     "min": 335,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 125 euros. 1 stop flight with KLM and Transavia. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Monday, December 7 and arrives at Gran Canaria Airport at 5:55 PM on Monday, December 7. Total duration 12 hr 35 min.  Layover (1 of 1) is a 5 hr 35 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 196.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines, KLM and Transavia",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:25",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Gran Canaria Airport",
+   "arrTime": "17:55",
+   "arrDate": "2026-12-07",
+   "durationMin": 750,
+   "layovers": [
+    {
+     "min": 115,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    },
+    {
+     "min": 170,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 196 euros. 2 stops flight with Scandinavian Airlines, KLM and Transavia. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:25 AM on Monday, December 7 and arrives at Gran Canaria Airport at 5:55 PM on Monday, December 7. Total duration 12 hr 30 min.  Layover (1 of 2) is a 1 hr 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 50 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 470.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Air Europa",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Gran Canaria Airport",
+   "arrTime": "17:05",
+   "arrDate": "2026-12-07",
+   "durationMin": 705,
+   "layovers": [
+    {
+     "min": 60,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    },
+    {
+     "min": 175,
+     "overnight": false,
+     "airport": "Adolfo Suárez Madrid-Barajas Airport",
+     "city": "Madrid"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 470 euros. 2 stops flight with KLM and Air Europa. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Monday, December 7 and arrives at Gran Canaria Airport at 5:05 PM on Monday, December 7. Total duration 11 hr 45 min.  Layover (1 of 2) is a 1 hr layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 2 hr 55 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Select flight"
+  }
+ ]
+}

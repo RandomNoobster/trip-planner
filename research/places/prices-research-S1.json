@@ -1,0 +1,116 @@
+{
+  "agent": "S1",
+  "cities": {
+    "ZRH": {
+      "mealMid2": {
+        "eur": 135,
+        "note": "Autumn-2026 menus of Zurich mid-range restaurants (Zunfthaus zur Waag starters CHF 18-29, mains CHF 36-63, desserts CHF 15-17; Veltliner Keller a-la-carte mains CHF 49.50-55; Brasserie Lipp from CHF 34 for a vegetarian main) make a three-course dinner at least about CHF 62 per person, so EUR 135 for two is the cheap end, not the table's CHF 71 for two (which is below Geneva and Basel).",
+        "url": "https://www.zunfthaus-zur-waag.ch/s/Zwischenkarte-Sommer-herbst.pdf"
+      },
+      "beerShop": {
+        "eur": 1.7,
+        "note": "Swiss supermarket catalogues in October 2026 price a 50 cl domestic lager at CHF 1.15-1.80 per can (Feldschloesschen 24x50 cl CHF 27.60 at Denner, 6x50 cl CHF 10.80 at Volg), so about EUR 1.7 rather than EUR 2.51.",
+        "url": "https://www.aktionis.ch/q/Bier"
+      }
+    },
+    "GVA": {
+      "beerShop": {
+        "eur": 1.7,
+        "note": "Swiss supermarket catalogues in October 2026 price a 50 cl domestic lager at CHF 1.15-1.80 per can (Feldschloesschen 24x50 cl CHF 27.60 at Denner, Valaisanne 24x50 cl CHF 33.95 at Coop), so about EUR 1.7 rather than EUR 2.68.",
+        "url": "https://www.aktionis.ch/q/Bier"
+      }
+    },
+    "BSL": {
+      "beerShop": {
+        "eur": 1.7,
+        "note": "Swiss supermarket catalogues in October 2026 price a 50 cl domestic lager at CHF 1.15-1.80 per can (Feldschloesschen 24x50 cl CHF 27.60 at Denner, Eichhof 24x50 cl CHF 28.95 at Denner), so about EUR 1.7 rather than EUR 2.22.",
+        "url": "https://www.aktionis.ch/q/Bier"
+      }
+    },
+    "PAR": {
+      "mealMid2": {
+        "eur": 90,
+        "note": "Le Procope's 2026 menu sells a three-course set at EUR 49.50 per person in the evening (EUR 33.50 only Monday-Saturday 12:00-17:00, which is exactly the table's EUR 67 for two) and Chez Janou's 2025 carte runs starters EUR 10-14, mains EUR 20-30, desserts EUR 10-12, so a mid-range dinner for two is about EUR 90-100.",
+        "url": "https://www.procope.com/menus-carte/"
+      },
+      "beerShop": {
+        "eur": 1.75,
+        "note": "Monoprix lists Kronenbourg blonde 50 cl at EUR 1.78 in September 2026 and other French chains' catalogues show about EUR 1.0-1.6 per 50 cl, versus the table's EUR 2.44.",
+        "url": "https://www.promocatalogues.fr/offres/kronenbourg"
+      }
+    },
+    "LYS": {
+      "beerShop": {
+        "eur": 1.5,
+        "note": "French supermarket catalogues in 2025-2026 list Kronenbourg 50 cl at roughly EUR 0.9-1.8 (Monoprix EUR 1.78 in September 2026, Leclerc about EUR 0.95 in November 2025), so about EUR 1.5 rather than EUR 2.42.",
+        "url": "https://www.promocatalogues.fr/offres/kronenbourg"
+      }
+    },
+    "NCE": {
+      "beerShop": {
+        "eur": 1.5,
+        "note": "French supermarket catalogues in 2025-2026 list Kronenbourg 50 cl at roughly EUR 0.9-1.8 (Monoprix EUR 1.78 in September 2026, Leclerc about EUR 0.95 in November 2025), so about EUR 1.5 rather than EUR 3.17.",
+        "url": "https://www.promocatalogues.fr/offres/kronenbourg"
+      }
+    },
+    "MRS": {
+      "beerShop": {
+        "eur": 1.5,
+        "note": "French supermarket catalogues in 2025-2026 list Kronenbourg 50 cl at roughly EUR 0.9-1.8 (Monoprix EUR 1.78 in September 2026, Leclerc about EUR 0.95 in November 2025), so about EUR 1.5 rather than EUR 3.62.",
+        "url": "https://www.promocatalogues.fr/offres/kronenbourg"
+      }
+    },
+    "REK": {
+      "mealMid2": {
+        "eur": 165,
+        "note": "Reykjavik restaurant sites in 2026 show Snaps Bistro's three-course set at ISK 12,900 per person (cheapest a-la-carte combination about ISK 11,300) and Apotek's three-course dinner at ISK 14,900, so about ISK 22,600 or EUR 165 for two at the cheap end instead of the table's ISK 12,865.",
+        "url": "https://snaps.is/kvoldverdur"
+      }
+    },
+    "GLA": {
+      "transit": {
+        "eur": 2.36,
+        "note": "First Bus capped Glasgow single fares at GBP 2 from 7 September 2026 (no end date stated) and SPT's Subway single is GBP 1.80, so about EUR 2.36 instead of the table's GBP 3.31.",
+        "url": "https://www.firstbus.co.uk/greater-glasgow/tickets/ps2-fare-cap"
+      }
+    },
+    "HEL": {
+      "beerShop": {
+        "eur": 2.4,
+        "note": "Finland's July-2026 beer excise (EUR 0.6057 per 330 ml at 5 percent, the highest in Europe) is about EUR 0.92 on a 0.5 l can, which with 25.5 percent VAT puts shop cans near EUR 2.0-2.6 (Expatistan, April 2026: EUR 2.57), not EUR 3.41; lower confidence because no chain price page was reachable.",
+        "url": "https://www.vinetur.com/fr/20260922107571/finland-charges-europes-highest-beer-tax-at-euro06057-a-bottle.html"
+      }
+    }
+  },
+  "checked": {
+    "ZRH": "mealMid2 and beerShop corrected; other values looked fine",
+    "PAR": "mealMid2 and beerShop corrected; transit, fastFood and cappuccino looked fine",
+    "REK": "mealMid2 corrected; beerBar, beerShop and transit looked fine",
+    "GLA": "transit corrected; beerBar 4.73 and mealMid2 left (no clear evidence)",
+    "LYS": "beerShop corrected; mealMid2 60 is low-side but inside the 20 percent threshold, left",
+    "NCE": "beerShop corrected; other values looked fine",
+    "MRS": "beerShop corrected; other values looked fine",
+    "GVA": "beerShop corrected; mealMid2 118 is low-side (Les Armures, Oct 2026) but inside the threshold on the cheapest-combination reading, left",
+    "BSL": "beerShop corrected; mealMid2 112 is low-side (Safran Zunft, Oct 2026) but inside the threshold on the cheapest-combination reading, left",
+    "HEL": "beerShop corrected (lower confidence); beerBar 9.00 looked plausible for 2026",
+    "VIE": "mealCheap 19.22 looked fine (Beisl mains EUR 14-22 in 2026); transit 3.00 is the 2026 digital single (EUR 3.20 at machines)",
+    "DRS": "beerBar 5.40 looked fine (Watzke Ball- und Brauhaus 0.5 l EUR 5.10 on its autumn-2026 list; TRAVELBOOK May 2025 beer-garden average EUR 5.21)",
+    "MUC": "beerBar 4.65 is low-side (Hofbraeuhaus Oct 2026: EUR 5.80 per 0.5 l, about 20 percent higher) but borderline, left",
+    "BER": "beerBar looked fine against the TRAVELBOOK 2025 beer-garden ranking (EUR 5.38 per 0.5 l)",
+    "HAM": "beerBar 5.00 looked fine (TRAVELBOOK 2025 beer gardens EUR 6.41, bars are cheaper); mealMid2 62.5 left",
+    "CGN": "beerBar 5.00 looked fine (TRAVELBOOK 2025 beer gardens EUR 6.34, bars are cheaper)",
+    "FRA": "beerBar 5.00 looked fine (TRAVELBOOK 2025 beer gardens EUR 5.88)",
+    "LEJ": "beerBar 5.00 looked fine (TRAVELBOOK 2025 beer gardens EUR 5.52)",
+    "NUE": "beerBar 4.50 looked fine (TRAVELBOOK 2025 beer gardens EUR 4.85)",
+    "POZ": "beerBar 2.74 (12 PLN) is the low end of the 12-18 PLN found, left",
+    "KRK": "transit 1.40 matches the 2026 single-fare ticket of 6 zl; looked fine",
+    "RIX": "transit 1.51 matches the EUR 1.50 advance single; looked fine",
+    "VNO": "transit 1.01 equals the 30-minute ticket (EUR 1.00; 60-minute is EUR 1.25 per judu.lt), left",
+    "TLL": "beerBar 6.00 looked fine (Hell Hunt Old Town 0.5 l EUR 5.50); LivingCost food values looked plausible",
+    "AMS": "fastFood 13.47 looked fine (medium menu EUR 11.40-13.90 in 2026 per Dutch consumer pages)",
+    "STO": "LivingCost-only food values looked plausible; beerShop left (Systembolaget versus folkol ambiguity)",
+    "MAN": "transit 2.37 matches the GBP 2 bus cap; beerBar left",
+    "EDI": "beerBar and transit left (no clear evidence)"
+  },
+  "notes": "No numbeo.com page was opened. Evidence comes from restaurant menus (HTML and text-layer PDFs, autumn 2026), operator fare pages, supermarket catalogue aggregators and a few travel guides; 22 WebSearch calls were used. Pattern: the LivingCost-derived mealMid2 values for ZRH, PAR and REK are far below real menus, and the beerShop values for French and Swiss cities (and HEL) are 40-100 percent above shelf and catalogue prices. None of my cities has mealMid2 below 2x mealCheap (lowest ratio ZRH 2.74 before the fix). Not changed but worth a look: GVA and BSL mealMid2 (EUR 118 and 112) look low-side, because Les Armures in Geneva (Oct 2026: starters CHF 9-30, mains CHF 26-56, desserts CHF 12-15) and Safran Zunft in Basel (Oct 2026: three-course menu CHF 89, mains CHF 30-72) imply roughly CHF 120-160 for two, so the whole crowd-sourced mealMid2 level in expensive cities may be 15-30 percent under menu prices; I only fixed values that were clearly out of line. HEL beerShop is the least certain correction. GLA transit relies on First Bus's GBP 2 cap started on 7 Sep 2026 with no stated end date (Subway single GBP 1.80). VNO transit matches the 30-minute ticket only (60-minute EUR 1.25). Vienna's 3.00 is the digital price (EUR 3.20 at machines since 1 Jan 2026). Source prices are in local currency converted with 2026-12-europe/fx.json (GBP 0.84763, CHF 0.9313, ISK 136.8 per EUR)."
+}

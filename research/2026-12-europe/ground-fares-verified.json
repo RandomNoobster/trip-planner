@@ -1,0 +1,933 @@
+[
+ {
+  "legId": "r2r-POZ-WRO-TrainviaBojanowo",
+  "from": "POZ",
+  "to": "WRO",
+  "mode": "train",
+  "operator": "PKP Intercity (IC, EC, EIC, TLK); slower REG regional trains also run",
+  "service": "Direct IC/EC trains about hourly, roughly 1 h 20 - 1 h 35 min on the timetable valid from 30 Aug 2026 (fast EIC Viadrina/Lech about 1 h 17); slow REG regional train about 2 h 07 min",
+  "durationMin": 89,
+  "fare": {
+   "type": "fixed",
+   "eur": 13.0,
+   "minEUR": null,
+   "maxEUR": null,
+   "byDate": {
+    "2026-12-10": 13.0,
+    "2026-12-11": 13.0,
+    "2026-12-13": 13.0
+   },
+   "text": "PLN 57 regular 2nd class on every direct IC/EC/TLK train (EuroPodroze \"od 57 PLN\"); EIC Viadrina/Lech PLN 92; page quotes a normal ticket as about PLN 40-85",
+   "url": "https://www.europodroze.pl/rozklad-jazdy/poznan-glowny/wroclaw-glowny"
+  },
+  "confidence": "medium",
+  "notes": "Regular PKP Intercity 2nd-class fare read from the EuroPodroze reseller page (intercity.pl itself is JavaScript-only); the fare is distance-based, not date-based, and the same in both directions (Wroclaw-Poznan page also shows PLN 57 / EIC PLN 92). PKP Intercity's official price list valid from 23.07.2026 is distance-banded (https://www.intercity.pl/pl/dokumenty/Przepisy%20i%20taryfy/Cennik_uslug_przewozowych_PKP_Intercity_tekst_ujednolicony_obowiazuje_od_23.07.2026_r.pdf) but its text would not extract cleanly, so it was not used as the number. Promo/Super Promo fares can be cheaper; IC/EIC need a compulsory seat reservation that is normally included in the shown price (check at checkout). Rome2Rio's 148 min \"via Bojanowo\" matches the slow regional routing, not the IC. Timetable seen is valid until 25 Oct 2026, so December times may differ. A REG train shown \"from 4 PLN\" looked implausible and was ignored."
+ },
+ {
+  "legId": "r2r-BER-PRG-Train",
+  "from": "BER",
+  "to": "PRG",
+  "mode": "train",
+  "operator": "Deutsche Bahn (ICE/EC) with Ceske drahy; DB and CD sell the same trains",
+  "service": "Direct EC/ICE/Railjet via Dresden and Usti nad Labem, 8 trains a day, about 4 h 15 min (DB wording \"8x taeglich in 4:15 Stunden\")",
+  "durationMin": 255,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 19.99,
+   "maxEUR": 80.0,
+   "byDate": null,
+   "text": "Super Sparpreis Europa from EUR 19.99 2nd class Berlin-Prag (bahn.de); Seat61 2026: advance from EUR 18.99, fully flexible EUR 80-95 2nd class",
+   "url": "https://www.bahn.de/p/view/angebot/sparpreis-europa/tschechien.shtml"
+  },
+  "confidence": "medium",
+  "notes": "The 19.99 is the lowest quota price, tied to one train (no changes, no refund); DB sells up to 6 months ahead so 12-13 Dec are bookable now, but the timetable changes on Sun 13 Dec 2026 and DB says tickets for the new timetable open mid-October, so 13 Dec prices may not be visible yet. DB and CD price the same train independently (Seat61: compare cd.cz and bahn.de). Max EUR 80 is the lower end of Seat61's flexible-fare range (EUR 80-95), not an official tariff; Rome2Rio's EUR 32.66 high end understates it. Seat reservation optional, about EUR 5.50 via DB or EUR 3 via CD. Direct Prague-Berlin-Hamburg trains run all year from 1 May 2026."
+ },
+ {
+  "legId": "r2r-WRO-POZ-TrainviaBojanowo",
+  "from": "WRO",
+  "to": "POZ",
+  "mode": "train",
+  "operator": "PKP Intercity (IC, EC, EIC, TLK); slower REG regional trains also run",
+  "service": "Direct IC/EC trains about hourly, roughly 1 h 20 - 1 h 35 min on the timetable valid from 30 Aug 2026 (fast EIC Viadrina/Lech about 1 h 17); slow REG regional train about 2 h 07 min",
+  "durationMin": 89,
+  "fare": {
+   "type": "fixed",
+   "eur": 13.0,
+   "minEUR": null,
+   "maxEUR": null,
+   "byDate": {
+    "2026-12-10": 13.0,
+    "2026-12-11": 13.0,
+    "2026-12-12": 13.0,
+    "2026-12-13": 13.0,
+    "2026-12-15": 13.0
+   },
+   "text": "PLN 57 regular 2nd class on every direct IC/EC/TLK train (EuroPodroze \"od 57 PLN\"); EIC Viadrina/Lech PLN 92; page quotes a normal ticket as about PLN 40-85",
+   "url": "https://www.europodroze.pl/rozklad-jazdy/wroclaw-glowny/poznan-glowny"
+  },
+  "confidence": "medium",
+  "notes": "Regular PKP Intercity 2nd-class fare read from the EuroPodroze reseller page (intercity.pl itself is JavaScript-only); the fare is distance-based, not date-based, and the same in both directions (Wroclaw-Poznan page also shows PLN 57 / EIC PLN 92). PKP Intercity's official price list valid from 23.07.2026 is distance-banded (https://www.intercity.pl/pl/dokumenty/Przepisy%20i%20taryfy/Cennik_uslug_przewozowych_PKP_Intercity_tekst_ujednolicony_obowiazuje_od_23.07.2026_r.pdf) but its text would not extract cleanly, so it was not used as the number. Promo/Super Promo fares can be cheaper; IC/EIC need a compulsory seat reservation that is normally included in the shown price (check at checkout). Rome2Rio's 148 min \"via Bojanowo\" matches the slow regional routing, not the IC. Timetable seen is valid until 25 Oct 2026, so December times may differ. A REG train shown \"from 4 PLN\" looked implausible and was ignored."
+ },
+ {
+  "legId": "r2r-PRG-BER-Train",
+  "from": "PRG",
+  "to": "BER",
+  "mode": "train",
+  "operator": "Deutsche Bahn (ICE/EC) with Ceske drahy; DB and CD sell the same trains",
+  "service": "Direct EC/ICE/Railjet via Dresden and Usti nad Labem, 8 trains a day, about 4 h 15 min (DB wording \"8x taeglich in 4:15 Stunden\")",
+  "durationMin": 255,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 19.99,
+   "maxEUR": 80.0,
+   "byDate": null,
+   "text": "Super Sparpreis Europa from EUR 19.99 2nd class Berlin-Prag (bahn.de); Seat61 2026: advance from EUR 18.99, fully flexible EUR 80-95 2nd class",
+   "url": "https://www.bahn.de/p/view/angebot/sparpreis-europa/tschechien.shtml"
+  },
+  "confidence": "medium",
+  "notes": "The 19.99 is the lowest quota price, tied to one train (no changes, no refund); DB sells up to 6 months ahead so 12-13 Dec are bookable now, but the timetable changes on Sun 13 Dec 2026 and DB says tickets for the new timetable open mid-October, so 13 Dec prices may not be visible yet. DB and CD price the same train independently (Seat61: compare cd.cz and bahn.de). Max EUR 80 is the lower end of Seat61's flexible-fare range (EUR 80-95), not an official tariff; Rome2Rio's EUR 32.66 high end understates it. Seat reservation optional, about EUR 5.50 via DB or EUR 3 via CD. Direct Prague-Berlin-Hamburg trains run all year from 1 May 2026."
+ },
+ {
+  "legId": "r2r-VNO-POZ-Bustrain",
+  "from": "VNO",
+  "to": "POZ",
+  "mode": "bus+train",
+  "operator": "FlixBus (direct Poznan-Vilnius coach), or a coach Vilnius-Warsaw (e.g. Lux Express) plus PKP Intercity Warszawa Centralna-Poznan",
+  "service": "FlixBus direct coach about 12.5-14 h, up to 6 a day; alternative: coach about 7 h 25 min - 8 h to Warsaw plus IC/EIC 2 h 18 - 2 h 58 min to Poznan",
+  "durationMin": 750,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 27.98,
+   "maxEUR": 65.3,
+   "byDate": null,
+   "text": "FlixBus Poznan-Vilnius \"from EUR 27.98\" (flixbus.fr); Lux Express Vilnius-Warsaw cheapest about EUR 27 (Omio) plus PKP Intercity Warszawa Centralna-Poznan Glowny PLN 80 (IC) to PLN 168 (EIC) 2nd class",
+   "url": "https://www.flixbus.com/bus-routes/bus-poznan-vilnius"
+  },
+  "confidence": "low",
+  "notes": "There is no through ticket for coach + train, and a direct FlixBus coach exists, so it is the cheapest single booking (the minimum). The maximum is a coach to Warsaw plus the fast EIC train. Coach prices are dynamic and the aggregator figures are undated; PKP prices are from the EuroPodroze reseller page. An aggregator summary of luxexpress.eu lists about 26% off for under-26s (verify at luxexpress.eu). Rome2Rio's \"Bus, train\" 14 h 09 is the coach+train combination."
+ },
+ {
+  "legId": "r2r-SIN-KUL-Train",
+  "from": "SIN",
+  "to": "KUL",
+  "mode": "train",
+  "operator": "KTMB: Shuttle Tebrau Woodlands - JB Sentral, then ETS JB Sentral - KL Sentral",
+  "service": "Shuttle about 5 min plus 30-60 min immigration, then ETS Gold about 4 h 40 min / Platinum about 4 h 30 min",
+  "durationMin": 357,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 17.0,
+   "maxEUR": 27.3,
+   "byDate": null,
+   "text": "Shuttle Tebrau S$5 from Woodlands; ETS Gold JB Sentral-KL Sentral about RM 62-81, Platinum RM 82-109 adult (blogs, train36)",
+   "url": "https://www.train36.com/ets-jb-sentral-to-kl-sentral.html"
+  },
+  "confidence": "low",
+  "notes": "Two separate KTMB tickets; ETS fares are flexi-priced by day and time (midweek midday cheapest) and seats open about 30 days before departure at online.ktmb.com.my, so 8 Dec is not yet on sale (from about 8 Nov). The RTS Link Woodlands-JB is expected only from Jan 2027, so the shuttle applies in December. Rome2Rio's EUR 6-17 understates the ETS leg."
+ },
+ {
+  "legId": "r2r-VIE-BTS-Train",
+  "from": "VIE",
+  "to": "BTS",
+  "mode": "train",
+  "operator": "OeBB (REX regional express, Bratislava-Ticket); Railjet RJX 160/167 and IC 44/45 also run direct but need Sparschiene/standard tickets and a reservation",
+  "service": "Direct REX about every 30-60 min, 56-59 min, Wien Hbf to Bratislava hl.st. (some to Petrzalka)",
+  "durationMin": 59,
+  "fare": {
+   "type": "fixed",
+   "eur": 12.7,
+   "minEUR": null,
+   "maxEUR": null,
+   "byDate": {
+    "2026-12-12": 12.7,
+    "2026-12-15": 12.7
+   },
+   "text": "EUR 12.70 each way in 2nd class on the REX (Seat61); Bratislava Ticket return about EUR 18-19; Sparschiene is not sold on REX trains (OeBB)",
+   "url": "https://www.seat61.com/Slovakia.htm"
+  },
+  "confidence": "medium",
+  "notes": "The OeBB Bratislava-Ticket page confirms the product and the REX service but lists no price; EUR 12.70 comes from Seat61 and agrees with EveryRail (about EUR 12-13, June 2026). OeBB raises standard fares by about 3.5% on 13 Dec 2026 (Sparschiene from-prices unchanged), so a Tue 15 Dec journey (Vienna to Bratislava) may cost about EUR 13.1. Rome2Rio's EUR 3.27 low end is not available as a normal adult single."
+ },
+ {
+  "legId": "r2r-SOF-BUH-Trainnighttrain",
+  "from": "SOF",
+  "to": "BUH",
+  "mode": "train",
+  "operator": "CFR Calatori with BDZ (direct train 460 only until 12 Oct 2026; afterwards separate trains with a change at Ruse)",
+  "service": "Direct train 460 07:00 -> 16:56 (9 h 56 min) ran daily 13 Jun - 12 Oct 2026 only; no direct train in December per the seasonal timetable",
+  "durationMin": 596,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 30.6,
+   "maxEUR": 33.0,
+   "byDate": null,
+   "text": "2nd class Sofia-Bucuresti Nord EUR 30,60 / BGN 59,85 plus seat reservation EUR 1,25 (EveryRail, reviewed Oct 2026); rail.cc: RON 161 (about EUR 33)",
+   "url": "https://everyrail.com/trains/sofia-to-bucharest/"
+  },
+  "confidence": "low",
+  "notes": "The fare is for the direct train that stops running on 12 Oct 2026; for 13 Dec the trip is by separate tickets with a change at Ruse (Sofia-Ruse BDZ, Ruse/Giurgiu-Bucharest CFR) and no December fare was found; the price is probably similar but unverified. Rome2Rio's EUR 6.91-11.20 is clearly too low for a through trip. CFR sells international e-tickets about 90 days ahead."
+ },
+ {
+  "legId": "r2r-HER-ATH-Carferry",
+  "from": "HER",
+  "to": "ATH",
+  "mode": "ferry",
+  "operator": "Minoan Lines, ANEK Lines, Blue Star Ferries, Seajets (Heraklion - Piraeus)",
+  "service": "Ferry Heraklion - Piraeus, 7 h 25 min - 9 h 40 min (average 10 h 22 min); Piraeus is the Athens port",
+  "durationMin": 590,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 33.0,
+   "maxEUR": 55.0,
+   "byDate": null,
+   "text": "Ferryscanner: one-way foot passenger from EUR 33.00 up to EUR 145.70 (11 Oct 2026); deck/seat averages EUR 38.56 (ANEK) and 43.19 (Minoan) in a Dec 2025 snapshot; cheapest cabin berth about EUR 55 (older FerriesinGreece figure)",
+   "url": "https://www.ferryscanner.com/en/ferry-routes/ferry-heraklion-crete-piraeus"
+  },
+  "confidence": "low",
+  "notes": "This is a ferry, not rail (Rome2Rio labelled it car ferry). min = cheapest deck/seat seen now; max = cheapest cabin berth (older source), so premium cabins can reach EUR 145. Only about 4 crossings a week run from October to May, so confirm a sailing exists on your dates (Tue 8 Dec, Thu 10 Dec)."
+ },
+ {
+  "legId": "r2r-LON-BRU-Train",
+  "from": "LON",
+  "to": "BRU",
+  "mode": "train",
+  "operator": "Eurostar, direct",
+  "service": "Direct, about 2 h 01 min London St Pancras - Brussels Midi",
+  "durationMin": 121,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 46.0,
+   "maxEUR": null,
+   "byDate": null,
+   "text": "Eurostar Standard (2nd class) one way \"from GBP 39\" for travel 21 Oct 2026 - 31 Jan 2027, based on a mandatory return booking, prices correct as at 30/09/2026 (eurostar.com); Seat61: Standard from GBP 51, Plus from GBP 98",
+   "url": "https://www.eurostar.com/uk-en/find-lowest-fares/london/brussels"
+  },
+  "confidence": "medium",
+  "notes": "Official Eurostar minimum only; the GBP 35 autumn sale ended 14 Sep 2026. Eurostar sells up to 11 months ahead so December is open, but prices rise as seats fill. No flexible 2nd-class fare was published, so maxEUR is empty; Rome2Rio's EUR 224 high end likely reflects premium classes. Carry passport and allow time for exit/entry checks."
+ },
+ {
+  "legId": "r2r-ZRH-BSL-Train",
+  "from": "ZRH",
+  "to": "BSL",
+  "mode": "train",
+  "operator": "SBB (IC/ICE), direct",
+  "service": "Direct, several trains an hour, about 52-70 min (Trainline: usually 1 h 07, fastest 52 min)",
+  "durationMin": 67,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 16.1,
+   "maxEUR": 38.7,
+   "byDate": null,
+   "text": "SBB Supersaver (Sparbillett) \"around CHF 15\" and full single fare \"around CHF 36\" 2nd class (nomadotravel guide); Trainline shows from GBP 32.54 for a standard single",
+   "url": "https://www.nomadotravel.app/en/guides/zurich-to-basel-travel-guide"
+  },
+  "confidence": "low",
+  "notes": "SBB's own booking tool is JavaScript-only and showed no price; the CHF figures are third-party and the full fare is consistent with Trainline's GBP 32.54 (about CHF 36). Supersaver tickets are train-specific and limited (sold up to 6 months ahead). Half-fare card holders pay roughly half; not assumed here. Rome2Rio's EUR 70 high end is above the full fare."
+ },
+ {
+  "legId": "r2r-ROM-TUN-Traincarferry",
+  "from": "ROM",
+  "to": "TUN",
+  "mode": "ferry+train",
+  "operator": "Regional train Rome - Civitavecchia, then Grandi Navi Veloci (GNV) or Grimaldi Lines ferry Civitavecchia - Tunis",
+  "service": "Ferry 18 h 30 min - 27 h 30 min (average 24 h 17 min) plus about 1 h by train; Rome2Rio 24 h 50 min",
+  "durationMin": 1490,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 50.0,
+   "maxEUR": 215.0,
+   "byDate": null,
+   "text": "Ferryscanner (25 Sep 2026): Civitavecchia-Tunis foot passenger one way from EUR 50.00 up to EUR 215.00; German aggregator: GNV \"ab 175 EUR\" for the weekly Friday sailing",
+   "url": "https://www.ferryscanner.com/en/ferry-routes/ferry-civitavecchia-tunis"
+  },
+  "confidence": "low",
+  "notes": "Ferry, not rail; fare excludes the Rome-Civitavecchia regional train. Only about 1-2 sailings a week run outside summer (the page contradicts itself), so a sailing on Thu 10 Dec or Sun 13 Dec is not guaranteed - check gnv.it / grimaldi-lines.com. The min is the cheapest deck fare, not a sleeping cabin."
+ },
+ {
+  "legId": "r2r-BKK-KUL-TrainviaPadangBesar",
+  "from": "BKK",
+  "to": "KUL",
+  "mode": "train",
+  "operator": "SRT International Express (Bangkok - Padang Besar, sleeper) plus KTMB ETS Padang Besar - KL Sentral",
+  "service": "Two trains with a change and immigration at Padang Besar; about 22 h 19 min in total (Rome2Rio)",
+  "durationMin": 1339,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 39.2,
+   "maxEUR": 57.4,
+   "byDate": null,
+   "text": "SRT International Express 2nd class sleeper THB 848 (upper) - 918 (lower) (Thai Train Guide, train36), older 2018 quote THB 1,320; ETS Padang Besar-KL Sentral Gold RM 76 / Platinum RM 102 adult (train36, older, KTMB now uses flexi fares)",
+   "url": "https://www.train36.com/ets-kl-sentral-padang-besar-ticket-price.html"
+  },
+  "confidence": "low",
+  "notes": "Two separate tickets, no through fare. The min uses the current sleeper tariffs plus ETS Gold; the max uses the older THB 1,320 quote plus ETS Platinum. Both sources are undated blogs; KTMB flexi fares open about 30 days ahead. ETS leg alone is about 5 h 30 min."
+ },
+ {
+  "legId": "r2r-VIE-BUD-Train",
+  "from": "VIE",
+  "to": "BUD",
+  "mode": "train",
+  "operator": "OeBB and MAV-START Railjet / EuroCity, direct",
+  "service": "Direct Railjet about every hour, about 2 h 37 - 2 h 40 min",
+  "durationMin": 158,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 14.0,
+   "maxEUR": 52.7,
+   "byDate": null,
+   "text": "Sparschiene Europa 2nd class \"ab\" EUR 14 (rail.cc), EUR 9 (EveryRail) or EUR 19.90 (nomadotravel); Normalpreis about EUR 52 (EveryRail) / EUR 52.70 (nomadotravel); MAV early-bird from about EUR 13",
+   "url": "https://www.oebb.at/de/reiseplanung-services/oebb-zugverbindungen/zugverbindungen-europa/budapest"
+  },
+  "confidence": "low",
+  "notes": "OeBB's own pages give no prices (JavaScript shop), so the range comes from third-party sites that disagree on the floor (EUR 9-19.90); 14 is the middle quote. Sparschiene is limited per train and sold up to 6 months ahead (confirmed on oebb.at); standard fare is about 3.5% dearer from 13 Dec 2026. RegioJet (not covered by passes) shows early-bird fares from about EUR 7.90 according to EveryRail. Rome2Rio's EUR 88.66 high end is far above the flexible fare found."
+ },
+ {
+  "legId": "r2r-MUC-VIE-Nighttrain",
+  "from": "MUC",
+  "to": "VIE",
+  "mode": "train",
+  "operator": "OeBB Railjet (also sold by Deutsche Bahn), direct",
+  "service": "Direct Railjet roughly hourly, about 4 h; Rome2Rio labels it \"night train\" but 4 h 44 min matches the day Railjet",
+  "durationMin": 284,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 23.99,
+   "maxEUR": 86.0,
+   "byDate": null,
+   "text": "DB Sparpreis Europa Oesterreich \"ab 23,99 Euro\" 2nd class (example Munich-Wien); flexible tickets bought within a week average EUR 70-86, same day can exceed EUR 100 (nomadotravel)",
+   "url": "https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-oesterreich"
+  },
+  "confidence": "low",
+  "notes": "Third-party sites quote OeBB Sparschiene around EUR 19.99-25; DB and OeBB price the same Railjet independently so compare bahn.de and oebb.at. Max EUR 86 is a third-party average of flexible tickets, not an official tariff; in one December comparison (heidelberg24, route reported as Munich-Vienna) the same trip cost EUR 89.99 at DB and EUR 120.20 at OeBB, so Saturday 12 Dec before Christmas can sit well above the minimum. DB sells 6 months ahead."
+ },
+ {
+  "legId": "r2r-HEL-STO-Carferry",
+  "from": "HEL",
+  "to": "STO",
+  "mode": "ferry",
+  "operator": "Viking Line and Tallink Silja overnight ferry (via Aland)",
+  "service": "Overnight ferry Helsinki - Stockholm, 16 h 50 min (Ferryscanner)",
+  "durationMin": 1005,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 47.5,
+   "maxEUR": 117.5,
+   "byDate": null,
+   "text": "Ferryscanner snapshot 21 Mar 2026: Viking Line EUR 47.50 / 70.88, Silja Line EUR 111.90, Tallink Silja EUR 117.50; current page range EUR 7.00 - 377.00 foot passenger (10 Oct 2026)",
+   "url": "https://www.ferryscanner.com/en/ferry-routes/ferry-helsinki-stockholm"
+  },
+  "confidence": "low",
+  "notes": "Ferry, not rail. Fares are per person and normally include a berth in a shared cabin; deck-only fares are rare. The range is a March snapshot, so December could differ; Sunday-Wednesday sailings are cheapest off-season (13 Dec is a Sunday, 10 Dec a Thursday). Check vikingline.com and tallinksilja.com."
+ },
+ {
+  "legId": "r2r-DRS-BER-Train",
+  "from": "DRS",
+  "to": "BER",
+  "mode": "train",
+  "operator": "Deutsche Bahn (ICE/IC/EC); FlixTrain also runs but no fare found",
+  "service": "Direct, up to 15 trains a day, fastest 1 h 39 min since June 2026, others about 1 h 55 min - 2 h",
+  "durationMin": 99,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 25.99,
+   "maxEUR": null,
+   "byDate": null,
+   "text": "DB fares from EUR 25.99 Berlin Hbf-Dresden Hbf (EveryRail, June 2026); DB Sparpreis floor EUR 21.99 2nd class (bahn.de FAQ)",
+   "url": "https://everyrail.com/trains/berlin-to-dresden/"
+  },
+  "confidence": "low",
+  "notes": "Only a snapshot of the cheapest DB fare was found, no Flexpreis; the Deutschlandticket is not valid on ICE/EC. DB sells up to 12 months ahead for domestic Sparpreis. maxEUR left empty because no flexible fare could be verified (Rome2Rio's EUR 65.33 is unconfirmed)."
+ },
+ {
+  "legId": "r2r-POZ-VNO-Bustrain",
+  "from": "POZ",
+  "to": "VNO",
+  "mode": "bus+train",
+  "operator": "FlixBus (direct Poznan-Vilnius coach), or a coach Vilnius-Warsaw (e.g. Lux Express) plus PKP Intercity Warszawa Centralna-Poznan",
+  "service": "FlixBus direct coach about 12.5-14 h, up to 6 a day; alternative: coach about 7 h 25 min - 8 h to Warsaw plus IC/EIC 2 h 18 - 2 h 58 min to Poznan",
+  "durationMin": 750,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 27.98,
+   "maxEUR": 65.3,
+   "byDate": null,
+   "text": "FlixBus Poznan-Vilnius \"from EUR 27.98\" (flixbus.fr); Lux Express Vilnius-Warsaw cheapest about EUR 27 (Omio) plus PKP Intercity Warszawa Centralna-Poznan Glowny PLN 80 (IC) to PLN 168 (EIC) 2nd class",
+   "url": "https://www.flixbus.com/bus-routes/bus-poznan-vilnius"
+  },
+  "confidence": "low",
+  "notes": "There is no through ticket for coach + train, and a direct FlixBus coach exists, so it is the cheapest single booking (the minimum). The maximum is a coach to Warsaw plus the fast EIC train. Coach prices are dynamic and the aggregator figures are undated; PKP prices are from the EuroPodroze reseller page. An aggregator summary of luxexpress.eu lists about 26% off for under-26s (verify at luxexpress.eu). Rome2Rio's \"Bus, train\" 14 h 09 is the coach+train combination."
+ },
+ {
+  "legId": "r2r-SVQ-MAD-Train",
+  "from": "SVQ",
+  "to": "MAD",
+  "mode": "train",
+  "operator": "Renfe (AVE/Avlo), iryo, Ouigo",
+  "service": "Direct, about 26 trains a day, 2 h 36 - 2 h 43 min",
+  "durationMin": 156,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 9.4,
+   "maxEUR": 130.0,
+   "byDate": null,
+   "text": "Trainline \"from GBP 7.98\" (cheapest, undated); EveryRail Sept 2026: flexible Renfe AVE \"toward EUR 130 or beyond\", standard advance AVE from about EUR 45, iryo promo from about EUR 15",
+   "url": "https://www.thetrainline.com/en/train-times/seville-to-madrid-atocha"
+  },
+  "confidence": "low",
+  "notes": "Spain's operators price dynamically and Dec sales may not all be open; no official tariff was readable. Sun 13 Dec is a busy return day. The max is a third-party estimate of the flexible AVE fare; Rome2Rio's 121.32 is in the same range."
+ },
+ {
+  "legId": "r2r-BRU-LON-Train",
+  "from": "BRU",
+  "to": "LON",
+  "mode": "train",
+  "operator": "Eurostar, direct",
+  "service": "Direct, about 2 h 01 min London St Pancras - Brussels Midi",
+  "durationMin": 121,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 44.0,
+   "maxEUR": null,
+   "byDate": null,
+   "text": "Eurostar Standard (2nd class) one way \"from EUR 44\" Brussels-London for travel 21 Oct 2026 - 31 Jan 2027, based on a mandatory return booking, correct as at 30/09/2026 (eurostar.com)",
+   "url": "https://www.eurostar.com/be-en/find-lowest-fares/brussels/london"
+  },
+  "confidence": "medium",
+  "notes": "Official Eurostar minimum only; the GBP 35 autumn sale ended 14 Sep 2026. Eurostar sells up to 11 months ahead so December is open, but prices rise as seats fill. No flexible 2nd-class fare was published, so maxEUR is empty; Rome2Rio's EUR 224 high end likely reflects premium classes. Carry passport and allow time for exit/entry checks."
+ },
+ {
+  "legId": "r2r-ATH-HER-Carferry",
+  "from": "ATH",
+  "to": "HER",
+  "mode": "ferry",
+  "operator": "Minoan Lines, ANEK Lines, Blue Star Ferries, Seajets (Heraklion - Piraeus)",
+  "service": "Ferry Heraklion - Piraeus, 7 h 25 min - 9 h 40 min (average 10 h 22 min); Piraeus is the Athens port",
+  "durationMin": 590,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 33.0,
+   "maxEUR": 55.0,
+   "byDate": null,
+   "text": "Ferryscanner: one-way foot passenger from EUR 33.00 up to EUR 145.70 (11 Oct 2026); deck/seat averages EUR 38.56 (ANEK) and 43.19 (Minoan) in a Dec 2025 snapshot; cheapest cabin berth about EUR 55 (older FerriesinGreece figure)",
+   "url": "https://www.ferryscanner.com/en/ferry-routes/ferry-piraeus-heraklion-crete"
+  },
+  "confidence": "low",
+  "notes": "This is a ferry, not rail (Rome2Rio labelled it car ferry). min = cheapest deck/seat seen now; max = cheapest cabin berth (older source), so premium cabins can reach EUR 145. Only about 4 crossings a week run from October to May, so confirm a sailing exists on your dates (Tue 8 Dec, Thu 10 Dec)."
+ },
+ {
+  "legId": "r2r-HER-SKG-Buscarferry",
+  "from": "HER",
+  "to": "SKG",
+  "mode": "ferry+bus",
+  "operator": "Minoan Lines/ANEK ferry Heraklion-Piraeus, then Hellenic Train Intercity or KTEL bus Athens-Thessaloniki",
+  "service": "No through ticket; ferry about 8-10 h plus 5-6 h by train or bus; Rome2Rio 17 h 27 min",
+  "durationMin": 1047,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 58.0,
+   "maxEUR": 100.0,
+   "byDate": null,
+   "text": "Ferry EUR 33-55 (Ferryscanner/FerriesinGreece) plus Athens-Thessaloniki Intercity train 2nd class EUR 25-35 or KTEL bus about EUR 35-45 (third-party guides)",
+   "url": "https://www.ferryscanner.com/en/ferry-routes/ferry-heraklion-crete-piraeus"
+  },
+  "confidence": "low",
+  "notes": "Sum of two separately estimated legs (min 33+25, max 55+45); neither Hellenic Train nor KTEL published a fare that could be read. Ferries sail only about 4 times a week in winter, and the fast Athens-Thessaloniki Express services were reported suspended for infrastructure work, so the train may be the slower Intercity. A Piraeus-central Athens transfer is not included."
+ },
+ {
+  "legId": "r2r-BER-BUD-Train",
+  "from": "BER",
+  "to": "BUD",
+  "mode": "train",
+  "operator": "MAV-START EuroNight (night, direct) or day trains with changes via Prague/Vienna (DB, CD, OeBB, MAV)",
+  "service": "Day journey about 11 h; EuroNight Berlin Hbf 20:11 -> Budapest-Nyugati 08:29",
+  "durationMin": 660,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 42.99,
+   "maxEUR": null,
+   "byDate": null,
+   "text": "DB Sparpreis Europa Ungarn \"ab 42,99 Euro in der 2. Klasse\" (example Munich-Budapest); EuroNight couchette 6-berth from EUR 59, 4-berth EUR 69, 2-bed sleeper EUR 99 (Seat61)",
+   "url": "https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-ungarn"
+  },
+  "confidence": "low",
+  "notes": "Lowest published price is DB's Hungary floor, which names Munich-Budapest, not Berlin; the real Berlin-Budapest floor may be higher. Night-train berth prices are \"from\" prices from Seat61 (euro sign garbled in the page). No flexible fare found, so maxEUR is empty; Rome2Rio's 46.66-88.66 is unconfirmed."
+ },
+ {
+  "legId": "r2r-HAM-DRS-Train",
+  "from": "HAM",
+  "to": "DRS",
+  "mode": "train",
+  "operator": "Deutsche Bahn ICE (change at Berlin)",
+  "service": "ICE Hamburg-Berlin then Berlin-Dresden, about 3 h 27 min",
+  "durationMin": 207,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 21.99,
+   "maxEUR": null,
+   "byDate": null,
+   "text": "DB Sparpreis \"ab 21,99 Euro in der 2. Klasse\" (general domestic floor, bahn.de); no route-specific price found",
+   "url": "https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis"
+  },
+  "confidence": "low",
+  "notes": "21.99 is DB's published domestic starting price for any route and is a floor only; the real quota price on this 450 km trip is likely higher. No flexible fare found, so maxEUR is empty; Rome2Rio's EUR 168 is unconfirmed."
+ },
+ {
+  "legId": "r2r-BUD-WRO-Train",
+  "from": "BUD",
+  "to": "WRO",
+  "mode": "train",
+  "operator": "MAV-START, ZSSK, Ceske drahy and PKP Intercity (no single operator; changes needed)",
+  "service": "No through train found; Trainline (Aug 2026) shows 7 h 57 min with 2 changes up to 14 h 49 min with 5 changes; Rome2Rio 10 h 18 min",
+  "durationMin": 618,
+  "fare": null,
+  "confidence": "low",
+  "notes": "No reliable fare found. A Czech Railways page listed EC 130 Bathory at EUR 46 and EUR 65 but did not say which stretch, and a new overnight EN Carpatia Budapest-Poland was reported for 14 Dec (year unclear), so neither was used. Probably Budapest - Bratislava/Ostrava - Katowice - Wroclaw with several tickets; check mav-start.hu, zssk.sk and intercity.pl."
+ },
+ {
+  "legId": "r2r-TLL-STO-Carferry",
+  "from": "TLL",
+  "to": "STO",
+  "mode": "ferry",
+  "operator": "Tallink Silja overnight ferry Tallinn - Stockholm",
+  "service": "Overnight ferry about 16 h",
+  "durationMin": 960,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 73.8,
+   "maxEUR": 202.0,
+   "byDate": null,
+   "text": "Ferryscanner: tickets between EUR 73.80 and EUR 202.00 Tallinn-Stockholm (undated); Tallink promotion up to 50% off selected one-way sailings in B-Standard Inside and A-Standard Sea View cabins",
+   "url": "https://www.ferryscanner.com/en/ferry-routes/ferry-tallinn-all-ports-stockholm"
+  },
+  "confidence": "low",
+  "notes": "Ferry, not rail. The Tallink promotion (travel to 22 Dec 2026) can only be booked until 15 Oct 2026. Undated aggregator range; Sunday-Wednesday sailings are cheapest off-season (10 Dec is a Thursday). Check tallink.com for the exact December cabin price."
+ },
+ {
+  "legId": "r2r-HAM-BTS-Train",
+  "from": "HAM",
+  "to": "BTS",
+  "mode": "train",
+  "operator": "Deutsche Bahn with Ceske drahy/OeBB (change at Prague, Brno or Vienna)",
+  "service": "Rome2Rio shows 10 h 28 min; no through train confirmed",
+  "durationMin": 628,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 35.99,
+   "maxEUR": null,
+   "byDate": null,
+   "text": "DB Sparpreis Europa Slowakei \"ab 35,99 Euro in der 2. Klasse\" (example Munich-Bratislava 5 h 20)",
+   "url": "https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-slowakei"
+  },
+  "confidence": "low",
+  "notes": "EUR 35.99 is DB's lowest Germany-Slovakia Sparpreis Europa, listed for Munich-Bratislava; Hamburg is much farther so the real minimum is probably higher. No maximum found. Check cd.cz, oebb.at and bahn.de for the changing routing."
+ },
+ {
+  "legId": "r2r-STO-TLL-Carferry",
+  "from": "STO",
+  "to": "TLL",
+  "mode": "ferry",
+  "operator": "Tallink Silja overnight ferry Tallinn - Stockholm",
+  "service": "Overnight ferry about 16 h",
+  "durationMin": 960,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 73.8,
+   "maxEUR": 202.0,
+   "byDate": null,
+   "text": "Ferryscanner: tickets between EUR 73.80 and EUR 202.00 Tallinn-Stockholm (undated); Tallink promotion up to 50% off selected one-way sailings in B-Standard Inside and A-Standard Sea View cabins",
+   "url": "https://www.ferryscanner.com/en/ferry-routes/ferry-tallinn-all-ports-stockholm"
+  },
+  "confidence": "low",
+  "notes": "Ferry, not rail. The Tallink promotion (travel to 22 Dec 2026) can only be booked until 15 Oct 2026. Undated aggregator range; Sunday-Wednesday sailings are cheapest off-season (10 Dec is a Thursday). Check tallink.com for the exact December cabin price."
+ },
+ {
+  "legId": "r2r-HAM-VIE-Train",
+  "from": "HAM",
+  "to": "VIE",
+  "mode": "train",
+  "operator": "Ceske drahy Railjet (direct) / Deutsche Bahn and OeBB",
+  "service": "Direct Railjet Hamburg - Berlin - Dresden - Prague - Brno - Vienna, a little over 10 h (EveryRail, Oct 2026)",
+  "durationMin": 623,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 41.99,
+   "maxEUR": null,
+   "byDate": null,
+   "text": "DB Sparpreis Europa Oesterreich \"Ab 41,99 Euro\" 2nd class from Hamburg, Koeln or Berlin to Wien",
+   "url": "https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-oesterreich"
+  },
+  "confidence": "low",
+  "notes": "Minimum is DB's published Hamburg/Berlin -> Vienna Sparpreis Europa floor (Rome2Rio's EUR 51.42 low end was too high); CD prices the same train separately so compare cd.cz. No flexible fare found, so maxEUR is empty. Note the ICE route Vienna-Nuremberg is closed until 12 Dec 2026, so do not assume that routing."
+ },
+ {
+  "legId": "r2r-BTS-VIE-Train",
+  "from": "BTS",
+  "to": "VIE",
+  "mode": "train",
+  "operator": "OeBB (REX regional express, Bratislava-Ticket); Railjet RJX 160/167 and IC 44/45 also run direct but need Sparschiene/standard tickets and a reservation",
+  "service": "Direct REX about every 30-60 min, 56-59 min, Wien Hbf to Bratislava hl.st. (some to Petrzalka)",
+  "durationMin": 59,
+  "fare": {
+   "type": "fixed",
+   "eur": 12.7,
+   "minEUR": null,
+   "maxEUR": null,
+   "byDate": {
+    "2026-12-12": 12.7
+   },
+   "text": "EUR 12.70 each way in 2nd class on the REX (Seat61); Bratislava Ticket return about EUR 18-19; Sparschiene is not sold on REX trains (OeBB)",
+   "url": "https://www.seat61.com/Slovakia.htm"
+  },
+  "confidence": "medium",
+  "notes": "The OeBB Bratislava-Ticket page confirms the product and the REX service but lists no price; EUR 12.70 comes from Seat61 and agrees with EveryRail (about EUR 12-13, June 2026). OeBB raises standard fares by about 3.5% on 13 Dec 2026 (Sparschiene from-prices unchanged), so a Tue 15 Dec journey (Vienna to Bratislava) may cost about EUR 13.1. Rome2Rio's EUR 3.27 low end is not available as a normal adult single."
+ },
+ {
+  "legId": "r2r-PRG-HAM-Train",
+  "from": "PRG",
+  "to": "HAM",
+  "mode": "train",
+  "operator": "Ceske drahy / Deutsche Bahn (direct Prague-Berlin-Hamburg-Copenhagen train since 1 May 2026)",
+  "service": "Direct, 7 trains a day, under 6 h (DB), Rome2Rio 5 h 42 min",
+  "durationMin": 342,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 27.99,
+   "maxEUR": null,
+   "byDate": null,
+   "text": "Seat61 Hamburg page: fares from EUR 27.99 2nd class (EUR 36.99 1st); DB Czech page lists no Hamburg price",
+   "url": "https://www.bahn.de/p/view/angebot/sparpreis-europa/tschechien.shtml"
+  },
+  "confidence": "low",
+  "notes": "Floor from Seat61 (non-official); Berlin-Prague official floor is 19.99. Flexpreis would be well above (Berlin-Prague flexible is EUR 80-95) but no Hamburg figure was found, so maxEUR is empty."
+ },
+ {
+  "legId": "r2r-VIE-MUC-Nighttrain",
+  "from": "VIE",
+  "to": "MUC",
+  "mode": "train",
+  "operator": "OeBB Railjet (also sold by Deutsche Bahn), direct",
+  "service": "Direct Railjet roughly hourly, about 4 h; Rome2Rio labels it \"night train\" but 4 h 44 min matches the day Railjet",
+  "durationMin": 284,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 23.99,
+   "maxEUR": 86.0,
+   "byDate": null,
+   "text": "DB Sparpreis Europa Oesterreich \"ab 23,99 Euro\" 2nd class (example Munich-Wien); flexible tickets bought within a week average EUR 70-86, same day can exceed EUR 100 (nomadotravel)",
+   "url": "https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-oesterreich"
+  },
+  "confidence": "low",
+  "notes": "Third-party sites quote OeBB Sparschiene around EUR 19.99-25; DB and OeBB price the same Railjet independently so compare bahn.de and oebb.at. Max EUR 86 is a third-party average of flexible tickets, not an official tariff; in one December comparison (heidelberg24, route reported as Munich-Vienna) the same trip cost EUR 89.99 at DB and EUR 120.20 at OeBB, so Saturday 12 Dec before Christmas can sit well above the minimum. DB sells 6 months ahead."
+ },
+ {
+  "legId": "r2r-BUD-VIE-Train",
+  "from": "BUD",
+  "to": "VIE",
+  "mode": "train",
+  "operator": "OeBB and MAV-START Railjet / EuroCity, direct",
+  "service": "Direct Railjet about every hour, about 2 h 37 - 2 h 40 min",
+  "durationMin": 158,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 14.0,
+   "maxEUR": 52.7,
+   "byDate": null,
+   "text": "Sparschiene Europa 2nd class \"ab\" EUR 14 (rail.cc), EUR 9 (EveryRail) or EUR 19.90 (nomadotravel); Normalpreis about EUR 52 (EveryRail) / EUR 52.70 (nomadotravel); MAV early-bird from about EUR 13",
+   "url": "https://www.oebb.at/de/reiseplanung-services/oebb-zugverbindungen/zugverbindungen-europa/budapest"
+  },
+  "confidence": "low",
+  "notes": "OeBB's own pages give no prices (JavaScript shop), so the range comes from third-party sites that disagree on the floor (EUR 9-19.90); 14 is the middle quote. Sparschiene is limited per train and sold up to 6 months ahead (confirmed on oebb.at); standard fare is about 3.5% dearer from 13 Dec 2026. RegioJet (not covered by passes) shows early-bird fares from about EUR 7.90 according to EveryRail. Rome2Rio's EUR 88.66 high end is far above the flexible fare found."
+ },
+ {
+  "legId": "r2r-WAW-BTS-Train",
+  "from": "WAW",
+  "to": "BTS",
+  "mode": "train",
+  "operator": "PKP Intercity (direct day train via Katowice and Zilina) with Zeleznicna spolocnost Slovensko",
+  "service": "Direct day train about 8 h 10 min - 8 h 23 min, a night train about 10 h (EuroPodroze, Rome2Rio)",
+  "durationMin": 503,
+  "fare": null,
+  "confidence": "low",
+  "notes": "No reliable fare found. International PKP Intercity tickets are sold up to 60 days ahead (EuroPodroze), so 14 Dec should be on sale from about 15 Oct; seat reservation is compulsory on the foreign section and included in the ticket price. Only an unverified aggregator estimate (Rome2Rio EUR 21-35 for the direct train) and much higher Trainline prices for mixed-operator itineraries (GBP 38.67-108.93) turned up, so nothing is reported. Check intercity.pl and zssk.sk."
+ },
+ {
+  "legId": "r2r-VIE-SZG-Train",
+  "from": "VIE",
+  "to": "SZG",
+  "mode": "train",
+  "operator": "OeBB (Railjet / Railjet Xpress) and WESTbahn, direct",
+  "service": "Direct, fastest about 2 h 20 - 2 h 30 min, several trains an hour in total",
+  "durationMin": 145,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 9.9,
+   "maxEUR": null,
+   "byDate": null,
+   "text": "OeBB Sparschiene \"from EUR 9.90\" 2nd class (domestic indicator, EveryRail Oct 2026); WESTbahn WestSuperpreis \"from EUR 13.99\" online",
+   "url": "https://everyrail.com/trains/vienna-to-salzburg/"
+  },
+  "confidence": "low",
+  "notes": "EUR 9.90 is OeBB's general lowest domestic Sparschiene, not a route-specific price, and quota is limited and sells out around holidays. WESTbahn sales open 90 days ahead; OeBB 6 months. No reliable Normalpreis (full fare) was found, so maxEUR is left empty; Rome2Rio's EUR 121 high end is not supported. OeBB standard fares rise about 3.5% on 13 Dec 2026."
+ },
+ {
+  "legId": "r2r-DRS-HAM-Train",
+  "from": "DRS",
+  "to": "HAM",
+  "mode": "train",
+  "operator": "Deutsche Bahn ICE (change at Berlin)",
+  "service": "ICE Hamburg-Berlin then Berlin-Dresden, about 3 h 27 min",
+  "durationMin": 207,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 21.99,
+   "maxEUR": null,
+   "byDate": null,
+   "text": "DB Sparpreis \"ab 21,99 Euro in der 2. Klasse\" (general domestic floor, bahn.de); no route-specific price found",
+   "url": "https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis"
+  },
+  "confidence": "low",
+  "notes": "21.99 is DB's published domestic starting price for any route and is a floor only; the real quota price on this 450 km trip is likely higher. No flexible fare found, so maxEUR is empty; Rome2Rio's EUR 168 is unconfirmed."
+ },
+ {
+  "legId": "r2r-SKP-BUH-Nighttraintrainbus",
+  "from": "SKP",
+  "to": "BUH",
+  "mode": "bus+train",
+  "operator": "Coach Skopje-Sofia (e.g. City Lines) then BDZ/CFR train Sofia-Bucharest",
+  "service": "No direct train Skopje-Sofia: coach about 5-6 h, then Sofia-Bucharest train/bus; Rome2Rio 12 h 50 min",
+  "durationMin": 770,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 44.3,
+   "maxEUR": 63.1,
+   "byDate": null,
+   "text": "Skopje-Sofia coach USD 14-35 (Rome2Rio; Omio average about GBP 24) plus Sofia-Bucharest 2nd class EUR 30,60 + EUR 1,25 reservation",
+   "url": "https://www.omio.co.uk/coaches/skopje/sofia"
+  },
+  "confidence": "low",
+  "notes": "Built by adding two aggregator-based parts; neither the coach nor the December Sofia-Bucharest train (direct train ended 12 Oct 2026, change at Ruse afterwards) was confirmed with an operator."
+ },
+ {
+  "legId": "r2r-ZRH-VIE-Nighttrain",
+  "from": "ZRH",
+  "to": "VIE",
+  "mode": "train",
+  "operator": "OeBB / SBB Nightjet (new-generation train since 14 Jun 2026); day Railjet RJX direct as alternative",
+  "service": "Nightjet overnight, last direct departure Zuerich HB 21:40; day Railjet 7 h 52 min, 6 direct trains a day (SBB)",
+  "durationMin": 641,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 35.0,
+   "maxEUR": 99.0,
+   "byDate": null,
+   "text": "Nightjet from EUR 35 seat, EUR 55 couchette or mini cabin, EUR 99 sleeper Comfort, EUR 129 Comfort Plus (nachtzug.net, July 2026); SBB: Railjet express 2nd class \"Preis ab CHF 43\" (=EUR 46.2)",
+   "url": "https://www.sbb.ch/de/freizeit-ferien/europa/laender-staedte/oesterreich/zuerich-wien.html"
+  },
+  "confidence": "low",
+  "notes": "Official SBB page (confirmed) gives the day Railjet from CHF 43 (EUR 46.2), limited quota, 6 direct trains a day, last train 21:40 (night train). The Nightjet prices are \"from\" figures from the nachtzug.net portal, per person, and move with date and demand; min = seat, max = cheapest private sleeper. The couchette from about EUR 55 is the cheapest bed."
+ },
+ {
+  "legId": "r2r-BER-DRS-Train",
+  "from": "BER",
+  "to": "DRS",
+  "mode": "train",
+  "operator": "Deutsche Bahn (ICE/IC/EC); FlixTrain also runs but no fare found",
+  "service": "Direct, up to 15 trains a day, fastest 1 h 39 min since June 2026, others about 1 h 55 min - 2 h",
+  "durationMin": 99,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 25.99,
+   "maxEUR": null,
+   "byDate": null,
+   "text": "DB fares from EUR 25.99 Berlin Hbf-Dresden Hbf (EveryRail, June 2026); DB Sparpreis floor EUR 21.99 2nd class (bahn.de FAQ)",
+   "url": "https://everyrail.com/trains/berlin-to-dresden/"
+  },
+  "confidence": "low",
+  "notes": "Only a snapshot of the cheapest DB fare was found, no Flexpreis; the Deutschlandticket is not valid on ICE/EC. DB sells up to 12 months ahead for domestic Sparpreis. maxEUR left empty because no flexible fare could be verified (Rome2Rio's EUR 65.33 is unconfirmed)."
+ },
+ {
+  "legId": "r2r-HAM-BSL-Nighttrain",
+  "from": "HAM",
+  "to": "BSL",
+  "mode": "train",
+  "operator": "OeBB Nightjet (direct, nightly) or DB ICE by day",
+  "service": "Nightjet Hamburg Hbf 22:11 -> Basel SBB 08:21; day ICE direct about 6 h 52 min",
+  "durationMin": 610,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 59.9,
+   "maxEUR": 109.9,
+   "byDate": null,
+   "text": "Nightjet per person \"from\": EUR 59.90 mini cabin or 4-berth couchette, EUR 109.90 2-bed sleeper, EUR 159.90 single-bed (Seat61); ICE day train from EUR 35.99 2nd class",
+   "url": "https://www.seat61.com/international-trains/trains-from-Hamburg.htm"
+  },
+  "confidence": "low",
+  "notes": "Seat61 (non-official) quotes \"from\" prices that depend on date and quota; min = cheapest berth, max = 2-bed sleeper per person. The cheaper alternative is the day ICE (about EUR 36 from, 6 h 52, direct). DB Sparpreis Europa Schweiz \"ab 24,99\" is the generic Switzerland floor on bahn.de. No seat-only price on the Nightjet was found."
+ },
+ {
+  "legId": "r2r-HAM-ZRH-Nighttrain",
+  "from": "HAM",
+  "to": "ZRH",
+  "mode": "train",
+  "operator": "OeBB Nightjet (direct, nightly) or DB ICE by day",
+  "service": "Nightjet Hamburg Hbf 22:11 -> Zuerich HB 10:05; ICE 06:45 and 10:45 run through to Zuerich",
+  "durationMin": 714,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 59.9,
+   "maxEUR": 109.9,
+   "byDate": null,
+   "text": "Nightjet per person \"from\": EUR 59.90 mini cabin or 4-berth couchette, EUR 109.90 2-bed sleeper, EUR 159.90 single-bed (Seat61); ICE day train from EUR 35.99 2nd class",
+   "url": "https://www.seat61.com/international-trains/trains-from-Hamburg.htm"
+  },
+  "confidence": "low",
+  "notes": "Seat61 (non-official) quotes \"from\" prices that depend on date and quota; min = cheapest berth, max = 2-bed sleeper per person. The cheaper alternative is a day ICE through to Zuerich (from about EUR 36). No seat-only price on the Nightjet was found."
+ },
+ {
+  "legId": "r2r-BSL-ZRH-Train",
+  "from": "BSL",
+  "to": "ZRH",
+  "mode": "train",
+  "operator": "SBB (IC/ICE), direct",
+  "service": "Direct, several trains an hour, about 52-70 min (Trainline: usually 1 h 07, fastest 52 min)",
+  "durationMin": 67,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 16.1,
+   "maxEUR": 38.7,
+   "byDate": null,
+   "text": "SBB Supersaver (Sparbillett) \"around CHF 15\" and full single fare \"around CHF 36\" 2nd class (nomadotravel guide); Trainline shows from GBP 32.54 for a standard single",
+   "url": "https://www.nomadotravel.app/en/guides/zurich-to-basel-travel-guide"
+  },
+  "confidence": "low",
+  "notes": "SBB's own booking tool is JavaScript-only and showed no price; the CHF figures are third-party and the full fare is consistent with Trainline's GBP 32.54 (about CHF 36). Supersaver tickets are train-specific and limited (sold up to 6 months ahead). Half-fare card holders pay roughly half; not assumed here. Rome2Rio's EUR 70 high end is above the full fare."
+ },
+ {
+  "legId": "r2r-NAP-TUN-Traincarferry",
+  "from": "NAP",
+  "to": "TUN",
+  "mode": "ferry+train",
+  "operator": "No direct Naples-Tunis ferry found; nearest are Civitavecchia-Tunis (GNV, Grimaldi) and Palermo-Tunis",
+  "service": "Rome2Rio 27 h 43 min",
+  "durationMin": 1663,
+  "fare": null,
+  "confidence": "low",
+  "notes": "No Naples-Tunis service and no reliable fare found. A Naples -> Civitavecchia rail leg plus the Civitavecchia-Tunis ferry (EUR 50-215, about 1-2 sailings a week, Ferryscanner 25 Sep 2026) is the closest option but the rail fare was not verified."
+ },
+ {
+  "legId": "r2r-TBS-EVN-Train",
+  "from": "TBS",
+  "to": "EVN",
+  "mode": "train",
+  "operator": "South Caucasus Railway (Armenian Railways) / Georgian Railway overnight train",
+  "service": "Overnight, departs Tbilisi 20:00, arrives Yerevan 06:35 (10 h 35 min); departs Yerevan 21:00, arrives Tbilisi 07:05",
+  "durationMin": 635,
+  "fare": {
+   "type": "fixed",
+   "eur": 50.6,
+   "minEUR": null,
+   "maxEUR": null,
+   "byDate": null,
+   "text": "Coupe / 2nd class (4-berth) GEL 147 / AMD 20,300; platzkart (open carriage, cheapest) GEL 115 / AMD 15,700 (about EUR 39.6); 2-berth lux GEL 218 / AMD 30,300 (Wander-Lush, winter 2026/27)",
+   "url": "https://wander-lush.org/train-from-tbilisi-to-yerevan/"
+  },
+  "confidence": "medium",
+  "notes": "IMPORTANT: winter timetable (2 Oct 2026 - 13 Jun 2027) runs every second day, departures from Tbilisi on odd dates and from Yerevan on even dates; Thu 10 Dec 2026 is an even date, so there is no Tbilisi departure that day - use 9 or 11 Dec. Fixed tariff, same in both directions; sales open 40 days ahead (11 Dec from about 1 Nov) at ticket.railway.am and gr.com.ge. Price comes from a travel blog quoting those portals; AMD price converts to about EUR 49.9. The platzkart is the budget option."
+ },
+ {
+  "legId": "r2r-SIN-BKK-Trainbus",
+  "from": "SIN",
+  "to": "BKK",
+  "mode": "train+bus",
+  "operator": "KTM Shuttle Tebrau, KTMB ETS JB Sentral - Padang Besar, SRT International Express Padang Besar - Bangkok",
+  "service": "Multi-day overland trip: ETS JB-Padang Besar about 9.5-10 h, SRT train about 16 h plus immigration waits",
+  "durationMin": 1750,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 63.2,
+   "maxEUR": 95.4,
+   "byDate": null,
+   "text": "Shuttle S$5; ETS JB Sentral-Padang Besar Gold about RM 170-200, Platinum RM 220-260 (train36); SRT Padang Besar-Bangkok sleeper THB 848-918 (older THB 1,320). ShopBack: whole trip SGD 60-145 (about EUR 41.8-101.1)",
+   "url": "https://www.train36.com/ets-jb-sentral-to-padang-besar.html"
+  },
+  "confidence": "low",
+  "notes": "Sum of three separately sourced tickets, no through fare. Cheaper variants exist (ETS to Butterworth plus KTM Komuter about RM 11, or the 3rd-class Padang Besar-Hat Yai shuttle THB 50 and a Hat Yai sleeper) which could push the total towards ShopBack's lower bound. ETS seats open about 30 days ahead, so 8 Dec is not on sale yet."
+ },
+ {
+  "legId": "r2r-BKK-SIN-Trainbus",
+  "from": "BKK",
+  "to": "SIN",
+  "mode": "train+bus",
+  "operator": "KTM Shuttle Tebrau, KTMB ETS JB Sentral - Padang Besar, SRT International Express Padang Besar - Bangkok",
+  "service": "Multi-day overland trip: ETS JB-Padang Besar about 9.5-10 h, SRT train about 16 h plus immigration waits",
+  "durationMin": 1750,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 63.2,
+   "maxEUR": 95.4,
+   "byDate": null,
+   "text": "Shuttle S$5; ETS JB Sentral-Padang Besar Gold about RM 170-200, Platinum RM 220-260 (train36); SRT Padang Besar-Bangkok sleeper THB 848-918 (older THB 1,320). ShopBack: whole trip SGD 60-145 (about EUR 41.8-101.1)",
+   "url": "https://www.train36.com/ets-jb-sentral-to-padang-besar.html"
+  },
+  "confidence": "low",
+  "notes": "Sum of three separately sourced tickets, no through fare. Cheaper variants exist (ETS to Butterworth plus KTM Komuter about RM 11, or the 3rd-class Padang Besar-Hat Yai shuttle THB 50 and a Hat Yai sleeper) which could push the total towards ShopBack's lower bound. ETS seats open about 30 days ahead, so 8 Dec is not on sale yet."
+ },
+ {
+  "legId": "r2r-KUL-BKK-TrainviaPadangBesar",
+  "from": "KUL",
+  "to": "BKK",
+  "mode": "train",
+  "operator": "SRT International Express (Bangkok - Padang Besar, sleeper) plus KTMB ETS Padang Besar - KL Sentral",
+  "service": "Two trains with a change and immigration at Padang Besar; about 22 h 19 min in total (Rome2Rio)",
+  "durationMin": 1339,
+  "fare": {
+   "type": "typical",
+   "eur": null,
+   "minEUR": 39.2,
+   "maxEUR": 57.4,
+   "byDate": null,
+   "text": "SRT International Express 2nd class sleeper THB 848 (upper) - 918 (lower) (Thai Train Guide, train36), older 2018 quote THB 1,320; ETS Padang Besar-KL Sentral Gold RM 76 / Platinum RM 102 adult (train36, older, KTMB now uses flexi fares)",
+   "url": "https://www.train36.com/ets-kl-sentral-padang-besar-ticket-price.html"
+  },
+  "confidence": "low",
+  "notes": "Two separate tickets, no through fare. The min uses the current sleeper tariffs plus ETS Gold; the max uses the older THB 1,320 quote plus ETS Platinum. Both sources are undated blogs; KTMB flexi fares open about 30 days ahead. ETS leg alone is about 5 h 30 min."
+ }
+]

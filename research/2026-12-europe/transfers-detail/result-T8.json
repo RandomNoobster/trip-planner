@@ -1,0 +1,358 @@
+[
+  {
+    "city": "MIL",
+    "airports": [
+      {
+        "code": "MXP",
+        "public": {
+          "line": "Malpensa Shuttle coach (airconnect.live lists it with Autostradale, STIE and Terravision at EUR 10)",
+          "from": "Malpensa airport coach stop (exact stop not stated)",
+          "to": "Milano Centrale, Piazza Luigi di Savoia (side entrance)",
+          "minutes": 60,
+          "fareEUR": 10,
+          "fareText": "EUR 10 one way (airconnect.live, third-party guide; operator page not reached). Journey 50-60 min off-peak, 70-80 min at weekday rush hour. Terravision sometimes sells EUR 8 in advance",
+          "frequency": "every 20 min by day; hourly 01:00-05:00 (airconnect.live)",
+          "hours": "24 h (airconnect.live)",
+          "url": "https://airconnect.live/en/airports/milan-airport-bus-guide"
+        },
+        "alternatives": [
+          {
+            "line": "Malpensa Express (Trenord train)",
+            "to": "Milano Centrale (Milano Cadorna about 36 min); trains about 04:00-01:00 (search summary)",
+            "minutes": 50,
+            "fareEUR": 15,
+            "fareText": "EUR 15 adult single (Malpensa Express price page as returned by search, not opened; airconnect.live shows stale EUR 13). Fare rose on 1 Aug 2025",
+            "url": "https://www.malpensaexpress.it/en/tickets/travel-documents/prices/"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 95,
+          "minutes": 60,
+          "basis": "Flat fare EUR 95, 45-60 min (airconnect.live; third-party, official tariff not checked)",
+          "url": "https://airconnect.live/en/airports/milan-airport-bus-guide"
+        }
+      },
+      {
+        "code": "LIN",
+        "public": {
+          "line": "ATM bus line 73 (Linate to Milan)",
+          "from": "Linate airport bus stop (exact stop not stated)",
+          "to": "Milan city centre (stop not stated on source)",
+          "minutes": null,
+          "fareEUR": 2.2,
+          "fareText": "EUR 2.20 standard ATM ticket (Wikivoyage: 'like normal public transport'); airconnect.live lists Line 73 at EUR 2",
+          "frequency": null,
+          "hours": null,
+          "url": "https://airconnect.live/en/airports/milan-airport-bus-guide"
+        },
+        "alternatives": [
+          {
+            "line": "Autostradale shuttle bus (Linate Shuttle per airconnect.live)",
+            "to": "Milano Centrale, east side (Piazza Luigi di Savoia), also stops at Lambrate",
+            "minutes": 27,
+            "fareEUR": 5,
+            "fareText": "EUR 5 per adult; about every 30 min (Wikivoyage). airconnect.live gives 40-60 min",
+            "url": "https://en.wikivoyage.org/wiki/Milan"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 20,
+          "minutes": null,
+          "basis": "Meter estimate: EUR 12 minimum, typically EUR 12-20 depending on traffic (Wikivoyage); upper end used",
+          "url": "https://en.wikivoyage.org/wiki/Milan"
+        }
+      },
+      {
+        "code": "BGY",
+        "public": {
+          "line": "ATB bus to Bergamo station, then Trenord regional train to Milano Centrale (two tickets)",
+          "from": "Orio al Serio airport bus stop (ATB)",
+          "to": "Milano Centrale (train from Bergamo station, about 1 hour)",
+          "minutes": null,
+          "fareEUR": 8.4,
+          "fareText": "EUR 2.60 ATB bus + EUR 5.80 train (Wikivoyage); total EUR 8.40",
+          "frequency": "train every 30-60 min (Wikivoyage); bus not stated",
+          "hours": null,
+          "url": "https://en.wikivoyage.org/wiki/Milan"
+        },
+        "alternatives": [
+          {
+            "line": "Orio Shuttle coach",
+            "to": "Milano Centrale",
+            "minutes": null,
+            "fareEUR": 10,
+            "fareText": "EUR 10 online, EUR 12 on the door (Wikivoyage, Mar 2026); a little over 1 hour; about every 30 min by day",
+            "url": "https://en.wikivoyage.org/wiki/Milan"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 100,
+          "minutes": null,
+          "basis": "Wikivoyage: at least EUR 100 (no fixed fare or meter basis stated)",
+          "url": "https://en.wikivoyage.org/wiki/Milan"
+        }
+      }
+    ]
+  },
+  {
+    "city": "ROM",
+    "airports": [
+      {
+        "code": "FCO",
+        "public": {
+          "line": "Flibco shuttle bus (scheduled coach, private operator)",
+          "from": "Fiumicino airport, Terminal 3 (per Wikivoyage)",
+          "to": "Rome Termini, Via Giovanni Giolitti 38 (next to the station)",
+          "minutes": 45,
+          "fareEUR": 6,
+          "fareText": "From EUR 6 per person when booked online (Flibco page: 'ticket prices start from EUR 6'; price varies with booking time)",
+          "frequency": "every 30-60 min (Flibco)",
+          "hours": "about 05:00-23:30 (Flibco; check calendar)",
+          "url": "https://www.flibco.com/en/bus-rome-fiumicino-airport-rome-termini"
+        },
+        "alternatives": [
+          {
+            "line": "Leonardo Express (Trenitalia train)",
+            "to": "Roma Termini (non-stop)",
+            "minutes": 30,
+            "fareEUR": 14,
+            "fareText": "EUR 14 each way (Wikivoyage; Trenitalia page not read)",
+            "url": "https://en.wikivoyage.org/wiki/Rome"
+          }
+        ],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "Official fixed fare to inside the Aurelian Walls (Wikivoyage says a fixed fare applies; amount not found on sources read)",
+          "url": "http://www.adr.it/fiumicino"
+        }
+      },
+      {
+        "code": "CIA",
+        "public": {
+          "line": "SIT Bus Shuttle (scheduled coach, private operator)",
+          "from": "Ciampino airport bus stop (exact stop not stated)",
+          "to": "Rome Termini, Via Marsala stop (per search results)",
+          "minutes": 40,
+          "fareEUR": 6,
+          "fareText": "EUR 6 one way (Kiwitaxi and Mamalovesrome; Flio gives EUR 5 and Wikivoyage EUR 4, both older; operator site not read)",
+          "frequency": "about 25 a day (Wikivoyage)",
+          "hours": "07:45-23:15 (Mamalovesrome)",
+          "url": "https://mamalovesrome.com/ciampino-airport-to-rome/"
+        },
+        "alternatives": [
+          {
+            "line": "Terravision coach",
+            "to": "Rome Termini, Via Marsala 29 (per search results)",
+            "minutes": 40,
+            "fareEUR": 6,
+            "fareText": "EUR 6 one way (Kiwitaxi, Mamalovesrome); EUR 11 return online (Kiwitaxi). Every 30 min (Wikivoyage); runs later, to about 00:15 (Mamalovesrome)",
+            "url": "https://mamalovesrome.com/ciampino-airport-to-rome/"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 30,
+          "minutes": null,
+          "basis": "Fixed fare to inside the Aurelian Walls, EUR 30 (Wikivoyage). hemenhesap.com lists EUR 40 fixed; conflict not resolved",
+          "url": "https://en.wikivoyage.org/wiki/Rome"
+        }
+      }
+    ]
+  },
+  {
+    "city": "REK",
+    "airports": [
+      {
+        "code": "KEF",
+        "public": {
+          "line": "Strætó bus 55 (Keflavík airport to Reykjavík)",
+          "from": "Keflavík International Airport bus stop (exact stop not stated)",
+          "to": "Reykjavík (stop not stated on source)",
+          "minutes": 90,
+          "fareEUR": 17.5,
+          "fareText": "ISK 2,400 in 2026 (nomadicbackpacker.com); journey 75-90 min. straeto.is news (30 Sep 2026) confirms rural bus service at the airport but gives no fare",
+          "frequency": null,
+          "hours": "not stated; earliest departures not served (nomadicbackpacker.com)",
+          "url": "https://www.nomadicbackpacker.com/?p=1953"
+        },
+        "alternatives": [
+          {
+            "line": "Flybus (Reykjavík Excursions / Gray Line Iceland)",
+            "to": "BSÍ bus terminal, Reykjavík",
+            "minutes": 45,
+            "fareEUR": 29.2,
+            "fareText": "ISK 3,999 one way ('from ISK 3,999', iceland-highlights.com, updated June 2026); several 2026 listings give ISK 3,899-4,499. Runs in connection with all arriving and departing flights (re.is Flybus page)",
+            "url": "https://www.iceland-highlights.com/tour/flybus-from-bsi-terminal-in-reykjavik-to-keflavik-airport/?cur=ISK"
+          }
+        ],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "Not verified. Unverified lead: hreyfill.is 'from' price ISK 22,500 per car (page not opened)",
+          "url": null
+        }
+      }
+    ]
+  },
+  {
+    "city": "WAW",
+    "airports": [
+      {
+        "code": "WMI",
+        "public": {
+          "line": "Modlin airport shuttle bus to Modlin station, then regional train to Warsaw (combined airport ticket 'Bilet Lotniskowy')",
+          "from": "Warsaw Modlin airport (shuttle stop, exact stop not stated)",
+          "to": "Warsaw city (regional train into Warsaw; Warsaw stop not stated on source)",
+          "minutes": 90,
+          "fareEUR": 5.1,
+          "fareText": "PLN 22.40 combined airport ticket (Wikivoyage), bought online or in the Jakdojade app; covers Warsaw Zone 1 for 75 min. Another search result quotes PLN 15 (unverified)",
+          "frequency": null,
+          "hours": null,
+          "url": "https://en.wikivoyage.org/wiki/Warsaw"
+        },
+        "alternatives": [
+          {
+            "line": "Modlinbus airport coach to central Warsaw",
+            "to": "Warsaw city centre (also serves Młociny metro, per a travel guide)",
+            "minutes": null,
+            "fareEUR": 7.5,
+            "fareText": "PLN 33 paid at kiosk or on board (third-party guide, search summary); online advance from PLN 9. modlinbus.com returned 403 to WebFetch; no page read",
+            "url": null
+          }
+        ],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No taxi fare found in sources read",
+          "url": null
+        }
+      }
+    ]
+  },
+  {
+    "city": "TCI",
+    "airports": [
+      {
+        "code": "TFS",
+        "public": {
+          "line": "TITSA bus line 10 (Santa Cruz - Cruce Caletillas - Cruce San Isidro - Aeropuerto)",
+          "from": "Tenerife South airport, arrivals level (Terminal, Planta 0)",
+          "to": "Santa Cruz de Tenerife (stop not stated)",
+          "minutes": null,
+          "fareEUR": null,
+          "fareText": "Fare not stated on the AENA page, which links to TITSA fare tables (not read)",
+          "frequency": null,
+          "hours": null,
+          "url": "https://www.aena.es/es/tenerife-sur/como-llegar/autobus.html"
+        },
+        "alternatives": [
+          {
+            "line": "TITSA night line 711 (Santa Cruz - Aeropuerto - Los Cristianos - Costa Adeje)",
+            "to": "Santa Cruz de Tenerife (night service; stop not stated)",
+            "minutes": null,
+            "fareEUR": null,
+            "fareText": "Fare not stated on the AENA page",
+            "url": "https://www.aena.es/es/tenerife-sur/como-llegar/autobus.html"
+          }
+        ],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No official fixed fare or meter figure found in sources read",
+          "url": null
+        }
+      },
+      {
+        "code": "TFN",
+        "public": {
+          "line": null,
+          "from": "Tenerife North airport (TFN)",
+          "to": null,
+          "minutes": null,
+          "fareEUR": null,
+          "fareText": "No bus to Santa Cruz de Tenerife confirmed in the sources read. Unverified lead: TITSA line 30 goes to the Puerto de la Cruz area, not the centre",
+          "frequency": null,
+          "hours": null,
+          "url": "https://en.wikivoyage.org/wiki/Tenerife"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "No official fixed fare or meter figure found in sources read",
+          "url": null
+        }
+      }
+    ]
+  },
+  {
+    "city": "BRU",
+    "airports": [
+      {
+        "code": "CRL",
+        "public": {
+          "line": "TEC bus A1 to Charleroi-Central, then SNCB train to Brussels (combined Charleroi Airport ticket)",
+          "from": "Charleroi airport, TEC bus stop",
+          "to": "Brussels (train destination in Brussels not stated on source)",
+          "minutes": 80,
+          "fareEUR": 15.9,
+          "fareText": "EUR 6.00 TEC bus + EUR 9.90 intercity train = EUR 15.90 (Wikivoyage). Brussels Times quotes EUR 16.80 for the combined SNCB route; bus runs every 30 min (search summary)",
+          "frequency": "bus every 30 min (search summary); train every 30-60 min (Wikivoyage)",
+          "hours": null,
+          "url": "https://en.wikivoyage.org/wiki/Brussels"
+        },
+        "alternatives": [
+          {
+            "line": "Flibco shuttle bus",
+            "to": "Brussels-Midi (Brussels South) station, Rue de France",
+            "minutes": 60,
+            "fareEUR": 19.9,
+            "fareText": "EUR 19.90 single (UNICA participant guide, early 2026); 'from EUR 19.95' (Trip.com, 9 Apr 2026); Brussels Times EUR 17.90 (undated). About every 20 min; about 1 hour (Wikivoyage)",
+            "url": "https://www.unica-network.eu/wp-content/uploads/2026/01/UNICA-Days_Practical-Info-for-Participants-210-x-210-mm-2-07.pdf"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 90,
+          "minutes": null,
+          "basis": "Fixed price EUR 90 (Wikivoyage); not checked against an official tariff",
+          "url": "https://en.wikivoyage.org/wiki/Brussels"
+        }
+      }
+    ]
+  },
+  {
+    "city": "BUH",
+    "airports": [
+      {
+        "code": "OTP",
+        "public": {
+          "line": "STB Express 100 bus (Otopeni airport to Piața Unirii)",
+          "from": "Henri Coandă airport (Otopeni) bus stop, departures side (arrivals-side stop closed for lines 100 and 442 from 22 Apr 2026)",
+          "to": "Piața Unirii, stop 2 (south side of the square)",
+          "minutes": 45,
+          "fareEUR": 0.6,
+          "fareText": "RON 3 for one 90-minute ticket (airport transport page per search snippet; Wikivoyage also gives RON 3, July 2025). A RON 5 increase was proposed but not adopted (Playtech 2026). Trip about 45 min (Playtech); Wikivoyage says 50-90 min",
+          "frequency": "every 15 min 05:30-21:50; every 30 min 22:00-05:00 (Wikivoyage)",
+          "hours": "daily; 05:30-21:50 and 22:00-05:00 service bands (Wikivoyage)",
+          "url": "https://bucharestairports.ro/en/transport/bus"
+        },
+        "alternatives": [
+          {
+            "line": "Otopeni airport train (CFR Călători) from Gara de Nord",
+            "to": "Gara de Nord station (not Piața Unirii)",
+            "minutes": null,
+            "fareEUR": 1.1,
+            "fareText": "RON 6 (revistabiz.ro headline: fare to Otopeni rose to 6 lei). About every 40 min, express and local services (Wikivoyage)",
+            "url": "https://www.revistabiz.ro/pretul-biletului-de-tren-catre-aeroportul-otopeni-s-a-scumpit-la-6-lei/"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 12.2,
+          "minutes": 40,
+          "basis": "Metered taxi, typically RON 61-65 (EUR 11.4-12.2), 25-40 min (Wikivoyage); upper end used. Ride-hailing RON 60-120 (Wikivoyage, not a fixed fare)",
+          "url": "https://en.wikivoyage.org/wiki/Bucharest"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMDcyAkFZMgJXRmoFEgNUUkRyBRIDQ1BIQAFIAZgBAg",
+ "fetchedAt": "2026-10-11T11:19:48",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 247.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Finnair",
+   "operatedBy": "Nordic Reg for Finnair, Nordic Reg for Finnair",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "08:05",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "23:55",
+   "arrDate": "2026-12-07",
+   "durationMin": 950,
+   "layovers": [
+    {
+     "min": 480,
+     "overnight": false,
+     "airport": "Tromsø Airport",
+     "city": "Tromsø Municipality"
+    },
+    {
+     "min": 150,
+     "overnight": false,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 247 euros. 2 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 8:05 AM on Monday, December 7 and arrives at Copenhagen Airport at 11:55 PM on Monday, December 7. Total duration 15 hr 50 min.  Layover (1 of 2) is a 8 hr layover at Tromsø Airport in Tromsø Municipality. Layover (2 of 2) is a 2 hr 30 min layover at Helsinki Airport in Helsinki. Select flight"
+  }
+ ]
+}

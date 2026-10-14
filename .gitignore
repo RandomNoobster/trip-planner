@@ -1,0 +1,10 @@
+# dependencies and build output
+node_modules/
+app/dist/
+# copies of the composed research sets that `npm run sync` makes from research/ (every dev start and build makes them again)
+app/public/research/
+# the Netlify CLI's link to the site, local to this machine
+.netlify/
+# Python caches
+__pycache__/
+*.pyc

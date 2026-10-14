@@ -1,0 +1,200 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTVqBRIDVExMcgUSA1ZOT0ABSAGYAQI",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 20.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Wizz Air",
+   "operatedBy": null,
+   "depAirportName": "Tallinn Airport",
+   "depTime": "08:10",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "09:25",
+   "arrDate": "2026-12-15",
+   "durationMin": 75,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 20 euros.This price does not include overhead bin access. Nonstop flight with Wizz Air. Leaves Tallinn Airport at 8:10 AM on Tuesday, December 15 and arrives at Vilnius International Airport at 9:25 AM on Tuesday, December 15. Total duration 1 hr 15 min.   Select flight"
+  },
+  {
+   "price": 39.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 0,
+   "airlines": "Air Baltic",
+   "operatedBy": null,
+   "depAirportName": "Tallinn Airport",
+   "depTime": "07:00",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "08:10",
+   "arrDate": "2026-12-15",
+   "durationMin": 70,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 39 euros. Nonstop flight with Air Baltic. Leaves Tallinn Airport at 7:00 AM on Tuesday, December 15 and arrives at Vilnius International Airport at 8:10 AM on Tuesday, December 15. Total duration 1 hr 10 min.   Select flight"
+  },
+  {
+   "price": 73.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Air Baltic",
+   "operatedBy": null,
+   "depAirportName": "Tallinn Airport",
+   "depTime": "21:35",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "00:30",
+   "arrDate": "2026-12-16",
+   "durationMin": 175,
+   "layovers": [
+    {
+     "min": 75,
+     "overnight": false,
+     "airport": "Riga Airport",
+     "city": "Riga"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 73 euros. 1 stop flight with Air Baltic. Leaves Tallinn Airport at 9:35 PM on Tuesday, December 15 and arrives at Vilnius International Airport at 12:30 AM on Wednesday, December 16. Total duration 2 hr 55 min.  Layover (1 of 1) is a 1 hr 15 min layover at Riga Airport in Riga. Select flight"
+  },
+  {
+   "price": 99.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Finnair",
+   "operatedBy": "Nordic Reg for Finnair, Nordic Reg for Finnair",
+   "depAirportName": "Tallinn Airport",
+   "depTime": "17:40",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "20:55",
+   "arrDate": "2026-12-15",
+   "durationMin": 195,
+   "layovers": [
+    {
+     "min": 60,
+     "overnight": false,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 99 euros. 1 stop flight with Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Tallinn Airport at 5:40 PM on Tuesday, December 15 and arrives at Vilnius International Airport at 8:55 PM on Tuesday, December 15. Total duration 3 hr 15 min.  Layover (1 of 1) is a 1 hr layover at Helsinki Airport in Helsinki. Select flight"
+  },
+  {
+   "price": 55.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Air Baltic",
+   "operatedBy": null,
+   "depAirportName": "Tallinn Airport",
+   "depTime": "09:10",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-15",
+   "durationMin": 445,
+   "layovers": [
+    {
+     "min": 345,
+     "overnight": false,
+     "airport": "Riga Airport",
+     "city": "Riga"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 55 euros. 1 stop flight with Air Baltic. Leaves Tallinn Airport at 9:10 AM on Tuesday, December 15 and arrives at Vilnius International Airport at 4:35 PM on Tuesday, December 15. Total duration 7 hr 25 min.  Layover (1 of 1) is a 5 hr 45 min layover at Riga Airport in Riga. Select flight"
+  },
+  {
+   "price": 55.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Air Baltic",
+   "operatedBy": null,
+   "depAirportName": "Tallinn Airport",
+   "depTime": "15:15",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "20:55",
+   "arrDate": "2026-12-15",
+   "durationMin": 340,
+   "layovers": [
+    {
+     "min": 240,
+     "overnight": false,
+     "airport": "Riga Airport",
+     "city": "Riga"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 55 euros. 1 stop flight with Air Baltic. Leaves Tallinn Airport at 3:15 PM on Tuesday, December 15 and arrives at Vilnius International Airport at 8:55 PM on Tuesday, December 15. Total duration 5 hr 40 min.  Layover (1 of 1) is a 4 hr layover at Riga Airport in Riga. Select flight"
+  },
+  {
+   "price": 127.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Finnair",
+   "operatedBy": "Nordic Reg for Finnair, Nordic Reg for Finnair",
+   "depAirportName": "Tallinn Airport",
+   "depTime": "10:05",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "13:00",
+   "arrDate": "2026-12-15",
+   "durationMin": 175,
+   "layovers": [
+    {
+     "min": 40,
+     "overnight": false,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 127 euros. 1 stop flight with Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Tallinn Airport at 10:05 AM on Tuesday, December 15 and arrives at Vilnius International Airport at 1:00 PM on Tuesday, December 15. Total duration 2 hr 55 min.  Layover (1 of 1) is a 40 min layover at Helsinki Airport in Helsinki. Select flight"
+  },
+  {
+   "price": 185.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "Tallinn Airport",
+   "depTime": "14:05",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Vilnius International Airport",
+   "arrTime": "18:30",
+   "arrDate": "2026-12-15",
+   "durationMin": 265,
+   "layovers": [
+    {
+     "min": 100,
+     "overnight": false,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 185 euros. 1 stop flight with LOT. Leaves Tallinn Airport at 2:05 PM on Tuesday, December 15 and arrives at Vilnius International Airport at 6:30 PM on Tuesday, December 15. Total duration 4 hr 25 min.  Layover (1 of 1) is a 1 hr 40 min layover at Warsaw Chopin Airport in Warsaw. Select flight"
+  }
+ ]
+}

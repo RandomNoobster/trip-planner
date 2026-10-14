@@ -1,0 +1,33 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMDcyAkRZMgJEOGoFEgNUUkRyBRIDR0ROQAFIAZgBAg",
+ "fetchedAt": "2026-10-11T11:20:48",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 103.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "08:00",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "11:25",
+   "arrDate": "2026-12-07",
+   "durationMin": 205,
+   "layovers": [
+    {
+     "min": 60,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 103 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 8:00 AM on Monday, December 7 and arrives at Gdansk Lech Walesa Airport at 11:25 AM on Monday, December 7. Total duration 3 hr 25 min.  Layover (1 of 1) is a 1 hr layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

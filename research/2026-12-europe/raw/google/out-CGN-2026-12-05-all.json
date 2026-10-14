@@ -1,0 +1,71 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA0NHTkABSAGYAQI",
+ "fetchedAt": "2026-10-11T11:21:49",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 248.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "13:05",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Cologne Bonn Airport",
+   "arrTime": "08:35",
+   "arrDate": "2026-12-06",
+   "durationMin": 1170,
+   "layovers": [
+    {
+     "min": 260,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    },
+    {
+     "min": 640,
+     "overnight": false,
+     "airport": "Munich International Airport",
+     "city": "Munich"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 248 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Cologne Bonn Airport at 8:35 AM on Sunday, December 6. Total duration 19 hr 30 min.  Layover (1 of 2) is a 4 hr 20 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 10 hr 40 min layover at Munich International Airport in Munich. Select flight"
+  },
+  {
+   "price": 289.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe, Lufthansa and Lufthansa City Airlines",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "13:05",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Cologne Bonn Airport",
+   "arrTime": "12:50",
+   "arrDate": "2026-12-06",
+   "durationMin": 1425,
+   "layovers": [
+    {
+     "min": 260,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    },
+    {
+     "min": 895,
+     "overnight": false,
+     "airport": "Munich International Airport",
+     "city": "Munich"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 289 euros. 2 stops flight with Wideroe, Lufthansa and Lufthansa City Airlines. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Cologne Bonn Airport at 12:50 PM on Sunday, December 6. Total duration 23 hr 45 min.  Layover (1 of 2) is a 4 hr 20 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 14 hr 55 min layover at Munich International Airport in Munich. Select flight"
+  }
+ ]
+}

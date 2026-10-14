@@ -1,0 +1,319 @@
+[
+ {
+  "city": "MUC",
+  "airports": [
+   {
+    "code": "MUC",
+    "public": {
+     "line": "S-Bahn S1 or S8 (MVV, S-Bahn Muenchen)",
+     "from": "Munich Airport Center S-Bahn station (between Terminals 1 and 2)",
+     "to": "Muenchen Hauptbahnhof (main station)",
+     "minutes": 40,
+     "fareEUR": 15.1,
+     "fareText": "EUR 15.10 adult single ticket (Einzelfahrkarte), zones M-5, valid 5 h, from the MVV 2026 price list (valid since 1 Jan 2026; MVV says to use a zones M-5 ticket for city-airport trips). The Airport-City-Day-Ticket (EUR 17.50 single, EUR 32.60 for 2-5 people) is an alternative. Checked 2026-10-12.",
+     "frequency": "S1 and S8 together about every 10 min",
+     "hours": null,
+     "url": "https://www.mvv-muenchen.de/fileadmin/mediapool/downloads/tickets/preislisten/2026_A4_quer_MVVtarife_Tickets_Web.pdf"
+    },
+    "alternatives": [
+     {
+      "line": "Airport-City-Day-Ticket (MVV), unlimited S-Bahn/U-Bahn/tram/bus trips between airport and city on the day",
+      "to": "Muenchen Hauptbahnhof",
+      "minutes": 40,
+      "fareEUR": 17.5,
+      "fareText": "EUR 17.50 Single ticket; EUR 32.60 Group ticket for 2-5 people (cheaper per person than single tickets from 3 people). Zones M-5, valid until 06:00 the next day.",
+      "url": "https://www.mvv-muenchen.de/tickets-abos-preise/airport-city-day-ticket/"
+     }
+    ]
+   }
+  ],
+  "stations": []
+ },
+ {
+  "city": "LEJ",
+  "airports": [
+   {
+    "code": "LEJ",
+    "public": {
+     "line": "S-Bahn S5 or S5X (S-Bahn Mitteldeutschland, MDV tariff)",
+     "from": "Leipzig/Halle Airport railway station (Flughafen Leipzig/Halle)",
+     "to": "Leipzig Hauptbahnhof (main station)",
+     "minutes": 12,
+     "fareEUR": 6.9,
+     "fareText": "EUR 6.90 adult single (MDV Einzelfahrkarte, 3 tariff zones, valid 2 h). MDV list valid from Aug 2026: 1 zone Leipzig EUR 3.80, 2 zones EUR 5.00, 3 zones EUR 6.90. The 3-zone count (110, 162, 163) comes from a University of Leipzig travel page, not an MDV zone list; if the airport counted as 2 zones the fare would be EUR 5.00. Ride time 12 min is from the S-Bahn Mitteldeutschland airport page. Checked 2026-10-12.",
+     "frequency": "every 30 min (S5 and S5X together)",
+     "hours": null,
+     "url": "https://www.mdv.de/ticket/einzelfahrkarte"
+    },
+    "alternatives": []
+   }
+  ],
+  "stations": []
+ },
+ {
+  "city": "AMS",
+  "airports": [
+   {
+    "code": "AMS",
+    "public": {
+     "line": "NS Sprinter train, Schiphol Airport to Amsterdam Centraal",
+     "from": "Schiphol Airport railway station, below the terminal (trains usually leave from platform 3)",
+     "to": "Amsterdam Centraal",
+     "minutes": 16,
+     "fareEUR": 5.5,
+     "fareText": "EUR 5.50 single, 2nd class, full fare, e-ticket (NS journey planner, Mon 7 Dec 2026 11:53 Sprinter, checked 12 Oct 2026)",
+     "frequency": "about every 10 min",
+     "hours": "about 05:30-01:00; sources conflict on overnight trains (none about 01:00-05:30 per airporttransferportal.com; hourly overnight trains per amsterdamtourism.org)",
+     "url": "https://www.ns.nl/en/journeyplanner/"
+    },
+    "alternatives": []
+   }
+  ],
+  "stations": []
+ },
+ {
+  "city": "LON",
+  "airports": [
+   {
+    "code": "LGW",
+    "public": {
+     "line": "Southern train, Gatwick Airport to London Victoria (Gatwick Express GBP 24.00 is faster)",
+     "from": "Gatwick Airport railway station (shared by North and South Terminal)",
+     "to": "London Victoria",
+     "minutes": 32,
+     "fareEUR": 12.6,
+     "fareText": "GBP 10.70 Standard single, contactless off-peak fare (National Rail journey planner, Mon 7 Dec 2026 around noon, checked 12 Oct 2026); peak-hour fares are higher",
+     "frequency": "several trains an hour",
+     "hours": null,
+     "url": "https://www.nationalrail.co.uk/journey-planner/"
+    },
+    "alternatives": [
+     {
+      "line": "Thameslink (to London Bridge, Blackfriars, Farringdon, St Pancras)",
+      "to": "London St Pancras International",
+      "minutes": 40,
+      "fareEUR": 17.5,
+      "fareText": "About GBP 14.80 single per airconnect.live (secondary source, accessed 2026-10-12)",
+      "url": "https://airconnect.live/en/airports/gatwick-airport-train-guide"
+     },
+     {
+      "line": "Gatwick Express (non-stop to London Victoria, twice an hour)",
+      "to": "London Victoria",
+      "minutes": 30,
+      "fareEUR": 23.4,
+      "fareText": "About GBP 19.80 single per airconnect.live (secondary; other guides give GBP 19.50 to GBP 24.10); 10% off when booked online",
+      "url": "https://www.gatwickairport.com/to-and-from/by-train.html"
+     }
+    ]
+   },
+   {
+    "code": "LTN",
+    "public": {
+     "line": "Luton DART shuttle + Thameslink train, Luton Airport to London St Pancras (one through ticket)",
+     "from": "Luton Airport terminal, Luton DART station",
+     "to": "London St Pancras International",
+     "minutes": 40,
+     "fareEUR": 14.9,
+     "fareText": "GBP 12.60 Standard single to St Pancras including the DART, booked to 'Luton Airport' (National Rail journey planner, Mon 7 Dec 2026 around noon, checked 12 Oct 2026); an Advance on one train was GBP 7.90",
+     "frequency": "several trains an hour",
+     "hours": "Last train to London from Luton Airport Parkway 23:25 Mon-Fri, 22:28 Sat, 21:58 Sun; first train from London 05:45 Mon-Fri; DART runs 24 h",
+     "url": "https://www.nationalrail.co.uk/journey-planner/"
+    },
+    "alternatives": [
+     {
+      "line": "Luton DART + EMR Luton Airport Express or Thameslink, flexible Anytime ticket",
+      "to": "London St Pancras International",
+      "minutes": 32,
+      "fareEUR": 28.4,
+      "fareText": "About GBP 24.10: Anytime Day Single St Pancras-Parkway GBP 19.20 (EMR) + DART GBP 4.90 (Luton Airport farefinder); my sum, not a published through price",
+      "url": "https://www.london-luton.co.uk/to-and-from-lla/use-our-farefinder"
+     }
+    ]
+   }
+  ],
+  "stations": []
+ },
+ {
+  "city": "CGN",
+  "airports": [
+   {
+    "code": "DUS",
+    "public": {
+     "line": "S11 S-Bahn (Duesseldorf Flughafen Terminal to Koeln Hbf) with an EinzelTicket NRW; regional trains via Duesseldorf Hbf are also valid on this ticket",
+     "from": "Duesseldorf Flughafen Terminal S-Bahn station, below the terminal",
+     "to": "Koeln Hauptbahnhof (main station)",
+     "minutes": 85,
+     "fareEUR": 25.8,
+     "fareText": "EUR 25.80 EinzelTicket NRW (adult, flat fare for one trip anywhere in NRW, valid 7 h on S-Bahn, RB and RE, not ICE/IC) per VRR and the NRW tariff brochure. Since the June 2026 tariff reform Duesseldorf (VRR) to Koeln (Rheinlandtarif) is a cross-tariff trip and I found no cheaper fixed single. The app tariff eezy.nrw is cheaper (see alternatives). Ride time is the earlier pass's timetable range 81-92 min, not re-checked. Checked 2026-10-12.",
+     "frequency": "about every 20 min per a travel guide (not confirmed)",
+     "hours": null,
+     "url": "https://www.vrr.de/tickets-tarife/ticketuebersicht/ticket/nrw/einzelticket-nrw/"
+    },
+    "alternatives": [
+     {
+      "line": "eezy.nrw app tariff (check in/out in a eezy-capable app such as mobil.nrw), same trains",
+      "to": "Koeln Hauptbahnhof",
+      "minutes": 85,
+      "fareEUR": 13.6,
+      "fareText": "Official formula: EUR 1.73 base price + EUR 0.29 per straight-line km, capped at the EinzelTicket price (EUR 25.80). For roughly 41 km between the airport and Koeln Hbf that is about EUR 13.6 (my calculation, not an official quote). Needs smartphone, app account and payment method.",
+      "url": "https://www.vrr.de/fileadmin/user_upload/pdf/service/downloads/Weitere_Broschueren_und_Tarifinformationen/VRR_Preise_2026.pdf"
+     }
+    ]
+   }
+  ],
+  "stations": []
+ },
+ {
+  "city": "TCI",
+  "airports": [
+   {
+    "code": "TFS",
+    "public": {
+     "line": "TITSA bus line 10, Tenerife South airport to Santa Cruz (Intercambiador)",
+     "from": "Tenerife South airport, TITSA stop 7571 (departures to Santa Cruz), arrivals area",
+     "to": "Santa Cruz de Tenerife, Intercambiador (bus interchange)",
+     "minutes": 55,
+     "fareEUR": 9.35,
+     "fareText": "EUR 9.35 single (EUR 6.95 with a Ten+ card) from TITSA's fare calculator, line 10, stop 7571 Aeropuerto Tenerife Sur to 9181 Intercambiador Sta. Cruz, checked 12 Oct 2026",
+     "frequency": "roughly every 30-40 min (inferred from the TITSA timetable, not stated)",
+     "hours": "timetable lists trips between about 05:10 and 22:15 (direction not clear); night line 711 also serves the airport",
+     "url": "https://titsa.com/index.php/tus-guaguas/billetes-y-tarifas/tarifas-vigentes"
+    },
+    "alternatives": [
+     {
+      "line": "TITSA night line 711 (Santa Cruz - Aeropuerto Sur - Los Cristianos - Costa Adeje)",
+      "to": "Santa Cruz de Tenerife, Intercambiador",
+      "minutes": null,
+      "fareEUR": 9.35,
+      "fareText": "Same secondary-source fare as line 10 (EUR 9.35); hours and timetable not read",
+      "url": "https://titsa.com/index.php/tenerife-en-guagua/lineas-de-aeropuertos/aeropuerto-tenerife-sur"
+     }
+    ]
+   }
+  ],
+  "stations": []
+ },
+ {
+  "city": "VNO",
+  "airports": [
+   {
+    "code": "KUN",
+    "public": {
+     "line": "Ollex airport express (Oro uosto Ekspresas), Kaunas Airport to Vilnius",
+     "from": "Kaunas Airport bus stop",
+     "to": "Vilnius, Seinu g. stop opposite the McDonald's restaurant",
+     "minutes": 75,
+     "fareEUR": 15,
+     "fareText": "EUR 15.00 one-way (Ollex ticket price page, Kaunas Airport to Vilnius; the same price applies in the other direction). Tickets online, at ticket offices, or from the driver for cash euros if seats are free. Ride time about 1 h 15 min per the Kaunas Airport website (read via search summary). Checked 2026-10-12.",
+     "frequency": "timed to flights; secondary sources say 4-5 departures per day (not confirmed); the bus waits up to 10 min for a delayed flight",
+     "hours": null,
+     "url": "https://www.ollex.lt/ekspresas/Kauno-oro-uostas/bilietu-kainos"
+    },
+    "alternatives": []
+   }
+  ],
+  "stations": []
+ },
+ {
+  "city": "TRS",
+  "airports": [
+   {
+    "code": "TRS",
+    "public": {
+     "line": "Bus G51 (TPL FVG / APT Gorizia), Trieste Airport to Trieste bus station",
+     "from": "Trieste Airport bus station (autostazione, linked to the terminal by an elevated walkway)",
+     "to": "Trieste bus station, Piazza della Liberta, next to Trieste Centrale",
+     "minutes": 52,
+     "fareEUR": 4.75,
+     "fareText": "EUR 4.75 single from the TPL FVG travel planner, Trieste Airport to TRIESTE piazza della Liberta (autostazione), checked 12 Oct 2026",
+     "frequency": "hourly",
+     "hours": "04:40-22:25 (approximate, undated timetable; weekends and holidays sparser)",
+     "url": "https://www.mycicero.it/tplfvg-go/TPWebPortal/it/"
+    },
+    "alternatives": []
+   }
+  ],
+  "stations": []
+ },
+ {
+  "city": "ZAG",
+  "airports": [
+   {
+    "code": "ZAG",
+    "public": {
+     "line": "ZET bus 290 (Kvaternik Square - Zagreb Airport - Velika Gorica)",
+     "from": "Zagreb Airport bus stop, outside the terminal",
+     "to": "Kvaternik Square (Kvaternikov trg), not the railway station",
+     "minutes": 50,
+     "fareEUR": 2.65,
+     "fareText": "EUR 2.65 ZET single for zones I and II (valid 180 min), from the ZET outlying-areas price list. ZET puts Velika Gorica in zone II but its page does not name the airport stop's zone, so zones I+II is an assumption. ZET also lists a EUR 1.99 90-min single sold by the driver (zone not stated). Ride 45-50 min per the airport. Checked 2026-10-12.",
+     "frequency": null,
+     "hours": "04:20-00:27 (no service before 04:20 or after 00:27; Sundays first run 05:20)",
+     "url": "https://www.zet.hr/en/ticket-prices-sales-and-payment/ticket-prices-outlying-areas/56"
+    },
+    "alternatives": [
+     {
+      "line": "Pleso Prijevoz airport shuttle bus",
+      "to": "Zagreb Central Bus Station",
+      "minutes": 35,
+      "fareEUR": null,
+      "fareText": "Fare not found: plesoprijevoz.hr home page shows a shuttle every 30 min but no price, and the airport page lists no fares. Ride 35-40 min per the airport page.",
+      "url": "https://www.plesoprijevoz.hr/en/"
+     }
+    ]
+   }
+  ],
+  "stations": []
+ },
+ {
+  "city": "MRS",
+  "airports": [
+   {
+    "code": "MRS",
+    "public": {
+     "line": "Airport shuttle bus A1 (formerly line 91) to Marseille Saint-Charles, La Metropole Mobilite",
+     "from": "Marseille Provence Airport, stop MP1 between halls 3-4 and 1",
+     "to": "Marseille Saint-Charles bus station (gare routiere, rue Honnorat side), next to the train station",
+     "minutes": 40,
+     "fareEUR": 15,
+     "fareText": "EUR 15.00 adult single (Marseille tourist office page 'Tarifs 2026', updated 9 Jul 2026). The airport page sends you to La Metropole Mobilite for rates, and that site returned 403, so the operator list was not read. Return EUR 26.00; ages 12-25 EUR 7.00 (applies to a 23-year-old, bring ID); ages 6-11 EUR 5.00. Ride 30-50 min depending on traffic. Checked 2026-10-12.",
+     "frequency": "every 10 min 07:00-20:00, every 20 min at other times (airport page)",
+     "hours": "from the airport first departure about 04:05-04:10; last about 01:50 per the airport page, which marks the late service 'May to October only', so the winter last departure is not confirmed",
+     "url": "https://www.marseille-tourisme.com/offres/navette-marseille-aeroport-gare-st-charles-marseille-1er-fr-3382452/"
+    },
+    "alternatives": [
+     {
+      "line": "Airport shuttle bus A1, youth fare (12-25 years)",
+      "to": "Marseille Saint-Charles bus station",
+      "minutes": 40,
+      "fareEUR": 7,
+      "fareText": "EUR 7.00 for 12-25 years (Marseille tourist office page, 2026 tariffs); sold at ticket offices and machines, on board only the full-price single is sold",
+      "url": "https://www.marseille-tourisme.com/offres/navette-marseille-aeroport-gare-st-charles-marseille-1er-fr-3382452/"
+     }
+    ]
+   }
+  ],
+  "stations": []
+ },
+ {
+  "city": "NUE",
+  "airports": [
+   {
+    "code": "NUE",
+    "public": {
+     "line": "U2 U-Bahn (VAG, VGN tariff)",
+     "from": "Flughafen U-Bahn station, directly in front of the terminal",
+     "to": "Nuernberg Hauptbahnhof (main station)",
+     "minutes": 12,
+     "fareEUR": 3.9,
+     "fareText": "EUR 3.90 adult single (Einzelfahrkarte), price level A, from the ticket machine, valid 90 min in one direction; EUR 3.65 in the VGN app or online shop (VGN prices as of 1 Jan 2026). VGN's airport page puts the airport in price level A (read via search summary). Ride 12 min per the airport page. Checked 2026-10-12.",
+     "frequency": "about every 10 min (not confirmed on the pages read)",
+     "hours": null,
+     "url": "https://www.vgn.de/tickets/einzelfahrkarte/"
+    },
+    "alternatives": []
+   }
+  ],
+  "stations": []
+ }
+]

@@ -1,0 +1,757 @@
+[
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Croatia",
+    "iataCode": "DBV",
+    "name": "Dubrovnik",
+    "seoName": "dubrovnik",
+    "city": {
+     "code": "DUBROVNIK",
+     "countryCode": "hr",
+     "name": "Dubrovnik"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-04T21:00:00",
+   "arrivalDate": "2026-12-04T22:50:00",
+   "price": {
+    "value": 15.99,
+    "valueMainUnit": "15",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5966~ ~~DBV~12/04/2026 21:00~STN~12/04/2026 22:50~~",
+   "flightNumber": "FR5966",
+   "previousPrice": null,
+   "priceUpdated": 1791800397000
+  },
+  "summary": {
+   "price": {
+    "value": 15.99,
+    "valueMainUnit": "15",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Croatia",
+    "iataCode": "DBV",
+    "name": "Dubrovnik",
+    "seoName": "dubrovnik",
+    "city": {
+     "code": "DUBROVNIK",
+     "countryCode": "hr",
+     "name": "Dubrovnik"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Poland",
+    "iataCode": "KRK",
+    "name": "Krakow",
+    "seoName": "krakow",
+    "city": {
+     "code": "KRAKOW",
+     "countryCode": "pl",
+     "name": "Krakow"
+    }
+   },
+   "departureDate": "2026-12-05T09:15:00",
+   "arrivalDate": "2026-12-05T10:55:00",
+   "price": {
+    "value": 19.99,
+    "valueMainUnit": "19",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5916~ ~~DBV~12/05/2026 09:15~KRK~12/05/2026 10:55~~",
+   "flightNumber": "FR5916",
+   "previousPrice": null,
+   "priceUpdated": 1791800399000
+  },
+  "summary": {
+   "price": {
+    "value": 19.99,
+    "valueMainUnit": "19",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Croatia",
+    "iataCode": "DBV",
+    "name": "Dubrovnik",
+    "seoName": "dubrovnik",
+    "city": {
+     "code": "DUBROVNIK",
+     "countryCode": "hr",
+     "name": "Dubrovnik"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Poland",
+    "iataCode": "KRK",
+    "name": "Krakow",
+    "seoName": "krakow",
+    "city": {
+     "code": "KRAKOW",
+     "countryCode": "pl",
+     "name": "Krakow"
+    }
+   },
+   "departureDate": "2026-12-07T15:15:00",
+   "arrivalDate": "2026-12-07T16:55:00",
+   "price": {
+    "value": 26.99,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5916~ ~~DBV~12/07/2026 15:15~KRK~12/07/2026 16:55~~",
+   "flightNumber": "FR5916",
+   "previousPrice": null,
+   "priceUpdated": 1791800397000
+  },
+  "summary": {
+   "price": {
+    "value": 26.99,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Croatia",
+    "iataCode": "DBV",
+    "name": "Dubrovnik",
+    "seoName": "dubrovnik",
+    "city": {
+     "code": "DUBROVNIK",
+     "countryCode": "hr",
+     "name": "Dubrovnik"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-06T19:05:00",
+   "arrivalDate": "2026-12-06T20:55:00",
+   "price": {
+    "value": 27.99,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5966~ ~~DBV~12/06/2026 19:05~STN~12/06/2026 20:55~~",
+   "flightNumber": "FR5966",
+   "previousPrice": null,
+   "priceUpdated": 1791800397000
+  },
+  "summary": {
+   "price": {
+    "value": 27.99,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Croatia",
+    "iataCode": "DBV",
+    "name": "Dubrovnik",
+    "seoName": "dubrovnik",
+    "city": {
+     "code": "DUBROVNIK",
+     "countryCode": "hr",
+     "name": "Dubrovnik"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-11T21:00:00",
+   "arrivalDate": "2026-12-11T22:50:00",
+   "price": {
+    "value": 27.99,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5966~ ~~DBV~12/11/2026 21:00~STN~12/11/2026 22:50~~",
+   "flightNumber": "FR5966",
+   "previousPrice": null,
+   "priceUpdated": 1791800394000
+  },
+  "summary": {
+   "price": {
+    "value": 27.99,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Croatia",
+    "iataCode": "DBV",
+    "name": "Dubrovnik",
+    "seoName": "dubrovnik",
+    "city": {
+     "code": "DUBROVNIK",
+     "countryCode": "hr",
+     "name": "Dubrovnik"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-04T11:50:00",
+   "arrivalDate": "2026-12-04T14:15:00",
+   "price": {
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3881~ ~~DBV~12/04/2026 11:50~DUB~12/04/2026 14:15~~",
+   "flightNumber": "FR3881",
+   "previousPrice": null,
+   "priceUpdated": 1791800398000
+  },
+  "summary": {
+   "price": {
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Croatia",
+    "iataCode": "DBV",
+    "name": "Dubrovnik",
+    "seoName": "dubrovnik",
+    "city": {
+     "code": "DUBROVNIK",
+     "countryCode": "hr",
+     "name": "Dubrovnik"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-06T20:40:00",
+   "arrivalDate": "2026-12-06T23:05:00",
+   "price": {
+    "value": 37.04,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "04",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3881~ ~~DBV~12/06/2026 20:40~DUB~12/06/2026 23:05~~",
+   "flightNumber": "FR3881",
+   "previousPrice": null,
+   "priceUpdated": 1791800395000
+  },
+  "summary": {
+   "price": {
+    "value": 37.04,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "04",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Croatia",
+    "iataCode": "DBV",
+    "name": "Dubrovnik",
+    "seoName": "dubrovnik",
+    "city": {
+     "code": "DUBROVNIK",
+     "countryCode": "hr",
+     "name": "Dubrovnik"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-11T11:50:00",
+   "arrivalDate": "2026-12-11T14:15:00",
+   "price": {
+    "value": 42.89,
+    "valueMainUnit": "42",
+    "valueFractionalUnit": "89",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3881~ ~~DBV~12/11/2026 11:50~DUB~12/11/2026 14:15~~",
+   "flightNumber": "FR3881",
+   "previousPrice": null,
+   "priceUpdated": 1791800394000
+  },
+  "summary": {
+   "price": {
+    "value": 42.89,
+    "valueMainUnit": "42",
+    "valueFractionalUnit": "89",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Croatia",
+    "iataCode": "DBV",
+    "name": "Dubrovnik",
+    "seoName": "dubrovnik",
+    "city": {
+     "code": "DUBROVNIK",
+     "countryCode": "hr",
+     "name": "Dubrovnik"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Poland",
+    "iataCode": "KRK",
+    "name": "Krakow",
+    "seoName": "krakow",
+    "city": {
+     "code": "KRAKOW",
+     "countryCode": "pl",
+     "name": "Krakow"
+    }
+   },
+   "departureDate": "2026-12-12T09:15:00",
+   "arrivalDate": "2026-12-12T10:55:00",
+   "price": {
+    "value": 15.99,
+    "valueMainUnit": "15",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5916~ ~~DBV~12/12/2026 09:15~KRK~12/12/2026 10:55~~",
+   "flightNumber": "FR5916",
+   "previousPrice": null,
+   "priceUpdated": 1791800395000
+  },
+  "summary": {
+   "price": {
+    "value": 15.99,
+    "valueMainUnit": "15",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Croatia",
+    "iataCode": "DBV",
+    "name": "Dubrovnik",
+    "seoName": "dubrovnik",
+    "city": {
+     "code": "DUBROVNIK",
+     "countryCode": "hr",
+     "name": "Dubrovnik"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Poland",
+    "iataCode": "KRK",
+    "name": "Krakow",
+    "seoName": "krakow",
+    "city": {
+     "code": "KRAKOW",
+     "countryCode": "pl",
+     "name": "Krakow"
+    }
+   },
+   "departureDate": "2026-12-14T15:15:00",
+   "arrivalDate": "2026-12-14T16:55:00",
+   "price": {
+    "value": 19.99,
+    "valueMainUnit": "19",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5916~ ~~DBV~12/14/2026 15:15~KRK~12/14/2026 16:55~~",
+   "flightNumber": "FR5916",
+   "previousPrice": null,
+   "priceUpdated": 1791800395000
+  },
+  "summary": {
+   "price": {
+    "value": 19.99,
+    "valueMainUnit": "19",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Croatia",
+    "iataCode": "DBV",
+    "name": "Dubrovnik",
+    "seoName": "dubrovnik",
+    "city": {
+     "code": "DUBROVNIK",
+     "countryCode": "hr",
+     "name": "Dubrovnik"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-18T21:00:00",
+   "arrivalDate": "2026-12-18T22:50:00",
+   "price": {
+    "value": 19.99,
+    "valueMainUnit": "19",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5966~ ~~DBV~12/18/2026 21:00~STN~12/18/2026 22:50~~",
+   "flightNumber": "FR5966",
+   "previousPrice": null,
+   "priceUpdated": 1791801649000
+  },
+  "summary": {
+   "price": {
+    "value": 19.99,
+    "valueMainUnit": "19",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Croatia",
+    "iataCode": "DBV",
+    "name": "Dubrovnik",
+    "seoName": "dubrovnik",
+    "city": {
+     "code": "DUBROVNIK",
+     "countryCode": "hr",
+     "name": "Dubrovnik"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Poland",
+    "iataCode": "KRK",
+    "name": "Krakow",
+    "seoName": "krakow",
+    "city": {
+     "code": "KRAKOW",
+     "countryCode": "pl",
+     "name": "Krakow"
+    }
+   },
+   "departureDate": "2026-12-19T09:15:00",
+   "arrivalDate": "2026-12-19T10:55:00",
+   "price": {
+    "value": 26.81,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "81",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5916~ ~~DBV~12/19/2026 09:15~KRK~12/19/2026 10:55~~",
+   "flightNumber": "FR5916",
+   "previousPrice": null,
+   "priceUpdated": 1791800396000
+  },
+  "summary": {
+   "price": {
+    "value": 26.81,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "81",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Croatia",
+    "iataCode": "DBV",
+    "name": "Dubrovnik",
+    "seoName": "dubrovnik",
+    "city": {
+     "code": "DUBROVNIK",
+     "countryCode": "hr",
+     "name": "Dubrovnik"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-13T19:05:00",
+   "arrivalDate": "2026-12-13T20:55:00",
+   "price": {
+    "value": 27.99,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5966~ ~~DBV~12/13/2026 19:05~STN~12/13/2026 20:55~~",
+   "flightNumber": "FR5966",
+   "previousPrice": null,
+   "priceUpdated": 1791800396000
+  },
+  "summary": {
+   "price": {
+    "value": 27.99,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Croatia",
+    "iataCode": "DBV",
+    "name": "Dubrovnik",
+    "seoName": "dubrovnik",
+    "city": {
+     "code": "DUBROVNIK",
+     "countryCode": "hr",
+     "name": "Dubrovnik"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-13T20:40:00",
+   "arrivalDate": "2026-12-13T23:05:00",
+   "price": {
+    "value": 30.99,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3881~ ~~DBV~12/13/2026 20:40~DUB~12/13/2026 23:05~~",
+   "flightNumber": "FR3881",
+   "previousPrice": null,
+   "priceUpdated": 1791800394000
+  },
+  "summary": {
+   "price": {
+    "value": 30.99,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Croatia",
+    "iataCode": "DBV",
+    "name": "Dubrovnik",
+    "seoName": "dubrovnik",
+    "city": {
+     "code": "DUBROVNIK",
+     "countryCode": "hr",
+     "name": "Dubrovnik"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-18T11:50:00",
+   "arrivalDate": "2026-12-18T14:15:00",
+   "price": {
+    "value": 36.65,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "65",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3881~ ~~DBV~12/18/2026 11:50~DUB~12/18/2026 14:15~~",
+   "flightNumber": "FR3881",
+   "previousPrice": null,
+   "priceUpdated": 1791800396000
+  },
+  "summary": {
+   "price": {
+    "value": 36.65,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "65",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ }
+]

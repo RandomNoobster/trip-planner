@@ -1,0 +1,33 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMDcyAkRZMgJEOGoFEgNUUkRyBRIDUFJHGiISCjIwMjYtMTItMTUyAkRZMgJEOGoFEgNQUkdyBRIDVFJEQAFIAZgBAQ",
+ "fetchedAt": "2026-10-11T11:22:36",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 280.0,
+   "roundTripTotal": true,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:25",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Letiště Václava Havla Praha",
+   "arrTime": "13:50",
+   "arrDate": "2026-12-07",
+   "durationMin": 265,
+   "layovers": [
+    {
+     "min": 90,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 280 euros round trip total.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 9:25 AM on Monday, December 7 and arrives at Letiště Václava Havla Praha at 1:50 PM on Monday, December 7. Total duration 4 hr 25 min.  Layover (1 of 1) is a 1 hr 30 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

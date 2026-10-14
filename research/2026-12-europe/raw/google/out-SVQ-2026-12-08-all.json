@@ -1,0 +1,94 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDhqBRIDVFJEcgUSA1NWUUABSAGYAQI",
+ "fetchedAt": "2026-10-11T12:25:41",
+ "priceUnavailable": 0,
+ "via": "rpc",
+ "itineraries": [
+  {
+   "price": 416.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Tap Air Portugal",
+   "operatedBy": "Portugalia - Companhia Portuguesa",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "16:35",
+   "depDate": "2026-12-08",
+   "arrCode": "SVQ",
+   "arrAirportName": "Seville Airport",
+   "arrTime": "09:15",
+   "arrDate": "2026-12-09",
+   "durationMin": 1000,
+   "layovers": [
+    {
+     "min": 70,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    },
+    {
+     "min": 555,
+     "overnight": true,
+     "airport": "Humberto Delgado Airport",
+     "city": "Lisbon",
+     "code": "LIS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK373",
+    "TP765",
+    "TP1102"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 769.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air Europa",
+   "operatedBy": "Air Europa Express, Sas Link",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:15",
+   "depDate": "2026-12-08",
+   "arrCode": "SVQ",
+   "arrAirportName": "Seville Airport",
+   "arrTime": "20:30",
+   "arrDate": "2026-12-08",
+   "durationMin": 615,
+   "layovers": [
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "code": "CPH",
+     "changeAirport": false
+    },
+    {
+     "min": 190,
+     "overnight": false,
+     "airport": "Adolfo Suárez Madrid-Barajas Airport",
+     "city": "Madrid",
+     "code": "MAD",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK2889",
+    "SK4303",
+    "UX5053"
+   ],
+   "via": "rpc"
+  }
+ ]
+}

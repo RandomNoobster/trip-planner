@@ -1,0 +1,553 @@
+[
+  {
+    "city": "CPH",
+    "airports": [
+      {
+        "code": "CPH",
+        "public": {
+          "line": "Metro line M2 (Copenhagen Metro, Vanløse - Copenhagen Airport)",
+          "from": "Copenhagen Airport metro station (end of the M2 line)",
+          "to": "City centre by metro (Wikivoyage: 14 min to the city centre; stop not named)",
+          "minutes": 14,
+          "fareEUR": 4.0,
+          "fareText": "DKK 30 for a 3-zone ticket from machines in the arrivals hall (Wikivoyage 'Get in'; the page gives no date and no adult label). The cph.dk and m.dk pages returned 403 and 404; search snippets quote DKK 36-40, unverified",
+          "frequency": "every 4 min by day, every 15 min at night (Wikivoyage)",
+          "hours": null,
+          "url": "https://en.wikivoyage.org/wiki/Copenhagen"
+        },
+        "alternatives": [
+          {
+            "line": "Airport train to Copenhagen Central Station (service name not stated on the page)",
+            "to": "Copenhagen Central Station (Hovedbanegården)",
+            "minutes": 12,
+            "fareEUR": 4.0,
+            "fareText": "DKK 30 for a 3-zone ticket from arrivals-hall machines (Wikivoyage)",
+            "url": "https://en.wikivoyage.org/wiki/Copenhagen"
+          }
+        ],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "Not verified: cph.dk returned 403. The input lead (about EUR 21, travel-site meter estimate) was not confirmed within the fetch limit and is not used",
+          "url": null
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Copenhagen Central Station (Københavns Hovedbanegård) for trains; Copenhagen Bus Terminal at Dybbølsbro and DGI Byen for long-distance buses",
+        "serves": "trains from Malmö, Stockholm and Germany; Flixbus and GoByBus long-distance buses",
+        "toCentre": "Main station in the city centre (Bernstorffsgade 16-22); walking time not stated (Wikivoyage)",
+        "line": null,
+        "minutes": null,
+        "fareEUR": 0,
+        "url": "https://en.wikivoyage.org/wiki/Copenhagen"
+      }
+    ]
+  },
+  {
+    "city": "VNO",
+    "airports": [
+      {
+        "code": "VNO",
+        "public": {
+          "line": "Bus 88 (city route; operator not stated on the JUDU page)",
+          "from": "Vilnius Airport bus stop (stop not named on the JUDU page)",
+          "to": "Europa Square (city centre)",
+          "minutes": 20,
+          "fareEUR": 1.0,
+          "fareText": "EUR 1.00 for a 30-min ticket (JUDU ticket page); EUR 1.25 for 60 min; the older JUDU airport page shows EUR 0.90 for 60 min. Buy with the JUDU/Vilniečio card, JUDU or m.Ticket app, or a contactless card; validate at the on-board machine",
+          "frequency": "every 20-30 min (JUDU airport page)",
+          "hours": "88N night bus 22:30-05:30 (JUDU); daytime hours not stated",
+          "url": "https://judu.lt/en/for-public-transport-passengers/vilnius-airport-by-public-transport/"
+        },
+        "alternatives": [
+          {
+            "line": "Bus 1 (city route; operator not stated)",
+            "to": "Vilnius bus station and railway station (next to each other)",
+            "minutes": 15,
+            "fareEUR": 1.0,
+            "fareText": "EUR 1.00 paid by card (Wikivoyage); JUDU ticket page gives EUR 1.00 for 30 min",
+            "url": "https://en.wikivoyage.org/wiki/Vilnius"
+          },
+          {
+            "line": "Night bus 88N (JUDU: 22:30-05:30; Wikivoyage: 23:30-05:30, every 30 min)",
+            "to": "Europa Square",
+            "minutes": null,
+            "fareEUR": 1.0,
+            "fareText": "EUR 1.00 for a 30-min ticket (JUDU ticket page)",
+            "url": "https://judu.lt/en/for-public-transport-passengers/vilnius-airport-by-public-transport/"
+          },
+          {
+            "line": "Airport train to Vilnius Railway Station (Wikivoyage: about every 2 hours)",
+            "to": "Vilnius Railway Station (Geležinkelio 16)",
+            "minutes": 8,
+            "fareEUR": 0.8,
+            "fareText": "EUR 0.80 bought from the conductor on board (Wikivoyage; page date not stated)",
+            "url": "https://en.wikivoyage.org/wiki/Vilnius"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 18.0,
+          "minutes": null,
+          "basis": "2023 capped airport-rank rate per Wikivoyage: EUR 18 by day to the Old Town (EUR 21 at night). Not confirmed on an official page (airport site returned 403) and not checked for 2026",
+          "url": "https://en.wikivoyage.org/wiki/Vilnius"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Vilnius Railway Station (Geležinkelio 16)",
+        "serves": "trains from Kaunas (hourly, about 90 min), Klaipėda, Poland and Tallinn/Riga (Wikivoyage)",
+        "toCentre": "Just south of the Old Town Gate of Dawn (Wikivoyage); about 1 km walk into the Old Town; walking time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": 0,
+        "url": "https://en.wikivoyage.org/wiki/Vilnius"
+      },
+      {
+        "name": "Vilnius Bus Station (next to the railway station)",
+        "serves": "long-distance buses from Kaunas (every 15 min), Klaipėda and Warsaw (Eurolines, Ecolines, Lux Express, Flixbus)",
+        "toCentre": "Next to the railway station; about 1 km walk into the Old Town (Wikivoyage); walking time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": 0,
+        "url": "https://en.wikivoyage.org/wiki/Vilnius"
+      }
+    ]
+  },
+  {
+    "city": "BER",
+    "airports": [
+      {
+        "code": "BER",
+        "public": {
+          "line": "FEX Airport Express (operator Deutsche Bahn per the BER page)",
+          "from": "Flughafen BER railway station under Terminal 1 (level U2)",
+          "to": "Berlin Hauptbahnhof (central station)",
+          "minutes": 23,
+          "fareEUR": 5.0,
+          "fareText": "ABC single EUR 5.00 from 1 Jan 2026 (EUR 3.50 reduced); 2-hour one-way ticket from machines or apps (berlin.de fares page; BER is in zone C)",
+          "frequency": "every 15 min (BER page)",
+          "hours": "about 04:00-01:00 (BER page)",
+          "url": "https://ber.berlin-airport.de/en/orientation/getting-here/public-transport.html"
+        },
+        "alternatives": [
+          {
+            "line": "Night bus N60 (BER page: every 30 min; route ends at S+U Alexanderplatz)",
+            "to": "S+U Alexanderplatz",
+            "minutes": null,
+            "fareEUR": 5.0,
+            "fareText": "ABC single EUR 5.00 (zone C; berlin.de fares page)",
+            "url": "https://ber.berlin-airport.de/en/orientation/getting-here/public-transport.html"
+          }
+        ],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "Not verified: the BER page links to the taxi rank but gives no fixed fare or estimate",
+          "url": "https://ber.berlin-airport.de/en/orientation/getting-here/public-transport.html"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Berlin Hauptbahnhof (central station)",
+        "serves": "main train station; S-Bahn S3, S5, S7, S9 and U5 connections (Wikivoyage)",
+        "toCentre": "Central station; walking time not stated. Local links per Wikivoyage: U5 to Alexanderplatz, trams M5, M8, M10",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Berlin"
+      },
+      {
+        "name": "Zentraler Omnibusbahnhof (ZOB), Masurenallee 4-6, Charlottenburg",
+        "serves": "long-distance buses; some lines also serve Südkreuz or BER (Wikivoyage)",
+        "toCentre": "U2 (Theodor-Heuss-Platz or Kaiserdamm) and S41/S42/S46 (Messe Nord/ICC) per Wikivoyage; walking or travel time to the centre not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Berlin"
+      }
+    ]
+  },
+  {
+    "city": "LEJ",
+    "airports": [
+      {
+        "code": "LEJ",
+        "public": {
+          "line": "S-Bahn S5 or S5X (names from the input lead; not confirmed on a fetched page)",
+          "from": "Leipzig/Halle Airport railway station",
+          "to": "Leipzig Hauptbahnhof (main station); Wikivoyage: trip 14 or 18 min",
+          "minutes": 14,
+          "fareEUR": null,
+          "fareText": "Airport fare not verified: the airport page returned 403 and the MDV tariff PDF was unreadable. MDV single tickets: 1 zone Stadt Leipzig EUR 3.80 (1 h), 2 zones EUR 5.00 (1.5 h), 3 zones EUR 6.90 (2 h) (mdv.de). Wikivoyage gives EUR 6.60 with no date",
+          "frequency": "every 30 min (Wikivoyage)",
+          "hours": null,
+          "url": "https://en.wikivoyage.org/wiki/Leipzig"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "Not verified: the airport page returned 403",
+          "url": null
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Leipzig Hauptbahnhof (trains) and the Flixbus bus terminal at its east exit",
+        "serves": "regional and long-distance trains; Flixbus long-distance buses (Wikivoyage)",
+        "toCentre": "Main station; walking time to the centre not stated (Wikivoyage); trams reachable from the City-Tunnel",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Leipzig"
+      }
+    ]
+  },
+  {
+    "city": "AMS",
+    "airports": [
+      {
+        "code": "AMS",
+        "public": {
+          "line": "NS Sprinter train to Amsterdam Centraal (via Sloterdijk and Lelylaan)",
+          "from": "Schiphol Airport railway station",
+          "to": "Amsterdam Centraal",
+          "minutes": 17,
+          "fareEUR": null,
+          "fareText": "No fare on the fetched NS page. Input lead EUR 5.50 not verified (Schiphol train page returned 403). Buy online (no booking fee) or at NS ticket machines",
+          "frequency": "8 per hour (NS page: eight Sprinters every hour)",
+          "hours": null,
+          "url": "https://www.ns.nl/en/featured/destinations/schiphol"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "Not verified: the Schiphol taxi page returned 403; no fare was read",
+          "url": null
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Amsterdam Sloterdijk (long-distance bus stop and station)",
+        "serves": "long-distance buses: Flixbus (Berlin, Cologne, Munich), BlaBlaCar Bus (Paris, Lille), RegioJet (Prague), Twiliner (Zürich, Basel, Luxembourg, Brussels, Rotterdam)",
+        "toCentre": "Served by bus 22, tram 19 and metro lines 50 and 51 (Wikivoyage); travel time to the centre not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Amsterdam"
+      },
+      {
+        "name": "Amsterdam Centraal (train station; Flixbus stop)",
+        "serves": "international and national trains; Flixbus from Berlin, Cologne and Munich (Wikivoyage)",
+        "toCentre": "Wikivoyage says about 30 min on foot from most of the city centre (page wording, not checked against a map)",
+        "line": null,
+        "minutes": 30,
+        "fareEUR": 0,
+        "url": "https://en.wikivoyage.org/wiki/Amsterdam"
+      }
+    ]
+  },
+  {
+    "city": "DUB",
+    "airports": [
+      {
+        "code": "DUB",
+        "public": {
+          "line": "Bus 41 (Dublin Bus; TFI route 41 per the airport page)",
+          "from": "Dublin Airport bus stop (stop not named in the sources)",
+          "to": "Lower Abbey Street via O'Connell Street (Wikivoyage); Wikivoyage says local buses 'allow an hour'",
+          "minutes": null,
+          "fareEUR": 2.6,
+          "fareText": "EUR 2.60 cash in exact coins; EUR 2.00 with a Leap card (Wikivoyage). The airport page lists route 41 but gives no fare",
+          "frequency": "every 20-30 min (Wikivoyage)",
+          "hours": "24 hours (Wikivoyage; 30-min frequency overnight)",
+          "url": "https://en.wikivoyage.org/wiki/Dublin"
+        },
+        "alternatives": [
+          {
+            "line": "Bus 16 (Dublin Bus; via Drumcondra, O'Connell Street and George's Street)",
+            "to": "O'Connell Street and George's Street (city centre)",
+            "minutes": null,
+            "fareEUR": 2.6,
+            "fareText": "EUR 2.60 cash; EUR 2.00 with a Leap card (Wikivoyage)",
+            "url": "https://en.wikivoyage.org/wiki/Dublin"
+          },
+          {
+            "line": "Aircoach 700 (faster coach, every 15-30 min)",
+            "to": "Dublin city centre",
+            "minutes": 30,
+            "fareEUR": 10.0,
+            "fareText": "EUR 10 single (Wikivoyage, 2024 figure; the airport page gives no fare)",
+            "url": "https://en.wikivoyage.org/wiki/Dublin"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 37.5,
+          "minutes": null,
+          "basis": "Midpoint of the Dublin Airport page's estimate of EUR 30-45 (meter-based, not a fixed fare; date not stated). The same page gives metered rates of EUR 1.32/km Mon-Sat 08:00-20:00 and EUR 1.81-2.20/km at other times",
+          "url": "https://www.dublinairport.com/to-from-the-airport/by-taxi"
+        }
+      }
+    ],
+    "stations": []
+  },
+  {
+    "city": "MAD",
+    "airports": [
+      {
+        "code": "MAD",
+        "public": {
+          "line": "Bus 203 Exprés Aeropuerto (EMT Madrid)",
+          "from": "Madrid-Barajas airport bus stops (T1, T2 and T4 served; stop not named in the source)",
+          "to": "Atocha (also Cibeles). EMT: about 30 min to T1, 35 min to T2, 40 min to T4 in normal traffic",
+          "minutes": 40,
+          "fareEUR": 5.0,
+          "fareText": "EUR 5.00 flat fare (EMT airport page)",
+          "frequency": "every 15-20 min 06:00-23:30; every 35 min 23:55-05:35 (EMT)",
+          "hours": "06:00-23:30 daytime; night service 23:55-05:35 (EMT)",
+          "url": "https://www.emtmadrid.es/Aeropuerto?lang=en-GB"
+        },
+        "alternatives": [
+          {
+            "line": "Metro line 8 (Wikivoyage: 06:00-01:30)",
+            "to": "Nuevos Ministerios (change there for the centre)",
+            "minutes": 15,
+            "fareEUR": 5.0,
+            "fareText": "Single fare EUR 5 (Wikivoyage); the metro airport fares page returned an access-denied notice",
+            "url": "https://en.wikivoyage.org/wiki/Madrid"
+          }
+        ],
+        "taxi": {
+          "fareEUR": 33.0,
+          "minutes": null,
+          "basis": "Official fixed fare FARE 4 (EUR 33, 24 h, all days) for trips starting or ending at the airport and inside the M-30 ring road (Aena taxi page). No supplements added; year not stated on the page",
+          "url": "https://www.aena.es/en/adolfo-suarez-madrid-barajas/getting-there/taxi.html"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Estación Sur de Autobuses (C/ de Méndez Álvaro 3)",
+        "serves": "southern and international long-distance buses (e.g. Lisbon, Milan, Paris)",
+        "toCentre": "About 1 km southeast of Atocha; Metro line 6 (Méndez Álvaro) and a Cercanías halt nearby (Wikivoyage); walking time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Madrid"
+      },
+      {
+        "name": "Estación de Avenida de América (Avda. de América 9)",
+        "serves": "northern long-distance buses (e.g. Barcelona, Bilbao)",
+        "toCentre": "About 2 km northeast of the centre; Metro lines 4, 6, 7 and 9 (Wikivoyage); walking time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Madrid"
+      }
+    ]
+  },
+  {
+    "city": "LPA",
+    "airports": [
+      {
+        "code": "LPA",
+        "public": {
+          "line": "Line 60 (operated by Global, per the Global website)",
+          "from": "Gran Canaria Airport bus stop, Planta 1 (Salidas), per Aena",
+          "to": "San Telmo bus station, Las Palmas city centre (Global: about 20 min)",
+          "minutes": 20,
+          "fareEUR": 2.3,
+          "fareText": "EUR 2.30 direct payment to San Telmo (Global airport page; the Aena table also gives 2.30). Santa Catalina interchange EUR 2.95 (about 30 min). Not stated whether the fare is adult; no date or validity shown",
+          "frequency": "about every 30 min until 20:45, then 21:15, 22:15 and 23:15 from the airport (Global line-info page)",
+          "hours": "06:15-23:15 (Aena and Global)",
+          "url": "https://www.aena.es/es/gran-canaria/como-llegar/autobus.html"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "Metered only, no fixed fare (Aena taxi page): EUR 3.85 flag + EUR 1.35/km by day; EUR 4.25 + EUR 1.55/km at night and on holidays; EUR 2.10 airport supplement. Trip distance unknown, so no total. Year not stated",
+          "url": "https://www.aena.es/es/gran-canaria/como-llegar/taxi.html"
+        }
+      }
+    ],
+    "stations": []
+  },
+  {
+    "city": "MIL",
+    "airports": [],
+    "stations": [
+      {
+        "name": "Lampugnano bus terminal (Via Giulio Natta 226, Milan 20151)",
+        "serves": "long-distance buses: Autostradale (national lines) and Flixbus (domestic and international) (Wikivoyage; address from the FlixBus stop page)",
+        "toCentre": "Metro connection to the centre; the Wikivoyage page gives no line (metro M1 at Lampugnano comes from search results, not a fetched page). Walking or travel time not stated",
+        "line": "Metro M1 from Lampugnano station",
+        "minutes": null,
+        "fareEUR": 2.2,
+        "url": "https://www.atm.it/EN/VIAGGIACONNOI/BIGLIETTI/Pages/tickets_milan.aspx"
+      },
+      {
+        "name": "Milano Centrale (train station; FlixBus stop at Stazione Centrale - Hotel Gallia)",
+        "serves": "trains (Trenitalia, Italo and other long-distance operators); FlixBus stop (listed on the FlixBus Lampugnano page)",
+        "toCentre": "Metro M2 and M3 and ATM buses at the station (Wikivoyage); walking time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Milan"
+      }
+    ]
+  },
+  {
+    "city": "CTA",
+    "airports": [
+      {
+        "code": "CTA",
+        "public": {
+          "line": "AMTS Alibus airport shuttle (operator AMTS Catania)",
+          "from": "Catania Airport bus stop (stop name not stated in the sources)",
+          "to": "Catania Centrale railway station (Piazza Giovanni XXIII)",
+          "minutes": 25,
+          "fareEUR": 4.0,
+          "fareText": "EUR 4.00 (AMTS Alibus page); paid on board by card or via the AMTS app, or bought in advance at the AMTS ticket office. Valid 90 min on other AMTS urban lines (Wikivoyage)",
+          "frequency": "every 25 min (Wikivoyage; the input lead said every 18-25 min)",
+          "hours": "05:30-00:00 (Wikivoyage; the input lead said 04:40-00:30)",
+          "url": "https://amts.ct.it/alibus"
+        },
+        "alternatives": [
+          {
+            "line": "Trenitalia regional train from Catania Aeroporto station, with the terminal shuttle to the airport station",
+            "to": "Catania Centrale (main station)",
+            "minutes": null,
+            "fareEUR": 2.2,
+            "fareText": "EUR 2.20 train ticket (2026, Wikivoyage); the terminal shuttle costs EUR 1 when booked with the train ticket (Wikivoyage), so about EUR 3.20 in total. Times not stated",
+            "url": "https://en.wikivoyage.org/wiki/Catania"
+          }
+        ],
+        "taxi": {
+          "fareEUR": null,
+          "minutes": null,
+          "basis": "Not confirmed: the input lead (EUR 27 experimental fixed fare, news reports, valid 1 Jul-31 Dec 2026) was not found on any official page; the airport taxi page returned only its title",
+          "url": null
+        }
+      }
+    ],
+    "stations": []
+  },
+  {
+    "city": "IST",
+    "airports": [
+      {
+        "code": "IST",
+        "public": {
+          "line": "M11 metro (Istanbul Airport to Gayrettepe), then M2 to Yenikapı and T1 tram to Sultanahmet (route per the input lead; M2 and T1 not confirmed on fetched pages)",
+          "from": "Istanbul Airport metro station outside arrivals exit 11 (Wikivoyage)",
+          "to": "Sultanahmet (old town) via Gayrettepe, Yenikapı and the T1 tram",
+          "minutes": null,
+          "fareEUR": 0.8,
+          "fareText": "Full single fare 46.20 TL on an anonymous Istanbulkart (Metro Istanbul fare page; effective date not stated) = EUR 0.8. The trip changes lines, so the total may be more than one fare; transfer rules not verified. Istanbulkart can be bought at the station",
+          "frequency": null,
+          "hours": "M11 about 06:15-00:15 (Wikivoyage)",
+          "url": "https://www.metro.istanbul/en/SeferDurumlari/BiletUcretleri"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": 27.9,
+          "minutes": 50,
+          "basis": "Meter estimate (fares depend on distance and time), per Wikivoyage: about EUR 27.92 to Sultanahmet; October 2024 figure, the source's reference link is dead, and the 2026 tariff change is not reflected. Not a fixed fare",
+          "url": "https://en.wikivoyage.org/wiki/Istanbul"
+        }
+      }
+    ],
+    "stations": []
+  },
+  {
+    "city": "LJU",
+    "airports": [
+      {
+        "code": "LJU",
+        "public": {
+          "line": "Arriva airport bus to Ljubljana bus station (Wikivoyage also lists LPP route 64 at EUR 4.10)",
+          "from": "Ljubljana Airport (Brnik) bus stop, on the right after crossing to the parking lot (Wikivoyage)",
+          "to": "Ljubljana bus station ('Ljubljana AP', Stand 28), next to the railway station",
+          "minutes": 50,
+          "fareEUR": 4.0,
+          "fareText": "EUR 4.00 cash only from the airport (Wikivoyage); the other direction is EUR 4.10 paid to the driver and cannot be paid with the Urbana card (Wikivoyage). The input lead of EUR 3.70 is older",
+          "frequency": "every 30 min (Wikivoyage timetable: Mon-Fri 05:20-20:10; Sat, Sun and holidays 06:10-19:10)",
+          "hours": "Mon-Fri 05:20-20:10; Sat, Sun and holidays 06:10-19:10 (Wikivoyage)",
+          "url": "https://en.wikivoyage.org/wiki/Ljubljana"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": 50.0,
+          "minutes": null,
+          "basis": "Metered taxi: Wikivoyage says 'around EUR 50 to the city' (undated). Not an official fixed fare. The input lead (EUR 40, 2025 travel-site estimate) is older",
+          "url": "https://en.wikivoyage.org/wiki/Ljubljana"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Ljubljana bus station (avtobusna postaja, Stand 28)",
+        "serves": "bus station used by the airport bus (Stand 28) and other buses (Wikivoyage)",
+        "toCentre": "Next to the railway station; walking time to the centre not stated (Wikivoyage)",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Ljubljana"
+      }
+    ]
+  },
+  {
+    "city": "BSL",
+    "airports": [
+      {
+        "code": "BSL",
+        "public": {
+          "line": "Bus 50 (BVB, EuroAirport - Basel SBB)",
+          "from": "EuroAirport terminal forecourt, Arrivals Zone, Swiss sector",
+          "to": "Basel SBB main railway station (direct; Wikivoyage gives 15 min)",
+          "minutes": 20,
+          "fareEUR": 5.5,
+          "fareText": "CHF 5.10 adult 2-zone single (TNW tariff effective 10 Dec 2023, official); applied because Wikivoyage calls the bus a two-zone ticket. Wikivoyage's CHF 6.60 matches TNW's 3-zone price, so the zone count is not confirmed. The EuroAirport page gives no bus fare",
+          "frequency": "every 7-10 min (EuroAirport)",
+          "hours": "04:30 to midnight (EuroAirport)",
+          "url": "https://www.euroairport.com/en/transport"
+        },
+        "alternatives": [],
+        "taxi": {
+          "fareEUR": 53.7,
+          "minutes": null,
+          "basis": "Approximate CHF 50 for Basel from the EuroAirport page, quoted for city centre to airport; not a flat rate and not an official tariff; date not stated. Meter estimate",
+          "url": "https://www.euroairport.com/en/transport"
+        }
+      }
+    ],
+    "stations": [
+      {
+        "name": "Basel SBB (main railway station; trains and Flixbus)",
+        "serves": "trains and Flixbus long-distance buses (Wikivoyage; EuroAirport notes Flixbus from Basel SBB); BVB line 50 to the airport",
+        "toCentre": "About 1 km south of the city centre (Wikivoyage); walking or travel time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Basel"
+      },
+      {
+        "name": "Basel Badischer Bahnhof (Basel Bad, Kleinbasel)",
+        "serves": "rail station north of the Rhine in Kleinbasel (Wikivoyage); services not stated on the fetched page",
+        "toCentre": "North of the river in Kleinbasel (Wikivoyage); walking or travel time not stated",
+        "line": null,
+        "minutes": null,
+        "fareEUR": null,
+        "url": "https://en.wikivoyage.org/wiki/Basel"
+      }
+    ]
+  }
+]

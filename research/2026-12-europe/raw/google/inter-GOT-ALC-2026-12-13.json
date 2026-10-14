@@ -1,0 +1,148 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDR09UcgUSA0FMQ0ABSAGYAQI",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 21.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": null,
+   "depAirportName": "Gothenburg-Landvetter Airport",
+   "depTime": "06:00",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "arrTime": "09:30",
+   "arrDate": "2026-12-13",
+   "durationMin": 210,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 21 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Leaves Gothenburg-Landvetter Airport at 6:00 AM on Sunday, December 13 and arrives at Alicante-Elche Miguel Hernández Airport at 9:30 AM on Sunday, December 13. Total duration 3 hr 30 min.   Select flight"
+  },
+  {
+   "price": 36.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Gothenburg-Landvetter Airport",
+   "depTime": "19:20",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "arrTime": "22:45",
+   "arrDate": "2026-12-13",
+   "durationMin": 205,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 36 euros.This price does not include overhead bin access. Nonstop flight with Norwegian. Leaves Gothenburg-Landvetter Airport at 7:20 PM on Sunday, December 13 and arrives at Alicante-Elche Miguel Hernández Airport at 10:45 PM on Sunday, December 13. Total duration 3 hr 25 min.   Select flight"
+  },
+  {
+   "price": 87.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Gothenburg-Landvetter Airport",
+   "depTime": "06:00",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "arrTime": "13:40",
+   "arrDate": "2026-12-13",
+   "durationMin": 460,
+   "layovers": [
+    {
+     "min": 190,
+     "overnight": false,
+     "airport": "Munich International Airport",
+     "city": "Munich"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 87 euros. 1 stop flight with Lufthansa. Leaves Gothenburg-Landvetter Airport at 6:00 AM on Sunday, December 13 and arrives at Alicante-Elche Miguel Hernández Airport at 1:40 PM on Sunday, December 13. Total duration 7 hr 40 min.  Layover (1 of 1) is a 3 hr 10 min layover at Munich International Airport in Munich. Select flight"
+  },
+  {
+   "price": 101.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
+   "depAirportName": "Gothenburg-Landvetter Airport",
+   "depTime": "10:05",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "arrTime": "16:05",
+   "arrDate": "2026-12-13",
+   "durationMin": 360,
+   "layovers": [
+    {
+     "min": 105,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 101 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Gothenburg-Landvetter Airport at 10:05 AM on Sunday, December 13 and arrives at Alicante-Elche Miguel Hernández Airport at 4:05 PM on Sunday, December 13. Total duration 6 hr.  Layover (1 of 1) is a 1 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 155.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Gothenburg-Landvetter Airport",
+   "depTime": "11:55",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "arrTime": "17:05",
+   "arrDate": "2026-12-13",
+   "durationMin": 310,
+   "layovers": [
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 155 euros. 1 stop flight with Lufthansa. Leaves Gothenburg-Landvetter Airport at 11:55 AM on Sunday, December 13 and arrives at Alicante-Elche Miguel Hernández Airport at 5:05 PM on Sunday, December 13. Total duration 5 hr 10 min.  Layover (1 of 1) is a 55 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 166.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM and Transavia",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Gothenburg-Landvetter Airport",
+   "depTime": "12:00",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "arrTime": "17:30",
+   "arrDate": "2026-12-13",
+   "durationMin": 330,
+   "layovers": [
+    {
+     "min": 80,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 166 euros. 1 stop flight with KLM and Transavia. Operated by KLM Cityhopper. Leaves Gothenburg-Landvetter Airport at 12:00 PM on Sunday, December 13 and arrives at Alicante-Elche Miguel Hernández Airport at 5:30 PM on Sunday, December 13. Total duration 5 hr 30 min.  Layover (1 of 1) is a 1 hr 20 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  }
+ ]
+}

@@ -1,0 +1,507 @@
+[
+ {
+  "city": "BKK",
+  "airports": [
+   {
+    "code": "BKK",
+    "public": {
+     "line": "Airport Rail Link (ARL), all-stops train from Suvarnabhumi to Phaya Thai",
+     "from": "Suvarnabhumi Airport ARL station (Wikivoyage does not say where it is relative to the terminal; follow the Airport Rail Link signs)",
+     "to": "Phaya Thai station (BTS Skytrain transfer). Earlier stops: Makkasan (THB 35, 22 min) and Ratchaprarop (MRT transfer). The express train and the Makkasan City Air Terminal no longer run",
+     "minutes": 27,
+     "fareEUR": 1.2,
+     "fareText": "THB 45 to Phaya Thai (Wikivoyage gives 26 min in one section and 27 min in another; 27 used). Wikivoyage prices: the official ARL fare table could not be read (the srtet.co.th page that Wikivoyage links is now the SRT Red Line site)",
+     "frequency": "a train every 10–13 min (Wikivoyage)",
+     "hours": "06:00 to midnight daily (Wikivoyage)",
+     "url": "https://en.wikivoyage.org/wiki/Bangkok"
+    },
+    "alternatives": [],
+    "taxi": {
+     "fareEUR": 10.6,
+     "minutes": 55,
+     "basis": "Meter estimate from Wikivoyage: THB 250–400 on the meter plus expressway tolls of THB 50 and THB 25 (dated March 2020) and a per-trip airport surcharge whose amount is not stated. EUR figure = THB 325 midpoint + THB 75 tolls = THB 400, surcharge not included. 45–60 min depending on traffic and destination (midpoint rounded up). Public taxis queue on the floor below arrivals. The ARL stops at midnight, so this is the option for later arrivals",
+     "url": "https://en.wikivoyage.org/wiki/Bangkok"
+    }
+   },
+   {
+    "code": "DMK",
+    "public": {
+     "line": "A1 airport bus (Don Mueang Airport – BTS Chatuchak – Mo Chit 2 Bus Terminal), then BTS Skytrain to the centre",
+     "from": "Airport bus stop on the ground floor outside Gate 6 (Terminal 1, international) or Gate 12 (Terminal 2, domestic); the airport page spells the second one 'Goal12'",
+     "to": "BTS Chatuchak (Mo Chit) station and the Mo Chit 2 bus terminal; continue by BTS Skytrain (BTS fare not included). Wikivoyage describes an older A1 route that ended at Sena Nikhom BTS",
+     "minutes": 40,
+     "fareEUR": 0.8,
+     "fareText": "THB 30 for the whole A1 line (airport page); Wikivoyage says a steward collects it after the bus leaves. Trip.com (Dec 2025) gives 30–45 min (midpoint rounded up used); Wikivoyage's older route said about 20 min",
+     "frequency": "not stated on the airport page; trip.com (Dec 2025) says every 5 min; Wikivoyage warns the bus can be very crowded",
+     "hours": "06:50–23:59 (airport page); trip.com lists 06:15–00:30 and Wikivoyage 07:30–24:00 from the airport",
+     "url": "https://donmueang.airportthai.co.th/"
+    },
+    "alternatives": [
+     {
+      "line": "SRT Red Line (SRT Electrified Train Co.) from Don Mueang station",
+      "to": "Krung Thep Aphiwat (Bang Sue) station, where you change to the MRT Blue Line for the centre. Trip.com (Dec 2025): about 20 min, every 20 min (every 12 min at 05:00–07:00 and 17:00–19:00), 05:30–24:00; the Red Line site shows first departure 05:00 and last 00:00 from Krung Thep Aphiwat. The station is about a 10-min walk from Terminal 1 along a covered elevated walkway",
+      "minutes": 20,
+      "fareEUR": null,
+      "fareText": "Distance-based at THB 1.50 per km, minimum THB 12 (srtet.co.th lists THB 12–42 along the line; trip.com says THB 12–42). The Don Mueang to Krung Thep Aphiwat fare was not found, and the onward MRT fare is extra",
+      "url": "https://trip.com/guide/transport/don-mueang-airport-to-bangkok.html"
+     },
+     {
+      "line": "A3 / A4 airport express buses (direct to the centre)",
+      "to": "A3: Pratunam, Ratchaprasong, Lumphini Park. A4: Democracy Monument, Khao San Road, Sanam Luang. Same stops as the A1 (Gate 6 / Gate 12). Hours per the airport page: A3 07:00–23:00, A4 07:00–22:40. Trip.com (Dec 2025): 60–90 min, every 30 min",
+      "minutes": 75,
+      "fareEUR": 1.3,
+      "fareText": "THB 50 for the whole line (airport page)",
+      "url": "https://donmueang.airportthai.co.th/"
+     }
+    ],
+    "taxi": {
+     "fareEUR": 10.6,
+     "minutes": 40,
+     "basis": "Meter estimate: trip.com (Dec 2025) says THB 300–500 including tolls, 30–45 min without traffic and over an hour in rush hour; midpoint THB 400 used. The same page also quotes THB 250–400 and 30–60 min for taxi or Grab. A late-night surcharge of about THB 50 applies from midnight to 06:00. The airport page gives no taxi fare",
+     "url": "https://trip.com/guide/transport/don-mueang-airport-to-bangkok.html"
+    }
+   }
+  ]
+ },
+ {
+  "city": "KUL",
+  "airports": [
+   {
+    "code": "KUL",
+    "public": {
+     "line": "SKYBUS airport coach, KLIA2 to KL Sentral (Skybus Malaysia)",
+     "from": "KLIA2 airport bus stop (the guide read does not give the bay; a pick-up at KLIA Terminal 1 is not confirmed)",
+     "to": "KL Sentral, Kuala Lumpur's main rail hub",
+     "minutes": 75,
+     "fareEUR": 2.8,
+     "fareText": "RM 13 one-way (wego travel guide, July 2026; older guides say RM 11). Skybus's own site could not be read, so this is not an operator fare",
+     "frequency": "roughly every 30 min (wego, July 2026)",
+     "hours": "about 04:45 to 01:15 (wego, July 2026; direction not stated, older guides give shorter hours)",
+     "url": "https://blog.wego.com/klia-to-kuala-lumpur-city/"
+    },
+    "alternatives": [
+     {
+      "line": "KLIA Ekspres (Express Rail Link, ERL), non-stop airport train",
+      "to": "KL Sentral, about 28 min (Wikivoyage: 28–33 min from either terminal); every 20 min for most of the day, first train 05:00, last close to midnight (wego, July 2026). The ERL site says that from 23:00 trains stop at all stations and service runs until 01:00 (effective 8 Dec 2025)",
+      "minutes": 28,
+      "fareEUR": 12.0,
+      "fareText": "RM 55 one-way, RM 100 same-day return (wego July 2026; Wikivoyage also RM 55); the standard fare is not shown on the ERL page read. ERL promotions seen there: Group Saver RM 40 per person one-way for groups of 3 or more (about EUR 8.7); 25% off the airport transfer with a Visa card issued outside Malaysia (check terms)",
+      "url": "https://www.kliaekspres.com/"
+     }
+    ],
+    "taxi": {
+     "fareEUR": 16.4,
+     "minutes": 60,
+     "basis": "Prepaid coupon taxi (priced per zone; the city zone covers KL Sentral and downtown): budget car about RM 75, premier about RM 102, larger family vehicle about RM 200, 50% more for pick-ups 23:30–06:00; 45–75 min, midpoint used (wego, July 2026). Grab is quoted at RM 80–100 off-peak (about EUR 17.5–21.8) and RM 110–130 at peak (about EUR 24.0–28.4)",
+     "url": "https://blog.wego.com/klia-to-kuala-lumpur-city/"
+    }
+   }
+  ]
+ },
+ {
+  "city": "SIN",
+  "airports": [
+   {
+    "code": "SIN",
+    "public": {
+     "line": "MRT East West Line (SMRT) from Changi Airport station (CG2); change at Tanah Merah (EW4) to the Tuas Link train",
+     "from": "Changi Airport MRT station (CG2); Changi's page does not describe the walk from each terminal",
+     "to": "City Hall MRT station in the city centre, about a 40-min ride (Wikivoyage; trip.com says 30–40 min). The Downtown Line via Expo (CG1/DT35) is the alternative route",
+     "minutes": 40,
+     "fareEUR": 1.6,
+     "fareText": "SGD 2.30 adult fare to City Hall (Wikivoyage, undated; trip.com, Apr 2026, says typically SGD 1.60–2.50 per trip). Pay with a contactless bank card, mobile wallet, EZ-Link or NETS FlashPay; Changi warns that foreign-issued bank cards may incur admin fees",
+     "frequency": "every 6–10 min (Wikivoyage); trip.com (Apr 2026): every 7–9 min at peak, 12–13 min off-peak towards Tanah Merah",
+     "hours": "First train from Changi Airport 05:31 Mon–Sat and 05:59 Sun and public holidays; last train 23:18 for the Tuas Link connection (the city direction) and 00:06 for the Pasir Ris connection",
+     "url": "https://www.changiairport.com/en/airport-guide/transport/leaving-the-airport.html"
+    },
+    "alternatives": [
+     {
+      "line": "Bus 36 (public bus), direct from the terminal bus bays",
+      "to": "City Hall and Orchard Road along the East Coast, no transfer; buses generally run 05:30 to midnight (Wikivoyage). Changi lists bus 36 at the basement bays of Terminals 1–3 and at the stop next to Car Park 4B at Terminal 4",
+      "minutes": 60,
+      "fareEUR": 1.7,
+      "fareText": "about SGD 2.50 for a ride to the city (Wikivoyage, undated); Changi's page gives no bus fares and says cash needs the exact fare",
+      "url": "https://en.wikivoyage.org/wiki/SIN"
+     }
+    ],
+    "taxi": {
+     "fareEUR": 24.4,
+     "minutes": 30,
+     "basis": "Meter estimate from Changi Airport: SGD 25–45 to the city, about 30 min; midpoint SGD 35 used. Airport surcharge SGD 8 (17:00–23:59) or SGD 6 at other times, 50% extra on the metered fare from 00:00 to 05:59, 25% peak-hour surcharge. Grab, Gojek, Zig, Tada, Ryde and Geolah fare estimates are not stated",
+     "url": "https://www.changiairport.com/en/airport-guide/transport/leaving-the-airport.html"
+    }
+   }
+  ]
+ },
+ {
+  "city": "TYO",
+  "airports": [
+   {
+    "code": "HND",
+    "public": {
+     "line": "Keikyu Airport Line (Keikyu Corporation), Haneda Airport to Shinagawa",
+     "from": "Keikyu Haneda Airport Terminal 3 Station (the fare and time figures quoted are from Terminal 3)",
+     "to": "Shinagawa Station, a Tokyo rail hub. Guides say about 15–20 min (18 used)",
+     "minutes": 18,
+     "fareEUR": 1.9,
+     "fareText": "JPY 330 by ticket (JPY 327 with an IC card) in recent travel guides seen in a web search; older guides list JPY 292–300. The Haneda access page read gives no fares and the Keikyu site was not read, so confirm on the day (the Train & Monorail page linked from the Haneda access page has the official figures)",
+     "frequency": "roughly every 3–10 min (travel guides)",
+     "hours": null,
+     "url": "https://tokyo-haneda.com/en/access/index.html"
+    },
+    "alternatives": [
+     {
+      "line": "Tokyo Monorail, Haneda Airport Terminal 3 Station to Hamamatsucho",
+      "to": "Hamamatsucho Station; guides say about 15–18 min (17 used) and a train every 3–5 min",
+      "minutes": 17,
+      "fareEUR": 2.9,
+      "fareText": "JPY 520 by ticket (JPY 519 with an IC card) in one recent guide; other guides list JPY 470–500. Not confirmed on an operator page",
+      "url": "https://tokyo-haneda.com/en/access/index.html"
+     }
+    ],
+    "taxi": {
+     "fareEUR": 57.5,
+     "minutes": null,
+     "basis": "Meter estimate from the only example found, in the opposite direction: Wikivoyage's Tokyo page gives Tokyo Station to Haneda Terminal 1, 19.2 km, JPY 10,200 including the expressway fare. Journey time not stated",
+     "url": "https://en.wikivoyage.org/wiki/Tokyo"
+    }
+   },
+   {
+    "code": "NRT",
+    "public": {
+     "line": "Keisei Access Express (Keisei Electric Railway), Narita Airport to Tokyo",
+     "from": "Narita Airport railway stations at the terminals (the Narita page links a 'Railway Station and Terminal Access Route Introduction' at /en/access/train/railway-route/)",
+     "to": "The Narita Airport rail page lists Nippori, Keisei Ueno, Aoto, Keisei Takasago and Higashi-Matsudo for this service; it does not list Asakusa or Nihombashi",
+     "minutes": 60,
+     "fareEUR": 7.7,
+     "fareText": "Typical Keisei Access Express fare to Nihombashi or Asakusa (about JPY 1,370); estimate, check the Keisei site",
+     "frequency": null,
+     "hours": null,
+     "url": "https://www.narita-airport.jp/en/access/train/",
+     "estimate": true
+    },
+    "alternatives": [
+     {
+      "line": "Keisei Skyliner (Keisei Electric Railway)",
+      "to": "Nippori and Keisei Ueno (the stops the Narita page lists)",
+      "minutes": null,
+      "fareEUR": null,
+      "fareText": "No fare or time found: the Narita Airport rail page gives none and Keisei's Skyliner page (linked from it) was not read",
+      "url": "https://www.narita-airport.jp/en/access/train/"
+     },
+     {
+      "line": "JR Narita Express (JR East)",
+      "to": "Tokyo, Shinagawa, Shibuya, Shinjuku, Yokohama and Ofuna (the stops the Narita page lists)",
+      "minutes": null,
+      "fareEUR": null,
+      "fareText": "No fare or time found on the Narita Airport rail page; JR East's NEX page (linked from it) was not read",
+      "url": "https://www.narita-airport.jp/en/access/train/"
+     }
+    ],
+    "taxi": {
+     "fareEUR": null,
+     "minutes": null,
+     "basis": "No taxi fare found in the pages read",
+     "url": null
+    }
+   }
+  ]
+ },
+ {
+  "city": "SEL",
+  "airports": [
+   {
+    "code": "ICN",
+    "public": {
+     "line": "AREX all-stop train (Airport Railroad), Incheon Airport to Seoul Station",
+     "from": "Incheon Airport Terminal 1 Station (Terminal 2 has its own AREX station, priced separately)",
+     "to": "Seoul Station, central Seoul; 59 min from Terminal 1, 66 min from Terminal 2",
+     "minutes": 59,
+     "fareEUR": 3.2,
+     "fareText": "KRW 4,750 from Terminal 1 and KRW 5,350 from Terminal 2, adult transport-card fare (trip.com guide dated 29 Sep 2026; Wikivoyage also lists KRW 4,750, cash or T-money). The AREX site could not be read (its English page did not load)",
+     "frequency": "about every 5–10 min (trip.com); Wikivoyage says every 6 min",
+     "hours": "about 05:20 to 00:00 (Wikivoyage); one guide lists the last all-stop train from Terminal 1 at 23:38",
+     "url": "https://sg.trip.com/guide/transport/arex.html"
+    },
+    "alternatives": [
+     {
+      "line": "AREX Express (Airport Railroad), non-stop train; reservation required (Wikivoyage)",
+      "to": "Seoul Station; 43 min from Terminal 1, 51 min from Terminal 2; every 20–40 min (trip.com, Sep 2026)",
+      "minutes": 43,
+      "fareEUR": null,
+      "fareText": "Sources disagree, so none converted: trip.com (29 Sep 2026) lists around KRW 13,000 and also cites standard adult fares of KRW 18,100 (Terminal 1) and KRW 18,700 (Terminal 2); Wikivoyage says KRW 9,000",
+      "url": "https://sg.trip.com/guide/transport/arex.html"
+     }
+    ],
+    "taxi": {
+     "fareEUR": 33.3,
+     "minutes": null,
+     "basis": "Meter estimate from Wikivoyage: around KRW 50,000 for a regular taxi (KRW 70,000 deluxe) direct to Seoul; journey time not stated",
+     "url": "https://en.wikivoyage.org/wiki/Seoul"
+    }
+   },
+   {
+    "code": "GMP",
+    "public": {
+     "line": "Seoul Subway Line 9 (express and all-stop trains), Line 5 or AREX, all from Gimpo Airport station",
+     "from": "Gimpo Airport subway station (Lines 5, 9 and AREX); the walk from the terminal is not described on the page read",
+     "to": "Central Seoul: AREX runs on to Seoul Station, and all three lines cross Line 2, which loops through Seoul (Wikivoyage)",
+     "minutes": 35,
+     "fareEUR": 1.1,
+     "fareText": "Typical Seoul subway fare from Gimpo to the centre (about KRW 1,650 with a T-money card); estimate",
+     "frequency": null,
+     "hours": null,
+     "url": "https://en.wikivoyage.org/wiki/Seoul",
+     "estimate": true
+    },
+    "alternatives": [],
+    "taxi": {
+     "fareEUR": 20.0,
+     "minutes": null,
+     "basis": "Meter estimate from Wikivoyage: around KRW 30,000 to central Seoul; journey time not stated. Late-night surcharges rise from 20% to 40% between 23:00 and 02:00",
+     "url": "https://en.wikivoyage.org/wiki/Seoul"
+    }
+   }
+  ]
+ },
+ {
+  "city": "SGN",
+  "airports": [
+   {
+    "code": "SGN",
+    "public": {
+     "line": "Bus 109 (HCMC airport express bus), Tan Son Nhat to Ben Thanh and 23/9 Park",
+     "from": "Terminal 3 bus stop in front of the building (thaiest guide, updated 7 May 2026: bus 109 no longer serves Terminals 1 and 2; a shuttle bus links Terminal 3 with Terminals 1 and 2). Older Wikivoyage text says Column 15 (international) or Column 18 (domestic)",
+     "to": "Ham Nghi Street stop (Ben Thanh Bus Station, next to Ben Thanh Market), terminus Saigon Bus Station at 23/9 Park, at the east end of Pham Ngu Lao Street",
+     "minutes": 45,
+     "fareEUR": 0.5,
+     "fareText": "VND 15,000 per person (thaiest, updated 7 May 2026); Wikivoyage still lists VND 20,000 plus VND 20,000 for luggage (about EUR 0.7). Airport-to-city tickets are bought at the terminal, city-to-airport ones from the conductor (Wikivoyage); a web-search summary of the thaiest page says cash only",
+     "frequency": "every 40–45 min (thaiest, May 2026); Wikivoyage also says every 45 min",
+     "hours": "05:30–22:00 from the airport and 05:45–22:15 from Saigon Bus Station (thaiest, May 2026)",
+     "url": "https://thaiest.com/vietnam/travel/saigon-bus-109-tan-son-nhat-airport-city-center"
+    },
+    "alternatives": [
+     {
+      "line": "Bus 152 (HCMC city bus)",
+      "to": "East end of Pham Ngu Lao Street, at the bus terminal on the southwest side of the Ben Thanh Market roundabout; every 15 min, 05:15–19:00; limited luggage space (Wikivoyage airport article, undated)",
+      "minutes": 55,
+      "fareEUR": 0.2,
+      "fareText": "VND 5,000 per person plus VND 5,000 for luggage (Wikivoyage); thaiest (May 2026) also gives VND 5,000",
+      "url": "https://en.wikivoyage.org/wiki/SGN"
+     }
+    ],
+    "taxi": {
+     "fareEUR": 5.2,
+     "minutes": 40,
+     "basis": "Meter estimate from Wikivoyage (undated): about VND 140,000 plus a VND 10,000 toll to the city centre; 15 min when traffic is light, up to an hour otherwise (midpoint rounded up). Mai Linh and Vinasun are the companies it recommends; the main queue is on the left as you leave the international terminal doors; Grab has up-front fares (amount not stated)",
+     "url": "https://en.wikivoyage.org/wiki/SGN"
+    }
+   }
+  ]
+ },
+ {
+  "city": "BIO",
+  "airports": [
+   {
+    "code": "BIO",
+    "public": {
+     "line": "Bizkaibus A3247 (Bizkaibus), Bilbao Airport to Termibus",
+     "from": "The bus leaves from the arrivals hall; the ticket booth is at the far right end of the floor (Wikivoyage)",
+     "to": "Alameda Recalde (near the Guggenheim), Plaza Elíptica and Gran Vía in the centre, ending at Termibus, Bilbao's intermodal bus station by San Mamés. Wikivoyage gives no journey time; guides quoted in a web search say about 20–30 min (25 used)",
+     "minutes": 25,
+     "fareEUR": 4.5,
+     "fareText": "EUR 4.50 'as of 2025' (Wikivoyage); you can tap a credit or debit card on board and do not tap out. Other guides quote about EUR 5 for the occasional ticket and a much lower fare with a Barik card. The Bizkaibus page read had no fares: check https://www.bizkaia.eus/web/bizkaibus/bus-al-aeropuerto",
+     "frequency": "around 4 departures an hour (Wikivoyage); other guides say every 15–20 min",
+     "hours": "about 06:00 to 00:00 per Spain.info as quoted in a web search (the page itself returned 403)",
+     "url": "https://en.wikivoyage.org/wiki/Bilbao"
+    },
+    "alternatives": [],
+    "taxi": {
+     "fareEUR": 27.5,
+     "minutes": null,
+     "basis": "Meter estimate from Wikivoyage: about EUR 25–30 to downtown, midpoint used; journey time not stated",
+     "url": "https://en.wikivoyage.org/wiki/Bilbao"
+    }
+   }
+  ],
+  "stations": [
+   {
+    "name": "Bilbao-Abando Indalecio Prieto (Renfe trains)",
+    "serves": "Renfe Alvia and Intercity long-distance trains plus the local Cercanías lines C1, C2 and C3. The narrow-gauge Renfe lines C4, C5, R3 and R4 end at Bilbao-Concordia, Bailén street 2 (Wikivoyage)",
+    "toCentre": "In the city centre, close to Plaza Biribila, with Abando metro station nearby; walking time to the Old Town or the Guggenheim is not stated (Wikivoyage)",
+    "line": null,
+    "minutes": null,
+    "fareEUR": 0,
+    "url": "https://en.wikivoyage.org/wiki/Bilbao"
+   },
+   {
+    "name": "Termibus, Bilbao Intermodal (long-distance buses), opposite the San Mamés stadium",
+    "serves": "long-distance buses: Santander (75 min), San Sebastián (60 min), Vitoria-Gasteiz (60 min), Madrid (4–5 h, arriving at Avenida de América); also the end of the airport bus A3247 (Wikivoyage)",
+    "toCentre": "Behind the bus station on Gurtubay Kalea; San Mamés station (metro L1 and L2, Euskotren tram, Cercanías C1 and C2) is next to it. Metro single tickets cost EUR 1.70–1.95 depending on zones (Wikivoyage); walking distance to the centre is not stated",
+    "line": "Metro Bilbao L1 or L2 from San Mamés station",
+    "minutes": null,
+    "fareEUR": 1.7,
+    "url": "https://en.wikivoyage.org/wiki/Bilbao"
+   }
+  ]
+ },
+ {
+  "city": "HER",
+  "airports": [
+   {
+    "code": "HER",
+    "public": {
+     "line": "Blue city bus (urban bus) from the airport to the Heraklion KTEL bus terminal; the page gives no line number (guides name line 78 and line 1)",
+     "from": "Bus stop just outside the airport grounds on the central road to the left of the terminal, a short walk from the exit",
+     "to": "Heraklion KTEL bus terminal, a central spot in the city",
+     "minutes": 20,
+     "fareEUR": 1.2,
+     "fareText": "roughly EUR 1.20 single, 'subject to change', pay the driver in cash (heraklion-airport.info). Other guides quote EUR 0.75 (older) or EUR 1.50–2 (a 2026 transfer guide seen in a web search)",
+     "frequency": "every 10 min (heraklion-airport.info)",
+     "hours": "06:00–23:00 daily per heraklion-airport.info, but the same page warns there is no bus if you land after 21:15",
+     "url": "https://www.heraklion-airport.info/bus.html"
+    },
+    "alternatives": [],
+    "taxi": {
+     "fareEUR": 19,
+     "minutes": 15,
+     "basis": "Fixed flat fare as stated on heraklion-airport.info: EUR 19 by day and EUR 22 from 00:00 to 05:00, about 15 min and 5 km; Wikivoyage lists EUR 18 (April 2024). Taxis wait at the rank outside arrivals; most take cards",
+     "url": "https://www.heraklion-airport.info/taxi.html"
+    }
+   }
+  ]
+ },
+ {
+  "city": "AYT",
+  "airports": [
+   {
+    "code": "AYT",
+    "public": {
+     "line": "Tram 1A (AntRay), Antalya city public transport (antalyaulasim.com.tr), airport to the city",
+     "from": "One of the two Terminal 1 tram stops (domestic and international); the tram does not serve Terminal 2 (Wikivoyage)",
+     "to": "İsmetpaşa stop for the old town (Kaleiçi); the line continues via Meydan to the bus terminal (Otogar) and Fatih",
+     "minutes": 50,
+     "fareEUR": 0.9,
+     "fareText": "about TRY 50 with a contactless bank card, TRY 46 for a single-use ticket, TRY 42 with a full AntalyaKart (a 2026 transfer-company blog seen in a web search, not an official tariff; Wikivoyage says about EUR 1 per ride). AntalyaKart can be bought at kiosks at the airport",
+     "frequency": "every 15 min (Wikivoyage)",
+     "hours": "06:00–00:00 (Wikivoyage); a Turkish listing in search results says 00:05–23:45. The airport page says to check the Antalyakart app or call 0242 606 07 07 for departure times",
+     "url": "https://en.wikivoyage.org/wiki/Antalya"
+    },
+    "alternatives": [
+     {
+      "line": "Bus 600 (Antalya city bus) from Terminal 1 (domestic) and Terminal 2",
+      "to": "Otogar (bus station), then Tram 1 or Tram 3 into the centre; about an hour to Otogar. Every 30 min 07:00–00:00, with night runs as 600G around 01:00, 03:00 and 05:00. The T1 stop is the blue 'D' sign next to a fig tree (Wikivoyage)",
+      "minutes": 60,
+      "fareEUR": 1.0,
+      "fareText": "about EUR 1 per ride by contactless card or AntalyaKart (Wikivoyage's general fare note; no TRY fare stated for this route)",
+      "url": "https://en.wikivoyage.org/wiki/Antalya"
+     }
+    ],
+    "taxi": {
+     "fareEUR": null,
+     "minutes": null,
+     "basis": "No fare found: the airport taxi page says ranks are in front of the arrival exits of all terminals with a fare board next to the rank, but prints no figures; Wikivoyage gives none for the centre",
+     "url": "https://www.antalya-airport.aero/yolcu-ve-ziyaretciler/ulasim/taksiler"
+    }
+   }
+  ]
+ },
+ {
+  "city": "FUE",
+  "airports": [
+   {
+    "code": "FUE",
+    "public": {
+     "line": "Line 03 (Tiadhe island bus, 'guagua'), airport to Puerto del Rosario",
+     "from": "Fuerteventura Airport bus stop (exact stop not stated)",
+     "to": "Puerto del Rosario bus station, the island's capital. Route: Puerto del Rosario – Hospital – Airport – El Matorral – Caleta de Fuste – Las Salinas",
+     "minutes": 20,
+     "fareEUR": 1.45,
+     "fareText": "EUR 1.45 (reader comment of Jan 2023 on fuerteventuraguide.com; Spain.info also lists EUR 1.45 per a web search). Pay the driver in cash (notes up to EUR 10) or use the Bono de Transporte card. 10–20 min per a Mar 2023 comment, 25 min per a May 2024 comment (20 used). Tiadhe's own site could not be read for fares",
+     "frequency": "about every 15 min on weekday daytimes (reader comment, Jan 2023); other times not stated",
+     "hours": "about 07:00 to just after midnight daily (fuerteventuraguide.com)",
+     "url": "https://www.fuerteventuraguide.com/fuerteventura-bus-routes-and-timetables/"
+    },
+    "alternatives": [
+     {
+      "line": "Line 03 to Puerto del Rosario bus station, then Line 06 to Corralejo (Tiadhe); there is no direct airport bus to Corralejo",
+      "to": "Corralejo, north of the island. Line 06 (Puerto del Rosario – Parque Holandés – Los Hoteles – Corralejo) takes about 45 min, roughly every 30 min on weekdays and hourly at weekends and after 19:00; the last Line 06 to Corralejo leaves Puerto del Rosario at 23:00 (reader comments, 2023–2024)",
+      "minutes": 70,
+      "fareEUR": 4.85,
+      "fareText": "EUR 1.45 (Line 03) + EUR 3.40 (Line 06, from the page) = EUR 4.85 derived. 70 min = 25 min airport to Puerto del Rosario + 45 min to Corralejo, plus waiting (reader comment, May 2024). Tiadhe's timetable page (tiadhe.com/todas-las-rutas/) was not read",
+      "url": "https://www.fuerteventuraguide.com/fuerteventura-bus-routes-and-timetables/"
+     }
+    ],
+    "taxi": {
+     "fareEUR": 18,
+     "minutes": null,
+     "basis": "Meter estimate to Puerto del Rosario (about 6 km): EUR 16–20 per a reader comment of 28 Dec 2024 on fuerteventuraguide.com, midpoint used; journey time not stated. A web-search summary of another guide quotes about EUR 50–65 from the airport to Corralejo (page not read)",
+     "url": "https://www.fuerteventuraguide.com/fuerteventura-bus-routes-and-timetables/"
+    }
+   }
+  ]
+ },
+ {
+  "city": "LUX",
+  "airports": [
+   {
+    "code": "LUX",
+    "public": {
+     "line": "Tram T1 (Luxtram), Findel-Luxembourg Airport terminus to Hamilius and Gare Centrale",
+     "from": "Findel-Luxembourg Airport tram terminus, opened 2 March 2025 (paperjam); the pages read do not describe the walk from arrivals. The bus stop is on an island across the street on the left as you exit (Wikivoyage)",
+     "to": "Hamilius in the city centre (27 min per Wikivoyage), then on to Gare Centrale and Kirchberg. A 2025 paperjam article found that journey planners did not offer the tram for the Gare Centrale trip, so check mobiliteit.lu on the day",
+     "minutes": 27,
+     "fareEUR": 0,
+     "fareText": "Free: all public transport in Luxembourg (trams, buses and second-class trains) has been free nationwide since March 2020 for residents and visitors; first class and cross-border trains are the exception (a web-search summary of a Blacklane page)",
+     "frequency": "every 8 min (Wikivoyage; paperjam also gives 8 min at the Theater stop)",
+     "hours": null,
+     "url": "https://en.wikivoyage.org/wiki/Luxembourg_%28city%29"
+    },
+    "alternatives": [
+     {
+      "line": "Bus 29 (Luxembourg city bus), airport to Gare Centrale",
+      "to": "Gare Centrale in under 22 min, every 20 min (paperjam, 2025). Wikivoyage puts the bus 29 stop at the rear of the station ('Gare Rocade'), while paperjam lists bus 223 for Gare Rocade",
+      "minutes": 22,
+      "fareEUR": 0,
+      "fareText": "Free (nationwide free public transport)",
+      "url": "https://en.paperjam.lu/article/five-case-studies-getting-to-the-airport"
+     },
+     {
+      "line": "Bus 16 (Luxembourg city bus), airport to the city centre",
+      "to": "City centre, Gare Centrale (front, stop 'Gare Centrale') and Kirchberg; roughly as long as the tram (Wikivoyage); 28 min from the Theater stop in Kirchberg (paperjam). Buses to the centre and the station run at least every 10 min, every 15 min on Sundays (Wikivoyage)",
+      "minutes": null,
+      "fareEUR": 0,
+      "fareText": "Free (nationwide free public transport)",
+      "url": "https://en.wikivoyage.org/wiki/Luxembourg_%28city%29"
+     }
+    ],
+    "taxi": {
+     "fareEUR": null,
+     "minutes": null,
+     "basis": "No taxi fare found in the pages read; paperjam gives car times of 17–20 min from the Theater stop in Kirchberg and 'almost as long' as bus 29 (under 22 min) from Gare Centrale",
+     "url": null
+    }
+   }
+  ],
+  "stations": [
+   {
+    "name": "Luxembourg Gare Centrale (Gare Lëtzebuerg) with the long-distance bus station next to it",
+    "serves": "trains (CFL is the domestic rail operator) and buses, including services to neighbouring-country towns such as Saarbrücken (1h15, line L40)",
+    "toCentre": "The Gare quarter is about 1.5 km (a 15-min walk) south of the Ville Haute. The tram T1 and most local buses serve the station, and almost all buses cover the Gare Centrale to Hamilius section, with a bus about every 2 min (Wikivoyage). Public transport is free",
+    "line": "Tram T1 or any city bus to Hamilius (free)",
+    "minutes": 15,
+    "fareEUR": 0,
+    "url": "https://en.wikivoyage.org/wiki/Luxembourg_%28city%29"
+   },
+   {
+    "name": "P+R Bouillon (FlixBus hub), southwest of the centre",
+    "serves": "FlixBus long-distance coaches to many European cities (Wikivoyage). Twiliner overnight buses between Zurich, Brussels and Rotterdam stop in Luxembourg around 03:00 (arrival point not specified)",
+    "toCentre": "Wikivoyage calls it poorly connected to the rest of the city; no line or walking time is given",
+    "line": null,
+    "minutes": null,
+    "fareEUR": 0,
+    "url": "https://en.wikivoyage.org/wiki/Luxembourg_%28city%29"
+   }
+  ]
+ }
+]

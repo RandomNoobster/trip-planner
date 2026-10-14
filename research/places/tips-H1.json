@@ -1,0 +1,65 @@
+{
+  "agent": "H1",
+  "cities": {
+    "CPH": {
+      "localBeer": ["Carlsberg", "Tuborg"],
+      "cheapEat": {"name": "Pastry at Lagkagehuset bakery", "priceEUR": 2.01, "note": "Bakery pastries at Lagkagehuset, listed at 15-40 kr; the low end is shown"},
+      "saveTip": "Bottled beer from a supermarket or kiosk costs kr 3-7 per 330 ml, while bars charge more.",
+      "sources": ["https://en.wikivoyage.org/wiki/Copenhagen"]
+    },
+    "STO": {
+      "localBeer": ["Norrlands Guld"],
+      "cheapEat": {"name": "Dagens rätt lunch of the day", "priceEUR": 8.95, "note": "Restaurant lunch of the day, usually weekdays 11:00-14:00; 100-150 kr"},
+      "saveTip": "Ask for a påtår (free coffee refill) at self-service cafeterias, where it is often free.",
+      "sources": ["https://en.wikivoyage.org/wiki/Stockholm"]
+    },
+    "GOT": {
+      "localBeer": ["Dugges", "Oceanbryggeriet", "O/O Brewing"],
+      "cheapEat": {"name": "Sausage with potato salad at Gourmetkorv", "priceEUR": 4.48, "note": "One of 13 sausages at Gourmetkorv, 50-130 kr, with potato salad or mash"},
+      "saveTip": "When Kellys is packed, Sejdeln next door has even cheaper beer.",
+      "sources": ["https://en.wikivoyage.org/wiki/Gothenburg", "https://www.goteborg.com/en/guides/craft-beer-and-breweries-in-gothenburg"]
+    },
+    "HEL": {
+      "localBeer": ["Karhu III"],
+      "cheapEat": {"name": "Sapakset (Finnish small plates)", "priceEUR": 4.3, "note": "At Juuri, all sapakset cost €4.30; try the cabbage roll with crayfish"},
+      "saveTip": "The best time to eat out on a budget is lunch; Unicafe full meals start at €5.70.",
+      "sources": ["https://en.wikivoyage.org/wiki/Helsinki"]
+    },
+    "TLL": {
+      "localBeer": ["Saku", "A. Le Coq", "Medovar"],
+      "cheapEat": {"name": "Solyanka soup at Kohvik Narva", "priceEUR": 3, "note": "Soup at Kohvik Narva, a café east of the Old Town near Coca-Cola Plaza"},
+      "saveTip": "Madissoni Grill & Baar is popular for its daily lunch specials; Frenchy has cheap daily offers.",
+      "sources": ["https://en.wikivoyage.org/wiki/Tallinn", "https://en.wikivoyage.org/wiki/Estonia"]
+    },
+    "RIX": {
+      "localBeer": ["Cēsu", "Mītava", "Piebalga"],
+      "cheapEat": {"name": "Meat main course at Lido cafeteria", "priceEUR": 3.3, "note": "Cafeteria price at Lido, a chain of 8 restaurants serving Latvian food"},
+      "saveTip": "Bars outside Vecrīga charge €1.50-2 a beer, against €2-3 in Vecrīga.",
+      "sources": ["https://en.wikivoyage.org/wiki/Riga"]
+    },
+    "VNO": {
+      "localBeer": ["Švyturys", "Kalnapilis", "Utenos"],
+      "cheapEat": {"name": "Kibinai pastry at Pinavija", "priceEUR": 2, "note": "Single kibinai pastries at Pinavija, sold for €2-3 each"},
+      "saveTip": "Šnekutis serves cepelinai with pork cracklings for €7-9, with a draught beer in its lunch deal.",
+      "sources": ["https://en.wikivoyage.org/wiki/Vilnius", "https://tablejourney.com/lithuania/vilnius/budget-eating/"]
+    },
+    "GDN": {
+      "localBeer": ["Brovarnia Gdańska", "Żubr", "Tyskie"],
+      "cheapEat": {"name": "Fish meal on the Motława bank", "priceEUR": 5.7, "note": "Bars on the Motława river bank sell fish, 25 zł a meal (Wikivoyage)"},
+      "saveTip": "Loft has no entry charge and serves free food late on weekends.",
+      "sources": ["https://en.wikivoyage.org/wiki/Gda%C5%84sk", "https://www.polonist.com/polish-beer-brands/"]
+    },
+    "KRK": {
+      "localBeer": ["Smocza Głowa", "Żubr", "Tyskie"],
+      "cheapEat": {"name": "Obwarzanek ring bread", "priceEUR": 0.68, "note": "Sold everywhere in Kraków for about 3 zł (Wikivoyage)"},
+      "saveTip": "Milk bars (bar mleczny) serve a big lunch for about 8 zł, which Wikivoyage calls good value.",
+      "sources": ["https://en.wikivoyage.org/wiki/Krak%C3%B3w", "https://www.polonist.com/polish-beer-brands/"]
+    },
+    "WAW": {
+      "localBeer": ["Żubr", "Tyskie", "Lech"],
+      "cheapEat": {"name": "Milk bar soup and main course", "priceEUR": 2.28, "note": "Soup and main course at a milk bar; Wikivoyage says 'as little as 10 zł'"},
+      "saveTip": "Supermarket beer costs 2.50-3 zł a half litre, while bars charge 5-15 zł.",
+      "sources": ["https://en.wikivoyage.org/wiki/Warsaw", "https://www.polonist.com/polish-beer-brands/"]
+    }
+  }
+}

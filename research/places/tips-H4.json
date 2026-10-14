@@ -1,0 +1,65 @@
+{
+  "agent": "H4",
+  "cities": {
+    "DUB": {
+      "localBeer": ["Guinness", "Porterhouse", "JR Mahon's"],
+      "cheapEat": {"name": "Irish soda bread with butter", "priceEUR": 5, "note": "Try it at Bewley's or Winding Stair; €3-5 a slice with butter, no date given"},
+      "saveTip": "Govinda's has filling vegetarian portions, so skip its Special unless you are very hungry.",
+      "sources": ["https://en.wikivoyage.org/wiki/Dublin", "https://tablejourney.com/ireland/dublin/signature-dishes/"]
+    },
+    "PAR": {
+      "localBeer": null,
+      "cheapEat": {"name": "Falafel from Chez Marianne's window", "priceEUR": 4, "note": "Walk-up window on rue des Rosiers in the Pletzl, 4th arrondissement"},
+      "saveTip": "Take the lunch formule at Clown Bar for €13.50, not à la carte, which costs about €22.",
+      "sources": ["https://en.wikivoyage.org/wiki/Paris"]
+    },
+    "LYS": {
+      "localBeer": ["Ninkasi"],
+      "cheapEat": {"name": "Praluline from Pralus", "priceEUR": 6.6, "note": "Pralus entry under Buy; the petite costs €6.60 and serves four"},
+      "saveTip": "Bistrot du Potager, next door to Le Potager des Halles, serves cheaper tapas and takes no reservations.",
+      "sources": ["https://en.wikivoyage.org/wiki/Lyon"]
+    },
+    "NCE": {
+      "localBeer": null,
+      "cheapEat": {"name": "Socca from Lou Pilha Leva", "priceEUR": 2.8, "note": "Chickpea pancake in Old Nice; the listing gives €2.80 in April 2019"},
+      "saveTip": "Lunch at Le Lodge gets you a main course, a drink and a coffee for €11 (2024 listing).",
+      "sources": ["https://en.wikivoyage.org/wiki/Nice"]
+    },
+    "MRS": {
+      "localBeer": ["La Brasserie Communale"],
+      "cheapEat": {"name": "Panisse (chickpea fries)", "priceEUR": 3.5, "note": "Chez Magali, L'Estaque port; €3.50 a dozen, price checked May 2026"},
+      "saveTip": "Shop at the Plaine market on Thursday or Saturday mornings and arrive early for the best deals.",
+      "sources": ["https://en.wikivoyage.org/wiki/Marseille", "https://tablejourney.com/france/marseille/budget-eating/chez-magali-budget/"]
+    },
+    "ZRH": {
+      "localBeer": null,
+      "cheapEat": {"name": "Sausage at Sternen Grill", "priceEUR": 6.44, "note": "Red or white sausage with bread and mustard; about Fr 6 in Aug 2015"},
+      "saveTip": "The grocery store in the underground mall at Zurich station opens on Sundays, when most city shops close.",
+      "sources": ["https://en.wikivoyage.org/wiki/Zurich"]
+    },
+    "GVA": {
+      "localBeer": ["Les Brasseurs"],
+      "cheapEat": {"name": "Plat du jour, Buvette des Bains", "priceEUR": 12.89, "note": "Lakeside buvette at Bains des Paquis; dish of the day all day for Fr 12"},
+      "saveTip": "Café Art's keeps its salads and pasta dishes around or under Fr 15.",
+      "sources": ["https://en.wikivoyage.org/wiki/Geneva"]
+    },
+    "BSL": {
+      "localBeer": ["Ueli"],
+      "cheapEat": {"name": "Sausage from Eiche butcher's cart", "priceEUR": 6.44, "note": "Eiche butcher's yellow cart; under Fr 6 each on many days"},
+      "saveTip": "Buy picnic food at the Migros in Bahnhof SBB, where the listing says prices are very reasonable.",
+      "sources": ["https://en.wikivoyage.org/wiki/Basel"]
+    },
+    "REK": {
+      "localBeer": ["Bríó", "Egils"],
+      "cheapEat": {"name": "Hot dog at Bæjarins beztu pylsur", "priceEUR": 5.99, "note": "Hot dog stand open 24/7; 820 kr, about 5.99 EUR at 136.8 kr per EUR"},
+      "saveTip": "Kaffiport, a small restaurant inside the flea market, is one of the cheapest places to eat, open weekends only.",
+      "sources": ["https://en.wikivoyage.org/wiki/Reykjav%C3%ADk"]
+    },
+    "MLA": {
+      "localBeer": ["Cisk"],
+      "cheapEat": {"name": "Pastizzi", "priceEUR": 0.5, "note": "Cheese or pea pie from a pastizzerie; 30-50 cents each, currency not stated"},
+      "saveTip": "The market in front of St. James Cavalier in Valletta sells local food products on Sundays.",
+      "sources": ["https://en.wikivoyage.org/wiki/Valletta", "https://en.wikipedia.org/wiki/Simonds_Farsons_Cisk"]
+    }
+  }
+}

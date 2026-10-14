@@ -1,0 +1,359 @@
+[
+ {
+  "city": "STO",
+  "name": "Stockholm",
+  "country": "Sweden",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Stockholm",
+  "airports": [],
+  "groundArrivals": [
+   "bus",
+   "train",
+   "train and bus"
+  ]
+ },
+ {
+  "city": "GDN",
+  "name": "Gdańsk",
+  "country": "Poland",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Gda%C5%84sk",
+  "airports": [
+   {
+    "code": "GDN",
+    "name": "Gdańsk Lech Wałęsa Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus",
+   "train",
+   "train and bus"
+  ]
+ },
+ {
+  "city": "HAM",
+  "name": "Hamburg",
+  "country": "Germany",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Hamburg",
+  "airports": [
+   {
+    "code": "HAM",
+    "name": "Hamburg Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus",
+   "train",
+   "train and bus"
+  ]
+ },
+ {
+  "city": "NUE",
+  "name": "Nuremberg",
+  "country": "Germany",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Nuremberg",
+  "airports": [
+   {
+    "code": "NUE",
+    "name": "Nuremberg Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "BRU",
+  "name": "Brussels",
+  "country": "Belgium",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Brussels",
+  "airports": [
+   {
+    "code": "BRU",
+    "name": "Brussels Airport",
+    "known": {
+     "public": {
+      "mode": "train",
+      "to": "Brussels-Central",
+      "minutes": 17,
+      "fareEUR": null,
+      "frequency": "every 10-15 min",
+      "hours": "first departure not stated; last train to Brussels-Central about 23:45 (guide)"
+     },
+     "taxi": {
+      "fareEUR": 60,
+      "minutes": 20,
+      "basis": "midpoint of EUR 50-70 pre-booked fixed-price range (no year) per airporttransferportal.com; regulated meter tariff not applied",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "PAR",
+  "name": "Paris",
+  "country": "France",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Paris",
+  "airports": [],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "VLC",
+  "name": "Valencia",
+  "country": "Spain",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Valencia",
+  "airports": [
+   {
+    "code": "VLC",
+    "name": "Valencia Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": null,
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": null,
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "LIS",
+  "name": "Lisbon",
+  "country": "Portugal",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Lisbon",
+  "airports": [
+   {
+    "code": "LIS",
+    "name": "Lisbon Humberto Delgado Airport",
+    "known": {
+     "public": {
+      "mode": "metro",
+      "to": "Baixa-Chiado",
+      "minutes": 25,
+      "fareEUR": 1.9,
+      "frequency": null,
+      "hours": "about 06:30–01:00"
+     },
+     "taxi": {
+      "fareEUR": 19,
+      "minutes": null,
+      "basis": "official fixed fare, zone 2 daytime, to Baixa from 15 Oct 2026 (RTP report of the new zone scheme); night, weekend and holiday fare 23",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "VCE",
+  "name": "Venice",
+  "country": "Italy",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Venice",
+  "airports": [
+   {
+    "code": "VCE",
+    "name": "Venice Marco Polo Airport",
+    "known": {
+     "public": {
+      "mode": null,
+      "to": "Venezia San Marco (Giardinetti) or Rialto, by Alilaguna water bus (Blue or Orange line; Red line is summer-only)",
+      "minutes": null,
+      "fareEUR": null,
+      "frequency": null,
+      "hours": null
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": "no road taxi into the old town (aggregator); water taxi only, no verified fare",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": [
+   "bus"
+  ]
+ },
+ {
+  "city": "PMO",
+  "name": "Palermo",
+  "country": "Italy",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Palermo",
+  "airports": [
+   {
+    "code": "PMO",
+    "name": "Palermo Airport (Falcone-Borsellino)",
+    "known": {
+     "public": {
+      "mode": "shuttle bus",
+      "to": "Palermo Stazione Centrale (Via T. Fazello bus terminal)",
+      "minutes": 50,
+      "fareEUR": 6.5,
+      "frequency": "every 30 min",
+      "hours": "05:05–01:05 from airport (city departures 03:30–21:30)"
+     },
+     "taxi": {
+      "fareEUR": null,
+      "minutes": null,
+      "basis": "no official fixed fare or metered estimate found",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "SOF",
+  "name": "Sofia",
+  "country": "Bulgaria",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Sofia",
+  "airports": [
+   {
+    "code": "SOF",
+    "name": "Sofia Airport",
+    "known": {
+     "public": {
+      "mode": "metro",
+      "to": "Sofia city centre (Serdika area)",
+      "minutes": 20,
+      "fareEUR": 0.8,
+      "frequency": null,
+      "hours": "05:30–24:00 (no service before 05:30 or after midnight)"
+     },
+     "taxi": {
+      "fareEUR": 10.34,
+      "minutes": 25,
+      "basis": "computed metered estimate, not a fixed fare: 2026 daytime band EUR 0.73–1.24/km (BNR, 2 Jan 2026), midpoint 0.985 x 10.5 km (travel-site range 10–10.8 km); flag-fall not included; minutes is an estimate",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "TIA",
+  "name": "Tirana",
+  "country": "Albania",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Tirana",
+  "airports": [
+   {
+    "code": "TIA",
+    "name": "Tirana International Airport Nënë Tereza",
+    "known": {
+     "public": {
+      "mode": "shuttle bus",
+      "to": "Skanderbeg Square (Opera and Ballet Palace stop), city centre",
+      "minutes": 45,
+      "fareEUR": 4.36,
+      "frequency": "every full hour (24 departures a day)",
+      "hours": "24 h, hourly departures 00:00–23:00 (runs before 06:00 and late at night)"
+     },
+     "taxi": {
+      "fareEUR": 22.0,
+      "minutes": 30,
+      "basis": "travel-site figure (albaniatourguide.com, undated, likely 2026) citing the official Tirana Airport Taxi Service; quoted in EUR; not checked against an official tariff; drivers may charge more",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": []
+ },
+ {
+  "city": "MLA",
+  "name": "Malta (Valletta)",
+  "country": "Malta",
+  "wikivoyage": "https://en.wikivoyage.org/wiki/Valletta",
+  "airports": [
+   {
+    "code": "MLA",
+    "name": "Malta International Airport",
+    "known": {
+     "public": {
+      "mode": "bus",
+      "to": "Valletta bus terminus (Il-Belt Valletta stop B1)",
+      "minutes": 30,
+      "fareEUR": 3.0,
+      "frequency": "every 30 min",
+      "hours": "05:20–00:50 (weekday and weekend tables not separated)"
+     },
+     "taxi": {
+      "fareEUR": 17.0,
+      "minutes": null,
+      "basis": "third-party booking-site listing (hemenhesap.com) of the airport's former white-taxi fixed fare list, per car one way from the airport; not verified on an official source; EUR 4.50 extra on 25 Dec and 1 Jan per the same site",
+      "capacity": 4
+     }
+    }
+   }
+  ],
+  "groundArrivals": []
+ }
+]

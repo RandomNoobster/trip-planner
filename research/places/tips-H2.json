@@ -1,0 +1,105 @@
+{
+  "agent": "H2",
+  "cities": {
+    "WRO": {
+      "localBeer": ["Spiż", "100 Bridges (Browar Stu Mostów)"],
+      "cheapEat": {
+        "name": "Pierogi at Bar Pierożek",
+        "priceEUR": null,
+        "note": "Bar Pierożek, ul. Sądowa 7; Wikivoyage gives no price for it."
+      },
+      "saveTip": "Setka is open 24/7 and sells a glass of beer for 4 zł, about €0.91, according to Wikivoyage.",
+      "sources": ["https://en.wikivoyage.org/wiki/Wroc%C5%82aw"]
+    },
+    "POZ": {
+      "localBeer": ["Lech Pils", "Lech Premium"],
+      "cheapEat": {
+        "name": "Polish food at Dramat",
+        "priceEUR": 2.0,
+        "note": "Cheap Polish food on the Rynek; Wikivoyage gives €2-5, low end used."
+      },
+      "saveTip": "Avanti serves cheap spaghetti and lasagne fast, and Bar Pod Arkadami is a milk bar for a cheap meal.",
+      "sources": ["https://en.wikivoyage.org/wiki/Pozna%C5%84", "https://en.wikipedia.org/wiki/Lech_Browary_Wielkopolski"]
+    },
+    "BER": {
+      "localBeer": ["Brauhaus Georgbräu", "Handwerksbrauerei Lemke", "Brauhaus Spandau"],
+      "cheapEat": {
+        "name": "Currywurst",
+        "priceEUR": 3.0,
+        "note": "A staple in Berlin; Wikivoyage gives around €3 (April 2022)."
+      },
+      "saveTip": "Kiosks sell bottled beer, and the 8 to 25 cent Pfand deposit on each bottle is refundable.",
+      "sources": ["https://en.wikivoyage.org/wiki/Berlin"]
+    },
+    "HAM": {
+      "localBeer": ["Astra", "Holsten Pilsener"],
+      "cheapEat": {
+        "name": "Fischbrötchen from St. Pauli Fischmarkt",
+        "priceEUR": null,
+        "note": "Best early on Sundays, 05:00-09:30; Wikivoyage gives no price."
+      },
+      "saveTip": "Feldstern pub has a weekday lunch menu from 12:00 to 16:00, and its German food is affordable.",
+      "sources": ["https://en.wikivoyage.org/wiki/Hamburg", "https://en.wikipedia.org/wiki/Holsten_Brewery"]
+    },
+    "MUC": {
+      "localBeer": ["Augustiner", "Hofbräu", "Spaten"],
+      "cheapEat": {
+        "name": "Leberkässemmel from a butcher",
+        "priceEUR": null,
+        "note": "Meat loaf in a roll; Wikivoyage gives no price."
+      },
+      "saveTip": "Buy Leberkässemmel at a butcher rather than a bakery, which Wikivoyage calls filling and inexpensive.",
+      "sources": ["https://en.wikivoyage.org/wiki/Munich"]
+    },
+    "CGN": {
+      "localBeer": ["Reissdorf Kölsch", "Früh Kölsch", "Gaffel Kölsch"],
+      "cheapEat": {
+        "name": "Currywurst with fries",
+        "priceEUR": null,
+        "note": "Curry B., around Neumarkt; Wikivoyage gives no price for it."
+      },
+      "saveTip": "Altstadt pubs usually cost more than those on Zülpicher Straße, according to Wikivoyage.",
+      "sources": ["https://en.wikivoyage.org/wiki/Cologne"]
+    },
+    "FRA": {
+      "localBeer": ["Binding Römer Pils", "Henninger"],
+      "cheapEat": {
+        "name": "Currywurst at Best Worscht in Town",
+        "priceEUR": null,
+        "note": "Curry sausage stands with no seating; Wikivoyage gives no price."
+      },
+      "saveTip": "Buy drinks at a Trinkhalle, a small shop that is usually open late and sells from the street.",
+      "sources": ["https://en.wikivoyage.org/wiki/Frankfurt", "https://www.radeberger-gruppe.de/en/where-to-find-us/locations/frankfurt-main/"]
+    },
+    "DRS": {
+      "localBeer": ["Lenin's Hanf", "Watzke", "Brauhaus am Waldschlößchen"],
+      "cheapEat": {
+        "name": "Döner kebab",
+        "priceEUR": 5.0,
+        "note": "Not a local dish; Wikivoyage says a typical döner is around €5-6 with a large drink."
+      },
+      "saveTip": "Hebeda's and Ost-Pol in Neustadt are pubs where Wikivoyage says the beer is cheap.",
+      "sources": ["https://en.wikivoyage.org/wiki/Dresden"]
+    },
+    "LEJ": {
+      "localBeer": ["Sternburg Export", "Leipziger Gose"],
+      "cheapEat": {
+        "name": "Saxon mains at Zills Tunnel",
+        "priceEUR": 9.0,
+        "note": "Large portions; Wikivoyage gives €9-13 for mains, low end used."
+      },
+      "saveTip": "Sternburg Export costs about 50 cents a bottle in most supermarkets, according to Wikivoyage.",
+      "sources": ["https://en.wikivoyage.org/wiki/Leipzig"]
+    },
+    "NUE": {
+      "localBeer": ["Schanzenbräu", "Barfüßer"],
+      "cheapEat": {
+        "name": "Six Nürnberger Rostbratwürstl",
+        "priceEUR": 6.7,
+        "note": "Heilig-Geist-Spital, over the Pegnitz; Wikivoyage gives €6.70 for six."
+      },
+      "saveTip": "Look for Lebkuchen packs labelled 'Bruch', which sell for less because they are unsuitable for souvenir packaging.",
+      "sources": ["https://en.wikivoyage.org/wiki/Nuremberg"]
+    }
+  }
+}

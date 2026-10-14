@@ -1,0 +1,59 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA0ZBT0ABSAGYAQI",
+ "fetchedAt": "2026-10-11T11:26:02",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 135.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": "Norwegian",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "07:15",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Faro International Airport",
+   "arrTime": "17:40",
+   "arrDate": "2026-12-05",
+   "durationMin": 685,
+   "layovers": [
+    {
+     "min": 375,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 135 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Trondheim Airport, Værnes at 7:15 AM on Saturday, December 5 and arrives at Faro International Airport at 5:40 PM on Saturday, December 5. Total duration 11 hr 25 min.  Layover (1 of 1) is a 6 hr 15 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 149.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": "Norwegian",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:20",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Faro International Airport",
+   "arrTime": "17:40",
+   "arrDate": "2026-12-05",
+   "durationMin": 500,
+   "layovers": [
+    {
+     "min": 195,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 149 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Trondheim Airport, Værnes at 10:20 AM on Saturday, December 5 and arrives at Faro International Airport at 5:40 PM on Saturday, December 5. Total duration 8 hr 20 min.  Layover (1 of 1) is a 3 hr 15 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

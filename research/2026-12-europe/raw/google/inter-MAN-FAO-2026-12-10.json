@@ -1,0 +1,115 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTBqBRIDTUFOcgUSA0ZBT0ABSAGYAQI",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 55.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": null,
+   "depAirportName": "Manchester Airport",
+   "depTime": "09:40",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Faro International Airport",
+   "arrTime": "12:35",
+   "arrDate": "2026-12-10",
+   "durationMin": 175,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 55 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Leaves Manchester Airport at 9:40 AM on Thursday, December 10 and arrives at Faro International Airport at 12:35 PM on Thursday, December 10. Total duration 2 hr 55 min.   Select flight"
+  },
+  {
+   "price": 66.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 0,
+   "airlines": "Jet2",
+   "operatedBy": null,
+   "depAirportName": "Manchester Airport",
+   "depTime": "09:30",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Faro International Airport",
+   "arrTime": "12:30",
+   "arrDate": "2026-12-10",
+   "durationMin": 180,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 66 euros. Nonstop flight with Jet2. Leaves Manchester Airport at 9:30 AM on Thursday, December 10 and arrives at Faro International Airport at 12:30 PM on Thursday, December 10. Total duration 3 hr.   Select flight"
+  },
+  {
+   "price": 154.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Tap Air Portugal",
+   "operatedBy": "Portugalia - Companhia Portuguesa",
+   "depAirportName": "Manchester Airport",
+   "depTime": "11:25",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Faro International Airport",
+   "arrTime": "23:50",
+   "arrDate": "2026-12-10",
+   "durationMin": 745,
+   "layovers": [
+    {
+     "min": 505,
+     "overnight": false,
+     "airport": "Humberto Delgado Airport",
+     "city": "Lisbon"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 154 euros. 1 stop flight with Tap Air Portugal. Operated by Portugalia - Companhia Portuguesa. Leaves Manchester Airport at 11:25 AM on Thursday, December 10 and arrives at Faro International Airport at 11:50 PM on Thursday, December 10. Total duration 12 hr 25 min.  Layover (1 of 1) is a 8 hr 25 min layover at Humberto Delgado Airport in Lisbon. Select flight"
+  },
+  {
+   "price": 165.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa City Airlines and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Manchester Airport",
+   "depTime": "06:00",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Faro International Airport",
+   "arrTime": "12:35",
+   "arrDate": "2026-12-10",
+   "durationMin": 395,
+   "layovers": [
+    {
+     "min": 100,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 165 euros. 1 stop flight with Lufthansa City Airlines and Lufthansa. Leaves Manchester Airport at 6:00 AM on Thursday, December 10 and arrives at Faro International Airport at 12:35 PM on Thursday, December 10. Total duration 6 hr 35 min.  Layover (1 of 1) is a 1 hr 40 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 268.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "British Airways",
+   "operatedBy": "BA Euroflyer",
+   "depAirportName": "Manchester Airport",
+   "depTime": "09:45",
+   "depDate": "2026-12-10",
+   "arrAirportName": "Faro International Airport",
+   "arrTime": "18:10",
+   "arrDate": "2026-12-10",
+   "durationMin": 505,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 268 euros. 1 stop flight with British Airways. Operated by BA Euroflyer. Leaves Manchester Airport at 9:45 AM on Thursday, December 10 and arrives at Faro International Airport at 6:10 PM on Thursday, December 10. Total duration 8 hr 25 min.  Layover (1 of 1) is a 4 hr 15 min layover in London. Transfer here from Heathrow Airport to London Gatwick Airport. Select flight"
+  }
+ ]
+}

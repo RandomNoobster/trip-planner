@@ -1,0 +1,33 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GiISCjIwMjYtMTItMDcyAkRZMgJEOGoFEgNUUkRyBRIDUEFSQAFIAZgBAg",
+ "fetchedAt": "2026-10-11T11:24:08",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 155.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": "Norwegian",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "07:15",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Aéroport de Paris-Charles de Gaulle",
+   "arrTime": "11:45",
+   "arrDate": "2026-12-07",
+   "durationMin": 270,
+   "layovers": [
+    {
+     "min": 65,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 155 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Trondheim Airport, Værnes at 7:15 AM on Monday, December 7 and arrives at Aéroport de Paris-Charles de Gaulle at 11:45 AM on Monday, December 7. Total duration 4 hr 30 min.  Layover (1 of 1) is a 1 hr 5 min layover at Oslo lufthavn in Oslo. Select flight"
+  }
+ ]
+}

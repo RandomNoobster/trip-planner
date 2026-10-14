@@ -1,0 +1,200 @@
+{
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTJqBRIDU1RPcgUSA1JJWEABSAGYAQI",
+ "priceUnavailable": 0,
+ "itineraries": [
+  {
+   "price": 15.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 0,
+   "airlines": "Ryanair",
+   "operatedBy": "Ryanair Sun",
+   "depAirportName": "Stockholm Arlanda Airport",
+   "depTime": "14:25",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Riga Airport",
+   "arrTime": "16:30",
+   "arrDate": "2026-12-12",
+   "durationMin": 65,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 15 euros.This price does not include overhead bin access. Nonstop flight with Ryanair. Operated by Ryanair Sun. Leaves Stockholm Arlanda Airport at 2:25 PM on Saturday, December 12 and arrives at Riga Airport at 4:30 PM on Saturday, December 12. Total duration 1 hr 5 min.   Select flight"
+  },
+  {
+   "price": 38.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 0,
+   "airlines": "Air Baltic",
+   "operatedBy": null,
+   "depAirportName": "Stockholm Arlanda Airport",
+   "depTime": "08:00",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Riga Airport",
+   "arrTime": "10:05",
+   "arrDate": "2026-12-12",
+   "durationMin": 65,
+   "layovers": [],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 38 euros. Nonstop flight with Air Baltic. Leaves Stockholm Arlanda Airport at 8:00 AM on Saturday, December 12 and arrives at Riga Airport at 10:05 AM on Saturday, December 12. Total duration 1 hr 5 min.   Select flight"
+  },
+  {
+   "price": 82.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Finnair",
+   "operatedBy": "Jettime A/S for Finnair, Nordic Reg for Finnair",
+   "depAirportName": "Stockholm Arlanda Airport",
+   "depTime": "17:40",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Riga Airport",
+   "arrTime": "21:45",
+   "arrDate": "2026-12-12",
+   "durationMin": 185,
+   "layovers": [
+    {
+     "min": 60,
+     "overnight": false,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 82 euros. 1 stop flight with Finnair. Operated by Jettime A/S for Finnair, Nordic Reg for Finnair. Leaves Stockholm Arlanda Airport at 5:40 PM on Saturday, December 12 and arrives at Riga Airport at 9:45 PM on Saturday, December 12. Total duration 3 hr 5 min.  Layover (1 of 1) is a 1 hr layover at Helsinki Airport in Helsinki. Select flight"
+  },
+  {
+   "price": 102.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Finnair",
+   "operatedBy": "Nordic Reg for Finnair, Nordic Reg for Finnair",
+   "depAirportName": "Stockholm Arlanda Airport",
+   "depTime": "21:15",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Riga Airport",
+   "arrTime": "08:35",
+   "arrDate": "2026-12-13",
+   "durationMin": 620,
+   "layovers": [
+    {
+     "min": 495,
+     "overnight": false,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 102 euros. 1 stop flight with Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Stockholm Arlanda Airport at 9:15 PM on Saturday, December 12 and arrives at Riga Airport at 8:35 AM on Sunday, December 13. Total duration 10 hr 20 min.  Layover (1 of 1) is a 8 hr 15 min layover at Helsinki Airport in Helsinki. Select flight"
+  },
+  {
+   "price": 151.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "LOT",
+   "operatedBy": null,
+   "depAirportName": "Stockholm Arlanda Airport",
+   "depTime": "19:30",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Riga Airport",
+   "arrTime": "13:05",
+   "arrDate": "2026-12-13",
+   "durationMin": 995,
+   "layovers": [
+    {
+     "min": 810,
+     "overnight": false,
+     "airport": "Warsaw Chopin Airport",
+     "city": "Warsaw"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 151 euros. 1 stop flight with LOT. Leaves Stockholm Arlanda Airport at 7:30 PM on Saturday, December 12 and arrives at Riga Airport at 1:05 PM on Sunday, December 13. Total duration 16 hr 35 min.  Layover (1 of 1) is a 13 hr 30 min layover at Warsaw Chopin Airport in Warsaw. Select flight"
+  },
+  {
+   "price": 273.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Stockholm Arlanda Airport",
+   "depTime": "16:55",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Riga Airport",
+   "arrTime": "14:00",
+   "arrDate": "2026-12-13",
+   "durationMin": 1205,
+   "layovers": [
+    {
+     "min": 940,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 273 euros. 1 stop flight with Lufthansa. Leaves Stockholm Arlanda Airport at 4:55 PM on Saturday, December 12 and arrives at Riga Airport at 2:00 PM on Sunday, December 13. Total duration 20 hr 5 min.  Layover (1 of 1) is a 15 hr 40 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 314.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa and Air Baltic",
+   "operatedBy": null,
+   "depAirportName": "Stockholm Arlanda Airport",
+   "depTime": "18:40",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Riga Airport",
+   "arrTime": "12:20",
+   "arrDate": "2026-12-13",
+   "durationMin": 1000,
+   "layovers": [
+    {
+     "min": 735,
+     "overnight": false,
+     "airport": "Munich International Airport",
+     "city": "Munich"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 314 euros. 1 stop flight with Lufthansa and Air Baltic. Leaves Stockholm Arlanda Airport at 6:40 PM on Saturday, December 12 and arrives at Riga Airport at 12:20 PM on Sunday, December 13. Total duration 16 hr 40 min.  Layover (1 of 1) is a 12 hr 15 min layover at Munich International Airport in Munich. Select flight"
+  },
+  {
+   "price": 345.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Turkish Airlines",
+   "operatedBy": null,
+   "depAirportName": "Stockholm Arlanda Airport",
+   "depTime": "18:15",
+   "depDate": "2026-12-12",
+   "arrAirportName": "Riga Airport",
+   "arrTime": "10:45",
+   "arrDate": "2026-12-13",
+   "durationMin": 930,
+   "layovers": [
+    {
+     "min": 515,
+     "overnight": false,
+     "airport": "Istanbul Airport",
+     "city": "Istanbul"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 345 euros. 1 stop flight with Turkish Airlines. Leaves Stockholm Arlanda Airport at 6:15 PM on Saturday, December 12 and arrives at Riga Airport at 10:45 AM on Sunday, December 13. Total duration 15 hr 30 min.  Layover (1 of 1) is a 8 hr 35 min layover at Istanbul Airport in Istanbul. Select flight"
+  }
+ ]
+}

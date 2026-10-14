@@ -1,0 +1,13 @@
+queries: 2262 total, 1426 to fetch, workers 3
+  50/1426 fetched, 0 failed, throttle events 0
+  100/1426 fetched, 0 failed, throttle events 0
+  150/1426 fetched, 0 failed, throttle events 0
+  throttled (429), pausing 60s
+  throttled (429), pausing 60s
+  throttled (429), pausing 60s
+  throttled (429), pausing 60s
+  throttled (429), pausing 120s
+too many throttle events, stopping early (rerun later to resume)
+  throttled (429), pausing 60s
+  throttled (429), pausing 60s
+done: 2875 legs from 1022 queries; failed 0; airlines: [('KLM', 423), ('Norwegian', 303), ('Wideroe and Lufthansa', 190), ('Wideroe and Finnair', 181), ('Scandinavian Airlines and Air France', 155), ('Scandinavian Airlines and KLM', 143), ('Lufthansa and Wideroe', 126), ('KLM and Air France', 124), ('Finnair and Wideroe', 115), ('Scandinavian Airlines and Austrian', 86), ('Air France and KLM', 85), ('KLM and Scandinavian Airlines', 81), ('Air France and Scandinavian Airlines', 80), ('Austrian and Scandinavian Airlines', 52), ('Scandinavian Airlines and Tap Air Portugal', 49)]
