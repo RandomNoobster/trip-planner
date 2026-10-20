@@ -1,24 +1,25 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDhqBRIDVFJEcgUSA1pBR0ABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 154.0,
+   "price": 156.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
    "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "17:10",
+   "depTime": "06:20",
    "depDate": "2026-12-08",
-   "arrAirportName": "Franjo Tuđman International Airport Zagr",
-   "arrTime": "23:00",
+   "arrAirportName": "Franjo Tuđman International Airport Zagreb",
+   "arrTime": "16:00",
    "arrDate": "2026-12-08",
-   "durationMin": 350,
+   "durationMin": 580,
    "layovers": [
     {
-     "min": 90,
+     "min": 330,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
      "overnight": false
@@ -28,7 +29,7 @@
    "changeAirport": false
   },
   {
-   "price": 195.0,
+   "price": 259.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -37,7 +38,7 @@
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-08",
-   "arrAirportName": "Franjo Tuđman International Airport Zagr",
+   "arrAirportName": "Franjo Tuđman International Airport Zagreb",
    "arrTime": "13:15",
    "arrDate": "2026-12-08",
    "durationMin": 415,
@@ -53,7 +54,7 @@
    "changeAirport": false
   },
   {
-   "price": 456.0,
+   "price": 310.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -62,7 +63,7 @@
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "09:10",
    "depDate": "2026-12-08",
-   "arrAirportName": "Franjo Tuđman International Airport Zagr",
+   "arrAirportName": "Franjo Tuđman International Airport Zagreb",
    "arrTime": "22:15",
    "arrDate": "2026-12-08",
    "durationMin": 785,
@@ -84,38 +85,7 @@
    "changeAirport": false
   },
   {
-   "price": 471.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Air France",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "17:10",
-   "depDate": "2026-12-08",
-   "arrAirportName": "Franjo Tuđman International Airport Zagr",
-   "arrTime": "12:00",
-   "arrDate": "2026-12-09",
-   "durationMin": 1130,
-   "layovers": [
-    {
-     "min": 680,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "overnight": false
-    },
-    {
-     "min": 110,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 554.0,
+   "price": 465.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -124,7 +94,7 @@
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "09:10",
    "depDate": "2026-12-08",
-   "arrAirportName": "Franjo Tuđman International Airport Zagr",
+   "arrAirportName": "Franjo Tuđman International Airport Zagreb",
    "arrTime": "19:25",
    "arrDate": "2026-12-08",
    "durationMin": 615,
@@ -146,7 +116,38 @@
    "changeAirport": false
   },
   {
-   "price": 784.0,
+   "price": 547.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Air France",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Franjo Tuđman International Airport Zagreb",
+   "arrTime": "12:00",
+   "arrDate": "2026-12-09",
+   "durationMin": 1130,
+   "layovers": [
+    {
+     "min": 680,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 110,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 884.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -155,7 +156,7 @@
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "05:30",
    "depDate": "2026-12-08",
-   "arrAirportName": "Franjo Tuđman International Airport Zagr",
+   "arrAirportName": "Franjo Tuđman International Airport Zagreb",
    "arrTime": "13:15",
    "arrDate": "2026-12-08",
    "durationMin": 465,
@@ -170,6 +171,31 @@
      "min": 55,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 176.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Franjo Tuđman International Airport Zagreb",
+   "arrTime": "23:00",
+   "arrDate": "2026-12-08",
+   "durationMin": 350,
+   "layovers": [
+    {
+     "min": 90,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
      "overnight": false
     }
    ],

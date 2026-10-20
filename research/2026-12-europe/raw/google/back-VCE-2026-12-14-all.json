@@ -1,6 +1,7 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTRqBRIDVkNFcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
    "price": 151.0,
@@ -28,7 +29,7 @@
    "changeAirport": false
   },
   {
-   "price": 211.0,
+   "price": 212.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -43,13 +44,13 @@
    "durationMin": 630,
    "layovers": [
     {
-     "min": 215,
+     "min": 100,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
      "overnight": false
     },
     {
-     "min": 75,
+     "min": 195,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
      "overnight": false
@@ -59,7 +60,7 @@
    "changeAirport": false
   },
   {
-   "price": 211.0,
+   "price": 214.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -152,7 +153,7 @@
    "changeAirport": false
   },
   {
-   "price": 1083.0,
+   "price": 1084.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -176,6 +177,31 @@
      "min": 50,
      "airport": "Copenhagen Airport",
      "city": "Copenhagen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 151.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Venice Marco Polo Airport",
+   "depTime": "17:35",
+   "depDate": "2026-12-14",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-14",
+   "durationMin": 335,
+   "layovers": [
+    {
+     "min": 85,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
      "overnight": false
     }
    ],

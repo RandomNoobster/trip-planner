@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA0VWTkABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 381.0,
+   "price": 388.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -34,7 +35,7 @@
    "changeAirport": false
   },
   {
-   "price": 1303.0,
+   "price": 1129.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -58,6 +59,37 @@
      "min": 180,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 388.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Zvartnots International Airport",
+   "arrTime": "00:45",
+   "arrDate": "2026-12-08",
+   "durationMin": 755,
+   "layovers": [
+    {
+     "min": 155,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    },
+    {
+     "min": 150,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
      "overnight": false
     }
    ],

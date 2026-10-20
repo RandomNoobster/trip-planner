@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA0JMUUABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 121.0,
+   "price": 122.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -28,7 +29,7 @@
    "changeAirport": false
   },
   {
-   "price": 216.0,
+   "price": 222.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -59,7 +60,7 @@
    "changeAirport": false
   },
   {
-   "price": 251.0,
+   "price": 254.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -90,7 +91,7 @@
    "changeAirport": false
   },
   {
-   "price": 271.0,
+   "price": 275.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -121,7 +122,7 @@
    "changeAirport": false
   },
   {
-   "price": 403.0,
+   "price": 408.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -145,6 +146,62 @@
      "min": 80,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 1907.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and ITA",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Bologna Guglielmo Marconi Airport",
+   "arrTime": "14:45",
+   "arrDate": "2026-12-05",
+   "durationMin": 505,
+   "layovers": [
+    {
+     "min": 55,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 110,
+     "airport": "Leonardo da Vinci International Airport",
+     "city": "Rome",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 122.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Bologna Guglielmo Marconi Airport",
+   "arrTime": "12:20",
+   "arrDate": "2026-12-05",
+   "durationMin": 360,
+   "layovers": [
+    {
+     "min": 110,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
      "overnight": false
     }
    ],

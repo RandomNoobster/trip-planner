@@ -1,9 +1,41 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDZqBRIDVFJEcgUSA1NPRkABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 402.0,
+   "price": 317.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Sofia International Airport",
+   "arrTime": "23:00",
+   "arrDate": "2026-12-06",
+   "durationMin": 770,
+   "layovers": [
+    {
+     "min": 155,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    },
+    {
+     "min": 285,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 409.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -34,44 +66,7 @@
    "changeAirport": false
   },
   {
-   "price": 403.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 3,
-   "airlines": "Wideroe and Lufthansa",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "09:10",
-   "depDate": "2026-12-06",
-   "arrAirportName": "Sofia International Airport",
-   "arrTime": "22:55",
-   "arrDate": "2026-12-06",
-   "durationMin": 765,
-   "layovers": [
-    {
-     "min": 155,
-     "airport": "Bergen Airport",
-     "city": "Bergen",
-     "overnight": false
-    },
-    {
-     "min": 135,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main",
-     "overnight": false
-    },
-    {
-     "min": 115,
-     "airport": "Munich International Airport",
-     "city": "Munich",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 1653.0,
+   "price": 1712.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,

@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDU0lOcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 715.0,
+   "price": 713.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -34,7 +35,32 @@
    "changeAirport": false
   },
   {
-   "price": 757.0,
+   "price": 753.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Singapore Changi Airport",
+   "depTime": "01:40",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-13",
+   "durationMin": 1315,
+   "layovers": [
+    {
+     "min": 350,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 754.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -65,7 +91,38 @@
    "changeAirport": false
   },
   {
-   "price": 823.0,
+   "price": 809.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Singapore Changi Airport",
+   "depTime": "01:40",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:20",
+   "arrDate": "2026-12-13",
+   "durationMin": 1180,
+   "layovers": [
+    {
+     "min": 80,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 95,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 914.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -75,24 +132,24 @@
    "depTime": "22:05",
    "depDate": "2026-12-13",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
+   "arrTime": "18:10",
    "arrDate": "2026-12-14",
-   "durationMin": 1425,
+   "durationMin": 1625,
    "layovers": [
     {
-     "min": 75,
+     "min": 100,
      "airport": "Helsinki Airport",
      "city": "Helsinki",
      "overnight": false
     },
     {
-     "min": 50,
+     "min": 25,
      "airport": "Stockholm Arlanda Airport",
      "city": "Stockholm",
      "overnight": false
     },
     {
-     "min": 230,
+     "min": 425,
      "airport": "Bergen Airport",
      "city": "Bergen",
      "overnight": false
@@ -102,32 +159,7 @@
    "changeAirport": false
   },
   {
-   "price": 865.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": null,
-   "depAirportName": "Singapore Changi Airport",
-   "depTime": "01:40",
-   "depDate": "2026-12-13",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
-   "arrDate": "2026-12-13",
-   "durationMin": 1315,
-   "layovers": [
-    {
-     "min": 350,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 921.0,
+   "price": 809.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

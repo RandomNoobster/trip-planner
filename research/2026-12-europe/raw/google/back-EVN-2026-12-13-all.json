@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDRVZOcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 362.0,
+   "price": 334.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -13,18 +14,18 @@
    "depTime": "05:05",
    "depDate": "2026-12-13",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-14",
-   "durationMin": 2205,
+   "arrTime": "14:45",
+   "arrDate": "2026-12-13",
+   "durationMin": 760,
    "layovers": [
     {
-     "min": 845,
+     "min": 195,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
      "overnight": false
     },
     {
-     "min": 885,
+     "min": 85,
      "airport": "Bergen Airport",
      "city": "Bergen",
      "overnight": false
@@ -34,7 +35,7 @@
    "changeAirport": false
   },
   {
-   "price": 1443.0,
+   "price": 1445.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -65,7 +66,7 @@
    "changeAirport": false
   },
   {
-   "price": 376.0,
+   "price": 334.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

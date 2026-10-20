@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDTFVYcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 184.0,
+   "price": 250.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -21,6 +22,43 @@
      "min": 85,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 474.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Finnair and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Luxembourg Airport",
+   "depTime": "09:55",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-18",
+   "durationMin": 1735,
+   "layovers": [
+    {
+     "min": 1080,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki",
+     "overnight": false
+    },
+    {
+     "min": 25,
+     "airport": "Stockholm Arlanda Airport",
+     "city": "Stockholm",
+     "overnight": false
+    },
+    {
+     "min": 230,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
      "overnight": false
     }
    ],
@@ -59,36 +97,24 @@
    "changeAirport": false
   },
   {
-   "price": 599.0,
+   "price": 250.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 3,
-   "airlines": "Finnair and Wideroe",
+   "stops": 1,
+   "airlines": "KLM",
    "operatedBy": null,
    "depAirportName": "Luxembourg Airport",
-   "depTime": "09:55",
+   "depTime": "18:20",
    "depDate": "2026-12-17",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-18",
-   "durationMin": 1735,
+   "arrTime": "23:10",
+   "arrDate": "2026-12-17",
+   "durationMin": 290,
    "layovers": [
     {
-     "min": 1080,
-     "airport": "Helsinki Airport",
-     "city": "Helsinki",
-     "overnight": false
-    },
-    {
-     "min": 25,
-     "airport": "Stockholm Arlanda Airport",
-     "city": "Stockholm",
-     "overnight": false
-    },
-    {
-     "min": 230,
-     "airport": "Bergen Airport",
-     "city": "Bergen",
+     "min": 85,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
      "overnight": false
     }
    ],

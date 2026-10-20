@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA0tVTEABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 691.0,
+   "price": 783.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -34,7 +35,7 @@
    "changeAirport": false
   },
   {
-   "price": 960.0,
+   "price": 971.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -59,7 +60,7 @@
    "changeAirport": false
   },
   {
-   "price": 989.0,
+   "price": 1002.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -89,6 +90,31 @@
      "min": 90,
      "airport": "Phuket International Airport",
      "city": "Phuket",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 971.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Kuala Lumpur International Airport",
+   "arrTime": "15:40",
+   "arrDate": "2026-12-08",
+   "durationMin": 930,
+   "layovers": [
+    {
+     "min": 50,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
      "overnight": false
     }
    ],

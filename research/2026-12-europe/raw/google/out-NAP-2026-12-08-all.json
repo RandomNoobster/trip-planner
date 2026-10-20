@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDhqBRIDVFJEcgUSA05BUEABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 358.0,
+   "price": 488.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -24,7 +25,7 @@
      "overnight": false
     },
     {
-     "min": 85,
+     "min": 80,
      "airport": "Leonardo da Vinci International Airport",
      "city": "Rome",
      "overnight": false
@@ -34,7 +35,69 @@
    "changeAirport": false
   },
   {
-   "price": 435.0,
+   "price": 721.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Naples International Airport",
+   "arrTime": "13:30",
+   "arrDate": "2026-12-09",
+   "durationMin": 1700,
+   "layovers": [
+    {
+     "min": 155,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    },
+    {
+     "min": 1235,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 726.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:15",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Naples International Airport",
+   "arrTime": "21:10",
+   "arrDate": "2026-12-08",
+   "durationMin": 655,
+   "layovers": [
+    {
+     "min": 225,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
+    },
+    {
+     "min": 80,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 866.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -71,69 +134,7 @@
    "changeAirport": false
   },
   {
-   "price": 710.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Wideroe and Lufthansa",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "09:10",
-   "depDate": "2026-12-08",
-   "arrAirportName": "Naples International Airport",
-   "arrTime": "13:30",
-   "arrDate": "2026-12-09",
-   "durationMin": 1700,
-   "layovers": [
-    {
-     "min": 155,
-     "airport": "Bergen Airport",
-     "city": "Bergen",
-     "overnight": false
-    },
-    {
-     "min": 1235,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 890.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:25",
-   "depDate": "2026-12-08",
-   "arrAirportName": "Naples International Airport",
-   "arrTime": "15:50",
-   "arrDate": "2026-12-08",
-   "durationMin": 565,
-   "layovers": [
-    {
-     "min": 70,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo",
-     "overnight": false
-    },
-    {
-     "min": 130,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 1104.0,
+   "price": 1120.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -157,6 +158,37 @@
      "min": 100,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 488.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and ITA",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Naples International Airport",
+   "arrTime": "14:15",
+   "arrDate": "2026-12-08",
+   "durationMin": 475,
+   "layovers": [
+    {
+     "min": 65,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 80,
+     "airport": "Leonardo da Vinci International Airport",
+     "city": "Rome",
      "overnight": false
     }
    ],

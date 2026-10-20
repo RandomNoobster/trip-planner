@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA0ZVRUABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 261.0,
+   "price": 267.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -34,7 +35,7 @@
    "changeAirport": false
   },
   {
-   "price": 368.0,
+   "price": 325.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -49,13 +50,13 @@
    "durationMin": 2895,
    "layovers": [
     {
-     "min": 1125,
+     "min": 1415,
      "airport": "Oslo lufthavn",
      "city": "Oslo",
      "overnight": false
     },
     {
-     "min": 1235,
+     "min": 945,
      "airport": "Helsinki Airport",
      "city": "Helsinki",
      "overnight": false
@@ -65,7 +66,7 @@
    "changeAirport": false
   },
   {
-   "price": 1281.0,
+   "price": 1299.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

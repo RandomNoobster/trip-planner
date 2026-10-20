@@ -1,7 +1,7 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTVqBRIDU1BVcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T11:28:37",
- "priceUnavailable": 0,
+ "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
    "price": 334.0,
@@ -9,7 +9,7 @@
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Croatia and KLM",
-   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
+   "operatedBy": null,
    "depAirportName": "Split Airport",
    "depTime": "12:05",
    "depDate": "2026-12-15",
@@ -20,60 +20,64 @@
    "layovers": [
     {
      "min": 225,
-     "overnight": false,
      "airport": "Franjo Tuđman International Airport Zagreb",
-     "city": "Zagreb"
+     "city": "Zagreb",
+     "overnight": false
     },
     {
      "min": 135,
-     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
+     "city": "Amsterdam",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 334 euros. 2 stops flight with Croatia and KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Split Airport at 12:05 PM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 11:10 PM on Tuesday, December 15. Total duration 11 hr 5 min.  Layover (1 of 2) is a 3 hr 45 min layover at Franjo Tuđman International Airport Zagreb in Zagreb. Layover (2 of 2) is a 2 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 427.0,
+   "price": 398.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 2,
+   "stops": 3,
    "airlines": "Croatia, Lufthansa and Wideroe",
    "operatedBy": null,
    "depAirportName": "Split Airport",
-   "depTime": "14:40",
+   "depTime": "12:05",
    "depDate": "2026-12-15",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "14:50",
    "arrDate": "2026-12-16",
-   "durationMin": 1450,
+   "durationMin": 1605,
    "layovers": [
     {
-     "min": 1060,
-     "overnight": false,
+     "min": 1030,
+     "airport": "Franjo Tuđman International Airport Zagreb",
+     "city": "Zagreb",
+     "overnight": false
+    },
+    {
+     "min": 155,
      "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
+     "city": "Frankfurt am Main",
+     "overnight": false
     },
     {
      "min": 95,
-     "overnight": false,
      "airport": "Bergen Airport",
-     "city": "Bergen"
+     "city": "Bergen",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 427 euros. 2 stops flight with Croatia, Lufthansa and Wideroe. Leaves Split Airport at 2:40 PM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 2:50 PM on Wednesday, December 16. Total duration 24 hr 10 min.  Layover (1 of 2) is a 17 hr 40 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 1079.0,
+   "price": 1080.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
    "airlines": "Croatia and Scandinavian Airlines",
-   "operatedBy": "Etf Airways, Sas Link",
+   "operatedBy": null,
    "depAirportName": "Split Airport",
    "depTime": "06:50",
    "depDate": "2026-12-15",
@@ -84,128 +88,25 @@
    "layovers": [
     {
      "min": 35,
-     "overnight": false,
      "airport": "Franjo Tuđman International Airport Zagreb",
-     "city": "Zagreb"
+     "city": "Zagreb",
+     "overnight": false
     },
     {
      "min": 65,
-     "overnight": false,
      "airport": "Vienna International Airport",
-     "city": "Vienna"
+     "city": "Vienna",
+     "overnight": false
     },
     {
      "min": 50,
-     "overnight": false,
      "airport": "Copenhagen Airport",
-     "city": "Copenhagen"
+     "city": "Copenhagen",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 1079 euros. 3 stops flight with Croatia and Scandinavian Airlines. Operated by Etf Airways, Sas Link. Leaves Split Airport at 6:50 AM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 2:30 PM on Tuesday, December 15. Total duration 7 hr 40 min.  Layover (1 of 3) is a 35 min layover at Franjo Tuđman International Airport Zagreb in Zagreb. Layover (2 of 3) is a 1 hr 5 min layover at Vienna International Airport in Vienna. Layover (3 of 3) is a 50 min layover at Copenhagen Airport in Copenhagen. Select flight"
-  },
-  {
-   "price": 1087.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 3,
-   "airlines": "Croatia, Lufthansa and Wideroe",
-   "operatedBy": null,
-   "depAirportName": "Split Airport",
-   "depTime": "19:50",
-   "depDate": "2026-12-15",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-16",
-   "durationMin": 1140,
-   "layovers": [
-    {
-     "min": 615,
-     "overnight": false,
-     "airport": "Franjo Tuđman International Airport Zagreb",
-     "city": "Zagreb"
-    },
-    {
-     "min": 100,
-     "overnight": false,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
-    },
-    {
-     "min": 95,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 1087 euros. 3 stops flight with Croatia, Lufthansa and Wideroe. Leaves Split Airport at 7:50 PM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 2:50 PM on Wednesday, December 16. Total duration 19 hr.  Layover (1 of 3) is a 10 hr 15 min layover at Franjo Tuđman International Airport Zagreb in Zagreb. Layover (2 of 3) is a 1 hr 40 min layover at Frankfurt Airport in Frankfurt am Main. Layover (3 of 3) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
-  },
-  {
-   "price": 1858.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Croatia and KLM",
-   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
-   "depAirportName": "Split Airport",
-   "depTime": "14:40",
-   "depDate": "2026-12-15",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "23:10",
-   "arrDate": "2026-12-15",
-   "durationMin": 510,
-   "layovers": [
-    {
-     "min": 125,
-     "overnight": false,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
-    },
-    {
-     "min": 70,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 1858 euros. 2 stops flight with Croatia and KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Split Airport at 2:40 PM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 11:10 PM on Tuesday, December 15. Total duration 8 hr 30 min.  Layover (1 of 2) is a 2 hr 5 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 10 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 1859.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Croatia and KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depAirportName": "Split Airport",
-   "depTime": "07:45",
-   "depDate": "2026-12-15",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
-   "arrDate": "2026-12-15",
-   "durationMin": 530,
-   "layovers": [
-    {
-     "min": 150,
-     "overnight": false,
-     "airport": "Munich International Airport",
-     "city": "Munich"
-    },
-    {
-     "min": 65,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 1859 euros. 2 stops flight with Croatia and KLM. Operated by KLM Cityhopper. Leaves Split Airport at 7:45 AM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 4:35 PM on Tuesday, December 15. Total duration 8 hr 50 min.  Layover (1 of 2) is a 2 hr 30 min layover at Munich International Airport in Munich. Layover (2 of 2) is a 1 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "changeAirport": false
   }
  ]
 }

@@ -1,40 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDQkVHcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 199.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Lufthansa and Wideroe",
-   "operatedBy": null,
-   "depAirportName": "Belgrade Nikola Tesla Airport",
-   "depTime": "06:15",
-   "depDate": "2026-12-17",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-17",
-   "durationMin": 515,
-   "layovers": [
-    {
-     "min": 115,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main",
-     "overnight": false
-    },
-    {
-     "min": 95,
-     "airport": "Bergen Airport",
-     "city": "Bergen",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 205.0,
+   "price": 230.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -59,61 +29,30 @@
    "changeAirport": false
   },
   {
-   "price": 466.0,
+   "price": 253.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
-   "airlines": "Air Serbia, Air France and KLM",
+   "airlines": "Lufthansa and Wideroe",
    "operatedBy": null,
    "depAirportName": "Belgrade Nikola Tesla Airport",
-   "depTime": "06:30",
+   "depTime": "06:15",
    "depDate": "2026-12-17",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
+   "arrTime": "14:50",
    "arrDate": "2026-12-17",
-   "durationMin": 605,
+   "durationMin": 515,
    "layovers": [
     {
-     "min": 150,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
+     "min": 115,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
      "overnight": false
     },
     {
-     "min": 75,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 470.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Scandinavian Airlines",
-   "operatedBy": null,
-   "depAirportName": "Belgrade Nikola Tesla Airport",
-   "depTime": "12:35",
-   "depDate": "2026-12-17",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "20:30",
-   "arrDate": "2026-12-17",
-   "durationMin": 475,
-   "layovers": [
-    {
-     "min": 75,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "overnight": false
-    },
-    {
-     "min": 80,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo",
+     "min": 95,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
      "overnight": false
     }
    ],
@@ -152,7 +91,69 @@
    "changeAirport": false
   },
   {
-   "price": 1068.0,
+   "price": 593.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air Serbia, Air France and KLM",
+   "operatedBy": null,
+   "depAirportName": "Belgrade Nikola Tesla Airport",
+   "depTime": "06:30",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-17",
+   "durationMin": 605,
+   "layovers": [
+    {
+     "min": 150,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    },
+    {
+     "min": 75,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 603.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Belgrade Nikola Tesla Airport",
+   "depTime": "12:35",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "20:30",
+   "arrDate": "2026-12-17",
+   "durationMin": 475,
+   "layovers": [
+    {
+     "min": 75,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 80,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 1069.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

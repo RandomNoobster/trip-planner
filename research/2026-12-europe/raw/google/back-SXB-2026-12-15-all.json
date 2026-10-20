@@ -1,7 +1,39 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTVqBRIDU1hCcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
+  {
+   "price": 2553.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Twin Jet and KLM",
+   "operatedBy": null,
+   "depAirportName": "Strasbourg Airport",
+   "depTime": "06:15",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-15",
+   "durationMin": 620,
+   "layovers": [
+    {
+     "min": 135,
+     "airport": "Lyon Airport",
+     "city": "Lyon",
+     "overnight": false
+    },
+    {
+     "min": 185,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
   {
    "price": 2553.0,
    "roundTripTotal": false,

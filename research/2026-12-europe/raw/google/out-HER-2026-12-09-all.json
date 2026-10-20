@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA0hFUkABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 552.0,
+   "price": 645.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -12,10 +13,10 @@
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-09",
-   "arrAirportName": "Heraklion International Airport N. Kazan",
-   "arrTime": "19:50",
+   "arrAirportName": "Heraklion International Airport N. Kazantzakis",
+   "arrTime": "21:10",
    "arrDate": "2026-12-09",
-   "durationMin": 750,
+   "durationMin": 830,
    "layovers": [
     {
      "min": 220,
@@ -24,8 +25,39 @@
      "overnight": false
     },
     {
-     "min": 150,
-     "airport": "Athens International Airport \"Eleftherio",
+     "min": 230,
+     "airport": "Athens International Airport \"Eleftherios Venizelos\"",
+     "city": "Athens",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 645.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Aegean",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Heraklion International Airport N. Kazantzakis",
+   "arrTime": "21:10",
+   "arrDate": "2026-12-09",
+   "durationMin": 830,
+   "layovers": [
+    {
+     "min": 220,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 230,
+     "airport": "Athens International Airport \"Eleftherios Venizelos\"",
      "city": "Athens",
      "overnight": false
     }

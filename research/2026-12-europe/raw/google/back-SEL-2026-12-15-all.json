@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTVqBRIDU0VMcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 636.0,
+   "price": 642.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -29,37 +30,6 @@
   },
   {
    "price": 706.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Air France and Scandinavian Airlines",
-   "operatedBy": null,
-   "depAirportName": "Incheon International Airport",
-   "depTime": "13:20",
-   "depDate": "2026-12-15",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:30",
-   "arrDate": "2026-12-16",
-   "durationMin": 1990,
-   "layovers": [
-    {
-     "min": 75,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
-     "overnight": false
-    },
-    {
-     "min": 830,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 707.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -96,7 +66,38 @@
    "changeAirport": false
   },
   {
-   "price": 759.0,
+   "price": 713.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air France and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Incheon International Airport",
+   "depTime": "13:20",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:30",
+   "arrDate": "2026-12-16",
+   "durationMin": 1990,
+   "layovers": [
+    {
+     "min": 75,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    },
+    {
+     "min": 830,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 765.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -127,7 +128,7 @@
    "changeAirport": false
   },
   {
-   "price": 2822.0,
+   "price": 2827.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -151,6 +152,37 @@
      "min": 100,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 765.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Korean Air and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Incheon International Airport",
+   "depTime": "12:05",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "00:40",
+   "arrDate": "2026-12-16",
+   "durationMin": 1235,
+   "layovers": [
+    {
+     "min": 95,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    },
+    {
+     "min": 55,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
      "overnight": false
     }
    ],

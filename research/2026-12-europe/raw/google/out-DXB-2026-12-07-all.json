@@ -1,133 +1,41 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA0RYQkABSAGYAQI",
- "fetchedAt": "2026-10-12T13:11:51",
- "priceUnavailable": 0,
- "via": "html",
+ "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 648.0,
+   "price": 507.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and Qatar Airways",
-   "operatedBy": "Sas Link",
+   "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "10:15",
+   "depTime": "13:00",
    "depDate": "2026-12-07",
    "arrAirportName": "Dubai International Airport",
-   "arrTime": "03:50",
+   "arrTime": "11:40",
    "arrDate": "2026-12-08",
-   "durationMin": 875,
+   "durationMin": 1180,
    "layovers": [
     {
-     "min": 195,
-     "overnight": false,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen"
+     "min": 65,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
     },
     {
-     "min": 145,
-     "overnight": false,
+     "min": 585,
      "airport": "Hamad International Airport",
-     "city": "Doha"
+     "city": "Doha",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 648 euros. 2 stops flight with Scandinavian Airlines and Qatar Airways. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 10:15 AM on Monday, December 7 and arrives at Dubai International Airport at 3:50 AM on Tuesday, December 8. Total duration 14 hr 35 min.  Layover (1 of 2) is a 3 hr 15 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 2 hr 25 min layover at Hamad International Airport in Doha. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 780.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-07",
-   "arrAirportName": "Dubai International Airport",
-   "arrTime": "00:01",
-   "arrDate": "2026-12-08",
-   "durationMin": 881,
-   "layovers": [
-    {
-     "min": 320,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 780 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Monday, December 7 and arrives at Dubai International Airport at 12:01 AM on Tuesday, December 8. Total duration 14 hr 41 min.  Layover (1 of 1) is a 5 hr 20 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 808.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Air France",
-   "operatedBy": "KLM Cityhopper",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "17:10",
-   "depDate": "2026-12-07",
-   "arrAirportName": "Dubai International Airport",
-   "arrTime": "09:00",
-   "arrDate": "2026-12-08",
-   "durationMin": 770,
-   "layovers": [
-    {
-     "min": 60,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    },
-    {
-     "min": 75,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 808 euros. 2 stops flight with KLM and Air France. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:10 PM on Monday, December 7 and arrives at Dubai International Airport at 9:00 AM on Tuesday, December 8. Total duration 12 hr 50 min.  Layover (1 of 2) is a 1 hr layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 1 hr 15 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
-  },
-  {
-   "price": 527.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Qatar Airways",
-   "operatedBy": "Sas Link",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "10:15",
-   "depDate": "2026-12-07",
-   "arrAirportName": "Dubai International Airport",
-   "arrTime": "10:25",
-   "arrDate": "2026-12-08",
-   "durationMin": 1270,
-   "layovers": [
-    {
-     "min": 195,
-     "overnight": false,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen"
-    },
-    {
-     "min": 540,
-     "overnight": false,
-     "airport": "Hamad International Airport",
-     "city": "Doha"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 527 euros. 2 stops flight with Scandinavian Airlines and Qatar Airways. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 10:15 AM on Monday, December 7 and arrives at Dubai International Airport at 10:25 AM on Tuesday, December 8. Total duration 21 hr 10 min.  Layover (1 of 2) is a 3 hr 15 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 9 hr layover at Hamad International Airport in Doha. Select flight"
-  },
-  {
-   "price": 532.0,
+   "price": 553.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -143,87 +51,109 @@
    "layovers": [
     {
      "min": 155,
-     "overnight": false,
      "airport": "Bergen Airport",
-     "city": "Bergen"
+     "city": "Bergen",
+     "overnight": false
     },
     {
      "min": 1345,
-     "overnight": false,
      "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
+     "city": "Frankfurt am Main",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 532 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 9:10 AM on Monday, December 7 and arrives at Dubai International Airport at 10:55 PM on Tuesday, December 8. Total duration 34 hr 45 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 22 hr 25 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 634.0,
+   "price": 791.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Dubai International Airport",
+   "arrTime": "00:01",
+   "arrDate": "2026-12-08",
+   "durationMin": 881,
+   "layovers": [
+    {
+     "min": 320,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 818.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
-   "airlines": "Scandinavian Airlines and Qatar Airways",
+   "airlines": "KLM and Air France",
    "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "13:00",
+   "depTime": "17:10",
    "depDate": "2026-12-07",
    "arrAirportName": "Dubai International Airport",
-   "arrTime": "10:25",
+   "arrTime": "09:00",
    "arrDate": "2026-12-08",
-   "durationMin": 1105,
+   "durationMin": 770,
    "layovers": [
     {
-     "min": 65,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "min": 60,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
     },
     {
-     "min": 510,
-     "overnight": false,
-     "airport": "Hamad International Airport",
-     "city": "Doha"
+     "min": 75,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 634 euros. 2 stops flight with Scandinavian Airlines and Qatar Airways. Leaves Trondheim Airport, Værnes at 1:00 PM on Monday, December 7 and arrives at Dubai International Airport at 10:25 AM on Tuesday, December 8. Total duration 18 hr 25 min.  Layover (1 of 2) is a 1 hr 5 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 8 hr 30 min layover at Hamad International Airport in Doha. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 798.0,
+   "price": 896.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
-   "airlines": "Scandinavian Airlines and Qatar Airways",
+   "airlines": "Scandinavian Airlines and Air France",
    "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "13:00",
+   "depTime": "06:25",
    "depDate": "2026-12-07",
    "arrAirportName": "Dubai International Airport",
-   "arrTime": "03:50",
-   "arrDate": "2026-12-08",
-   "durationMin": 710,
+   "arrTime": "23:20",
+   "arrDate": "2026-12-07",
+   "durationMin": 835,
    "layovers": [
     {
-     "min": 65,
-     "overnight": false,
+     "min": 70,
      "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "city": "Oslo",
+     "overnight": false
     },
     {
-     "min": 115,
-     "overnight": false,
-     "airport": "Hamad International Airport",
-     "city": "Doha"
+     "min": 130,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 798 euros. 2 stops flight with Scandinavian Airlines and Qatar Airways. Leaves Trondheim Airport, Værnes at 1:00 PM on Monday, December 7 and arrives at Dubai International Airport at 3:50 AM on Tuesday, December 8. Total duration 11 hr 50 min.  Layover (1 of 2) is a 1 hr 5 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 55 min layover at Hamad International Airport in Doha. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 3062.0,
+   "price": 3121.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -239,26 +169,25 @@
    "layovers": [
     {
      "min": 155,
-     "overnight": false,
      "airport": "Bergen Airport",
-     "city": "Bergen"
+     "city": "Bergen",
+     "overnight": false
     },
     {
      "min": 330,
-     "overnight": false,
      "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
+     "city": "Frankfurt am Main",
+     "overnight": false
     },
     {
      "min": 865,
-     "overnight": false,
      "airport": "Muscat International Airport",
-     "city": "Muscat"
+     "city": "Muscat",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 3062 euros. 3 stops flight with Wideroe, Lufthansa and Oman Air. Leaves Trondheim Airport, Værnes at 9:10 AM on Monday, December 7 and arrives at Dubai International Airport at 9:35 PM on Tuesday, December 8. Total duration 33 hr 25 min.  Layover (1 of 3) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 5 hr 30 min layover at Frankfurt Airport in Frankfurt am Main. Layover (3 of 3) is a 14 hr 25 min layover at Muscat International Airport in Muscat. Select flight"
+   "changeAirport": false
   }
  ]
 }

@@ -1,6 +1,7 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDQkVHcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
    "price": 205.0,
@@ -28,28 +29,28 @@
    "changeAirport": false
   },
   {
-   "price": 250.0,
+   "price": 313.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Lufthansa and Wideroe",
    "operatedBy": null,
    "depAirportName": "Belgrade Nikola Tesla Airport",
-   "depTime": "06:15",
+   "depTime": "13:40",
    "depDate": "2026-12-13",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:45",
-   "arrDate": "2026-12-13",
-   "durationMin": 510,
+   "arrTime": "14:50",
+   "arrDate": "2026-12-14",
+   "durationMin": 1510,
    "layovers": [
     {
-     "min": 115,
+     "min": 320,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
      "overnight": false
     },
     {
-     "min": 85,
+     "min": 885,
      "airport": "Bergen Airport",
      "city": "Bergen",
      "overnight": false
@@ -90,7 +91,7 @@
    "changeAirport": false
   },
   {
-   "price": 466.0,
+   "price": 593.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -121,7 +122,7 @@
    "changeAirport": false
   },
   {
-   "price": 1068.0,
+   "price": 1069.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

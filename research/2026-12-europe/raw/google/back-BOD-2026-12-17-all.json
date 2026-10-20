@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDQk9EcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 260.0,
+   "price": 286.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -21,43 +22,6 @@
      "min": 400,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 479.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 3,
-   "airlines": "Air France, Finnair and Wideroe",
-   "operatedBy": null,
-   "depAirportName": "Bordeaux Aéroport",
-   "depTime": "15:25",
-   "depDate": "2026-12-17",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "12:05",
-   "arrDate": "2026-12-19",
-   "durationMin": 2680,
-   "layovers": [
-    {
-     "min": 130,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
-     "overnight": false
-    },
-    {
-     "min": 735,
-     "airport": "Helsinki Airport",
-     "city": "Helsinki",
-     "overnight": false
-    },
-    {
-     "min": 1400,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo",
      "overnight": false
     }
    ],
@@ -127,30 +91,30 @@
    "changeAirport": false
   },
   {
-   "price": 697.0,
+   "price": 815.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Air France and Scandinavian Airlines",
    "operatedBy": null,
    "depAirportName": "Bordeaux Aéroport",
-   "depTime": "10:10",
+   "depTime": "11:40",
    "depDate": "2026-12-17",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "19:20",
+   "arrTime": "19:15",
    "arrDate": "2026-12-17",
-   "durationMin": 550,
+   "durationMin": 455,
    "layovers": [
     {
-     "min": 70,
+     "min": 45,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
      "overnight": false
     },
     {
-     "min": 180,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen",
+     "min": 125,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
      "overnight": false
     }
    ],
@@ -158,7 +122,44 @@
    "changeAirport": false
   },
   {
-   "price": 286.0,
+   "price": 850.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Air France, Finnair and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Bordeaux Aéroport",
+   "depTime": "15:25",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "12:05",
+   "arrDate": "2026-12-19",
+   "durationMin": 2680,
+   "layovers": [
+    {
+     "min": 130,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    },
+    {
+     "min": 1025,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki",
+     "overnight": false
+    },
+    {
+     "min": 1110,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 322.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,

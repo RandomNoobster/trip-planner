@@ -1,40 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDTkFQcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 235.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "ITA and KLM",
-   "operatedBy": null,
-   "depAirportName": "Naples International Airport",
-   "depTime": "06:30",
-   "depDate": "2026-12-17",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
-   "arrDate": "2026-12-17",
-   "durationMin": 605,
-   "layovers": [
-    {
-     "min": 165,
-     "airport": "Leonardo da Vinci International Airport",
-     "city": "Rome",
-     "overnight": false
-    },
-    {
-     "min": 105,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 276.0,
+   "price": 280.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -71,7 +41,38 @@
    "changeAirport": false
   },
   {
-   "price": 332.0,
+   "price": 310.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "ITA and KLM",
+   "operatedBy": null,
+   "depAirportName": "Naples International Airport",
+   "depTime": "12:20",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-17",
+   "durationMin": 650,
+   "layovers": [
+    {
+     "min": 190,
+     "airport": "Milan Linate Airport",
+     "city": "Milan",
+     "overnight": false
+    },
+    {
+     "min": 140,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 418.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -102,7 +103,7 @@
    "changeAirport": false
   },
   {
-   "price": 417.0,
+   "price": 474.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -133,7 +134,7 @@
    "changeAirport": false
   },
   {
-   "price": 491.0,
+   "price": 559.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -164,28 +165,28 @@
    "changeAirport": false
   },
   {
-   "price": 241.0,
+   "price": 331.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "ITA and KLM",
    "operatedBy": null,
    "depAirportName": "Naples International Airport",
-   "depTime": "08:30",
+   "depTime": "15:00",
    "depDate": "2026-12-17",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
+   "arrTime": "23:10",
    "arrDate": "2026-12-17",
-   "durationMin": 485,
+   "durationMin": 490,
    "layovers": [
     {
-     "min": 60,
-     "airport": "Milan Linate Airport",
-     "city": "Milan",
+     "min": 85,
+     "airport": "Leonardo da Vinci International Airport",
+     "city": "Rome",
      "overnight": false
     },
     {
-     "min": 100,
+     "min": 70,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
      "overnight": false

@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA1RVTkABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 357.0,
+   "price": 400.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -18,13 +19,13 @@
    "durationMin": 1020,
    "layovers": [
     {
-     "min": 225,
+     "min": 555,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
      "overnight": false
     },
     {
-     "min": 430,
+     "min": 100,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
      "overnight": false
@@ -34,7 +35,7 @@
    "changeAirport": false
   },
   {
-   "price": 412.0,
+   "price": 419.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -65,7 +66,7 @@
    "changeAirport": false
   },
   {
-   "price": 473.0,
+   "price": 480.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

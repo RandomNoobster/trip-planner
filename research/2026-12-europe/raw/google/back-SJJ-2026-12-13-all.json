@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDU0pKcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 232.0,
+   "price": 256.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -18,13 +19,13 @@
    "durationMin": 1585,
    "layovers": [
     {
-     "min": 400,
+     "min": 1190,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
      "overnight": false
     },
     {
-     "min": 885,
+     "min": 95,
      "airport": "Bergen Airport",
      "city": "Bergen",
      "overnight": false
@@ -34,7 +35,7 @@
    "changeAirport": false
   },
   {
-   "price": 414.0,
+   "price": 494.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

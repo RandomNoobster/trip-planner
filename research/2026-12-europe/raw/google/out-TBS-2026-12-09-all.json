@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA1RCU0ABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 260.0,
+   "price": 258.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -28,7 +29,7 @@
    "changeAirport": false
   },
   {
-   "price": 436.0,
+   "price": 577.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -58,6 +59,31 @@
      "min": 245,
      "airport": "Munich International Airport",
      "city": "Munich",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 258.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM and Georgian Airways",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Tbilisi International Airport",
+   "arrTime": "17:50",
+   "arrDate": "2026-12-09",
+   "durationMin": 510,
+   "layovers": [
+    {
+     "min": 100,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
      "overnight": false
     }
    ],

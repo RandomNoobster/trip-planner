@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDTFVYcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 104.0,
+   "price": 121.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -28,38 +29,7 @@
    "changeAirport": false
   },
   {
-   "price": 297.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Scandinavian Airlines",
-   "operatedBy": null,
-   "depAirportName": "Luxembourg Airport",
-   "depTime": "06:05",
-   "depDate": "2026-12-13",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:20",
-   "arrDate": "2026-12-13",
-   "durationMin": 495,
-   "layovers": [
-    {
-     "min": 160,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "overnight": false
-    },
-    {
-     "min": 95,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 304.0,
+   "price": 266.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -74,13 +44,13 @@
    "durationMin": 1160,
    "layovers": [
     {
-     "min": 480,
+     "min": 50,
      "airport": "Helsinki Airport",
      "city": "Helsinki",
      "overnight": false
     },
     {
-     "min": 50,
+     "min": 490,
      "airport": "Stockholm Arlanda Airport",
      "city": "Stockholm",
      "overnight": false
@@ -120,6 +90,37 @@
      "min": 80,
      "airport": "Bergen Airport",
      "city": "Bergen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 428.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Luxembourg Airport",
+   "depTime": "14:45",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "22:50",
+   "arrDate": "2026-12-13",
+   "durationMin": 485,
+   "layovers": [
+    {
+     "min": 190,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 55,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
      "overnight": false
     }
    ],

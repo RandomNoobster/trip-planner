@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA0JSSUABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 254.0,
+   "price": 360.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -13,9 +14,9 @@
    "depTime": "06:20",
    "depDate": "2026-12-07",
    "arrAirportName": "Bari International Airport-Karol Wojtyla",
-   "arrTime": "17:30",
+   "arrTime": "18:00",
    "arrDate": "2026-12-07",
-   "durationMin": 670,
+   "durationMin": 700,
    "layovers": [
     {
      "min": 100,
@@ -24,7 +25,7 @@
      "overnight": false
     },
     {
-     "min": 245,
+     "min": 270,
      "airport": "Milan Linate Airport",
      "city": "Milan",
      "overnight": false
@@ -34,7 +35,7 @@
    "changeAirport": false
   },
   {
-   "price": 384.0,
+   "price": 464.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -71,7 +72,7 @@
    "changeAirport": false
   },
   {
-   "price": 311.0,
+   "price": 407.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

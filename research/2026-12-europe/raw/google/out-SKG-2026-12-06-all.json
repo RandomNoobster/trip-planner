@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDZqBRIDVFJEcgUSA1NLR0ABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 649.0,
+   "price": 660.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -12,7 +13,38 @@
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "09:10",
    "depDate": "2026-12-06",
-   "arrAirportName": "Αεροδρόμιο Θεσσαλονίκης «Μακεδονία» (The",
+   "arrAirportName": "Αεροδρόμιο Θεσσαλονίκης «Μακεδονία» (Thessaloniki Airport \"Makedonia\")",
+   "arrTime": "21:00",
+   "arrDate": "2026-12-06",
+   "durationMin": 650,
+   "layovers": [
+    {
+     "min": 155,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    },
+    {
+     "min": 150,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 660.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe, Lufthansa and Aegean",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Αεροδρόμιο Θεσσαλονίκης «Μακεδονία» (Thessaloniki Airport \"Makedonia\")",
    "arrTime": "21:00",
    "arrDate": "2026-12-06",
    "durationMin": 650,

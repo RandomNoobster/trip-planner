@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA0tVTEABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 716.0,
+   "price": 723.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -34,7 +35,7 @@
    "changeAirport": false
   },
   {
-   "price": 808.0,
+   "price": 832.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -65,7 +66,7 @@
    "changeAirport": false
   },
   {
-   "price": 880.0,
+   "price": 860.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -96,7 +97,7 @@
    "changeAirport": false
   },
   {
-   "price": 960.0,
+   "price": 971.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -121,7 +122,7 @@
    "changeAirport": false
   },
   {
-   "price": 982.0,
+   "price": 996.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -158,7 +159,7 @@
    "changeAirport": false
   },
   {
-   "price": 1014.0,
+   "price": 1026.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -182,6 +183,37 @@
      "min": 85,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 860.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Qatar Airways",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "13:05",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Kuala Lumpur International Airport",
+   "arrTime": "14:40",
+   "arrDate": "2026-12-06",
+   "durationMin": 1115,
+   "layovers": [
+    {
+     "min": 60,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    },
+    {
+     "min": 165,
+     "airport": "Hamad International Airport",
+     "city": "Doha",
      "overnight": false
     }
    ],

@@ -1,40 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA0xDQUABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 320.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Austrian",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "05:30",
-   "depDate": "2026-12-07",
-   "arrAirportName": "Larnaka International Airport",
-   "arrTime": "16:30",
-   "arrDate": "2026-12-07",
-   "durationMin": 600,
-   "layovers": [
-    {
-     "min": 155,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen",
-     "overnight": false
-    },
-    {
-     "min": 55,
-     "airport": "Vienna International Airport",
-     "city": "Vienna",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 349.0,
+   "price": 357.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -71,7 +41,38 @@
    "changeAirport": false
   },
   {
-   "price": 848.0,
+   "price": 626.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Austrian",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "05:30",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Larnaka International Airport",
+   "arrTime": "16:30",
+   "arrDate": "2026-12-07",
+   "durationMin": 600,
+   "layovers": [
+    {
+     "min": 155,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
+    },
+    {
+     "min": 55,
+     "airport": "Vienna International Airport",
+     "city": "Vienna",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 1081.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

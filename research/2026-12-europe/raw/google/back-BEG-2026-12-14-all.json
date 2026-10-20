@@ -1,34 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTRqBRIDQkVHcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 205.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": null,
-   "depAirportName": "Belgrade Nikola Tesla Airport",
-   "depTime": "06:05",
-   "depDate": "2026-12-14",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
-   "arrDate": "2026-12-14",
-   "durationMin": 630,
-   "layovers": [
-    {
-     "min": 350,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 223.0,
+   "price": 202.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -52,6 +28,31 @@
      "min": 95,
      "airport": "Bergen Airport",
      "city": "Bergen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 205.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Belgrade Nikola Tesla Airport",
+   "depTime": "06:05",
+   "depDate": "2026-12-14",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-14",
+   "durationMin": 630,
+   "layovers": [
+    {
+     "min": 350,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
      "overnight": false
     }
    ],
@@ -121,7 +122,7 @@
    "changeAirport": false
   },
   {
-   "price": 688.0,
+   "price": 485.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

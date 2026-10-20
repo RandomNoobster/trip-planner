@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA1RVTkABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 274.0,
+   "price": 281.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -34,7 +35,7 @@
    "changeAirport": false
   },
   {
-   "price": 296.0,
+   "price": 326.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -65,28 +66,28 @@
    "changeAirport": false
   },
   {
-   "price": 839.0,
+   "price": 1072.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and Air France",
    "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "05:30",
+   "depTime": "07:00",
    "depDate": "2026-12-05",
    "arrAirportName": "Tunis-Carthage International Airport",
    "arrTime": "16:10",
    "arrDate": "2026-12-05",
-   "durationMin": 640,
+   "durationMin": 550,
    "layovers": [
     {
-     "min": 170,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen",
+     "min": 35,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
      "overnight": false
     },
     {
-     "min": 85,
+     "min": 135,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
      "overnight": false

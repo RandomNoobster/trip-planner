@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA0xKVUABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 215.0,
+   "price": 221.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -34,7 +35,7 @@
    "changeAirport": false
   },
   {
-   "price": 249.0,
+   "price": 252.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -59,7 +60,7 @@
    "changeAirport": false
   },
   {
-   "price": 454.0,
+   "price": 683.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -90,7 +91,7 @@
    "changeAirport": false
   },
   {
-   "price": 525.0,
+   "price": 812.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -114,6 +115,31 @@
      "min": 830,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 252.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Ljubljana Airport",
+   "arrTime": "12:10",
+   "arrDate": "2026-12-05",
+   "durationMin": 350,
+   "layovers": [
+    {
+     "min": 95,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
      "overnight": false
     }
    ],

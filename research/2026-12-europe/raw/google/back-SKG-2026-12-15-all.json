@@ -1,6 +1,7 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTVqBRIDU0tHcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
    "price": 241.0,
@@ -9,7 +10,7 @@
    "stops": 2,
    "airlines": "Aegean and KLM",
    "operatedBy": null,
-   "depAirportName": "Αεροδρόμιο Θεσσαλονίκης «Μακεδονία» (The",
+   "depAirportName": "Αεροδρόμιο Θεσσαλονίκης «Μακεδονία» (Thessaloniki Airport \"Makedonia\")",
    "depTime": "14:40",
    "depDate": "2026-12-15",
    "arrAirportName": "Trondheim Airport, Værnes",
@@ -19,7 +20,7 @@
    "layovers": [
     {
      "min": 110,
-     "airport": "Athens International Airport \"Eleftherio",
+     "airport": "Athens International Airport \"Eleftherios Venizelos\"",
      "city": "Athens",
      "overnight": false
     },
@@ -34,13 +35,13 @@
    "changeAirport": false
   },
   {
-   "price": 322.0,
+   "price": 326.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
    "airlines": "Aegean, Lufthansa and Wideroe",
    "operatedBy": null,
-   "depAirportName": "Αεροδρόμιο Θεσσαλονίκης «Μακεδονία» (The",
+   "depAirportName": "Αεροδρόμιο Θεσσαλονίκης «Μακεδονία» (Thessaloniki Airport \"Makedonia\")",
    "depTime": "18:10",
    "depDate": "2026-12-15",
    "arrAirportName": "Trondheim Airport, Værnes",
@@ -64,6 +65,37 @@
      "min": 95,
      "airport": "Bergen Airport",
      "city": "Bergen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 241.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Aegean and KLM",
+   "operatedBy": null,
+   "depAirportName": "Αεροδρόμιο Θεσσαλονίκης «Μακεδονία» (Thessaloniki Airport \"Makedonia\")",
+   "depTime": "14:40",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-15",
+   "durationMin": 570,
+   "layovers": [
+    {
+     "min": 110,
+     "airport": "Athens International Airport \"Eleftherios Venizelos\"",
+     "city": "Athens",
+     "overnight": false
+    },
+    {
+     "min": 60,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
      "overnight": false
     }
    ],

@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDZqBRIDVFJEcgUSA0xDQUABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 669.0,
+   "price": 721.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -18,13 +19,44 @@
    "durationMin": 1435,
    "layovers": [
     {
-     "min": 760,
+     "min": 705,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
      "overnight": false
     },
     {
-     "min": 195,
+     "min": 240,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 721.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Cyprus Airways",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:15",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Larnaka International Airport",
+   "arrTime": "18:10",
+   "arrDate": "2026-12-07",
+   "durationMin": 1435,
+   "layovers": [
+    {
+     "min": 705,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 240,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
      "overnight": false

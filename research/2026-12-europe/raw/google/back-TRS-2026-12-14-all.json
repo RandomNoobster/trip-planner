@@ -1,6 +1,7 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTRqBRIDVFJTcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
    "price": 145.0,
@@ -13,9 +14,9 @@
    "depTime": "06:35",
    "depDate": "2026-12-14",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
+   "arrTime": "23:10",
    "arrDate": "2026-12-14",
-   "durationMin": 600,
+   "durationMin": 995,
    "layovers": [
     {
      "min": 145,
@@ -24,7 +25,7 @@
      "overnight": false
     },
     {
-     "min": 105,
+     "min": 500,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
      "overnight": false

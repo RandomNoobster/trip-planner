@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA1RSTkABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 164.0,
+   "price": 167.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -28,7 +29,7 @@
    "changeAirport": false
   },
   {
-   "price": 276.0,
+   "price": 330.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -59,7 +60,7 @@
    "changeAirport": false
   },
   {
-   "price": 415.0,
+   "price": 508.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -83,6 +84,31 @@
      "min": 415,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 167.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Torino Airport",
+   "arrTime": "11:05",
+   "arrDate": "2026-12-07",
+   "durationMin": 285,
+   "layovers": [
+    {
+     "min": 45,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
      "overnight": false
     }
    ],

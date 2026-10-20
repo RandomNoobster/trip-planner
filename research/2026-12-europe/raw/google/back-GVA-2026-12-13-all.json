@@ -1,24 +1,25 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDR1ZBcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 156.0,
+   "price": 157.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
    "operatedBy": null,
    "depAirportName": "Geneva Airport",
-   "depTime": "14:35",
+   "depTime": "17:30",
    "depDate": "2026-12-13",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "23:10",
    "arrDate": "2026-12-13",
-   "durationMin": 515,
+   "durationMin": 340,
    "layovers": [
     {
-     "min": 285,
+     "min": 105,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
      "overnight": false
@@ -28,7 +29,38 @@
    "changeAirport": false
   },
   {
-   "price": 284.0,
+   "price": 256.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Geneva Airport",
+   "depTime": "06:50",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:45",
+   "arrDate": "2026-12-13",
+   "durationMin": 475,
+   "layovers": [
+    {
+     "min": 125,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    },
+    {
+     "min": 85,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 309.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -59,38 +91,7 @@
    "changeAirport": false
   },
   {
-   "price": 319.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Air France and Wideroe",
-   "operatedBy": null,
-   "depAirportName": "Geneva Airport",
-   "depTime": "07:20",
-   "depDate": "2026-12-13",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:45",
-   "arrDate": "2026-12-13",
-   "durationMin": 445,
-   "layovers": [
-    {
-     "min": 75,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
-     "overnight": false
-    },
-    {
-     "min": 80,
-     "airport": "Bergen Airport",
-     "city": "Bergen",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 340.0,
+   "price": 341.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -121,24 +122,67 @@
    "changeAirport": false
   },
   {
-   "price": 176.0,
+   "price": 346.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
+   "stops": 3,
+   "airlines": "Finnair and Wideroe",
    "operatedBy": null,
    "depAirportName": "Geneva Airport",
-   "depTime": "11:50",
+   "depTime": "19:05",
    "depDate": "2026-12-13",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
-   "arrDate": "2026-12-13",
-   "durationMin": 285,
+   "arrTime": "14:50",
+   "arrDate": "2026-12-14",
+   "durationMin": 1185,
    "layovers": [
     {
-     "min": 50,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
+     "min": 40,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki",
+     "overnight": false
+    },
+    {
+     "min": 490,
+     "airport": "Stockholm Arlanda Airport",
+     "city": "Stockholm",
+     "overnight": false
+    },
+    {
+     "min": 230,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 440.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air France and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Geneva Airport",
+   "depTime": "07:20",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:45",
+   "arrDate": "2026-12-13",
+   "durationMin": 445,
+   "layovers": [
+    {
+     "min": 75,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    },
+    {
+     "min": 80,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
      "overnight": false
     }
    ],

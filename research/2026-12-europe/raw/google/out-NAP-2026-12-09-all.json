@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA05BUEABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 271.0,
+   "price": 369.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -13,20 +14,20 @@
    "depTime": "06:20",
    "depDate": "2026-12-09",
    "arrAirportName": "Naples International Airport",
-   "arrTime": "14:15",
+   "arrTime": "16:15",
    "arrDate": "2026-12-09",
-   "durationMin": 475,
+   "durationMin": 595,
    "layovers": [
     {
-     "min": 65,
+     "min": 100,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
      "overnight": false
     },
     {
-     "min": 85,
-     "airport": "Leonardo da Vinci International Airport",
-     "city": "Rome",
+     "min": 175,
+     "airport": "Milan Linate Airport",
+     "city": "Milan",
      "overnight": false
     }
    ],
@@ -34,7 +35,7 @@
    "changeAirport": false
   },
   {
-   "price": 435.0,
+   "price": 530.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -55,13 +56,13 @@
      "overnight": false
     },
     {
-     "min": 195,
+     "min": 55,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
      "overnight": false
     },
     {
-     "min": 90,
+     "min": 240,
      "airport": "Leonardo da Vinci International Airport",
      "city": "Rome",
      "overnight": false
@@ -71,38 +72,7 @@
    "changeAirport": false
   },
   {
-   "price": 733.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:25",
-   "depDate": "2026-12-09",
-   "arrAirportName": "Naples International Airport",
-   "arrTime": "15:50",
-   "arrDate": "2026-12-09",
-   "durationMin": 565,
-   "layovers": [
-    {
-     "min": 70,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo",
-     "overnight": false
-    },
-    {
-     "min": 130,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 819.0,
+   "price": 832.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -133,7 +103,38 @@
    "changeAirport": false
   },
   {
-   "price": 941.0,
+   "price": 903.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:25",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Naples International Airport",
+   "arrTime": "15:50",
+   "arrDate": "2026-12-09",
+   "durationMin": 565,
+   "layovers": [
+    {
+     "min": 70,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    },
+    {
+     "min": 130,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 955.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -164,7 +165,7 @@
    "changeAirport": false
   },
   {
-   "price": 1185.0,
+   "price": 1203.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -188,6 +189,37 @@
      "min": 1490,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 438.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and ITA",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Naples International Airport",
+   "arrTime": "14:15",
+   "arrDate": "2026-12-09",
+   "durationMin": 475,
+   "layovers": [
+    {
+     "min": 65,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 80,
+     "airport": "Leonardo da Vinci International Airport",
+     "city": "Rome",
      "overnight": false
     }
    ],

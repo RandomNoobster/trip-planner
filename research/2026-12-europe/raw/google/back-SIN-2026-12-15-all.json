@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTVqBRIDU0lOcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 640.0,
+   "price": 685.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -28,7 +29,7 @@
    "changeAirport": false
   },
   {
-   "price": 668.0,
+   "price": 713.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -59,7 +60,38 @@
    "changeAirport": false
   },
   {
-   "price": 709.0,
+   "price": 742.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Singapore Changi Airport",
+   "depTime": "01:40",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:10",
+   "arrDate": "2026-12-15",
+   "durationMin": 1170,
+   "layovers": [
+    {
+     "min": 80,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 85,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 754.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -90,7 +122,7 @@
    "changeAirport": false
   },
   {
-   "price": 739.0,
+   "price": 815.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -127,7 +159,7 @@
    "changeAirport": false
   },
   {
-   "price": 744.0,
+   "price": 742.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

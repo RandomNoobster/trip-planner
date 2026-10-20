@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDREJWcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 260.0,
+   "price": 364.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -19,7 +20,7 @@
    "layovers": [
     {
      "min": 540,
-     "airport": "Franjo Tuđman International Airport Zagr",
+     "airport": "Franjo Tuđman International Airport Zagreb",
      "city": "Zagreb",
      "overnight": false
     },
@@ -34,44 +35,7 @@
    "changeAirport": false
   },
   {
-   "price": 688.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 3,
-   "airlines": "Croatia, Tap Air Portugal and Scandinavian Airlines",
-   "operatedBy": null,
-   "depAirportName": "Dubrovnik Airport",
-   "depTime": "13:15",
-   "depDate": "2026-12-17",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:10",
-   "arrDate": "2026-12-18",
-   "durationMin": 1495,
-   "layovers": [
-    {
-     "min": 130,
-     "airport": "Leonardo da Vinci International Airport",
-     "city": "Rome",
-     "overnight": false
-    },
-    {
-     "min": 725,
-     "airport": "Humberto Delgado Airport",
-     "city": "Lisbon",
-     "overnight": false
-    },
-    {
-     "min": 60,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 1115.0,
+   "price": 1116.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -87,7 +51,7 @@
    "layovers": [
     {
      "min": 35,
-     "airport": "Franjo Tuđman International Airport Zagr",
+     "airport": "Franjo Tuđman International Airport Zagreb",
      "city": "Zagreb",
      "overnight": false
     },

@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA0ZMUkABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 164.0,
+   "price": 166.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -28,19 +29,19 @@
    "changeAirport": false
   },
   {
-   "price": 234.0,
+   "price": 274.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 2,
+   "stops": 3,
    "airlines": "Wideroe, Lufthansa and Air Dolomiti",
    "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "09:10",
    "depDate": "2026-12-09",
    "arrAirportName": "Amerigo Vespucci Airport",
-   "arrTime": "18:30",
+   "arrTime": "20:15",
    "arrDate": "2026-12-09",
-   "durationMin": 560,
+   "durationMin": 665,
    "layovers": [
     {
      "min": 155,
@@ -49,9 +50,15 @@
      "overnight": false
     },
     {
-     "min": 115,
+     "min": 75,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
+     "overnight": false
+    },
+    {
+     "min": 110,
+     "airport": "Munich International Airport",
+     "city": "Munich",
      "overnight": false
     }
    ],
@@ -59,7 +66,38 @@
    "changeAirport": false
   },
   {
-   "price": 600.0,
+   "price": 536.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "14:45",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Amerigo Vespucci Airport",
+   "arrTime": "22:55",
+   "arrDate": "2026-12-09",
+   "durationMin": 490,
+   "layovers": [
+    {
+     "min": 85,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    },
+    {
+     "min": 65,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 607.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -83,37 +121,6 @@
      "min": 1325,
      "airport": "Humberto Delgado Airport",
      "city": "Lisbon",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 676.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "15:05",
-   "depDate": "2026-12-09",
-   "arrAirportName": "Amerigo Vespucci Airport",
-   "arrTime": "22:55",
-   "arrDate": "2026-12-09",
-   "durationMin": 470,
-   "layovers": [
-    {
-     "min": 75,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen",
-     "overnight": false
-    },
-    {
-     "min": 65,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
      "overnight": false
     }
    ],

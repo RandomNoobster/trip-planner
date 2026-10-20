@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA1NJTkABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 724.0,
+   "price": 734.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -34,7 +35,7 @@
    "changeAirport": false
   },
   {
-   "price": 894.0,
+   "price": 904.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -59,7 +60,7 @@
    "changeAirport": false
   },
   {
-   "price": 921.0,
+   "price": 932.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -90,7 +91,7 @@
    "changeAirport": false
   },
   {
-   "price": 962.0,
+   "price": 973.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -114,6 +115,31 @@
      "min": 65,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 904.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Singapore Changi Airport",
+   "arrTime": "16:15",
+   "arrDate": "2026-12-08",
+   "durationMin": 965,
+   "layovers": [
+    {
+     "min": 70,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
      "overnight": false
     }
    ],

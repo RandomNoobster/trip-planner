@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDQk9EcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 201.0,
+   "price": 222.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -21,37 +22,6 @@
      "min": 395,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 310.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Air France and Wideroe",
-   "operatedBy": null,
-   "depAirportName": "Bordeaux Aéroport",
-   "depTime": "06:05",
-   "depDate": "2026-12-13",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:45",
-   "arrDate": "2026-12-13",
-   "durationMin": 520,
-   "layovers": [
-    {
-     "min": 145,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
-     "overnight": false
-    },
-    {
-     "min": 80,
-     "airport": "Bergen Airport",
-     "city": "Bergen",
      "overnight": false
     }
    ],
@@ -90,6 +60,37 @@
    "changeAirport": false
   },
   {
+   "price": 423.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air France and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Bordeaux Aéroport",
+   "depTime": "06:05",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:45",
+   "arrDate": "2026-12-13",
+   "durationMin": 520,
+   "layovers": [
+    {
+     "min": 145,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    },
+    {
+     "min": 80,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
    "price": 691.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
@@ -97,15 +98,15 @@
    "airlines": "Air France and Scandinavian Airlines",
    "operatedBy": null,
    "depAirportName": "Bordeaux Aéroport",
-   "depTime": "11:25",
+   "depTime": "10:10",
    "depDate": "2026-12-13",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "18:15",
    "arrDate": "2026-12-13",
-   "durationMin": 410,
+   "durationMin": 485,
    "layovers": [
     {
-     "min": 60,
+     "min": 135,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
      "overnight": false

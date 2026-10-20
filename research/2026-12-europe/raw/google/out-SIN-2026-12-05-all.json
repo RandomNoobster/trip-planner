@@ -1,43 +1,41 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA1NJTkABSAGYAQI",
- "fetchedAt": "2026-10-12T13:13:02",
- "priceUnavailable": 0,
- "via": "html",
+ "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 494.0,
+   "price": 614.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
-   "airlines": "Wideroe and Lufthansa",
+   "airlines": "Scandinavian Airlines and Etihad",
    "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "13:05",
+   "depTime": "05:30",
    "depDate": "2026-12-05",
    "arrAirportName": "Singapore Changi Airport",
-   "arrTime": "17:05",
+   "arrTime": "09:35",
    "arrDate": "2026-12-06",
-   "durationMin": 1260,
+   "durationMin": 1265,
    "layovers": [
     {
-     "min": 150,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "min": 180,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
     },
     {
-     "min": 170,
-     "overnight": false,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
+     "min": 155,
+     "airport": "Zayed International Airport",
+     "city": "Abu Dhabi",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 494 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Singapore Changi Airport at 5:05 PM on Sunday, December 6. Total duration 21 hr.  Layover (1 of 2) is a 2 hr 30 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 50 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 624.0,
+   "price": 633.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -53,23 +51,22 @@
    "layovers": [
     {
      "min": 185,
-     "overnight": false,
      "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "city": "Oslo",
+     "overnight": false
     },
     {
      "min": 50,
-     "overnight": false,
      "airport": "Helsinki Airport",
-     "city": "Helsinki"
+     "city": "Helsinki",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 624 euros. 2 stops flight with Wideroe and Finnair. Leaves Trondheim Airport, Værnes at 4:45 PM on Saturday, December 5 and arrives at Singapore Changi Airport at 6:40 PM on Sunday, December 6. Total duration 18 hr 55 min.  Layover (1 of 2) is a 3 hr 5 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 50 min layover at Helsinki Airport in Helsinki. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 772.0,
+   "price": 797.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -85,52 +82,81 @@
    "layovers": [
     {
      "min": 40,
-     "overnight": false,
      "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "city": "Oslo",
+     "overnight": false
     },
     {
      "min": 90,
-     "overnight": false,
      "airport": "Munich International Airport",
-     "city": "Munich"
+     "city": "Munich",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 772 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 4:45 PM on Saturday, December 5 and arrives at Singapore Changi Airport at 5:25 PM on Sunday, December 6. Total duration 17 hr 40 min.  Layover (1 of 2) is a 40 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 30 min layover at Munich International Airport in Munich. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 2158.0,
+   "price": 932.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
-   "airlines": "Wideroe, Lufthansa and Singapore Airlines",
+   "airlines": "KLM and Air France",
    "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "13:05",
+   "depTime": "06:20",
    "depDate": "2026-12-05",
    "arrAirportName": "Singapore Changi Airport",
-   "arrTime": "17:20",
+   "arrTime": "09:00",
    "arrDate": "2026-12-06",
-   "durationMin": 1275,
+   "durationMin": 1180,
    "layovers": [
     {
-     "min": 150,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "min": 105,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
     },
     {
-     "min": 170,
-     "overnight": false,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
+     "min": 90,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 2158 euros. 2 stops flight with Wideroe, Lufthansa and Singapore Airlines. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Singapore Changi Airport at 5:20 PM on Sunday, December 6. Total duration 21 hr 15 min.  Layover (1 of 2) is a 2 hr 30 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 50 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+   "changeAirport": false
+  },
+  {
+   "price": 973.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "05:30",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Singapore Changi Airport",
+   "arrTime": "09:00",
+   "arrDate": "2026-12-06",
+   "durationMin": 1230,
+   "layovers": [
+    {
+     "min": 170,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
+    },
+    {
+     "min": 70,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
   }
  ]
 }

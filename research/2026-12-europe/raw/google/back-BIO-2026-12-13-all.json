@@ -1,6 +1,7 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDQklPcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
    "price": 222.0,
@@ -28,30 +29,30 @@
    "changeAirport": false
   },
   {
-   "price": 305.0,
+   "price": 231.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
-   "airlines": "Air France and KLM",
+   "airlines": "Lufthansa and Wideroe",
    "operatedBy": null,
    "depAirportName": "Bilbao Airport",
-   "depTime": "07:10",
+   "depTime": "06:45",
    "depDate": "2026-12-13",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
+   "arrTime": "14:45",
    "arrDate": "2026-12-13",
-   "durationMin": 565,
+   "durationMin": 480,
    "layovers": [
     {
-     "min": 165,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
+     "min": 80,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
      "overnight": false
     },
     {
-     "min": 75,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
+     "min": 85,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
      "overnight": false
     }
    ],
@@ -81,37 +82,6 @@
     },
     {
      "min": 80,
-     "airport": "Bergen Airport",
-     "city": "Bergen",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 334.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Lufthansa and Wideroe",
-   "operatedBy": null,
-   "depAirportName": "Bilbao Airport",
-   "depTime": "06:45",
-   "depDate": "2026-12-13",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:45",
-   "arrDate": "2026-12-13",
-   "durationMin": 480,
-   "layovers": [
-    {
-     "min": 80,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main",
-     "overnight": false
-    },
-    {
-     "min": 85,
      "airport": "Bergen Airport",
      "city": "Bergen",
      "overnight": false
@@ -152,7 +122,7 @@
    "changeAirport": false
   },
   {
-   "price": 404.0,
+   "price": 395.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -205,6 +175,31 @@
     },
     {
      "min": 60,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 222.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Bilbao Airport",
+   "depTime": "17:20",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-13",
+   "durationMin": 350,
+   "layovers": [
+    {
+     "min": 90,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
      "overnight": false

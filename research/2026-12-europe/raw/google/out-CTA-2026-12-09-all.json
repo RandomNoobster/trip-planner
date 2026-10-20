@@ -1,40 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA0NUQUABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 404.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and ITA",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-09",
-   "arrAirportName": "Vincenzo Bellini Catania Airport",
-   "arrTime": "14:40",
-   "arrDate": "2026-12-09",
-   "durationMin": 500,
-   "layovers": [
-    {
-     "min": 65,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "overnight": false
-    },
-    {
-     "min": 85,
-     "airport": "Leonardo da Vinci International Airport",
-     "city": "Rome",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 680.0,
+   "price": 406.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -44,9 +14,9 @@
    "depTime": "09:10",
    "depDate": "2026-12-09",
    "arrAirportName": "Vincenzo Bellini Catania Airport",
-   "arrTime": "23:20",
+   "arrTime": "23:15",
    "arrDate": "2026-12-09",
-   "durationMin": 850,
+   "durationMin": 845,
    "layovers": [
     {
      "min": 155,
@@ -55,15 +25,46 @@
      "overnight": false
     },
     {
-     "min": 195,
+     "min": 55,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
      "overnight": false
     },
     {
-     "min": 105,
+     "min": 250,
      "airport": "Leonardo da Vinci International Airport",
      "city": "Rome",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 622.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and ITA",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Vincenzo Bellini Catania Airport",
+   "arrTime": "17:05",
+   "arrDate": "2026-12-09",
+   "durationMin": 645,
+   "layovers": [
+    {
+     "min": 100,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 195,
+     "airport": "Milan Linate Airport",
+     "city": "Milan",
      "overnight": false
     }
    ],

@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTZqBRIDTEpVcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 152.0,
+   "price": 171.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -28,28 +29,28 @@
    "changeAirport": false
   },
   {
-   "price": 210.0,
+   "price": 247.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Lufthansa and Wideroe",
    "operatedBy": null,
    "depAirportName": "Ljubljana Airport",
-   "depTime": "10:45",
+   "depTime": "06:40",
    "depDate": "2026-12-16",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "14:50",
-   "arrDate": "2026-12-17",
-   "durationMin": 1685,
+   "arrDate": "2026-12-16",
+   "durationMin": 490,
    "layovers": [
     {
-     "min": 530,
+     "min": 125,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
      "overnight": false
     },
     {
-     "min": 885,
+     "min": 95,
      "airport": "Bergen Airport",
      "city": "Bergen",
      "overnight": false
@@ -59,7 +60,7 @@
    "changeAirport": false
   },
   {
-   "price": 255.0,
+   "price": 332.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

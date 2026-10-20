@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA0JMUUABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 255.0,
+   "price": 313.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -28,19 +29,19 @@
    "changeAirport": false
   },
   {
-   "price": 313.0,
+   "price": 417.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 3,
+   "stops": 2,
    "airlines": "Wideroe, Lufthansa and Air Dolomiti",
    "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "09:10",
    "depDate": "2026-12-09",
    "arrAirportName": "Bologna Guglielmo Marconi Airport",
-   "arrTime": "23:05",
+   "arrTime": "23:10",
    "arrDate": "2026-12-09",
-   "durationMin": 835,
+   "durationMin": 840,
    "layovers": [
     {
      "min": 155,
@@ -49,15 +50,9 @@
      "overnight": false
     },
     {
-     "min": 75,
+     "min": 405,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
-     "overnight": false
-    },
-    {
-     "min": 290,
-     "airport": "Munich International Airport",
-     "city": "Munich",
      "overnight": false
     }
    ],
@@ -65,7 +60,7 @@
    "changeAirport": false
   },
   {
-   "price": 785.0,
+   "price": 796.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

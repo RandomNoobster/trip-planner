@@ -1,10 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA1JFS0ABSAGYAQI",
- "fetchedAt": "2026-10-11T11:29:58",
- "priceUnavailable": 6,
+ "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 256.0,
+   "price": 260.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -20,112 +20,27 @@
    "layovers": [
     {
      "min": 405,
-     "overnight": false,
      "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "city": "Oslo",
+     "overnight": false
     },
     {
      "min": 485,
-     "overnight": false,
      "airport": "Helsinki Airport",
-     "city": "Helsinki"
+     "city": "Helsinki",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 256 euros. 2 stops flight with Wideroe and Finnair. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Keflavík International Airport at 9:15 AM on Sunday, December 6. Total duration 21 hr 10 min.  Layover (1 of 2) is a 6 hr 45 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 8 hr 5 min layover at Helsinki Airport in Helsinki. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 351.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM and Transavia",
-   "operatedBy": "KLM Cityhopper",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Keflavík International Airport",
-   "arrTime": "13:45",
-   "arrDate": "2026-12-05",
-   "durationMin": 505,
-   "layovers": [
-    {
-     "min": 160,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 351 euros. 1 stop flight with KLM and Transavia. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Keflavík International Airport at 1:45 PM on Saturday, December 5. Total duration 8 hr 25 min.  Layover (1 of 1) is a 2 hr 40 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 406.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM and Icelandair",
-   "operatedBy": "KLM Cityhopper",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Keflavík International Airport",
-   "arrTime": "15:20",
-   "arrDate": "2026-12-05",
-   "durationMin": 600,
-   "layovers": [
-    {
-     "min": 255,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 406 euros. 1 stop flight with KLM and Icelandair. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Keflavík International Airport at 3:20 PM on Saturday, December 5. Total duration 10 hr.  Layover (1 of 1) is a 4 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 300.0,
+   "price": 398.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
-   "airlines": "Wideroe and Finnair",
+   "airlines": "KLM and Icelandair",
    "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "16:45",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Keflavík International Airport",
-   "arrTime": "09:15",
-   "arrDate": "2026-12-06",
-   "durationMin": 1050,
-   "layovers": [
-    {
-     "min": 185,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    },
-    {
-     "min": 485,
-     "overnight": false,
-     "airport": "Helsinki Airport",
-     "city": "Helsinki"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 300 euros. 2 stops flight with Wideroe and Finnair. Leaves Trondheim Airport, Værnes at 4:45 PM on Saturday, December 5 and arrives at Keflavík International Airport at 9:15 AM on Sunday, December 6. Total duration 17 hr 30 min.  Layover (1 of 2) is a 3 hr 5 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 8 hr 5 min layover at Helsinki Airport in Helsinki. Select flight"
-  },
-  {
-   "price": 393.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Icelandair",
-   "operatedBy": "KLM Cityhopper",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-05",
@@ -136,87 +51,22 @@
    "layovers": [
     {
      "min": 320,
-     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
+     "city": "Amsterdam",
+     "overnight": false
     },
     {
      "min": 370,
-     "overnight": false,
      "airport": "Heathrow Airport",
-     "city": "London"
+     "city": "London",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 393 euros. 2 stops flight with KLM and Icelandair. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Keflavík International Airport at 11:50 PM on Saturday, December 5. Total duration 18 hr 30 min.  Layover (1 of 2) is a 5 hr 20 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 6 hr 10 min layover at Heathrow Airport in London. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 393.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Icelandair",
-   "operatedBy": "KLM Cityhopper",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Keflavík International Airport",
-   "arrTime": "23:50",
-   "arrDate": "2026-12-05",
-   "durationMin": 1110,
-   "layovers": [
-    {
-     "min": 185,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    },
-    {
-     "min": 510,
-     "overnight": false,
-     "airport": "Heathrow Airport",
-     "city": "London"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 393 euros. 2 stops flight with KLM and Icelandair. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Keflavík International Airport at 11:50 PM on Saturday, December 5. Total duration 18 hr 30 min.  Layover (1 of 2) is a 3 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 8 hr 30 min layover at Heathrow Airport in London. Select flight"
-  },
-  {
-   "price": 393.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Icelandair",
-   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Keflavík International Airport",
-   "arrTime": "23:50",
-   "arrDate": "2026-12-05",
-   "durationMin": 1110,
-   "layovers": [
-    {
-     "min": 485,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    },
-    {
-     "min": 215,
-     "overnight": false,
-     "airport": "Heathrow Airport",
-     "city": "London"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 393 euros. 2 stops flight with KLM and Icelandair. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Keflavík International Airport at 11:50 PM on Saturday, December 5. Total duration 18 hr 30 min.  Layover (1 of 2) is a 8 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 3 hr 35 min layover at Heathrow Airport in London. Select flight"
-  },
-  {
-   "price": 474.0,
+   "price": 432.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -232,28 +82,27 @@
    "layovers": [
     {
      "min": 150,
-     "overnight": false,
      "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "city": "Oslo",
+     "overnight": false
     },
     {
      "min": 1005,
-     "overnight": false,
      "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
+     "city": "Frankfurt am Main",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 474 euros. 2 stops flight with Wideroe, Lufthansa and Discover Airlines. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Keflavík International Airport at 2:25 PM on Sunday, December 6. Total duration 26 hr 20 min.  Layover (1 of 2) is a 2 hr 30 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 16 hr 45 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 576.0,
+   "price": 507.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines, KLM and Icelandair",
-   "operatedBy": "Sas Link for Scandinavian Airlines, KLM Cityhopper",
+   "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "07:00",
    "depDate": "2026-12-05",
@@ -264,84 +113,44 @@
    "layovers": [
     {
      "min": 85,
-     "overnight": false,
      "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "city": "Oslo",
+     "overnight": false
     },
     {
      "min": 85,
-     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
+     "city": "Amsterdam",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 576 euros. 2 stops flight with Scandinavian Airlines, KLM and Icelandair. Operated by Sas Link for Scandinavian Airlines, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 7:00 AM on Saturday, December 5 and arrives at Keflavík International Airport at 3:20 PM on Saturday, December 5. Total duration 9 hr 20 min.  Layover (1 of 2) is a 1 hr 25 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 596.0,
+   "price": 585.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines, Tap Air Portugal and Icelandair",
-   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "stops": 1,
+   "airlines": "KLM and Transavia",
+   "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "16:40",
+   "depTime": "06:20",
    "depDate": "2026-12-05",
    "arrAirportName": "Keflavík International Airport",
-   "arrTime": "18:30",
-   "arrDate": "2026-12-06",
-   "durationMin": 1610,
+   "arrTime": "13:45",
+   "arrDate": "2026-12-05",
+   "durationMin": 505,
    "layovers": [
     {
-     "min": 65,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    },
-    {
-     "min": 960,
-     "overnight": false,
-     "airport": "Humberto Delgado Airport",
-     "city": "Lisbon"
+     "min": 160,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 596 euros. 2 stops flight with Scandinavian Airlines, Tap Air Portugal and Icelandair. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 4:40 PM on Saturday, December 5 and arrives at Keflavík International Airport at 6:30 PM on Sunday, December 6. Total duration 26 hr 50 min.  Layover (1 of 2) is a 1 hr 5 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 16 hr layover at Humberto Delgado Airport in Lisbon. Select flight"
-  },
-  {
-   "price": 628.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Wideroe, Finnair and Icelandair",
-   "operatedBy": "Nordic Reg for Finnair",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "14:50",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Keflavík International Airport",
-   "arrTime": "15:15",
-   "arrDate": "2026-12-06",
-   "durationMin": 1525,
-   "layovers": [
-    {
-     "min": 175,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen"
-    },
-    {
-     "min": 965,
-     "overnight": false,
-     "airport": "Stockholm Arlanda Airport",
-     "city": "Stockholm"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 628 euros. 2 stops flight with Wideroe, Finnair and Icelandair. Operated by Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 2:50 PM on Saturday, December 5 and arrives at Keflavík International Airport at 3:15 PM on Sunday, December 6. Total duration 25 hr 25 min.  Layover (1 of 2) is a 2 hr 55 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 16 hr 5 min layover at Stockholm Arlanda Airport in Stockholm. Select flight"
+   "changeAirport": false
   }
  ]
 }

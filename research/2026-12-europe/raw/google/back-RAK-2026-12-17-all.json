@@ -1,16 +1,15 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDUkFLcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-12T13:11:23",
- "priceUnavailable": 0,
- "via": "html",
+ "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 152.0,
+   "price": 127.0,
    "roundTripTotal": false,
    "noOverheadBin": true,
    "stops": 1,
    "airlines": "Norwegian",
-   "operatedBy": "Norwegian",
+   "operatedBy": null,
    "depAirportName": "Marrakesh Menara Airport",
    "depTime": "13:50",
    "depDate": "2026-12-17",
@@ -21,49 +20,47 @@
    "layovers": [
     {
      "min": 130,
-     "overnight": false,
      "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "city": "Oslo",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 152 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Marrakesh Menara Airport at 1:50 PM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 11:00 PM on Thursday, December 17. Total duration 8 hr 10 min.  Layover (1 of 1) is a 2 hr 10 min layover at Oslo lufthavn in Oslo. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 176.0,
+   "price": 228.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Air France and KLM",
-   "operatedBy": "KLM Cityhopper",
+   "operatedBy": null,
    "depAirportName": "Marrakesh Menara Airport",
    "depTime": "05:05",
    "depDate": "2026-12-17",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
+   "arrTime": "23:10",
    "arrDate": "2026-12-17",
-   "durationMin": 630,
+   "durationMin": 1025,
    "layovers": [
     {
      "min": 125,
-     "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
+     "city": "Paris",
+     "overnight": false
     },
     {
-     "min": 75,
-     "overnight": false,
+     "min": 470,
      "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
+     "city": "Amsterdam",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 176 euros. 2 stops flight with Air France and KLM. Operated by KLM Cityhopper. Leaves Marrakesh Menara Airport at 5:05 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 4:35 PM on Thursday, December 17. Total duration 10 hr 30 min.  Layover (1 of 2) is a 2 hr 5 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 1 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 287.0,
+   "price": 318.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -73,29 +70,28 @@
    "depTime": "05:05",
    "depDate": "2026-12-17",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "09:05",
+   "arrTime": "09:40",
    "arrDate": "2026-12-18",
-   "durationMin": 1620,
+   "durationMin": 1655,
    "layovers": [
     {
-     "min": 675,
-     "overnight": false,
+     "min": 685,
      "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
+     "city": "Paris",
+     "overnight": false
     },
     {
-     "min": 520,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "min": 540,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 287 euros. 2 stops flight with Air France and Scandinavian Airlines. Leaves Marrakesh Menara Airport at 5:05 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 9:05 AM on Friday, December 18. Total duration 27 hr.  Layover (1 of 2) is a 11 hr 15 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 8 hr 40 min layover at Oslo lufthavn in Oslo. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 293.0,
+   "price": 328.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -111,84 +107,44 @@
    "layovers": [
     {
      "min": 1190,
-     "overnight": false,
      "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
+     "city": "Frankfurt am Main",
+     "overnight": false
     },
     {
      "min": 1055,
-     "overnight": false,
      "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "city": "Oslo",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 293 euros. 2 stops flight with Discover Airlines, Lufthansa and Wideroe. Leaves Marrakesh Menara Airport at 2:45 PM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 12:05 PM on Saturday, December 19. Total duration 44 hr 20 min.  Layover (1 of 2) is a 19 hr 50 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 17 hr 35 min layover at Oslo lufthavn in Oslo. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 367.0,
+   "price": 127.0,
    "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Discover Airlines, Lufthansa and Wideroe",
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
    "operatedBy": null,
    "depAirportName": "Marrakesh Menara Airport",
-   "depTime": "14:45",
+   "depTime": "13:50",
    "depDate": "2026-12-17",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-18",
-   "durationMin": 1385,
-   "layovers": [
-    {
-     "min": 870,
-     "overnight": false,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
-    },
-    {
-     "min": 95,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 367 euros. 2 stops flight with Discover Airlines, Lufthansa and Wideroe. Leaves Marrakesh Menara Airport at 2:45 PM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 2:50 PM on Friday, December 18. Total duration 23 hr 5 min.  Layover (1 of 2) is a 14 hr 30 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
-  },
-  {
-   "price": 422.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Air France and Scandinavian Airlines",
-   "operatedBy": null,
-   "depAirportName": "Marrakesh Menara Airport",
-   "depTime": "05:05",
-   "depDate": "2026-12-17",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "19:15",
+   "arrTime": "23:00",
    "arrDate": "2026-12-17",
-   "durationMin": 790,
+   "durationMin": 490,
    "layovers": [
     {
-     "min": 255,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    },
-    {
-     "min": 125,
-     "overnight": false,
+     "min": 130,
      "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "city": "Oslo",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 422 euros. 2 stops flight with Air France and Scandinavian Airlines. Leaves Marrakesh Menara Airport at 5:05 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 7:15 PM on Thursday, December 17. Total duration 13 hr 10 min.  Layover (1 of 2) is a 4 hr 15 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 2 hr 5 min layover at Oslo lufthavn in Oslo. Select flight"
+   "changeAirport": false
   }
  ]
 }

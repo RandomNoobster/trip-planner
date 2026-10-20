@@ -1,15 +1,15 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA0lTVEABSAGYAQI",
- "fetchedAt": "2026-10-11T11:27:56",
- "priceUnavailable": 6,
+ "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 161.0,
+   "price": 163.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
+   "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-05",
@@ -20,17 +20,16 @@
    "layovers": [
     {
      "min": 175,
-     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
+     "city": "Amsterdam",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 161 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Istanbul Airport at 4:55 PM on Saturday, December 5. Total duration 8 hr 35 min.  Layover (1 of 1) is a 2 hr 55 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 413.0,
+   "price": 421.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -46,124 +45,89 @@
    "layovers": [
     {
      "min": 160,
-     "overnight": false,
      "airport": "Bergen Airport",
-     "city": "Bergen"
+     "city": "Bergen",
+     "overnight": false
     },
     {
      "min": 155,
-     "overnight": false,
      "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
+     "city": "Frankfurt am Main",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 413 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 9:10 AM on Saturday, December 5 and arrives at Istanbul Airport at 10:45 PM on Saturday, December 5. Total duration 11 hr 35 min.  Layover (1 of 2) is a 2 hr 40 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 2 hr 35 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 470.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Wideroe, Finnair and Turkish Airlines",
-   "operatedBy": "Nordic Reg for Finnair",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "13:05",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Istanbul Airport",
-   "arrTime": "17:05",
-   "arrDate": "2026-12-06",
-   "durationMin": 1560,
-   "layovers": [
-    {
-     "min": 195,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    },
-    {
-     "min": 990,
-     "overnight": false,
-     "airport": "Helsinki Airport",
-     "city": "Helsinki"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 470 euros. 2 stops flight with Wideroe, Finnair and Turkish Airlines. Operated by Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Istanbul Airport at 5:05 PM on Sunday, December 6. Total duration 26 hr.  Layover (1 of 2) is a 3 hr 15 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 16 hr 30 min layover at Helsinki Airport in Helsinki. Select flight"
-  },
-  {
-   "price": 583.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Wideroe, Finnair and Turkish Airlines",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "16:45",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Istanbul Airport",
-   "arrTime": "17:05",
-   "arrDate": "2026-12-06",
-   "durationMin": 1340,
-   "layovers": [
-    {
-     "min": 185,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    },
-    {
-     "min": 780,
-     "overnight": false,
-     "airport": "Helsinki Airport",
-     "city": "Helsinki"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 583 euros. 2 stops flight with Wideroe, Finnair and Turkish Airlines. Leaves Trondheim Airport, Værnes at 4:45 PM on Saturday, December 5 and arrives at Istanbul Airport at 5:05 PM on Sunday, December 6. Total duration 22 hr 20 min.  Layover (1 of 2) is a 3 hr 5 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 13 hr layover at Helsinki Airport in Helsinki. Select flight"
-  },
-  {
-   "price": 591.0,
+   "price": 539.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": "Sas Link, Sas Link",
+   "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "05:30",
+   "depTime": "16:40",
    "depDate": "2026-12-05",
    "arrAirportName": "Istanbul Airport",
    "arrTime": "17:55",
-   "arrDate": "2026-12-05",
-   "durationMin": 625,
+   "arrDate": "2026-12-06",
+   "durationMin": 1395,
+   "layovers": [
+    {
+     "min": 755,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    },
+    {
+     "min": 200,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 687.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines, Tap Air Portugal and Turkish Airlines",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "16:40",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Istanbul Airport",
+   "arrTime": "13:45",
+   "arrDate": "2026-12-06",
+   "durationMin": 1145,
    "layovers": [
     {
      "min": 65,
-     "overnight": false,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen"
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
     },
     {
-     "min": 120,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
+     "min": 475,
+     "airport": "Humberto Delgado Airport",
+     "city": "Lisbon",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 591 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link, Sas Link. Leaves Trondheim Airport, Værnes at 5:30 AM on Saturday, December 5 and arrives at Istanbul Airport at 5:55 PM on Saturday, December 5. Total duration 10 hr 25 min.  Layover (1 of 2) is a 1 hr 5 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 2 hr layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 2258.0,
+   "price": 2291.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "KLM and Aegean",
-   "operatedBy": "KLM Cityhopper",
+   "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-05",
@@ -174,20 +138,44 @@
    "layovers": [
     {
      "min": 220,
-     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
+     "city": "Amsterdam",
+     "overnight": false
     },
     {
      "min": 120,
-     "overnight": false,
      "airport": "Athens International Airport \"Eleftherios Venizelos\"",
-     "city": "Athens"
+     "city": "Athens",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 2258 euros. 2 stops flight with KLM and Aegean. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Istanbul Airport at 9:00 PM on Saturday, December 5. Total duration 12 hr 40 min.  Layover (1 of 2) is a 3 hr 40 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 2 hr layover at Athens International Airport \"Eleftherios Venizelos\" in Athens. Select flight"
+   "changeAirport": false
+  },
+  {
+   "price": 163.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Istanbul Airport",
+   "arrTime": "16:55",
+   "arrDate": "2026-12-05",
+   "durationMin": 515,
+   "layovers": [
+    {
+     "min": 175,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
   }
  ]
 }

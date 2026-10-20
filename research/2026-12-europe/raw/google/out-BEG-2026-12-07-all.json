@@ -1,24 +1,25 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA0JFR0ABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 235.0,
+   "price": 238.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
    "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "17:10",
+   "depTime": "06:20",
    "depDate": "2026-12-07",
    "arrAirportName": "Belgrade Nikola Tesla Airport",
-   "arrTime": "23:25",
+   "arrTime": "11:55",
    "arrDate": "2026-12-07",
-   "durationMin": 375,
+   "durationMin": 335,
    "layovers": [
     {
-     "min": 100,
+     "min": 60,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
      "overnight": false
@@ -28,7 +29,38 @@
    "changeAirport": false
   },
   {
-   "price": 317.0,
+   "price": 258.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and KLM",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "14:45",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Belgrade Nikola Tesla Airport",
+   "arrTime": "23:25",
+   "arrDate": "2026-12-07",
+   "durationMin": 520,
+   "layovers": [
+    {
+     "min": 80,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    },
+    {
+     "min": 140,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 323.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -59,7 +91,7 @@
    "changeAirport": false
   },
   {
-   "price": 485.0,
+   "price": 492.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -90,7 +122,7 @@
    "changeAirport": false
   },
   {
-   "price": 890.0,
+   "price": 1030.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -121,7 +153,7 @@
    "changeAirport": false
   },
   {
-   "price": 253.0,
+   "price": 238.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,

@@ -1,6 +1,7 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDQlJJcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
    "price": 198.0,
@@ -35,15 +36,15 @@
    "airlines": "ITA and KLM",
    "operatedBy": null,
    "depAirportName": "Bari International Airport-Karol Wojtyla",
-   "depTime": "11:50",
+   "depTime": "11:30",
    "depDate": "2026-12-13",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "23:10",
    "arrDate": "2026-12-13",
-   "durationMin": 680,
+   "durationMin": 700,
    "layovers": [
     {
-     "min": 210,
+     "min": 230,
      "airport": "Milan Linate Airport",
      "city": "Milan",
      "overnight": false
@@ -59,7 +60,7 @@
    "changeAirport": false
   },
   {
-   "price": 269.0,
+   "price": 273.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -89,31 +90,6 @@
      "min": 95,
      "airport": "Bergen Airport",
      "city": "Bergen",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 224.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "Transavia and KLM",
-   "operatedBy": null,
-   "depAirportName": "Bari International Airport-Karol Wojtyla",
-   "depTime": "08:45",
-   "depDate": "2026-12-13",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
-   "arrDate": "2026-12-13",
-   "durationMin": 470,
-   "layovers": [
-    {
-     "min": 170,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
      "overnight": false
     }
    ],

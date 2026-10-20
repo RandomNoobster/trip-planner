@@ -1,40 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA1BNT0ABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 229.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and ITA",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-09",
-   "arrAirportName": "Palermo Airport",
-   "arrTime": "23:10",
-   "arrDate": "2026-12-09",
-   "durationMin": 1010,
-   "layovers": [
-    {
-     "min": 515,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "overnight": false
-    },
-    {
-     "min": 150,
-     "airport": "Leonardo da Vinci International Airport",
-     "city": "Rome",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 284.0,
+   "price": 291.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -44,9 +14,9 @@
    "depTime": "09:10",
    "depDate": "2026-12-09",
    "arrAirportName": "Palermo Airport",
-   "arrTime": "19:45",
+   "arrTime": "19:50",
    "arrDate": "2026-12-09",
-   "durationMin": 635,
+   "durationMin": 640,
    "layovers": [
     {
      "min": 155,
@@ -61,9 +31,40 @@
      "overnight": false
     },
     {
-     "min": 55,
+     "min": 60,
      "airport": "Leonardo da Vinci International Airport",
      "city": "Rome",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 428.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and ITA",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Palermo Airport",
+   "arrTime": "18:15",
+   "arrDate": "2026-12-09",
+   "durationMin": 715,
+   "layovers": [
+    {
+     "min": 100,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 275,
+     "airport": "Milan Linate Airport",
+     "city": "Milan",
      "overnight": false
     }
    ],

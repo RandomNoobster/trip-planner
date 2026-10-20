@@ -1,15 +1,16 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDSEVScgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 328.0,
+   "price": 394.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Aegean and KLM",
    "operatedBy": null,
-   "depAirportName": "Heraklion International Airport N. Kazan",
+   "depAirportName": "Heraklion International Airport N. Kazantzakis",
    "depTime": "15:00",
    "depDate": "2026-12-17",
    "arrAirportName": "Trondheim Airport, Værnes",
@@ -19,7 +20,38 @@
    "layovers": [
     {
      "min": 95,
-     "airport": "Athens International Airport \"Eleftherio",
+     "airport": "Athens International Airport \"Eleftherios Venizelos\"",
+     "city": "Athens",
+     "overnight": false
+    },
+    {
+     "min": 60,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 394.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Aegean and KLM",
+   "operatedBy": null,
+   "depAirportName": "Heraklion International Airport N. Kazantzakis",
+   "depTime": "15:00",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-17",
+   "durationMin": 550,
+   "layovers": [
+    {
+     "min": 95,
+     "airport": "Athens International Airport \"Eleftherios Venizelos\"",
      "city": "Athens",
      "overnight": false
     },

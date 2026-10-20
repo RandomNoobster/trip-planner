@@ -1,16 +1,15 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA1RZT0ABSAGYAQI",
- "fetchedAt": "2026-10-12T13:13:21",
- "priceUnavailable": 6,
- "via": "html",
+ "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 833.0,
+   "price": 844.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and Etihad",
-   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "05:30",
    "depDate": "2026-12-05",
@@ -21,28 +20,27 @@
    "layovers": [
     {
      "min": 180,
-     "overnight": false,
      "airport": "Copenhagen Airport",
-     "city": "Copenhagen"
+     "city": "Copenhagen",
+     "overnight": false
     },
     {
      "min": 95,
-     "overnight": false,
      "airport": "Zayed International Airport",
-     "city": "Abu Dhabi"
+     "city": "Abu Dhabi",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 833 euros. 2 stops flight with Scandinavian Airlines and Etihad. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 5:30 AM on Saturday, December 5 and arrives at Narita International Airport at 11:40 AM on Sunday, December 6. Total duration 22 hr 10 min.  Layover (1 of 2) is a 3 hr layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 1 hr 35 min layover at Zayed International Airport in Abu Dhabi. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 834.0,
+   "price": 845.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
+   "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-05",
@@ -53,17 +51,16 @@
    "layovers": [
     {
      "min": 335,
-     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
+     "city": "Amsterdam",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 834 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Narita International Airport at 11:45 AM on Sunday, December 6. Total duration 21 hr 25 min.  Layover (1 of 1) is a 5 hr 35 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 837.0,
+   "price": 848.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -79,28 +76,27 @@
    "layovers": [
     {
      "min": 185,
-     "overnight": false,
      "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "city": "Oslo",
+     "overnight": false
     },
     {
      "min": 140,
-     "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
+     "city": "Paris",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 837 euros. 2 stops flight with Wideroe and Air France. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Haneda Airport at 7:55 PM on Sunday, December 6. Total duration 22 hr 50 min.  Layover (1 of 2) is a 3 hr 5 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 20 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 840.0,
+   "price": 851.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "KLM and JAL",
-   "operatedBy": "KLM Cityhopper",
+   "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-05",
@@ -111,28 +107,27 @@
    "layovers": [
     {
      "min": 355,
-     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
+     "city": "Amsterdam",
+     "overnight": false
     },
     {
      "min": 205,
-     "overnight": false,
      "airport": "Kansai International Airport",
-     "city": "Osaka"
+     "city": "Osaka",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 840 euros. 2 stops flight with KLM and JAL. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Haneda Airport at 3:55 PM on Sunday, December 6. Total duration 25 hr 35 min.  Layover (1 of 2) is a 5 hr 55 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 3 hr 25 min layover at Kansai International Airport in Osaka. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 887.0,
+   "price": 899.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and KLM",
-   "operatedBy": "Sas Link, KLM Cityhopper",
+   "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "07:00",
    "depDate": "2026-12-05",
@@ -143,28 +138,27 @@
    "layovers": [
     {
      "min": 85,
-     "overnight": false,
      "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "city": "Oslo",
+     "overnight": false
     },
     {
      "min": 165,
-     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
+     "city": "Amsterdam",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 887 euros. 2 stops flight with Scandinavian Airlines and KLM. Operated by Sas Link, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 7:00 AM on Saturday, December 5 and arrives at Narita International Airport at 11:45 AM on Sunday, December 6. Total duration 20 hr 45 min.  Layover (1 of 2) is a 1 hr 25 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 887.0,
+   "price": 900.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": "Sas Link",
+   "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "13:30",
    "depDate": "2026-12-05",
@@ -175,55 +169,22 @@
    "layovers": [
     {
      "min": 160,
-     "overnight": false,
      "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "city": "Oslo",
+     "overnight": false
     },
     {
      "min": 140,
-     "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
+     "city": "Paris",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 887 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 1:30 PM on Saturday, December 5 and arrives at Haneda Airport at 7:55 PM on Sunday, December 6. Total duration 22 hr 25 min.  Layover (1 of 2) is a 2 hr 40 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 20 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 901.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": "Sas Link",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "15:05",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Haneda Airport",
-   "arrTime": "19:55",
-   "arrDate": "2026-12-06",
-   "durationMin": 1250,
-   "layovers": [
-    {
-     "min": 130,
-     "overnight": false,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen"
-    },
-    {
-     "min": 85,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 901 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 3:05 PM on Saturday, December 5 and arrives at Haneda Airport at 7:55 PM on Sunday, December 6. Total duration 20 hr 50 min.  Layover (1 of 2) is a 2 hr 10 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 1 hr 25 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
-  },
-  {
-   "price": 992.0,
+   "price": 968.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -239,23 +200,53 @@
    "layovers": [
     {
      "min": 60,
-     "overnight": false,
      "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "city": "Oslo",
+     "overnight": false
     },
     {
      "min": 160,
-     "overnight": false,
      "airport": "Hamad International Airport",
-     "city": "Doha"
+     "city": "Doha",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 992 euros. 2 stops flight with Wideroe and Qatar Airways. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Narita International Airport at 5:55 PM on Sunday, December 6. Total duration 20 hr 50 min.  Layover (1 of 2) is a 1 hr layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 40 min layover at Hamad International Airport in Doha. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 1107.0,
+   "price": 982.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Qatar Airways",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:15",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Narita International Airport",
+   "arrTime": "17:55",
+   "arrDate": "2026-12-06",
+   "durationMin": 1420,
+   "layovers": [
+    {
+     "min": 195,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
+    },
+    {
+     "min": 190,
+     "airport": "Hamad International Airport",
+     "city": "Doha",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 1122.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -271,23 +262,22 @@
    "layovers": [
     {
      "min": 895,
-     "overnight": false,
      "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "city": "Oslo",
+     "overnight": false
     },
     {
      "min": 415,
-     "overnight": false,
      "airport": "Helsinki Airport",
-     "city": "Helsinki"
+     "city": "Helsinki",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 1107 euros. 2 stops flight with Wideroe and Finnair. Leaves Trondheim Airport, Værnes at 4:45 PM on Saturday, December 5 and arrives at Haneda Airport at 2:25 PM on Monday, December 7. Total duration 37 hr 40 min.  Layover (1 of 2) is a 14 hr 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 6 hr 55 min layover at Helsinki Airport in Helsinki. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 1321.0,
+   "price": 1338.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -303,20 +293,50 @@
    "layovers": [
     {
      "min": 150,
-     "overnight": false,
      "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "city": "Oslo",
+     "overnight": false
     },
     {
      "min": 115,
-     "overnight": false,
      "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
+     "city": "Frankfurt am Main",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 1321 euros. 2 stops flight with Wideroe, Lufthansa and ANA. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Haneda Airport at 5:55 PM on Sunday, December 6. Total duration 20 hr 50 min.  Layover (1 of 2) is a 2 hr 30 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 55 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+   "changeAirport": false
+  },
+  {
+   "price": 899.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and KLM",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "07:00",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Narita International Airport",
+   "arrTime": "11:45",
+   "arrDate": "2026-12-06",
+   "durationMin": 1245,
+   "layovers": [
+    {
+     "min": 85,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    },
+    {
+     "min": 165,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
   }
  ]
 }

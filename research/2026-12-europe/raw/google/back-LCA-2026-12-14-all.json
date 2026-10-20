@@ -1,40 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTRqBRIDTENBcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 270.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Aegean and KLM",
-   "operatedBy": null,
-   "depAirportName": "Larnaka International Airport",
-   "depTime": "13:05",
-   "depDate": "2026-12-14",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "23:10",
-   "arrDate": "2026-12-14",
-   "durationMin": 665,
-   "layovers": [
-    {
-     "min": 160,
-     "airport": "Athens International Airport \"Eleftherio",
-     "city": "Athens",
-     "overnight": false
-    },
-    {
-     "min": 55,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 286.0,
+   "price": 259.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -71,6 +41,37 @@
    "changeAirport": false
   },
   {
+   "price": 270.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Aegean and KLM",
+   "operatedBy": null,
+   "depAirportName": "Larnaka International Airport",
+   "depTime": "13:05",
+   "depDate": "2026-12-14",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-14",
+   "durationMin": 665,
+   "layovers": [
+    {
+     "min": 160,
+     "airport": "Athens International Airport \"Eleftherios Venizelos\"",
+     "city": "Athens",
+     "overnight": false
+    },
+    {
+     "min": 55,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
    "price": 1102.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
@@ -95,6 +96,37 @@
      "min": 335,
      "airport": "Copenhagen Airport",
      "city": "Copenhagen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 270.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Aegean and KLM",
+   "operatedBy": null,
+   "depAirportName": "Larnaka International Airport",
+   "depTime": "13:05",
+   "depDate": "2026-12-14",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-14",
+   "durationMin": 665,
+   "layovers": [
+    {
+     "min": 160,
+     "airport": "Athens International Airport \"Eleftherios Venizelos\"",
+     "city": "Athens",
+     "overnight": false
+    },
+    {
+     "min": 55,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
      "overnight": false
     }
    ],

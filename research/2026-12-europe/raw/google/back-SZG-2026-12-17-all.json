@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDU1pHcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 179.0,
+   "price": 237.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -13,12 +14,12 @@
    "depTime": "09:05",
    "depDate": "2026-12-17",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
+   "arrTime": "23:10",
    "arrDate": "2026-12-17",
-   "durationMin": 450,
+   "durationMin": 845,
    "layovers": [
     {
-     "min": 215,
+     "min": 610,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
      "overnight": false
@@ -28,7 +29,7 @@
    "changeAirport": false
   },
   {
-   "price": 295.0,
+   "price": 298.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -59,7 +60,7 @@
    "changeAirport": false
   },
   {
-   "price": 1234.0,
+   "price": 1235.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -90,7 +91,7 @@
    "changeAirport": false
   },
   {
-   "price": 1249.0,
+   "price": 1250.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -114,6 +115,31 @@
      "min": 50,
      "airport": "Copenhagen Airport",
      "city": "Copenhagen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 280.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Transavia and KLM",
+   "operatedBy": null,
+   "depAirportName": "Salzburg Airport",
+   "depTime": "09:05",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-17",
+   "durationMin": 450,
+   "layovers": [
+    {
+     "min": 215,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
      "overnight": false
     }
    ],

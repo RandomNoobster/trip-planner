@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDU09GcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 205.0,
+   "price": 236.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -34,38 +35,7 @@
    "changeAirport": false
   },
   {
-   "price": 257.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Austrian and Scandinavian Airlines",
-   "operatedBy": null,
-   "depAirportName": "Sofia International Airport",
-   "depTime": "12:35",
-   "depDate": "2026-12-17",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "19:20",
-   "arrDate": "2026-12-17",
-   "durationMin": 465,
-   "layovers": [
-    {
-     "min": 115,
-     "airport": "Vienna International Airport",
-     "city": "Vienna",
-     "overnight": false
-    },
-    {
-     "min": 50,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 266.0,
+   "price": 297.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -89,6 +59,37 @@
      "min": 95,
      "airport": "Bergen Airport",
      "city": "Bergen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 323.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Austrian and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Sofia International Airport",
+   "depTime": "12:35",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "19:20",
+   "arrDate": "2026-12-17",
+   "durationMin": 465,
+   "layovers": [
+    {
+     "min": 115,
+     "airport": "Vienna International Airport",
+     "city": "Vienna",
+     "overnight": false
+    },
+    {
+     "min": 50,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
      "overnight": false
     }
    ],

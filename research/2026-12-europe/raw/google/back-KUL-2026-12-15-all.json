@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTVqBRIDS1VMcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 477.0,
+   "price": 453.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -13,9 +14,9 @@
    "depTime": "21:40",
    "depDate": "2026-12-15",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:30",
+   "arrTime": "09:40",
    "arrDate": "2026-12-16",
-   "durationMin": 1430,
+   "durationMin": 1140,
    "layovers": [
     {
      "min": 90,
@@ -24,7 +25,7 @@
      "overnight": false
     },
     {
-     "min": 385,
+     "min": 95,
      "airport": "Copenhagen Airport",
      "city": "Copenhagen",
      "overnight": false
@@ -34,38 +35,7 @@
    "changeAirport": false
   },
   {
-   "price": 616.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Lufthansa and Wideroe",
-   "operatedBy": null,
-   "depAirportName": "Kuala Lumpur International Airport",
-   "depTime": "23:55",
-   "depDate": "2026-12-15",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-16",
-   "durationMin": 1315,
-   "layovers": [
-    {
-     "min": 250,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main",
-     "overnight": false
-    },
-    {
-     "min": 95,
-     "airport": "Bergen Airport",
-     "city": "Bergen",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 652.0,
+   "price": 574.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -96,7 +66,38 @@
    "changeAirport": false
   },
   {
-   "price": 890.0,
+   "price": 630.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Kuala Lumpur International Airport",
+   "depTime": "23:55",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-16",
+   "durationMin": 1315,
+   "layovers": [
+    {
+     "min": 250,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    },
+    {
+     "min": 95,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 888.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -121,7 +122,7 @@
    "changeAirport": false
   },
   {
-   "price": 578.0,
+   "price": 453.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

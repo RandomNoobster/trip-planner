@@ -1,9 +1,35 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA05BUEABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 220.0,
+   "price": 183.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM and Transavia",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Naples International Airport",
+   "arrTime": "12:25",
+   "arrDate": "2026-12-07",
+   "durationMin": 365,
+   "layovers": [
+    {
+     "min": 80,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 275.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -24,7 +50,7 @@
      "overnight": false
     },
     {
-     "min": 85,
+     "min": 80,
      "airport": "Leonardo da Vinci International Airport",
      "city": "Rome",
      "overnight": false
@@ -34,7 +60,7 @@
    "changeAirport": false
   },
   {
-   "price": 339.0,
+   "price": 596.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -71,63 +97,7 @@
    "changeAirport": false
   },
   {
-   "price": 581.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM and Transavia",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-07",
-   "arrAirportName": "Naples International Airport",
-   "arrTime": "12:25",
-   "arrDate": "2026-12-07",
-   "durationMin": 365,
-   "layovers": [
-    {
-     "min": 80,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 732.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Air France",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-07",
-   "arrAirportName": "Naples International Airport",
-   "arrTime": "15:50",
-   "arrDate": "2026-12-07",
-   "durationMin": 570,
-   "layovers": [
-    {
-     "min": 105,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "overnight": false
-    },
-    {
-     "min": 100,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 798.0,
+   "price": 810.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -158,7 +128,7 @@
    "changeAirport": false
   },
   {
-   "price": 890.0,
+   "price": 903.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -182,6 +152,31 @@
      "min": 130,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 183.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM and Transavia",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Naples International Airport",
+   "arrTime": "12:25",
+   "arrDate": "2026-12-07",
+   "durationMin": 365,
+   "layovers": [
+    {
+     "min": 80,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
      "overnight": false
     }
    ],

@@ -1,6 +1,7 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDVFVOcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
    "price": 313.0,
@@ -10,21 +11,21 @@
    "airlines": "Lufthansa and Wideroe",
    "operatedBy": null,
    "depAirportName": "Tunis-Carthage International Airport",
-   "depTime": "18:10",
+   "depTime": "02:55",
    "depDate": "2026-12-13",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-14",
-   "durationMin": 1240,
+   "arrTime": "14:45",
+   "arrDate": "2026-12-13",
+   "durationMin": 710,
    "layovers": [
     {
-     "min": 810,
+     "min": 285,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
      "overnight": false
     },
     {
-     "min": 95,
+     "min": 85,
      "airport": "Bergen Airport",
      "city": "Bergen",
      "overnight": false
@@ -34,7 +35,7 @@
    "changeAirport": false
   },
   {
-   "price": 455.0,
+   "price": 452.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -65,7 +66,7 @@
    "changeAirport": false
   },
   {
-   "price": 505.0,
+   "price": 502.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

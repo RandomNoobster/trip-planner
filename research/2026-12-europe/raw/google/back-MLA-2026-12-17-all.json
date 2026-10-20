@@ -1,100 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDTUxBcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T11:29:45",
- "priceUnavailable": 6,
+ "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 403.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KM Malta Airlines and Scandinavian Airlines",
-   "operatedBy": null,
-   "depAirportName": "Malta International Airport",
-   "depTime": "06:10",
-   "depDate": "2026-12-17",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "17:15",
-   "arrDate": "2026-12-17",
-   "durationMin": 665,
-   "layovers": [
-    {
-     "min": 180,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    },
-    {
-     "min": 100,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 403 euros. 2 stops flight with KM Malta Airlines and Scandinavian Airlines. Leaves Malta International Airport at 6:10 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 5:15 PM on Thursday, December 17. Total duration 11 hr 5 min.  Layover (1 of 2) is a 3 hr layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 1 hr 40 min layover at Oslo lufthavn in Oslo. Select flight"
-  },
-  {
-   "price": 420.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KM Malta Airlines, Air France and KLM",
-   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
-   "depAirportName": "Malta International Airport",
-   "depTime": "06:10",
-   "depDate": "2026-12-17",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
-   "arrDate": "2026-12-17",
-   "durationMin": 625,
-   "layovers": [
-    {
-     "min": 150,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    },
-    {
-     "min": 75,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 420 euros. 2 stops flight with KM Malta Airlines, Air France and KLM. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Malta International Airport at 6:10 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 4:35 PM on Thursday, December 17. Total duration 10 hr 25 min.  Layover (1 of 2) is a 2 hr 30 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 1 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 457.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KM Malta Airlines and KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depAirportName": "Malta International Airport",
-   "depTime": "07:10",
-   "depDate": "2026-12-17",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
-   "arrDate": "2026-12-17",
-   "durationMin": 565,
-   "layovers": [
-    {
-     "min": 225,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 457 euros. 1 stop flight with KM Malta Airlines and KLM. Operated by KLM Cityhopper. Leaves Malta International Airport at 7:10 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 4:35 PM on Thursday, December 17. Total duration 9 hr 25 min.  Layover (1 of 1) is a 3 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 246.0,
+   "price": 278.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -110,23 +20,152 @@
    "layovers": [
     {
      "min": 1060,
-     "overnight": false,
      "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
+     "city": "Frankfurt am Main",
+     "overnight": false
     },
     {
      "min": 95,
-     "overnight": false,
      "airport": "Bergen Airport",
-     "city": "Bergen"
+     "city": "Bergen",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 246 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Malta International Airport at 1:50 PM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 2:50 PM on Friday, December 18. Total duration 25 hr.  Layover (1 of 2) is a 17 hr 40 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 265.0,
+   "price": 404.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KM Malta Airlines and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Malta International Airport",
+   "depTime": "06:10",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "17:15",
+   "arrDate": "2026-12-17",
+   "durationMin": 665,
+   "layovers": [
+    {
+     "min": 180,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    },
+    {
+     "min": 100,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 471.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "KM Malta Airlines, Austrian and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Malta International Airport",
+   "depTime": "06:10",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "00:40",
+   "arrDate": "2026-12-18",
+   "durationMin": 1110,
+   "layovers": [
+    {
+     "min": 440,
+     "airport": "Leonardo da Vinci International Airport",
+     "city": "Rome",
+     "overnight": false
+    },
+    {
+     "min": 50,
+     "airport": "Vienna International Airport",
+     "city": "Vienna",
+     "overnight": false
+    },
+    {
+     "min": 220,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 474.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KM Malta Airlines, Air France and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Malta International Airport",
+   "depTime": "06:10",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "20:30",
+   "arrDate": "2026-12-17",
+   "durationMin": 860,
+   "layovers": [
+    {
+     "min": 280,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    },
+    {
+     "min": 200,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 486.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KM Malta Airlines, Air France and KLM",
+   "operatedBy": null,
+   "depAirportName": "Malta International Airport",
+   "depTime": "06:10",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-17",
+   "durationMin": 625,
+   "layovers": [
+    {
+     "min": 150,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "overnight": false
+    },
+    {
+     "min": 75,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 511.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -141,167 +180,51 @@
    "durationMin": 1360,
    "layovers": [
     {
-     "min": 800,
-     "overnight": false,
+     "min": 140,
      "airport": "Munich International Airport",
-     "city": "Munich"
+     "city": "Munich",
+     "overnight": false
     },
     {
-     "min": 70,
-     "overnight": false,
+     "min": 730,
      "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
+     "city": "Frankfurt am Main",
+     "overnight": false
     },
     {
      "min": 95,
-     "overnight": false,
      "airport": "Bergen Airport",
-     "city": "Bergen"
+     "city": "Bergen",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 265 euros. 3 stops flight with KM Malta Airlines, Lufthansa and Wideroe. Leaves Malta International Airport at 4:10 PM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 2:50 PM on Friday, December 18. Total duration 22 hr 40 min.  Layover (1 of 3) is a 13 hr 20 min layover at Munich International Airport in Munich. Layover (2 of 3) is a 1 hr 10 min layover at Frankfurt Airport in Frankfurt am Main. Layover (3 of 3) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 297.0,
+   "price": 691.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 3,
-   "airlines": "KM Malta Airlines, Austrian and Scandinavian Airlines",
-   "operatedBy": "Sas Link",
-   "depAirportName": "Malta International Airport",
-   "depTime": "06:10",
-   "depDate": "2026-12-17",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "00:40",
-   "arrDate": "2026-12-18",
-   "durationMin": 1110,
-   "layovers": [
-    {
-     "min": 440,
-     "overnight": false,
-     "airport": "Leonardo da Vinci International Airport",
-     "city": "Rome"
-    },
-    {
-     "min": 50,
-     "overnight": false,
-     "airport": "Vienna International Airport",
-     "city": "Vienna"
-    },
-    {
-     "min": 220,
-     "overnight": false,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 297 euros. 3 stops flight with KM Malta Airlines, Austrian and Scandinavian Airlines. Operated by Sas Link. Leaves Malta International Airport at 6:10 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 12:40 AM on Friday, December 18. Total duration 18 hr 30 min.  Layover (1 of 3) is a 7 hr 20 min layover at Leonardo da Vinci International Airport in Rome. Layover (2 of 3) is a 50 min layover at Vienna International Airport in Vienna. Layover (3 of 3) is a 3 hr 40 min layover at Copenhagen Airport in Copenhagen. Select flight"
-  },
-  {
-   "price": 352.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 3,
-   "airlines": "KM Malta Airlines, Austrian and Scandinavian Airlines",
-   "operatedBy": "Sas Link",
-   "depAirportName": "Malta International Airport",
-   "depTime": "06:10",
-   "depDate": "2026-12-17",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "19:20",
-   "arrDate": "2026-12-17",
-   "durationMin": 790,
-   "layovers": [
-    {
-     "min": 150,
-     "overnight": false,
-     "airport": "Leonardo da Vinci International Airport",
-     "city": "Rome"
-    },
-    {
-     "min": 190,
-     "overnight": false,
-     "airport": "Vienna International Airport",
-     "city": "Vienna"
-    },
-    {
-     "min": 50,
-     "overnight": false,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 352 euros. 3 stops flight with KM Malta Airlines, Austrian and Scandinavian Airlines. Operated by Sas Link. Leaves Malta International Airport at 6:10 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 7:20 PM on Thursday, December 17. Total duration 13 hr 10 min.  Layover (1 of 3) is a 2 hr 30 min layover at Leonardo da Vinci International Airport in Rome. Layover (2 of 3) is a 3 hr 10 min layover at Vienna International Airport in Vienna. Layover (3 of 3) is a 50 min layover at Copenhagen Airport in Copenhagen. Select flight"
-  },
-  {
-   "price": 367.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KM Malta Airlines, Air France and Scandinavian Airlines",
-   "operatedBy": "Sas Link",
-   "depAirportName": "Malta International Airport",
-   "depTime": "06:10",
-   "depDate": "2026-12-17",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "00:40",
-   "arrDate": "2026-12-18",
-   "durationMin": 1110,
-   "layovers": [
-    {
-     "min": 350,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    },
-    {
-     "min": 360,
-     "overnight": false,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 367 euros. 2 stops flight with KM Malta Airlines, Air France and Scandinavian Airlines. Operated by Sas Link. Leaves Malta International Airport at 6:10 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 12:40 AM on Friday, December 18. Total duration 18 hr 30 min.  Layover (1 of 2) is a 5 hr 50 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 6 hr layover at Copenhagen Airport in Copenhagen. Select flight"
-  },
-  {
-   "price": 521.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KM Malta Airlines, Air France and Scandinavian Airlines",
+   "stops": 1,
+   "airlines": "KM Malta Airlines and KLM",
    "operatedBy": null,
    "depAirportName": "Malta International Airport",
-   "depTime": "06:10",
+   "depTime": "07:10",
    "depDate": "2026-12-17",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "19:15",
+   "arrTime": "23:10",
    "arrDate": "2026-12-17",
-   "durationMin": 785,
+   "durationMin": 960,
    "layovers": [
     {
-     "min": 280,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    },
-    {
-     "min": 125,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "min": 620,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 521 euros. 2 stops flight with KM Malta Airlines, Air France and Scandinavian Airlines. Leaves Malta International Airport at 6:10 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 7:15 PM on Thursday, December 17. Total duration 13 hr 5 min.  Layover (1 of 2) is a 4 hr 40 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 2 hr 5 min layover at Oslo lufthavn in Oslo. Select flight"
+   "changeAirport": false
   }
  ]
 }

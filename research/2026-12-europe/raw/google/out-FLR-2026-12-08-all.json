@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDhqBRIDVFJEcgUSA0ZMUkABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 250.0,
+   "price": 272.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -28,7 +29,7 @@
    "changeAirport": false
   },
   {
-   "price": 764.0,
+   "price": 691.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -49,13 +50,13 @@
      "overnight": false
     },
     {
-     "min": 75,
+     "min": 135,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
      "overnight": false
     },
     {
-     "min": 110,
+     "min": 50,
      "airport": "Munich International Airport",
      "city": "Munich",
      "overnight": false
@@ -65,38 +66,7 @@
    "changeAirport": false
   },
   {
-   "price": 868.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Air France",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-08",
-   "arrAirportName": "Amerigo Vespucci Airport",
-   "arrTime": "14:25",
-   "arrDate": "2026-12-08",
-   "durationMin": 485,
-   "layovers": [
-    {
-     "min": 105,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "overnight": false
-    },
-    {
-     "min": 50,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 939.0,
+   "price": 952.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

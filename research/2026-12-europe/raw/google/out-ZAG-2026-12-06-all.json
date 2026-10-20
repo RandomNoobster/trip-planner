@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDZqBRIDVFJEcgUSA1pBR0ABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 255.0,
+   "price": 261.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -12,7 +13,7 @@
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-06",
-   "arrAirportName": "Franjo Tuđman International Airport Zagr",
+   "arrAirportName": "Franjo Tuđman International Airport Zagreb",
    "arrTime": "13:15",
    "arrDate": "2026-12-06",
    "durationMin": 415,
@@ -28,7 +29,38 @@
    "changeAirport": false
   },
   {
-   "price": 397.0,
+   "price": 465.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe, Lufthansa and Croatia",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Franjo Tuđman International Airport Zagreb",
+   "arrTime": "19:25",
+   "arrDate": "2026-12-06",
+   "durationMin": 615,
+   "layovers": [
+    {
+     "min": 155,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "overnight": false
+    },
+    {
+     "min": 180,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 465.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -37,7 +69,7 @@
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "09:10",
    "depDate": "2026-12-06",
-   "arrAirportName": "Franjo Tuđman International Airport Zagr",
+   "arrAirportName": "Franjo Tuđman International Airport Zagreb",
    "arrTime": "22:15",
    "arrDate": "2026-12-06",
    "durationMin": 785,
@@ -59,7 +91,7 @@
    "changeAirport": false
   },
   {
-   "price": 422.0,
+   "price": 467.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -68,7 +100,7 @@
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "17:15",
    "depDate": "2026-12-06",
-   "arrAirportName": "Franjo Tuđman International Airport Zagr",
+   "arrAirportName": "Franjo Tuđman International Airport Zagreb",
    "arrTime": "23:00",
    "arrDate": "2026-12-06",
    "durationMin": 345,
@@ -84,7 +116,7 @@
    "changeAirport": false
   },
   {
-   "price": 539.0,
+   "price": 837.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -93,7 +125,7 @@
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "17:15",
    "depDate": "2026-12-06",
-   "arrAirportName": "Franjo Tuđman International Airport Zagr",
+   "arrAirportName": "Franjo Tuđman International Airport Zagreb",
    "arrTime": "12:00",
    "arrDate": "2026-12-07",
    "durationMin": 1125,
@@ -108,37 +140,6 @@
      "min": 70,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 554.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Wideroe, Lufthansa and Croatia",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "09:10",
-   "depDate": "2026-12-06",
-   "arrAirportName": "Franjo Tuđman International Airport Zagr",
-   "arrTime": "19:25",
-   "arrDate": "2026-12-06",
-   "durationMin": 615,
-   "layovers": [
-    {
-     "min": 155,
-     "airport": "Bergen Airport",
-     "city": "Bergen",
-     "overnight": false
-    },
-    {
-     "min": 180,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main",
      "overnight": false
     }
    ],

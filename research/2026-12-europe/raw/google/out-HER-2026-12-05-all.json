@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA0hFUkABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 235.0,
+   "price": 240.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -12,7 +13,7 @@
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "13:05",
    "depDate": "2026-12-05",
-   "arrAirportName": "Heraklion International Airport N. Kazan",
+   "arrAirportName": "Heraklion International Airport N. Kazantzakis",
    "arrTime": "12:25",
    "arrDate": "2026-12-06",
    "durationMin": 1340,
@@ -34,7 +35,7 @@
    "changeAirport": false
   },
   {
-   "price": 264.0,
+   "price": 267.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -43,10 +44,10 @@
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-05",
-   "arrAirportName": "Heraklion International Airport N. Kazan",
-   "arrTime": "21:10",
-   "arrDate": "2026-12-05",
-   "durationMin": 830,
+   "arrAirportName": "Heraklion International Airport N. Kazantzakis",
+   "arrTime": "00:35",
+   "arrDate": "2026-12-06",
+   "durationMin": 1035,
    "layovers": [
     {
      "min": 220,
@@ -55,8 +56,8 @@
      "overnight": false
     },
     {
-     "min": 230,
-     "airport": "Athens International Airport \"Eleftherio",
+     "min": 435,
+     "airport": "Athens International Airport \"Eleftherios Venizelos\"",
      "city": "Athens",
      "overnight": false
     }

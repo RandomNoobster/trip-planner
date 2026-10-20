@@ -1,30 +1,31 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA1NHTkABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 746.0,
+   "price": 837.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and Qatar Airways",
    "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "10:15",
+   "depTime": "13:00",
    "depDate": "2026-12-07",
    "arrAirportName": "Tan Son Nhat International Airport",
    "arrTime": "13:05",
    "arrDate": "2026-12-08",
-   "durationMin": 1250,
+   "durationMin": 1085,
    "layovers": [
     {
-     "min": 195,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen",
+     "min": 65,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
      "overnight": false
     },
     {
-     "min": 175,
+     "min": 145,
      "airport": "Hamad International Airport",
      "city": "Doha",
      "overnight": false
@@ -34,7 +35,7 @@
    "changeAirport": false
   },
   {
-   "price": 1020.0,
+   "price": 1032.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -65,7 +66,7 @@
    "changeAirport": false
   },
   {
-   "price": 1385.0,
+   "price": 1402.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -96,7 +97,7 @@
    "changeAirport": false
   },
   {
-   "price": 1590.0,
+   "price": 1610.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -127,7 +128,44 @@
    "changeAirport": false
   },
   {
-   "price": 856.0,
+   "price": 1797.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Scandinavian Airlines, Etihad and Vietnam Airlines",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "05:30",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Tan Son Nhat International Airport",
+   "arrTime": "21:00",
+   "arrDate": "2026-12-08",
+   "durationMin": 2010,
+   "layovers": [
+    {
+     "min": 180,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
+    },
+    {
+     "min": 80,
+     "airport": "Zayed International Airport",
+     "city": "Abu Dhabi",
+     "overnight": false
+    },
+    {
+     "min": 705,
+     "airport": "Kuala Lumpur International Airport",
+     "city": "Federal Territory of Kuala Lumpur",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 837.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

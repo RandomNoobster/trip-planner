@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDU0tQcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 227.0,
+   "price": 250.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -13,18 +14,18 @@
    "depTime": "12:30",
    "depDate": "2026-12-17",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "00:40",
-   "arrDate": "2026-12-18",
-   "durationMin": 730,
+   "arrTime": "19:20",
+   "arrDate": "2026-12-17",
+   "durationMin": 410,
    "layovers": [
     {
-     "min": 210,
+     "min": 60,
      "airport": "Vienna International Airport",
      "city": "Vienna",
      "overnight": false
     },
     {
-     "min": 220,
+     "min": 50,
      "airport": "Copenhagen Airport",
      "city": "Copenhagen",
      "overnight": false
@@ -34,7 +35,7 @@
    "changeAirport": false
   },
   {
-   "price": 350.0,
+   "price": 432.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -65,7 +66,7 @@
    "changeAirport": false
   },
   {
-   "price": 249.0,
+   "price": 250.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

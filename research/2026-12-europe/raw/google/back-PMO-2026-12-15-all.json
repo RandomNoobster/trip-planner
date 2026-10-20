@@ -1,30 +1,31 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTVqBRIDUE1PcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 148.0,
+   "price": 188.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "ITA and KLM",
    "operatedBy": null,
    "depAirportName": "Palermo Airport",
-   "depTime": "06:10",
+   "depTime": "12:40",
    "depDate": "2026-12-15",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
+   "arrTime": "23:10",
    "arrDate": "2026-12-15",
-   "durationMin": 625,
+   "durationMin": 630,
    "layovers": [
     {
-     "min": 170,
-     "airport": "Leonardo da Vinci International Airport",
-     "city": "Rome",
+     "min": 150,
+     "airport": "Milan Linate Airport",
+     "city": "Milan",
      "overnight": false
     },
     {
-     "min": 105,
+     "min": 140,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
      "overnight": false
@@ -34,7 +35,7 @@
    "changeAirport": false
   },
   {
-   "price": 326.0,
+   "price": 298.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -49,13 +50,13 @@
    "durationMin": 1420,
    "layovers": [
     {
-     "min": 130,
+     "min": 880,
      "airport": "Leonardo da Vinci International Airport",
      "city": "Rome",
      "overnight": false
     },
     {
-     "min": 820,
+     "min": 70,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
      "overnight": false
@@ -64,6 +65,37 @@
      "min": 95,
      "airport": "Bergen Airport",
      "city": "Bergen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 228.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "ITA and KLM",
+   "operatedBy": null,
+   "depAirportName": "Palermo Airport",
+   "depTime": "15:10",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-15",
+   "durationMin": 480,
+   "layovers": [
+    {
+     "min": 55,
+     "airport": "Leonardo da Vinci International Airport",
+     "city": "Rome",
+     "overnight": false
+    },
+    {
+     "min": 70,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
      "overnight": false
     }
    ],

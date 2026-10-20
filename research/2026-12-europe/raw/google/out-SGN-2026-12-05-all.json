@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA1NHTkABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 659.0,
+   "price": 652.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -34,44 +35,7 @@
    "changeAirport": false
   },
   {
-   "price": 674.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 3,
-   "airlines": "Wideroe, Lufthansa and THAI",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "16:45",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Tan Son Nhat International Airport",
-   "arrTime": "19:05",
-   "arrDate": "2026-12-06",
-   "durationMin": 1220,
-   "layovers": [
-    {
-     "min": 40,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo",
-     "overnight": false
-    },
-    {
-     "min": 85,
-     "airport": "Munich International Airport",
-     "city": "Munich",
-     "overnight": false
-    },
-    {
-     "min": 165,
-     "airport": "Suvarnabhumi Airport",
-     "city": "Bangkok",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 1426.0,
+   "price": 1443.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -102,7 +66,44 @@
    "changeAirport": false
   },
   {
-   "price": 1912.0,
+   "price": 1823.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Scandinavian Airlines, Etihad and Vietnam Airlines",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "05:30",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Tan Son Nhat International Airport",
+   "arrTime": "21:00",
+   "arrDate": "2026-12-06",
+   "durationMin": 2010,
+   "layovers": [
+    {
+     "min": 180,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
+    },
+    {
+     "min": 80,
+     "airport": "Zayed International Airport",
+     "city": "Abu Dhabi",
+     "overnight": false
+    },
+    {
+     "min": 705,
+     "airport": "Kuala Lumpur International Airport",
+     "city": "Federal Territory of Kuala Lumpur",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 2361.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -133,30 +134,30 @@
    "changeAirport": false
   },
   {
-   "price": 2305.0,
+   "price": 652.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
-   "airlines": "KLM and Vietnam Airlines",
+   "airlines": "Wideroe and Qatar Airways",
    "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
+   "depTime": "13:05",
    "depDate": "2026-12-05",
    "arrAirportName": "Tan Son Nhat International Airport",
-   "arrTime": "13:10",
+   "arrTime": "13:05",
    "arrDate": "2026-12-06",
-   "durationMin": 1490,
+   "durationMin": 1080,
    "layovers": [
     {
-     "min": 495,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
+     "min": 60,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
      "overnight": false
     },
     {
-     "min": 75,
-     "airport": "Suvarnabhumi Airport",
-     "city": "Bangkok",
+     "min": 145,
+     "airport": "Hamad International Airport",
+     "city": "Doha",
      "overnight": false
     }
    ],

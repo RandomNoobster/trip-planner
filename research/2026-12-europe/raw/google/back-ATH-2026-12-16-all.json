@@ -1,7 +1,7 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTZqBRIDQVRIcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T11:27:43",
- "priceUnavailable": 6,
+ "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
    "price": 97.0,
@@ -9,33 +9,7 @@
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depAirportName": "Athens International Airport \"Eleftherios Venizelos\"",
-   "depTime": "06:10",
-   "depDate": "2026-12-16",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
-   "arrDate": "2026-12-16",
-   "durationMin": 685,
-   "layovers": [
-    {
-     "min": 345,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 97 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Athens International Airport \"Eleftherios Venizelos\" at 6:10 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 4:35 PM on Wednesday, December 16. Total duration 11 hr 25 min.  Layover (1 of 1) is a 5 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 97.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
+   "operatedBy": null,
    "depAirportName": "Athens International Airport \"Eleftherios Venizelos\"",
    "depTime": "17:25",
    "depDate": "2026-12-16",
@@ -46,14 +20,13 @@
    "layovers": [
     {
      "min": 60,
-     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
+     "city": "Amsterdam",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 97 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Athens International Airport \"Eleftherios Venizelos\" at 5:25 PM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 11:10 PM on Wednesday, December 16. Total duration 6 hr 45 min.  Layover (1 of 1) is a 1 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "changeAirport": false
   },
   {
    "price": 196.0,
@@ -72,23 +45,22 @@
    "layovers": [
     {
      "min": 75,
-     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
+     "city": "Amsterdam",
+     "overnight": false
     },
     {
      "min": 195,
-     "overnight": false,
      "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "city": "Oslo",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 196 euros. 2 stops flight with KLM and Scandinavian Airlines. Leaves Athens International Airport \"Eleftherios Venizelos\" at 6:10 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 4:00 PM on Wednesday, December 16. Total duration 10 hr 50 min.  Layover (1 of 2) is a 1 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 3 hr 15 min layover at Oslo lufthavn in Oslo. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 199.0,
+   "price": 202.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -104,52 +76,19 @@
    "layovers": [
     {
      "min": 100,
-     "overnight": false,
      "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
+     "city": "Frankfurt am Main",
+     "overnight": false
     },
     {
      "min": 885,
-     "overnight": false,
      "airport": "Bergen Airport",
-     "city": "Bergen"
+     "city": "Bergen",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 199 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Athens International Airport \"Eleftherios Venizelos\" at 5:20 PM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 2:50 PM on Thursday, December 17. Total duration 22 hr 30 min.  Layover (1 of 2) is a 1 hr 40 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 14 hr 45 min layover at Bergen Airport in Bergen. Select flight"
-  },
-  {
-   "price": 301.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Lufthansa and Wideroe",
-   "operatedBy": null,
-   "depAirportName": "Athens International Airport \"Eleftherios Venizelos\"",
-   "depTime": "06:45",
-   "depDate": "2026-12-16",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-16",
-   "durationMin": 545,
-   "layovers": [
-    {
-     "min": 85,
-     "overnight": false,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
-    },
-    {
-     "min": 95,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 301 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Athens International Airport \"Eleftherios Venizelos\" at 6:45 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 2:50 PM on Wednesday, December 16. Total duration 9 hr 5 min.  Layover (1 of 2) is a 1 hr 25 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+   "changeAirport": false
   },
   {
    "price": 438.0,
@@ -157,7 +96,7 @@
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Air France and Scandinavian Airlines",
-   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "operatedBy": null,
    "depAirportName": "Athens International Airport \"Eleftherios Venizelos\"",
    "depTime": "14:40",
    "depDate": "2026-12-16",
@@ -168,23 +107,22 @@
    "layovers": [
     {
      "min": 230,
-     "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
+     "city": "Paris",
+     "overnight": false
     },
     {
      "min": 830,
-     "overnight": false,
      "airport": "Copenhagen Airport",
-     "city": "Copenhagen"
+     "city": "Copenhagen",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 438 euros. 2 stops flight with Air France and Scandinavian Airlines. Operated by Sas Link for Scandinavian Airlines. Leaves Athens International Airport \"Eleftherios Venizelos\" at 2:40 PM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 2:30 PM on Thursday, December 17. Total duration 24 hr 50 min.  Layover (1 of 2) is a 3 hr 50 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 13 hr 50 min layover at Copenhagen Airport in Copenhagen. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 519.0,
+   "price": 521.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -200,52 +138,44 @@
    "layovers": [
     {
      "min": 75,
-     "overnight": false,
      "airport": "Vienna International Airport",
-     "city": "Vienna"
+     "city": "Vienna",
+     "overnight": false
     },
     {
      "min": 85,
-     "overnight": false,
      "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "city": "Oslo",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 519 euros. 2 stops flight with Aegean, Austrian and Scandinavian Airlines. Leaves Athens International Airport \"Eleftherios Venizelos\" at 8:40 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 4:00 PM on Wednesday, December 16. Total duration 8 hr 20 min.  Layover (1 of 2) is a 1 hr 15 min layover at Vienna International Airport in Vienna. Layover (2 of 2) is a 1 hr 25 min layover at Oslo lufthavn in Oslo. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 569.0,
+   "price": 97.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Air France and Scandinavian Airlines",
-   "operatedBy": "Sas Connect for Scandinavian Airlines, Sas Link for Scandinavian Airlines",
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
    "depAirportName": "Athens International Airport \"Eleftherios Venizelos\"",
-   "depTime": "14:40",
+   "depTime": "17:25",
    "depDate": "2026-12-16",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "00:40",
-   "arrDate": "2026-12-17",
-   "durationMin": 660,
+   "arrTime": "23:10",
+   "arrDate": "2026-12-16",
+   "durationMin": 405,
    "layovers": [
     {
-     "min": 180,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    },
-    {
-     "min": 55,
-     "overnight": false,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen"
+     "min": 60,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 569 euros. 2 stops flight with Air France and Scandinavian Airlines. Operated by Sas Connect for Scandinavian Airlines, Sas Link for Scandinavian Airlines. Leaves Athens International Airport \"Eleftherios Venizelos\" at 2:40 PM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 12:40 AM on Thursday, December 17. Total duration 11 hr.  Layover (1 of 2) is a 3 hr layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 55 min layover at Copenhagen Airport in Copenhagen. Select flight"
+   "changeAirport": false
   }
  ]
 }

@@ -1,6 +1,7 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDVFJTcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
    "price": 233.0,
@@ -18,13 +19,13 @@
    "durationMin": 995,
    "layovers": [
     {
-     "min": 145,
+     "min": 305,
      "airport": "Leonardo da Vinci International Airport",
      "city": "Rome",
      "overnight": false
     },
     {
-     "min": 500,
+     "min": 340,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
      "overnight": false

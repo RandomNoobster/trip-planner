@@ -1,6 +1,7 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTVqBRIDTFVYcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
    "price": 104.0,
@@ -10,17 +11,48 @@
    "airlines": "KLM",
    "operatedBy": null,
    "depAirportName": "Luxembourg Airport",
-   "depTime": "14:45",
+   "depTime": "10:55",
    "depDate": "2026-12-15",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "23:10",
+   "arrTime": "16:35",
    "arrDate": "2026-12-15",
-   "durationMin": 505,
+   "durationMin": 340,
    "layovers": [
     {
-     "min": 300,
+     "min": 140,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 202.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Luxembourg Airport",
+   "depTime": "06:05",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:10",
+   "arrDate": "2026-12-15",
+   "durationMin": 485,
+   "layovers": [
+    {
+     "min": 160,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 85,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
      "overnight": false
     }
    ],
@@ -59,7 +91,7 @@
    "changeAirport": false
   },
   {
-   "price": 520.0,
+   "price": 579.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

@@ -1,34 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTZqBRIDQlNMcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 226.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": null,
-   "depAirportName": "EuroAirport Basel-Mulhouse-Freiburg",
-   "depTime": "17:55",
-   "depDate": "2026-12-16",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "23:10",
-   "arrDate": "2026-12-16",
-   "durationMin": 315,
-   "layovers": [
-    {
-     "min": 90,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 235.0,
+   "price": 211.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -59,28 +35,84 @@
    "changeAirport": false
   },
   {
-   "price": 495.0,
+   "price": 227.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "EuroAirport Basel-Mulhouse-Freiburg",
+   "depTime": "17:55",
+   "depDate": "2026-12-16",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-16",
+   "durationMin": 315,
+   "layovers": [
+    {
+     "min": 90,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 251.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Austrian and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "EuroAirport Basel-Mulhouse-Freiburg",
+   "depTime": "10:15",
+   "depDate": "2026-12-16",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "19:20",
+   "arrDate": "2026-12-16",
+   "durationMin": 545,
+   "layovers": [
+    {
+     "min": 205,
+     "airport": "Vienna International Airport",
+     "city": "Vienna",
+     "overnight": false
+    },
+    {
+     "min": 50,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 359.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "KLM and Scandinavian Airlines",
    "operatedBy": null,
    "depAirportName": "EuroAirport Basel-Mulhouse-Freiburg",
-   "depTime": "14:00",
+   "depTime": "06:00",
    "depDate": "2026-12-16",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "20:30",
+   "arrTime": "16:00",
    "arrDate": "2026-12-16",
-   "durationMin": 390,
+   "durationMin": 600,
    "layovers": [
     {
-     "min": 50,
+     "min": 145,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
      "overnight": false
     },
     {
-     "min": 80,
+     "min": 195,
      "airport": "Oslo lufthavn",
      "city": "Oslo",
      "overnight": false
@@ -90,30 +122,92 @@
    "changeAirport": false
   },
   {
-   "price": 527.0,
+   "price": 597.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Air France and Scandinavian Airlines",
    "operatedBy": null,
    "depAirportName": "EuroAirport Basel-Mulhouse-Freiburg",
-   "depTime": "10:45",
+   "depTime": "14:35",
    "depDate": "2026-12-16",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "00:40",
    "arrDate": "2026-12-17",
-   "durationMin": 835,
+   "durationMin": 605,
    "layovers": [
     {
-     "min": 180,
+     "min": 260,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
      "overnight": false
     },
     {
-     "min": 360,
+     "min": 55,
      "airport": "Copenhagen Airport",
      "city": "Copenhagen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 782.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Air Dolomiti, Austrian and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "EuroAirport Basel-Mulhouse-Freiburg",
+   "depTime": "10:40",
+   "depDate": "2026-12-16",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "19:20",
+   "arrDate": "2026-12-16",
+   "durationMin": 520,
+   "layovers": [
+    {
+     "min": 65,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "overnight": false
+    },
+    {
+     "min": 50,
+     "airport": "Vienna International Airport",
+     "city": "Vienna",
+     "overnight": false
+    },
+    {
+     "min": 50,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 227.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "EuroAirport Basel-Mulhouse-Freiburg",
+   "depTime": "17:55",
+   "depDate": "2026-12-16",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-16",
+   "durationMin": 315,
+   "layovers": [
+    {
+     "min": 90,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
      "overnight": false
     }
    ],

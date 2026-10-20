@@ -1,6 +1,7 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTVqBRIDQkxRcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
    "price": 101.0,
@@ -90,22 +91,28 @@
    "changeAirport": false
   },
   {
-   "price": 237.0,
+   "price": 215.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 2,
+   "stops": 3,
    "airlines": "Air Dolomiti, Lufthansa and Wideroe",
    "operatedBy": null,
    "depAirportName": "Bologna Guglielmo Marconi Airport",
-   "depTime": "06:35",
+   "depTime": "06:05",
    "depDate": "2026-12-15",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "14:50",
    "arrDate": "2026-12-15",
-   "durationMin": 495,
+   "durationMin": 525,
    "layovers": [
     {
-     "min": 125,
+     "min": 45,
+     "airport": "Munich International Airport",
+     "city": "Munich",
+     "overnight": false
+    },
+    {
+     "min": 70,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
      "overnight": false
@@ -121,7 +128,7 @@
    "changeAirport": false
   },
   {
-   "price": 246.0,
+   "price": 475.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -145,6 +152,62 @@
      "min": 125,
      "airport": "Oslo lufthavn",
      "city": "Oslo",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 1862.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "ITA and KLM",
+   "operatedBy": null,
+   "depAirportName": "Bologna Guglielmo Marconi Airport",
+   "depTime": "15:30",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-15",
+   "durationMin": 460,
+   "layovers": [
+    {
+     "min": 50,
+     "airport": "Leonardo da Vinci International Airport",
+     "city": "Rome",
+     "overnight": false
+    },
+    {
+     "min": 70,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 101.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Bologna Guglielmo Marconi Airport",
+   "depTime": "17:10",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-15",
+   "durationMin": 360,
+   "layovers": [
+    {
+     "min": 110,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
      "overnight": false
     }
    ],

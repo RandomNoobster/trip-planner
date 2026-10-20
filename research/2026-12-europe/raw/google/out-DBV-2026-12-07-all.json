@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA0RCVkABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 345.0,
+   "price": 349.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -25,7 +26,7 @@
     },
     {
      "min": 305,
-     "airport": "Franjo Tuđman International Airport Zagr",
+     "airport": "Franjo Tuđman International Airport Zagreb",
      "city": "Zagreb",
      "overnight": false
     }
@@ -34,7 +35,7 @@
    "changeAirport": false
   },
   {
-   "price": 1197.0,
+   "price": 1215.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -58,6 +59,37 @@
      "min": 1705,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 349.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Croatia",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Dubrovnik Airport",
+   "arrTime": "22:00",
+   "arrDate": "2026-12-07",
+   "durationMin": 940,
+   "layovers": [
+    {
+     "min": 330,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    },
+    {
+     "min": 305,
+     "airport": "Franjo Tuđman International Airport Zagreb",
+     "city": "Zagreb",
      "overnight": false
     }
    ],

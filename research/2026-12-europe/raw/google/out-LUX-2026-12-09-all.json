@@ -1,16 +1,15 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA0xVWEABSAGYAQI",
- "fetchedAt": "2026-10-12T13:15:13",
- "priceUnavailable": 6,
- "via": "html",
+ "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 169.0,
+   "price": 171.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
+   "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-09",
@@ -21,22 +20,21 @@
    "layovers": [
     {
      "min": 50,
-     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
+     "city": "Amsterdam",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 169 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Wednesday, December 9 and arrives at Luxembourg Airport at 10:25 AM on Wednesday, December 9. Total duration 4 hr 5 min.  Layover (1 of 1) is a 50 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 272.0,
+   "price": 276.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and KLM",
-   "operatedBy": "Sas Link for Scandinavian Airlines, German Airways",
+   "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "10:40",
    "depDate": "2026-12-09",
@@ -47,49 +45,53 @@
    "layovers": [
     {
      "min": 55,
-     "overnight": false,
      "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "city": "Oslo",
+     "overnight": false
     },
     {
      "min": 140,
-     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
+     "city": "Amsterdam",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 272 euros. 2 stops flight with Scandinavian Airlines and KLM. Operated by Sas Link for Scandinavian Airlines, German Airways. Leaves Trondheim Airport, Værnes at 10:40 AM on Wednesday, December 9 and arrives at Luxembourg Airport at 5:50 PM on Wednesday, December 9. Total duration 7 hr 10 min.  Layover (1 of 2) is a 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 20 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 300.0,
+   "price": 354.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
+   "stops": 2,
+   "airlines": "Scandinavian Airlines, Austrian and Luxair",
+   "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "17:10",
+   "depTime": "10:40",
    "depDate": "2026-12-09",
    "arrAirportName": "Luxembourg Airport",
-   "arrTime": "22:20",
+   "arrTime": "22:40",
    "arrDate": "2026-12-09",
-   "durationMin": 310,
+   "durationMin": 720,
    "layovers": [
     {
-     "min": 110,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
+     "min": 160,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    },
+    {
+     "min": 250,
+     "airport": "Vienna International Airport",
+     "city": "Vienna",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 300 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:10 PM on Wednesday, December 9 and arrives at Luxembourg Airport at 10:20 PM on Wednesday, December 9. Total duration 5 hr 10 min.  Layover (1 of 1) is a 1 hr 50 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 356.0,
+   "price": 363.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -105,124 +107,27 @@
    "layovers": [
     {
      "min": 155,
-     "overnight": false,
      "airport": "Bergen Airport",
-     "city": "Bergen"
+     "city": "Bergen",
+     "overnight": false
     },
     {
      "min": 135,
-     "overnight": false,
      "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
+     "city": "Frankfurt am Main",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 356 euros. 2 stops flight with Wideroe, Lufthansa and Air Dolomiti. Leaves Trondheim Airport, Værnes at 9:10 AM on Wednesday, December 9 and arrives at Luxembourg Airport at 6:05 PM on Wednesday, December 9. Total duration 8 hr 55 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 2 hr 15 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 272.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and KLM",
-   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:25",
-   "depDate": "2026-12-09",
-   "arrAirportName": "Luxembourg Airport",
-   "arrTime": "14:15",
-   "arrDate": "2026-12-09",
-   "durationMin": 470,
-   "layovers": [
-    {
-     "min": 115,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    },
-    {
-     "min": 110,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 272 euros. 2 stops flight with Scandinavian Airlines and KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:25 AM on Wednesday, December 9 and arrives at Luxembourg Airport at 2:15 PM on Wednesday, December 9. Total duration 7 hr 50 min.  Layover (1 of 2) is a 1 hr 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 50 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 335.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Wideroe, Austrian and Luxair",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "08:05",
-   "depDate": "2026-12-09",
-   "arrAirportName": "Luxembourg Airport",
-   "arrTime": "22:40",
-   "arrDate": "2026-12-09",
-   "durationMin": 875,
-   "layovers": [
-    {
-     "min": 310,
-     "overnight": false,
-     "airport": "Tromsø Airport",
-     "city": "Tromsø Municipality"
-    },
-    {
-     "min": 135,
-     "overnight": false,
-     "airport": "Vienna International Airport",
-     "city": "Vienna"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 335 euros. 2 stops flight with Wideroe, Austrian and Luxair. Leaves Trondheim Airport, Værnes at 8:05 AM on Wednesday, December 9 and arrives at Luxembourg Airport at 10:40 PM on Wednesday, December 9. Total duration 14 hr 35 min.  Layover (1 of 2) is a 5 hr 10 min layover at Tromsø Airport in Tromsø Municipality. Layover (2 of 2) is a 2 hr 15 min layover at Vienna International Airport in Vienna. Select flight"
-  },
-  {
-   "price": 362.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines, Austrian and Luxair",
-   "operatedBy": "Sas Link",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "15:05",
-   "depDate": "2026-12-09",
-   "arrAirportName": "Luxembourg Airport",
-   "arrTime": "22:40",
-   "arrDate": "2026-12-09",
-   "durationMin": 455,
-   "layovers": [
-    {
-     "min": 55,
-     "overnight": false,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen"
-    },
-    {
-     "min": 90,
-     "overnight": false,
-     "airport": "Vienna International Airport",
-     "city": "Vienna"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 362 euros. 2 stops flight with Scandinavian Airlines, Austrian and Luxair. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 3:05 PM on Wednesday, December 9 and arrives at Luxembourg Airport at 10:40 PM on Wednesday, December 9. Total duration 7 hr 35 min.  Layover (1 of 2) is a 55 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 1 hr 30 min layover at Vienna International Airport in Vienna. Select flight"
-  },
-  {
-   "price": 430.0,
+   "price": 434.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and Tap Air Portugal",
-   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "10:40",
    "depDate": "2026-12-09",
@@ -233,28 +138,27 @@
    "layovers": [
     {
      "min": 80,
-     "overnight": false,
      "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "city": "Oslo",
+     "overnight": false
     },
     {
      "min": 1240,
-     "overnight": false,
      "airport": "Humberto Delgado Airport",
-     "city": "Lisbon"
+     "city": "Lisbon",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 430 euros. 2 stops flight with Scandinavian Airlines and Tap Air Portugal. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 10:40 AM on Wednesday, December 9 and arrives at Luxembourg Airport at 4:50 PM on Thursday, December 10. Total duration 30 hr 10 min.  Layover (1 of 2) is a 1 hr 20 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 20 hr 40 min layover at Humberto Delgado Airport in Lisbon. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 507.0,
+   "price": 464.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
    "airlines": "Wideroe and Finnair",
-   "operatedBy": "Nordic Reg for Finnair, Nordic Reg for Finnair, Nordic Reg for Finnair",
+   "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "15:35",
    "depDate": "2026-12-09",
@@ -265,29 +169,28 @@
    "layovers": [
     {
      "min": 135,
-     "overnight": false,
      "airport": "Bergen Airport",
-     "city": "Bergen"
+     "city": "Bergen",
+     "overnight": false
     },
     {
      "min": 35,
-     "overnight": false,
      "airport": "Stockholm Arlanda Airport",
-     "city": "Stockholm"
+     "city": "Stockholm",
+     "overnight": false
     },
     {
      "min": 495,
-     "overnight": false,
      "airport": "Helsinki Airport",
-     "city": "Helsinki"
+     "city": "Helsinki",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 507 euros. 3 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 3:35 PM on Wednesday, December 9 and arrives at Luxembourg Airport at 9:10 AM on Thursday, December 10. Total duration 17 hr 35 min.  Layover (1 of 3) is a 2 hr 15 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 35 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 8 hr 15 min layover at Helsinki Airport in Helsinki. Select flight"
+   "changeAirport": false
   },
   {
-   "price": 684.0,
+   "price": 694.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -303,20 +206,44 @@
    "layovers": [
     {
      "min": 70,
-     "overnight": false,
      "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "city": "Oslo",
+     "overnight": false
     },
     {
      "min": 90,
-     "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
+     "city": "Paris",
+     "overnight": false
     }
    ],
-   "changeAirport": false,
    "separateTickets": false,
-   "label": "From 684 euros. 2 stops flight with Scandinavian Airlines and Luxair. Leaves Trondheim Airport, Værnes at 6:25 AM on Wednesday, December 9 and arrives at Luxembourg Airport at 1:50 PM on Wednesday, December 9. Total duration 7 hr 25 min.  Layover (1 of 2) is a 1 hr 10 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 30 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "changeAirport": false
+  },
+  {
+   "price": 171.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Luxembourg Airport",
+   "arrTime": "10:25",
+   "arrDate": "2026-12-09",
+   "durationMin": 245,
+   "layovers": [
+    {
+     "min": 50,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
   }
  ]
 }

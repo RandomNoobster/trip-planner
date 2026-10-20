@@ -1,30 +1,31 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDU0tHcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 267.0,
+   "price": 251.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Aegean, Lufthansa and Wideroe",
    "operatedBy": null,
-   "depAirportName": "Αεροδρόμιο Θεσσαλονίκης «Μακεδονία» (The",
-   "depTime": "15:00",
+   "depAirportName": "Αεροδρόμιο Θεσσαλονίκης «Μακεδονία» (Thessaloniki Airport \"Makedonia\")",
+   "depTime": "07:40",
    "depDate": "2026-12-13",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-14",
-   "durationMin": 1490,
+   "arrTime": "14:45",
+   "arrDate": "2026-12-13",
+   "durationMin": 485,
    "layovers": [
     {
-     "min": 260,
+     "min": 50,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
      "overnight": false
     },
     {
-     "min": 885,
+     "min": 85,
      "airport": "Bergen Airport",
      "city": "Bergen",
      "overnight": false
@@ -34,13 +35,13 @@
    "changeAirport": false
   },
   {
-   "price": 426.0,
+   "price": 512.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Austrian and Scandinavian Airlines",
    "operatedBy": null,
-   "depAirportName": "Αεροδρόμιο Θεσσαλονίκης «Μακεδονία» (The",
+   "depAirportName": "Αεροδρόμιο Θεσσαλονίκης «Μακεδονία» (Thessaloniki Airport \"Makedonia\")",
    "depTime": "16:00",
    "depDate": "2026-12-13",
    "arrAirportName": "Trondheim Airport, Værnes",
@@ -65,13 +66,13 @@
    "changeAirport": false
   },
   {
-   "price": 281.0,
+   "price": 251.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Aegean, Lufthansa and Wideroe",
    "operatedBy": null,
-   "depAirportName": "Αεροδρόμιο Θεσσαλονίκης «Μακεδονία» (The",
+   "depAirportName": "Αεροδρόμιο Θεσσαλονίκης «Μακεδονία» (Thessaloniki Airport \"Makedonia\")",
    "depTime": "07:40",
    "depDate": "2026-12-13",
    "arrAirportName": "Trondheim Airport, Værnes",

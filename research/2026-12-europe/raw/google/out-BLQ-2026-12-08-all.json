@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDhqBRIDVFJEcgUSA0JMUUABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 407.0,
+   "price": 460.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -28,19 +29,19 @@
    "changeAirport": false
   },
   {
-   "price": 716.0,
+   "price": 633.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 2,
+   "stops": 3,
    "airlines": "Wideroe, Lufthansa and Air Dolomiti",
    "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "09:10",
    "depDate": "2026-12-08",
    "arrAirportName": "Bologna Guglielmo Marconi Airport",
-   "arrTime": "23:10",
+   "arrTime": "23:05",
    "arrDate": "2026-12-08",
-   "durationMin": 840,
+   "durationMin": 835,
    "layovers": [
     {
      "min": 155,
@@ -49,9 +50,15 @@
      "overnight": false
     },
     {
-     "min": 405,
+     "min": 75,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
+     "overnight": false
+    },
+    {
+     "min": 290,
+     "airport": "Munich International Airport",
+     "city": "Munich",
      "overnight": false
     }
    ],
@@ -59,28 +66,28 @@
    "changeAirport": false
   },
   {
-   "price": 1431.0,
+   "price": 1505.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and Air France",
    "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "05:30",
+   "depTime": "14:45",
    "depDate": "2026-12-08",
    "arrAirportName": "Bologna Guglielmo Marconi Airport",
-   "arrTime": "13:55",
+   "arrTime": "23:05",
    "arrDate": "2026-12-08",
-   "durationMin": 505,
+   "durationMin": 500,
    "layovers": [
     {
-     "min": 65,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen",
+     "min": 85,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
      "overnight": false
     },
     {
-     "min": 105,
+     "min": 80,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
      "overnight": false

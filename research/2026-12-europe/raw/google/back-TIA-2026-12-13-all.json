@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDVElBcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 235.0,
+   "price": 316.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -18,13 +19,13 @@
    "durationMin": 1360,
    "layovers": [
     {
-     "min": 150,
+     "min": 940,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
      "overnight": false
     },
     {
-     "min": 885,
+     "min": 95,
      "airport": "Bergen Airport",
      "city": "Bergen",
      "overnight": false
@@ -34,7 +35,38 @@
    "changeAirport": false
   },
   {
-   "price": 338.0,
+   "price": 381.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Austrian and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Tirana International Airport",
+   "depTime": "12:15",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "19:20",
+   "arrDate": "2026-12-13",
+   "durationMin": 425,
+   "layovers": [
+    {
+     "min": 75,
+     "airport": "Vienna International Airport",
+     "city": "Vienna",
+     "overnight": false
+    },
+    {
+     "min": 50,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 381.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

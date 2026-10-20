@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA0JJT0ABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 280.0,
+   "price": 283.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -28,19 +29,19 @@
    "changeAirport": false
   },
   {
-   "price": 533.0,
+   "price": 461.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 2,
+   "stops": 3,
    "airlines": "Wideroe and Lufthansa",
    "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "09:10",
    "depDate": "2026-12-09",
    "arrAirportName": "Bilbao Airport",
-   "arrTime": "22:50",
+   "arrTime": "21:55",
    "arrDate": "2026-12-09",
-   "durationMin": 820,
+   "durationMin": 765,
    "layovers": [
     {
      "min": 155,
@@ -49,9 +50,15 @@
      "overnight": false
     },
     {
-     "min": 340,
+     "min": 75,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
+     "overnight": false
+    },
+    {
+     "min": 145,
+     "airport": "Munich International Airport",
+     "city": "Munich",
      "overnight": false
     }
    ],
@@ -59,7 +66,7 @@
    "changeAirport": false
   },
   {
-   "price": 652.0,
+   "price": 660.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

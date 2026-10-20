@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDU1pHcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 295.0,
+   "price": 298.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -34,7 +35,7 @@
    "changeAirport": false
   },
   {
-   "price": 1180.0,
+   "price": 1182.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -58,37 +59,6 @@
      "min": 90,
      "airport": "Oslo lufthavn",
      "city": "Oslo",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 1243.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Eurowings and Scandinavian Airlines",
-   "operatedBy": null,
-   "depAirportName": "Salzburg Airport",
-   "depTime": "17:30",
-   "depDate": "2026-12-13",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "00:40",
-   "arrDate": "2026-12-14",
-   "durationMin": 430,
-   "layovers": [
-    {
-     "min": 105,
-     "airport": "Hamburg Airport",
-     "city": "Hamburg",
-     "overnight": false
-    },
-    {
-     "min": 85,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen",
      "overnight": false
     }
    ],

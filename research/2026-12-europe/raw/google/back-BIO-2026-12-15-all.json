@@ -1,6 +1,7 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTVqBRIDQklPcgUSA1RSREABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
    "price": 222.0,
@@ -59,22 +60,22 @@
    "changeAirport": false
   },
   {
-   "price": 257.0,
+   "price": 266.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Lufthansa and Wideroe",
    "operatedBy": null,
    "depAirportName": "Bilbao Airport",
-   "depTime": "06:45",
+   "depTime": "12:25",
    "depDate": "2026-12-15",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "14:50",
-   "arrDate": "2026-12-15",
-   "durationMin": 485,
+   "arrDate": "2026-12-16",
+   "durationMin": 1585,
    "layovers": [
     {
-     "min": 80,
+     "min": 1180,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
      "overnight": false
@@ -183,30 +184,24 @@
    "changeAirport": false
   },
   {
-   "price": 455.0,
+   "price": 222.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Tap Air Portugal and Scandinavian Airlines",
+   "stops": 1,
+   "airlines": "KLM",
    "operatedBy": null,
    "depAirportName": "Bilbao Airport",
-   "depTime": "18:40",
+   "depTime": "17:20",
    "depDate": "2026-12-15",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:10",
-   "arrDate": "2026-12-16",
-   "durationMin": 1170,
+   "arrTime": "23:10",
+   "arrDate": "2026-12-15",
+   "durationMin": 350,
    "layovers": [
     {
-     "min": 705,
-     "airport": "Humberto Delgado Airport",
-     "city": "Lisbon",
-     "overnight": false
-    },
-    {
-     "min": 60,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo",
+     "min": 90,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
      "overnight": false
     }
    ],

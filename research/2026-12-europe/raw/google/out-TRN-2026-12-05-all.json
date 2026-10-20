@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA1RSTkABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 164.0,
+   "price": 166.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -28,7 +29,7 @@
    "changeAirport": false
   },
   {
-   "price": 223.0,
+   "price": 229.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -43,13 +44,13 @@
    "durationMin": 1285,
    "layovers": [
     {
-     "min": 750,
+     "min": 950,
      "airport": "Oslo lufthavn",
      "city": "Oslo",
      "overnight": false
     },
     {
-     "min": 255,
+     "min": 55,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
      "overnight": false
@@ -59,7 +60,7 @@
    "changeAirport": false
   },
   {
-   "price": 244.0,
+   "price": 247.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -90,7 +91,7 @@
    "changeAirport": false
   },
   {
-   "price": 346.0,
+   "price": 351.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -121,7 +122,7 @@
    "changeAirport": false
   },
   {
-   "price": 395.0,
+   "price": 401.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

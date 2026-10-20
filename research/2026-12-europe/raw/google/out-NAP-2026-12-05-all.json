@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA05BUEABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 131.0,
+   "price": 147.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -28,7 +29,7 @@
    "changeAirport": false
   },
   {
-   "price": 195.0,
+   "price": 198.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -49,7 +50,7 @@
      "overnight": false
     },
     {
-     "min": 90,
+     "min": 85,
      "airport": "Leonardo da Vinci International Airport",
      "city": "Rome",
      "overnight": false
@@ -59,38 +60,7 @@
    "changeAirport": false
   },
   {
-   "price": 325.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Wideroe, Lufthansa and Lufthansa City Airlines",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "16:45",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Naples International Airport",
-   "arrTime": "12:50",
-   "arrDate": "2026-12-06",
-   "durationMin": 1205,
-   "layovers": [
-    {
-     "min": 40,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo",
-     "overnight": false
-    },
-    {
-     "min": 865,
-     "airport": "Munich International Airport",
-     "city": "Munich",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 435.0,
+   "price": 304.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -127,7 +97,38 @@
    "changeAirport": false
   },
   {
-   "price": 506.0,
+   "price": 374.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe, Lufthansa and Lufthansa City Airlines",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "16:45",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Naples International Airport",
+   "arrTime": "12:50",
+   "arrDate": "2026-12-06",
+   "durationMin": 1205,
+   "layovers": [
+    {
+     "min": 40,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "overnight": false
+    },
+    {
+     "min": 865,
+     "airport": "Munich International Airport",
+     "city": "Munich",
+     "overnight": false
+    }
+   ],
+   "separateTickets": false,
+   "changeAirport": false
+  },
+  {
+   "price": 428.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -158,28 +159,28 @@
    "changeAirport": false
   },
   {
-   "price": 532.0,
+   "price": 632.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and Air France",
    "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "10:15",
+   "depTime": "07:00",
    "depDate": "2026-12-05",
    "arrAirportName": "Naples International Airport",
-   "arrTime": "21:10",
+   "arrTime": "15:50",
    "arrDate": "2026-12-05",
-   "durationMin": 655,
+   "durationMin": 530,
    "layovers": [
     {
-     "min": 225,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen",
+     "min": 35,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
      "overnight": false
     },
     {
-     "min": 80,
+     "min": 130,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
      "overnight": false
@@ -189,7 +190,7 @@
    "changeAirport": false
   },
   {
-   "price": 1104.0,
+   "price": 1404.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

@@ -1,9 +1,10 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA0JJT0ABSAGYAQI",
  "via": "ui",
+ "fetchedAt": "2026-10-20T00:00:00",
  "itineraries": [
   {
-   "price": 259.0,
+   "price": 300.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -28,7 +29,7 @@
    "changeAirport": false
   },
   {
-   "price": 533.0,
+   "price": 480.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -59,59 +60,28 @@
    "changeAirport": false
   },
   {
-   "price": 676.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Air France",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-07",
-   "arrAirportName": "Bilbao Airport",
-   "arrTime": "17:25",
-   "arrDate": "2026-12-07",
-   "durationMin": 665,
-   "layovers": [
-    {
-     "min": 105,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "overnight": false
-    },
-    {
-     "min": 235,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 872.0,
+   "price": 660.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and Air France",
    "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:25",
+   "depTime": "13:00",
    "depDate": "2026-12-07",
    "arrAirportName": "Bilbao Airport",
-   "arrTime": "17:25",
+   "arrTime": "22:30",
    "arrDate": "2026-12-07",
-   "durationMin": 660,
+   "durationMin": 570,
    "layovers": [
     {
-     "min": 70,
+     "min": 75,
      "airport": "Oslo lufthavn",
      "city": "Oslo",
      "overnight": false
     },
     {
-     "min": 265,
+     "min": 180,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
      "overnight": false
