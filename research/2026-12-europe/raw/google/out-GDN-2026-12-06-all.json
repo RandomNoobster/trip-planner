@@ -1,10 +1,63 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDZqBRIDVFJEcgUSA0dETkABSAGYAQI",
- "fetchedAt": "2026-10-11T11:20:45",
+ "fetchedAt": "2026-10-19T23:07:39",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
-   "price": 121.0,
+   "price": 105.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": "Norwegian",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "12:15",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "21:05",
+   "arrDate": "2026-12-06",
+   "durationMin": 530,
+   "layovers": [
+    {
+     "min": 390,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 105 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Trondheim Airport, Værnes at 12:15 PM on Sunday, December 6 and arrives at Gdansk Lech Walesa Airport at 9:05 PM on Sunday, December 6. Total duration 8 hr 50 min.  Layover (1 of 1) is a 6 hr 30 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 118.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": "Norwegian, Norwegian",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:00",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Gdansk Lech Walesa Airport",
+   "arrTime": "21:05",
+   "arrDate": "2026-12-06",
+   "durationMin": 245,
+   "layovers": [
+    {
+     "min": 105,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 118 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian, Norwegian. Leaves Trondheim Airport, Værnes at 5:00 PM on Sunday, December 6 and arrives at Gdansk Lech Walesa Airport at 9:05 PM on Sunday, December 6. Total duration 4 hr 5 min.  Layover (1 of 1) is a 1 hr 45 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 128.0,
    "roundTripTotal": false,
    "noOverheadBin": true,
    "stops": 1,
@@ -27,7 +80,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 121 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Trondheim Airport, Værnes at 5:40 PM on Sunday, December 6 and arrives at Gdansk Lech Walesa Airport at 9:05 PM on Sunday, December 6. Total duration 3 hr 25 min.  Layover (1 of 1) is a 1 hr 5 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 128 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Trondheim Airport, Værnes at 5:40 PM on Sunday, December 6 and arrives at Gdansk Lech Walesa Airport at 9:05 PM on Sunday, December 6. Total duration 3 hr 25 min.  Layover (1 of 1) is a 1 hr 5 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
    "price": 152.0,
@@ -56,7 +109,7 @@
    "label": "From 152 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Sunday, December 6 and arrives at Gdansk Lech Walesa Airport at 11:10 AM on Sunday, December 6. Total duration 4 hr 50 min.  Layover (1 of 1) is a 50 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 204.0,
+   "price": 206.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -79,10 +132,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 204 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:15 PM on Sunday, December 6 and arrives at Gdansk Lech Walesa Airport at 10:35 PM on Sunday, December 6. Total duration 5 hr 20 min.  Layover (1 of 1) is a 1 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 206 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:15 PM on Sunday, December 6 and arrives at Gdansk Lech Walesa Airport at 10:35 PM on Sunday, December 6. Total duration 5 hr 20 min.  Layover (1 of 1) is a 1 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 323.0,
+   "price": 301.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -117,10 +170,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 323 euros. 3 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 10:00 PM on Sunday, December 6 and arrives at Gdansk Lech Walesa Airport at 6:00 PM on Monday, December 7. Total duration 20 hr.  Layover (1 of 3) is a 11 hr 20 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 1 hr 55 min layover at Helsinki Airport in Helsinki. Select flight"
+   "label": "From 301 euros. 3 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 10:00 PM on Sunday, December 6 and arrives at Gdansk Lech Walesa Airport at 6:00 PM on Monday, December 7. Total duration 20 hr.  Layover (1 of 3) is a 11 hr 20 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 1 hr 55 min layover at Helsinki Airport in Helsinki. Select flight"
   },
   {
-   "price": 532.0,
+   "price": 479.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -149,7 +202,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 532 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 9:10 AM on Sunday, December 6 and arrives at Gdansk Lech Walesa Airport at 11:40 PM on Sunday, December 6. Total duration 14 hr 30 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 7 hr 10 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+   "label": "From 479 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 9:10 AM on Sunday, December 6 and arrives at Gdansk Lech Walesa Airport at 11:40 PM on Sunday, December 6. Total duration 14 hr 30 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 7 hr 10 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
   }
  ]
 }

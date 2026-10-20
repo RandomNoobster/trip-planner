@@ -1,6 +1,6 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDhqBRIDVFJEcgUSA01SU0ABSAGYAQI",
- "fetchedAt": "2026-10-11T12:23:11",
+ "fetchedAt": "2026-10-19T23:30:25",
  "priceUnavailable": 0,
  "via": "rpc",
  "itineraries": [
@@ -73,7 +73,7 @@
    "via": "rpc"
   },
   {
-   "price": 327.0,
+   "price": 375.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -116,7 +116,7 @@
    "via": "rpc"
   },
   {
-   "price": 447.0,
+   "price": 438.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -159,50 +159,7 @@
    "via": "rpc"
   },
   {
-   "price": 525.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": null,
-   "depCode": "TRD",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "14:45",
-   "depDate": "2026-12-08",
-   "arrCode": "MRS",
-   "arrAirportName": "Marseille Provence Airport",
-   "arrTime": "22:40",
-   "arrDate": "2026-12-08",
-   "durationMin": 475,
-   "layovers": [
-    {
-     "min": 85,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo",
-     "code": "OSL",
-     "changeAirport": false
-    },
-    {
-     "min": 70,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
-     "code": "CDG",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "SK361",
-    "AF1775",
-    "AF7346"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 579.0,
+   "price": 513.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

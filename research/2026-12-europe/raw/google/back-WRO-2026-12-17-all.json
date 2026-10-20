@@ -1,17 +1,55 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDV1JPcgUSA1RSREABSAGYAQI",
- "via": "ui",
+ "fetchedAt": "2026-10-19T23:10:18",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 128.0,
+   "price": 199.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "WRO",
+   "depAirportName": "Nicolaus Copernicus Wrocław Airport",
+   "depTime": "13:45",
+   "depDate": "2026-12-17",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-17",
+   "durationMin": 565,
+   "layovers": [
+    {
+     "min": 330,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1338",
+    "KL1155"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 232.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "WRO",
    "depAirportName": "Nicolaus Copernicus Wrocław Airport",
    "depTime": "06:10",
    "depDate": "2026-12-17",
+   "arrCode": "TRD",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "16:35",
    "arrDate": "2026-12-17",
@@ -19,55 +57,33 @@
    "layovers": [
     {
      "min": 390,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 342.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Lufthansa and Wideroe",
-   "operatedBy": null,
-   "depAirportName": "Nicolaus Copernicus Wrocław Airport",
-   "depTime": "14:15",
-   "depDate": "2026-12-17",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-18",
-   "durationMin": 1475,
-   "layovers": [
-    {
-     "min": 1105,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main",
-     "overnight": false
-    },
-    {
-     "min": 95,
-     "airport": "Bergen Airport",
-     "city": "Bergen",
-     "overnight": false
-    }
+   "flights": [
+    "KL1336",
+    "KL1153"
    ],
-   "separateTickets": false,
-   "changeAirport": false
+   "via": "rpc"
   },
   {
-   "price": 355.0,
+   "price": 371.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "KLM and Scandinavian Airlines",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "WRO",
    "depAirportName": "Nicolaus Copernicus Wrocław Airport",
    "depTime": "13:45",
    "depDate": "2026-12-17",
+   "arrCode": "TRD",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "20:30",
    "arrDate": "2026-12-17",
@@ -75,19 +91,72 @@
    "layovers": [
     {
      "min": 55,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     },
     {
      "min": 80,
+     "overnight": false,
      "airport": "Oslo lufthavn",
      "city": "Oslo",
-     "overnight": false
+     "code": "OSL",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1338",
+    "KL1205",
+    "SK370"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 382.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa and Wideroe",
+   "operatedBy": "Air Dolomiti",
+   "depCode": "WRO",
+   "depAirportName": "Nicolaus Copernicus Wrocław Airport",
+   "depTime": "14:15",
+   "depDate": "2026-12-17",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-18",
+   "durationMin": 1475,
+   "layovers": [
+    {
+     "min": 1105,
+     "overnight": true,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "LH1375",
+    "LH872",
+    "WF1311"
+   ],
+   "via": "rpc"
   }
  ]
 }

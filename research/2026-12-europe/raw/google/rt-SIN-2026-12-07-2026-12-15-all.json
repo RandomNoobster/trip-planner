@@ -1,17 +1,21 @@
 {
- "url": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEyLTA3agcIARIDVFJEcgcIARIDU0lOGh4SCjIwMjYtMTItMTVqBwgBEgNTSU5yBwgBEgNUUkRAAUgBcAGCAQsI____________AZgBAQ&hl=en&gl=NO&curr=EUR",
- "via": "ui",
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA1NJThoaEgoyMDI2LTEyLTE1agUSA1NJTnIFEgNUUkRAAUgBmAEB",
+ "fetchedAt": "2026-10-19T22:57:52",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 875.0,
+   "price": 883.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "17:10",
    "depDate": "2026-12-07",
+   "arrCode": "SIN",
    "arrAirportName": "Singapore Changi Airport",
    "arrTime": "16:15",
    "arrDate": "2026-12-08",
@@ -19,24 +23,33 @@
    "layovers": [
     {
      "min": 70,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1154",
+    "KL835"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 903.0,
+   "price": 911.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "KLM and Air France",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-07",
+   "arrCode": "SIN",
    "arrAirportName": "Singapore Changi Airport",
    "arrTime": "09:00",
    "arrDate": "2026-12-08",
@@ -44,30 +57,42 @@
    "layovers": [
     {
      "min": 105,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     },
     {
      "min": 90,
+     "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
-     "overnight": false
+     "code": "CDG",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1150",
+    "AF1341",
+    "AF182"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 944.0,
+   "price": 952.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": null,
+   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "15:05",
    "depDate": "2026-12-07",
+   "arrCode": "SIN",
    "arrAirportName": "Singapore Changi Airport",
    "arrTime": "16:55",
    "arrDate": "2026-12-08",
@@ -75,30 +100,42 @@
    "layovers": [
     {
      "min": 75,
+     "overnight": false,
      "airport": "Copenhagen Airport",
      "city": "Copenhagen",
-     "overnight": false
+     "code": "CPH",
+     "changeAirport": false
     },
     {
      "min": 65,
+     "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
-     "overnight": false
+     "code": "CDG",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "SK2881",
+    "AF1051",
+    "AF256"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 1034.0,
+   "price": 1046.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Wideroe and Finnair",
-   "operatedBy": null,
+   "operatedBy": "Nordic Reg for Finnair",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "08:05",
    "depDate": "2026-12-07",
+   "arrCode": "SIN",
    "arrAirportName": "Singapore Changi Airport",
    "arrTime": "18:40",
    "arrDate": "2026-12-08",
@@ -106,19 +143,29 @@
    "layovers": [
     {
      "min": 480,
+     "overnight": true,
      "airport": "Tromsø Airport",
      "city": "Tromsø Municipality",
-     "overnight": false
+     "code": "TOS",
+     "changeAirport": false
     },
     {
      "min": 200,
+     "overnight": false,
      "airport": "Helsinki Airport",
      "city": "Helsinki",
-     "overnight": false
+     "code": "HEL",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "WF1343",
+    "AY946",
+    "AY131"
+   ],
+   "via": "rpc"
   }
  ]
 }

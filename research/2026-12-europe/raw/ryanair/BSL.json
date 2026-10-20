@@ -13,6 +13,56 @@
     }
    },
    "arrivalAirport": {
+    "countryName": "Croatia",
+    "iataCode": "ZAG",
+    "name": "Zagreb",
+    "seoName": "zagreb",
+    "city": {
+     "code": "ZAGREB",
+     "countryCode": "hr",
+     "name": "Zagreb"
+    }
+   },
+   "departureDate": "2026-12-05T19:55:00",
+   "arrivalDate": "2026-12-05T21:25:00",
+   "price": {
+    "value": 18.51,
+    "valueMainUnit": "18",
+    "valueFractionalUnit": "51",
+    "currencyCode": "CHF",
+    "currencySymbol": "CHF"
+   },
+   "flightKey": "FR~5870~ ~~BSL~12/05/2026 19:55~ZAG~12/05/2026 21:25~~",
+   "flightNumber": "FR5870",
+   "previousPrice": null,
+   "priceUpdated": 1792434006000
+  },
+  "summary": {
+   "price": {
+    "value": 18.51,
+    "valueMainUnit": "18",
+    "valueFractionalUnit": "51",
+    "currencyCode": "CHF",
+    "currencySymbol": "CHF"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Switzerland",
+    "iataCode": "BSL",
+    "name": "Basel",
+    "seoName": "basel",
+    "city": {
+     "code": "BASEL",
+     "countryCode": "ch",
+     "name": "Basel"
+    }
+   },
+   "arrivalAirport": {
     "countryName": "United Kingdom",
     "iataCode": "STN",
     "name": "London Stansted",
@@ -27,22 +77,22 @@
    "departureDate": "2026-12-09T12:35:00",
    "arrivalDate": "2026-12-09T13:15:00",
    "price": {
-    "value": 19.0,
-    "valueMainUnit": "19",
-    "valueFractionalUnit": "00",
+    "value": 21.96,
+    "valueMainUnit": "21",
+    "valueFractionalUnit": "96",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
    "flightKey": "RK~4181~ ~~BSL~12/09/2026 12:35~STN~12/09/2026 13:15~~",
    "flightNumber": "RK4181",
    "previousPrice": null,
-   "priceUpdated": 1791800288000
+   "priceUpdated": 1792405286000
   },
   "summary": {
    "price": {
-    "value": 19.0,
-    "valueMainUnit": "19",
-    "valueFractionalUnit": "00",
+    "value": 21.96,
+    "valueMainUnit": "21",
+    "valueFractionalUnit": "96",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
@@ -74,75 +124,25 @@
      "name": "Zagreb"
     }
    },
-   "departureDate": "2026-12-04T17:10:00",
-   "arrivalDate": "2026-12-04T18:40:00",
+   "departureDate": "2026-12-06T09:10:00",
+   "arrivalDate": "2026-12-06T10:40:00",
    "price": {
-    "value": 20.06,
-    "valueMainUnit": "20",
-    "valueFractionalUnit": "06",
+    "value": 29.62,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "62",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
-   "flightKey": "FR~5863~ ~~BSL~12/04/2026 17:10~ZAG~12/04/2026 18:40~~",
-   "flightNumber": "FR5863",
-   "previousPrice": null,
-   "priceUpdated": 1791801190000
-  },
-  "summary": {
-   "price": {
-    "value": 20.06,
-    "valueMainUnit": "20",
-    "valueFractionalUnit": "06",
-    "currencyCode": "CHF",
-    "currencySymbol": "CHF"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Switzerland",
-    "iataCode": "BSL",
-    "name": "Basel",
-    "seoName": "basel",
-    "city": {
-     "code": "BASEL",
-     "countryCode": "ch",
-     "name": "Basel"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Croatia",
-    "iataCode": "ZAG",
-    "name": "Zagreb",
-    "seoName": "zagreb",
-    "city": {
-     "code": "ZAGREB",
-     "countryCode": "hr",
-     "name": "Zagreb"
-    }
-   },
-   "departureDate": "2026-12-05T19:55:00",
-   "arrivalDate": "2026-12-05T21:25:00",
-   "price": {
-    "value": 21.43,
-    "valueMainUnit": "21",
-    "valueFractionalUnit": "43",
-    "currencyCode": "CHF",
-    "currencySymbol": "CHF"
-   },
-   "flightKey": "FR~5870~ ~~BSL~12/05/2026 19:55~ZAG~12/05/2026 21:25~~",
+   "flightKey": "FR~5870~ ~~BSL~12/06/2026 09:10~ZAG~12/06/2026 10:40~~",
    "flightNumber": "FR5870",
    "previousPrice": null,
-   "priceUpdated": 1791801192000
+   "priceUpdated": 1792436719000
   },
   "summary": {
    "price": {
-    "value": 21.43,
-    "valueMainUnit": "21",
-    "valueFractionalUnit": "43",
+    "value": 29.62,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "62",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
@@ -177,172 +177,22 @@
    "departureDate": "2026-12-07T07:50:00",
    "arrivalDate": "2026-12-07T09:20:00",
    "price": {
-    "value": 32.0,
+    "value": 32.81,
     "valueMainUnit": "32",
-    "valueFractionalUnit": "00",
+    "valueFractionalUnit": "81",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
    "flightKey": "FR~5863~ ~~BSL~12/07/2026 07:50~ZAG~12/07/2026 09:20~~",
    "flightNumber": "FR5863",
    "previousPrice": null,
-   "priceUpdated": 1791800288000
+   "priceUpdated": 1792419586000
   },
   "summary": {
    "price": {
-    "value": 32.0,
+    "value": 32.81,
     "valueMainUnit": "32",
-    "valueFractionalUnit": "00",
-    "currencyCode": "CHF",
-    "currencySymbol": "CHF"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Switzerland",
-    "iataCode": "BSL",
-    "name": "Basel",
-    "seoName": "basel",
-    "city": {
-     "code": "BASEL",
-     "countryCode": "ch",
-     "name": "Basel"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Croatia",
-    "iataCode": "ZAG",
-    "name": "Zagreb",
-    "seoName": "zagreb",
-    "city": {
-     "code": "ZAGREB",
-     "countryCode": "hr",
-     "name": "Zagreb"
-    }
-   },
-   "departureDate": "2026-12-06T09:10:00",
-   "arrivalDate": "2026-12-06T10:40:00",
-   "price": {
-    "value": 36.35,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "35",
-    "currencyCode": "CHF",
-    "currencySymbol": "CHF"
-   },
-   "flightKey": "FR~5870~ ~~BSL~12/06/2026 09:10~ZAG~12/06/2026 10:40~~",
-   "flightNumber": "FR5870",
-   "previousPrice": null,
-   "priceUpdated": 1791801190000
-  },
-  "summary": {
-   "price": {
-    "value": 36.35,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "35",
-    "currencyCode": "CHF",
-    "currencySymbol": "CHF"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Switzerland",
-    "iataCode": "BSL",
-    "name": "Basel",
-    "seoName": "basel",
-    "city": {
-     "code": "BASEL",
-     "countryCode": "ch",
-     "name": "Basel"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-05T10:00:00",
-   "arrivalDate": "2026-12-05T11:15:00",
-   "price": {
-    "value": 36.6,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "60",
-    "currencyCode": "CHF",
-    "currencySymbol": "CHF"
-   },
-   "flightKey": "FR~5132~ ~~BSL~12/05/2026 10:00~DUB~12/05/2026 11:15~~",
-   "flightNumber": "FR5132",
-   "previousPrice": null,
-   "priceUpdated": 1791800287000
-  },
-  "summary": {
-   "price": {
-    "value": 36.6,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "60",
-    "currencyCode": "CHF",
-    "currencySymbol": "CHF"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Switzerland",
-    "iataCode": "BSL",
-    "name": "Basel",
-    "seoName": "basel",
-    "city": {
-     "code": "BASEL",
-     "countryCode": "ch",
-     "name": "Basel"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Croatia",
-    "iataCode": "ZAG",
-    "name": "Zagreb",
-    "seoName": "zagreb",
-    "city": {
-     "code": "ZAGREB",
-     "countryCode": "hr",
-     "name": "Zagreb"
-    }
-   },
-   "departureDate": "2026-12-11T17:10:00",
-   "arrivalDate": "2026-12-11T18:40:00",
-   "price": {
-    "value": 44.47,
-    "valueMainUnit": "44",
-    "valueFractionalUnit": "47",
-    "currencyCode": "CHF",
-    "currencySymbol": "CHF"
-   },
-   "flightKey": "FR~5863~ ~~BSL~12/11/2026 17:10~ZAG~12/11/2026 18:40~~",
-   "flightNumber": "FR5863",
-   "previousPrice": null,
-   "priceUpdated": 1791800292000
-  },
-  "summary": {
-   "price": {
-    "value": 44.47,
-    "valueMainUnit": "44",
-    "valueFractionalUnit": "47",
+    "valueFractionalUnit": "81",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
@@ -377,22 +227,72 @@
    "departureDate": "2026-12-10T10:00:00",
    "arrivalDate": "2026-12-10T11:30:00",
    "price": {
-    "value": 44.74,
-    "valueMainUnit": "44",
-    "valueFractionalUnit": "74",
+    "value": 38.88,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "88",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
    "flightKey": "FR~5863~ ~~BSL~12/10/2026 10:00~ZAG~12/10/2026 11:30~~",
    "flightNumber": "FR5863",
    "previousPrice": null,
-   "priceUpdated": 1791800291000
+   "priceUpdated": 1792420387000
   },
   "summary": {
    "price": {
-    "value": 44.74,
+    "value": 38.88,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "88",
+    "currencyCode": "CHF",
+    "currencySymbol": "CHF"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Switzerland",
+    "iataCode": "BSL",
+    "name": "Basel",
+    "seoName": "basel",
+    "city": {
+     "code": "BASEL",
+     "countryCode": "ch",
+     "name": "Basel"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-05T10:00:00",
+   "arrivalDate": "2026-12-05T11:15:00",
+   "price": {
+    "value": 44.37,
     "valueMainUnit": "44",
-    "valueFractionalUnit": "74",
+    "valueFractionalUnit": "37",
+    "currencyCode": "CHF",
+    "currencySymbol": "CHF"
+   },
+   "flightKey": "FR~5132~ ~~BSL~12/05/2026 10:00~DUB~12/05/2026 11:15~~",
+   "flightNumber": "FR5132",
+   "previousPrice": null,
+   "priceUpdated": 1792413555000
+  },
+  "summary": {
+   "price": {
+    "value": 44.37,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "37",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
@@ -428,22 +328,22 @@
    "departureDate": "2026-12-11T11:50:00",
    "arrivalDate": "2026-12-11T12:30:00",
    "price": {
-    "value": 46.99,
-    "valueMainUnit": "46",
-    "valueFractionalUnit": "99",
+    "value": 52.84,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "84",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
    "flightKey": "RK~4181~ ~~BSL~12/11/2026 11:50~STN~12/11/2026 12:30~~",
    "flightNumber": "RK4181",
    "previousPrice": null,
-   "priceUpdated": 1791800289000
+   "priceUpdated": 1792413269000
   },
   "summary": {
    "price": {
-    "value": 46.99,
-    "valueMainUnit": "46",
-    "valueFractionalUnit": "99",
+    "value": 52.84,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "84",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
@@ -479,27 +379,127 @@
    "departureDate": "2026-12-04T11:50:00",
    "arrivalDate": "2026-12-04T12:30:00",
    "price": {
-    "value": 54.99,
-    "valueMainUnit": "54",
-    "valueFractionalUnit": "99",
+    "value": 53.7,
+    "valueMainUnit": "53",
+    "valueFractionalUnit": "70",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
    "flightKey": "RK~4181~ ~~BSL~12/04/2026 11:50~STN~12/04/2026 12:30~~",
    "flightNumber": "RK4181",
    "previousPrice": null,
-   "priceUpdated": 1791800292000
+   "priceUpdated": 1792436591000
   },
   "summary": {
    "price": {
-    "value": 54.99,
-    "valueMainUnit": "54",
-    "valueFractionalUnit": "99",
+    "value": 53.7,
+    "valueMainUnit": "53",
+    "valueFractionalUnit": "70",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
    "previousPrice": null,
    "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Switzerland",
+    "iataCode": "BSL",
+    "name": "Basel",
+    "seoName": "basel",
+    "city": {
+     "code": "BASEL",
+     "countryCode": "ch",
+     "name": "Basel"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Croatia",
+    "iataCode": "ZAG",
+    "name": "Zagreb",
+    "seoName": "zagreb",
+    "city": {
+     "code": "ZAGREB",
+     "countryCode": "hr",
+     "name": "Zagreb"
+    }
+   },
+   "departureDate": "2026-12-11T17:10:00",
+   "arrivalDate": "2026-12-11T18:40:00",
+   "price": {
+    "value": 58.88,
+    "valueMainUnit": "58",
+    "valueFractionalUnit": "88",
+    "currencyCode": "CHF",
+    "currencySymbol": "CHF"
+   },
+   "flightKey": "FR~5863~ ~~BSL~12/11/2026 17:10~ZAG~12/11/2026 18:40~~",
+   "flightNumber": "FR5863",
+   "previousPrice": null,
+   "priceUpdated": 1792415710000
+  },
+  "summary": {
+   "price": {
+    "value": 58.88,
+    "valueMainUnit": "58",
+    "valueFractionalUnit": "88",
+    "currencyCode": "CHF",
+    "currencySymbol": "CHF"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Switzerland",
+    "iataCode": "BSL",
+    "name": "Basel",
+    "seoName": "basel",
+    "city": {
+     "code": "BASEL",
+     "countryCode": "ch",
+     "name": "Basel"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Croatia",
+    "iataCode": "ZAG",
+    "name": "Zagreb",
+    "seoName": "zagreb",
+    "city": {
+     "code": "ZAGREB",
+     "countryCode": "hr",
+     "name": "Zagreb"
+    }
+   },
+   "departureDate": "2026-12-04T17:10:00",
+   "arrivalDate": "2026-12-04T18:40:00",
+   "price": {
+    "value": 60.28,
+    "valueMainUnit": "60",
+    "valueFractionalUnit": "28",
+    "currencyCode": "CHF",
+    "currencySymbol": "CHF"
+   },
+   "flightKey": "FR~5863~ ~~BSL~12/04/2026 17:10~ZAG~12/04/2026 18:40~~",
+   "flightNumber": "FR5863",
+   "previousPrice": null,
+   "priceUpdated": 1792431566000
+  },
+  "summary": {
+   "price": {
+    "value": 60.28,
+    "valueMainUnit": "60",
+    "valueFractionalUnit": "28",
+    "currencyCode": "CHF",
+    "currencySymbol": "CHF"
+   },
+   "previousPrice": null,
+   "newRoute": false
   }
  },
  {
@@ -530,22 +530,22 @@
    "departureDate": "2026-12-07T16:10:00",
    "arrivalDate": "2026-12-07T16:50:00",
    "price": {
-    "value": 57.79,
-    "valueMainUnit": "57",
-    "valueFractionalUnit": "79",
+    "value": 66.66,
+    "valueMainUnit": "66",
+    "valueFractionalUnit": "66",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
    "flightKey": "RK~4181~ ~~BSL~12/07/2026 16:10~STN~12/07/2026 16:50~~",
    "flightNumber": "RK4181",
    "previousPrice": null,
-   "priceUpdated": 1791800289000
+   "priceUpdated": 1792424887000
   },
   "summary": {
    "price": {
-    "value": 57.79,
-    "valueMainUnit": "57",
-    "valueFractionalUnit": "79",
+    "value": 66.66,
+    "valueMainUnit": "66",
+    "valueFractionalUnit": "66",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
@@ -580,22 +580,22 @@
    "departureDate": "2026-12-07T17:20:00",
    "arrivalDate": "2026-12-07T18:35:00",
    "price": {
-    "value": 80.16,
-    "valueMainUnit": "80",
-    "valueFractionalUnit": "16",
+    "value": 72.22,
+    "valueMainUnit": "72",
+    "valueFractionalUnit": "22",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
    "flightKey": "FR~5132~ ~~BSL~12/07/2026 17:20~DUB~12/07/2026 18:35~~",
    "flightNumber": "FR5132",
    "previousPrice": null,
-   "priceUpdated": 1791800288000
+   "priceUpdated": 1792421454000
   },
   "summary": {
    "price": {
-    "value": 80.16,
-    "valueMainUnit": "80",
-    "valueFractionalUnit": "16",
+    "value": 72.22,
+    "valueMainUnit": "72",
+    "valueFractionalUnit": "22",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
@@ -630,22 +630,22 @@
    "departureDate": "2026-12-06T16:05:00",
    "arrivalDate": "2026-12-06T17:20:00",
    "price": {
-    "value": 83.89,
-    "valueMainUnit": "83",
-    "valueFractionalUnit": "89",
+    "value": 84.26,
+    "valueMainUnit": "84",
+    "valueFractionalUnit": "26",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
    "flightKey": "FR~5132~ ~~BSL~12/06/2026 16:05~DUB~12/06/2026 17:20~~",
    "flightNumber": "FR5132",
    "previousPrice": null,
-   "priceUpdated": 1791800290000
+   "priceUpdated": 1792419284000
   },
   "summary": {
    "price": {
-    "value": 83.89,
-    "valueMainUnit": "83",
-    "valueFractionalUnit": "89",
+    "value": 84.26,
+    "valueMainUnit": "84",
+    "valueFractionalUnit": "26",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
@@ -680,22 +680,22 @@
    "departureDate": "2026-12-10T16:05:00",
    "arrivalDate": "2026-12-10T17:20:00",
    "price": {
-    "value": 87.62,
-    "valueMainUnit": "87",
-    "valueFractionalUnit": "62",
+    "value": 90.74,
+    "valueMainUnit": "90",
+    "valueFractionalUnit": "74",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
    "flightKey": "FR~5132~ ~~BSL~12/10/2026 16:05~DUB~12/10/2026 17:20~~",
    "flightNumber": "FR5132",
    "previousPrice": null,
-   "priceUpdated": 1791800291000
+   "priceUpdated": 1792419316000
   },
   "summary": {
    "price": {
-    "value": 87.62,
-    "valueMainUnit": "87",
-    "valueFractionalUnit": "62",
+    "value": 90.74,
+    "valueMainUnit": "90",
+    "valueFractionalUnit": "74",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
@@ -731,22 +731,22 @@
    "departureDate": "2026-12-16T12:35:00",
    "arrivalDate": "2026-12-16T13:15:00",
    "price": {
-    "value": 23.12,
-    "valueMainUnit": "23",
-    "valueFractionalUnit": "12",
+    "value": 22.28,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "28",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
    "flightKey": "RK~4181~ ~~BSL~12/16/2026 12:35~STN~12/16/2026 13:15~~",
    "flightNumber": "RK4181",
    "previousPrice": null,
-   "priceUpdated": 1791800288000
+   "priceUpdated": 1792434014000
   },
   "summary": {
    "price": {
-    "value": 23.12,
-    "valueMainUnit": "23",
-    "valueFractionalUnit": "12",
+    "value": 22.28,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "28",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
@@ -781,22 +781,22 @@
    "departureDate": "2026-12-12T08:30:00",
    "arrivalDate": "2026-12-12T10:00:00",
    "price": {
-    "value": 23.3,
-    "valueMainUnit": "23",
-    "valueFractionalUnit": "30",
+    "value": 26.84,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "84",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
    "flightKey": "FR~5863~ ~~BSL~12/12/2026 08:30~ZAG~12/12/2026 10:00~~",
    "flightNumber": "FR5863",
    "previousPrice": null,
-   "priceUpdated": 1791800291000
+   "priceUpdated": 1792420387000
   },
   "summary": {
    "price": {
-    "value": 23.3,
-    "valueMainUnit": "23",
-    "valueFractionalUnit": "30",
+    "value": 26.84,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "84",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
@@ -831,22 +831,22 @@
    "departureDate": "2026-12-13T09:10:00",
    "arrivalDate": "2026-12-13T10:40:00",
    "price": {
-    "value": 34.48,
+    "value": 34.25,
     "valueMainUnit": "34",
-    "valueFractionalUnit": "48",
+    "valueFractionalUnit": "25",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
    "flightKey": "FR~5870~ ~~BSL~12/13/2026 09:10~ZAG~12/13/2026 10:40~~",
    "flightNumber": "FR5870",
    "previousPrice": null,
-   "priceUpdated": 1791800290000
+   "priceUpdated": 1792420388000
   },
   "summary": {
    "price": {
-    "value": 34.48,
+    "value": 34.25,
     "valueMainUnit": "34",
-    "valueFractionalUnit": "48",
+    "valueFractionalUnit": "25",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
@@ -881,22 +881,22 @@
    "departureDate": "2026-12-14T07:50:00",
    "arrivalDate": "2026-12-14T09:20:00",
    "price": {
-    "value": 39.25,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "25",
+    "value": 34.7,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "70",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
    "flightKey": "FR~5863~ ~~BSL~12/14/2026 07:50~ZAG~12/14/2026 09:20~~",
    "flightNumber": "FR5863",
    "previousPrice": null,
-   "priceUpdated": 1791800290000
+   "priceUpdated": 1792405382000
   },
   "summary": {
    "price": {
-    "value": 39.25,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "25",
+    "value": 34.7,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "70",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
@@ -931,22 +931,22 @@
    "departureDate": "2026-12-12T10:00:00",
    "arrivalDate": "2026-12-12T11:15:00",
    "price": {
-    "value": 40.08,
-    "valueMainUnit": "40",
-    "valueFractionalUnit": "08",
+    "value": 38.88,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "88",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
    "flightKey": "FR~5132~ ~~BSL~12/12/2026 10:00~DUB~12/12/2026 11:15~~",
    "flightNumber": "FR5132",
    "previousPrice": null,
-   "priceUpdated": 1791800288000
+   "priceUpdated": 1792424464000
   },
   "summary": {
    "price": {
-    "value": 40.08,
-    "valueMainUnit": "40",
-    "valueFractionalUnit": "08",
+    "value": 38.88,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "88",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
@@ -982,27 +982,77 @@
    "departureDate": "2026-12-14T16:10:00",
    "arrivalDate": "2026-12-14T16:50:00",
    "price": {
-    "value": 53.13,
-    "valueMainUnit": "53",
-    "valueFractionalUnit": "13",
+    "value": 49.07,
+    "valueMainUnit": "49",
+    "valueFractionalUnit": "07",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
    "flightKey": "RK~4181~ ~~BSL~12/14/2026 16:10~STN~12/14/2026 16:50~~",
    "flightNumber": "RK4181",
    "previousPrice": null,
-   "priceUpdated": 1791800291000
+   "priceUpdated": 1792419791000
   },
   "summary": {
    "price": {
-    "value": 53.13,
-    "valueMainUnit": "53",
-    "valueFractionalUnit": "13",
+    "value": 49.07,
+    "valueMainUnit": "49",
+    "valueFractionalUnit": "07",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
    "previousPrice": null,
    "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Switzerland",
+    "iataCode": "BSL",
+    "name": "Basel",
+    "seoName": "basel",
+    "city": {
+     "code": "BASEL",
+     "countryCode": "ch",
+     "name": "Basel"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Croatia",
+    "iataCode": "ZAG",
+    "name": "Zagreb",
+    "seoName": "zagreb",
+    "city": {
+     "code": "ZAGREB",
+     "countryCode": "hr",
+     "name": "Zagreb"
+    }
+   },
+   "departureDate": "2026-12-19T19:55:00",
+   "arrivalDate": "2026-12-19T21:25:00",
+   "price": {
+    "value": 75.81,
+    "valueMainUnit": "75",
+    "valueFractionalUnit": "81",
+    "currencyCode": "CHF",
+    "currencySymbol": "CHF"
+   },
+   "flightKey": "FR~5870~ ~~BSL~12/19/2026 19:55~ZAG~12/19/2026 21:25~~",
+   "flightNumber": "FR5870",
+   "previousPrice": null,
+   "priceUpdated": 1792441932000
+  },
+  "summary": {
+   "price": {
+    "value": 75.81,
+    "valueMainUnit": "75",
+    "valueFractionalUnit": "81",
+    "currencyCode": "CHF",
+    "currencySymbol": "CHF"
+   },
+   "previousPrice": null,
+   "newRoute": false
   }
  },
  {
@@ -1033,22 +1083,22 @@
    "departureDate": "2026-12-18T11:50:00",
    "arrivalDate": "2026-12-18T12:30:00",
    "price": {
-    "value": 91.11,
-    "valueMainUnit": "91",
-    "valueFractionalUnit": "11",
+    "value": 80.55,
+    "valueMainUnit": "80",
+    "valueFractionalUnit": "55",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
    "flightKey": "RK~4181~ ~~BSL~12/18/2026 11:50~STN~12/18/2026 12:30~~",
    "flightNumber": "RK4181",
    "previousPrice": null,
-   "priceUpdated": 1791802089000
+   "priceUpdated": 1792441930000
   },
   "summary": {
    "price": {
-    "value": 91.11,
-    "valueMainUnit": "91",
-    "valueFractionalUnit": "11",
+    "value": 80.55,
+    "valueMainUnit": "80",
+    "valueFractionalUnit": "55",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
@@ -1080,175 +1130,25 @@
      "name": "Dublin"
     }
    },
-   "departureDate": "2026-12-14T17:20:00",
-   "arrivalDate": "2026-12-14T18:35:00",
-   "price": {
-    "value": 92.28,
-    "valueMainUnit": "92",
-    "valueFractionalUnit": "28",
-    "currencyCode": "CHF",
-    "currencySymbol": "CHF"
-   },
-   "flightKey": "FR~5132~ ~~BSL~12/14/2026 17:20~DUB~12/14/2026 18:35~~",
-   "flightNumber": "FR5132",
-   "previousPrice": null,
-   "priceUpdated": 1791800289000
-  },
-  "summary": {
-   "price": {
-    "value": 92.28,
-    "valueMainUnit": "92",
-    "valueFractionalUnit": "28",
-    "currencyCode": "CHF",
-    "currencySymbol": "CHF"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Switzerland",
-    "iataCode": "BSL",
-    "name": "Basel",
-    "seoName": "basel",
-    "city": {
-     "code": "BASEL",
-     "countryCode": "ch",
-     "name": "Basel"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Croatia",
-    "iataCode": "ZAG",
-    "name": "Zagreb",
-    "seoName": "zagreb",
-    "city": {
-     "code": "ZAGREB",
-     "countryCode": "hr",
-     "name": "Zagreb"
-    }
-   },
-   "departureDate": "2026-12-19T19:55:00",
-   "arrivalDate": "2026-12-19T21:25:00",
-   "price": {
-    "value": 100.67,
-    "valueMainUnit": "100",
-    "valueFractionalUnit": "67",
-    "currencyCode": "CHF",
-    "currencySymbol": "CHF"
-   },
-   "flightKey": "FR~5870~ ~~BSL~12/19/2026 19:55~ZAG~12/19/2026 21:25~~",
-   "flightNumber": "FR5870",
-   "previousPrice": null,
-   "priceUpdated": 1791800291000
-  },
-  "summary": {
-   "price": {
-    "value": 100.67,
-    "valueMainUnit": "100",
-    "valueFractionalUnit": "67",
-    "currencyCode": "CHF",
-    "currencySymbol": "CHF"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Switzerland",
-    "iataCode": "BSL",
-    "name": "Basel",
-    "seoName": "basel",
-    "city": {
-     "code": "BASEL",
-     "countryCode": "ch",
-     "name": "Basel"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
    "departureDate": "2026-12-13T16:05:00",
    "arrivalDate": "2026-12-13T17:20:00",
    "price": {
-    "value": 101.71,
-    "valueMainUnit": "101",
-    "valueFractionalUnit": "71",
+    "value": 97.16,
+    "valueMainUnit": "97",
+    "valueFractionalUnit": "16",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
    "flightKey": "FR~5132~ ~~BSL~12/13/2026 16:05~DUB~12/13/2026 17:20~~",
    "flightNumber": "FR5132",
    "previousPrice": null,
-   "priceUpdated": 1791800292000
+   "priceUpdated": 1792435810000
   },
   "summary": {
    "price": {
-    "value": 101.71,
-    "valueMainUnit": "101",
-    "valueFractionalUnit": "71",
-    "currencyCode": "CHF",
-    "currencySymbol": "CHF"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Switzerland",
-    "iataCode": "BSL",
-    "name": "Basel",
-    "seoName": "basel",
-    "city": {
-     "code": "BASEL",
-     "countryCode": "ch",
-     "name": "Basel"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-17T16:05:00",
-   "arrivalDate": "2026-12-17T17:20:00",
-   "price": {
-    "value": 103.91,
-    "valueMainUnit": "103",
-    "valueFractionalUnit": "91",
-    "currencyCode": "CHF",
-    "currencySymbol": "CHF"
-   },
-   "flightKey": "FR~5132~ ~~BSL~12/17/2026 16:05~DUB~12/17/2026 17:20~~",
-   "flightNumber": "FR5132",
-   "previousPrice": null,
-   "priceUpdated": 1791800288000
-  },
-  "summary": {
-   "price": {
-    "value": 103.91,
-    "valueMainUnit": "103",
-    "valueFractionalUnit": "91",
+    "value": 97.16,
+    "valueMainUnit": "97",
+    "valueFractionalUnit": "16",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
@@ -1283,22 +1183,72 @@
    "departureDate": "2026-12-17T10:00:00",
    "arrivalDate": "2026-12-17T11:30:00",
    "price": {
-    "value": 105.99,
-    "valueMainUnit": "105",
-    "valueFractionalUnit": "99",
+    "value": 100.92,
+    "valueMainUnit": "100",
+    "valueFractionalUnit": "92",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
    "flightKey": "FR~5863~ ~~BSL~12/17/2026 10:00~ZAG~12/17/2026 11:30~~",
    "flightNumber": "FR5863",
    "previousPrice": null,
-   "priceUpdated": 1791801371000
+   "priceUpdated": 1792436784000
   },
   "summary": {
    "price": {
-    "value": 105.99,
-    "valueMainUnit": "105",
-    "valueFractionalUnit": "99",
+    "value": 100.92,
+    "valueMainUnit": "100",
+    "valueFractionalUnit": "92",
+    "currencyCode": "CHF",
+    "currencySymbol": "CHF"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Switzerland",
+    "iataCode": "BSL",
+    "name": "Basel",
+    "seoName": "basel",
+    "city": {
+     "code": "BASEL",
+     "countryCode": "ch",
+     "name": "Basel"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-14T17:20:00",
+   "arrivalDate": "2026-12-14T18:35:00",
+   "price": {
+    "value": 103.7,
+    "valueMainUnit": "103",
+    "valueFractionalUnit": "70",
+    "currencyCode": "CHF",
+    "currencySymbol": "CHF"
+   },
+   "flightKey": "FR~5132~ ~~BSL~12/14/2026 17:20~DUB~12/14/2026 18:35~~",
+   "flightNumber": "FR5132",
+   "previousPrice": null,
+   "priceUpdated": 1792428639000
+  },
+  "summary": {
+   "price": {
+    "value": 103.7,
+    "valueMainUnit": "103",
+    "valueFractionalUnit": "70",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
@@ -1333,22 +1283,72 @@
    "departureDate": "2026-12-18T17:10:00",
    "arrivalDate": "2026-12-18T18:40:00",
    "price": {
-    "value": 140.39,
-    "valueMainUnit": "140",
-    "valueFractionalUnit": "39",
+    "value": 109.26,
+    "valueMainUnit": "109",
+    "valueFractionalUnit": "26",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
    "flightKey": "FR~5863~ ~~BSL~12/18/2026 17:10~ZAG~12/18/2026 18:40~~",
    "flightNumber": "FR5863",
    "previousPrice": null,
-   "priceUpdated": 1791801629000
+   "priceUpdated": 1792440191000
   },
   "summary": {
    "price": {
-    "value": 140.39,
-    "valueMainUnit": "140",
-    "valueFractionalUnit": "39",
+    "value": 109.26,
+    "valueMainUnit": "109",
+    "valueFractionalUnit": "26",
+    "currencyCode": "CHF",
+    "currencySymbol": "CHF"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Switzerland",
+    "iataCode": "BSL",
+    "name": "Basel",
+    "seoName": "basel",
+    "city": {
+     "code": "BASEL",
+     "countryCode": "ch",
+     "name": "Basel"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-17T16:05:00",
+   "arrivalDate": "2026-12-17T17:20:00",
+   "price": {
+    "value": 116.62,
+    "valueMainUnit": "116",
+    "valueFractionalUnit": "62",
+    "currencyCode": "CHF",
+    "currencySymbol": "CHF"
+   },
+   "flightKey": "FR~5132~ ~~BSL~12/17/2026 16:05~DUB~12/17/2026 17:20~~",
+   "flightNumber": "FR5132",
+   "previousPrice": null,
+   "priceUpdated": 1792405378000
+  },
+  "summary": {
+   "price": {
+    "value": 116.62,
+    "valueMainUnit": "116",
+    "valueFractionalUnit": "62",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
@@ -1383,22 +1383,22 @@
    "departureDate": "2026-12-19T10:00:00",
    "arrivalDate": "2026-12-19T11:15:00",
    "price": {
-    "value": 180.0,
-    "valueMainUnit": "180",
-    "valueFractionalUnit": "00",
+    "value": 170.94,
+    "valueMainUnit": "170",
+    "valueFractionalUnit": "94",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },
    "flightKey": "FR~5132~ ~~BSL~12/19/2026 10:00~DUB~12/19/2026 11:15~~",
    "flightNumber": "FR5132",
    "previousPrice": null,
-   "priceUpdated": 1791802378000
+   "priceUpdated": 1792428488000
   },
   "summary": {
    "price": {
-    "value": 180.0,
-    "valueMainUnit": "180",
-    "valueFractionalUnit": "00",
+    "value": 170.94,
+    "valueMainUnit": "170",
+    "valueFractionalUnit": "94",
     "currencyCode": "CHF",
     "currencySymbol": "CHF"
    },

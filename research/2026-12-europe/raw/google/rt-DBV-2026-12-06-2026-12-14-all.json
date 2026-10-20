@@ -1,17 +1,21 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDZqBRIDVFJEcgUSA0RCVhoaEgoyMDI2LTEyLTE0agUSA0RCVnIFEgNUUkRAAUgBmAEB",
- "via": "ui",
+ "fetchedAt": "2026-10-19T22:54:15",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 588.0,
+   "price": 571.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Wideroe, Lufthansa and Croatia",
    "operatedBy": null,
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "09:10",
    "depDate": "2026-12-06",
+   "arrCode": "DBV",
    "arrAirportName": "Dubrovnik Airport",
    "arrTime": "21:15",
    "arrDate": "2026-12-06",
@@ -19,30 +23,42 @@
    "layovers": [
     {
      "min": 155,
+     "overnight": false,
      "airport": "Bergen Airport",
      "city": "Bergen",
-     "overnight": false
+     "code": "BGO",
+     "changeAirport": false
     },
     {
      "min": 265,
+     "overnight": false,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
-     "overnight": false
+     "code": "FRA",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "WF1302",
+    "LH873",
+    "OU419"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 1924.0,
+   "price": 1950.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "KLM and Croatia",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-06",
+   "arrCode": "DBV",
    "arrAirportName": "Dubrovnik Airport",
    "arrTime": "21:15",
    "arrDate": "2026-12-06",
@@ -50,19 +66,115 @@
    "layovers": [
     {
      "min": 235,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     },
     {
      "min": 345,
+     "overnight": false,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
-     "overnight": false
+     "code": "FRA",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1150",
+    "KL1819",
+    "OU419"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 1950.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Croatia",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-06",
+   "arrCode": "DBV",
+   "arrAirportName": "Dubrovnik Airport",
+   "arrTime": "21:15",
+   "arrDate": "2026-12-06",
+   "durationMin": 895,
+   "layovers": [
+    {
+     "min": 80,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    },
+    {
+     "min": 495,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1150",
+    "KL1817",
+    "OU419"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 1950.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Croatia",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-06",
+   "arrCode": "DBV",
+   "arrAirportName": "Dubrovnik Airport",
+   "arrTime": "21:15",
+   "arrDate": "2026-12-06",
+   "durationMin": 895,
+   "layovers": [
+    {
+     "min": 490,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    },
+    {
+     "min": 90,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1150",
+    "KL1821",
+    "OU419"
+   ],
+   "via": "rpc"
   }
  ]
 }

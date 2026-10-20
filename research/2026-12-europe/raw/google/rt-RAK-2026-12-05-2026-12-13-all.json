@@ -1,5 +1,309 @@
 {
- "url": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEyLTA1agcIARIDVFJEcgcIARIDUkFLGh4SCjIwMjYtMTItMTNqBwgBEgNSQUtyBwgBEgNUUkRAAUgBcAGCAQsI____________AZgBAQ&hl=en&gl=NO&curr=EUR",
- "via": "ui",
- "itineraries": []
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA1JBSxoaEgoyMDI2LTEyLTEzagUSA1JBS3IFEgNUUkRAAUgBmAEB",
+ "fetchedAt": "2026-10-19T22:55:17",
+ "priceUnavailable": 0,
+ "via": "rpc",
+ "itineraries": [
+  {
+   "price": 319.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Air France",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-05",
+   "arrCode": "RAK",
+   "arrAirportName": "Marrakesh Menara Airport",
+   "arrTime": "21:15",
+   "arrDate": "2026-12-05",
+   "durationMin": 955,
+   "layovers": [
+    {
+     "min": 330,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    },
+    {
+     "min": 200,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1150",
+    "AF1641",
+    "AF1776"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 500.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe, Lufthansa and Discover Airlines",
+   "operatedBy": null,
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "13:05",
+   "depDate": "2026-12-05",
+   "arrCode": "RAK",
+   "arrAirportName": "Marrakesh Menara Airport",
+   "arrTime": "23:55",
+   "arrDate": "2026-12-05",
+   "durationMin": 710,
+   "layovers": [
+    {
+     "min": 150,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    },
+    {
+     "min": 130,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "WF1448",
+    "LH863",
+    "4Y204"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 537.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "07:00",
+   "depDate": "2026-12-05",
+   "arrCode": "RAK",
+   "arrAirportName": "Marrakesh Menara Airport",
+   "arrTime": "21:15",
+   "arrDate": "2026-12-05",
+   "durationMin": 915,
+   "layovers": [
+    {
+     "min": 35,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    },
+    {
+     "min": 450,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK341",
+    "SK837",
+    "AF1776"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 500.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Air France",
+   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-05",
+   "arrCode": "RAK",
+   "arrAirportName": "Marrakesh Menara Airport",
+   "arrTime": "21:15",
+   "arrDate": "2026-12-05",
+   "durationMin": 955,
+   "layovers": [
+    {
+     "min": 370,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    },
+    {
+     "min": 160,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1150",
+    "AF1741",
+    "AF1776"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 627.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe, Lufthansa and Discover Airlines",
+   "operatedBy": null,
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "16:45",
+   "depDate": "2026-12-05",
+   "arrCode": "RAK",
+   "arrAirportName": "Marrakesh Menara Airport",
+   "arrTime": "11:30",
+   "arrDate": "2026-12-06",
+   "durationMin": 1185,
+   "layovers": [
+    {
+     "min": 40,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    },
+    {
+     "min": 705,
+     "overnight": true,
+     "airport": "Munich International Airport",
+     "city": "Munich",
+     "code": "MUC",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "WF1452",
+    "LH2455",
+    "4Y212"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 717.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": "Cityjet",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:15",
+   "depDate": "2026-12-05",
+   "arrCode": "RAK",
+   "arrAirportName": "Marrakesh Menara Airport",
+   "arrTime": "21:15",
+   "arrDate": "2026-12-05",
+   "durationMin": 720,
+   "layovers": [
+    {
+     "min": 225,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "code": "CPH",
+     "changeAirport": false
+    },
+    {
+     "min": 75,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK2889",
+    "AF1851",
+    "AF1776"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 1627.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Air France",
+   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-05",
+   "arrCode": "RAK",
+   "arrAirportName": "Marrakesh Menara Airport",
+   "arrTime": "21:15",
+   "arrDate": "2026-12-05",
+   "durationMin": 955,
+   "layovers": [
+    {
+     "min": 105,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    },
+    {
+     "min": 420,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1150",
+    "AF1341",
+    "AF1776"
+   ],
+   "via": "rpc"
+  }
+ ]
 }

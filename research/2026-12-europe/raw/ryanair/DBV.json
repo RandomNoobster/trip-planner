@@ -27,8 +27,8 @@
    "departureDate": "2026-12-04T21:00:00",
    "arrivalDate": "2026-12-04T22:50:00",
    "price": {
-    "value": 15.99,
-    "valueMainUnit": "15",
+    "value": 14.99,
+    "valueMainUnit": "14",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -36,12 +36,12 @@
    "flightKey": "FR~5966~ ~~DBV~12/04/2026 21:00~STN~12/04/2026 22:50~~",
    "flightNumber": "FR5966",
    "previousPrice": null,
-   "priceUpdated": 1791800397000
+   "priceUpdated": 1792419241000
   },
   "summary": {
    "price": {
-    "value": 15.99,
-    "valueMainUnit": "15",
+    "value": 14.99,
+    "valueMainUnit": "14",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -86,7 +86,7 @@
    "flightKey": "FR~5916~ ~~DBV~12/05/2026 09:15~KRK~12/05/2026 10:55~~",
    "flightNumber": "FR5916",
    "previousPrice": null,
-   "priceUpdated": 1791800399000
+   "priceUpdated": 1792405425000
   },
   "summary": {
    "price": {
@@ -127,8 +127,8 @@
    "departureDate": "2026-12-07T15:15:00",
    "arrivalDate": "2026-12-07T16:55:00",
    "price": {
-    "value": 26.99,
-    "valueMainUnit": "26",
+    "value": 22.99,
+    "valueMainUnit": "22",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -136,12 +136,12 @@
    "flightKey": "FR~5916~ ~~DBV~12/07/2026 15:15~KRK~12/07/2026 16:55~~",
    "flightNumber": "FR5916",
    "previousPrice": null,
-   "priceUpdated": 1791800397000
+   "priceUpdated": 1792419844000
   },
   "summary": {
    "price": {
-    "value": 26.99,
-    "valueMainUnit": "26",
+    "value": 22.99,
+    "valueMainUnit": "22",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -187,7 +187,7 @@
    "flightKey": "FR~5966~ ~~DBV~12/06/2026 19:05~STN~12/06/2026 20:55~~",
    "flightNumber": "FR5966",
    "previousPrice": null,
-   "priceUpdated": 1791800397000
+   "priceUpdated": 1792405428000
   },
   "summary": {
    "price": {
@@ -238,7 +238,7 @@
    "flightKey": "FR~5966~ ~~DBV~12/11/2026 21:00~STN~12/11/2026 22:50~~",
    "flightNumber": "FR5966",
    "previousPrice": null,
-   "priceUpdated": 1791800394000
+   "priceUpdated": 1792405381000
   },
   "summary": {
    "price": {
@@ -288,7 +288,57 @@
    "flightKey": "FR~3881~ ~~DBV~12/04/2026 11:50~DUB~12/04/2026 14:15~~",
    "flightNumber": "FR3881",
    "previousPrice": null,
-   "priceUpdated": 1791800398000
+   "priceUpdated": 1792434001000
+  },
+  "summary": {
+   "price": {
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Croatia",
+    "iataCode": "DBV",
+    "name": "Dubrovnik",
+    "seoName": "dubrovnik",
+    "city": {
+     "code": "DUBROVNIK",
+     "countryCode": "hr",
+     "name": "Dubrovnik"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-11T11:50:00",
+   "arrivalDate": "2026-12-11T14:15:00",
+   "price": {
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3881~ ~~DBV~12/11/2026 11:50~DUB~12/11/2026 14:15~~",
+   "flightNumber": "FR3881",
+   "previousPrice": null,
+   "priceUpdated": 1792434009000
   },
   "summary": {
    "price": {
@@ -329,72 +379,22 @@
    "departureDate": "2026-12-06T20:40:00",
    "arrivalDate": "2026-12-06T23:05:00",
    "price": {
-    "value": 37.04,
-    "valueMainUnit": "37",
-    "valueFractionalUnit": "04",
+    "value": 49.41,
+    "valueMainUnit": "49",
+    "valueFractionalUnit": "41",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~3881~ ~~DBV~12/06/2026 20:40~DUB~12/06/2026 23:05~~",
    "flightNumber": "FR3881",
    "previousPrice": null,
-   "priceUpdated": 1791800395000
+   "priceUpdated": 1792426160000
   },
   "summary": {
    "price": {
-    "value": 37.04,
-    "valueMainUnit": "37",
-    "valueFractionalUnit": "04",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Croatia",
-    "iataCode": "DBV",
-    "name": "Dubrovnik",
-    "seoName": "dubrovnik",
-    "city": {
-     "code": "DUBROVNIK",
-     "countryCode": "hr",
-     "name": "Dubrovnik"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-11T11:50:00",
-   "arrivalDate": "2026-12-11T14:15:00",
-   "price": {
-    "value": 42.89,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "89",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3881~ ~~DBV~12/11/2026 11:50~DUB~12/11/2026 14:15~~",
-   "flightNumber": "FR3881",
-   "previousPrice": null,
-   "priceUpdated": 1791800394000
-  },
-  "summary": {
-   "price": {
-    "value": 42.89,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "89",
+    "value": 49.41,
+    "valueMainUnit": "49",
+    "valueFractionalUnit": "41",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -438,7 +438,7 @@
    "flightKey": "FR~5916~ ~~DBV~12/12/2026 09:15~KRK~12/12/2026 10:55~~",
    "flightNumber": "FR5916",
    "previousPrice": null,
-   "priceUpdated": 1791800395000
+   "priceUpdated": 1792434895000
   },
   "summary": {
    "price": {
@@ -476,8 +476,8 @@
      "name": "Krakow"
     }
    },
-   "departureDate": "2026-12-14T15:15:00",
-   "arrivalDate": "2026-12-14T16:55:00",
+   "departureDate": "2026-12-19T09:15:00",
+   "arrivalDate": "2026-12-19T10:55:00",
    "price": {
     "value": 19.99,
     "valueMainUnit": "19",
@@ -485,10 +485,10 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~5916~ ~~DBV~12/14/2026 15:15~KRK~12/14/2026 16:55~~",
+   "flightKey": "FR~5916~ ~~DBV~12/19/2026 09:15~KRK~12/19/2026 10:55~~",
    "flightNumber": "FR5916",
    "previousPrice": null,
-   "priceUpdated": 1791800395000
+   "priceUpdated": 1792405379000
   },
   "summary": {
    "price": {
@@ -539,63 +539,13 @@
    "flightKey": "FR~5966~ ~~DBV~12/18/2026 21:00~STN~12/18/2026 22:50~~",
    "flightNumber": "FR5966",
    "previousPrice": null,
-   "priceUpdated": 1791801649000
+   "priceUpdated": 1792419465000
   },
   "summary": {
    "price": {
     "value": 19.99,
     "valueMainUnit": "19",
     "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Croatia",
-    "iataCode": "DBV",
-    "name": "Dubrovnik",
-    "seoName": "dubrovnik",
-    "city": {
-     "code": "DUBROVNIK",
-     "countryCode": "hr",
-     "name": "Dubrovnik"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Poland",
-    "iataCode": "KRK",
-    "name": "Krakow",
-    "seoName": "krakow",
-    "city": {
-     "code": "KRAKOW",
-     "countryCode": "pl",
-     "name": "Krakow"
-    }
-   },
-   "departureDate": "2026-12-19T09:15:00",
-   "arrivalDate": "2026-12-19T10:55:00",
-   "price": {
-    "value": 26.81,
-    "valueMainUnit": "26",
-    "valueFractionalUnit": "81",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5916~ ~~DBV~12/19/2026 09:15~KRK~12/19/2026 10:55~~",
-   "flightNumber": "FR5916",
-   "previousPrice": null,
-   "priceUpdated": 1791800396000
-  },
-  "summary": {
-   "price": {
-    "value": 26.81,
-    "valueMainUnit": "26",
-    "valueFractionalUnit": "81",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -640,13 +590,63 @@
    "flightKey": "FR~5966~ ~~DBV~12/13/2026 19:05~STN~12/13/2026 20:55~~",
    "flightNumber": "FR5966",
    "previousPrice": null,
-   "priceUpdated": 1791800396000
+   "priceUpdated": 1792435889000
   },
   "summary": {
    "price": {
     "value": 27.99,
     "valueMainUnit": "27",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Croatia",
+    "iataCode": "DBV",
+    "name": "Dubrovnik",
+    "seoName": "dubrovnik",
+    "city": {
+     "code": "DUBROVNIK",
+     "countryCode": "hr",
+     "name": "Dubrovnik"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Poland",
+    "iataCode": "KRK",
+    "name": "Krakow",
+    "seoName": "krakow",
+    "city": {
+     "code": "KRAKOW",
+     "countryCode": "pl",
+     "name": "Krakow"
+    }
+   },
+   "departureDate": "2026-12-14T15:15:00",
+   "arrivalDate": "2026-12-14T16:55:00",
+   "price": {
+    "value": 28.4,
+    "valueMainUnit": "28",
+    "valueFractionalUnit": "40",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5916~ ~~DBV~12/14/2026 15:15~KRK~12/14/2026 16:55~~",
+   "flightNumber": "FR5916",
+   "previousPrice": null,
+   "priceUpdated": 1792414487000
+  },
+  "summary": {
+   "price": {
+    "value": 28.4,
+    "valueMainUnit": "28",
+    "valueFractionalUnit": "40",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -690,7 +690,7 @@
    "flightKey": "FR~3881~ ~~DBV~12/13/2026 20:40~DUB~12/13/2026 23:05~~",
    "flightNumber": "FR3881",
    "previousPrice": null,
-   "priceUpdated": 1791800394000
+   "priceUpdated": 1792434006000
   },
   "summary": {
    "price": {
@@ -731,22 +731,22 @@
    "departureDate": "2026-12-18T11:50:00",
    "arrivalDate": "2026-12-18T14:15:00",
    "price": {
-    "value": 36.65,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "65",
+    "value": 35.48,
+    "valueMainUnit": "35",
+    "valueFractionalUnit": "48",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~3881~ ~~DBV~12/18/2026 11:50~DUB~12/18/2026 14:15~~",
    "flightNumber": "FR3881",
    "previousPrice": null,
-   "priceUpdated": 1791800396000
+   "priceUpdated": 1792413155000
   },
   "summary": {
    "price": {
-    "value": 36.65,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "65",
+    "value": 35.48,
+    "valueMainUnit": "35",
+    "valueFractionalUnit": "48",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },

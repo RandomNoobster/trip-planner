@@ -1,6 +1,6 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTRqBRIDTlVFcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T12:19:46",
+ "fetchedAt": "2026-10-19T23:17:51",
  "priceUnavailable": 0,
  "via": "rpc",
  "itineraries": [
@@ -56,7 +56,7 @@
    "durationMin": 635,
    "layovers": [
     {
-     "min": 430,
+     "min": 425,
      "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
@@ -73,41 +73,7 @@
    "via": "rpc"
   },
   {
-   "price": 290.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depCode": "NUE",
-   "depAirportName": "Nuremberg Airport",
-   "depTime": "10:10",
-   "depDate": "2026-12-14",
-   "arrCode": "TRD",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
-   "arrDate": "2026-12-14",
-   "durationMin": 385,
-   "layovers": [
-    {
-     "min": 175,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "code": "AMS",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "KL1840",
-    "KL1153"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 294.0,
+   "price": 257.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -146,6 +112,40 @@
     "LH149",
     "LH872",
     "WF1311"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 328.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "NUE",
+   "depAirportName": "Nuremberg Airport",
+   "depTime": "10:10",
+   "depDate": "2026-12-14",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-14",
+   "durationMin": 385,
+   "layovers": [
+    {
+     "min": 175,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1840",
+    "KL1153"
    ],
    "via": "rpc"
   },
@@ -193,7 +193,7 @@
    "via": "rpc"
   },
   {
-   "price": 313.0,
+   "price": 276.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -279,7 +279,7 @@
    "via": "rpc"
   },
   {
-   "price": 727.0,
+   "price": 730.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

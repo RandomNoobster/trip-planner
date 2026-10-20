@@ -1,10 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA0FMQ0ABSAGYAQI",
- "fetchedAt": "2026-10-11T11:25:17",
- "priceUnavailable": 24,
+ "fetchedAt": "2026-10-19T23:34:50",
+ "priceUnavailable": 0,
+ "via": "html",
  "itineraries": [
   {
-   "price": 148.0,
+   "price": 147.0,
    "roundTripTotal": false,
    "noOverheadBin": true,
    "stops": 1,
@@ -27,7 +28,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 148 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Trondheim Airport, Værnes at 6:20 PM on Wednesday, December 9 and arrives at Alicante-Elche Miguel Hernández Airport at 11:55 PM on Wednesday, December 9. Total duration 5 hr 35 min.  Layover (1 of 1) is a 55 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 147 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Trondheim Airport, Værnes at 6:20 PM on Wednesday, December 9 and arrives at Alicante-Elche Miguel Hernández Airport at 11:55 PM on Wednesday, December 9. Total duration 5 hr 35 min.  Layover (1 of 1) is a 55 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
    "price": 179.0,
@@ -56,7 +57,7 @@
    "label": "From 179 euros. 1 stop flight with KLM and Transavia. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Wednesday, December 9 and arrives at Alicante-Elche Miguel Hernández Airport at 6:40 PM on Wednesday, December 9. Total duration 12 hr 20 min.  Layover (1 of 1) is a 7 hr 20 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 273.0,
+   "price": 274.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -85,10 +86,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 273 euros. 2 stops flight with Scandinavian Airlines, KLM and Transavia. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 10:40 AM on Wednesday, December 9 and arrives at Alicante-Elche Miguel Hernández Airport at 6:40 PM on Wednesday, December 9. Total duration 8 hr.  Layover (1 of 2) is a 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 30 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 274 euros. 2 stops flight with Scandinavian Airlines, KLM and Transavia. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 10:40 AM on Wednesday, December 9 and arrives at Alicante-Elche Miguel Hernández Airport at 6:40 PM on Wednesday, December 9. Total duration 8 hr.  Layover (1 of 2) is a 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 30 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 343.0,
+   "price": 392.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -117,86 +118,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 343 euros. 2 stops flight with KLM and Air Europa. Operated by KLM Cityhopper, Air Europa Express. Leaves Trondheim Airport, Værnes at 6:20 AM on Wednesday, December 9 and arrives at Alicante-Elche Miguel Hernández Airport at 4:20 PM on Wednesday, December 9. Total duration 10 hr.  Layover (1 of 2) is a 1 hr layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 3 hr layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Select flight"
+   "label": "From 392 euros. 2 stops flight with KLM and Air Europa. Operated by KLM Cityhopper, Air Europa Express. Leaves Trondheim Airport, Værnes at 6:20 AM on Wednesday, December 9 and arrives at Alicante-Elche Miguel Hernández Airport at 4:20 PM on Wednesday, December 9. Total duration 10 hr.  Layover (1 of 2) is a 1 hr layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 3 hr layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Select flight"
   },
   {
-   "price": 480.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 3,
-   "airlines": "Wideroe, Lufthansa and Lufthansa City Airlines",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "09:10",
-   "depDate": "2026-12-09",
-   "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
-   "arrTime": "11:10",
-   "arrDate": "2026-12-11",
-   "durationMin": 3000,
-   "layovers": [
-    {
-     "min": 155,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen"
-    },
-    {
-     "min": 1035,
-     "overnight": false,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
-    },
-    {
-     "min": 1400,
-     "overnight": false,
-     "airport": "Munich International Airport",
-     "city": "Munich"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 480 euros. 3 stops flight with Wideroe, Lufthansa and Lufthansa City Airlines. Leaves Trondheim Airport, Værnes at 9:10 AM on Wednesday, December 9 and arrives at Alicante-Elche Miguel Hernández Airport at 11:10 AM on Friday, December 11. Total duration 50 hr.  Layover (1 of 3) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 17 hr 15 min layover at Frankfurt Airport in Frankfurt am Main. Layover (3 of 3) is a 23 hr 20 min layover at Munich International Airport in Munich. Select flight"
-  },
-  {
-   "price": 480.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 3,
-   "airlines": "Wideroe, Lufthansa and Lufthansa City Airlines",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "09:10",
-   "depDate": "2026-12-09",
-   "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
-   "arrTime": "11:10",
-   "arrDate": "2026-12-11",
-   "durationMin": 3000,
-   "layovers": [
-    {
-     "min": 155,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen"
-    },
-    {
-     "min": 1395,
-     "overnight": false,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
-    },
-    {
-     "min": 1040,
-     "overnight": false,
-     "airport": "Munich International Airport",
-     "city": "Munich"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 480 euros. 3 stops flight with Wideroe, Lufthansa and Lufthansa City Airlines. Leaves Trondheim Airport, Værnes at 9:10 AM on Wednesday, December 9 and arrives at Alicante-Elche Miguel Hernández Airport at 11:10 AM on Friday, December 11. Total duration 50 hr.  Layover (1 of 3) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 23 hr 15 min layover at Frankfurt Airport in Frankfurt am Main. Layover (3 of 3) is a 17 hr 20 min layover at Munich International Airport in Munich. Select flight"
-  },
-  {
-   "price": 724.0,
+   "price": 505.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -231,10 +156,86 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 724 euros. 3 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 3:35 PM on Wednesday, December 9 and arrives at Alicante-Elche Miguel Hernández Airport at 10:50 AM on Thursday, December 10. Total duration 19 hr 15 min.  Layover (1 of 3) is a 2 hr 15 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 8 hr layover at Helsinki Airport in Helsinki. Select flight"
+   "label": "From 505 euros. 3 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 3:35 PM on Wednesday, December 9 and arrives at Alicante-Elche Miguel Hernández Airport at 10:50 AM on Thursday, December 10. Total duration 19 hr 15 min.  Layover (1 of 3) is a 2 hr 15 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 8 hr layover at Helsinki Airport in Helsinki. Select flight"
   },
   {
-   "price": 743.0,
+   "price": 546.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Wideroe, Lufthansa and Lufthansa City Airlines",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "arrTime": "11:10",
+   "arrDate": "2026-12-11",
+   "durationMin": 3000,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    },
+    {
+     "min": 1035,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    },
+    {
+     "min": 1400,
+     "overnight": false,
+     "airport": "Munich International Airport",
+     "city": "Munich"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 546 euros. 3 stops flight with Wideroe, Lufthansa and Lufthansa City Airlines. Leaves Trondheim Airport, Værnes at 9:10 AM on Wednesday, December 9 and arrives at Alicante-Elche Miguel Hernández Airport at 11:10 AM on Friday, December 11. Total duration 50 hr.  Layover (1 of 3) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 17 hr 15 min layover at Frankfurt Airport in Frankfurt am Main. Layover (3 of 3) is a 23 hr 20 min layover at Munich International Airport in Munich. Select flight"
+  },
+  {
+   "price": 546.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Wideroe, Lufthansa and Lufthansa City Airlines",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "arrTime": "11:10",
+   "arrDate": "2026-12-11",
+   "durationMin": 3000,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    },
+    {
+     "min": 1395,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    },
+    {
+     "min": 1040,
+     "overnight": false,
+     "airport": "Munich International Airport",
+     "city": "Munich"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 546 euros. 3 stops flight with Wideroe, Lufthansa and Lufthansa City Airlines. Leaves Trondheim Airport, Værnes at 9:10 AM on Wednesday, December 9 and arrives at Alicante-Elche Miguel Hernández Airport at 11:10 AM on Friday, December 11. Total duration 50 hr.  Layover (1 of 3) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 23 hr 15 min layover at Frankfurt Airport in Frankfurt am Main. Layover (3 of 3) is a 17 hr 20 min layover at Munich International Airport in Munich. Select flight"
+  },
+  {
+   "price": 751.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -263,7 +264,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 743 euros. 2 stops flight with Scandinavian Airlines and Air Europa. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 10:15 AM on Wednesday, December 9 and arrives at Alicante-Elche Miguel Hernández Airport at 8:10 AM on Thursday, December 10. Total duration 21 hr 55 min.  Layover (1 of 2) is a 55 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 14 hr 50 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Select flight"
+   "label": "From 751 euros. 2 stops flight with Scandinavian Airlines and Air Europa. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 10:15 AM on Wednesday, December 9 and arrives at Alicante-Elche Miguel Hernández Airport at 8:10 AM on Thursday, December 10. Total duration 21 hr 55 min.  Layover (1 of 2) is a 55 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 14 hr 50 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Select flight"
   }
  ]
 }

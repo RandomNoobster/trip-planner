@@ -1,17 +1,21 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDZqBRIDVFJEcgUSA0JSVRoaEgoyMDI2LTEyLTE0agUSA0JSVXIFEgNUUkRAAUgBmAEB",
- "via": "ui",
+ "fetchedAt": "2026-10-19T22:47:02",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 230.0,
+   "price": 217.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-06",
+   "arrCode": "BRU",
    "arrAirportName": "Brussels Airport",
    "arrTime": "10:10",
    "arrDate": "2026-12-06",
@@ -19,24 +23,67 @@
    "layovers": [
     {
      "min": 45,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1150",
+    "KL1703"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 509.0,
+   "price": 252.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:15",
+   "depDate": "2026-12-06",
+   "arrCode": "BRU",
+   "arrAirportName": "Brussels Airport",
+   "arrTime": "22:20",
+   "arrDate": "2026-12-06",
+   "durationMin": 305,
+   "layovers": [
+    {
+     "min": 120,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1154",
+    "KL1707"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 607.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Wideroe, Lufthansa and Brussels Airlines",
    "operatedBy": null,
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "09:10",
    "depDate": "2026-12-06",
+   "arrCode": "BRU",
    "arrAirportName": "Brussels Airport",
    "arrTime": "17:30",
    "arrDate": "2026-12-06",
@@ -44,30 +91,42 @@
    "layovers": [
     {
      "min": 155,
+     "overnight": false,
      "airport": "Bergen Airport",
      "city": "Bergen",
-     "overnight": false
+     "code": "BGO",
+     "changeAirport": false
     },
     {
      "min": 85,
+     "overnight": false,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
-     "overnight": false
+     "code": "FRA",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "WF1302",
+    "LH873",
+    "SN2614"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 697.0,
+   "price": 653.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 3,
    "airlines": "Wideroe and Finnair",
-   "operatedBy": null,
+   "operatedBy": "Nordic Reg for Finnair",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "22:00",
    "depDate": "2026-12-06",
+   "arrCode": "BRU",
    "arrAirportName": "Brussels Airport",
    "arrTime": "18:25",
    "arrDate": "2026-12-07",
@@ -75,25 +134,38 @@
    "layovers": [
     {
      "min": 680,
+     "overnight": true,
      "airport": "Bergen Airport",
      "city": "Bergen",
-     "overnight": false
+     "code": "BGO",
+     "changeAirport": false
     },
     {
      "min": 25,
+     "overnight": false,
      "airport": "Stockholm Arlanda Airport",
      "city": "Stockholm",
-     "overnight": false
+     "code": "ARN",
+     "changeAirport": false
     },
     {
      "min": 115,
+     "overnight": false,
      "airport": "Helsinki Airport",
      "city": "Helsinki",
-     "overnight": false
+     "code": "HEL",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "WF1316",
+    "AY806",
+    "AY806",
+    "AY1545"
+   ],
+   "via": "rpc"
   }
  ]
 }

@@ -1,17 +1,21 @@
 {
- "url": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEyLTA1agcIARIDVFJEcgcIARIDU0dOGh4SCjIwMjYtMTItMTNqBwgBEgNTR05yBwgBEgNUUkRAAUgBcAGCAQsI____________AZgBAQ&hl=en&gl=NO&curr=EUR",
- "via": "ui",
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA1NHThoaEgoyMDI2LTEyLTEzagUSA1NHTnIFEgNUUkRAAUgBmAEB",
+ "fetchedAt": "2026-10-19T22:59:28",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 1243.0,
+   "price": 1564.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": null,
+   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "07:00",
    "depDate": "2026-12-05",
+   "arrCode": "SGN",
    "arrAirportName": "Tan Son Nhat International Airport",
    "arrTime": "07:40",
    "arrDate": "2026-12-06",
@@ -19,30 +23,42 @@
    "layovers": [
     {
      "min": 35,
+     "overnight": false,
      "airport": "Oslo lufthavn",
      "city": "Oslo",
-     "overnight": false
+     "code": "OSL",
+     "changeAirport": false
     },
     {
      "min": 120,
+     "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
-     "overnight": false
+     "code": "CDG",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "SK341",
+    "SK837",
+    "AF258"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 2029.0,
+   "price": 2493.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "KLM and Air France",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-05",
+   "arrCode": "SGN",
    "arrAirportName": "Tan Son Nhat International Airport",
    "arrTime": "07:40",
    "arrDate": "2026-12-06",
@@ -50,50 +66,29 @@
    "layovers": [
     {
      "min": 105,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     },
     {
      "min": 90,
+     "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
-     "overnight": false
+     "code": "CDG",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 2294.0,
-   "roundTripTotal": true,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Vietnam Airlines",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Tan Son Nhat International Airport",
-   "arrTime": "13:10",
-   "arrDate": "2026-12-06",
-   "durationMin": 1490,
-   "layovers": [
-    {
-     "min": 495,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "overnight": false
-    },
-    {
-     "min": 75,
-     "airport": "Suvarnabhumi Airport",
-     "city": "Bangkok",
-     "overnight": false
-    }
+   "flights": [
+    "KL1150",
+    "AF1341",
+    "AF258"
    ],
-   "separateTickets": false,
-   "changeAirport": false
+   "via": "rpc"
   }
  ]
 }

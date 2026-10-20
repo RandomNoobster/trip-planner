@@ -1,10 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTRqBRIDQU1TcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T11:23:12",
+ "fetchedAt": "2026-10-19T23:22:03",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
-   "price": 229.0,
+   "price": 188.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 0,
@@ -20,10 +21,10 @@
    "layovers": [],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 229 euros. Nonstop flight with KLM. Operated by KLM Cityhopper. Leaves Amsterdam Airport Schiphol at 2:25 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:35 PM on Monday, December 14. Total duration 2 hr 10 min.   Select flight"
+   "label": "From 188 euros. Nonstop flight with KLM. Operated by KLM Cityhopper. Leaves Amsterdam Airport Schiphol at 2:25 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:35 PM on Monday, December 14. Total duration 2 hr 10 min.   Select flight"
   },
   {
-   "price": 229.0,
+   "price": 188.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 0,
@@ -39,10 +40,10 @@
    "layovers": [],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 229 euros. Nonstop flight with KLM. Operated by KLM Cityhopper. Leaves Amsterdam Airport Schiphol at 9:00 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 11:10 PM on Monday, December 14. Total duration 2 hr 10 min.   Select flight"
+   "label": "From 188 euros. Nonstop flight with KLM. Operated by KLM Cityhopper. Leaves Amsterdam Airport Schiphol at 9:00 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 11:10 PM on Monday, December 14. Total duration 2 hr 10 min.   Select flight"
   },
   {
-   "price": 321.0,
+   "price": 305.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -65,10 +66,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 321 euros. 1 stop flight with KLM and Scandinavian Airlines. Leaves Amsterdam Airport Schiphol at 4:25 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 8:30 PM on Monday, December 14. Total duration 4 hr 5 min.  Layover (1 of 1) is a 1 hr 20 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 305 euros. 1 stop flight with KLM and Scandinavian Airlines. Leaves Amsterdam Airport Schiphol at 4:25 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 8:30 PM on Monday, December 14. Total duration 4 hr 5 min.  Layover (1 of 1) is a 1 hr 20 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 321.0,
+   "price": 305.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -91,36 +92,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 321 euros. 1 stop flight with KLM and Scandinavian Airlines. Operated by KLM Cityhopper. Leaves Amsterdam Airport Schiphol at 6:50 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 12:25 PM on Monday, December 14. Total duration 5 hr 35 min.  Layover (1 of 1) is a 2 hr 40 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 305 euros. 1 stop flight with KLM and Scandinavian Airlines. Operated by KLM Cityhopper. Leaves Amsterdam Airport Schiphol at 6:50 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 12:25 PM on Monday, December 14. Total duration 5 hr 35 min.  Layover (1 of 1) is a 2 hr 40 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 321.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM and Scandinavian Airlines",
-   "operatedBy": null,
-   "depAirportName": "Amsterdam Airport Schiphol",
-   "depTime": "09:55",
-   "depDate": "2026-12-14",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:00",
-   "arrDate": "2026-12-14",
-   "durationMin": 365,
-   "layovers": [
-    {
-     "min": 195,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 321 euros. 1 stop flight with KLM and Scandinavian Airlines. Leaves Amsterdam Airport Schiphol at 9:55 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:00 PM on Monday, December 14. Total duration 6 hr 5 min.  Layover (1 of 1) is a 3 hr 15 min layover at Oslo lufthavn in Oslo. Select flight"
-  },
-  {
-   "price": 391.0,
+   "price": 375.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -143,48 +118,42 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 391 euros. 1 stop flight with Scandinavian Airlines. Leaves Amsterdam Airport Schiphol at 10:40 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:00 PM on Monday, December 14. Total duration 5 hr 20 min.  Layover (1 of 1) is a 2 hr 35 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 375 euros. 1 stop flight with Scandinavian Airlines. Leaves Amsterdam Airport Schiphol at 10:40 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:00 PM on Monday, December 14. Total duration 5 hr 20 min.  Layover (1 of 1) is a 2 hr 35 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 397.0,
+   "price": 382.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 3,
-   "airlines": "Finnair and Wideroe",
-   "operatedBy": "Nordic Reg for Finnair, Nordic Reg for Finnair",
+   "stops": 2,
+   "airlines": "KLM and Scandinavian Airlines",
+   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
    "depAirportName": "Amsterdam Airport Schiphol",
-   "depTime": "19:00",
+   "depTime": "08:20",
    "depDate": "2026-12-14",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-15",
-   "durationMin": 1190,
+   "arrTime": "18:00",
+   "arrDate": "2026-12-14",
+   "durationMin": 580,
    "layovers": [
     {
-     "min": 540,
+     "min": 155,
      "overnight": false,
-     "airport": "Helsinki Airport",
-     "city": "Helsinki"
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
     },
     {
-     "min": 25,
+     "min": 145,
      "overnight": false,
-     "airport": "Stockholm Arlanda Airport",
-     "city": "Stockholm"
-    },
-    {
-     "min": 230,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen"
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
     }
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 397 euros. 3 stops flight with Finnair and Wideroe. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Amsterdam Airport Schiphol at 7:00 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:50 PM on Tuesday, December 15. Total duration 19 hr 50 min.  Layover (1 of 3) is a 9 hr layover at Helsinki Airport in Helsinki. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 3 hr 50 min layover at Bergen Airport in Bergen. Select flight"
+   "label": "From 382 euros. 2 stops flight with KLM and Scandinavian Airlines. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Amsterdam Airport Schiphol at 8:20 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 6:00 PM on Monday, December 14. Total duration 9 hr 40 min.  Layover (1 of 2) is a 2 hr 35 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 2 hr 25 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 401.0,
+   "price": 404.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -213,10 +182,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 401 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Amsterdam Airport Schiphol at 7:30 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:50 PM on Monday, December 14. Total duration 7 hr 20 min.  Layover (1 of 2) is a 1 hr 35 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+   "label": "From 404 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Amsterdam Airport Schiphol at 7:30 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:50 PM on Monday, December 14. Total duration 7 hr 20 min.  Layover (1 of 2) is a 1 hr 35 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
   },
   {
-   "price": 619.0,
+   "price": 621.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -245,7 +214,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 619 euros. 2 stops flight with Austrian and Scandinavian Airlines. Operated by Sas Link. Leaves Amsterdam Airport Schiphol at 12:25 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 7:20 PM on Monday, December 14. Total duration 6 hr 55 min.  Layover (1 of 2) is a 50 min layover at Vienna International Airport in Vienna. Layover (2 of 2) is a 50 min layover at Copenhagen Airport in Copenhagen. Select flight"
+   "label": "From 621 euros. 2 stops flight with Austrian and Scandinavian Airlines. Operated by Sas Link. Leaves Amsterdam Airport Schiphol at 12:25 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 7:20 PM on Monday, December 14. Total duration 6 hr 55 min.  Layover (1 of 2) is a 50 min layover at Vienna International Airport in Vienna. Layover (2 of 2) is a 50 min layover at Copenhagen Airport in Copenhagen. Select flight"
   }
  ]
 }

@@ -1,149 +1,248 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDhqBRIDVFJEcgUSA0FUSBoaEgoyMDI2LTEyLTE2agUSA0FUSHIFEgNUUkRAAUgBmAEB",
- "via": "ui",
+ "fetchedAt": "2026-10-19T22:52:47",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 204.0,
+   "price": 217.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-08",
-   "arrAirportName": "Athens International Airport \"Eleftherio",
+   "arrCode": "ATH",
+   "arrAirportName": "Athens International Airport \"Eleftherios Venizelos\"",
    "arrTime": "16:30",
    "arrDate": "2026-12-08",
    "durationMin": 550,
    "layovers": [
     {
      "min": 220,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 683.0,
-   "roundTripTotal": true,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Wideroe and Lufthansa",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "09:10",
-   "depDate": "2026-12-08",
-   "arrAirportName": "Athens International Airport \"Eleftherio",
-   "arrTime": "21:20",
-   "arrDate": "2026-12-08",
-   "durationMin": 670,
-   "layovers": [
-    {
-     "min": 155,
-     "airport": "Bergen Airport",
-     "city": "Bergen",
-     "overnight": false
-    },
-    {
-     "min": 150,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main",
-     "overnight": false
-    }
+   "flights": [
+    "KL1150",
+    "KL1955"
    ],
-   "separateTickets": false,
-   "changeAirport": false
+   "via": "rpc"
   },
   {
-   "price": 689.0,
-   "roundTripTotal": true,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Air France",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "17:10",
-   "depDate": "2026-12-08",
-   "arrAirportName": "Athens International Airport \"Eleftherio",
-   "arrTime": "13:40",
-   "arrDate": "2026-12-09",
-   "durationMin": 1170,
-   "layovers": [
-    {
-     "min": 680,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "overnight": false
-    },
-    {
-     "min": 70,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 839.0,
-   "roundTripTotal": true,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Wideroe, Lufthansa and Aegean",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "09:10",
-   "depDate": "2026-12-08",
-   "arrAirportName": "Athens International Airport \"Eleftherio",
-   "arrTime": "22:40",
-   "arrDate": "2026-12-08",
-   "durationMin": 750,
-   "layovers": [
-    {
-     "min": 155,
-     "airport": "Bergen Airport",
-     "city": "Bergen",
-     "overnight": false
-    },
-    {
-     "min": 230,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 239.0,
+   "price": 223.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "17:10",
    "depDate": "2026-12-08",
-   "arrAirportName": "Athens International Airport \"Eleftherio",
+   "arrCode": "ATH",
+   "arrAirportName": "Athens International Airport \"Eleftherios Venizelos\"",
    "arrTime": "01:20",
    "arrDate": "2026-12-09",
    "durationMin": 430,
    "layovers": [
     {
      "min": 95,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1154",
+    "KL1957"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 626.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Air France",
+   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-08",
+   "arrCode": "ATH",
+   "arrAirportName": "Athens International Airport \"Eleftherios Venizelos\"",
+   "arrTime": "13:40",
+   "arrDate": "2026-12-09",
+   "durationMin": 1170,
+   "layovers": [
+    {
+     "min": 680,
+     "overnight": true,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    },
+    {
+     "min": 70,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1154",
+    "KL1401",
+    "AF1532"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 626.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Air France",
+   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-08",
+   "arrCode": "ATH",
+   "arrAirportName": "Athens International Airport \"Eleftherios Venizelos\"",
+   "arrTime": "13:40",
+   "arrDate": "2026-12-09",
+   "durationMin": 1170,
+   "layovers": [
+    {
+     "min": 60,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    },
+    {
+     "min": 685,
+     "overnight": true,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1154",
+    "AF1441",
+    "AF1532"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 696.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Lufthansa",
+   "operatedBy": null,
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-08",
+   "arrCode": "ATH",
+   "arrAirportName": "Athens International Airport \"Eleftherios Venizelos\"",
+   "arrTime": "21:20",
+   "arrDate": "2026-12-08",
+   "durationMin": 670,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    },
+    {
+     "min": 150,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "WF1302",
+    "LH873",
+    "LH1284"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 754.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe, Lufthansa and Aegean",
+   "operatedBy": null,
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-08",
+   "arrCode": "ATH",
+   "arrAirportName": "Athens International Airport \"Eleftherios Venizelos\"",
+   "arrTime": "22:45",
+   "arrDate": "2026-12-08",
+   "durationMin": 755,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    },
+    {
+     "min": 235,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "WF1302",
+    "LH873",
+    "A3833"
+   ],
+   "via": "rpc"
   }
  ]
 }

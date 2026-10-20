@@ -1,36 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDhqBRIDVFJEcgUSA0NQSEABSAGYAQI",
- "fetchedAt": "2026-10-11T11:19:43",
+ "fetchedAt": "2026-10-19T23:00:38",
  "priceUnavailable": 18,
+ "via": "html",
  "itineraries": [
   {
-   "price": 115.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-08",
-   "arrAirportName": "Copenhagen Airport",
-   "arrTime": "11:10",
-   "arrDate": "2026-12-08",
-   "durationMin": 290,
-   "layovers": [
-    {
-     "min": 70,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 115 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Tuesday, December 8 and arrives at Copenhagen Airport at 11:10 AM on Tuesday, December 8. Total duration 4 hr 50 min.  Layover (1 of 1) is a 1 hr 10 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 136.0,
+   "price": 131.0,
    "roundTripTotal": false,
    "noOverheadBin": true,
    "stops": 1,
@@ -53,10 +28,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 136 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Trondheim Airport, Værnes at 2:55 PM on Tuesday, December 8 and arrives at Copenhagen Airport at 6:40 PM on Tuesday, December 8. Total duration 3 hr 45 min.  Layover (1 of 1) is a 1 hr 35 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 131 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Trondheim Airport, Værnes at 2:55 PM on Tuesday, December 8 and arrives at Copenhagen Airport at 6:40 PM on Tuesday, December 8. Total duration 3 hr 45 min.  Layover (1 of 1) is a 1 hr 35 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 136.0,
+   "price": 131.0,
    "roundTripTotal": false,
    "noOverheadBin": true,
    "stops": 1,
@@ -79,51 +54,25 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 136 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 4:20 PM on Tuesday, December 8 and arrives at Copenhagen Airport at 8:00 PM on Tuesday, December 8. Total duration 3 hr 40 min.  Layover (1 of 1) is a 1 hr 30 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 131 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 4:20 PM on Tuesday, December 8 and arrives at Copenhagen Airport at 8:00 PM on Tuesday, December 8. Total duration 3 hr 40 min.  Layover (1 of 1) is a 1 hr 30 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 99.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-08",
-   "arrAirportName": "Copenhagen Airport",
-   "arrTime": "13:40",
-   "arrDate": "2026-12-08",
-   "durationMin": 440,
-   "layovers": [
-    {
-     "min": 220,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 99 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Tuesday, December 8 and arrives at Copenhagen Airport at 1:40 PM on Tuesday, December 8. Total duration 7 hr 20 min.  Layover (1 of 1) is a 3 hr 40 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 133.0,
+   "price": 135.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
    "operatedBy": "KLM Cityhopper",
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "17:10",
+   "depTime": "06:20",
    "depDate": "2026-12-08",
    "arrAirportName": "Copenhagen Airport",
-   "arrTime": "22:40",
+   "arrTime": "11:10",
    "arrDate": "2026-12-08",
-   "durationMin": 330,
+   "durationMin": 290,
    "layovers": [
     {
-     "min": 105,
+     "min": 70,
      "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam"
@@ -131,10 +80,36 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 133 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:10 PM on Tuesday, December 8 and arrives at Copenhagen Airport at 10:40 PM on Tuesday, December 8. Total duration 5 hr 30 min.  Layover (1 of 1) is a 1 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 135 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Tuesday, December 8 and arrives at Copenhagen Airport at 11:10 AM on Tuesday, December 8. Total duration 4 hr 50 min.  Layover (1 of 1) is a 1 hr 10 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 136.0,
+   "price": 117.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "16:40",
+   "arrDate": "2026-12-08",
+   "durationMin": 620,
+   "layovers": [
+    {
+     "min": 400,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 117 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Tuesday, December 8 and arrives at Copenhagen Airport at 4:40 PM on Tuesday, December 8. Total duration 10 hr 20 min.  Layover (1 of 1) is a 6 hr 40 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 131.0,
    "roundTripTotal": false,
    "noOverheadBin": true,
    "stops": 1,
@@ -157,10 +132,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 136 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 7:15 AM on Tuesday, December 8 and arrives at Copenhagen Airport at 10:20 AM on Tuesday, December 8. Total duration 3 hr 5 min.  Layover (1 of 1) is a 50 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 131 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 7:15 AM on Tuesday, December 8 and arrives at Copenhagen Airport at 10:20 AM on Tuesday, December 8. Total duration 3 hr 5 min.  Layover (1 of 1) is a 50 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 136.0,
+   "price": 131.0,
    "roundTripTotal": false,
    "noOverheadBin": true,
    "stops": 1,
@@ -183,10 +158,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 136 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 9:25 AM on Tuesday, December 8 and arrives at Copenhagen Airport at 3:10 PM on Tuesday, December 8. Total duration 5 hr 45 min.  Layover (1 of 1) is a 3 hr 35 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 131 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 9:25 AM on Tuesday, December 8 and arrives at Copenhagen Airport at 3:10 PM on Tuesday, December 8. Total duration 5 hr 45 min.  Layover (1 of 1) is a 3 hr 35 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 136.0,
+   "price": 131.0,
    "roundTripTotal": false,
    "noOverheadBin": true,
    "stops": 1,
@@ -209,7 +184,33 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 136 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 9:25 AM on Tuesday, December 8 and arrives at Copenhagen Airport at 5:15 PM on Tuesday, December 8. Total duration 7 hr 50 min.  Layover (1 of 1) is a 5 hr 40 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 131 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 9:25 AM on Tuesday, December 8 and arrives at Copenhagen Airport at 5:15 PM on Tuesday, December 8. Total duration 7 hr 50 min.  Layover (1 of 1) is a 5 hr 40 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 157.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Copenhagen Airport",
+   "arrTime": "22:40",
+   "arrDate": "2026-12-08",
+   "durationMin": 330,
+   "layovers": [
+    {
+     "min": 105,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 157 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:10 PM on Tuesday, December 8 and arrives at Copenhagen Airport at 10:40 PM on Tuesday, December 8. Total duration 5 hr 30 min.  Layover (1 of 1) is a 1 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   }
  ]
 }

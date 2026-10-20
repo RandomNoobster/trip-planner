@@ -1,10 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDZqBRIDVFJEcgUSA0NHTkABSAGYAQI",
- "fetchedAt": "2026-10-11T11:21:49",
+ "fetchedAt": "2026-10-19T23:13:20",
  "priceUnavailable": 0,
+ "via": "html",
  "itineraries": [
   {
-   "price": 315.0,
+   "price": 322.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -39,22 +40,54 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 315 euros. 3 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 9:10 AM on Sunday, December 6 and arrives at Cologne Bonn Airport at 7:35 PM on Sunday, December 6. Total duration 10 hr 25 min.  Layover (1 of 3) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 1 hr 15 min layover at Frankfurt Airport in Frankfurt am Main. Layover (3 of 3) is a 1 hr 15 min layover at Munich International Airport in Munich. Select flight"
+   "label": "From 322 euros. 3 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 9:10 AM on Sunday, December 6 and arrives at Cologne Bonn Airport at 7:35 PM on Sunday, December 6. Total duration 10 hr 25 min.  Layover (1 of 3) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 1 hr 15 min layover at Frankfurt Airport in Frankfurt am Main. Layover (3 of 3) is a 1 hr 15 min layover at Munich International Airport in Munich. Select flight"
   },
   {
-   "price": 624.0,
+   "price": 713.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 3,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines, Austrian and Eurowings",
+   "operatedBy": "Sas Link",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "15:05",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Cologne Bonn Airport",
+   "arrTime": "22:20",
+   "arrDate": "2026-12-06",
+   "durationMin": 435,
+   "layovers": [
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen"
+    },
+    {
+     "min": 90,
+     "overnight": false,
+     "airport": "Vienna International Airport",
+     "city": "Vienna"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 713 euros. 2 stops flight with Scandinavian Airlines, Austrian and Eurowings. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 3:05 PM on Sunday, December 6 and arrives at Cologne Bonn Airport at 10:20 PM on Sunday, December 6. Total duration 7 hr 15 min.  Layover (1 of 2) is a 55 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 1 hr 30 min layover at Vienna International Airport in Vienna. Select flight"
+  },
+  {
+   "price": 537.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
    "airlines": "Scandinavian Airlines, Austrian and Eurowings",
    "operatedBy": "Sas Link",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "08:00",
    "depDate": "2026-12-06",
    "arrAirportName": "Cologne Bonn Airport",
-   "arrTime": "22:05",
+   "arrTime": "22:20",
    "arrDate": "2026-12-06",
-   "durationMin": 845,
+   "durationMin": 860,
    "layovers": [
     {
      "min": 310,
@@ -63,24 +96,18 @@
      "city": "Oslo"
     },
     {
-     "min": 110,
+     "min": 250,
      "overnight": false,
      "airport": "Vienna International Airport",
      "city": "Vienna"
-    },
-    {
-     "min": 65,
-     "overnight": false,
-     "airport": "Zurich Airport",
-     "city": "Zürich"
     }
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 624 euros. 3 stops flight with Scandinavian Airlines, Austrian and Eurowings. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 8:00 AM on Sunday, December 6 and arrives at Cologne Bonn Airport at 10:05 PM on Sunday, December 6. Total duration 14 hr 5 min.  Layover (1 of 3) is a 5 hr 10 min layover at Oslo lufthavn in Oslo. Layover (2 of 3) is a 1 hr 50 min layover at Vienna International Airport in Vienna. Layover (3 of 3) is a 1 hr 5 min layover at Zurich Airport in Zürich. Select flight"
+   "label": "From 537 euros. 2 stops flight with Scandinavian Airlines, Austrian and Eurowings. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 8:00 AM on Sunday, December 6 and arrives at Cologne Bonn Airport at 10:20 PM on Sunday, December 6. Total duration 14 hr 20 min.  Layover (1 of 2) is a 5 hr 10 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 4 hr 10 min layover at Vienna International Airport in Vienna. Select flight"
   },
   {
-   "price": 624.0,
+   "price": 575.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -115,31 +142,69 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 624 euros. 3 stops flight with Scandinavian Airlines, Austrian and Eurowings. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 8:00 AM on Sunday, December 6 and arrives at Cologne Bonn Airport at 10:05 PM on Sunday, December 6. Total duration 14 hr 5 min.  Layover (1 of 3) is a 5 hr 10 min layover at Oslo lufthavn in Oslo. Layover (2 of 3) is a 30 min layover at Vienna International Airport in Vienna. Layover (3 of 3) is a 2 hr 25 min layover at Zurich Airport in Zürich. Select flight"
+   "label": "From 575 euros. 3 stops flight with Scandinavian Airlines, Austrian and Eurowings. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 8:00 AM on Sunday, December 6 and arrives at Cologne Bonn Airport at 10:05 PM on Sunday, December 6. Total duration 14 hr 5 min.  Layover (1 of 3) is a 5 hr 10 min layover at Oslo lufthavn in Oslo. Layover (2 of 3) is a 30 min layover at Vienna International Airport in Vienna. Layover (3 of 3) is a 2 hr 25 min layover at Zurich Airport in Zürich. Select flight"
   },
   {
-   "price": 689.0,
+   "price": 575.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 2,
+   "stops": 3,
    "airlines": "Scandinavian Airlines, Austrian and Eurowings",
    "operatedBy": "Sas Link",
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "15:05",
+   "depTime": "08:00",
    "depDate": "2026-12-06",
    "arrAirportName": "Cologne Bonn Airport",
-   "arrTime": "22:20",
+   "arrTime": "22:05",
    "arrDate": "2026-12-06",
-   "durationMin": 435,
+   "durationMin": 845,
    "layovers": [
     {
-     "min": 55,
+     "min": 310,
      "overnight": false,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen"
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
     },
     {
-     "min": 90,
+     "min": 110,
+     "overnight": false,
+     "airport": "Vienna International Airport",
+     "city": "Vienna"
+    },
+    {
+     "min": 65,
+     "overnight": false,
+     "airport": "Zurich Airport",
+     "city": "Zürich"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 575 euros. 3 stops flight with Scandinavian Airlines, Austrian and Eurowings. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 8:00 AM on Sunday, December 6 and arrives at Cologne Bonn Airport at 10:05 PM on Sunday, December 6. Total duration 14 hr 5 min.  Layover (1 of 3) is a 5 hr 10 min layover at Oslo lufthavn in Oslo. Layover (2 of 3) is a 1 hr 50 min layover at Vienna International Airport in Vienna. Layover (3 of 3) is a 1 hr 5 min layover at Zurich Airport in Zürich. Select flight"
+  },
+  {
+   "price": 612.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Austrian",
+   "operatedBy": "Sas Link",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "08:00",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Cologne Bonn Airport",
+   "arrTime": "19:35",
+   "arrDate": "2026-12-06",
+   "durationMin": 695,
+   "layovers": [
+    {
+     "min": 310,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    },
+    {
+     "min": 80,
      "overnight": false,
      "airport": "Vienna International Airport",
      "city": "Vienna"
@@ -147,7 +212,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 689 euros. 2 stops flight with Scandinavian Airlines, Austrian and Eurowings. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 3:05 PM on Sunday, December 6 and arrives at Cologne Bonn Airport at 10:20 PM on Sunday, December 6. Total duration 7 hr 15 min.  Layover (1 of 2) is a 55 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 1 hr 30 min layover at Vienna International Airport in Vienna. Select flight"
+   "label": "From 612 euros. 2 stops flight with Scandinavian Airlines and Austrian. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 8:00 AM on Sunday, December 6 and arrives at Cologne Bonn Airport at 7:35 PM on Sunday, December 6. Total duration 11 hr 35 min.  Layover (1 of 2) is a 5 hr 10 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 20 min layover at Vienna International Airport in Vienna. Select flight"
   }
  ]
 }

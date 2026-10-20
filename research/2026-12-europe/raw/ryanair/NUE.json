@@ -13,6 +13,56 @@
     }
    },
    "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "PMO",
+    "name": "Palermo",
+    "seoName": "palermo",
+    "city": {
+     "code": "PALERMO",
+     "countryCode": "it",
+     "name": "Palermo"
+    }
+   },
+   "departureDate": "2026-12-04T09:40:00",
+   "arrivalDate": "2026-12-04T11:45:00",
+   "price": {
+    "value": 17.99,
+    "valueMainUnit": "17",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 903~ ~~NUE~12/04/2026 09:40~PMO~12/04/2026 11:45~~",
+   "flightNumber": "FR903",
+   "previousPrice": null,
+   "priceUpdated": 1792436776000
+  },
+  "summary": {
+   "price": {
+    "value": 17.99,
+    "valueMainUnit": "17",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
     "countryName": "Hungary",
     "iataCode": "BUD",
     "name": "Budapest",
@@ -35,7 +85,7 @@
    "flightKey": "FR~4256~ ~~NUE~12/06/2026 06:30~BUD~12/06/2026 07:55~~",
    "flightNumber": "FR4256",
    "previousPrice": null,
-   "priceUpdated": 1791800698000
+   "priceUpdated": 1792419897000
   },
   "summary": {
    "price": {
@@ -74,25 +124,25 @@
      "name": "London"
     }
    },
-   "departureDate": "2026-12-09T08:00:00",
-   "arrivalDate": "2026-12-09T08:45:00",
+   "departureDate": "2026-12-07T06:20:00",
+   "arrivalDate": "2026-12-07T07:05:00",
    "price": {
-    "value": 29.68,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "68",
+    "value": 27.02,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "02",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~7633~ ~~NUE~12/09/2026 08:00~STN~12/09/2026 08:45~~",
+   "flightKey": "FR~7633~ ~~NUE~12/07/2026 06:20~STN~12/07/2026 07:05~~",
    "flightNumber": "FR7633",
    "previousPrice": null,
-   "priceUpdated": 1791799925000
+   "priceUpdated": 1792432501000
   },
   "summary": {
    "price": {
-    "value": 29.68,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "68",
+    "value": 27.02,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "02",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -136,7 +186,7 @@
    "flightKey": "FR~1110~ ~~NUE~12/05/2026 11:30~AGA~12/05/2026 14:35~~",
    "flightNumber": "FR1110",
    "previousPrice": null,
-   "priceUpdated": 1791800699000
+   "priceUpdated": 1792441301000
   },
   "summary": {
    "price": {
@@ -186,7 +236,7 @@
    "flightKey": "FR~1110~ ~~NUE~12/07/2026 11:25~AGA~12/07/2026 14:30~~",
    "flightNumber": "FR1110",
    "previousPrice": null,
-   "priceUpdated": 1791800700000
+   "priceUpdated": 1792405497000
   },
   "summary": {
    "price": {
@@ -198,56 +248,6 @@
    },
    "previousPrice": null,
    "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
-    "city": {
-     "code": "MALAGA",
-     "countryCode": "es",
-     "name": "Malaga"
-    }
-   },
-   "departureDate": "2026-12-04T06:00:00",
-   "arrivalDate": "2026-12-04T09:05:00",
-   "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5095~ ~~NUE~12/04/2026 06:00~AGP~12/04/2026 09:05~~",
-   "flightNumber": "FR5095",
-   "previousPrice": null,
-   "priceUpdated": 1791800701000
-  },
-  "summary": {
-   "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
   }
  },
  {
@@ -286,364 +286,13 @@
    "flightKey": "FR~ 439~ ~~NUE~12/05/2026 06:00~PMI~12/05/2026 08:15~~",
    "flightNumber": "FR439",
    "previousPrice": null,
-   "priceUpdated": 1791800698000
+   "priceUpdated": 1792434041000
   },
   "summary": {
    "price": {
     "value": 29.99,
     "valueMainUnit": "29",
     "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "PMI",
-    "name": "Palma de Mallorca",
-    "seoName": "palma-mallorca",
-    "city": {
-     "code": "PALMA",
-     "countryCode": "es",
-     "name": "Palma"
-    }
-   },
-   "departureDate": "2026-12-06T09:10:00",
-   "arrivalDate": "2026-12-06T11:25:00",
-   "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 439~ ~~NUE~12/06/2026 09:10~PMI~12/06/2026 11:25~~",
-   "flightNumber": "FR439",
-   "previousPrice": null,
-   "priceUpdated": 1791800701000
-  },
-  "summary": {
-   "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "SVQ",
-    "name": "Seville",
-    "seoName": "seville",
-    "city": {
-     "code": "SEVILLE",
-     "countryCode": "es",
-     "name": "Seville"
-    }
-   },
-   "departureDate": "2026-12-06T06:20:00",
-   "arrivalDate": "2026-12-06T09:20:00",
-   "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1185~ ~~NUE~12/06/2026 06:20~SVQ~12/06/2026 09:20~~",
-   "flightNumber": "FR1185",
-   "previousPrice": null,
-   "priceUpdated": 1791800698000
-  },
-  "summary": {
-   "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "PMO",
-    "name": "Palermo",
-    "seoName": "palermo",
-    "city": {
-     "code": "PALERMO",
-     "countryCode": "it",
-     "name": "Palermo"
-    }
-   },
-   "departureDate": "2026-12-04T09:40:00",
-   "arrivalDate": "2026-12-04T11:45:00",
-   "price": {
-    "value": 30.99,
-    "valueMainUnit": "30",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 903~ ~~NUE~12/04/2026 09:40~PMO~12/04/2026 11:45~~",
-   "flightNumber": "FR903",
-   "previousPrice": null,
-   "priceUpdated": 1791803323000
-  },
-  "summary": {
-   "price": {
-    "value": 30.99,
-    "valueMainUnit": "30",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Greece",
-    "iataCode": "SKG",
-    "name": "Thessaloniki",
-    "seoName": "thessaloniki",
-    "city": {
-     "code": "THESSALONIKI",
-     "countryCode": "gr",
-     "name": "Thessaloniki"
-    }
-   },
-   "departureDate": "2026-12-04T18:55:00",
-   "arrivalDate": "2026-12-04T22:10:00",
-   "price": {
-    "value": 31.44,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "44",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4484~ ~~NUE~12/04/2026 18:55~SKG~12/04/2026 22:10~~",
-   "flightNumber": "FR4484",
-   "previousPrice": null,
-   "priceUpdated": 1791800701000
-  },
-  "summary": {
-   "price": {
-    "value": 31.44,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "44",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Morocco",
-    "iataCode": "RBA",
-    "name": "Rabat",
-    "seoName": "rabat",
-    "city": {
-     "code": "RABAT",
-     "countryCode": "ma",
-     "name": "Rabat"
-    }
-   },
-   "departureDate": "2026-12-04T21:45:00",
-   "arrivalDate": "2026-12-05T00:15:00",
-   "price": {
-    "value": 33.99,
-    "valueMainUnit": "33",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~9963~ ~~NUE~12/04/2026 21:45~RBA~12/05/2026 00:15~~",
-   "flightNumber": "FR9963",
-   "previousPrice": null,
-   "priceUpdated": 1791800701000
-  },
-  "summary": {
-   "price": {
-    "value": 33.99,
-    "valueMainUnit": "33",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "PMI",
-    "name": "Palma de Mallorca",
-    "seoName": "palma-mallorca",
-    "city": {
-     "code": "PALMA",
-     "countryCode": "es",
-     "name": "Palma"
-    }
-   },
-   "departureDate": "2026-12-11T19:40:00",
-   "arrivalDate": "2026-12-11T21:55:00",
-   "price": {
-    "value": 34.99,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 439~ ~~NUE~12/11/2026 19:40~PMI~12/11/2026 21:55~~",
-   "flightNumber": "FR439",
-   "previousPrice": null,
-   "priceUpdated": 1791803412000
-  },
-  "summary": {
-   "price": {
-    "value": 34.99,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-08T08:00:00",
-   "arrivalDate": "2026-12-08T08:45:00",
-   "price": {
-    "value": 35.05,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "05",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~7637~ ~~NUE~12/08/2026 08:00~STN~12/08/2026 08:45~~",
-   "flightNumber": "FR7637",
-   "previousPrice": null,
-   "priceUpdated": 1791800699000
-  },
-  "summary": {
-   "price": {
-    "value": 35.05,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "05",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -678,22 +327,22 @@
    "departureDate": "2026-12-06T16:55:00",
    "arrivalDate": "2026-12-06T19:25:00",
    "price": {
-    "value": 35.35,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "35",
+    "value": 30.43,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "43",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~9963~ ~~NUE~12/06/2026 16:55~RBA~12/06/2026 19:25~~",
    "flightNumber": "FR9963",
    "previousPrice": null,
-   "priceUpdated": 1791801599000
+   "priceUpdated": 1792424401000
   },
   "summary": {
    "price": {
-    "value": 35.35,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "35",
+    "value": 30.43,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "43",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -715,34 +364,134 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Hungary",
-    "iataCode": "BUD",
-    "name": "Budapest",
-    "seoName": "budapest",
+    "countryName": "Spain",
+    "iataCode": "PMI",
+    "name": "Palma de Mallorca",
+    "seoName": "palma-mallorca",
     "city": {
-     "code": "BUDAPEST",
-     "countryCode": "hu",
-     "name": "Budapest"
+     "code": "PALMA",
+     "countryCode": "es",
+     "name": "Palma"
     }
    },
-   "departureDate": "2026-12-04T06:00:00",
-   "arrivalDate": "2026-12-04T07:25:00",
+   "departureDate": "2026-12-06T09:10:00",
+   "arrivalDate": "2026-12-06T11:25:00",
    "price": {
-    "value": 37.99,
-    "valueMainUnit": "37",
+    "value": 31.99,
+    "valueMainUnit": "31",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~4256~ ~~NUE~12/04/2026 06:00~BUD~12/04/2026 07:25~~",
-   "flightNumber": "FR4256",
+   "flightKey": "FR~ 439~ ~~NUE~12/06/2026 09:10~PMI~12/06/2026 11:25~~",
+   "flightNumber": "FR439",
    "previousPrice": null,
-   "priceUpdated": 1791800698000
+   "priceUpdated": 1792434034000
   },
   "summary": {
    "price": {
-    "value": 37.99,
-    "valueMainUnit": "37",
+    "value": 31.99,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "OPO",
+    "name": "Porto",
+    "seoName": "porto",
+    "city": {
+     "code": "PORTO",
+     "countryCode": "pt",
+     "name": "Porto"
+    }
+   },
+   "departureDate": "2026-12-04T20:45:00",
+   "arrivalDate": "2026-12-04T22:45:00",
+   "price": {
+    "value": 32.63,
+    "valueMainUnit": "32",
+    "valueFractionalUnit": "63",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7935~ ~~NUE~12/04/2026 20:45~OPO~12/04/2026 22:45~~",
+   "flightNumber": "FR7935",
+   "previousPrice": null,
+   "priceUpdated": 1792405497000
+  },
+  "summary": {
+   "price": {
+    "value": 32.63,
+    "valueMainUnit": "32",
+    "valueFractionalUnit": "63",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "PMI",
+    "name": "Palma de Mallorca",
+    "seoName": "palma-mallorca",
+    "city": {
+     "code": "PALMA",
+     "countryCode": "es",
+     "name": "Palma"
+    }
+   },
+   "departureDate": "2026-12-11T19:40:00",
+   "arrivalDate": "2026-12-11T21:55:00",
+   "price": {
+    "value": 32.99,
+    "valueMainUnit": "32",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 439~ ~~NUE~12/11/2026 19:40~PMI~12/11/2026 21:55~~",
+   "flightNumber": "FR439",
+   "previousPrice": null,
+   "priceUpdated": 1792436768000
+  },
+  "summary": {
+   "price": {
+    "value": 32.99,
+    "valueMainUnit": "32",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -775,25 +524,25 @@
      "name": "Malaga"
     }
    },
-   "departureDate": "2026-12-07T06:20:00",
-   "arrivalDate": "2026-12-07T09:25:00",
+   "departureDate": "2026-12-04T06:00:00",
+   "arrivalDate": "2026-12-04T09:05:00",
    "price": {
-    "value": 38.65,
-    "valueMainUnit": "38",
-    "valueFractionalUnit": "65",
+    "value": 33.34,
+    "valueMainUnit": "33",
+    "valueFractionalUnit": "34",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~5095~ ~~NUE~12/07/2026 06:20~AGP~12/07/2026 09:25~~",
+   "flightKey": "FR~5095~ ~~NUE~12/04/2026 06:00~AGP~12/04/2026 09:05~~",
    "flightNumber": "FR5095",
    "previousPrice": null,
-   "priceUpdated": 1791800699000
+   "priceUpdated": 1792405496000
   },
   "summary": {
    "price": {
-    "value": 38.65,
-    "valueMainUnit": "38",
-    "valueFractionalUnit": "65",
+    "value": 33.34,
+    "valueMainUnit": "33",
+    "valueFractionalUnit": "34",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -816,34 +565,34 @@
    },
    "arrivalAirport": {
     "countryName": "Spain",
-    "iataCode": "PMI",
-    "name": "Palma de Mallorca",
-    "seoName": "palma-mallorca",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
     "city": {
-     "code": "PALMA",
+     "code": "MALAGA",
      "countryCode": "es",
-     "name": "Palma"
+     "name": "Malaga"
     }
    },
-   "departureDate": "2026-12-04T19:40:00",
-   "arrivalDate": "2026-12-04T21:55:00",
+   "departureDate": "2026-12-05T21:10:00",
+   "arrivalDate": "2026-12-06T00:15:00",
    "price": {
-    "value": 38.99,
-    "valueMainUnit": "38",
-    "valueFractionalUnit": "99",
+    "value": 34.22,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "22",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 439~ ~~NUE~12/04/2026 19:40~PMI~12/04/2026 21:55~~",
-   "flightNumber": "FR439",
+   "flightKey": "FR~5095~ ~~NUE~12/05/2026 21:10~AGP~12/06/2026 00:15~~",
+   "flightNumber": "FR5095",
    "previousPrice": null,
-   "priceUpdated": 1791800700000
+   "priceUpdated": 1792405496000
   },
   "summary": {
    "price": {
-    "value": 38.99,
-    "valueMainUnit": "38",
-    "valueFractionalUnit": "99",
+    "value": 34.22,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "22",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -878,8 +627,8 @@
    "departureDate": "2026-12-05T16:05:00",
    "arrivalDate": "2026-12-05T18:00:00",
    "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
+    "value": 35.99,
+    "valueMainUnit": "35",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -887,12 +636,162 @@
    "flightKey": "FR~7937~ ~~NUE~12/05/2026 16:05~BRI~12/05/2026 18:00~~",
    "flightNumber": "FR7937",
    "previousPrice": null,
-   "priceUpdated": 1791800700000
+   "priceUpdated": 1792419895000
   },
   "summary": {
    "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
+    "value": 35.99,
+    "valueMainUnit": "35",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "RBA",
+    "name": "Rabat",
+    "seoName": "rabat",
+    "city": {
+     "code": "RABAT",
+     "countryCode": "ma",
+     "name": "Rabat"
+    }
+   },
+   "departureDate": "2026-12-04T21:45:00",
+   "arrivalDate": "2026-12-05T00:15:00",
+   "price": {
+    "value": 35.99,
+    "valueMainUnit": "35",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9963~ ~~NUE~12/04/2026 21:45~RBA~12/05/2026 00:15~~",
+   "flightNumber": "FR9963",
+   "previousPrice": null,
+   "priceUpdated": 1792419255000
+  },
+  "summary": {
+   "price": {
+    "value": 35.99,
+    "valueMainUnit": "35",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "PMI",
+    "name": "Palma de Mallorca",
+    "seoName": "palma-mallorca",
+    "city": {
+     "code": "PALMA",
+     "countryCode": "es",
+     "name": "Palma"
+    }
+   },
+   "departureDate": "2026-12-04T19:40:00",
+   "arrivalDate": "2026-12-04T21:55:00",
+   "price": {
+    "value": 36.99,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 439~ ~~NUE~12/04/2026 19:40~PMI~12/04/2026 21:55~~",
+   "flightNumber": "FR439",
+   "previousPrice": null,
+   "priceUpdated": 1792419898000
+  },
+  "summary": {
+   "price": {
+    "value": 36.99,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "FAO",
+    "name": "Faro",
+    "seoName": "faro",
+    "city": {
+     "code": "FARO",
+     "countryCode": "pt",
+     "name": "Faro"
+    }
+   },
+   "departureDate": "2026-12-05T10:40:00",
+   "arrivalDate": "2026-12-05T12:55:00",
+   "price": {
+    "value": 38.99,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5788~ ~~NUE~12/05/2026 10:40~FAO~12/05/2026 12:55~~",
+   "flightNumber": "FR5788",
+   "previousPrice": null,
+   "priceUpdated": 1792419242000
+  },
+  "summary": {
+   "price": {
+    "value": 38.99,
+    "valueMainUnit": "38",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -928,8 +827,8 @@
    "departureDate": "2026-12-06T10:15:00",
    "arrivalDate": "2026-12-06T12:15:00",
    "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
+    "value": 38.99,
+    "valueMainUnit": "38",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -937,7 +836,57 @@
    "flightKey": "FR~7935~ ~~NUE~12/06/2026 10:15~OPO~12/06/2026 12:15~~",
    "flightNumber": "FR7935",
    "previousPrice": null,
-   "priceUpdated": 1791800698000
+   "priceUpdated": 1792440721000
+  },
+  "summary": {
+   "price": {
+    "value": 38.99,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Hungary",
+    "iataCode": "BUD",
+    "name": "Budapest",
+    "seoName": "budapest",
+    "city": {
+     "code": "BUDAPEST",
+     "countryCode": "hu",
+     "name": "Budapest"
+    }
+   },
+   "departureDate": "2026-12-04T06:00:00",
+   "arrivalDate": "2026-12-04T07:25:00",
+   "price": {
+    "value": 39.99,
+    "valueMainUnit": "39",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4256~ ~~NUE~12/04/2026 06:00~BUD~12/04/2026 07:25~~",
+   "flightNumber": "FR4256",
+   "previousPrice": null,
+   "priceUpdated": 1792437362000
   },
   "summary": {
    "price": {
@@ -965,186 +914,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
+    "countryName": "Italy",
+    "iataCode": "PMO",
+    "name": "Palermo",
+    "seoName": "palermo",
     "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
+     "code": "PALERMO",
+     "countryCode": "it",
+     "name": "Palermo"
     }
    },
-   "departureDate": "2026-12-10T06:20:00",
-   "arrivalDate": "2026-12-10T07:05:00",
+   "departureDate": "2026-12-06T14:50:00",
+   "arrivalDate": "2026-12-06T16:55:00",
    "price": {
-    "value": 42.55,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "55",
+    "value": 40.3,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "30",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~7633~ ~~NUE~12/10/2026 06:20~STN~12/10/2026 07:05~~",
-   "flightNumber": "FR7633",
+   "flightKey": "FR~ 903~ ~~NUE~12/06/2026 14:50~PMO~12/06/2026 16:55~~",
+   "flightNumber": "FR903",
    "previousPrice": null,
-   "priceUpdated": 1791800698000
+   "priceUpdated": 1792405497000
   },
   "summary": {
    "price": {
-    "value": 42.55,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "55",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Portugal",
-    "iataCode": "FAO",
-    "name": "Faro",
-    "seoName": "faro",
-    "city": {
-     "code": "FARO",
-     "countryCode": "pt",
-     "name": "Faro"
-    }
-   },
-   "departureDate": "2026-12-05T10:40:00",
-   "arrivalDate": "2026-12-05T12:55:00",
-   "price": {
-    "value": 42.99,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5788~ ~~NUE~12/05/2026 10:40~FAO~12/05/2026 12:55~~",
-   "flightNumber": "FR5788",
-   "previousPrice": null,
-   "priceUpdated": 1791800699000
-  },
-  "summary": {
-   "price": {
-    "value": 42.99,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-06T10:20:00",
-   "arrivalDate": "2026-12-06T12:55:00",
-   "price": {
-    "value": 44.99,
-    "valueMainUnit": "44",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~7570~ ~~NUE~12/06/2026 10:20~ALC~12/06/2026 12:55~~",
-   "flightNumber": "FR7570",
-   "previousPrice": null,
-   "priceUpdated": 1791800699000
-  },
-  "summary": {
-   "price": {
-    "value": 44.99,
-    "valueMainUnit": "44",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "PMI",
-    "name": "Palma de Mallorca",
-    "seoName": "palma-mallorca",
-    "city": {
-     "code": "PALMA",
-     "countryCode": "es",
-     "name": "Palma"
-    }
-   },
-   "departureDate": "2026-12-10T10:30:00",
-   "arrivalDate": "2026-12-10T12:45:00",
-   "price": {
-    "value": 45.23,
-    "valueMainUnit": "45",
-    "valueFractionalUnit": "23",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 439~ ~~NUE~12/10/2026 10:30~PMI~12/10/2026 12:45~~",
-   "flightNumber": "FR439",
-   "previousPrice": null,
-   "priceUpdated": 1791800700000
-  },
-  "summary": {
-   "price": {
-    "value": 45.23,
-    "valueMainUnit": "45",
-    "valueFractionalUnit": "23",
+    "value": 40.3,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "30",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1177,30 +975,131 @@
      "name": "London"
     }
    },
-   "departureDate": "2026-12-06T08:55:00",
-   "arrivalDate": "2026-12-06T09:40:00",
+   "departureDate": "2026-12-10T16:25:00",
+   "arrivalDate": "2026-12-10T17:10:00",
    "price": {
-    "value": 48.99,
-    "valueMainUnit": "48",
+    "value": 40.99,
+    "valueMainUnit": "40",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~7637~ ~~NUE~12/06/2026 08:55~STN~12/06/2026 09:40~~",
+   "flightKey": "FR~7637~ ~~NUE~12/10/2026 16:25~STN~12/10/2026 17:10~~",
    "flightNumber": "FR7637",
    "previousPrice": null,
-   "priceUpdated": 1791800699000
+   "priceUpdated": 1792419912000
   },
   "summary": {
    "price": {
-    "value": 48.99,
-    "valueMainUnit": "48",
+    "value": 40.99,
+    "valueMainUnit": "40",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-09T19:30:00",
+   "arrivalDate": "2026-12-09T20:15:00",
+   "price": {
+    "value": 42.99,
+    "valueMainUnit": "42",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7637~ ~~NUE~12/09/2026 19:30~STN~12/09/2026 20:15~~",
+   "flightNumber": "FR7637",
+   "previousPrice": null,
+   "priceUpdated": 1792419323000
+  },
+  "summary": {
+   "price": {
+    "value": 42.99,
+    "valueMainUnit": "42",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Morocco",
+    "iataCode": "RBA",
+    "name": "Rabat",
+    "seoName": "rabat",
+    "city": {
+     "code": "RABAT",
+     "countryCode": "ma",
+     "name": "Rabat"
+    }
+   },
+   "departureDate": "2026-12-11T21:45:00",
+   "arrivalDate": "2026-12-12T00:15:00",
+   "price": {
+    "value": 44.71,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "71",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9963~ ~~NUE~12/11/2026 21:45~RBA~12/12/2026 00:15~~",
+   "flightNumber": "FR9963",
+   "previousPrice": null,
+   "priceUpdated": 1792442127000
+  },
+  "summary": {
+   "price": {
+    "value": 44.71,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "71",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
   }
  },
  {
@@ -1230,8 +1129,8 @@
    "departureDate": "2026-12-05T17:00:00",
    "arrivalDate": "2026-12-05T20:15:00",
    "price": {
-    "value": 48.99,
-    "valueMainUnit": "48",
+    "value": 44.99,
+    "valueMainUnit": "44",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1239,12 +1138,63 @@
    "flightKey": "FR~4484~ ~~NUE~12/05/2026 17:00~SKG~12/05/2026 20:15~~",
    "flightNumber": "FR4484",
    "previousPrice": null,
-   "priceUpdated": 1791803392000
+   "priceUpdated": 1792439706000
   },
   "summary": {
    "price": {
-    "value": 48.99,
-    "valueMainUnit": "48",
+    "value": 44.99,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "VLC",
+    "name": "Valencia",
+    "seoName": "valencia",
+    "city": {
+     "code": "VALENCIA",
+     "countryCode": "es",
+     "macCode": "VNC",
+     "name": "Valencia"
+    }
+   },
+   "departureDate": "2026-12-10T16:25:00",
+   "arrivalDate": "2026-12-10T18:50:00",
+   "price": {
+    "value": 45.99,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1131~ ~~NUE~12/10/2026 16:25~VLC~12/10/2026 18:50~~",
+   "flightNumber": "FR1131",
+   "previousPrice": null,
+   "priceUpdated": 1792437001000
+  },
+  "summary": {
+   "price": {
+    "value": 45.99,
+    "valueMainUnit": "45",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1281,8 +1231,8 @@
    "departureDate": "2026-12-05T06:05:00",
    "arrivalDate": "2026-12-05T10:00:00",
    "price": {
-    "value": 50.99,
-    "valueMainUnit": "50",
+    "value": 48.99,
+    "valueMainUnit": "48",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1290,515 +1240,13 @@
    "flightKey": "FR~ 273~ ~~NUE~12/05/2026 06:05~TFS~12/05/2026 10:00~~",
    "flightNumber": "FR273",
    "previousPrice": null,
-   "priceUpdated": 1791800701000
+   "priceUpdated": 1792438075000
   },
   "summary": {
    "price": {
-    "value": 50.99,
-    "valueMainUnit": "50",
+    "value": 48.99,
+    "valueMainUnit": "48",
     "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-07T06:20:00",
-   "arrivalDate": "2026-12-07T07:05:00",
-   "price": {
-    "value": 51.64,
-    "valueMainUnit": "51",
-    "valueFractionalUnit": "64",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~7633~ ~~NUE~12/07/2026 06:20~STN~12/07/2026 07:05~~",
-   "flightNumber": "FR7633",
-   "previousPrice": null,
-   "priceUpdated": 1791800700000
-  },
-  "summary": {
-   "price": {
-    "value": 51.64,
-    "valueMainUnit": "51",
-    "valueFractionalUnit": "64",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "PMO",
-    "name": "Palermo",
-    "seoName": "palermo",
-    "city": {
-     "code": "PALERMO",
-     "countryCode": "it",
-     "name": "Palermo"
-    }
-   },
-   "departureDate": "2026-12-06T14:50:00",
-   "arrivalDate": "2026-12-06T16:55:00",
-   "price": {
-    "value": 52.32,
-    "valueMainUnit": "52",
-    "valueFractionalUnit": "32",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 903~ ~~NUE~12/06/2026 14:50~PMO~12/06/2026 16:55~~",
-   "flightNumber": "FR903",
-   "previousPrice": null,
-   "priceUpdated": 1791800701000
-  },
-  "summary": {
-   "price": {
-    "value": 52.32,
-    "valueMainUnit": "52",
-    "valueFractionalUnit": "32",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "PMO",
-    "name": "Palermo",
-    "seoName": "palermo",
-    "city": {
-     "code": "PALERMO",
-     "countryCode": "it",
-     "name": "Palermo"
-    }
-   },
-   "departureDate": "2026-12-11T09:40:00",
-   "arrivalDate": "2026-12-11T11:45:00",
-   "price": {
-    "value": 53.32,
-    "valueMainUnit": "53",
-    "valueFractionalUnit": "32",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 903~ ~~NUE~12/11/2026 09:40~PMO~12/11/2026 11:45~~",
-   "flightNumber": "FR903",
-   "previousPrice": null,
-   "priceUpdated": 1791800697000
-  },
-  "summary": {
-   "price": {
-    "value": 53.32,
-    "valueMainUnit": "53",
-    "valueFractionalUnit": "32",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Portugal",
-    "iataCode": "OPO",
-    "name": "Porto",
-    "seoName": "porto",
-    "city": {
-     "code": "PORTO",
-     "countryCode": "pt",
-     "name": "Porto"
-    }
-   },
-   "departureDate": "2026-12-04T20:45:00",
-   "arrivalDate": "2026-12-04T22:45:00",
-   "price": {
-    "value": 53.72,
-    "valueMainUnit": "53",
-    "valueFractionalUnit": "72",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~7935~ ~~NUE~12/04/2026 20:45~OPO~12/04/2026 22:45~~",
-   "flightNumber": "FR7935",
-   "previousPrice": null,
-   "priceUpdated": 1791800701000
-  },
-  "summary": {
-   "price": {
-    "value": 53.72,
-    "valueMainUnit": "53",
-    "valueFractionalUnit": "72",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "VLC",
-    "name": "Valencia",
-    "seoName": "valencia",
-    "city": {
-     "code": "VALENCIA",
-     "countryCode": "es",
-     "macCode": "VNC",
-     "name": "Valencia"
-    }
-   },
-   "departureDate": "2026-12-10T16:25:00",
-   "arrivalDate": "2026-12-10T18:50:00",
-   "price": {
-    "value": 53.99,
-    "valueMainUnit": "53",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1131~ ~~NUE~12/10/2026 16:25~VLC~12/10/2026 18:50~~",
-   "flightNumber": "FR1131",
-   "previousPrice": null,
-   "priceUpdated": 1791800702000
-  },
-  "summary": {
-   "price": {
-    "value": 53.99,
-    "valueMainUnit": "53",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Morocco",
-    "iataCode": "RBA",
-    "name": "Rabat",
-    "seoName": "rabat",
-    "city": {
-     "code": "RABAT",
-     "countryCode": "ma",
-     "name": "Rabat"
-    }
-   },
-   "departureDate": "2026-12-11T21:45:00",
-   "arrivalDate": "2026-12-12T00:15:00",
-   "price": {
-    "value": 54.24,
-    "valueMainUnit": "54",
-    "valueFractionalUnit": "24",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~9963~ ~~NUE~12/11/2026 21:45~RBA~12/12/2026 00:15~~",
-   "flightNumber": "FR9963",
-   "previousPrice": null,
-   "priceUpdated": 1791801601000
-  },
-  "summary": {
-   "price": {
-    "value": 54.24,
-    "valueMainUnit": "54",
-    "valueFractionalUnit": "24",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Hungary",
-    "iataCode": "BUD",
-    "name": "Budapest",
-    "seoName": "budapest",
-    "city": {
-     "code": "BUDAPEST",
-     "countryCode": "hu",
-     "name": "Budapest"
-    }
-   },
-   "departureDate": "2026-12-11T06:00:00",
-   "arrivalDate": "2026-12-11T07:25:00",
-   "price": {
-    "value": 58.99,
-    "valueMainUnit": "58",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4256~ ~~NUE~12/11/2026 06:00~BUD~12/11/2026 07:25~~",
-   "flightNumber": "FR4256",
-   "previousPrice": null,
-   "priceUpdated": 1791800697000
-  },
-  "summary": {
-   "price": {
-    "value": 58.99,
-    "valueMainUnit": "58",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Portugal",
-    "iataCode": "FAO",
-    "name": "Faro",
-    "seoName": "faro",
-    "city": {
-     "code": "FARO",
-     "countryCode": "pt",
-     "name": "Faro"
-    }
-   },
-   "departureDate": "2026-12-07T17:50:00",
-   "arrivalDate": "2026-12-07T20:05:00",
-   "price": {
-    "value": 59.79,
-    "valueMainUnit": "59",
-    "valueFractionalUnit": "79",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5788~ ~~NUE~12/07/2026 17:50~FAO~12/07/2026 20:05~~",
-   "flightNumber": "FR5788",
-   "previousPrice": null,
-   "priceUpdated": 1791800701000
-  },
-  "summary": {
-   "price": {
-    "value": 59.79,
-    "valueMainUnit": "59",
-    "valueFractionalUnit": "79",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Greece",
-    "iataCode": "SKG",
-    "name": "Thessaloniki",
-    "seoName": "thessaloniki",
-    "city": {
-     "code": "THESSALONIKI",
-     "countryCode": "gr",
-     "name": "Thessaloniki"
-    }
-   },
-   "departureDate": "2026-12-07T10:30:00",
-   "arrivalDate": "2026-12-07T13:45:00",
-   "price": {
-    "value": 59.99,
-    "valueMainUnit": "59",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4484~ ~~NUE~12/07/2026 10:30~SKG~12/07/2026 13:45~~",
-   "flightNumber": "FR4484",
-   "previousPrice": null,
-   "priceUpdated": 1791800698000
-  },
-  "summary": {
-   "price": {
-    "value": 59.99,
-    "valueMainUnit": "59",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Greece",
-    "iataCode": "SKG",
-    "name": "Thessaloniki",
-    "seoName": "thessaloniki",
-    "city": {
-     "code": "THESSALONIKI",
-     "countryCode": "gr",
-     "name": "Thessaloniki"
-    }
-   },
-   "departureDate": "2026-12-11T18:55:00",
-   "arrivalDate": "2026-12-11T22:10:00",
-   "price": {
-    "value": 60.79,
-    "valueMainUnit": "60",
-    "valueFractionalUnit": "79",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4484~ ~~NUE~12/11/2026 18:55~SKG~12/11/2026 22:10~~",
-   "flightNumber": "FR4484",
-   "previousPrice": null,
-   "priceUpdated": 1791800697000
-  },
-  "summary": {
-   "price": {
-    "value": 60.79,
-    "valueMainUnit": "60",
-    "valueFractionalUnit": "79",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1830,75 +1278,25 @@
      "name": "Alicante"
     }
    },
-   "departureDate": "2026-12-10T17:05:00",
-   "arrivalDate": "2026-12-10T19:40:00",
+   "departureDate": "2026-12-06T10:20:00",
+   "arrivalDate": "2026-12-06T12:55:00",
    "price": {
-    "value": 61.99,
-    "valueMainUnit": "61",
+    "value": 49.99,
+    "valueMainUnit": "49",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~7570~ ~~NUE~12/10/2026 17:05~ALC~12/10/2026 19:40~~",
+   "flightKey": "FR~7570~ ~~NUE~12/06/2026 10:20~ALC~12/06/2026 12:55~~",
    "flightNumber": "FR7570",
    "previousPrice": null,
-   "priceUpdated": 1791800699000
+   "priceUpdated": 1792419273000
   },
   "summary": {
    "price": {
-    "value": 61.99,
-    "valueMainUnit": "61",
+    "value": 49.99,
+    "valueMainUnit": "49",
     "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
-    "city": {
-     "code": "MALAGA",
-     "countryCode": "es",
-     "name": "Malaga"
-    }
-   },
-   "departureDate": "2026-12-05T21:10:00",
-   "arrivalDate": "2026-12-06T00:15:00",
-   "price": {
-    "value": 63.6,
-    "valueMainUnit": "63",
-    "valueFractionalUnit": "60",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5095~ ~~NUE~12/05/2026 21:10~AGP~12/06/2026 00:15~~",
-   "flightNumber": "FR5095",
-   "previousPrice": null,
-   "priceUpdated": 1791800701000
-  },
-  "summary": {
-   "price": {
-    "value": 63.6,
-    "valueMainUnit": "63",
-    "valueFractionalUnit": "60",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1934,8 +1332,8 @@
    "departureDate": "2026-12-08T06:25:00",
    "arrivalDate": "2026-12-08T10:20:00",
    "price": {
-    "value": 65.99,
-    "valueMainUnit": "65",
+    "value": 49.99,
+    "valueMainUnit": "49",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1943,12 +1341,12 @@
    "flightKey": "FR~ 273~ ~~NUE~12/08/2026 06:25~TFS~12/08/2026 10:20~~",
    "flightNumber": "FR273",
    "previousPrice": null,
-   "priceUpdated": 1791800706000
+   "priceUpdated": 1792419911000
   },
   "summary": {
    "price": {
-    "value": 65.99,
-    "valueMainUnit": "65",
+    "value": 49.99,
+    "valueMainUnit": "49",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1971,86 +1369,36 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
     "city": {
-     "code": "MALAGA",
-     "countryCode": "es",
-     "name": "Malaga"
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
     }
    },
-   "departureDate": "2026-12-11T06:00:00",
-   "arrivalDate": "2026-12-11T09:05:00",
+   "departureDate": "2026-12-11T09:20:00",
+   "arrivalDate": "2026-12-11T10:05:00",
    "price": {
-    "value": 67.72,
-    "valueMainUnit": "67",
-    "valueFractionalUnit": "72",
+    "value": 50.04,
+    "valueMainUnit": "50",
+    "valueFractionalUnit": "04",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~5095~ ~~NUE~12/11/2026 06:00~AGP~12/11/2026 09:05~~",
-   "flightNumber": "FR5095",
+   "flightKey": "FR~7633~ ~~NUE~12/11/2026 09:20~STN~12/11/2026 10:05~~",
+   "flightNumber": "FR7633",
    "previousPrice": null,
-   "priceUpdated": 1791800702000
+   "priceUpdated": 1792430036000
   },
   "summary": {
    "price": {
-    "value": 67.72,
-    "valueMainUnit": "67",
-    "valueFractionalUnit": "72",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "VLC",
-    "name": "Valencia",
-    "seoName": "valencia",
-    "city": {
-     "code": "VALENCIA",
-     "countryCode": "es",
-     "macCode": "VNC",
-     "name": "Valencia"
-    }
-   },
-   "departureDate": "2026-12-11T17:25:00",
-   "arrivalDate": "2026-12-11T19:50:00",
-   "price": {
-    "value": 67.94,
-    "valueMainUnit": "67",
-    "valueFractionalUnit": "94",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1131~ ~~NUE~12/11/2026 17:25~VLC~12/11/2026 19:50~~",
-   "flightNumber": "FR1131",
-   "previousPrice": null,
-   "priceUpdated": 1791800705000
-  },
-  "summary": {
-   "price": {
-    "value": 67.94,
-    "valueMainUnit": "67",
-    "valueFractionalUnit": "94",
+    "value": 50.04,
+    "valueMainUnit": "50",
+    "valueFractionalUnit": "04",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2085,22 +1433,575 @@
    "departureDate": "2026-12-11T20:45:00",
    "arrivalDate": "2026-12-11T22:45:00",
    "price": {
-    "value": 70.37,
-    "valueMainUnit": "70",
-    "valueFractionalUnit": "37",
+    "value": 52.29,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "29",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~7935~ ~~NUE~12/11/2026 20:45~OPO~12/11/2026 22:45~~",
    "flightNumber": "FR7935",
    "previousPrice": null,
-   "priceUpdated": 1791800701000
+   "priceUpdated": 1792423071000
   },
   "summary": {
    "price": {
-    "value": 70.37,
-    "valueMainUnit": "70",
+    "value": 52.29,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "29",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Hungary",
+    "iataCode": "BUD",
+    "name": "Budapest",
+    "seoName": "budapest",
+    "city": {
+     "code": "BUDAPEST",
+     "countryCode": "hu",
+     "name": "Budapest"
+    }
+   },
+   "departureDate": "2026-12-11T06:00:00",
+   "arrivalDate": "2026-12-11T07:25:00",
+   "price": {
+    "value": 52.99,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4256~ ~~NUE~12/11/2026 06:00~BUD~12/11/2026 07:25~~",
+   "flightNumber": "FR4256",
+   "previousPrice": null,
+   "priceUpdated": 1792419926000
+  },
+  "summary": {
+   "price": {
+    "value": 52.99,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-06T08:55:00",
+   "arrivalDate": "2026-12-06T09:40:00",
+   "price": {
+    "value": 55.99,
+    "valueMainUnit": "55",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7637~ ~~NUE~12/06/2026 08:55~STN~12/06/2026 09:40~~",
+   "flightNumber": "FR7637",
+   "previousPrice": null,
+   "priceUpdated": 1792436211000
+  },
+  "summary": {
+   "price": {
+    "value": 55.99,
+    "valueMainUnit": "55",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "FAO",
+    "name": "Faro",
+    "seoName": "faro",
+    "city": {
+     "code": "FARO",
+     "countryCode": "pt",
+     "name": "Faro"
+    }
+   },
+   "departureDate": "2026-12-07T17:50:00",
+   "arrivalDate": "2026-12-07T20:05:00",
+   "price": {
+    "value": 56.37,
+    "valueMainUnit": "56",
     "valueFractionalUnit": "37",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5788~ ~~NUE~12/07/2026 17:50~FAO~12/07/2026 20:05~~",
+   "flightNumber": "FR5788",
+   "previousPrice": null,
+   "priceUpdated": 1792417928000
+  },
+  "summary": {
+   "price": {
+    "value": 56.37,
+    "valueMainUnit": "56",
+    "valueFractionalUnit": "37",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-10T17:05:00",
+   "arrivalDate": "2026-12-10T19:40:00",
+   "price": {
+    "value": 56.99,
+    "valueMainUnit": "56",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7570~ ~~NUE~12/10/2026 17:05~ALC~12/10/2026 19:40~~",
+   "flightNumber": "FR7570",
+   "previousPrice": null,
+   "priceUpdated": 1792419926000
+  },
+  "summary": {
+   "price": {
+    "value": 56.99,
+    "valueMainUnit": "56",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-08T21:00:00",
+   "arrivalDate": "2026-12-08T21:45:00",
+   "price": {
+    "value": 59.55,
+    "valueMainUnit": "59",
+    "valueFractionalUnit": "55",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7633~ ~~NUE~12/08/2026 21:00~STN~12/08/2026 21:45~~",
+   "flightNumber": "FR7633",
+   "previousPrice": null,
+   "priceUpdated": 1792425304000
+  },
+  "summary": {
+   "price": {
+    "value": 59.55,
+    "valueMainUnit": "59",
+    "valueFractionalUnit": "55",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Greece",
+    "iataCode": "SKG",
+    "name": "Thessaloniki",
+    "seoName": "thessaloniki",
+    "city": {
+     "code": "THESSALONIKI",
+     "countryCode": "gr",
+     "name": "Thessaloniki"
+    }
+   },
+   "departureDate": "2026-12-04T18:55:00",
+   "arrivalDate": "2026-12-04T22:10:00",
+   "price": {
+    "value": 59.69,
+    "valueMainUnit": "59",
+    "valueFractionalUnit": "69",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4484~ ~~NUE~12/04/2026 18:55~SKG~12/04/2026 22:10~~",
+   "flightNumber": "FR4484",
+   "previousPrice": null,
+   "priceUpdated": 1792405380000
+  },
+  "summary": {
+   "price": {
+    "value": 59.69,
+    "valueMainUnit": "59",
+    "valueFractionalUnit": "69",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-07T06:20:00",
+   "arrivalDate": "2026-12-07T09:25:00",
+   "price": {
+    "value": 64.73,
+    "valueMainUnit": "64",
+    "valueFractionalUnit": "73",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5095~ ~~NUE~12/07/2026 06:20~AGP~12/07/2026 09:25~~",
+   "flightNumber": "FR5095",
+   "previousPrice": null,
+   "priceUpdated": 1792433454000
+  },
+  "summary": {
+   "price": {
+    "value": 64.73,
+    "valueMainUnit": "64",
+    "valueFractionalUnit": "73",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Greece",
+    "iataCode": "SKG",
+    "name": "Thessaloniki",
+    "seoName": "thessaloniki",
+    "city": {
+     "code": "THESSALONIKI",
+     "countryCode": "gr",
+     "name": "Thessaloniki"
+    }
+   },
+   "departureDate": "2026-12-07T10:30:00",
+   "arrivalDate": "2026-12-07T13:45:00",
+   "price": {
+    "value": 64.99,
+    "valueMainUnit": "64",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4484~ ~~NUE~12/07/2026 10:30~SKG~12/07/2026 13:45~~",
+   "flightNumber": "FR4484",
+   "previousPrice": null,
+   "priceUpdated": 1792436103000
+  },
+  "summary": {
+   "price": {
+    "value": 64.99,
+    "valueMainUnit": "64",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-05T20:50:00",
+   "arrivalDate": "2026-12-05T21:35:00",
+   "price": {
+    "value": 65.49,
+    "valueMainUnit": "65",
+    "valueFractionalUnit": "49",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7637~ ~~NUE~12/05/2026 20:50~STN~12/05/2026 21:35~~",
+   "flightNumber": "FR7637",
+   "previousPrice": null,
+   "priceUpdated": 1792427316000
+  },
+  "summary": {
+   "price": {
+    "value": 65.49,
+    "valueMainUnit": "65",
+    "valueFractionalUnit": "49",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "SVQ",
+    "name": "Seville",
+    "seoName": "seville",
+    "city": {
+     "code": "SEVILLE",
+     "countryCode": "es",
+     "name": "Seville"
+    }
+   },
+   "departureDate": "2026-12-06T06:20:00",
+   "arrivalDate": "2026-12-06T09:20:00",
+   "price": {
+    "value": 65.73,
+    "valueMainUnit": "65",
+    "valueFractionalUnit": "73",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1185~ ~~NUE~12/06/2026 06:20~SVQ~12/06/2026 09:20~~",
+   "flightNumber": "FR1185",
+   "previousPrice": null,
+   "priceUpdated": 1792431943000
+  },
+  "summary": {
+   "price": {
+    "value": 65.73,
+    "valueMainUnit": "65",
+    "valueFractionalUnit": "73",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-11T06:00:00",
+   "arrivalDate": "2026-12-11T09:05:00",
+   "price": {
+    "value": 66.86,
+    "valueMainUnit": "66",
+    "valueFractionalUnit": "86",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5095~ ~~NUE~12/11/2026 06:00~AGP~12/11/2026 09:05~~",
+   "flightNumber": "FR5095",
+   "previousPrice": null,
+   "priceUpdated": 1792431661000
+  },
+  "summary": {
+   "price": {
+    "value": 66.86,
+    "valueMainUnit": "66",
+    "valueFractionalUnit": "86",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2136,8 +2037,8 @@
    "departureDate": "2026-12-09T06:20:00",
    "arrivalDate": "2026-12-09T10:15:00",
    "price": {
-    "value": 77.99,
-    "valueMainUnit": "77",
+    "value": 67.99,
+    "valueMainUnit": "67",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2145,13 +2046,113 @@
    "flightKey": "FR~ 273~ ~~NUE~12/09/2026 06:20~TFS~12/09/2026 10:15~~",
    "flightNumber": "FR273",
    "previousPrice": null,
-   "priceUpdated": 1791800704000
+   "priceUpdated": 1792425301000
   },
   "summary": {
    "price": {
-    "value": 77.99,
+    "value": 67.99,
+    "valueMainUnit": "67",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "PMI",
+    "name": "Palma de Mallorca",
+    "seoName": "palma-mallorca",
+    "city": {
+     "code": "PALMA",
+     "countryCode": "es",
+     "name": "Palma"
+    }
+   },
+   "departureDate": "2026-12-10T10:30:00",
+   "arrivalDate": "2026-12-10T12:45:00",
+   "price": {
+    "value": 77.35,
     "valueMainUnit": "77",
-    "valueFractionalUnit": "99",
+    "valueFractionalUnit": "35",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 439~ ~~NUE~12/10/2026 10:30~PMI~12/10/2026 12:45~~",
+   "flightNumber": "FR439",
+   "previousPrice": null,
+   "priceUpdated": 1792405499000
+  },
+  "summary": {
+   "price": {
+    "value": 77.35,
+    "valueMainUnit": "77",
+    "valueFractionalUnit": "35",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "PMO",
+    "name": "Palermo",
+    "seoName": "palermo",
+    "city": {
+     "code": "PALERMO",
+     "countryCode": "it",
+     "name": "Palermo"
+    }
+   },
+   "departureDate": "2026-12-11T09:40:00",
+   "arrivalDate": "2026-12-11T11:45:00",
+   "price": {
+    "value": 79.97,
+    "valueMainUnit": "79",
+    "valueFractionalUnit": "97",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 903~ ~~NUE~12/11/2026 09:40~PMO~12/11/2026 11:45~~",
+   "flightNumber": "FR903",
+   "previousPrice": null,
+   "priceUpdated": 1792433375000
+  },
+  "summary": {
+   "price": {
+    "value": 79.97,
+    "valueMainUnit": "79",
+    "valueFractionalUnit": "97",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2184,24 +2185,24 @@
      "name": "London"
     }
    },
-   "departureDate": "2026-12-04T09:20:00",
-   "arrivalDate": "2026-12-04T10:05:00",
+   "departureDate": "2026-12-04T15:30:00",
+   "arrivalDate": "2026-12-04T16:15:00",
    "price": {
-    "value": 81.99,
-    "valueMainUnit": "81",
+    "value": 79.99,
+    "valueMainUnit": "79",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~7633~ ~~NUE~12/04/2026 09:20~STN~12/04/2026 10:05~~",
-   "flightNumber": "FR7633",
+   "flightKey": "FR~7637~ ~~NUE~12/04/2026 15:30~STN~12/04/2026 16:15~~",
+   "flightNumber": "FR7637",
    "previousPrice": null,
-   "priceUpdated": 1791800698000
+   "priceUpdated": 1792419274000
   },
   "summary": {
    "price": {
-    "value": 81.99,
-    "valueMainUnit": "81",
+    "value": 79.99,
+    "valueMainUnit": "79",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2224,36 +2225,86 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
+    "countryName": "Greece",
+    "iataCode": "SKG",
+    "name": "Thessaloniki",
+    "seoName": "thessaloniki",
     "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
+     "code": "THESSALONIKI",
+     "countryCode": "gr",
+     "name": "Thessaloniki"
     }
    },
-   "departureDate": "2026-12-05T11:30:00",
-   "arrivalDate": "2026-12-05T12:15:00",
+   "departureDate": "2026-12-11T18:55:00",
+   "arrivalDate": "2026-12-11T22:10:00",
    "price": {
-    "value": 90.14,
-    "valueMainUnit": "90",
-    "valueFractionalUnit": "14",
+    "value": 81.37,
+    "valueMainUnit": "81",
+    "valueFractionalUnit": "37",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~7633~ ~~NUE~12/05/2026 11:30~STN~12/05/2026 12:15~~",
-   "flightNumber": "FR7633",
+   "flightKey": "FR~4484~ ~~NUE~12/11/2026 18:55~SKG~12/11/2026 22:10~~",
+   "flightNumber": "FR4484",
    "previousPrice": null,
-   "priceUpdated": 1791800700000
+   "priceUpdated": 1792405505000
   },
   "summary": {
    "price": {
-    "value": 90.14,
-    "valueMainUnit": "90",
-    "valueFractionalUnit": "14",
+    "value": 81.37,
+    "valueMainUnit": "81",
+    "valueFractionalUnit": "37",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "VLC",
+    "name": "Valencia",
+    "seoName": "valencia",
+    "city": {
+     "code": "VALENCIA",
+     "countryCode": "es",
+     "macCode": "VNC",
+     "name": "Valencia"
+    }
+   },
+   "departureDate": "2026-12-11T17:25:00",
+   "arrivalDate": "2026-12-11T19:50:00",
+   "price": {
+    "value": 81.37,
+    "valueMainUnit": "81",
+    "valueFractionalUnit": "37",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1131~ ~~NUE~12/11/2026 17:25~VLC~12/11/2026 19:50~~",
+   "flightNumber": "FR1131",
+   "previousPrice": null,
+   "priceUpdated": 1792405505000
+  },
+  "summary": {
+   "price": {
+    "value": 81.37,
+    "valueMainUnit": "81",
+    "valueFractionalUnit": "37",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2288,73 +2339,22 @@
    "departureDate": "2026-12-10T20:35:00",
    "arrivalDate": "2026-12-10T22:30:00",
    "price": {
-    "value": 95.28,
-    "valueMainUnit": "95",
-    "valueFractionalUnit": "28",
+    "value": 81.38,
+    "valueMainUnit": "81",
+    "valueFractionalUnit": "38",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~7937~ ~~NUE~12/10/2026 20:35~BRI~12/10/2026 22:30~~",
    "flightNumber": "FR7937",
    "previousPrice": null,
-   "priceUpdated": 1791800699000
+   "priceUpdated": 1792405498000
   },
   "summary": {
    "price": {
-    "value": 95.28,
-    "valueMainUnit": "95",
-    "valueFractionalUnit": "28",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-11T15:30:00",
-   "arrivalDate": "2026-12-11T16:15:00",
-   "price": {
-    "value": 95.99,
-    "valueMainUnit": "95",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~7637~ ~~NUE~12/11/2026 15:30~STN~12/11/2026 16:15~~",
-   "flightNumber": "FR7637",
-   "previousPrice": null,
-   "priceUpdated": 1791800697000
-  },
-  "summary": {
-   "price": {
-    "value": 95.99,
-    "valueMainUnit": "95",
-    "valueFractionalUnit": "99",
+    "value": 81.38,
+    "valueMainUnit": "81",
+    "valueFractionalUnit": "38",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2389,8 +2389,8 @@
    "departureDate": "2026-12-07T09:45:00",
    "arrivalDate": "2026-12-07T12:00:00",
    "price": {
-    "value": 99.99,
-    "valueMainUnit": "99",
+    "value": 89.99,
+    "valueMainUnit": "89",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2398,12 +2398,12 @@
    "flightKey": "FR~ 439~ ~~NUE~12/07/2026 09:45~PMI~12/07/2026 12:00~~",
    "flightNumber": "FR439",
    "previousPrice": null,
-   "priceUpdated": 1791800700000
+   "priceUpdated": 1792419282000
   },
   "summary": {
    "price": {
-    "value": 99.99,
-    "valueMainUnit": "99",
+    "value": 89.99,
+    "valueMainUnit": "89",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2439,8 +2439,8 @@
    "departureDate": "2026-12-09T12:35:00",
    "arrivalDate": "2026-12-09T15:35:00",
    "price": {
-    "value": 116.99,
-    "valueMainUnit": "116",
+    "value": 113.99,
+    "valueMainUnit": "113",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2448,64 +2448,13 @@
    "flightKey": "FR~1185~ ~~NUE~12/09/2026 12:35~SVQ~12/09/2026 15:35~~",
    "flightNumber": "FR1185",
    "previousPrice": null,
-   "priceUpdated": 1791800701000
+   "priceUpdated": 1792419308000
   },
   "summary": {
    "price": {
-    "value": 116.99,
-    "valueMainUnit": "116",
+    "value": 113.99,
+    "valueMainUnit": "113",
     "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "VLC",
-    "name": "Valencia",
-    "seoName": "valencia",
-    "city": {
-     "code": "VALENCIA",
-     "countryCode": "es",
-     "macCode": "VNC",
-     "name": "Valencia"
-    }
-   },
-   "departureDate": "2026-12-04T17:25:00",
-   "arrivalDate": "2026-12-04T19:50:00",
-   "price": {
-    "value": 155.62,
-    "valueMainUnit": "155",
-    "valueFractionalUnit": "62",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1131~ ~~NUE~12/04/2026 17:25~VLC~12/04/2026 19:50~~",
-   "flightNumber": "FR1131",
-   "previousPrice": null,
-   "priceUpdated": 1791800701000
-  },
-  "summary": {
-   "price": {
-    "value": 155.62,
-    "valueMainUnit": "155",
-    "valueFractionalUnit": "62",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2541,8 +2490,8 @@
    "departureDate": "2026-12-07T22:10:00",
    "arrivalDate": "2026-12-08T00:35:00",
    "price": {
-    "value": 172.99,
-    "valueMainUnit": "172",
+    "value": 136.99,
+    "valueMainUnit": "136",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2550,12 +2499,12 @@
    "flightKey": "FR~1131~ ~~NUE~12/07/2026 22:10~VLC~12/08/2026 00:35~~",
    "flightNumber": "FR1131",
    "previousPrice": null,
-   "priceUpdated": 1791800703000
+   "priceUpdated": 1792419270000
   },
   "summary": {
    "price": {
-    "value": 172.99,
-    "valueMainUnit": "172",
+    "value": 136.99,
+    "valueMainUnit": "136",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2591,22 +2540,73 @@
    "departureDate": "2026-12-07T20:35:00",
    "arrivalDate": "2026-12-07T22:30:00",
    "price": {
-    "value": 184.59,
-    "valueMainUnit": "184",
-    "valueFractionalUnit": "59",
+    "value": 150.32,
+    "valueMainUnit": "150",
+    "valueFractionalUnit": "32",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~7937~ ~~NUE~12/07/2026 20:35~BRI~12/07/2026 22:30~~",
    "flightNumber": "FR7937",
    "previousPrice": null,
-   "priceUpdated": 1791800701000
+   "priceUpdated": 1792432942000
   },
   "summary": {
    "price": {
-    "value": 184.59,
-    "valueMainUnit": "184",
-    "valueFractionalUnit": "59",
+    "value": 150.32,
+    "valueMainUnit": "150",
+    "valueFractionalUnit": "32",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "VLC",
+    "name": "Valencia",
+    "seoName": "valencia",
+    "city": {
+     "code": "VALENCIA",
+     "countryCode": "es",
+     "macCode": "VNC",
+     "name": "Valencia"
+    }
+   },
+   "departureDate": "2026-12-04T17:25:00",
+   "arrivalDate": "2026-12-04T19:50:00",
+   "price": {
+    "value": 152.09,
+    "valueMainUnit": "152",
+    "valueFractionalUnit": "09",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1131~ ~~NUE~12/04/2026 17:25~VLC~12/04/2026 19:50~~",
+   "flightNumber": "FR1131",
+   "previousPrice": null,
+   "priceUpdated": 1792405502000
+  },
+  "summary": {
+   "price": {
+    "value": 152.09,
+    "valueMainUnit": "152",
+    "valueFractionalUnit": "09",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2641,8 +2641,8 @@
    "departureDate": "2026-12-12T11:30:00",
    "arrivalDate": "2026-12-12T14:35:00",
    "price": {
-    "value": 14.99,
-    "valueMainUnit": "14",
+    "value": 15.99,
+    "valueMainUnit": "15",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2650,69 +2650,18 @@
    "flightKey": "FR~1110~ ~~NUE~12/12/2026 11:30~AGA~12/12/2026 14:35~~",
    "flightNumber": "FR1110",
    "previousPrice": null,
-   "priceUpdated": 1791800697000
+   "priceUpdated": 1792419926000
   },
   "summary": {
    "price": {
-    "value": 14.99,
-    "valueMainUnit": "14",
+    "value": 15.99,
+    "valueMainUnit": "15",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-12T20:50:00",
-   "arrivalDate": "2026-12-12T21:35:00",
-   "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~7637~ ~~NUE~12/12/2026 20:50~STN~12/12/2026 21:35~~",
-   "flightNumber": "FR7637",
-   "previousPrice": null,
-   "priceUpdated": 1791800698000
-  },
-  "summary": {
-   "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
   }
  },
  {
@@ -2742,8 +2691,8 @@
    "departureDate": "2026-12-12T06:00:00",
    "arrivalDate": "2026-12-12T08:15:00",
    "price": {
-    "value": 22.99,
-    "valueMainUnit": "22",
+    "value": 19.99,
+    "valueMainUnit": "19",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2751,114 +2700,12 @@
    "flightKey": "FR~ 439~ ~~NUE~12/12/2026 06:00~PMI~12/12/2026 08:15~~",
    "flightNumber": "FR439",
    "previousPrice": null,
-   "priceUpdated": 1791800701000
+   "priceUpdated": 1792434034000
   },
   "summary": {
    "price": {
-    "value": 22.99,
-    "valueMainUnit": "22",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-15T08:00:00",
-   "arrivalDate": "2026-12-15T08:45:00",
-   "price": {
-    "value": 25.99,
-    "valueMainUnit": "25",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~7637~ ~~NUE~12/15/2026 08:00~STN~12/15/2026 08:45~~",
-   "flightNumber": "FR7637",
-   "previousPrice": null,
-   "priceUpdated": 1791800701000
-  },
-  "summary": {
-   "price": {
-    "value": 25.99,
-    "valueMainUnit": "25",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-16T08:00:00",
-   "arrivalDate": "2026-12-16T08:45:00",
-   "price": {
-    "value": 25.99,
-    "valueMainUnit": "25",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~7633~ ~~NUE~12/16/2026 08:00~STN~12/16/2026 08:45~~",
-   "flightNumber": "FR7633",
-   "previousPrice": null,
-   "priceUpdated": 1791800699000
-  },
-  "summary": {
-   "price": {
-    "value": 25.99,
-    "valueMainUnit": "25",
+    "value": 19.99,
+    "valueMainUnit": "19",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2894,8 +2741,8 @@
    "departureDate": "2026-12-14T11:25:00",
    "arrivalDate": "2026-12-14T14:30:00",
    "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
+    "value": 24.99,
+    "valueMainUnit": "24",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2903,12 +2750,12 @@
    "flightKey": "FR~1110~ ~~NUE~12/14/2026 11:25~AGA~12/14/2026 14:30~~",
    "flightNumber": "FR1110",
    "previousPrice": null,
-   "priceUpdated": 1791800698000
+   "priceUpdated": 1792419896000
   },
   "summary": {
    "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
+    "value": 24.99,
+    "valueMainUnit": "24",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2931,35 +2778,138 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Portugal",
-    "iataCode": "FAO",
-    "name": "Faro",
-    "seoName": "faro",
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
     "city": {
-     "code": "FARO",
-     "countryCode": "pt",
-     "name": "Faro"
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
     }
    },
-   "departureDate": "2026-12-14T17:50:00",
-   "arrivalDate": "2026-12-14T20:05:00",
+   "departureDate": "2026-12-15T21:00:00",
+   "arrivalDate": "2026-12-15T21:45:00",
    "price": {
-    "value": 32.99,
-    "valueMainUnit": "32",
+    "value": 27.99,
+    "valueMainUnit": "27",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~5788~ ~~NUE~12/14/2026 17:50~FAO~12/14/2026 20:05~~",
-   "flightNumber": "FR5788",
+   "flightKey": "FR~7633~ ~~NUE~12/15/2026 21:00~STN~12/15/2026 21:45~~",
+   "flightNumber": "FR7633",
    "previousPrice": null,
-   "priceUpdated": 1791800699000
+   "priceUpdated": 1792419428000
   },
   "summary": {
    "price": {
-    "value": 32.99,
-    "valueMainUnit": "32",
+    "value": 27.99,
+    "valueMainUnit": "27",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-12T20:50:00",
+   "arrivalDate": "2026-12-12T21:35:00",
+   "price": {
+    "value": 29.07,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "07",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7637~ ~~NUE~12/12/2026 20:50~STN~12/12/2026 21:35~~",
+   "flightNumber": "FR7637",
+   "previousPrice": null,
+   "priceUpdated": 1792441678000
+  },
+  "summary": {
+   "price": {
+    "value": 29.07,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "07",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-16T08:00:00",
+   "arrivalDate": "2026-12-16T08:45:00",
+   "price": {
+    "value": 34.23,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "23",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7633~ ~~NUE~12/16/2026 08:00~STN~12/16/2026 08:45~~",
+   "flightNumber": "FR7633",
+   "previousPrice": null,
+   "priceUpdated": 1792434033000
+  },
+  "summary": {
+   "price": {
+    "value": 34.23,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "23",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2994,22 +2944,22 @@
    "departureDate": "2026-12-12T21:10:00",
    "arrivalDate": "2026-12-13T00:15:00",
    "price": {
-    "value": 35.22,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "22",
+    "value": 34.61,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "61",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~5095~ ~~NUE~12/12/2026 21:10~AGP~12/13/2026 00:15~~",
    "flightNumber": "FR5095",
    "previousPrice": null,
-   "priceUpdated": 1791800700000
+   "priceUpdated": 1792434033000
   },
   "summary": {
    "price": {
-    "value": 35.22,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "22",
+    "value": 34.61,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "61",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -3041,25 +2991,75 @@
      "name": "Palma"
     }
    },
-   "departureDate": "2026-12-14T09:45:00",
-   "arrivalDate": "2026-12-14T12:00:00",
+   "departureDate": "2026-12-13T09:10:00",
+   "arrivalDate": "2026-12-13T11:25:00",
    "price": {
-    "value": 37.19,
-    "valueMainUnit": "37",
-    "valueFractionalUnit": "19",
+    "value": 35.99,
+    "valueMainUnit": "35",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 439~ ~~NUE~12/14/2026 09:45~PMI~12/14/2026 12:00~~",
+   "flightKey": "FR~ 439~ ~~NUE~12/13/2026 09:10~PMI~12/13/2026 11:25~~",
    "flightNumber": "FR439",
    "previousPrice": null,
-   "priceUpdated": 1791800702000
+   "priceUpdated": 1792419929000
   },
   "summary": {
    "price": {
-    "value": 37.19,
-    "valueMainUnit": "37",
-    "valueFractionalUnit": "19",
+    "value": 35.99,
+    "valueMainUnit": "35",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-14T06:20:00",
+   "arrivalDate": "2026-12-14T09:25:00",
+   "price": {
+    "value": 36.99,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5095~ ~~NUE~12/14/2026 06:20~AGP~12/14/2026 09:25~~",
+   "flightNumber": "FR5095",
+   "previousPrice": null,
+   "priceUpdated": 1792436997000
+  },
+  "summary": {
+   "price": {
+    "value": 36.99,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -3094,8 +3094,8 @@
    "departureDate": "2026-12-12T10:40:00",
    "arrivalDate": "2026-12-12T12:55:00",
    "price": {
-    "value": 40.99,
-    "valueMainUnit": "40",
+    "value": 39.99,
+    "valueMainUnit": "39",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3103,63 +3103,13 @@
    "flightKey": "FR~5788~ ~~NUE~12/12/2026 10:40~FAO~12/12/2026 12:55~~",
    "flightNumber": "FR5788",
    "previousPrice": null,
-   "priceUpdated": 1791800700000
+   "priceUpdated": 1792419926000
   },
   "summary": {
    "price": {
-    "value": 40.99,
-    "valueMainUnit": "40",
+    "value": 39.99,
+    "valueMainUnit": "39",
     "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "PMI",
-    "name": "Palma de Mallorca",
-    "seoName": "palma-mallorca",
-    "city": {
-     "code": "PALMA",
-     "countryCode": "es",
-     "name": "Palma"
-    }
-   },
-   "departureDate": "2026-12-17T10:30:00",
-   "arrivalDate": "2026-12-17T12:45:00",
-   "price": {
-    "value": 41.92,
-    "valueMainUnit": "41",
-    "valueFractionalUnit": "92",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 439~ ~~NUE~12/17/2026 10:30~PMI~12/17/2026 12:45~~",
-   "flightNumber": "FR439",
-   "previousPrice": null,
-   "priceUpdated": 1791800701000
-  },
-  "summary": {
-   "price": {
-    "value": 41.92,
-    "valueMainUnit": "41",
-    "valueFractionalUnit": "92",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -3195,22 +3145,72 @@
    "departureDate": "2026-12-17T06:20:00",
    "arrivalDate": "2026-12-17T07:05:00",
    "price": {
-    "value": 43.55,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "55",
+    "value": 40.32,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "32",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~7633~ ~~NUE~12/17/2026 06:20~STN~12/17/2026 07:05~~",
    "flightNumber": "FR7633",
    "previousPrice": null,
-   "priceUpdated": 1791800702000
+   "priceUpdated": 1792405505000
   },
   "summary": {
    "price": {
-    "value": 43.55,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "55",
+    "value": 40.32,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "32",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "PMI",
+    "name": "Palma de Mallorca",
+    "seoName": "palma-mallorca",
+    "city": {
+     "code": "PALMA",
+     "countryCode": "es",
+     "name": "Palma"
+    }
+   },
+   "departureDate": "2026-12-14T09:45:00",
+   "arrivalDate": "2026-12-14T12:00:00",
+   "price": {
+    "value": 40.62,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "62",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 439~ ~~NUE~12/14/2026 09:45~PMI~12/14/2026 12:00~~",
+   "flightNumber": "FR439",
+   "previousPrice": null,
+   "priceUpdated": 1792405497000
+  },
+  "summary": {
+   "price": {
+    "value": 40.62,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "62",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -3246,22 +3246,22 @@
    "departureDate": "2026-12-13T08:55:00",
    "arrivalDate": "2026-12-13T09:40:00",
    "price": {
-    "value": 43.65,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "65",
+    "value": 41.44,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "44",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~7637~ ~~NUE~12/13/2026 08:55~STN~12/13/2026 09:40~~",
    "flightNumber": "FR7637",
    "previousPrice": null,
-   "priceUpdated": 1791800701000
+   "priceUpdated": 1792432501000
   },
   "summary": {
    "price": {
-    "value": 43.65,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "65",
+    "value": 41.44,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "44",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -3296,8 +3296,8 @@
    "departureDate": "2026-12-13T06:30:00",
    "arrivalDate": "2026-12-13T07:55:00",
    "price": {
-    "value": 43.69,
-    "valueMainUnit": "43",
+    "value": 42.69,
+    "valueMainUnit": "42",
     "valueFractionalUnit": "69",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3305,12 +3305,12 @@
    "flightKey": "FR~4256~ ~~NUE~12/13/2026 06:30~BUD~12/13/2026 07:55~~",
    "flightNumber": "FR4256",
    "previousPrice": null,
-   "priceUpdated": 1791800700000
+   "priceUpdated": 1792437986000
   },
   "summary": {
    "price": {
-    "value": 43.69,
-    "valueMainUnit": "43",
+    "value": 42.69,
+    "valueMainUnit": "42",
     "valueFractionalUnit": "69",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3333,18 +3333,18 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "PMI",
-    "name": "Palma de Mallorca",
-    "seoName": "palma-mallorca",
+    "countryName": "Italy",
+    "iataCode": "BRI",
+    "name": "Bari",
+    "seoName": "bari",
     "city": {
-     "code": "PALMA",
-     "countryCode": "es",
-     "name": "Palma"
+     "code": "BARI",
+     "countryCode": "it",
+     "name": "Bari"
     }
    },
-   "departureDate": "2026-12-13T09:10:00",
-   "arrivalDate": "2026-12-13T11:25:00",
+   "departureDate": "2026-12-12T16:05:00",
+   "arrivalDate": "2026-12-12T18:00:00",
    "price": {
     "value": 43.99,
     "valueMainUnit": "43",
@@ -3352,10 +3352,10 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 439~ ~~NUE~12/13/2026 09:10~PMI~12/13/2026 11:25~~",
-   "flightNumber": "FR439",
+   "flightKey": "FR~7937~ ~~NUE~12/12/2026 16:05~BRI~12/12/2026 18:00~~",
+   "flightNumber": "FR7937",
    "previousPrice": null,
-   "priceUpdated": 1791800701000
+   "priceUpdated": 1792419358000
   },
   "summary": {
    "price": {
@@ -3383,36 +3383,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "VLC",
-    "name": "Valencia",
-    "seoName": "valencia",
+    "countryName": "Portugal",
+    "iataCode": "FAO",
+    "name": "Faro",
+    "seoName": "faro",
     "city": {
-     "code": "VALENCIA",
-     "countryCode": "es",
-     "macCode": "VNC",
-     "name": "Valencia"
+     "code": "FARO",
+     "countryCode": "pt",
+     "name": "Faro"
     }
    },
-   "departureDate": "2026-12-17T16:25:00",
-   "arrivalDate": "2026-12-17T18:50:00",
+   "departureDate": "2026-12-14T17:50:00",
+   "arrivalDate": "2026-12-14T20:05:00",
    "price": {
-    "value": 45.15,
+    "value": 45.99,
     "valueMainUnit": "45",
-    "valueFractionalUnit": "15",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~1131~ ~~NUE~12/17/2026 16:25~VLC~12/17/2026 18:50~~",
-   "flightNumber": "FR1131",
+   "flightKey": "FR~5788~ ~~NUE~12/14/2026 17:50~FAO~12/14/2026 20:05~~",
+   "flightNumber": "FR5788",
    "previousPrice": null,
-   "priceUpdated": 1791800706000
+   "priceUpdated": 1792436800000
   },
   "summary": {
    "price": {
-    "value": 45.15,
+    "value": 45.99,
     "valueMainUnit": "45",
-    "valueFractionalUnit": "15",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -3456,7 +3455,7 @@
    "flightKey": "FR~ 439~ ~~NUE~12/19/2026 06:00~PMI~12/19/2026 08:15~~",
    "flightNumber": "FR439",
    "previousPrice": null,
-   "priceUpdated": 1791802498000
+   "priceUpdated": 1792419495000
   },
   "summary": {
    "price": {
@@ -3497,274 +3496,22 @@
    "departureDate": "2026-12-13T14:50:00",
    "arrivalDate": "2026-12-13T16:55:00",
    "price": {
-    "value": 46.04,
-    "valueMainUnit": "46",
-    "valueFractionalUnit": "04",
+    "value": 47.91,
+    "valueMainUnit": "47",
+    "valueFractionalUnit": "91",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~ 903~ ~~NUE~12/13/2026 14:50~PMO~12/13/2026 16:55~~",
    "flightNumber": "FR903",
    "previousPrice": null,
-   "priceUpdated": 1791800699000
+   "priceUpdated": 1792440430000
   },
   "summary": {
    "price": {
-    "value": 46.04,
-    "valueMainUnit": "46",
-    "valueFractionalUnit": "04",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
-    "city": {
-     "code": "MALAGA",
-     "countryCode": "es",
-     "name": "Malaga"
-    }
-   },
-   "departureDate": "2026-12-14T06:20:00",
-   "arrivalDate": "2026-12-14T09:25:00",
-   "price": {
-    "value": 46.99,
-    "valueMainUnit": "46",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5095~ ~~NUE~12/14/2026 06:20~AGP~12/14/2026 09:25~~",
-   "flightNumber": "FR5095",
-   "previousPrice": null,
-   "priceUpdated": 1791803397000
-  },
-  "summary": {
-   "price": {
-    "value": 46.99,
-    "valueMainUnit": "46",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "TFS",
-    "name": "Tenerife South",
-    "seoName": "tenerife-south",
-    "city": {
-     "code": "TENERIFE",
-     "countryCode": "es",
-     "macCode": "TEN",
-     "name": "Tenerife"
-    }
-   },
-   "departureDate": "2026-12-16T06:20:00",
-   "arrivalDate": "2026-12-16T10:15:00",
-   "price": {
-    "value": 49.99,
-    "valueMainUnit": "49",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 273~ ~~NUE~12/16/2026 06:20~TFS~12/16/2026 10:15~~",
-   "flightNumber": "FR273",
-   "previousPrice": null,
-   "priceUpdated": 1791800706000
-  },
-  "summary": {
-   "price": {
-    "value": 49.99,
-    "valueMainUnit": "49",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "PMI",
-    "name": "Palma de Mallorca",
-    "seoName": "palma-mallorca",
-    "city": {
-     "code": "PALMA",
-     "countryCode": "es",
-     "name": "Palma"
-    }
-   },
-   "departureDate": "2026-12-18T19:40:00",
-   "arrivalDate": "2026-12-18T21:55:00",
-   "price": {
-    "value": 50.29,
-    "valueMainUnit": "50",
-    "valueFractionalUnit": "29",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 439~ ~~NUE~12/18/2026 19:40~PMI~12/18/2026 21:55~~",
-   "flightNumber": "FR439",
-   "previousPrice": null,
-   "priceUpdated": 1791800698000
-  },
-  "summary": {
-   "price": {
-    "value": 50.29,
-    "valueMainUnit": "50",
-    "valueFractionalUnit": "29",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-17T17:05:00",
-   "arrivalDate": "2026-12-17T19:40:00",
-   "price": {
-    "value": 51.03,
-    "valueMainUnit": "51",
-    "valueFractionalUnit": "03",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~7570~ ~~NUE~12/17/2026 17:05~ALC~12/17/2026 19:40~~",
-   "flightNumber": "FR7570",
-   "previousPrice": null,
-   "priceUpdated": 1791800702000
-  },
-  "summary": {
-   "price": {
-    "value": 51.03,
-    "valueMainUnit": "51",
-    "valueFractionalUnit": "03",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "TFS",
-    "name": "Tenerife South",
-    "seoName": "tenerife-south",
-    "city": {
-     "code": "TENERIFE",
-     "countryCode": "es",
-     "macCode": "TEN",
-     "name": "Tenerife"
-    }
-   },
-   "departureDate": "2026-12-17T06:10:00",
-   "arrivalDate": "2026-12-17T10:05:00",
-   "price": {
-    "value": 53.86,
-    "valueMainUnit": "53",
-    "valueFractionalUnit": "86",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 273~ ~~NUE~12/17/2026 06:10~TFS~12/17/2026 10:05~~",
-   "flightNumber": "FR273",
-   "previousPrice": null,
-   "priceUpdated": 1791801025000
-  },
-  "summary": {
-   "price": {
-    "value": 53.86,
-    "valueMainUnit": "53",
-    "valueFractionalUnit": "86",
+    "value": 47.91,
+    "valueMainUnit": "47",
+    "valueFractionalUnit": "91",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -3800,8 +3547,8 @@
    "departureDate": "2026-12-14T06:20:00",
    "arrivalDate": "2026-12-14T07:05:00",
    "price": {
-    "value": 54.99,
-    "valueMainUnit": "54",
+    "value": 52.99,
+    "valueMainUnit": "52",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3809,213 +3556,12 @@
    "flightKey": "FR~7633~ ~~NUE~12/14/2026 06:20~STN~12/14/2026 07:05~~",
    "flightNumber": "FR7633",
    "previousPrice": null,
-   "priceUpdated": 1791800701000
+   "priceUpdated": 1792419354000
   },
   "summary": {
    "price": {
-    "value": 54.99,
-    "valueMainUnit": "54",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-18T10:00:00",
-   "arrivalDate": "2026-12-18T12:35:00",
-   "price": {
-    "value": 55.17,
-    "valueMainUnit": "55",
-    "valueFractionalUnit": "17",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~7570~ ~~NUE~12/18/2026 10:00~ALC~12/18/2026 12:35~~",
-   "flightNumber": "FR7570",
-   "previousPrice": null,
-   "priceUpdated": 1791800703000
-  },
-  "summary": {
-   "price": {
-    "value": 55.17,
-    "valueMainUnit": "55",
-    "valueFractionalUnit": "17",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Hungary",
-    "iataCode": "BUD",
-    "name": "Budapest",
-    "seoName": "budapest",
-    "city": {
-     "code": "BUDAPEST",
-     "countryCode": "hu",
-     "name": "Budapest"
-    }
-   },
-   "departureDate": "2026-12-18T06:00:00",
-   "arrivalDate": "2026-12-18T07:25:00",
-   "price": {
-    "value": 55.4,
-    "valueMainUnit": "55",
-    "valueFractionalUnit": "40",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4256~ ~~NUE~12/18/2026 06:00~BUD~12/18/2026 07:25~~",
-   "flightNumber": "FR4256",
-   "previousPrice": null,
-   "priceUpdated": 1791800702000
-  },
-  "summary": {
-   "price": {
-    "value": 55.4,
-    "valueMainUnit": "55",
-    "valueFractionalUnit": "40",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "VLC",
-    "name": "Valencia",
-    "seoName": "valencia",
-    "city": {
-     "code": "VALENCIA",
-     "countryCode": "es",
-     "macCode": "VNC",
-     "name": "Valencia"
-    }
-   },
-   "departureDate": "2026-12-18T17:25:00",
-   "arrivalDate": "2026-12-18T19:50:00",
-   "price": {
-    "value": 55.99,
-    "valueMainUnit": "55",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1131~ ~~NUE~12/18/2026 17:25~VLC~12/18/2026 19:50~~",
-   "flightNumber": "FR1131",
-   "previousPrice": null,
-   "priceUpdated": 1791802505000
-  },
-  "summary": {
-   "price": {
-    "value": 55.99,
-    "valueMainUnit": "55",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BRI",
-    "name": "Bari",
-    "seoName": "bari",
-    "city": {
-     "code": "BARI",
-     "countryCode": "it",
-     "name": "Bari"
-    }
-   },
-   "departureDate": "2026-12-12T16:05:00",
-   "arrivalDate": "2026-12-12T18:00:00",
-   "price": {
-    "value": 56.99,
-    "valueMainUnit": "56",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~7937~ ~~NUE~12/12/2026 16:05~BRI~12/12/2026 18:00~~",
-   "flightNumber": "FR7937",
-   "previousPrice": null,
-   "priceUpdated": 1791800699000
-  },
-  "summary": {
-   "price": {
-    "value": 56.99,
-    "valueMainUnit": "56",
+    "value": 52.99,
+    "valueMainUnit": "52",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4052,8 +3598,8 @@
    "departureDate": "2026-12-15T06:25:00",
    "arrivalDate": "2026-12-15T10:20:00",
    "price": {
-    "value": 60.99,
-    "valueMainUnit": "60",
+    "value": 52.99,
+    "valueMainUnit": "52",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4061,13 +3607,115 @@
    "flightKey": "FR~ 273~ ~~NUE~12/15/2026 06:25~TFS~12/15/2026 10:20~~",
    "flightNumber": "FR273",
    "previousPrice": null,
-   "priceUpdated": 1791800704000
+   "priceUpdated": 1792442046000
   },
   "summary": {
    "price": {
-    "value": 60.99,
-    "valueMainUnit": "60",
+    "value": 52.99,
+    "valueMainUnit": "52",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "TFS",
+    "name": "Tenerife South",
+    "seoName": "tenerife-south",
+    "city": {
+     "code": "TENERIFE",
+     "countryCode": "es",
+     "macCode": "TEN",
+     "name": "Tenerife"
+    }
+   },
+   "departureDate": "2026-12-16T06:20:00",
+   "arrivalDate": "2026-12-16T10:15:00",
+   "price": {
+    "value": 52.99,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 273~ ~~NUE~12/16/2026 06:20~TFS~12/16/2026 10:15~~",
+   "flightNumber": "FR273",
+   "previousPrice": null,
+   "priceUpdated": 1792436804000
+  },
+  "summary": {
+   "price": {
+    "value": 52.99,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-18T15:30:00",
+   "arrivalDate": "2026-12-18T16:15:00",
+   "price": {
+    "value": 56.04,
+    "valueMainUnit": "56",
+    "valueFractionalUnit": "04",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7637~ ~~NUE~12/18/2026 15:30~STN~12/18/2026 16:15~~",
+   "flightNumber": "FR7637",
+   "previousPrice": null,
+   "priceUpdated": 1792438733000
+  },
+  "summary": {
+   "price": {
+    "value": 56.04,
+    "valueMainUnit": "56",
+    "valueFractionalUnit": "04",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -4102,8 +3750,8 @@
    "departureDate": "2026-12-13T16:55:00",
    "arrivalDate": "2026-12-13T19:25:00",
    "price": {
-    "value": 63.99,
-    "valueMainUnit": "63",
+    "value": 56.99,
+    "valueMainUnit": "56",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4111,18 +3759,68 @@
    "flightKey": "FR~9963~ ~~NUE~12/13/2026 16:55~RBA~12/13/2026 19:25~~",
    "flightNumber": "FR9963",
    "previousPrice": null,
-   "priceUpdated": 1791800700000
+   "priceUpdated": 1792419912000
   },
   "summary": {
    "price": {
-    "value": 63.99,
-    "valueMainUnit": "63",
+    "value": 56.99,
+    "valueMainUnit": "56",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Hungary",
+    "iataCode": "BUD",
+    "name": "Budapest",
+    "seoName": "budapest",
+    "city": {
+     "code": "BUDAPEST",
+     "countryCode": "hu",
+     "name": "Budapest"
+    }
+   },
+   "departureDate": "2026-12-18T06:00:00",
+   "arrivalDate": "2026-12-18T07:25:00",
+   "price": {
+    "value": 58.99,
+    "valueMainUnit": "58",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4256~ ~~NUE~12/18/2026 06:00~BUD~12/18/2026 07:25~~",
+   "flightNumber": "FR4256",
+   "previousPrice": null,
+   "priceUpdated": 1792437804000
+  },
+  "summary": {
+   "price": {
+    "value": 58.99,
+    "valueMainUnit": "58",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
   }
  },
  {
@@ -4152,8 +3850,8 @@
    "departureDate": "2026-12-13T10:15:00",
    "arrivalDate": "2026-12-13T12:15:00",
    "price": {
-    "value": 65.99,
-    "valueMainUnit": "65",
+    "value": 58.99,
+    "valueMainUnit": "58",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4161,113 +3859,12 @@
    "flightKey": "FR~7935~ ~~NUE~12/13/2026 10:15~OPO~12/13/2026 12:15~~",
    "flightNumber": "FR7935",
    "previousPrice": null,
-   "priceUpdated": 1791800700000
+   "priceUpdated": 1792419927000
   },
   "summary": {
    "price": {
-    "value": 65.99,
-    "valueMainUnit": "65",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BRI",
-    "name": "Bari",
-    "seoName": "bari",
-    "city": {
-     "code": "BARI",
-     "countryCode": "it",
-     "name": "Bari"
-    }
-   },
-   "departureDate": "2026-12-17T20:35:00",
-   "arrivalDate": "2026-12-17T22:30:00",
-   "price": {
-    "value": 67.02,
-    "valueMainUnit": "67",
-    "valueFractionalUnit": "02",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~7937~ ~~NUE~12/17/2026 20:35~BRI~12/17/2026 22:30~~",
-   "flightNumber": "FR7937",
-   "previousPrice": null,
-   "priceUpdated": 1791802105000
-  },
-  "summary": {
-   "price": {
-    "value": 67.02,
-    "valueMainUnit": "67",
-    "valueFractionalUnit": "02",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-19T20:50:00",
-   "arrivalDate": "2026-12-19T21:35:00",
-   "price": {
-    "value": 67.99,
-    "valueMainUnit": "67",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~7637~ ~~NUE~12/19/2026 20:50~STN~12/19/2026 21:35~~",
-   "flightNumber": "FR7637",
-   "previousPrice": null,
-   "priceUpdated": 1791801645000
-  },
-  "summary": {
-   "price": {
-    "value": 67.99,
-    "valueMainUnit": "67",
+    "value": 58.99,
+    "valueMainUnit": "58",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4303,8 +3900,8 @@
    "departureDate": "2026-12-19T11:30:00",
    "arrivalDate": "2026-12-19T14:35:00",
    "price": {
-    "value": 73.99,
-    "valueMainUnit": "73",
+    "value": 61.99,
+    "valueMainUnit": "61",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4312,18 +3909,69 @@
    "flightKey": "FR~1110~ ~~NUE~12/19/2026 11:30~AGA~12/19/2026 14:35~~",
    "flightNumber": "FR1110",
    "previousPrice": null,
-   "priceUpdated": 1791802499000
+   "priceUpdated": 1792419896000
   },
   "summary": {
    "price": {
-    "value": 73.99,
-    "valueMainUnit": "73",
+    "value": 61.99,
+    "valueMainUnit": "61",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-19T20:50:00",
+   "arrivalDate": "2026-12-19T21:35:00",
+   "price": {
+    "value": 62.99,
+    "valueMainUnit": "62",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7637~ ~~NUE~12/19/2026 20:50~STN~12/19/2026 21:35~~",
+   "flightNumber": "FR7637",
+   "previousPrice": null,
+   "priceUpdated": 1792419469000
+  },
+  "summary": {
+   "price": {
+    "value": 62.99,
+    "valueMainUnit": "62",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
   }
  },
  {
@@ -4354,22 +4002,22 @@
    "departureDate": "2026-12-12T06:05:00",
    "arrivalDate": "2026-12-12T10:00:00",
    "price": {
-    "value": 82.89,
-    "valueMainUnit": "82",
-    "valueFractionalUnit": "89",
+    "value": 63.9,
+    "valueMainUnit": "63",
+    "valueFractionalUnit": "90",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~ 273~ ~~NUE~12/12/2026 06:05~TFS~12/12/2026 10:00~~",
    "flightNumber": "FR273",
    "previousPrice": null,
-   "priceUpdated": 1791801601000
+   "priceUpdated": 1792424402000
   },
   "summary": {
    "price": {
-    "value": 82.89,
-    "valueMainUnit": "82",
-    "valueFractionalUnit": "89",
+    "value": 63.9,
+    "valueMainUnit": "63",
+    "valueFractionalUnit": "90",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -4392,34 +4040,235 @@
    },
    "arrivalAirport": {
     "countryName": "Spain",
-    "iataCode": "SVQ",
-    "name": "Seville",
-    "seoName": "seville",
+    "iataCode": "PMI",
+    "name": "Palma de Mallorca",
+    "seoName": "palma-mallorca",
     "city": {
-     "code": "SEVILLE",
+     "code": "PALMA",
      "countryCode": "es",
-     "name": "Seville"
+     "name": "Palma"
     }
    },
-   "departureDate": "2026-12-13T06:20:00",
-   "arrivalDate": "2026-12-13T09:20:00",
+   "departureDate": "2026-12-18T19:40:00",
+   "arrivalDate": "2026-12-18T21:55:00",
    "price": {
-    "value": 86.6,
-    "valueMainUnit": "86",
-    "valueFractionalUnit": "60",
+    "value": 69.61,
+    "valueMainUnit": "69",
+    "valueFractionalUnit": "61",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~1185~ ~~NUE~12/13/2026 06:20~SVQ~12/13/2026 09:20~~",
-   "flightNumber": "FR1185",
+   "flightKey": "FR~ 439~ ~~NUE~12/18/2026 19:40~PMI~12/18/2026 21:55~~",
+   "flightNumber": "FR439",
    "previousPrice": null,
-   "priceUpdated": 1791800702000
+   "priceUpdated": 1792405499000
   },
   "summary": {
    "price": {
-    "value": 86.6,
-    "valueMainUnit": "86",
-    "valueFractionalUnit": "60",
+    "value": 69.61,
+    "valueMainUnit": "69",
+    "valueFractionalUnit": "61",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "PMI",
+    "name": "Palma de Mallorca",
+    "seoName": "palma-mallorca",
+    "city": {
+     "code": "PALMA",
+     "countryCode": "es",
+     "name": "Palma"
+    }
+   },
+   "departureDate": "2026-12-17T10:30:00",
+   "arrivalDate": "2026-12-17T12:45:00",
+   "price": {
+    "value": 71.08,
+    "valueMainUnit": "71",
+    "valueFractionalUnit": "08",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 439~ ~~NUE~12/17/2026 10:30~PMI~12/17/2026 12:45~~",
+   "flightNumber": "FR439",
+   "previousPrice": null,
+   "priceUpdated": 1792405500000
+  },
+  "summary": {
+   "price": {
+    "value": 71.08,
+    "valueMainUnit": "71",
+    "valueFractionalUnit": "08",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "TFS",
+    "name": "Tenerife South",
+    "seoName": "tenerife-south",
+    "city": {
+     "code": "TENERIFE",
+     "countryCode": "es",
+     "macCode": "TEN",
+     "name": "Tenerife"
+    }
+   },
+   "departureDate": "2026-12-17T06:10:00",
+   "arrivalDate": "2026-12-17T10:05:00",
+   "price": {
+    "value": 73.18,
+    "valueMainUnit": "73",
+    "valueFractionalUnit": "18",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 273~ ~~NUE~12/17/2026 06:10~TFS~12/17/2026 10:05~~",
+   "flightNumber": "FR273",
+   "previousPrice": null,
+   "priceUpdated": 1792424405000
+  },
+  "summary": {
+   "price": {
+    "value": 73.18,
+    "valueMainUnit": "73",
+    "valueFractionalUnit": "18",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-17T17:05:00",
+   "arrivalDate": "2026-12-17T19:40:00",
+   "price": {
+    "value": 80.37,
+    "valueMainUnit": "80",
+    "valueFractionalUnit": "37",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7570~ ~~NUE~12/17/2026 17:05~ALC~12/17/2026 19:40~~",
+   "flightNumber": "FR7570",
+   "previousPrice": null,
+   "priceUpdated": 1792405499000
+  },
+  "summary": {
+   "price": {
+    "value": 80.37,
+    "valueMainUnit": "80",
+    "valueFractionalUnit": "37",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-18T10:00:00",
+   "arrivalDate": "2026-12-18T12:35:00",
+   "price": {
+    "value": 80.37,
+    "valueMainUnit": "80",
+    "valueFractionalUnit": "37",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7570~ ~~NUE~12/18/2026 10:00~ALC~12/18/2026 12:35~~",
+   "flightNumber": "FR7570",
+   "previousPrice": null,
+   "priceUpdated": 1792405499000
+  },
+  "summary": {
+   "price": {
+    "value": 80.37,
+    "valueMainUnit": "80",
+    "valueFractionalUnit": "37",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -4454,8 +4303,8 @@
    "departureDate": "2026-12-19T14:45:00",
    "arrivalDate": "2026-12-19T17:20:00",
    "price": {
-    "value": 91.99,
-    "valueMainUnit": "91",
+    "value": 84.99,
+    "valueMainUnit": "84",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4463,12 +4312,12 @@
    "flightKey": "FR~7570~ ~~NUE~12/19/2026 14:45~ALC~12/19/2026 17:20~~",
    "flightNumber": "FR7570",
    "previousPrice": null,
-   "priceUpdated": 1791801621000
+   "priceUpdated": 1792421066000
   },
   "summary": {
    "price": {
-    "value": 91.99,
-    "valueMainUnit": "91",
+    "value": 84.99,
+    "valueMainUnit": "84",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4504,21 +4353,373 @@
    "departureDate": "2026-12-18T09:40:00",
    "arrivalDate": "2026-12-18T11:45:00",
    "price": {
-    "value": 99.99,
-    "valueMainUnit": "99",
-    "valueFractionalUnit": "99",
+    "value": 85.05,
+    "valueMainUnit": "85",
+    "valueFractionalUnit": "05",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~ 903~ ~~NUE~12/18/2026 09:40~PMO~12/18/2026 11:45~~",
    "flightNumber": "FR903",
    "previousPrice": null,
-   "priceUpdated": 1791800702000
+   "priceUpdated": 1792405501000
   },
   "summary": {
    "price": {
-    "value": 99.99,
+    "value": 85.05,
+    "valueMainUnit": "85",
+    "valueFractionalUnit": "05",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "VLC",
+    "name": "Valencia",
+    "seoName": "valencia",
+    "city": {
+     "code": "VALENCIA",
+     "countryCode": "es",
+     "macCode": "VNC",
+     "name": "Valencia"
+    }
+   },
+   "departureDate": "2026-12-18T17:25:00",
+   "arrivalDate": "2026-12-18T19:50:00",
+   "price": {
+    "value": 88.99,
+    "valueMainUnit": "88",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1131~ ~~NUE~12/18/2026 17:25~VLC~12/18/2026 19:50~~",
+   "flightNumber": "FR1131",
+   "previousPrice": null,
+   "priceUpdated": 1792437317000
+  },
+  "summary": {
+   "price": {
+    "value": 88.99,
+    "valueMainUnit": "88",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "VLC",
+    "name": "Valencia",
+    "seoName": "valencia",
+    "city": {
+     "code": "VALENCIA",
+     "countryCode": "es",
+     "macCode": "VNC",
+     "name": "Valencia"
+    }
+   },
+   "departureDate": "2026-12-14T22:10:00",
+   "arrivalDate": "2026-12-15T00:35:00",
+   "price": {
+    "value": 93.99,
+    "valueMainUnit": "93",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1131~ ~~NUE~12/14/2026 22:10~VLC~12/15/2026 00:35~~",
+   "flightNumber": "FR1131",
+   "previousPrice": null,
+   "priceUpdated": 1792434634000
+  },
+  "summary": {
+   "price": {
+    "value": 93.99,
+    "valueMainUnit": "93",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-13T10:20:00",
+   "arrivalDate": "2026-12-13T12:55:00",
+   "price": {
+    "value": 95.74,
+    "valueMainUnit": "95",
+    "valueFractionalUnit": "74",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7570~ ~~NUE~12/13/2026 10:20~ALC~12/13/2026 12:55~~",
+   "flightNumber": "FR7570",
+   "previousPrice": null,
+   "priceUpdated": 1792405501000
+  },
+  "summary": {
+   "price": {
+    "value": 95.74,
+    "valueMainUnit": "95",
+    "valueFractionalUnit": "74",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "SVQ",
+    "name": "Seville",
+    "seoName": "seville",
+    "city": {
+     "code": "SEVILLE",
+     "countryCode": "es",
+     "name": "Seville"
+    }
+   },
+   "departureDate": "2026-12-13T06:20:00",
+   "arrivalDate": "2026-12-13T09:20:00",
+   "price": {
+    "value": 97.72,
+    "valueMainUnit": "97",
+    "valueFractionalUnit": "72",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1185~ ~~NUE~12/13/2026 06:20~SVQ~12/13/2026 09:20~~",
+   "flightNumber": "FR1185",
+   "previousPrice": null,
+   "priceUpdated": 1792405501000
+  },
+  "summary": {
+   "price": {
+    "value": 97.72,
+    "valueMainUnit": "97",
+    "valueFractionalUnit": "72",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Greece",
+    "iataCode": "SKG",
+    "name": "Thessaloniki",
+    "seoName": "thessaloniki",
+    "city": {
+     "code": "THESSALONIKI",
+     "countryCode": "gr",
+     "name": "Thessaloniki"
+    }
+   },
+   "departureDate": "2026-12-12T17:00:00",
+   "arrivalDate": "2026-12-12T20:15:00",
+   "price": {
+    "value": 98.74,
+    "valueMainUnit": "98",
+    "valueFractionalUnit": "74",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4484~ ~~NUE~12/12/2026 17:00~SKG~12/12/2026 20:15~~",
+   "flightNumber": "FR4484",
+   "previousPrice": null,
+   "priceUpdated": 1792405503000
+  },
+  "summary": {
+   "price": {
+    "value": 98.74,
+    "valueMainUnit": "98",
+    "valueFractionalUnit": "74",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BRI",
+    "name": "Bari",
+    "seoName": "bari",
+    "city": {
+     "code": "BARI",
+     "countryCode": "it",
+     "name": "Bari"
+    }
+   },
+   "departureDate": "2026-12-17T20:35:00",
+   "arrivalDate": "2026-12-17T22:30:00",
+   "price": {
+    "value": 99.02,
     "valueMainUnit": "99",
+    "valueFractionalUnit": "02",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7937~ ~~NUE~12/17/2026 20:35~BRI~12/17/2026 22:30~~",
+   "flightNumber": "FR7937",
+   "previousPrice": null,
+   "priceUpdated": 1792405498000
+  },
+  "summary": {
+   "price": {
+    "value": 99.02,
+    "valueMainUnit": "99",
+    "valueFractionalUnit": "02",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BRI",
+    "name": "Bari",
+    "seoName": "bari",
+    "city": {
+     "code": "BARI",
+     "countryCode": "it",
+     "name": "Bari"
+    }
+   },
+   "departureDate": "2026-12-14T20:35:00",
+   "arrivalDate": "2026-12-14T22:30:00",
+   "price": {
+    "value": 102.99,
+    "valueMainUnit": "102",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7937~ ~~NUE~12/14/2026 20:35~BRI~12/14/2026 22:30~~",
+   "flightNumber": "FR7937",
+   "previousPrice": null,
+   "priceUpdated": 1792419393000
+  },
+  "summary": {
+   "price": {
+    "value": 102.99,
+    "valueMainUnit": "102",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4563,7 +4764,7 @@
    "flightKey": "FR~5095~ ~~NUE~12/18/2026 06:00~AGP~12/18/2026 09:05~~",
    "flightNumber": "FR5095",
    "previousPrice": null,
-   "priceUpdated": 1791800701000
+   "priceUpdated": 1792436794000
   },
   "summary": {
    "price": {
@@ -4591,86 +4792,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
+    "countryName": "Italy",
+    "iataCode": "BRI",
+    "name": "Bari",
+    "seoName": "bari",
     "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
+     "code": "BARI",
+     "countryCode": "it",
+     "name": "Bari"
     }
    },
-   "departureDate": "2026-12-18T15:30:00",
-   "arrivalDate": "2026-12-18T16:15:00",
+   "departureDate": "2026-12-19T16:05:00",
+   "arrivalDate": "2026-12-19T18:00:00",
    "price": {
-    "value": 106.42,
-    "valueMainUnit": "106",
-    "valueFractionalUnit": "42",
+    "value": 108.99,
+    "valueMainUnit": "108",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~7637~ ~~NUE~12/18/2026 15:30~STN~12/18/2026 16:15~~",
-   "flightNumber": "FR7637",
+   "flightKey": "FR~7937~ ~~NUE~12/19/2026 16:05~BRI~12/19/2026 18:00~~",
+   "flightNumber": "FR7937",
    "previousPrice": null,
-   "priceUpdated": 1791800702000
+   "priceUpdated": 1792419427000
   },
   "summary": {
    "price": {
-    "value": 106.42,
-    "valueMainUnit": "106",
-    "valueFractionalUnit": "42",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Greece",
-    "iataCode": "SKG",
-    "name": "Thessaloniki",
-    "seoName": "thessaloniki",
-    "city": {
-     "code": "THESSALONIKI",
-     "countryCode": "gr",
-     "name": "Thessaloniki"
-    }
-   },
-   "departureDate": "2026-12-12T17:00:00",
-   "arrivalDate": "2026-12-12T20:15:00",
-   "price": {
-    "value": 106.49,
-    "valueMainUnit": "106",
-    "valueFractionalUnit": "49",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4484~ ~~NUE~12/12/2026 17:00~SKG~12/12/2026 20:15~~",
-   "flightNumber": "FR4484",
-   "previousPrice": null,
-   "priceUpdated": 1791803399000
-  },
-  "summary": {
-   "price": {
-    "value": 106.49,
-    "valueMainUnit": "106",
-    "valueFractionalUnit": "49",
+    "value": 108.99,
+    "valueMainUnit": "108",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -4705,73 +4855,22 @@
    "departureDate": "2026-12-19T10:40:00",
    "arrivalDate": "2026-12-19T12:55:00",
    "price": {
-    "value": 107.99,
-    "valueMainUnit": "107",
-    "valueFractionalUnit": "99",
+    "value": 110.39,
+    "valueMainUnit": "110",
+    "valueFractionalUnit": "39",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~5788~ ~~NUE~12/19/2026 10:40~FAO~12/19/2026 12:55~~",
    "flightNumber": "FR5788",
    "previousPrice": null,
-   "priceUpdated": 1791800698000
+   "priceUpdated": 1792405497000
   },
   "summary": {
    "price": {
-    "value": 107.99,
-    "valueMainUnit": "107",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "VLC",
-    "name": "Valencia",
-    "seoName": "valencia",
-    "city": {
-     "code": "VALENCIA",
-     "countryCode": "es",
-     "macCode": "VNC",
-     "name": "Valencia"
-    }
-   },
-   "departureDate": "2026-12-14T22:10:00",
-   "arrivalDate": "2026-12-15T00:35:00",
-   "price": {
-    "value": 110.99,
+    "value": 110.39,
     "valueMainUnit": "110",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1131~ ~~NUE~12/14/2026 22:10~VLC~12/15/2026 00:35~~",
-   "flightNumber": "FR1131",
-   "previousPrice": null,
-   "priceUpdated": 1791800705000
-  },
-  "summary": {
-   "price": {
-    "value": 110.99,
-    "valueMainUnit": "110",
-    "valueFractionalUnit": "99",
+    "valueFractionalUnit": "39",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -4806,22 +4905,22 @@
    "departureDate": "2026-12-14T10:30:00",
    "arrivalDate": "2026-12-14T13:45:00",
    "price": {
-    "value": 113.59,
-    "valueMainUnit": "113",
-    "valueFractionalUnit": "59",
+    "value": 111.19,
+    "valueMainUnit": "111",
+    "valueFractionalUnit": "19",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~4484~ ~~NUE~12/14/2026 10:30~SKG~12/14/2026 13:45~~",
    "flightNumber": "FR4484",
    "previousPrice": null,
-   "priceUpdated": 1791800701000
+   "priceUpdated": 1792405502000
   },
   "summary": {
    "price": {
-    "value": 113.59,
-    "valueMainUnit": "113",
-    "valueFractionalUnit": "59",
+    "value": 111.19,
+    "valueMainUnit": "111",
+    "valueFractionalUnit": "19",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -4843,34 +4942,84 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BRI",
-    "name": "Bari",
-    "seoName": "bari",
+    "countryName": "Spain",
+    "iataCode": "SVQ",
+    "name": "Seville",
+    "seoName": "seville",
     "city": {
-     "code": "BARI",
-     "countryCode": "it",
-     "name": "Bari"
+     "code": "SEVILLE",
+     "countryCode": "es",
+     "name": "Seville"
     }
    },
-   "departureDate": "2026-12-14T20:35:00",
-   "arrivalDate": "2026-12-14T22:30:00",
+   "departureDate": "2026-12-16T12:35:00",
+   "arrivalDate": "2026-12-16T15:35:00",
    "price": {
-    "value": 113.99,
-    "valueMainUnit": "113",
+    "value": 120.16,
+    "valueMainUnit": "120",
+    "valueFractionalUnit": "16",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1185~ ~~NUE~12/16/2026 12:35~SVQ~12/16/2026 15:35~~",
+   "flightNumber": "FR1185",
+   "previousPrice": null,
+   "priceUpdated": 1792405505000
+  },
+  "summary": {
+   "price": {
+    "value": 120.16,
+    "valueMainUnit": "120",
+    "valueFractionalUnit": "16",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Greece",
+    "iataCode": "SKG",
+    "name": "Thessaloniki",
+    "seoName": "thessaloniki",
+    "city": {
+     "code": "THESSALONIKI",
+     "countryCode": "gr",
+     "name": "Thessaloniki"
+    }
+   },
+   "departureDate": "2026-12-18T18:55:00",
+   "arrivalDate": "2026-12-18T22:10:00",
+   "price": {
+    "value": 137.99,
+    "valueMainUnit": "137",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~7937~ ~~NUE~12/14/2026 20:35~BRI~12/14/2026 22:30~~",
-   "flightNumber": "FR7937",
+   "flightKey": "FR~4484~ ~~NUE~12/18/2026 18:55~SKG~12/18/2026 22:10~~",
+   "flightNumber": "FR4484",
    "previousPrice": null,
-   "priceUpdated": 1791800701000
+   "priceUpdated": 1792419414000
   },
   "summary": {
    "price": {
-    "value": 113.99,
-    "valueMainUnit": "113",
+    "value": 137.99,
+    "valueMainUnit": "137",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4906,8 +5055,8 @@
    "departureDate": "2026-12-18T21:45:00",
    "arrivalDate": "2026-12-19T00:15:00",
    "price": {
-    "value": 118.99,
-    "valueMainUnit": "118",
+    "value": 138.99,
+    "valueMainUnit": "138",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4915,118 +5064,18 @@
    "flightKey": "FR~9963~ ~~NUE~12/18/2026 21:45~RBA~12/19/2026 00:15~~",
    "flightNumber": "FR9963",
    "previousPrice": null,
-   "priceUpdated": 1791801682000
+   "priceUpdated": 1792438884000
   },
   "summary": {
    "price": {
-    "value": 118.99,
-    "valueMainUnit": "118",
+    "value": 138.99,
+    "valueMainUnit": "138",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BRI",
-    "name": "Bari",
-    "seoName": "bari",
-    "city": {
-     "code": "BARI",
-     "countryCode": "it",
-     "name": "Bari"
-    }
-   },
-   "departureDate": "2026-12-19T16:05:00",
-   "arrivalDate": "2026-12-19T18:00:00",
-   "price": {
-    "value": 119.99,
-    "valueMainUnit": "119",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~7937~ ~~NUE~12/19/2026 16:05~BRI~12/19/2026 18:00~~",
-   "flightNumber": "FR7937",
-   "previousPrice": null,
-   "priceUpdated": 1791801613000
-  },
-  "summary": {
-   "price": {
-    "value": 119.99,
-    "valueMainUnit": "119",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-13T10:20:00",
-   "arrivalDate": "2026-12-13T12:55:00",
-   "price": {
-    "value": 123.09,
-    "valueMainUnit": "123",
-    "valueFractionalUnit": "09",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~7570~ ~~NUE~12/13/2026 10:20~ALC~12/13/2026 12:55~~",
-   "flightNumber": "FR7570",
-   "previousPrice": null,
-   "priceUpdated": 1791800697000
-  },
-  "summary": {
-   "price": {
-    "value": 123.09,
-    "valueMainUnit": "123",
-    "valueFractionalUnit": "09",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
   }
  },
  {
@@ -5056,22 +5105,73 @@
    "departureDate": "2026-12-19T21:10:00",
    "arrivalDate": "2026-12-20T00:15:00",
    "price": {
-    "value": 142.21,
-    "valueMainUnit": "142",
-    "valueFractionalUnit": "21",
+    "value": 139.34,
+    "valueMainUnit": "139",
+    "valueFractionalUnit": "34",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~5095~ ~~NUE~12/19/2026 21:10~AGP~12/20/2026 00:15~~",
    "flightNumber": "FR5095",
    "previousPrice": null,
-   "priceUpdated": 1791800698000
+   "priceUpdated": 1792405500000
   },
   "summary": {
    "price": {
-    "value": 142.21,
-    "valueMainUnit": "142",
-    "valueFractionalUnit": "21",
+    "value": 139.34,
+    "valueMainUnit": "139",
+    "valueFractionalUnit": "34",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "NUE",
+    "name": "Nuremberg",
+    "seoName": "nuremberg",
+    "city": {
+     "code": "NUREMBERG",
+     "countryCode": "de",
+     "name": "Nuremberg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "VLC",
+    "name": "Valencia",
+    "seoName": "valencia",
+    "city": {
+     "code": "VALENCIA",
+     "countryCode": "es",
+     "macCode": "VNC",
+     "name": "Valencia"
+    }
+   },
+   "departureDate": "2026-12-17T16:25:00",
+   "arrivalDate": "2026-12-17T18:50:00",
+   "price": {
+    "value": 149.09,
+    "valueMainUnit": "149",
+    "valueFractionalUnit": "09",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1131~ ~~NUE~12/17/2026 16:25~VLC~12/17/2026 18:50~~",
+   "flightNumber": "FR1131",
+   "previousPrice": null,
+   "priceUpdated": 1792417201000
+  },
+  "summary": {
+   "price": {
+    "value": 149.09,
+    "valueMainUnit": "149",
+    "valueFractionalUnit": "09",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -5103,24 +5203,24 @@
      "name": "Thessaloniki"
     }
    },
-   "departureDate": "2026-12-18T18:55:00",
-   "arrivalDate": "2026-12-18T22:10:00",
+   "departureDate": "2026-12-19T17:00:00",
+   "arrivalDate": "2026-12-19T20:15:00",
    "price": {
-    "value": 142.99,
-    "valueMainUnit": "142",
+    "value": 150.99,
+    "valueMainUnit": "150",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~4484~ ~~NUE~12/18/2026 18:55~SKG~12/18/2026 22:10~~",
+   "flightKey": "FR~4484~ ~~NUE~12/19/2026 17:00~SKG~12/19/2026 20:15~~",
    "flightNumber": "FR4484",
    "previousPrice": null,
-   "priceUpdated": 1791802499000
+   "priceUpdated": 1792431928000
   },
   "summary": {
    "price": {
-    "value": 142.99,
-    "valueMainUnit": "142",
+    "value": 150.99,
+    "valueMainUnit": "150",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -5156,8 +5256,8 @@
    "departureDate": "2026-12-18T20:45:00",
    "arrivalDate": "2026-12-18T22:45:00",
    "price": {
-    "value": 148.99,
-    "valueMainUnit": "148",
+    "value": 151.99,
+    "valueMainUnit": "151",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -5165,113 +5265,13 @@
    "flightKey": "FR~7935~ ~~NUE~12/18/2026 20:45~OPO~12/18/2026 22:45~~",
    "flightNumber": "FR7935",
    "previousPrice": null,
-   "priceUpdated": 1791800697000
+   "priceUpdated": 1792436824000
   },
   "summary": {
    "price": {
-    "value": 148.99,
-    "valueMainUnit": "148",
+    "value": 151.99,
+    "valueMainUnit": "151",
     "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Greece",
-    "iataCode": "SKG",
-    "name": "Thessaloniki",
-    "seoName": "thessaloniki",
-    "city": {
-     "code": "THESSALONIKI",
-     "countryCode": "gr",
-     "name": "Thessaloniki"
-    }
-   },
-   "departureDate": "2026-12-19T17:00:00",
-   "arrivalDate": "2026-12-19T20:15:00",
-   "price": {
-    "value": 163.59,
-    "valueMainUnit": "163",
-    "valueFractionalUnit": "59",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4484~ ~~NUE~12/19/2026 17:00~SKG~12/19/2026 20:15~~",
-   "flightNumber": "FR4484",
-   "previousPrice": null,
-   "priceUpdated": 1791800697000
-  },
-  "summary": {
-   "price": {
-    "value": 163.59,
-    "valueMainUnit": "163",
-    "valueFractionalUnit": "59",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "NUE",
-    "name": "Nuremberg",
-    "seoName": "nuremberg",
-    "city": {
-     "code": "NUREMBERG",
-     "countryCode": "de",
-     "name": "Nuremberg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "SVQ",
-    "name": "Seville",
-    "seoName": "seville",
-    "city": {
-     "code": "SEVILLE",
-     "countryCode": "es",
-     "name": "Seville"
-    }
-   },
-   "departureDate": "2026-12-16T12:35:00",
-   "arrivalDate": "2026-12-16T15:35:00",
-   "price": {
-    "value": 168.14,
-    "valueMainUnit": "168",
-    "valueFractionalUnit": "14",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1185~ ~~NUE~12/16/2026 12:35~SVQ~12/16/2026 15:35~~",
-   "flightNumber": "FR1185",
-   "previousPrice": null,
-   "priceUpdated": 1791800700000
-  },
-  "summary": {
-   "price": {
-    "value": 168.14,
-    "valueMainUnit": "168",
-    "valueFractionalUnit": "14",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -5306,22 +5306,22 @@
    "departureDate": "2026-12-15T16:45:00",
    "arrivalDate": "2026-12-15T18:50:00",
    "price": {
-    "value": 168.34,
-    "valueMainUnit": "168",
-    "valueFractionalUnit": "34",
+    "value": 152.84,
+    "valueMainUnit": "152",
+    "valueFractionalUnit": "84",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~ 903~ ~~NUE~12/15/2026 16:45~PMO~12/15/2026 18:50~~",
    "flightNumber": "FR903",
    "previousPrice": null,
-   "priceUpdated": 1791800698000
+   "priceUpdated": 1792405497000
   },
   "summary": {
    "price": {
-    "value": 168.34,
-    "valueMainUnit": "168",
-    "valueFractionalUnit": "34",
+    "value": 152.84,
+    "valueMainUnit": "152",
+    "valueFractionalUnit": "84",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -5357,22 +5357,22 @@
    "departureDate": "2026-12-19T06:05:00",
    "arrivalDate": "2026-12-19T10:00:00",
    "price": {
-    "value": 177.05,
-    "valueMainUnit": "177",
-    "valueFractionalUnit": "05",
+    "value": 164.95,
+    "valueMainUnit": "164",
+    "valueFractionalUnit": "95",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~ 273~ ~~NUE~12/19/2026 06:05~TFS~12/19/2026 10:00~~",
    "flightNumber": "FR273",
    "previousPrice": null,
-   "priceUpdated": 1791800706000
+   "priceUpdated": 1792441325000
   },
   "summary": {
    "price": {
-    "value": 177.05,
-    "valueMainUnit": "177",
-    "valueFractionalUnit": "05",
+    "value": 164.95,
+    "valueMainUnit": "164",
+    "valueFractionalUnit": "95",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },

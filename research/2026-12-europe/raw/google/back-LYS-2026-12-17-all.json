@@ -1,45 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDTFlTcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T12:22:40",
+ "fetchedAt": "2026-10-19T23:29:20",
  "priceUnavailable": 0,
  "via": "rpc",
  "itineraries": [
   {
-   "price": 163.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depCode": "LYS",
-   "depAirportName": "Lyon Airport",
-   "depTime": "09:40",
-   "depDate": "2026-12-17",
-   "arrCode": "TRD",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
-   "arrDate": "2026-12-17",
-   "durationMin": 415,
-   "layovers": [
-    {
-     "min": 185,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "code": "AMS",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "KL1428",
-    "KL1153"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 163.0,
+   "price": 210.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -73,84 +39,7 @@
    "via": "rpc"
   },
   {
-   "price": 186.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depCode": "LYS",
-   "depAirportName": "Lyon Airport",
-   "depTime": "18:15",
-   "depDate": "2026-12-17",
-   "arrCode": "TRD",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "23:10",
-   "arrDate": "2026-12-17",
-   "durationMin": 295,
-   "layovers": [
-    {
-     "min": 65,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "code": "AMS",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "KL1434",
-    "KL1155"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 222.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Scandinavian Airlines",
-   "operatedBy": "Sas Link for Scandinavian Airlines",
-   "depCode": "LYS",
-   "depAirportName": "Lyon Airport",
-   "depTime": "06:15",
-   "depDate": "2026-12-17",
-   "arrCode": "TRD",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:10",
-   "arrDate": "2026-12-17",
-   "durationMin": 475,
-   "layovers": [
-    {
-     "min": 120,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "code": "AMS",
-     "changeAirport": false
-    },
-    {
-     "min": 85,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo",
-     "code": "OSL",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "KL1426",
-    "KL1199",
-    "SK344"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 239.0,
+   "price": 213.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -193,7 +82,118 @@
    "via": "rpc"
   },
   {
-   "price": 385.0,
+   "price": 242.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "LYS",
+   "depAirportName": "Lyon Airport",
+   "depTime": "09:40",
+   "depDate": "2026-12-17",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-17",
+   "durationMin": 415,
+   "layovers": [
+    {
+     "min": 185,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1428",
+    "KL1153"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 242.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "LYS",
+   "depAirportName": "Lyon Airport",
+   "depTime": "18:15",
+   "depDate": "2026-12-17",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-17",
+   "durationMin": 295,
+   "layovers": [
+    {
+     "min": 65,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1434",
+    "KL1155"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 249.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Scandinavian Airlines",
+   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "depCode": "LYS",
+   "depAirportName": "Lyon Airport",
+   "depTime": "06:15",
+   "depDate": "2026-12-17",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:10",
+   "arrDate": "2026-12-17",
+   "durationMin": 475,
+   "layovers": [
+    {
+     "min": 120,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    },
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1426",
+    "KL1199",
+    "SK344"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 407.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -236,33 +236,41 @@
    "via": "rpc"
   },
   {
-   "price": 560.0,
+   "price": 490.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Tap Air Portugal and Scandinavian Airlines",
-   "operatedBy": "Portugalia - Companhia Portuguesa",
+   "stops": 3,
+   "airlines": "Air France, Finnair and Wideroe",
+   "operatedBy": null,
    "depCode": "LYS",
    "depAirportName": "Lyon Airport",
-   "depTime": "18:20",
+   "depTime": "14:40",
    "depDate": "2026-12-17",
    "arrCode": "TRD",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:10",
-   "arrDate": "2026-12-18",
-   "durationMin": 1190,
+   "arrTime": "12:05",
+   "arrDate": "2026-12-19",
+   "durationMin": 2725,
    "layovers": [
     {
-     "min": 670,
-     "overnight": true,
-     "airport": "Humberto Delgado Airport",
-     "city": "Lisbon",
-     "code": "LIS",
+     "min": 185,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
      "changeAirport": false
     },
     {
-     "min": 60,
-     "overnight": false,
+     "min": 1025,
+     "overnight": true,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki",
+     "code": "HEL",
+     "changeAirport": false
+    },
+    {
+     "min": 1110,
+     "overnight": true,
      "airport": "Oslo lufthavn",
      "city": "Oslo",
      "code": "OSL",
@@ -272,14 +280,67 @@
    "changeAirport": false,
    "separateTickets": false,
    "flights": [
-    "TP473",
-    "TP762",
-    "SK344"
+    "AF7365",
+    "AY1578",
+    "AY915",
+    "WF1447"
    ],
    "via": "rpc"
   },
   {
-   "price": 563.0,
+   "price": 490.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Air France, Finnair and Wideroe",
+   "operatedBy": null,
+   "depCode": "LYS",
+   "depAirportName": "Lyon Airport",
+   "depTime": "14:40",
+   "depDate": "2026-12-17",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "12:05",
+   "arrDate": "2026-12-19",
+   "durationMin": 2725,
+   "layovers": [
+    {
+     "min": 185,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    },
+    {
+     "min": 1235,
+     "overnight": true,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki",
+     "code": "HEL",
+     "changeAirport": false
+    },
+    {
+     "min": 900,
+     "overnight": true,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "AF7365",
+    "AY1578",
+    "AY917",
+    "WF1447"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 572.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

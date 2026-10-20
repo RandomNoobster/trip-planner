@@ -1,77 +1,9 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDTlVFcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T12:19:36",
+ "fetchedAt": "2026-10-19T23:17:32",
  "priceUnavailable": 0,
  "via": "rpc",
  "itineraries": [
-  {
-   "price": 203.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depCode": "NUE",
-   "depAirportName": "Nuremberg Airport",
-   "depTime": "10:10",
-   "depDate": "2026-12-13",
-   "arrCode": "TRD",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
-   "arrDate": "2026-12-13",
-   "durationMin": 385,
-   "layovers": [
-    {
-     "min": 175,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "code": "AMS",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "KL1840",
-    "KL1153"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 203.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depCode": "NUE",
-   "depAirportName": "Nuremberg Airport",
-   "depTime": "14:20",
-   "depDate": "2026-12-13",
-   "arrCode": "TRD",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "23:10",
-   "arrDate": "2026-12-13",
-   "durationMin": 530,
-   "layovers": [
-    {
-     "min": 320,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "code": "AMS",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "KL1844",
-    "KL1155"
-   ],
-   "via": "rpc"
-  },
   {
    "price": 229.0,
    "roundTripTotal": false,
@@ -107,33 +39,25 @@
    "via": "rpc"
   },
   {
-   "price": 233.0,
+   "price": 255.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Air France and KLM",
-   "operatedBy": "HOP!, KLM Cityhopper for KLM Royal Dutch Airlines",
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
    "depCode": "NUE",
    "depAirportName": "Nuremberg Airport",
-   "depTime": "19:15",
+   "depTime": "06:00",
    "depDate": "2026-12-13",
    "arrCode": "TRD",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "16:35",
-   "arrDate": "2026-12-14",
-   "durationMin": 1280,
+   "arrDate": "2026-12-13",
+   "durationMin": 635,
    "layovers": [
     {
-     "min": 605,
-     "overnight": true,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
-     "code": "CDG",
-     "changeAirport": false
-    },
-    {
-     "min": 365,
-     "overnight": true,
+     "min": 425,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
      "code": "AMS",
@@ -143,8 +67,7 @@
    "changeAirport": false,
    "separateTickets": false,
    "flights": [
-    "AF1811",
-    "AF1240",
+    "KL1838",
     "KL1153"
    ],
    "via": "rpc"
@@ -193,7 +116,41 @@
    "via": "rpc"
   },
   {
-   "price": 402.0,
+   "price": 380.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "NUE",
+   "depAirportName": "Nuremberg Airport",
+   "depTime": "10:10",
+   "depDate": "2026-12-13",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-13",
+   "durationMin": 385,
+   "layovers": [
+    {
+     "min": 175,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1840",
+    "KL1153"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 405.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -232,6 +189,49 @@
     "LH149",
     "LH872",
     "WF1311"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 356.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air France and KLM",
+   "operatedBy": "HOP!, KLM Cityhopper for KLM Royal Dutch Airlines",
+   "depCode": "NUE",
+   "depAirportName": "Nuremberg Airport",
+   "depTime": "19:15",
+   "depDate": "2026-12-13",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-14",
+   "durationMin": 1280,
+   "layovers": [
+    {
+     "min": 605,
+     "overnight": true,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    },
+    {
+     "min": 365,
+     "overnight": true,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "AF1811",
+    "AF1240",
+    "KL1153"
    ],
    "via": "rpc"
   },
@@ -279,45 +279,45 @@
    "via": "rpc"
   },
   {
-   "price": 471.0,
+   "price": 494.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
-   "airlines": "KLM and Scandinavian Airlines",
-   "operatedBy": "KLM Cityhopper",
+   "airlines": "Lufthansa and Wideroe",
+   "operatedBy": null,
    "depCode": "NUE",
    "depAirportName": "Nuremberg Airport",
-   "depTime": "14:20",
+   "depTime": "19:00",
    "depDate": "2026-12-13",
    "arrCode": "TRD",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "20:35",
-   "arrDate": "2026-12-13",
-   "durationMin": 375,
+   "arrTime": "14:50",
+   "arrDate": "2026-12-14",
+   "durationMin": 1190,
    "layovers": [
     {
-     "min": 45,
+     "min": 75,
      "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "code": "AMS",
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
      "changeAirport": false
     },
     {
-     "min": 85,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo",
-     "code": "OSL",
+     "min": 885,
+     "overnight": true,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
      "changeAirport": false
     }
    ],
    "changeAirport": false,
    "separateTickets": false,
    "flights": [
-    "KL1844",
-    "KL1205",
-    "SK370"
+    "LH147",
+    "LH876",
+    "WF1311"
    ],
    "via": "rpc"
   },

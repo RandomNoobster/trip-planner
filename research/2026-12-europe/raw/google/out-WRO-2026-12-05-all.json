@@ -1,36 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA1dST0ABSAGYAQI",
- "fetchedAt": "2026-10-11T11:21:03",
+ "fetchedAt": "2026-10-19T23:09:26",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
-   "price": 164.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Nicolaus Copernicus Wrocław Airport",
-   "arrTime": "11:35",
-   "arrDate": "2026-12-05",
-   "durationMin": 315,
-   "layovers": [
-    {
-     "min": 75,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 164 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Nicolaus Copernicus Wrocław Airport at 11:35 AM on Saturday, December 5. Total duration 5 hr 15 min.  Layover (1 of 1) is a 1 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 192.0,
+   "price": 198.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -59,10 +34,36 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 192 euros. 2 stops flight with Wideroe and Lufthansa. Operated by Air Dolomiti. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Nicolaus Copernicus Wrocław Airport at 11:40 PM on Saturday, December 5. Total duration 10 hr 35 min.  Layover (1 of 2) is a 2 hr 30 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 3 hr 25 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+   "label": "From 198 euros. 2 stops flight with Wideroe and Lufthansa. Operated by Air Dolomiti. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Nicolaus Copernicus Wrocław Airport at 11:40 PM on Saturday, December 5. Total duration 10 hr 35 min.  Layover (1 of 2) is a 2 hr 30 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 3 hr 25 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
   },
   {
-   "price": 347.0,
+   "price": 214.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Nicolaus Copernicus Wrocław Airport",
+   "arrTime": "11:35",
+   "arrDate": "2026-12-05",
+   "durationMin": 315,
+   "layovers": [
+    {
+     "min": 75,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 214 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Nicolaus Copernicus Wrocław Airport at 11:35 AM on Saturday, December 5. Total duration 5 hr 15 min.  Layover (1 of 1) is a 1 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 351.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -91,7 +92,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 347 euros. 2 stops flight with Scandinavian Airlines and KLM. Operated by Sas Link for Scandinavian Airlines, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 1:30 PM on Saturday, December 5 and arrives at Nicolaus Copernicus Wrocław Airport at 11:00 PM on Saturday, December 5. Total duration 9 hr 30 min.  Layover (1 of 2) is a 2 hr 35 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 351 euros. 2 stops flight with Scandinavian Airlines and KLM. Operated by Sas Link for Scandinavian Airlines, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 1:30 PM on Saturday, December 5 and arrives at Nicolaus Copernicus Wrocław Airport at 11:00 PM on Saturday, December 5. Total duration 9 hr 30 min.  Layover (1 of 2) is a 2 hr 35 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   }
  ]
 }

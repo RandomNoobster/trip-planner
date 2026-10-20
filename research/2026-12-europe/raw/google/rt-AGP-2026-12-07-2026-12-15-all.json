@@ -1,42 +1,21 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA0FHUBoaEgoyMDI2LTEyLTE1agUSA0FHUHIFEgNUUkRAAUgBmAEB",
- "via": "ui",
+ "fetchedAt": "2026-10-19T22:49:45",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 209.0,
-   "roundTripTotal": true,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-07",
-   "arrAirportName": "Málaga-Costa del Sol Airport",
-   "arrTime": "15:15",
-   "arrDate": "2026-12-07",
-   "durationMin": 535,
-   "layovers": [
-    {
-     "min": 220,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 217.0,
+   "price": 245.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM and Transavia",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-07",
+   "arrCode": "AGP",
    "arrAirportName": "Málaga-Costa del Sol Airport",
    "arrTime": "14:05",
    "arrDate": "2026-12-07",
@@ -44,24 +23,67 @@
    "layovers": [
     {
      "min": 140,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1150",
+    "HV6223"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 288.0,
+   "price": 264.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrCode": "AGP",
+   "arrAirportName": "Málaga-Costa del Sol Airport",
+   "arrTime": "15:15",
+   "arrDate": "2026-12-07",
+   "durationMin": 535,
+   "layovers": [
+    {
+     "min": 220,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1150",
+    "KL1545"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 304.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and KLM",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:25",
    "depDate": "2026-12-07",
+   "arrCode": "AGP",
    "arrAirportName": "Málaga-Costa del Sol Airport",
    "arrTime": "15:15",
    "arrDate": "2026-12-07",
@@ -69,30 +91,42 @@
    "layovers": [
     {
      "min": 115,
+     "overnight": false,
      "airport": "Oslo lufthavn",
      "city": "Oslo",
-     "overnight": false
+     "code": "OSL",
+     "changeAirport": false
     },
     {
      "min": 55,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "SK335",
+    "KL1198",
+    "KL1545"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 502.0,
+   "price": 703.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Wideroe and Finnair",
-   "operatedBy": null,
+   "operatedBy": "Nordic Reg for Finnair",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "08:05",
    "depDate": "2026-12-07",
+   "arrCode": "AGP",
    "arrAirportName": "Málaga-Costa del Sol Airport",
    "arrTime": "10:25",
    "arrDate": "2026-12-08",
@@ -100,30 +134,42 @@
    "layovers": [
     {
      "min": 480,
+     "overnight": true,
      "airport": "Tromsø Airport",
      "city": "Tromsø Municipality",
-     "overnight": false
+     "code": "TOS",
+     "changeAirport": false
     },
     {
      "min": 590,
+     "overnight": true,
      "airport": "Helsinki Airport",
      "city": "Helsinki",
-     "overnight": false
+     "code": "HEL",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "WF1343",
+    "AY946",
+    "AY1671"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 704.0,
+   "price": 715.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and Air France",
    "operatedBy": null,
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "14:45",
    "depDate": "2026-12-07",
+   "arrCode": "AGP",
    "arrAirportName": "Málaga-Costa del Sol Airport",
    "arrTime": "23:30",
    "arrDate": "2026-12-07",
@@ -131,19 +177,72 @@
    "layovers": [
     {
      "min": 85,
+     "overnight": false,
      "airport": "Oslo lufthavn",
      "city": "Oslo",
-     "overnight": false
+     "code": "OSL",
+     "changeAirport": false
     },
     {
      "min": 55,
+     "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
-     "overnight": false
+     "code": "CDG",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "SK361",
+    "AF1775",
+    "AF1748"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 1012.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "15:05",
+   "depDate": "2026-12-07",
+   "arrCode": "AGP",
+   "arrAirportName": "Málaga-Costa del Sol Airport",
+   "arrTime": "23:30",
+   "arrDate": "2026-12-07",
+   "durationMin": 505,
+   "layovers": [
+    {
+     "min": 75,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "code": "CPH",
+     "changeAirport": false
+    },
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK2881",
+    "AF1051",
+    "AF1748"
+   ],
+   "via": "rpc"
   }
  ]
 }

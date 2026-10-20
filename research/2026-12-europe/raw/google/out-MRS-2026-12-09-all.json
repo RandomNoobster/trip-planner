@@ -1,6 +1,6 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA01SU0ABSAGYAQI",
- "fetchedAt": "2026-10-11T12:23:18",
+ "fetchedAt": "2026-10-19T23:30:37",
  "priceUnavailable": 0,
  "via": "rpc",
  "itineraries": [
@@ -39,7 +39,41 @@
    "via": "rpc"
   },
   {
-   "price": 284.0,
+   "price": 302.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-09",
+   "arrCode": "MRS",
+   "arrAirportName": "Marseille Provence Airport",
+   "arrTime": "22:55",
+   "arrDate": "2026-12-09",
+   "durationMin": 345,
+   "layovers": [
+    {
+     "min": 80,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1154",
+    "KL1471"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 331.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -82,7 +116,7 @@
    "via": "rpc"
   },
   {
-   "price": 304.0,
+   "price": 399.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -125,41 +159,7 @@
    "via": "rpc"
   },
   {
-   "price": 340.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depCode": "TRD",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "17:10",
-   "depDate": "2026-12-09",
-   "arrCode": "MRS",
-   "arrAirportName": "Marseille Provence Airport",
-   "arrTime": "22:55",
-   "arrDate": "2026-12-09",
-   "durationMin": 345,
-   "layovers": [
-    {
-     "min": 80,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "code": "AMS",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "KL1154",
-    "KL1471"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 457.0,
+   "price": 471.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -202,7 +202,7 @@
    "via": "rpc"
   },
   {
-   "price": 511.0,
+   "price": 513.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -245,7 +245,7 @@
    "via": "rpc"
   },
   {
-   "price": 687.0,
+   "price": 690.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

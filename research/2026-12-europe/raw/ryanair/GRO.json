@@ -26,8 +26,8 @@
    "departureDate": "2026-12-05T14:50:00",
    "arrivalDate": "2026-12-05T16:10:00",
    "price": {
-    "value": 15.99,
-    "valueMainUnit": "15",
+    "value": 14.99,
+    "valueMainUnit": "14",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -35,112 +35,12 @@
    "flightKey": "FR~3213~ ~~GRO~12/05/2026 14:50~MAN~12/05/2026 16:10~~",
    "flightNumber": "FR3213",
    "previousPrice": null,
-   "priceUpdated": 1791800513000
+   "priceUpdated": 1792434029000
   },
   "summary": {
    "price": {
-    "value": 15.99,
-    "valueMainUnit": "15",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Spain",
-    "iataCode": "GRO",
-    "name": "Barcelona Girona",
-    "seoName": "barcelona-girona",
-    "city": {
-     "code": "GIRONA",
-     "countryCode": "es",
-     "name": "Girona"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Netherlands",
-    "iataCode": "EIN",
-    "name": "Eindhoven",
-    "seoName": "eindhoven",
-    "city": {
-     "code": "EINDHOVEN",
-     "countryCode": "nl",
-     "name": "Eindhoven"
-    }
-   },
-   "departureDate": "2026-12-07T06:50:00",
-   "arrivalDate": "2026-12-07T09:00:00",
-   "price": {
-    "value": 19.99,
-    "valueMainUnit": "19",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2120~ ~~GRO~12/07/2026 06:50~EIN~12/07/2026 09:00~~",
-   "flightNumber": "FR2120",
-   "previousPrice": null,
-   "priceUpdated": 1791800511000
-  },
-  "summary": {
-   "price": {
-    "value": 19.99,
-    "valueMainUnit": "19",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Spain",
-    "iataCode": "GRO",
-    "name": "Barcelona Girona",
-    "seoName": "barcelona-girona",
-    "city": {
-     "code": "GIRONA",
-     "countryCode": "es",
-     "name": "Girona"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
-    "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
-    }
-   },
-   "departureDate": "2026-12-06T09:10:00",
-   "arrivalDate": "2026-12-06T11:10:00",
-   "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1671~ ~~GRO~12/06/2026 09:10~CRL~12/06/2026 11:10~~",
-   "flightNumber": "FR1671",
-   "previousPrice": null,
-   "priceUpdated": 1791800510000
-  },
-  "summary": {
-   "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
+    "value": 14.99,
+    "valueMainUnit": "14",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -177,22 +77,122 @@
    "departureDate": "2026-12-07T16:15:00",
    "arrivalDate": "2026-12-07T17:30:00",
    "price": {
-    "value": 23.32,
+    "value": 23.06,
     "valueMainUnit": "23",
-    "valueFractionalUnit": "32",
+    "valueFractionalUnit": "06",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~6076~ ~~GRO~12/07/2026 16:15~STN~12/07/2026 17:30~~",
    "flightNumber": "FR6076",
    "previousPrice": null,
-   "priceUpdated": 1791800547000
+   "priceUpdated": 1792434032000
   },
   "summary": {
    "price": {
-    "value": 23.32,
+    "value": 23.06,
     "valueMainUnit": "23",
-    "valueFractionalUnit": "32",
+    "valueFractionalUnit": "06",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Spain",
+    "iataCode": "GRO",
+    "name": "Barcelona Girona",
+    "seoName": "barcelona-girona",
+    "city": {
+     "code": "GIRONA",
+     "countryCode": "es",
+     "name": "Girona"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Netherlands",
+    "iataCode": "EIN",
+    "name": "Eindhoven",
+    "seoName": "eindhoven",
+    "city": {
+     "code": "EINDHOVEN",
+     "countryCode": "nl",
+     "name": "Eindhoven"
+    }
+   },
+   "departureDate": "2026-12-07T06:50:00",
+   "arrivalDate": "2026-12-07T09:00:00",
+   "price": {
+    "value": 24.99,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2120~ ~~GRO~12/07/2026 06:50~EIN~12/07/2026 09:00~~",
+   "flightNumber": "FR2120",
+   "previousPrice": null,
+   "priceUpdated": 1792440236000
+  },
+  "summary": {
+   "price": {
+    "value": 24.99,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Spain",
+    "iataCode": "GRO",
+    "name": "Barcelona Girona",
+    "seoName": "barcelona-girona",
+    "city": {
+     "code": "GIRONA",
+     "countryCode": "es",
+     "name": "Girona"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
+    "city": {
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
+    }
+   },
+   "departureDate": "2026-12-11T20:30:00",
+   "arrivalDate": "2026-12-11T22:30:00",
+   "price": {
+    "value": 26.99,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1671~ ~~GRO~12/11/2026 20:30~CRL~12/11/2026 22:30~~",
+   "flightNumber": "FR1671",
+   "previousPrice": null,
+   "priceUpdated": 1792419346000
+  },
+  "summary": {
+   "price": {
+    "value": 26.99,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -227,8 +227,8 @@
    "departureDate": "2026-12-07T16:00:00",
    "arrivalDate": "2026-12-07T17:20:00",
    "price": {
-    "value": 25.99,
-    "valueMainUnit": "25",
+    "value": 26.99,
+    "valueMainUnit": "26",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -236,13 +236,63 @@
    "flightKey": "FR~3213~ ~~GRO~12/07/2026 16:00~MAN~12/07/2026 17:20~~",
    "flightNumber": "FR3213",
    "previousPrice": null,
-   "priceUpdated": 1791800513000
+   "priceUpdated": 1792419292000
   },
   "summary": {
    "price": {
-    "value": 25.99,
-    "valueMainUnit": "25",
+    "value": 26.99,
+    "valueMainUnit": "26",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Spain",
+    "iataCode": "GRO",
+    "name": "Barcelona Girona",
+    "seoName": "barcelona-girona",
+    "city": {
+     "code": "GIRONA",
+     "countryCode": "es",
+     "name": "Girona"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
+    "city": {
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
+    }
+   },
+   "departureDate": "2026-12-06T09:10:00",
+   "arrivalDate": "2026-12-06T11:10:00",
+   "price": {
+    "value": 27.77,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "77",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1671~ ~~GRO~12/06/2026 09:10~CRL~12/06/2026 11:10~~",
+   "flightNumber": "FR1671",
+   "previousPrice": null,
+   "priceUpdated": 1792434006000
+  },
+  "summary": {
+   "price": {
+    "value": 27.77,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "77",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -278,22 +328,22 @@
    "departureDate": "2026-12-11T19:50:00",
    "arrivalDate": "2026-12-11T22:00:00",
    "price": {
-    "value": 26.55,
-    "valueMainUnit": "26",
-    "valueFractionalUnit": "55",
+    "value": 29.66,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "66",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~6391~ ~~GRO~12/11/2026 19:50~NRN~12/11/2026 22:00~~",
    "flightNumber": "FR6391",
    "previousPrice": null,
-   "priceUpdated": 1791800546000
+   "priceUpdated": 1792434008000
   },
   "summary": {
    "price": {
-    "value": 26.55,
-    "valueMainUnit": "26",
-    "valueFractionalUnit": "55",
+    "value": 29.66,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "66",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -328,127 +378,27 @@
    "departureDate": "2026-12-06T14:00:00",
    "arrivalDate": "2026-12-06T15:15:00",
    "price": {
-    "value": 27.07,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "07",
+    "value": 33.86,
+    "valueMainUnit": "33",
+    "valueFractionalUnit": "86",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~8484~ ~~GRO~12/06/2026 14:00~BEM~12/06/2026 15:15~~",
    "flightNumber": "FR8484",
    "previousPrice": null,
-   "priceUpdated": 1791800511000
+   "priceUpdated": 1792433374000
   },
   "summary": {
    "price": {
-    "value": 27.07,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "07",
+    "value": 33.86,
+    "valueMainUnit": "33",
+    "valueFractionalUnit": "86",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Spain",
-    "iataCode": "GRO",
-    "name": "Barcelona Girona",
-    "seoName": "barcelona-girona",
-    "city": {
-     "code": "GIRONA",
-     "countryCode": "es",
-     "name": "Girona"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
-    "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
-    }
-   },
-   "departureDate": "2026-12-11T20:30:00",
-   "arrivalDate": "2026-12-11T22:30:00",
-   "price": {
-    "value": 27.99,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1671~ ~~GRO~12/11/2026 20:30~CRL~12/11/2026 22:30~~",
-   "flightNumber": "FR1671",
-   "previousPrice": null,
-   "priceUpdated": 1791800509000
-  },
-  "summary": {
-   "price": {
-    "value": 27.99,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Spain",
-    "iataCode": "GRO",
-    "name": "Barcelona Girona",
-    "seoName": "barcelona-girona",
-    "city": {
-     "code": "GIRONA",
-     "countryCode": "es",
-     "name": "Girona"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "PSA",
-    "name": "Pisa",
-    "seoName": "pisa",
-    "city": {
-     "code": "PISA",
-     "countryCode": "it",
-     "name": "Pisa"
-    }
-   },
-   "departureDate": "2026-12-06T19:15:00",
-   "arrivalDate": "2026-12-06T20:40:00",
-   "price": {
-    "value": 28.99,
-    "valueMainUnit": "28",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6333~ ~~GRO~12/06/2026 19:15~PSA~12/06/2026 20:40~~",
-   "flightNumber": "FR6333",
-   "previousPrice": null,
-   "priceUpdated": 1791803380000
-  },
-  "summary": {
-   "price": {
-    "value": 28.99,
-    "valueMainUnit": "28",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
   }
  },
  {
@@ -475,25 +425,25 @@
      "name": "Karlsruhe"
     }
    },
-   "departureDate": "2026-12-07T20:25:00",
-   "arrivalDate": "2026-12-07T22:10:00",
+   "departureDate": "2026-12-11T14:50:00",
+   "arrivalDate": "2026-12-11T16:35:00",
    "price": {
-    "value": 36.14,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "14",
+    "value": 34.99,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~9209~ ~~GRO~12/07/2026 20:25~FKB~12/07/2026 22:10~~",
+   "flightKey": "FR~9209~ ~~GRO~12/11/2026 14:50~FKB~12/11/2026 16:35~~",
    "flightNumber": "FR9209",
    "previousPrice": null,
-   "priceUpdated": 1791800512000
+   "priceUpdated": 1792419344000
   },
   "summary": {
    "price": {
-    "value": 36.14,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "14",
+    "value": 34.99,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -525,24 +475,24 @@
      "name": "Beni Mellal"
     }
    },
-   "departureDate": "2026-12-04T07:00:00",
-   "arrivalDate": "2026-12-04T08:15:00",
+   "departureDate": "2026-12-11T07:00:00",
+   "arrivalDate": "2026-12-11T08:15:00",
    "price": {
-    "value": 36.99,
-    "valueMainUnit": "36",
+    "value": 38.99,
+    "valueMainUnit": "38",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~8484~ ~~GRO~12/04/2026 07:00~BEM~12/04/2026 08:15~~",
+   "flightKey": "FR~8484~ ~~GRO~12/11/2026 07:00~BEM~12/11/2026 08:15~~",
    "flightNumber": "FR8484",
    "previousPrice": null,
-   "priceUpdated": 1791800510000
+   "priceUpdated": 1792419796000
   },
   "summary": {
    "price": {
-    "value": 36.99,
-    "valueMainUnit": "36",
+    "value": 38.99,
+    "valueMainUnit": "38",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -578,8 +528,8 @@
    "departureDate": "2026-12-07T13:15:00",
    "arrivalDate": "2026-12-07T15:15:00",
    "price": {
-    "value": 37.99,
-    "valueMainUnit": "37",
+    "value": 38.99,
+    "valueMainUnit": "38",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -587,12 +537,12 @@
    "flightKey": "FR~1671~ ~~GRO~12/07/2026 13:15~CRL~12/07/2026 15:15~~",
    "flightNumber": "FR1671",
    "previousPrice": null,
-   "priceUpdated": 1791800511000
+   "priceUpdated": 1792440145000
   },
   "summary": {
    "price": {
-    "value": 37.99,
-    "valueMainUnit": "37",
+    "value": 38.99,
+    "valueMainUnit": "38",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -629,8 +579,8 @@
    "departureDate": "2026-12-07T13:05:00",
    "arrivalDate": "2026-12-07T16:55:00",
    "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
+    "value": 38.99,
+    "valueMainUnit": "38",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -638,68 +588,18 @@
    "flightKey": "FR~9529~ ~~GRO~12/07/2026 13:05~BBU~12/07/2026 16:55~~",
    "flightNumber": "FR9529",
    "previousPrice": null,
-   "priceUpdated": 1791800512000
+   "priceUpdated": 1792436761000
   },
   "summary": {
    "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
+    "value": 38.99,
+    "valueMainUnit": "38",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Spain",
-    "iataCode": "GRO",
-    "name": "Barcelona Girona",
-    "seoName": "barcelona-girona",
-    "city": {
-     "code": "GIRONA",
-     "countryCode": "es",
-     "name": "Girona"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Germany",
-    "iataCode": "FKB",
-    "name": "Karlsruhe / Baden-Baden",
-    "seoName": "karlsruhe-baden",
-    "city": {
-     "code": "KARLSRUHE",
-     "countryCode": "de",
-     "name": "Karlsruhe"
-    }
-   },
-   "departureDate": "2026-12-11T14:50:00",
-   "arrivalDate": "2026-12-11T16:35:00",
-   "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~9209~ ~~GRO~12/11/2026 14:50~FKB~12/11/2026 16:35~~",
-   "flightNumber": "FR9209",
-   "previousPrice": null,
-   "priceUpdated": 1791800509000
-  },
-  "summary": {
-   "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
   }
  },
  {
@@ -739,64 +639,13 @@
    "flightKey": "FR~6076~ ~~GRO~12/11/2026 16:30~STN~12/11/2026 17:45~~",
    "flightNumber": "FR6076",
    "previousPrice": null,
-   "priceUpdated": 1791800547000
+   "priceUpdated": 1792425455000
   },
   "summary": {
    "price": {
     "value": 40.71,
     "valueMainUnit": "40",
     "valueFractionalUnit": "71",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Spain",
-    "iataCode": "GRO",
-    "name": "Barcelona Girona",
-    "seoName": "barcelona-girona",
-    "city": {
-     "code": "GIRONA",
-     "countryCode": "es",
-     "name": "Girona"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Germany",
-    "iataCode": "NRN",
-    "name": "Dusseldorf Weeze",
-    "seoName": "dusseldorf",
-    "city": {
-     "code": "DUSSELDORF",
-     "countryCode": "de",
-     "macCode": "DOF",
-     "name": "Dusseldorf"
-    }
-   },
-   "departureDate": "2026-12-04T19:50:00",
-   "arrivalDate": "2026-12-04T22:00:00",
-   "price": {
-    "value": 47.99,
-    "valueMainUnit": "47",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6391~ ~~GRO~12/04/2026 19:50~NRN~12/04/2026 22:00~~",
-   "flightNumber": "FR6391",
-   "previousPrice": null,
-   "priceUpdated": 1791800546000
-  },
-  "summary": {
-   "price": {
-    "value": 47.99,
-    "valueMainUnit": "47",
-    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -828,24 +677,24 @@
      "name": "Beni Mellal"
     }
    },
-   "departureDate": "2026-12-11T07:00:00",
-   "arrivalDate": "2026-12-11T08:15:00",
+   "departureDate": "2026-12-04T07:00:00",
+   "arrivalDate": "2026-12-04T08:15:00",
    "price": {
-    "value": 51.99,
-    "valueMainUnit": "51",
+    "value": 41.99,
+    "valueMainUnit": "41",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~8484~ ~~GRO~12/11/2026 07:00~BEM~12/11/2026 08:15~~",
+   "flightKey": "FR~8484~ ~~GRO~12/04/2026 07:00~BEM~12/04/2026 08:15~~",
    "flightNumber": "FR8484",
    "previousPrice": null,
-   "priceUpdated": 1791800513000
+   "priceUpdated": 1792435871000
   },
   "summary": {
    "price": {
-    "value": 51.99,
-    "valueMainUnit": "51",
+    "value": 41.99,
+    "valueMainUnit": "41",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -868,36 +717,135 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Germany",
-    "iataCode": "NRN",
-    "name": "Dusseldorf Weeze",
-    "seoName": "dusseldorf",
+    "countryName": "Italy",
+    "iataCode": "PSA",
+    "name": "Pisa",
+    "seoName": "pisa",
     "city": {
-     "code": "DUSSELDORF",
-     "countryCode": "de",
-     "macCode": "DOF",
-     "name": "Dusseldorf"
+     "code": "PISA",
+     "countryCode": "it",
+     "name": "Pisa"
     }
    },
-   "departureDate": "2026-12-07T16:00:00",
-   "arrivalDate": "2026-12-07T18:10:00",
+   "departureDate": "2026-12-06T19:15:00",
+   "arrivalDate": "2026-12-06T20:40:00",
    "price": {
-    "value": 52.09,
-    "valueMainUnit": "52",
-    "valueFractionalUnit": "09",
+    "value": 42.99,
+    "valueMainUnit": "42",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6391~ ~~GRO~12/07/2026 16:00~NRN~12/07/2026 18:10~~",
-   "flightNumber": "FR6391",
+   "flightKey": "FR~6333~ ~~GRO~12/06/2026 19:15~PSA~12/06/2026 20:40~~",
+   "flightNumber": "FR6333",
    "previousPrice": null,
-   "priceUpdated": 1791800547000
+   "priceUpdated": 1792436813000
   },
   "summary": {
    "price": {
-    "value": 52.09,
-    "valueMainUnit": "52",
-    "valueFractionalUnit": "09",
+    "value": 42.99,
+    "valueMainUnit": "42",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Spain",
+    "iataCode": "GRO",
+    "name": "Barcelona Girona",
+    "seoName": "barcelona-girona",
+    "city": {
+     "code": "GIRONA",
+     "countryCode": "es",
+     "name": "Girona"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "PSA",
+    "name": "Pisa",
+    "seoName": "pisa",
+    "city": {
+     "code": "PISA",
+     "countryCode": "it",
+     "name": "Pisa"
+    }
+   },
+   "departureDate": "2026-12-04T19:25:00",
+   "arrivalDate": "2026-12-04T20:50:00",
+   "price": {
+    "value": 43.91,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "91",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6333~ ~~GRO~12/04/2026 19:25~PSA~12/04/2026 20:50~~",
+   "flightNumber": "FR6333",
+   "previousPrice": null,
+   "priceUpdated": 1792431057000
+  },
+  "summary": {
+   "price": {
+    "value": 43.91,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "91",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Spain",
+    "iataCode": "GRO",
+    "name": "Barcelona Girona",
+    "seoName": "barcelona-girona",
+    "city": {
+     "code": "GIRONA",
+     "countryCode": "es",
+     "name": "Girona"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Germany",
+    "iataCode": "FKB",
+    "name": "Karlsruhe / Baden-Baden",
+    "seoName": "karlsruhe-baden",
+    "city": {
+     "code": "KARLSRUHE",
+     "countryCode": "de",
+     "name": "Karlsruhe"
+    }
+   },
+   "departureDate": "2026-12-07T20:25:00",
+   "arrivalDate": "2026-12-07T22:10:00",
+   "price": {
+    "value": 47.1,
+    "valueMainUnit": "47",
+    "valueFractionalUnit": "10",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9209~ ~~GRO~12/07/2026 20:25~FKB~12/07/2026 22:10~~",
+   "flightNumber": "FR9209",
+   "previousPrice": null,
+   "priceUpdated": 1792432204000
+  },
+  "summary": {
+   "price": {
+    "value": 47.1,
+    "valueMainUnit": "47",
+    "valueFractionalUnit": "10",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -933,22 +881,22 @@
    "departureDate": "2026-12-11T12:40:00",
    "arrivalDate": "2026-12-11T16:30:00",
    "price": {
-    "value": 54.09,
-    "valueMainUnit": "54",
-    "valueFractionalUnit": "09",
+    "value": 47.19,
+    "valueMainUnit": "47",
+    "valueFractionalUnit": "19",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~9529~ ~~GRO~12/11/2026 12:40~BBU~12/11/2026 16:30~~",
    "flightNumber": "FR9529",
    "previousPrice": null,
-   "priceUpdated": 1791800509000
+   "priceUpdated": 1792405360000
   },
   "summary": {
    "price": {
-    "value": 54.09,
-    "valueMainUnit": "54",
-    "valueFractionalUnit": "09",
+    "value": 47.19,
+    "valueMainUnit": "47",
+    "valueFractionalUnit": "19",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -980,25 +928,25 @@
      "name": "Pisa"
     }
    },
-   "departureDate": "2026-12-04T19:25:00",
-   "arrivalDate": "2026-12-04T20:50:00",
+   "departureDate": "2026-12-11T19:25:00",
+   "arrivalDate": "2026-12-11T20:50:00",
    "price": {
-    "value": 60.35,
-    "valueMainUnit": "60",
-    "valueFractionalUnit": "35",
+    "value": 51.61,
+    "valueMainUnit": "51",
+    "valueFractionalUnit": "61",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6333~ ~~GRO~12/04/2026 19:25~PSA~12/04/2026 20:50~~",
+   "flightKey": "FR~6333~ ~~GRO~12/11/2026 19:25~PSA~12/11/2026 20:50~~",
    "flightNumber": "FR6333",
    "previousPrice": null,
-   "priceUpdated": 1791800545000
+   "priceUpdated": 1792405398000
   },
   "summary": {
    "price": {
-    "value": 60.35,
-    "valueMainUnit": "60",
-    "valueFractionalUnit": "35",
+    "value": 51.61,
+    "valueMainUnit": "51",
+    "valueFractionalUnit": "61",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1020,35 +968,87 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "PSA",
-    "name": "Pisa",
-    "seoName": "pisa",
+    "countryName": "Germany",
+    "iataCode": "NRN",
+    "name": "Dusseldorf Weeze",
+    "seoName": "dusseldorf",
     "city": {
-     "code": "PISA",
-     "countryCode": "it",
-     "name": "Pisa"
+     "code": "DUSSELDORF",
+     "countryCode": "de",
+     "macCode": "DOF",
+     "name": "Dusseldorf"
     }
    },
-   "departureDate": "2026-12-11T19:25:00",
-   "arrivalDate": "2026-12-11T20:50:00",
+   "departureDate": "2026-12-07T16:00:00",
+   "arrivalDate": "2026-12-07T18:10:00",
    "price": {
-    "value": 60.35,
-    "valueMainUnit": "60",
-    "valueFractionalUnit": "35",
+    "value": 64.74,
+    "valueMainUnit": "64",
+    "valueFractionalUnit": "74",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6333~ ~~GRO~12/11/2026 19:25~PSA~12/11/2026 20:50~~",
-   "flightNumber": "FR6333",
+   "flightKey": "FR~6391~ ~~GRO~12/07/2026 16:00~NRN~12/07/2026 18:10~~",
+   "flightNumber": "FR6391",
    "previousPrice": null,
-   "priceUpdated": 1791800139000
+   "priceUpdated": 1792405399000
   },
   "summary": {
    "price": {
-    "value": 60.35,
-    "valueMainUnit": "60",
-    "valueFractionalUnit": "35",
+    "value": 64.74,
+    "valueMainUnit": "64",
+    "valueFractionalUnit": "74",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Spain",
+    "iataCode": "GRO",
+    "name": "Barcelona Girona",
+    "seoName": "barcelona-girona",
+    "city": {
+     "code": "GIRONA",
+     "countryCode": "es",
+     "name": "Girona"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Germany",
+    "iataCode": "NRN",
+    "name": "Dusseldorf Weeze",
+    "seoName": "dusseldorf",
+    "city": {
+     "code": "DUSSELDORF",
+     "countryCode": "de",
+     "macCode": "DOF",
+     "name": "Dusseldorf"
+    }
+   },
+   "departureDate": "2026-12-04T19:50:00",
+   "arrivalDate": "2026-12-04T22:00:00",
+   "price": {
+    "value": 65.99,
+    "valueMainUnit": "65",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6391~ ~~GRO~12/04/2026 19:50~NRN~12/04/2026 22:00~~",
+   "flightNumber": "FR6391",
+   "previousPrice": null,
+   "priceUpdated": 1792440875000
+  },
+  "summary": {
+   "price": {
+    "value": 65.99,
+    "valueMainUnit": "65",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1083,8 +1083,8 @@
    "departureDate": "2026-12-04T20:30:00",
    "arrivalDate": "2026-12-04T22:30:00",
    "price": {
-    "value": 78.99,
-    "valueMainUnit": "78",
+    "value": 74.99,
+    "valueMainUnit": "74",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1092,12 +1092,62 @@
    "flightKey": "FR~1671~ ~~GRO~12/04/2026 20:30~CRL~12/04/2026 22:30~~",
    "flightNumber": "FR1671",
    "previousPrice": null,
-   "priceUpdated": 1791800512000
+   "priceUpdated": 1792438614000
   },
   "summary": {
    "price": {
-    "value": 78.99,
-    "valueMainUnit": "78",
+    "value": 74.99,
+    "valueMainUnit": "74",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Spain",
+    "iataCode": "GRO",
+    "name": "Barcelona Girona",
+    "seoName": "barcelona-girona",
+    "city": {
+     "code": "GIRONA",
+     "countryCode": "es",
+     "name": "Girona"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Netherlands",
+    "iataCode": "EIN",
+    "name": "Eindhoven",
+    "seoName": "eindhoven",
+    "city": {
+     "code": "EINDHOVEN",
+     "countryCode": "nl",
+     "name": "Eindhoven"
+    }
+   },
+   "departureDate": "2026-12-05T08:45:00",
+   "arrivalDate": "2026-12-05T10:55:00",
+   "price": {
+    "value": 87.99,
+    "valueMainUnit": "87",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2120~ ~~GRO~12/05/2026 08:45~EIN~12/05/2026 10:55~~",
+   "flightNumber": "FR2120",
+   "previousPrice": null,
+   "priceUpdated": 1792431608000
+  },
+  "summary": {
+   "price": {
+    "value": 87.99,
+    "valueMainUnit": "87",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1134,77 +1184,27 @@
    "departureDate": "2026-12-04T12:40:00",
    "arrivalDate": "2026-12-04T16:30:00",
    "price": {
-    "value": 81.09,
-    "valueMainUnit": "81",
-    "valueFractionalUnit": "09",
+    "value": 100.74,
+    "valueMainUnit": "100",
+    "valueFractionalUnit": "74",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~9529~ ~~GRO~12/04/2026 12:40~BBU~12/04/2026 16:30~~",
    "flightNumber": "FR9529",
    "previousPrice": null,
-   "priceUpdated": 1791800509000
+   "priceUpdated": 1792405453000
   },
   "summary": {
    "price": {
-    "value": 81.09,
-    "valueMainUnit": "81",
-    "valueFractionalUnit": "09",
+    "value": 100.74,
+    "valueMainUnit": "100",
+    "valueFractionalUnit": "74",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Spain",
-    "iataCode": "GRO",
-    "name": "Barcelona Girona",
-    "seoName": "barcelona-girona",
-    "city": {
-     "code": "GIRONA",
-     "countryCode": "es",
-     "name": "Girona"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Netherlands",
-    "iataCode": "EIN",
-    "name": "Eindhoven",
-    "seoName": "eindhoven",
-    "city": {
-     "code": "EINDHOVEN",
-     "countryCode": "nl",
-     "name": "Eindhoven"
-    }
-   },
-   "departureDate": "2026-12-05T08:45:00",
-   "arrivalDate": "2026-12-05T10:55:00",
-   "price": {
-    "value": 82.99,
-    "valueMainUnit": "82",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2120~ ~~GRO~12/05/2026 08:45~EIN~12/05/2026 10:55~~",
-   "flightNumber": "FR2120",
-   "previousPrice": null,
-   "priceUpdated": 1791800513000
-  },
-  "summary": {
-   "price": {
-    "value": 82.99,
-    "valueMainUnit": "82",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
   }
  },
  {
@@ -1235,22 +1235,22 @@
    "departureDate": "2026-12-04T16:30:00",
    "arrivalDate": "2026-12-04T17:45:00",
    "price": {
-    "value": 133.12,
-    "valueMainUnit": "133",
-    "valueFractionalUnit": "12",
+    "value": 135.9,
+    "valueMainUnit": "135",
+    "valueFractionalUnit": "90",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~6076~ ~~GRO~12/04/2026 16:30~STN~12/04/2026 17:45~~",
    "flightNumber": "FR6076",
    "previousPrice": null,
-   "priceUpdated": 1791800548000
+   "priceUpdated": 1792405398000
   },
   "summary": {
    "price": {
-    "value": 133.12,
-    "valueMainUnit": "133",
-    "valueFractionalUnit": "12",
+    "value": 135.9,
+    "valueMainUnit": "135",
+    "valueFractionalUnit": "90",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1294,7 +1294,7 @@
    "flightKey": "FR~9209~ ~~GRO~12/04/2026 14:50~FKB~12/04/2026 16:35~~",
    "flightNumber": "FR9209",
    "previousPrice": null,
-   "priceUpdated": 1791800513000
+   "priceUpdated": 1792405455000
   },
   "summary": {
    "price": {
@@ -1345,7 +1345,107 @@
    "flightKey": "FR~6391~ ~~GRO~12/18/2026 19:50~NRN~12/18/2026 22:00~~",
    "flightNumber": "FR6391",
    "previousPrice": null,
-   "priceUpdated": 1791802315000
+   "priceUpdated": 1792440992000
+  },
+  "summary": {
+   "price": {
+    "value": 19.99,
+    "valueMainUnit": "19",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Spain",
+    "iataCode": "GRO",
+    "name": "Barcelona Girona",
+    "seoName": "barcelona-girona",
+    "city": {
+     "code": "GIRONA",
+     "countryCode": "es",
+     "name": "Girona"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Germany",
+    "iataCode": "FKB",
+    "name": "Karlsruhe / Baden-Baden",
+    "seoName": "karlsruhe-baden",
+    "city": {
+     "code": "KARLSRUHE",
+     "countryCode": "de",
+     "name": "Karlsruhe"
+    }
+   },
+   "departureDate": "2026-12-14T20:25:00",
+   "arrivalDate": "2026-12-14T22:10:00",
+   "price": {
+    "value": 19.99,
+    "valueMainUnit": "19",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9209~ ~~GRO~12/14/2026 20:25~FKB~12/14/2026 22:10~~",
+   "flightNumber": "FR9209",
+   "previousPrice": null,
+   "priceUpdated": 1792437948000
+  },
+  "summary": {
+   "price": {
+    "value": 19.99,
+    "valueMainUnit": "19",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Spain",
+    "iataCode": "GRO",
+    "name": "Barcelona Girona",
+    "seoName": "barcelona-girona",
+    "city": {
+     "code": "GIRONA",
+     "countryCode": "es",
+     "name": "Girona"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "MAN",
+    "name": "Manchester",
+    "seoName": "manchester",
+    "city": {
+     "code": "MANCHESTER",
+     "countryCode": "gb",
+     "name": "Manchester"
+    }
+   },
+   "departureDate": "2026-12-14T16:00:00",
+   "arrivalDate": "2026-12-14T17:20:00",
+   "price": {
+    "value": 19.99,
+    "valueMainUnit": "19",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3213~ ~~GRO~12/14/2026 16:00~MAN~12/14/2026 17:20~~",
+   "flightNumber": "FR3213",
+   "previousPrice": null,
+   "priceUpdated": 1792433985000
   },
   "summary": {
    "price": {
@@ -1383,8 +1483,8 @@
      "name": "Charleroi"
     }
    },
-   "departureDate": "2026-12-13T09:10:00",
-   "arrivalDate": "2026-12-13T11:10:00",
+   "departureDate": "2026-12-18T20:30:00",
+   "arrivalDate": "2026-12-18T22:30:00",
    "price": {
     "value": 21.99,
     "valueMainUnit": "21",
@@ -1392,10 +1492,10 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~1671~ ~~GRO~12/13/2026 09:10~CRL~12/13/2026 11:10~~",
+   "flightKey": "FR~1671~ ~~GRO~12/18/2026 20:30~CRL~12/18/2026 22:30~~",
    "flightNumber": "FR1671",
    "previousPrice": null,
-   "priceUpdated": 1791800512000
+   "priceUpdated": 1792434007000
   },
   "summary": {
    "price": {
@@ -1423,18 +1523,18 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
+    "countryName": "Netherlands",
+    "iataCode": "EIN",
+    "name": "Eindhoven",
+    "seoName": "eindhoven",
     "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
+     "code": "EINDHOVEN",
+     "countryCode": "nl",
+     "name": "Eindhoven"
     }
    },
-   "departureDate": "2026-12-17T15:20:00",
-   "arrivalDate": "2026-12-17T17:20:00",
+   "departureDate": "2026-12-14T06:50:00",
+   "arrivalDate": "2026-12-14T09:00:00",
    "price": {
     "value": 21.99,
     "valueMainUnit": "21",
@@ -1442,60 +1542,10 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~1671~ ~~GRO~12/17/2026 15:20~CRL~12/17/2026 17:20~~",
-   "flightNumber": "FR1671",
+   "flightKey": "FR~2120~ ~~GRO~12/14/2026 06:50~EIN~12/14/2026 09:00~~",
+   "flightNumber": "FR2120",
    "previousPrice": null,
-   "priceUpdated": 1791800542000
-  },
-  "summary": {
-   "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Spain",
-    "iataCode": "GRO",
-    "name": "Barcelona Girona",
-    "seoName": "barcelona-girona",
-    "city": {
-     "code": "GIRONA",
-     "countryCode": "es",
-     "name": "Girona"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Germany",
-    "iataCode": "FKB",
-    "name": "Karlsruhe / Baden-Baden",
-    "seoName": "karlsruhe-baden",
-    "city": {
-     "code": "KARLSRUHE",
-     "countryCode": "de",
-     "name": "Karlsruhe"
-    }
-   },
-   "departureDate": "2026-12-14T20:25:00",
-   "arrivalDate": "2026-12-14T22:10:00",
-   "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~9209~ ~~GRO~12/14/2026 20:25~FKB~12/14/2026 22:10~~",
-   "flightNumber": "FR9209",
-   "previousPrice": null,
-   "priceUpdated": 1791800543000
+   "priceUpdated": 1792434038000
   },
   "summary": {
    "price": {
@@ -1546,7 +1596,7 @@
    "flightKey": "FR~6076~ ~~GRO~12/14/2026 16:15~STN~12/14/2026 17:30~~",
    "flightNumber": "FR6076",
    "previousPrice": null,
-   "priceUpdated": 1791800518000
+   "priceUpdated": 1792434008000
   },
   "summary": {
    "price": {
@@ -1574,35 +1624,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Netherlands",
-    "iataCode": "EIN",
-    "name": "Eindhoven",
-    "seoName": "eindhoven",
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
     "city": {
-     "code": "EINDHOVEN",
-     "countryCode": "nl",
-     "name": "Eindhoven"
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
     }
    },
-   "departureDate": "2026-12-14T06:50:00",
-   "arrivalDate": "2026-12-14T09:00:00",
+   "departureDate": "2026-12-13T09:10:00",
+   "arrivalDate": "2026-12-13T11:10:00",
    "price": {
-    "value": 23.99,
-    "valueMainUnit": "23",
-    "valueFractionalUnit": "99",
+    "value": 22.41,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "41",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2120~ ~~GRO~12/14/2026 06:50~EIN~12/14/2026 09:00~~",
-   "flightNumber": "FR2120",
+   "flightKey": "FR~1671~ ~~GRO~12/13/2026 09:10~CRL~12/13/2026 11:10~~",
+   "flightNumber": "FR1671",
    "previousPrice": null,
-   "priceUpdated": 1791800542000
+   "priceUpdated": 1792440086000
   },
   "summary": {
    "price": {
-    "value": 23.99,
-    "valueMainUnit": "23",
-    "valueFractionalUnit": "99",
+    "value": 22.41,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "41",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1637,22 +1687,72 @@
    "departureDate": "2026-12-12T14:50:00",
    "arrivalDate": "2026-12-12T16:10:00",
    "price": {
-    "value": 24.43,
-    "valueMainUnit": "24",
-    "valueFractionalUnit": "43",
+    "value": 22.49,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "49",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~3213~ ~~GRO~12/12/2026 14:50~MAN~12/12/2026 16:10~~",
    "flightNumber": "FR3213",
    "previousPrice": null,
-   "priceUpdated": 1791800513000
+   "priceUpdated": 1792434034000
   },
   "summary": {
    "price": {
-    "value": 24.43,
-    "valueMainUnit": "24",
-    "valueFractionalUnit": "43",
+    "value": 22.49,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "49",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Spain",
+    "iataCode": "GRO",
+    "name": "Barcelona Girona",
+    "seoName": "barcelona-girona",
+    "city": {
+     "code": "GIRONA",
+     "countryCode": "es",
+     "name": "Girona"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
+    "city": {
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
+    }
+   },
+   "departureDate": "2026-12-17T15:20:00",
+   "arrivalDate": "2026-12-17T17:20:00",
+   "price": {
+    "value": 22.99,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1671~ ~~GRO~12/17/2026 15:20~CRL~12/17/2026 17:20~~",
+   "flightNumber": "FR1671",
+   "previousPrice": null,
+   "priceUpdated": 1792434037000
+  },
+  "summary": {
+   "price": {
+    "value": 22.99,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1687,8 +1787,8 @@
    "departureDate": "2026-12-12T08:45:00",
    "arrivalDate": "2026-12-12T10:55:00",
    "price": {
-    "value": 26.99,
-    "valueMainUnit": "26",
+    "value": 23.99,
+    "valueMainUnit": "23",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1696,12 +1796,12 @@
    "flightKey": "FR~2120~ ~~GRO~12/12/2026 08:45~EIN~12/12/2026 10:55~~",
    "flightNumber": "FR2120",
    "previousPrice": null,
-   "priceUpdated": 1791800509000
+   "priceUpdated": 1792441993000
   },
   "summary": {
    "price": {
-    "value": 26.99,
-    "valueMainUnit": "26",
+    "value": 23.99,
+    "valueMainUnit": "23",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1724,85 +1824,36 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
+    "countryName": "Germany",
+    "iataCode": "NRN",
+    "name": "Dusseldorf Weeze",
+    "seoName": "dusseldorf",
     "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
+     "code": "DUSSELDORF",
+     "countryCode": "de",
+     "macCode": "DOF",
+     "name": "Dusseldorf"
     }
    },
-   "departureDate": "2026-12-18T20:30:00",
-   "arrivalDate": "2026-12-18T22:30:00",
+   "departureDate": "2026-12-19T15:00:00",
+   "arrivalDate": "2026-12-19T17:10:00",
    "price": {
-    "value": 27.17,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "17",
+    "value": 26.99,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~1671~ ~~GRO~12/18/2026 20:30~CRL~12/18/2026 22:30~~",
-   "flightNumber": "FR1671",
+   "flightKey": "FR~6391~ ~~GRO~12/19/2026 15:00~NRN~12/19/2026 17:10~~",
+   "flightNumber": "FR6391",
    "previousPrice": null,
-   "priceUpdated": 1791800543000
+   "priceUpdated": 1792419479000
   },
   "summary": {
    "price": {
-    "value": 27.17,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "17",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Spain",
-    "iataCode": "GRO",
-    "name": "Barcelona Girona",
-    "seoName": "barcelona-girona",
-    "city": {
-     "code": "GIRONA",
-     "countryCode": "es",
-     "name": "Girona"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "MAN",
-    "name": "Manchester",
-    "seoName": "manchester",
-    "city": {
-     "code": "MANCHESTER",
-     "countryCode": "gb",
-     "name": "Manchester"
-    }
-   },
-   "departureDate": "2026-12-14T16:00:00",
-   "arrivalDate": "2026-12-14T17:20:00",
-   "price": {
-    "value": 28.4,
-    "valueMainUnit": "28",
-    "valueFractionalUnit": "40",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3213~ ~~GRO~12/14/2026 16:00~MAN~12/14/2026 17:20~~",
-   "flightNumber": "FR3213",
-   "previousPrice": null,
-   "priceUpdated": 1791800541000
-  },
-  "summary": {
-   "price": {
-    "value": 28.4,
-    "valueMainUnit": "28",
-    "valueFractionalUnit": "40",
+    "value": 26.99,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1837,8 +1888,8 @@
    "departureDate": "2026-12-14T13:15:00",
    "arrivalDate": "2026-12-14T15:15:00",
    "price": {
-    "value": 28.99,
-    "valueMainUnit": "28",
+    "value": 31.99,
+    "valueMainUnit": "31",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1846,114 +1897,13 @@
    "flightKey": "FR~1671~ ~~GRO~12/14/2026 13:15~CRL~12/14/2026 15:15~~",
    "flightNumber": "FR1671",
    "previousPrice": null,
-   "priceUpdated": 1791803093000
-  },
-  "summary": {
-   "price": {
-    "value": 28.99,
-    "valueMainUnit": "28",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Spain",
-    "iataCode": "GRO",
-    "name": "Barcelona Girona",
-    "seoName": "barcelona-girona",
-    "city": {
-     "code": "GIRONA",
-     "countryCode": "es",
-     "name": "Girona"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Germany",
-    "iataCode": "NRN",
-    "name": "Dusseldorf Weeze",
-    "seoName": "dusseldorf",
-    "city": {
-     "code": "DUSSELDORF",
-     "countryCode": "de",
-     "macCode": "DOF",
-     "name": "Dusseldorf"
-    }
-   },
-   "departureDate": "2026-12-19T15:05:00",
-   "arrivalDate": "2026-12-19T17:15:00",
-   "price": {
-    "value": 31.99,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6391~ ~~GRO~12/19/2026 15:05~NRN~12/19/2026 17:15~~",
-   "flightNumber": "FR6391",
-   "previousPrice": null,
-   "priceUpdated": 1791802318000
+   "priceUpdated": 1792419448000
   },
   "summary": {
    "price": {
     "value": 31.99,
     "valueMainUnit": "31",
     "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Spain",
-    "iataCode": "GRO",
-    "name": "Barcelona Girona",
-    "seoName": "barcelona-girona",
-    "city": {
-     "code": "GIRONA",
-     "countryCode": "es",
-     "name": "Girona"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "MAN",
-    "name": "Manchester",
-    "seoName": "manchester",
-    "city": {
-     "code": "MANCHESTER",
-     "countryCode": "gb",
-     "name": "Manchester"
-    }
-   },
-   "departureDate": "2026-12-19T14:50:00",
-   "arrivalDate": "2026-12-19T16:10:00",
-   "price": {
-    "value": 34.13,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "13",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3213~ ~~GRO~12/19/2026 14:50~MAN~12/19/2026 16:10~~",
-   "flightNumber": "FR3213",
-   "previousPrice": null,
-   "priceUpdated": 1791800540000
-  },
-  "summary": {
-   "price": {
-    "value": 34.13,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "13",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1988,8 +1938,8 @@
    "departureDate": "2026-12-13T19:15:00",
    "arrivalDate": "2026-12-13T20:40:00",
    "price": {
-    "value": 36.99,
-    "valueMainUnit": "36",
+    "value": 32.99,
+    "valueMainUnit": "32",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1997,113 +1947,12 @@
    "flightKey": "FR~6333~ ~~GRO~12/13/2026 19:15~PSA~12/13/2026 20:40~~",
    "flightNumber": "FR6333",
    "previousPrice": null,
-   "priceUpdated": 1791800548000
+   "priceUpdated": 1792419870000
   },
   "summary": {
    "price": {
-    "value": 36.99,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Spain",
-    "iataCode": "GRO",
-    "name": "Barcelona Girona",
-    "seoName": "barcelona-girona",
-    "city": {
-     "code": "GIRONA",
-     "countryCode": "es",
-     "name": "Girona"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Germany",
-    "iataCode": "NRN",
-    "name": "Dusseldorf Weeze",
-    "seoName": "dusseldorf",
-    "city": {
-     "code": "DUSSELDORF",
-     "countryCode": "de",
-     "macCode": "DOF",
-     "name": "Dusseldorf"
-    }
-   },
-   "departureDate": "2026-12-14T16:00:00",
-   "arrivalDate": "2026-12-14T18:10:00",
-   "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6391~ ~~GRO~12/14/2026 16:00~NRN~12/14/2026 18:10~~",
-   "flightNumber": "FR6391",
-   "previousPrice": null,
-   "priceUpdated": 1791800514000
-  },
-  "summary": {
-   "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Spain",
-    "iataCode": "GRO",
-    "name": "Barcelona Girona",
-    "seoName": "barcelona-girona",
-    "city": {
-     "code": "GIRONA",
-     "countryCode": "es",
-     "name": "Girona"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Germany",
-    "iataCode": "FKB",
-    "name": "Karlsruhe / Baden-Baden",
-    "seoName": "karlsruhe-baden",
-    "city": {
-     "code": "KARLSRUHE",
-     "countryCode": "de",
-     "name": "Karlsruhe"
-    }
-   },
-   "departureDate": "2026-12-18T14:50:00",
-   "arrivalDate": "2026-12-18T16:35:00",
-   "price": {
-    "value": 40.99,
-    "valueMainUnit": "40",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~9209~ ~~GRO~12/18/2026 14:50~FKB~12/18/2026 16:35~~",
-   "flightNumber": "FR9209",
-   "previousPrice": null,
-   "priceUpdated": 1791802310000
-  },
-  "summary": {
-   "price": {
-    "value": 40.99,
-    "valueMainUnit": "40",
+    "value": 32.99,
+    "valueMainUnit": "32",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2139,22 +1988,173 @@
    "departureDate": "2026-12-19T08:45:00",
    "arrivalDate": "2026-12-19T10:55:00",
    "price": {
-    "value": 42.57,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "57",
+    "value": 37.04,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "04",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~2120~ ~~GRO~12/19/2026 08:45~EIN~12/19/2026 10:55~~",
    "flightNumber": "FR2120",
    "previousPrice": null,
-   "priceUpdated": 1791800544000
+   "priceUpdated": 1792405460000
   },
   "summary": {
    "price": {
-    "value": 42.57,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "57",
+    "value": 37.04,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "04",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Spain",
+    "iataCode": "GRO",
+    "name": "Barcelona Girona",
+    "seoName": "barcelona-girona",
+    "city": {
+     "code": "GIRONA",
+     "countryCode": "es",
+     "name": "Girona"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Germany",
+    "iataCode": "NRN",
+    "name": "Dusseldorf Weeze",
+    "seoName": "dusseldorf",
+    "city": {
+     "code": "DUSSELDORF",
+     "countryCode": "de",
+     "macCode": "DOF",
+     "name": "Dusseldorf"
+    }
+   },
+   "departureDate": "2026-12-14T16:00:00",
+   "arrivalDate": "2026-12-14T18:10:00",
+   "price": {
+    "value": 37.99,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6391~ ~~GRO~12/14/2026 16:00~NRN~12/14/2026 18:10~~",
+   "flightNumber": "FR6391",
+   "previousPrice": null,
+   "priceUpdated": 1792419419000
+  },
+  "summary": {
+   "price": {
+    "value": 37.99,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Spain",
+    "iataCode": "GRO",
+    "name": "Barcelona Girona",
+    "seoName": "barcelona-girona",
+    "city": {
+     "code": "GIRONA",
+     "countryCode": "es",
+     "name": "Girona"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Germany",
+    "iataCode": "FKB",
+    "name": "Karlsruhe / Baden-Baden",
+    "seoName": "karlsruhe-baden",
+    "city": {
+     "code": "KARLSRUHE",
+     "countryCode": "de",
+     "name": "Karlsruhe"
+    }
+   },
+   "departureDate": "2026-12-19T14:10:00",
+   "arrivalDate": "2026-12-19T15:55:00",
+   "price": {
+    "value": 41.94,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "94",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9209~ ~~GRO~12/19/2026 14:10~FKB~12/19/2026 15:55~~",
+   "flightNumber": "FR9209",
+   "previousPrice": null,
+   "priceUpdated": 1792405459000
+  },
+  "summary": {
+   "price": {
+    "value": 41.94,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "94",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Spain",
+    "iataCode": "GRO",
+    "name": "Barcelona Girona",
+    "seoName": "barcelona-girona",
+    "city": {
+     "code": "GIRONA",
+     "countryCode": "es",
+     "name": "Girona"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Germany",
+    "iataCode": "FKB",
+    "name": "Karlsruhe / Baden-Baden",
+    "seoName": "karlsruhe-baden",
+    "city": {
+     "code": "KARLSRUHE",
+     "countryCode": "de",
+     "name": "Karlsruhe"
+    }
+   },
+   "departureDate": "2026-12-18T14:50:00",
+   "arrivalDate": "2026-12-18T16:35:00",
+   "price": {
+    "value": 41.99,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9209~ ~~GRO~12/18/2026 14:50~FKB~12/18/2026 16:35~~",
+   "flightNumber": "FR9209",
+   "previousPrice": null,
+   "priceUpdated": 1792437708000
+  },
+  "summary": {
+   "price": {
+    "value": 41.99,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2199,63 +2199,13 @@
    "flightKey": "FR~6076~ ~~GRO~12/18/2026 16:30~STN~12/18/2026 17:45~~",
    "flightNumber": "FR6076",
    "previousPrice": null,
-   "priceUpdated": 1791802314000
+   "priceUpdated": 1792419788000
   },
   "summary": {
    "price": {
     "value": 44.99,
     "valueMainUnit": "44",
     "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Spain",
-    "iataCode": "GRO",
-    "name": "Barcelona Girona",
-    "seoName": "barcelona-girona",
-    "city": {
-     "code": "GIRONA",
-     "countryCode": "es",
-     "name": "Girona"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Germany",
-    "iataCode": "FKB",
-    "name": "Karlsruhe / Baden-Baden",
-    "seoName": "karlsruhe-baden",
-    "city": {
-     "code": "KARLSRUHE",
-     "countryCode": "de",
-     "name": "Karlsruhe"
-    }
-   },
-   "departureDate": "2026-12-19T14:10:00",
-   "arrivalDate": "2026-12-19T15:55:00",
-   "price": {
-    "value": 45.32,
-    "valueMainUnit": "45",
-    "valueFractionalUnit": "32",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~9209~ ~~GRO~12/19/2026 14:10~FKB~12/19/2026 15:55~~",
-   "flightNumber": "FR9209",
-   "previousPrice": null,
-   "priceUpdated": 1791800544000
-  },
-  "summary": {
-   "price": {
-    "value": 45.32,
-    "valueMainUnit": "45",
-    "valueFractionalUnit": "32",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2290,8 +2240,8 @@
    "departureDate": "2026-12-18T19:25:00",
    "arrivalDate": "2026-12-18T20:50:00",
    "price": {
-    "value": 49.99,
-    "valueMainUnit": "49",
+    "value": 51.99,
+    "valueMainUnit": "51",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2299,12 +2249,12 @@
    "flightKey": "FR~6333~ ~~GRO~12/18/2026 19:25~PSA~12/18/2026 20:50~~",
    "flightNumber": "FR6333",
    "previousPrice": null,
-   "priceUpdated": 1791801705000
+   "priceUpdated": 1792419425000
   },
   "summary": {
    "price": {
-    "value": 49.99,
-    "valueMainUnit": "49",
+    "value": 51.99,
+    "valueMainUnit": "51",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2349,7 +2299,7 @@
    "flightKey": "FR~8484~ ~~GRO~12/13/2026 14:00~BEM~12/13/2026 15:15~~",
    "flightNumber": "FR8484",
    "previousPrice": null,
-   "priceUpdated": 1791800510000
+   "priceUpdated": 1792425109000
   },
   "summary": {
    "price": {
@@ -2361,6 +2311,56 @@
    },
    "previousPrice": null,
    "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Spain",
+    "iataCode": "GRO",
+    "name": "Barcelona Girona",
+    "seoName": "barcelona-girona",
+    "city": {
+     "code": "GIRONA",
+     "countryCode": "es",
+     "name": "Girona"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "MAN",
+    "name": "Manchester",
+    "seoName": "manchester",
+    "city": {
+     "code": "MANCHESTER",
+     "countryCode": "gb",
+     "name": "Manchester"
+    }
+   },
+   "departureDate": "2026-12-19T14:50:00",
+   "arrivalDate": "2026-12-19T16:10:00",
+   "price": {
+    "value": 67.99,
+    "valueMainUnit": "67",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3213~ ~~GRO~12/19/2026 14:50~MAN~12/19/2026 16:10~~",
+   "flightNumber": "FR3213",
+   "previousPrice": null,
+   "priceUpdated": 1792433209000
+  },
+  "summary": {
+   "price": {
+    "value": 67.99,
+    "valueMainUnit": "67",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
   }
  },
  {
@@ -2391,8 +2391,8 @@
    "departureDate": "2026-12-14T13:05:00",
    "arrivalDate": "2026-12-14T16:55:00",
    "price": {
-    "value": 77.99,
-    "valueMainUnit": "77",
+    "value": 72.99,
+    "valueMainUnit": "72",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2400,12 +2400,12 @@
    "flightKey": "FR~9529~ ~~GRO~12/14/2026 13:05~BBU~12/14/2026 16:55~~",
    "flightNumber": "FR9529",
    "previousPrice": null,
-   "priceUpdated": 1791800541000
+   "priceUpdated": 1792419398000
   },
   "summary": {
    "price": {
-    "value": 77.99,
-    "valueMainUnit": "77",
+    "value": 72.99,
+    "valueMainUnit": "72",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2450,7 +2450,7 @@
    "flightKey": "FR~8484~ ~~GRO~12/18/2026 07:00~BEM~12/18/2026 08:15~~",
    "flightNumber": "FR8484",
    "previousPrice": null,
-   "priceUpdated": 1791800542000
+   "priceUpdated": 1792434310000
   },
   "summary": {
    "price": {
@@ -2492,22 +2492,22 @@
    "departureDate": "2026-12-18T12:40:00",
    "arrivalDate": "2026-12-18T16:30:00",
    "price": {
-    "value": 147.79,
-    "valueMainUnit": "147",
-    "valueFractionalUnit": "79",
+    "value": 133.49,
+    "valueMainUnit": "133",
+    "valueFractionalUnit": "49",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~9529~ ~~GRO~12/18/2026 12:40~BBU~12/18/2026 16:30~~",
    "flightNumber": "FR9529",
    "previousPrice": null,
-   "priceUpdated": 1791800545000
+   "priceUpdated": 1792405459000
   },
   "summary": {
    "price": {
-    "value": 147.79,
-    "valueMainUnit": "147",
-    "valueFractionalUnit": "79",
+    "value": 133.49,
+    "valueMainUnit": "133",
+    "valueFractionalUnit": "49",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },

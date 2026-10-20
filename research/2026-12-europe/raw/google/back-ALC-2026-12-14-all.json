@@ -1,7 +1,8 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTRqBRIDQUxDcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T11:25:18",
+ "fetchedAt": "2026-10-19T23:34:58",
  "priceUnavailable": 12,
+ "via": "html",
  "itineraries": [
   {
    "price": 103.0,
@@ -40,32 +41,6 @@
    "depTime": "12:15",
    "depDate": "2026-12-14",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "21:40",
-   "arrDate": "2026-12-14",
-   "durationMin": 565,
-   "layovers": [
-    {
-     "min": 275,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 158 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Alicante-Elche Miguel Hernández Airport at 12:15 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 9:40 PM on Monday, December 14. Total duration 9 hr 25 min.  Layover (1 of 1) is a 4 hr 35 min layover at Oslo lufthavn in Oslo. Select flight"
-  },
-  {
-   "price": 175.0,
-   "roundTripTotal": false,
-   "noOverheadBin": true,
-   "stops": 1,
-   "airlines": "Norwegian",
-   "operatedBy": null,
-   "depAirportName": "Alicante-Elche Miguel Hernández Airport",
-   "depTime": "12:15",
-   "depDate": "2026-12-14",
-   "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "18:45",
    "arrDate": "2026-12-14",
    "durationMin": 390,
@@ -79,7 +54,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 175 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Alicante-Elche Miguel Hernández Airport at 12:15 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 6:45 PM on Monday, December 14. Total duration 6 hr 30 min.  Layover (1 of 1) is a 1 hr 45 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 158 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Alicante-Elche Miguel Hernández Airport at 12:15 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 6:45 PM on Monday, December 14. Total duration 6 hr 30 min.  Layover (1 of 1) is a 1 hr 45 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
    "price": 208.0,
@@ -114,39 +89,7 @@
    "label": "From 208 euros. 2 stops flight with Air Europa and KLM. Operated by KLM Cityhopper. Leaves Alicante-Elche Miguel Hernández Airport at 12:35 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 11:10 PM on Monday, December 14. Total duration 10 hr 35 min.  Layover (1 of 2) is a 3 hr 15 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Layover (2 of 2) is a 1 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 665.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Air Europa and Scandinavian Airlines",
-   "operatedBy": "Sas Link",
-   "depAirportName": "Alicante-Elche Miguel Hernández Airport",
-   "depTime": "12:35",
-   "depDate": "2026-12-14",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "00:40",
-   "arrDate": "2026-12-15",
-   "durationMin": 725,
-   "layovers": [
-    {
-     "min": 195,
-     "overnight": false,
-     "airport": "Adolfo Suárez Madrid-Barajas Airport",
-     "city": "Madrid"
-    },
-    {
-     "min": 160,
-     "overnight": false,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 665 euros. 2 stops flight with Air Europa and Scandinavian Airlines. Operated by Sas Link. Leaves Alicante-Elche Miguel Hernández Airport at 12:35 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 12:40 AM on Tuesday, December 15. Total duration 12 hr 5 min.  Layover (1 of 2) is a 3 hr 15 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Layover (2 of 2) is a 2 hr 40 min layover at Copenhagen Airport in Copenhagen. Select flight"
-  },
-  {
-   "price": 708.0,
+   "price": 675.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -175,7 +118,39 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 708 euros. 2 stops flight with Air Europa and Scandinavian Airlines. Operated by Sas Link. Leaves Alicante-Elche Miguel Hernández Airport at 8:45 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 12:40 AM on Wednesday, December 16. Total duration 27 hr 55 min.  Layover (1 of 2) is a 19 hr 5 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Layover (2 of 2) is a 2 hr 40 min layover at Copenhagen Airport in Copenhagen. Select flight"
+   "label": "From 675 euros. 2 stops flight with Air Europa and Scandinavian Airlines. Operated by Sas Link. Leaves Alicante-Elche Miguel Hernández Airport at 8:45 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 12:40 AM on Wednesday, December 16. Total duration 27 hr 55 min.  Layover (1 of 2) is a 19 hr 5 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Layover (2 of 2) is a 2 hr 40 min layover at Copenhagen Airport in Copenhagen. Select flight"
+  },
+  {
+   "price": 700.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air Europa and Scandinavian Airlines",
+   "operatedBy": "Sas Link",
+   "depAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "depTime": "12:35",
+   "depDate": "2026-12-14",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "00:40",
+   "arrDate": "2026-12-15",
+   "durationMin": 725,
+   "layovers": [
+    {
+     "min": 195,
+     "overnight": false,
+     "airport": "Adolfo Suárez Madrid-Barajas Airport",
+     "city": "Madrid"
+    },
+    {
+     "min": 160,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 700 euros. 2 stops flight with Air Europa and Scandinavian Airlines. Operated by Sas Link. Leaves Alicante-Elche Miguel Hernández Airport at 12:35 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 12:40 AM on Tuesday, December 15. Total duration 12 hr 5 min.  Layover (1 of 2) is a 3 hr 15 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Layover (2 of 2) is a 2 hr 40 min layover at Copenhagen Airport in Copenhagen. Select flight"
   }
  ]
 }

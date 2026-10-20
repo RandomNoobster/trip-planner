@@ -1,6 +1,6 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA0dMQUABSAGYAQI",
- "fetchedAt": "2026-10-11T12:21:22",
+ "fetchedAt": "2026-10-19T23:25:05",
  "priceUnavailable": 0,
  "via": "rpc",
  "itineraries": [
@@ -39,41 +39,7 @@
    "via": "rpc"
   },
   {
-   "price": 192.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depCode": "TRD",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "17:10",
-   "depDate": "2026-12-07",
-   "arrCode": "GLA",
-   "arrAirportName": "Glasgow Airport",
-   "arrTime": "22:10",
-   "arrDate": "2026-12-07",
-   "durationMin": 360,
-   "layovers": [
-    {
-     "min": 125,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "code": "AMS",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "KL1154",
-    "KL945"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 217.0,
+   "price": 218.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -107,7 +73,41 @@
    "via": "rpc"
   },
   {
-   "price": 295.0,
+   "price": 244.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-07",
+   "arrCode": "GLA",
+   "arrAirportName": "Glasgow Airport",
+   "arrTime": "22:10",
+   "arrDate": "2026-12-07",
+   "durationMin": 360,
+   "layovers": [
+    {
+     "min": 125,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1154",
+    "KL945"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 297.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

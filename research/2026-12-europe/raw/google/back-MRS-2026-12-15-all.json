@@ -1,9 +1,52 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTVqBRIDTVJTcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T12:23:40",
+ "fetchedAt": "2026-10-19T23:30:57",
  "priceUnavailable": 0,
  "via": "rpc",
  "itineraries": [
+  {
+   "price": 216.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa City Airlines, Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depCode": "MRS",
+   "depAirportName": "Marseille Provence Airport",
+   "depTime": "06:55",
+   "depDate": "2026-12-15",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-15",
+   "durationMin": 475,
+   "layovers": [
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "VL1091",
+    "LH872",
+    "WF1311"
+   ],
+   "via": "rpc"
+  },
   {
    "price": 221.0,
    "roundTripTotal": false,
@@ -73,92 +116,6 @@
    "via": "rpc"
   },
   {
-   "price": 241.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Lufthansa City Airlines, Lufthansa and Wideroe",
-   "operatedBy": null,
-   "depCode": "MRS",
-   "depAirportName": "Marseille Provence Airport",
-   "depTime": "06:55",
-   "depDate": "2026-12-15",
-   "arrCode": "TRD",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-15",
-   "durationMin": 475,
-   "layovers": [
-    {
-     "min": 95,
-     "overnight": false,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main",
-     "code": "FRA",
-     "changeAirport": false
-    },
-    {
-     "min": 95,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen",
-     "code": "BGO",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "VL1091",
-    "LH872",
-    "WF1311"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 299.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Air France and KLM",
-   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
-   "depCode": "MRS",
-   "depAirportName": "Marseille Provence Airport",
-   "depTime": "07:30",
-   "depDate": "2026-12-15",
-   "arrCode": "TRD",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
-   "arrDate": "2026-12-15",
-   "durationMin": 545,
-   "layovers": [
-    {
-     "min": 160,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
-     "code": "CDG",
-     "changeAirport": false
-    },
-    {
-     "min": 75,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "code": "AMS",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "AF7347",
-    "AF1640",
-    "KL1153"
-   ],
-   "via": "rpc"
-  },
-  {
    "price": 338.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
@@ -198,6 +155,49 @@
     "KL1466",
     "KL1205",
     "SK370"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 412.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air France and KLM",
+   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
+   "depCode": "MRS",
+   "depAirportName": "Marseille Provence Airport",
+   "depTime": "07:30",
+   "depDate": "2026-12-15",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-15",
+   "durationMin": 545,
+   "layovers": [
+    {
+     "min": 160,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    },
+    {
+     "min": 75,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "AF7347",
+    "AF1640",
+    "KL1153"
    ],
    "via": "rpc"
   },
@@ -245,7 +245,7 @@
    "via": "rpc"
   },
   {
-   "price": 495.0,
+   "price": 815.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

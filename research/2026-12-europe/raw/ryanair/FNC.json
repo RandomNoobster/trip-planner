@@ -14,34 +14,34 @@
    },
    "arrivalAirport": {
     "countryName": "Portugal",
-    "iataCode": "OPO",
-    "name": "Porto",
-    "seoName": "porto",
+    "iataCode": "LIS",
+    "name": "Lisbon",
+    "seoName": "lisbon",
     "city": {
-     "code": "PORTO",
+     "code": "LISBON",
      "countryCode": "pt",
-     "name": "Porto"
+     "name": "Lisbon"
     }
    },
-   "departureDate": "2026-12-06T06:35:00",
-   "arrivalDate": "2026-12-06T08:40:00",
+   "departureDate": "2026-12-04T08:20:00",
+   "arrivalDate": "2026-12-04T10:10:00",
    "price": {
-    "value": 23.58,
-    "valueMainUnit": "23",
-    "valueFractionalUnit": "58",
+    "value": 19.99,
+    "valueMainUnit": "19",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 365~ ~~FNC~12/06/2026 06:35~OPO~12/06/2026 08:40~~",
-   "flightNumber": "FR365",
+   "flightKey": "FR~  89~ ~~FNC~12/04/2026 08:20~LIS~12/04/2026 10:10~~",
+   "flightNumber": "FR89",
    "previousPrice": null,
-   "priceUpdated": 1791800484000
+   "priceUpdated": 1792441894000
   },
   "summary": {
    "price": {
-    "value": 23.58,
-    "valueMainUnit": "23",
-    "valueFractionalUnit": "58",
+    "value": 19.99,
+    "valueMainUnit": "19",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -85,57 +85,7 @@
    "flightKey": "FR~ 365~ ~~FNC~12/10/2026 21:10~OPO~12/10/2026 23:15~~",
    "flightNumber": "FR365",
    "previousPrice": null,
-   "priceUpdated": 1791800487000
-  },
-  "summary": {
-   "price": {
-    "value": 23.58,
-    "valueMainUnit": "23",
-    "valueFractionalUnit": "58",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Portugal",
-    "iataCode": "FNC",
-    "name": "Madeira Funchal",
-    "seoName": "funchal",
-    "city": {
-     "code": "FUNCHAL",
-     "countryCode": "pt",
-     "name": "Funchal"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Portugal",
-    "iataCode": "OPO",
-    "name": "Porto",
-    "seoName": "porto",
-    "city": {
-     "code": "PORTO",
-     "countryCode": "pt",
-     "name": "Porto"
-    }
-   },
-   "departureDate": "2026-12-11T14:55:00",
-   "arrivalDate": "2026-12-11T17:00:00",
-   "price": {
-    "value": 23.58,
-    "valueMainUnit": "23",
-    "valueFractionalUnit": "58",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 365~ ~~FNC~12/11/2026 14:55~OPO~12/11/2026 17:00~~",
-   "flightNumber": "FR365",
-   "previousPrice": null,
-   "priceUpdated": 1791800486000
+   "priceUpdated": 1792434235000
   },
   "summary": {
    "price": {
@@ -173,8 +123,8 @@
      "name": "Lisbon"
     }
    },
-   "departureDate": "2026-12-04T20:10:00",
-   "arrivalDate": "2026-12-04T22:00:00",
+   "departureDate": "2026-12-06T08:55:00",
+   "arrivalDate": "2026-12-06T10:45:00",
    "price": {
     "value": 26.41,
     "valueMainUnit": "26",
@@ -182,10 +132,10 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 386~ ~~FNC~12/04/2026 20:10~LIS~12/04/2026 22:00~~",
-   "flightNumber": "FR386",
+   "flightKey": "FR~  89~ ~~FNC~12/06/2026 08:55~LIS~12/06/2026 10:45~~",
+   "flightNumber": "FR89",
    "previousPrice": null,
-   "priceUpdated": 1791800483000
+   "priceUpdated": 1792434008000
   },
   "summary": {
    "price": {
@@ -235,7 +185,7 @@
    "flightKey": "FR~ 386~ ~~FNC~12/11/2026 20:10~LIS~12/11/2026 22:00~~",
    "flightNumber": "FR386",
    "previousPrice": null,
-   "priceUpdated": 1791800486000
+   "priceUpdated": 1792434235000
   },
   "summary": {
    "price": {
@@ -273,25 +223,125 @@
      "name": "Lisbon"
     }
    },
-   "departureDate": "2026-12-06T08:55:00",
-   "arrivalDate": "2026-12-06T10:45:00",
+   "departureDate": "2026-12-05T20:40:00",
+   "arrivalDate": "2026-12-05T22:30:00",
    "price": {
-    "value": 26.74,
+    "value": 26.99,
     "valueMainUnit": "26",
-    "valueFractionalUnit": "74",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~  89~ ~~FNC~12/06/2026 08:55~LIS~12/06/2026 10:45~~",
-   "flightNumber": "FR89",
+   "flightKey": "FR~ 386~ ~~FNC~12/05/2026 20:40~LIS~12/05/2026 22:30~~",
+   "flightNumber": "FR386",
    "previousPrice": null,
-   "priceUpdated": 1791800486000
+   "priceUpdated": 1792434036000
   },
   "summary": {
    "price": {
-    "value": 26.74,
+    "value": 26.99,
     "valueMainUnit": "26",
-    "valueFractionalUnit": "74",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Portugal",
+    "iataCode": "FNC",
+    "name": "Madeira Funchal",
+    "seoName": "funchal",
+    "city": {
+     "code": "FUNCHAL",
+     "countryCode": "pt",
+     "name": "Funchal"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-07T06:20:00",
+   "arrivalDate": "2026-12-07T10:00:00",
+   "price": {
+    "value": 28.99,
+    "valueMainUnit": "28",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 363~ ~~FNC~12/07/2026 06:20~DUB~12/07/2026 10:00~~",
+   "flightNumber": "FR363",
+   "previousPrice": null,
+   "priceUpdated": 1792434034000
+  },
+  "summary": {
+   "price": {
+    "value": 28.99,
+    "valueMainUnit": "28",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Portugal",
+    "iataCode": "FNC",
+    "name": "Madeira Funchal",
+    "seoName": "funchal",
+    "city": {
+     "code": "FUNCHAL",
+     "countryCode": "pt",
+     "name": "Funchal"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "OPO",
+    "name": "Porto",
+    "seoName": "porto",
+    "city": {
+     "code": "PORTO",
+     "countryCode": "pt",
+     "name": "Porto"
+    }
+   },
+   "departureDate": "2026-12-11T14:55:00",
+   "arrivalDate": "2026-12-11T17:00:00",
+   "price": {
+    "value": 29.19,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "19",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 365~ ~~FNC~12/11/2026 14:55~OPO~12/11/2026 17:00~~",
+   "flightNumber": "FR365",
+   "previousPrice": null,
+   "priceUpdated": 1792439491000
+  },
+  "summary": {
+   "price": {
+    "value": 29.19,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "19",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -335,7 +385,7 @@
    "flightKey": "FR~ 384~ ~~FNC~12/07/2026 08:30~LIS~12/07/2026 10:20~~",
    "flightNumber": "FR384",
    "previousPrice": null,
-   "priceUpdated": 1791800484000
+   "priceUpdated": 1792440613000
   },
   "summary": {
    "price": {
@@ -373,8 +423,8 @@
      "name": "Porto"
     }
    },
-   "departureDate": "2026-12-04T14:55:00",
-   "arrivalDate": "2026-12-04T17:00:00",
+   "departureDate": "2026-12-05T12:50:00",
+   "arrivalDate": "2026-12-05T14:55:00",
    "price": {
     "value": 31.44,
     "valueMainUnit": "31",
@@ -382,116 +432,16 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 365~ ~~FNC~12/04/2026 14:55~OPO~12/04/2026 17:00~~",
+   "flightKey": "FR~ 365~ ~~FNC~12/05/2026 12:50~OPO~12/05/2026 14:55~~",
    "flightNumber": "FR365",
    "previousPrice": null,
-   "priceUpdated": 1791800482000
+   "priceUpdated": 1792438956000
   },
   "summary": {
    "price": {
     "value": 31.44,
     "valueMainUnit": "31",
     "valueFractionalUnit": "44",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Portugal",
-    "iataCode": "FNC",
-    "name": "Madeira Funchal",
-    "seoName": "funchal",
-    "city": {
-     "code": "FUNCHAL",
-     "countryCode": "pt",
-     "name": "Funchal"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-07T06:20:00",
-   "arrivalDate": "2026-12-07T10:00:00",
-   "price": {
-    "value": 32.99,
-    "valueMainUnit": "32",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 363~ ~~FNC~12/07/2026 06:20~DUB~12/07/2026 10:00~~",
-   "flightNumber": "FR363",
-   "previousPrice": null,
-   "priceUpdated": 1791800488000
-  },
-  "summary": {
-   "price": {
-    "value": 32.99,
-    "valueMainUnit": "32",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Portugal",
-    "iataCode": "FNC",
-    "name": "Madeira Funchal",
-    "seoName": "funchal",
-    "city": {
-     "code": "FUNCHAL",
-     "countryCode": "pt",
-     "name": "Funchal"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Portugal",
-    "iataCode": "LIS",
-    "name": "Lisbon",
-    "seoName": "lisbon",
-    "city": {
-     "code": "LISBON",
-     "countryCode": "pt",
-     "name": "Lisbon"
-    }
-   },
-   "departureDate": "2026-12-05T20:40:00",
-   "arrivalDate": "2026-12-05T22:30:00",
-   "price": {
-    "value": 32.99,
-    "valueMainUnit": "32",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 386~ ~~FNC~12/05/2026 20:40~LIS~12/05/2026 22:30~~",
-   "flightNumber": "FR386",
-   "previousPrice": null,
-   "priceUpdated": 1791800487000
-  },
-  "summary": {
-   "price": {
-    "value": 32.99,
-    "valueMainUnit": "32",
-    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -526,8 +476,8 @@
    "departureDate": "2026-12-10T08:40:00",
    "arrivalDate": "2026-12-10T10:30:00",
    "price": {
-    "value": 33.99,
-    "valueMainUnit": "33",
+    "value": 32.99,
+    "valueMainUnit": "32",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -535,12 +485,12 @@
    "flightKey": "FR~  89~ ~~FNC~12/10/2026 08:40~LIS~12/10/2026 10:30~~",
    "flightNumber": "FR89",
    "previousPrice": null,
-   "priceUpdated": 1791800485000
+   "priceUpdated": 1792419304000
   },
   "summary": {
    "price": {
-    "value": 33.99,
-    "valueMainUnit": "33",
+    "value": 32.99,
+    "valueMainUnit": "32",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -573,25 +523,175 @@
      "name": "Porto"
     }
    },
-   "departureDate": "2026-12-05T12:50:00",
-   "arrivalDate": "2026-12-05T14:55:00",
+   "departureDate": "2026-12-04T14:55:00",
+   "arrivalDate": "2026-12-04T17:00:00",
    "price": {
-    "value": 35.35,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "35",
+    "value": 34.51,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "51",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 365~ ~~FNC~12/05/2026 12:50~OPO~12/05/2026 14:55~~",
+   "flightKey": "FR~ 365~ ~~FNC~12/04/2026 14:55~OPO~12/04/2026 17:00~~",
    "flightNumber": "FR365",
    "previousPrice": null,
-   "priceUpdated": 1791800485000
+   "priceUpdated": 1792441952000
   },
   "summary": {
    "price": {
-    "value": 35.35,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "35",
+    "value": 34.51,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "51",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Portugal",
+    "iataCode": "FNC",
+    "name": "Madeira Funchal",
+    "seoName": "funchal",
+    "city": {
+     "code": "FUNCHAL",
+     "countryCode": "pt",
+     "name": "Funchal"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
+    "city": {
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
+    }
+   },
+   "departureDate": "2026-12-07T14:55:00",
+   "arrivalDate": "2026-12-07T19:40:00",
+   "price": {
+    "value": 36.99,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 397~ ~~FNC~12/07/2026 14:55~CRL~12/07/2026 19:40~~",
+   "flightNumber": "FR397",
+   "previousPrice": null,
+   "priceUpdated": 1792440525000
+  },
+  "summary": {
+   "price": {
+    "value": 36.99,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Portugal",
+    "iataCode": "FNC",
+    "name": "Madeira Funchal",
+    "seoName": "funchal",
+    "city": {
+     "code": "FUNCHAL",
+     "countryCode": "pt",
+     "name": "Funchal"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "OPO",
+    "name": "Porto",
+    "seoName": "porto",
+    "city": {
+     "code": "PORTO",
+     "countryCode": "pt",
+     "name": "Porto"
+    }
+   },
+   "departureDate": "2026-12-06T06:35:00",
+   "arrivalDate": "2026-12-06T08:40:00",
+   "price": {
+    "value": 37.03,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "03",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 365~ ~~FNC~12/06/2026 06:35~OPO~12/06/2026 08:40~~",
+   "flightNumber": "FR365",
+   "previousPrice": null,
+   "priceUpdated": 1792440335000
+  },
+  "summary": {
+   "price": {
+    "value": 37.03,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "03",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Portugal",
+    "iataCode": "FNC",
+    "name": "Madeira Funchal",
+    "seoName": "funchal",
+    "city": {
+     "code": "FUNCHAL",
+     "countryCode": "pt",
+     "name": "Funchal"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "OPO",
+    "name": "Porto",
+    "seoName": "porto",
+    "city": {
+     "code": "PORTO",
+     "countryCode": "pt",
+     "name": "Porto"
+    }
+   },
+   "departureDate": "2026-12-09T15:15:00",
+   "arrivalDate": "2026-12-09T17:20:00",
+   "price": {
+    "value": 40.88,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "88",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 365~ ~~FNC~12/09/2026 15:15~OPO~12/09/2026 17:20~~",
+   "flightNumber": "FR365",
+   "previousPrice": null,
+   "priceUpdated": 1792419890000
+  },
+  "summary": {
+   "price": {
+    "value": 40.88,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "88",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -626,8 +726,8 @@
    "departureDate": "2026-12-05T06:45:00",
    "arrivalDate": "2026-12-05T10:25:00",
    "price": {
-    "value": 41.99,
-    "valueMainUnit": "41",
+    "value": 40.99,
+    "valueMainUnit": "40",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -635,12 +735,62 @@
    "flightKey": "FR~ 363~ ~~FNC~12/05/2026 06:45~DUB~12/05/2026 10:25~~",
    "flightNumber": "FR363",
    "previousPrice": null,
-   "priceUpdated": 1791800139000
+   "priceUpdated": 1792439415000
   },
   "summary": {
    "price": {
-    "value": 41.99,
-    "valueMainUnit": "41",
+    "value": 40.99,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Portugal",
+    "iataCode": "FNC",
+    "name": "Madeira Funchal",
+    "seoName": "funchal",
+    "city": {
+     "code": "FUNCHAL",
+     "countryCode": "pt",
+     "name": "Funchal"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "OPO",
+    "name": "Porto",
+    "seoName": "porto",
+    "city": {
+     "code": "PORTO",
+     "countryCode": "pt",
+     "name": "Porto"
+    }
+   },
+   "departureDate": "2026-12-07T13:55:00",
+   "arrivalDate": "2026-12-07T16:00:00",
+   "price": {
+    "value": 42.99,
+    "valueMainUnit": "42",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6050~ ~~FNC~12/07/2026 13:55~OPO~12/07/2026 16:00~~",
+   "flightNumber": "FR6050",
+   "previousPrice": null,
+   "priceUpdated": 1792440610000
+  },
+  "summary": {
+   "price": {
+    "value": 42.99,
+    "valueMainUnit": "42",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -676,122 +826,22 @@
    "departureDate": "2026-12-09T12:05:00",
    "arrivalDate": "2026-12-09T13:55:00",
    "price": {
-    "value": 42.8,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "80",
+    "value": 48.09,
+    "valueMainUnit": "48",
+    "valueFractionalUnit": "09",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~  89~ ~~FNC~12/09/2026 12:05~LIS~12/09/2026 13:55~~",
    "flightNumber": "FR89",
    "previousPrice": null,
-   "priceUpdated": 1791800488000
+   "priceUpdated": 1792405459000
   },
   "summary": {
    "price": {
-    "value": 42.8,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "80",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Portugal",
-    "iataCode": "FNC",
-    "name": "Madeira Funchal",
-    "seoName": "funchal",
-    "city": {
-     "code": "FUNCHAL",
-     "countryCode": "pt",
-     "name": "Funchal"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Portugal",
-    "iataCode": "OPO",
-    "name": "Porto",
-    "seoName": "porto",
-    "city": {
-     "code": "PORTO",
-     "countryCode": "pt",
-     "name": "Porto"
-    }
-   },
-   "departureDate": "2026-12-07T21:20:00",
-   "arrivalDate": "2026-12-07T23:25:00",
-   "price": {
-    "value": 42.8,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "80",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 365~ ~~FNC~12/07/2026 21:20~OPO~12/07/2026 23:25~~",
-   "flightNumber": "FR365",
-   "previousPrice": null,
-   "priceUpdated": 1791800484000
-  },
-  "summary": {
-   "price": {
-    "value": 42.8,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "80",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Portugal",
-    "iataCode": "FNC",
-    "name": "Madeira Funchal",
-    "seoName": "funchal",
-    "city": {
-     "code": "FUNCHAL",
-     "countryCode": "pt",
-     "name": "Funchal"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
-    "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
-    }
-   },
-   "departureDate": "2026-12-07T14:55:00",
-   "arrivalDate": "2026-12-07T19:40:00",
-   "price": {
-    "value": 44.99,
-    "valueMainUnit": "44",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 397~ ~~FNC~12/07/2026 14:55~CRL~12/07/2026 19:40~~",
-   "flightNumber": "FR397",
-   "previousPrice": null,
-   "priceUpdated": 1791800488000
-  },
-  "summary": {
-   "price": {
-    "value": 44.99,
-    "valueMainUnit": "44",
-    "valueFractionalUnit": "99",
+    "value": 48.09,
+    "valueMainUnit": "48",
+    "valueFractionalUnit": "09",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -826,22 +876,22 @@
    "departureDate": "2026-12-11T06:00:00",
    "arrivalDate": "2026-12-11T10:45:00",
    "price": {
-    "value": 47.89,
-    "valueMainUnit": "47",
-    "valueFractionalUnit": "89",
+    "value": 48.47,
+    "valueMainUnit": "48",
+    "valueFractionalUnit": "47",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~ 397~ ~~FNC~12/11/2026 06:00~CRL~12/11/2026 10:45~~",
    "flightNumber": "FR397",
    "previousPrice": null,
-   "priceUpdated": 1791800485000
+   "priceUpdated": 1792435392000
   },
   "summary": {
    "price": {
-    "value": 47.89,
-    "valueMainUnit": "47",
-    "valueFractionalUnit": "89",
+    "value": 48.47,
+    "valueMainUnit": "48",
+    "valueFractionalUnit": "47",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -876,72 +926,22 @@
    "departureDate": "2026-12-04T06:00:00",
    "arrivalDate": "2026-12-04T10:45:00",
    "price": {
-    "value": 55.69,
-    "valueMainUnit": "55",
-    "valueFractionalUnit": "69",
+    "value": 53.41,
+    "valueMainUnit": "53",
+    "valueFractionalUnit": "41",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~ 397~ ~~FNC~12/04/2026 06:00~CRL~12/04/2026 10:45~~",
    "flightNumber": "FR397",
    "previousPrice": null,
-   "priceUpdated": 1791800484000
+   "priceUpdated": 1792438880000
   },
   "summary": {
    "price": {
-    "value": 55.69,
-    "valueMainUnit": "55",
-    "valueFractionalUnit": "69",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Portugal",
-    "iataCode": "FNC",
-    "name": "Madeira Funchal",
-    "seoName": "funchal",
-    "city": {
-     "code": "FUNCHAL",
-     "countryCode": "pt",
-     "name": "Funchal"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Portugal",
-    "iataCode": "OPO",
-    "name": "Porto",
-    "seoName": "porto",
-    "city": {
-     "code": "PORTO",
-     "countryCode": "pt",
-     "name": "Porto"
-    }
-   },
-   "departureDate": "2026-12-09T15:15:00",
-   "arrivalDate": "2026-12-09T17:20:00",
-   "price": {
-    "value": 56.37,
-    "valueMainUnit": "56",
-    "valueFractionalUnit": "37",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 365~ ~~FNC~12/09/2026 15:15~OPO~12/09/2026 17:20~~",
-   "flightNumber": "FR365",
-   "previousPrice": null,
-   "priceUpdated": 1791800485000
-  },
-  "summary": {
-   "price": {
-    "value": 56.37,
-    "valueMainUnit": "56",
-    "valueFractionalUnit": "37",
+    "value": 53.41,
+    "valueMainUnit": "53",
+    "valueFractionalUnit": "41",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -977,8 +977,8 @@
    "departureDate": "2026-12-10T14:00:00",
    "arrivalDate": "2026-12-10T18:40:00",
    "price": {
-    "value": 58.99,
-    "valueMainUnit": "58",
+    "value": 54.99,
+    "valueMainUnit": "54",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -986,12 +986,12 @@
    "flightKey": "FR~6671~ ~~FNC~12/10/2026 14:00~MXP~12/10/2026 18:40~~",
    "flightNumber": "FR6671",
    "previousPrice": null,
-   "priceUpdated": 1791800484000
+   "priceUpdated": 1792419867000
   },
   "summary": {
    "price": {
-    "value": 58.99,
-    "valueMainUnit": "58",
+    "value": 54.99,
+    "valueMainUnit": "54",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1027,8 +1027,8 @@
    "departureDate": "2026-12-08T06:40:00",
    "arrivalDate": "2026-12-08T08:30:00",
    "price": {
-    "value": 61.99,
-    "valueMainUnit": "61",
+    "value": 76.99,
+    "valueMainUnit": "76",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1036,12 +1036,12 @@
    "flightKey": "FR~  89~ ~~FNC~12/08/2026 06:40~LIS~12/08/2026 08:30~~",
    "flightNumber": "FR89",
    "previousPrice": null,
-   "priceUpdated": 1791800483000
+   "priceUpdated": 1792422073000
   },
   "summary": {
    "price": {
-    "value": 61.99,
-    "valueMainUnit": "61",
+    "value": 76.99,
+    "valueMainUnit": "76",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1077,8 +1077,8 @@
    "departureDate": "2026-12-08T13:15:00",
    "arrivalDate": "2026-12-08T15:20:00",
    "price": {
-    "value": 111.19,
-    "valueMainUnit": "111",
+    "value": 130.19,
+    "valueMainUnit": "130",
     "valueFractionalUnit": "19",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1086,12 +1086,12 @@
    "flightKey": "FR~ 365~ ~~FNC~12/08/2026 13:15~OPO~12/08/2026 15:20~~",
    "flightNumber": "FR365",
    "previousPrice": null,
-   "priceUpdated": 1791800487000
+   "priceUpdated": 1792405457000
   },
   "summary": {
    "price": {
-    "value": 111.19,
-    "valueMainUnit": "111",
+    "value": 130.19,
+    "valueMainUnit": "130",
     "valueFractionalUnit": "19",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1128,8 +1128,8 @@
    "departureDate": "2026-12-08T12:40:00",
    "arrivalDate": "2026-12-08T17:20:00",
    "price": {
-    "value": 217.99,
-    "valueMainUnit": "217",
+    "value": 210.99,
+    "valueMainUnit": "210",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1137,12 +1137,12 @@
    "flightKey": "FR~6671~ ~~FNC~12/08/2026 12:40~MXP~12/08/2026 17:20~~",
    "flightNumber": "FR6671",
    "previousPrice": null,
-   "priceUpdated": 1791803365000
+   "priceUpdated": 1792436779000
   },
   "summary": {
    "price": {
-    "value": 217.99,
-    "valueMainUnit": "217",
+    "value": 210.99,
+    "valueMainUnit": "210",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1165,34 +1165,34 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
+    "countryName": "Portugal",
+    "iataCode": "LIS",
+    "name": "Lisbon",
+    "seoName": "lisbon",
     "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
+     "code": "LISBON",
+     "countryCode": "pt",
+     "name": "Lisbon"
     }
    },
-   "departureDate": "2026-12-14T06:20:00",
-   "arrivalDate": "2026-12-14T10:00:00",
+   "departureDate": "2026-12-18T13:15:00",
+   "arrivalDate": "2026-12-18T15:05:00",
    "price": {
-    "value": 17.99,
-    "valueMainUnit": "17",
+    "value": 19.99,
+    "valueMainUnit": "19",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 363~ ~~FNC~12/14/2026 06:20~DUB~12/14/2026 10:00~~",
-   "flightNumber": "FR363",
+   "flightKey": "FR~ 384~ ~~FNC~12/18/2026 13:15~LIS~12/18/2026 15:05~~",
+   "flightNumber": "FR384",
    "previousPrice": null,
-   "priceUpdated": 1791800484000
+   "priceUpdated": 1792434035000
   },
   "summary": {
    "price": {
-    "value": 17.99,
-    "valueMainUnit": "17",
+    "value": 19.99,
+    "valueMainUnit": "19",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1237,7 +1237,7 @@
    "flightKey": "FR~  89~ ~~FNC~12/19/2026 08:40~LIS~12/19/2026 10:30~~",
    "flightNumber": "FR89",
    "previousPrice": null,
-   "priceUpdated": 1791801756000
+   "priceUpdated": 1792419491000
   },
   "summary": {
    "price": {
@@ -1287,7 +1287,7 @@
    "flightKey": "FR~6050~ ~~FNC~12/19/2026 20:40~OPO~12/19/2026 22:45~~",
    "flightNumber": "FR6050",
    "previousPrice": null,
-   "priceUpdated": 1791801707000
+   "priceUpdated": 1792419497000
   },
   "summary": {
    "price": {
@@ -1315,35 +1315,85 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Portugal",
-    "iataCode": "OPO",
-    "name": "Porto",
-    "seoName": "porto",
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
     "city": {
-     "code": "PORTO",
-     "countryCode": "pt",
-     "name": "Porto"
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
     }
    },
-   "departureDate": "2026-12-14T21:20:00",
-   "arrivalDate": "2026-12-14T23:25:00",
+   "departureDate": "2026-12-14T06:20:00",
+   "arrivalDate": "2026-12-14T10:00:00",
    "price": {
-    "value": 23.58,
-    "valueMainUnit": "23",
-    "valueFractionalUnit": "58",
+    "value": 20.99,
+    "valueMainUnit": "20",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 365~ ~~FNC~12/14/2026 21:20~OPO~12/14/2026 23:25~~",
-   "flightNumber": "FR365",
+   "flightKey": "FR~ 363~ ~~FNC~12/14/2026 06:20~DUB~12/14/2026 10:00~~",
+   "flightNumber": "FR363",
    "previousPrice": null,
-   "priceUpdated": 1791800484000
+   "priceUpdated": 1792434006000
   },
   "summary": {
    "price": {
-    "value": 23.58,
-    "valueMainUnit": "23",
-    "valueFractionalUnit": "58",
+    "value": 20.99,
+    "valueMainUnit": "20",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Portugal",
+    "iataCode": "FNC",
+    "name": "Madeira Funchal",
+    "seoName": "funchal",
+    "city": {
+     "code": "FUNCHAL",
+     "countryCode": "pt",
+     "name": "Funchal"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-19T06:45:00",
+   "arrivalDate": "2026-12-19T10:25:00",
+   "price": {
+    "value": 22.99,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 363~ ~~FNC~12/19/2026 06:45~DUB~12/19/2026 10:25~~",
+   "flightNumber": "FR363",
+   "previousPrice": null,
+   "priceUpdated": 1792434009000
+  },
+  "summary": {
+   "price": {
+    "value": 22.99,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1387,7 +1437,7 @@
    "flightKey": "FR~ 365~ ~~FNC~12/16/2026 15:15~OPO~12/16/2026 17:20~~",
    "flightNumber": "FR365",
    "previousPrice": null,
-   "priceUpdated": 1791800484000
+   "priceUpdated": 1792433999000
   },
   "summary": {
    "price": {
@@ -1437,7 +1487,7 @@
    "flightKey": "FR~ 365~ ~~FNC~12/17/2026 21:10~OPO~12/17/2026 23:15~~",
    "flightNumber": "FR365",
    "previousPrice": null,
-   "priceUpdated": 1791800487000
+   "priceUpdated": 1792434006000
   },
   "summary": {
    "price": {
@@ -1475,75 +1525,25 @@
      "name": "Lisbon"
     }
    },
-   "departureDate": "2026-12-18T13:15:00",
-   "arrivalDate": "2026-12-18T15:05:00",
+   "departureDate": "2026-12-14T08:30:00",
+   "arrivalDate": "2026-12-14T10:20:00",
    "price": {
-    "value": 24.99,
-    "valueMainUnit": "24",
-    "valueFractionalUnit": "99",
+    "value": 26.41,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "41",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 384~ ~~FNC~12/18/2026 13:15~LIS~12/18/2026 15:05~~",
+   "flightKey": "FR~ 384~ ~~FNC~12/14/2026 08:30~LIS~12/14/2026 10:20~~",
    "flightNumber": "FR384",
    "previousPrice": null,
-   "priceUpdated": 1791801754000
+   "priceUpdated": 1792434236000
   },
   "summary": {
    "price": {
-    "value": 24.99,
-    "valueMainUnit": "24",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Portugal",
-    "iataCode": "FNC",
-    "name": "Madeira Funchal",
-    "seoName": "funchal",
-    "city": {
-     "code": "FUNCHAL",
-     "countryCode": "pt",
-     "name": "Funchal"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Portugal",
-    "iataCode": "LIS",
-    "name": "Lisbon",
-    "seoName": "lisbon",
-    "city": {
-     "code": "LISBON",
-     "countryCode": "pt",
-     "name": "Lisbon"
-    }
-   },
-   "departureDate": "2026-12-12T20:40:00",
-   "arrivalDate": "2026-12-12T22:30:00",
-   "price": {
-    "value": 25.99,
-    "valueMainUnit": "25",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 386~ ~~FNC~12/12/2026 20:40~LIS~12/12/2026 22:30~~",
-   "flightNumber": "FR386",
-   "previousPrice": null,
-   "priceUpdated": 1791800484000
-  },
-  "summary": {
-   "price": {
-    "value": 25.99,
-    "valueMainUnit": "25",
-    "valueFractionalUnit": "99",
+    "value": 26.41,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "41",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1578,22 +1578,72 @@
    "departureDate": "2026-12-15T06:40:00",
    "arrivalDate": "2026-12-15T08:30:00",
    "price": {
-    "value": 27.34,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "34",
+    "value": 26.41,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "41",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~  89~ ~~FNC~12/15/2026 06:40~LIS~12/15/2026 08:30~~",
    "flightNumber": "FR89",
    "previousPrice": null,
-   "priceUpdated": 1791800486000
+   "priceUpdated": 1792434001000
   },
   "summary": {
    "price": {
-    "value": 27.34,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "34",
+    "value": 26.41,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "41",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Portugal",
+    "iataCode": "FNC",
+    "name": "Madeira Funchal",
+    "seoName": "funchal",
+    "city": {
+     "code": "FUNCHAL",
+     "countryCode": "pt",
+     "name": "Funchal"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "LIS",
+    "name": "Lisbon",
+    "seoName": "lisbon",
+    "city": {
+     "code": "LISBON",
+     "countryCode": "pt",
+     "name": "Lisbon"
+    }
+   },
+   "departureDate": "2026-12-16T12:05:00",
+   "arrivalDate": "2026-12-16T13:55:00",
+   "price": {
+    "value": 26.41,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "41",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~  89~ ~~FNC~12/16/2026 12:05~LIS~12/16/2026 13:55~~",
+   "flightNumber": "FR89",
+   "previousPrice": null,
+   "priceUpdated": 1792434056000
+  },
+  "summary": {
+   "price": {
+    "value": 26.41,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "41",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1628,8 +1678,8 @@
    "departureDate": "2026-12-12T06:45:00",
    "arrivalDate": "2026-12-12T10:25:00",
    "price": {
-    "value": 27.99,
-    "valueMainUnit": "27",
+    "value": 26.99,
+    "valueMainUnit": "26",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1637,12 +1687,12 @@
    "flightKey": "FR~ 363~ ~~FNC~12/12/2026 06:45~DUB~12/12/2026 10:25~~",
    "flightNumber": "FR363",
    "previousPrice": null,
-   "priceUpdated": 1791800485000
+   "priceUpdated": 1792438587000
   },
   "summary": {
    "price": {
-    "value": 27.99,
-    "valueMainUnit": "27",
+    "value": 26.99,
+    "valueMainUnit": "26",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1678,8 +1728,8 @@
    "departureDate": "2026-12-13T06:35:00",
    "arrivalDate": "2026-12-13T08:40:00",
    "price": {
-    "value": 27.99,
-    "valueMainUnit": "27",
+    "value": 28.99,
+    "valueMainUnit": "28",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1687,315 +1737,13 @@
    "flightKey": "FR~ 365~ ~~FNC~12/13/2026 06:35~OPO~12/13/2026 08:40~~",
    "flightNumber": "FR365",
    "previousPrice": null,
-   "priceUpdated": 1791800484000
+   "priceUpdated": 1792436820000
   },
   "summary": {
    "price": {
-    "value": 27.99,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Portugal",
-    "iataCode": "FNC",
-    "name": "Madeira Funchal",
-    "seoName": "funchal",
-    "city": {
-     "code": "FUNCHAL",
-     "countryCode": "pt",
-     "name": "Funchal"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Portugal",
-    "iataCode": "LIS",
-    "name": "Lisbon",
-    "seoName": "lisbon",
-    "city": {
-     "code": "LISBON",
-     "countryCode": "pt",
-     "name": "Lisbon"
-    }
-   },
-   "departureDate": "2026-12-14T08:30:00",
-   "arrivalDate": "2026-12-14T10:20:00",
-   "price": {
-    "value": 28.0,
+    "value": 28.99,
     "valueMainUnit": "28",
-    "valueFractionalUnit": "00",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 384~ ~~FNC~12/14/2026 08:30~LIS~12/14/2026 10:20~~",
-   "flightNumber": "FR384",
-   "previousPrice": null,
-   "priceUpdated": 1791800485000
-  },
-  "summary": {
-   "price": {
-    "value": 28.0,
-    "valueMainUnit": "28",
-    "valueFractionalUnit": "00",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Portugal",
-    "iataCode": "FNC",
-    "name": "Madeira Funchal",
-    "seoName": "funchal",
-    "city": {
-     "code": "FUNCHAL",
-     "countryCode": "pt",
-     "name": "Funchal"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Portugal",
-    "iataCode": "LIS",
-    "name": "Lisbon",
-    "seoName": "lisbon",
-    "city": {
-     "code": "LISBON",
-     "countryCode": "pt",
-     "name": "Lisbon"
-    }
-   },
-   "departureDate": "2026-12-17T08:40:00",
-   "arrivalDate": "2026-12-17T10:30:00",
-   "price": {
-    "value": 28.27,
-    "valueMainUnit": "28",
-    "valueFractionalUnit": "27",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~  89~ ~~FNC~12/17/2026 08:40~LIS~12/17/2026 10:30~~",
-   "flightNumber": "FR89",
-   "previousPrice": null,
-   "priceUpdated": 1791800483000
-  },
-  "summary": {
-   "price": {
-    "value": 28.27,
-    "valueMainUnit": "28",
-    "valueFractionalUnit": "27",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Portugal",
-    "iataCode": "FNC",
-    "name": "Madeira Funchal",
-    "seoName": "funchal",
-    "city": {
-     "code": "FUNCHAL",
-     "countryCode": "pt",
-     "name": "Funchal"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Portugal",
-    "iataCode": "LIS",
-    "name": "Lisbon",
-    "seoName": "lisbon",
-    "city": {
-     "code": "LISBON",
-     "countryCode": "pt",
-     "name": "Lisbon"
-    }
-   },
-   "departureDate": "2026-12-13T08:55:00",
-   "arrivalDate": "2026-12-13T10:45:00",
-   "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
     "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~  89~ ~~FNC~12/13/2026 08:55~LIS~12/13/2026 10:45~~",
-   "flightNumber": "FR89",
-   "previousPrice": null,
-   "priceUpdated": 1791800488000
-  },
-  "summary": {
-   "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Portugal",
-    "iataCode": "FNC",
-    "name": "Madeira Funchal",
-    "seoName": "funchal",
-    "city": {
-     "code": "FUNCHAL",
-     "countryCode": "pt",
-     "name": "Funchal"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "MXP",
-    "name": "Milan Malpensa",
-    "seoName": "milan-malpensa",
-    "city": {
-     "code": "MILAN",
-     "countryCode": "it",
-     "macCode": "MIL",
-     "name": "Milan"
-    }
-   },
-   "departureDate": "2026-12-15T12:40:00",
-   "arrivalDate": "2026-12-15T17:20:00",
-   "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6671~ ~~FNC~12/15/2026 12:40~MXP~12/15/2026 17:20~~",
-   "flightNumber": "FR6671",
-   "previousPrice": null,
-   "priceUpdated": 1791800484000
-  },
-  "summary": {
-   "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Portugal",
-    "iataCode": "FNC",
-    "name": "Madeira Funchal",
-    "seoName": "funchal",
-    "city": {
-     "code": "FUNCHAL",
-     "countryCode": "pt",
-     "name": "Funchal"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "MXP",
-    "name": "Milan Malpensa",
-    "seoName": "milan-malpensa",
-    "city": {
-     "code": "MILAN",
-     "countryCode": "it",
-     "macCode": "MIL",
-     "name": "Milan"
-    }
-   },
-   "departureDate": "2026-12-17T14:00:00",
-   "arrivalDate": "2026-12-17T18:40:00",
-   "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6671~ ~~FNC~12/17/2026 14:00~MXP~12/17/2026 18:40~~",
-   "flightNumber": "FR6671",
-   "previousPrice": null,
-   "priceUpdated": 1791800485000
-  },
-  "summary": {
-   "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Portugal",
-    "iataCode": "FNC",
-    "name": "Madeira Funchal",
-    "seoName": "funchal",
-    "city": {
-     "code": "FUNCHAL",
-     "countryCode": "pt",
-     "name": "Funchal"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Portugal",
-    "iataCode": "LIS",
-    "name": "Lisbon",
-    "seoName": "lisbon",
-    "city": {
-     "code": "LISBON",
-     "countryCode": "pt",
-     "name": "Lisbon"
-    }
-   },
-   "departureDate": "2026-12-16T12:05:00",
-   "arrivalDate": "2026-12-16T13:55:00",
-   "price": {
-    "value": 30.87,
-    "valueMainUnit": "30",
-    "valueFractionalUnit": "87",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~  89~ ~~FNC~12/16/2026 12:05~LIS~12/16/2026 13:55~~",
-   "flightNumber": "FR89",
-   "previousPrice": null,
-   "priceUpdated": 1791800488000
-  },
-  "summary": {
-   "price": {
-    "value": 30.87,
-    "valueMainUnit": "30",
-    "valueFractionalUnit": "87",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2030,22 +1778,22 @@
    "departureDate": "2026-12-18T14:55:00",
    "arrivalDate": "2026-12-18T17:00:00",
    "price": {
-    "value": 31.44,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "44",
+    "value": 29.19,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "19",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~ 365~ ~~FNC~12/18/2026 14:55~OPO~12/18/2026 17:00~~",
    "flightNumber": "FR365",
    "previousPrice": null,
-   "priceUpdated": 1791800484000
+   "priceUpdated": 1792434011000
   },
   "summary": {
    "price": {
-    "value": 31.44,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "44",
+    "value": 29.19,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "19",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2067,34 +1815,184 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
+    "countryName": "Portugal",
+    "iataCode": "LIS",
+    "name": "Lisbon",
+    "seoName": "lisbon",
     "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
+     "code": "LISBON",
+     "countryCode": "pt",
+     "name": "Lisbon"
     }
    },
-   "departureDate": "2026-12-19T06:45:00",
-   "arrivalDate": "2026-12-19T10:25:00",
+   "departureDate": "2026-12-17T08:40:00",
+   "arrivalDate": "2026-12-17T10:30:00",
    "price": {
-    "value": 31.99,
-    "valueMainUnit": "31",
+    "value": 29.2,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "20",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~  89~ ~~FNC~12/17/2026 08:40~LIS~12/17/2026 10:30~~",
+   "flightNumber": "FR89",
+   "previousPrice": null,
+   "priceUpdated": 1792436968000
+  },
+  "summary": {
+   "price": {
+    "value": 29.2,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "20",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Portugal",
+    "iataCode": "FNC",
+    "name": "Madeira Funchal",
+    "seoName": "funchal",
+    "city": {
+     "code": "FUNCHAL",
+     "countryCode": "pt",
+     "name": "Funchal"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "OPO",
+    "name": "Porto",
+    "seoName": "porto",
+    "city": {
+     "code": "PORTO",
+     "countryCode": "pt",
+     "name": "Porto"
+    }
+   },
+   "departureDate": "2026-12-14T13:55:00",
+   "arrivalDate": "2026-12-14T16:00:00",
+   "price": {
+    "value": 29.99,
+    "valueMainUnit": "29",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 363~ ~~FNC~12/19/2026 06:45~DUB~12/19/2026 10:25~~",
-   "flightNumber": "FR363",
+   "flightKey": "FR~6050~ ~~FNC~12/14/2026 13:55~OPO~12/14/2026 16:00~~",
+   "flightNumber": "FR6050",
    "previousPrice": null,
-   "priceUpdated": 1791802287000
+   "priceUpdated": 1792419396000
   },
   "summary": {
    "price": {
-    "value": 31.99,
-    "valueMainUnit": "31",
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Portugal",
+    "iataCode": "FNC",
+    "name": "Madeira Funchal",
+    "seoName": "funchal",
+    "city": {
+     "code": "FUNCHAL",
+     "countryCode": "pt",
+     "name": "Funchal"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "LIS",
+    "name": "Lisbon",
+    "seoName": "lisbon",
+    "city": {
+     "code": "LISBON",
+     "countryCode": "pt",
+     "name": "Lisbon"
+    }
+   },
+   "departureDate": "2026-12-12T20:40:00",
+   "arrivalDate": "2026-12-12T22:30:00",
+   "price": {
+    "value": 30.99,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 386~ ~~FNC~12/12/2026 20:40~LIS~12/12/2026 22:30~~",
+   "flightNumber": "FR386",
+   "previousPrice": null,
+   "priceUpdated": 1792436796000
+  },
+  "summary": {
+   "price": {
+    "value": 30.99,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Portugal",
+    "iataCode": "FNC",
+    "name": "Madeira Funchal",
+    "seoName": "funchal",
+    "city": {
+     "code": "FUNCHAL",
+     "countryCode": "pt",
+     "name": "Funchal"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "LIS",
+    "name": "Lisbon",
+    "seoName": "lisbon",
+    "city": {
+     "code": "LISBON",
+     "countryCode": "pt",
+     "name": "Lisbon"
+    }
+   },
+   "departureDate": "2026-12-13T08:55:00",
+   "arrivalDate": "2026-12-13T10:45:00",
+   "price": {
+    "value": 30.99,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~  89~ ~~FNC~12/13/2026 08:55~LIS~12/13/2026 10:45~~",
+   "flightNumber": "FR89",
+   "previousPrice": null,
+   "priceUpdated": 1792436798000
+  },
+  "summary": {
+   "price": {
+    "value": 30.99,
+    "valueMainUnit": "30",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2127,25 +2025,25 @@
      "name": "Porto"
     }
    },
-   "departureDate": "2026-12-12T20:40:00",
-   "arrivalDate": "2026-12-12T22:45:00",
+   "departureDate": "2026-12-12T12:50:00",
+   "arrivalDate": "2026-12-12T14:55:00",
    "price": {
-    "value": 35.51,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "51",
+    "value": 30.99,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6050~ ~~FNC~12/12/2026 20:40~OPO~12/12/2026 22:45~~",
-   "flightNumber": "FR6050",
+   "flightKey": "FR~ 365~ ~~FNC~12/12/2026 12:50~OPO~12/12/2026 14:55~~",
+   "flightNumber": "FR365",
    "previousPrice": null,
-   "priceUpdated": 1791800484000
+   "priceUpdated": 1792436833000
   },
   "summary": {
    "price": {
-    "value": 35.51,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "51",
+    "value": 30.99,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2180,8 +2078,8 @@
    "departureDate": "2026-12-15T13:15:00",
    "arrivalDate": "2026-12-15T15:20:00",
    "price": {
-    "value": 35.99,
-    "valueMainUnit": "35",
+    "value": 31.99,
+    "valueMainUnit": "31",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2189,12 +2087,12 @@
    "flightKey": "FR~ 365~ ~~FNC~12/15/2026 13:15~OPO~12/15/2026 15:20~~",
    "flightNumber": "FR365",
    "previousPrice": null,
-   "priceUpdated": 1791800484000
+   "priceUpdated": 1792419404000
   },
   "summary": {
    "price": {
-    "value": 35.99,
-    "valueMainUnit": "35",
+    "value": 31.99,
+    "valueMainUnit": "31",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2230,27 +2128,78 @@
    "departureDate": "2026-12-18T06:00:00",
    "arrivalDate": "2026-12-18T10:45:00",
    "price": {
-    "value": 41.04,
-    "valueMainUnit": "41",
-    "valueFractionalUnit": "04",
+    "value": 33.89,
+    "valueMainUnit": "33",
+    "valueFractionalUnit": "89",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~ 397~ ~~FNC~12/18/2026 06:00~CRL~12/18/2026 10:45~~",
    "flightNumber": "FR397",
    "previousPrice": null,
-   "priceUpdated": 1791800484000
+   "priceUpdated": 1792434008000
   },
   "summary": {
    "price": {
-    "value": 41.04,
-    "valueMainUnit": "41",
-    "valueFractionalUnit": "04",
+    "value": 33.89,
+    "valueMainUnit": "33",
+    "valueFractionalUnit": "89",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Portugal",
+    "iataCode": "FNC",
+    "name": "Madeira Funchal",
+    "seoName": "funchal",
+    "city": {
+     "code": "FUNCHAL",
+     "countryCode": "pt",
+     "name": "Funchal"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "MXP",
+    "name": "Milan Malpensa",
+    "seoName": "milan-malpensa",
+    "city": {
+     "code": "MILAN",
+     "countryCode": "it",
+     "macCode": "MIL",
+     "name": "Milan"
+    }
+   },
+   "departureDate": "2026-12-15T12:40:00",
+   "arrivalDate": "2026-12-15T17:20:00",
+   "price": {
+    "value": 44.03,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "03",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6671~ ~~FNC~12/15/2026 12:40~MXP~12/15/2026 17:20~~",
+   "flightNumber": "FR6671",
+   "previousPrice": null,
+   "priceUpdated": 1792405350000
+  },
+  "summary": {
+   "price": {
+    "value": 44.03,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "03",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
   }
  },
  {
@@ -2280,27 +2229,78 @@
    "departureDate": "2026-12-14T14:55:00",
    "arrivalDate": "2026-12-14T19:40:00",
    "price": {
-    "value": 41.69,
-    "valueMainUnit": "41",
-    "valueFractionalUnit": "69",
+    "value": 48.47,
+    "valueMainUnit": "48",
+    "valueFractionalUnit": "47",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~ 397~ ~~FNC~12/14/2026 14:55~CRL~12/14/2026 19:40~~",
    "flightNumber": "FR397",
    "previousPrice": null,
-   "priceUpdated": 1791801388000
+   "priceUpdated": 1792405352000
   },
   "summary": {
    "price": {
-    "value": 41.69,
-    "valueMainUnit": "41",
-    "valueFractionalUnit": "69",
+    "value": 48.47,
+    "valueMainUnit": "48",
+    "valueFractionalUnit": "47",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Portugal",
+    "iataCode": "FNC",
+    "name": "Madeira Funchal",
+    "seoName": "funchal",
+    "city": {
+     "code": "FUNCHAL",
+     "countryCode": "pt",
+     "name": "Funchal"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "MXP",
+    "name": "Milan Malpensa",
+    "seoName": "milan-malpensa",
+    "city": {
+     "code": "MILAN",
+     "countryCode": "it",
+     "macCode": "MIL",
+     "name": "Milan"
+    }
+   },
+   "departureDate": "2026-12-17T14:00:00",
+   "arrivalDate": "2026-12-17T18:40:00",
+   "price": {
+    "value": 51.76,
+    "valueMainUnit": "51",
+    "valueFractionalUnit": "76",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6671~ ~~FNC~12/17/2026 14:00~MXP~12/17/2026 18:40~~",
+   "flightNumber": "FR6671",
+   "previousPrice": null,
+   "priceUpdated": 1792437075000
+  },
+  "summary": {
+   "price": {
+    "value": 51.76,
+    "valueMainUnit": "51",
+    "valueFractionalUnit": "76",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
   }
  }
 ]

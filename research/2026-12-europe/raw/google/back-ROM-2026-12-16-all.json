@@ -1,7 +1,8 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTZqBRIDUk9NcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T11:26:20",
+ "fetchedAt": "2026-10-19T23:39:57",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
    "price": 100.0,
@@ -120,7 +121,39 @@
    "label": "From 199 euros. 2 stops flight with KLM and Scandinavian Airlines. Leaves Leonardo da Vinci International Airport at 6:10 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 4:00 PM on Wednesday, December 16. Total duration 9 hr 50 min.  Layover (1 of 2) is a 1 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 3 hr 15 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 205.0,
+   "price": 206.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air France and KLM",
+   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines, KLM Cityhopper for KLM Royal Dutch Airlines",
+   "depAirportName": "Leonardo da Vinci International Airport",
+   "depTime": "06:00",
+   "depDate": "2026-12-16",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-16",
+   "durationMin": 635,
+   "layovers": [
+    {
+     "min": 50,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
+    },
+    {
+     "min": 235,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 206 euros. 2 stops flight with Air France and KLM. Operated by KLM Cityhopper for KLM Royal Dutch Airlines, KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Leonardo da Vinci International Airport at 6:00 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 4:35 PM on Wednesday, December 16. Total duration 10 hr 35 min.  Layover (1 of 2) is a 50 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 3 hr 55 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 206.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -135,13 +168,13 @@
    "durationMin": 635,
    "layovers": [
     {
-     "min": 205,
+     "min": 90,
      "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris"
     },
     {
-     "min": 75,
+     "min": 195,
      "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam"
@@ -149,10 +182,42 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 205 euros. 2 stops flight with Air France and KLM. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Leonardo da Vinci International Airport at 6:00 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 4:35 PM on Wednesday, December 16. Total duration 10 hr 35 min.  Layover (1 of 2) is a 3 hr 25 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 1 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 206 euros. 2 stops flight with Air France and KLM. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Leonardo da Vinci International Airport at 6:00 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 4:35 PM on Wednesday, December 16. Total duration 10 hr 35 min.  Layover (1 of 2) is a 1 hr 30 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 3 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 219.0,
+   "price": 206.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air France and KLM",
+   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
+   "depAirportName": "Leonardo da Vinci International Airport",
+   "depTime": "06:00",
+   "depDate": "2026-12-16",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-16",
+   "durationMin": 635,
+   "layovers": [
+    {
+     "min": 125,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
+    },
+    {
+     "min": 165,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 206 euros. 2 stops flight with Air France and KLM. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Leonardo da Vinci International Airport at 6:00 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 4:35 PM on Wednesday, December 16. Total duration 10 hr 35 min.  Layover (1 of 2) is a 2 hr 5 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 2 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 222.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -181,10 +246,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 219 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Leonardo da Vinci International Airport at 1:30 PM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 2:50 PM on Thursday, December 17. Total duration 25 hr 20 min.  Layover (1 of 2) is a 5 hr 35 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 14 hr 45 min layover at Bergen Airport in Bergen. Select flight"
+   "label": "From 222 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Leonardo da Vinci International Airport at 1:30 PM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 2:50 PM on Thursday, December 17. Total duration 25 hr 20 min.  Layover (1 of 2) is a 5 hr 35 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 14 hr 45 min layover at Bergen Airport in Bergen. Select flight"
   },
   {
-   "price": 227.0,
+   "price": 233.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -213,74 +278,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 227 euros. 2 stops flight with Air France and Wideroe. Leaves Leonardo da Vinci International Airport at 8:45 PM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 2:50 PM on Thursday, December 17. Total duration 18 hr 5 min.  Layover (1 of 2) is a 10 hr 25 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 2 hr layover at Bergen Airport in Bergen. Select flight"
+   "label": "From 233 euros. 2 stops flight with Air France and Wideroe. Leaves Leonardo da Vinci International Airport at 8:45 PM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 2:50 PM on Thursday, December 17. Total duration 18 hr 5 min.  Layover (1 of 2) is a 10 hr 25 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 2 hr layover at Bergen Airport in Bergen. Select flight"
   },
   {
-   "price": 276.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Lufthansa and Wideroe",
-   "operatedBy": null,
-   "depAirportName": "Leonardo da Vinci International Airport",
-   "depTime": "18:35",
-   "depDate": "2026-12-16",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-17",
-   "durationMin": 1215,
-   "layovers": [
-    {
-     "min": 820,
-     "overnight": false,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
-    },
-    {
-     "min": 95,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 276 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Leonardo da Vinci International Airport at 6:35 PM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 2:50 PM on Thursday, December 17. Total duration 20 hr 15 min.  Layover (1 of 2) is a 13 hr 40 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
-  },
-  {
-   "price": 309.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Air France and Scandinavian Airlines",
-   "operatedBy": null,
-   "depAirportName": "Leonardo da Vinci International Airport",
-   "depTime": "20:45",
-   "depDate": "2026-12-16",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "17:15",
-   "arrDate": "2026-12-17",
-   "durationMin": 1230,
-   "layovers": [
-    {
-     "min": 790,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    },
-    {
-     "min": 100,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 309 euros. 2 stops flight with Air France and Scandinavian Airlines. Leaves Leonardo da Vinci International Airport at 8:45 PM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 5:15 PM on Thursday, December 17. Total duration 20 hr 30 min.  Layover (1 of 2) is a 13 hr 10 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 1 hr 40 min layover at Oslo lufthavn in Oslo. Select flight"
-  },
-  {
-   "price": 310.0,
+   "price": 242.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -315,10 +316,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 310 euros. 3 stops flight with Finnair and Wideroe. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Leonardo da Vinci International Airport at 6:40 PM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 2:50 PM on Thursday, December 17. Total duration 20 hr 10 min.  Layover (1 of 3) is a 8 hr 15 min layover at Helsinki Airport in Helsinki. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 3 hr 50 min layover at Bergen Airport in Bergen. Select flight"
+   "label": "From 242 euros. 3 stops flight with Finnair and Wideroe. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Leonardo da Vinci International Airport at 6:40 PM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 2:50 PM on Thursday, December 17. Total duration 20 hr 10 min.  Layover (1 of 3) is a 8 hr 15 min layover at Helsinki Airport in Helsinki. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 3 hr 50 min layover at Bergen Airport in Bergen. Select flight"
   },
   {
-   "price": 375.0,
+   "price": 257.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -347,10 +348,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 375 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Leonardo da Vinci International Airport at 7:05 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 2:50 PM on Wednesday, December 16. Total duration 7 hr 45 min.  Layover (1 of 2) is a 1 hr 10 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+   "label": "From 257 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Leonardo da Vinci International Airport at 7:05 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 2:50 PM on Wednesday, December 16. Total duration 7 hr 45 min.  Layover (1 of 2) is a 1 hr 10 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
   },
   {
-   "price": 507.0,
+   "price": 509.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -379,10 +380,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 507 euros. 2 stops flight with Austrian and Scandinavian Airlines. Operated by Sas Link. Leaves Leonardo da Vinci International Airport at 10:15 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 7:20 PM on Wednesday, December 16. Total duration 9 hr 5 min.  Layover (1 of 2) is a 3 hr 10 min layover at Vienna International Airport in Vienna. Layover (2 of 2) is a 50 min layover at Copenhagen Airport in Copenhagen. Select flight"
+   "label": "From 509 euros. 2 stops flight with Austrian and Scandinavian Airlines. Operated by Sas Link. Leaves Leonardo da Vinci International Airport at 10:15 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 7:20 PM on Wednesday, December 16. Total duration 9 hr 5 min.  Layover (1 of 2) is a 3 hr 10 min layover at Vienna International Airport in Vienna. Layover (2 of 2) is a 50 min layover at Copenhagen Airport in Copenhagen. Select flight"
   },
   {
-   "price": 548.0,
+   "price": 553.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -411,7 +412,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 548 euros. 2 stops flight with Air France and Scandinavian Airlines. Operated by Sas Connect for Scandinavian Airlines, Sas Link for Scandinavian Airlines. Leaves Leonardo da Vinci International Airport at 4:00 PM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 12:40 AM on Thursday, December 17. Total duration 8 hr 40 min.  Layover (1 of 2) is a 2 hr layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 55 min layover at Copenhagen Airport in Copenhagen. Select flight"
+   "label": "From 553 euros. 2 stops flight with Air France and Scandinavian Airlines. Operated by Sas Connect for Scandinavian Airlines, Sas Link for Scandinavian Airlines. Leaves Leonardo da Vinci International Airport at 4:00 PM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 12:40 AM on Thursday, December 17. Total duration 8 hr 40 min.  Layover (1 of 2) is a 2 hr layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 55 min layover at Copenhagen Airport in Copenhagen. Select flight"
   }
  ]
 }

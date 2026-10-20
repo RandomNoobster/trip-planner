@@ -1,10 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA0RVQkABSAGYAQI",
- "fetchedAt": "2026-10-11T11:23:57",
+ "fetchedAt": "2026-10-19T23:27:32",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
-   "price": 84.0,
+   "price": 126.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -27,10 +28,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 84 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Wednesday, December 9 and arrives at Dublin Airport at 12:40 PM on Wednesday, December 9. Total duration 7 hr 20 min.  Layover (1 of 1) is a 3 hr 20 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 126 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Wednesday, December 9 and arrives at Dublin Airport at 12:40 PM on Wednesday, December 9. Total duration 7 hr 20 min.  Layover (1 of 1) is a 3 hr 20 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 200.0,
+   "price": 180.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -59,36 +60,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 200 euros. 2 stops flight with Scandinavian Airlines and KLM. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 10:40 AM on Wednesday, December 9 and arrives at Dublin Airport at 4:20 PM on Wednesday, December 9. Total duration 6 hr 40 min.  Layover (1 of 2) is a 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 10 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 180 euros. 2 stops flight with Scandinavian Airlines and KLM. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 10:40 AM on Wednesday, December 9 and arrives at Dublin Airport at 4:20 PM on Wednesday, December 9. Total duration 6 hr 40 min.  Layover (1 of 2) is a 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 10 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 227.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "17:10",
-   "depDate": "2026-12-09",
-   "arrAirportName": "Dublin Airport",
-   "arrTime": "22:15",
-   "arrDate": "2026-12-09",
-   "durationMin": 365,
-   "layovers": [
-    {
-     "min": 125,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 227 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:10 PM on Wednesday, December 9 and arrives at Dublin Airport at 10:15 PM on Wednesday, December 9. Total duration 6 hr 5 min.  Layover (1 of 1) is a 2 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 179.0,
+   "price": 180.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -117,42 +92,36 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 179 euros. 2 stops flight with Scandinavian Airlines and KLM. Leaves Trondheim Airport, Værnes at 4:35 PM on Wednesday, December 9 and arrives at Dublin Airport at 10:15 PM on Wednesday, December 9. Total duration 6 hr 40 min.  Layover (1 of 2) is a 1 hr 20 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 180 euros. 2 stops flight with Scandinavian Airlines and KLM. Leaves Trondheim Airport, Værnes at 4:35 PM on Wednesday, December 9 and arrives at Dublin Airport at 10:15 PM on Wednesday, December 9. Total duration 6 hr 40 min.  Layover (1 of 2) is a 1 hr 20 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 192.0,
+   "price": 228.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Air France",
-   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
+   "depTime": "17:10",
    "depDate": "2026-12-09",
    "arrAirportName": "Dublin Airport",
-   "arrTime": "22:55",
+   "arrTime": "22:15",
    "arrDate": "2026-12-09",
-   "durationMin": 1055,
+   "durationMin": 365,
    "layovers": [
     {
-     "min": 330,
+     "min": 125,
      "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam"
-    },
-    {
-     "min": 400,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
     }
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 192 euros. 2 stops flight with KLM and Air France. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Trondheim Airport, Værnes at 6:20 AM on Wednesday, December 9 and arrives at Dublin Airport at 10:55 PM on Wednesday, December 9. Total duration 17 hr 35 min.  Layover (1 of 2) is a 5 hr 30 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 6 hr 40 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "label": "From 228 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:10 PM on Wednesday, December 9 and arrives at Dublin Airport at 10:15 PM on Wednesday, December 9. Total duration 6 hr 5 min.  Layover (1 of 1) is a 2 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 229.0,
+   "price": 230.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -181,42 +150,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 229 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 10:25 AM on Wednesday, December 9 and arrives at Dublin Airport at 10:55 PM on Wednesday, December 9. Total duration 13 hr 30 min.  Layover (1 of 2) is a 1 hr 10 min layover at Stockholm Arlanda Airport in Stockholm. Layover (2 of 2) is a 6 hr 30 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "label": "From 230 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 10:25 AM on Wednesday, December 9 and arrives at Dublin Airport at 10:55 PM on Wednesday, December 9. Total duration 13 hr 30 min.  Layover (1 of 2) is a 1 hr 10 min layover at Stockholm Arlanda Airport in Stockholm. Layover (2 of 2) is a 6 hr 30 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
   },
   {
-   "price": 303.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "14:45",
-   "depDate": "2026-12-09",
-   "arrAirportName": "Dublin Airport",
-   "arrTime": "22:55",
-   "arrDate": "2026-12-09",
-   "durationMin": 550,
-   "layovers": [
-    {
-     "min": 85,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    },
-    {
-     "min": 130,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 303 euros. 2 stops flight with Scandinavian Airlines and Air France. Leaves Trondheim Airport, Værnes at 2:45 PM on Wednesday, December 9 and arrives at Dublin Airport at 10:55 PM on Wednesday, December 9. Total duration 9 hr 10 min.  Layover (1 of 2) is a 1 hr 25 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 10 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
-  },
-  {
-   "price": 396.0,
+   "price": 400.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -245,10 +182,42 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 396 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 9:10 AM on Wednesday, December 9 and arrives at Dublin Airport at 10:45 PM on Wednesday, December 9. Total duration 14 hr 35 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 6 hr 40 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+   "label": "From 400 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 9:10 AM on Wednesday, December 9 and arrives at Dublin Airport at 10:45 PM on Wednesday, December 9. Total duration 14 hr 35 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 6 hr 40 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
   },
   {
-   "price": 448.0,
+   "price": 432.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "14:45",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Dublin Airport",
+   "arrTime": "22:55",
+   "arrDate": "2026-12-09",
+   "durationMin": 550,
+   "layovers": [
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    },
+    {
+     "min": 130,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 432 euros. 2 stops flight with Scandinavian Airlines and Air France. Leaves Trondheim Airport, Værnes at 2:45 PM on Wednesday, December 9 and arrives at Dublin Airport at 10:55 PM on Wednesday, December 9. Total duration 9 hr 10 min.  Layover (1 of 2) is a 1 hr 25 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 10 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+  },
+  {
+   "price": 449.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -277,31 +246,31 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 448 euros. 2 stops flight with Scandinavian Airlines and Tap Air Portugal. Operated by Sas Link for Scandinavian Airlines, Portugalia - Companhia Portuguesa. Leaves Trondheim Airport, Værnes at 10:40 AM on Wednesday, December 9 and arrives at Dublin Airport at 11:20 PM on Wednesday, December 9. Total duration 13 hr 40 min.  Layover (1 of 2) is a 1 hr 20 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 4 hr layover at Humberto Delgado Airport in Lisbon. Select flight"
+   "label": "From 449 euros. 2 stops flight with Scandinavian Airlines and Tap Air Portugal. Operated by Sas Link for Scandinavian Airlines, Portugalia - Companhia Portuguesa. Leaves Trondheim Airport, Værnes at 10:40 AM on Wednesday, December 9 and arrives at Dublin Airport at 11:20 PM on Wednesday, December 9. Total duration 13 hr 40 min.  Layover (1 of 2) is a 1 hr 20 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 4 hr layover at Humberto Delgado Airport in Lisbon. Select flight"
   },
   {
-   "price": 566.0,
+   "price": 480.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": null,
+   "operatedBy": "Sas Link for Scandinavian Airlines",
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:25",
+   "depTime": "15:05",
    "depDate": "2026-12-09",
    "arrAirportName": "Dublin Airport",
-   "arrTime": "14:30",
+   "arrTime": "22:55",
    "arrDate": "2026-12-09",
-   "durationMin": 545,
+   "durationMin": 530,
    "layovers": [
     {
-     "min": 70,
+     "min": 75,
      "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen"
     },
     {
-     "min": 140,
+     "min": 130,
      "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris"
@@ -309,7 +278,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 566 euros. 2 stops flight with Scandinavian Airlines and Air France. Leaves Trondheim Airport, Værnes at 6:25 AM on Wednesday, December 9 and arrives at Dublin Airport at 2:30 PM on Wednesday, December 9. Total duration 9 hr 5 min.  Layover (1 of 2) is a 1 hr 10 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 20 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "label": "From 480 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 3:05 PM on Wednesday, December 9 and arrives at Dublin Airport at 10:55 PM on Wednesday, December 9. Total duration 8 hr 50 min.  Layover (1 of 2) is a 1 hr 15 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 2 hr 10 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
   }
  ]
 }

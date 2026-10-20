@@ -1,17 +1,21 @@
 {
- "url": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDVFJEcgcIARIDU0VMGh4SCjIwMjYtMTItMTdqBwgBEgNTRUxyBwgBEgNUUkRAAUgBcAGCAQsI____________AZgBAQ&hl=en&gl=NO&curr=EUR",
- "via": "ui",
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA1NFTBoaEgoyMDI2LTEyLTE3agUSA1NFTHIFEgNUUkRAAUgBmAEB",
+ "fetchedAt": "2026-10-19T22:58:54",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 1088.0,
+   "price": 1062.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-09",
+   "arrCode": "ICN",
    "arrAirportName": "Incheon International Airport",
    "arrTime": "16:55",
    "arrDate": "2026-12-10",
@@ -19,55 +23,33 @@
    "layovers": [
     {
      "min": 740,
+     "overnight": true,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 1713.0,
-   "roundTripTotal": true,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Korean Air",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "15:05",
-   "depDate": "2026-12-09",
-   "arrAirportName": "Incheon International Airport",
-   "arrTime": "17:20",
-   "arrDate": "2026-12-10",
-   "durationMin": 1095,
-   "layovers": [
-    {
-     "min": 45,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen",
-     "overnight": false
-    },
-    {
-     "min": 95,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
-     "overnight": false
-    }
+   "flights": [
+    "KL1150",
+    "KL855"
    ],
-   "separateTickets": false,
-   "changeAirport": false
+   "via": "rpc"
   },
   {
-   "price": 1089.0,
+   "price": 1149.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "17:10",
    "depDate": "2026-12-09",
+   "arrCode": "ICN",
    "arrAirportName": "Incheon International Airport",
    "arrTime": "16:55",
    "arrDate": "2026-12-10",
@@ -75,13 +57,63 @@
    "layovers": [
     {
      "min": 85,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1154",
+    "KL855"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 1780.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Korean Air",
+   "operatedBy": "Sas Connect for Scandinavian Airlines, Sas Link for Scandinavian Airlines",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "15:05",
+   "depDate": "2026-12-09",
+   "arrCode": "ICN",
+   "arrAirportName": "Incheon International Airport",
+   "arrTime": "17:20",
+   "arrDate": "2026-12-10",
+   "durationMin": 1095,
+   "layovers": [
+    {
+     "min": 45,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "code": "CPH",
+     "changeAirport": false
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK2881",
+    "SK559",
+    "KE902"
+   ],
+   "via": "rpc"
   }
  ]
 }

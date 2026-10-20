@@ -1,5 +1,266 @@
 {
- "url": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEyLTA3agcIARIDVFJEcgcIARIDVFVOGh4SCjIwMjYtMTItMTVqBwgBEgNUVU5yBwgBEgNUUkRAAUgBcAGCAQsI____________AZgBAQ&hl=en&gl=NO&curr=EUR",
- "via": "ui",
- "itineraries": []
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA1RVThoaEgoyMDI2LTEyLTE1agUSA1RVTnIFEgNUUkRAAUgBmAEB",
+ "fetchedAt": "2026-10-19T22:56:17",
+ "priceUnavailable": 0,
+ "via": "rpc",
+ "itineraries": [
+  {
+   "price": 511.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Air France",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrCode": "TUN",
+   "arrAirportName": "Tunis-Carthage International Airport",
+   "arrTime": "23:20",
+   "arrDate": "2026-12-07",
+   "durationMin": 1020,
+   "layovers": [
+    {
+     "min": 225,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    },
+    {
+     "min": 430,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1150",
+    "KL1407",
+    "AF1384"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 612.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": null,
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "13:00",
+   "depDate": "2026-12-07",
+   "arrCode": "TUN",
+   "arrAirportName": "Tunis-Carthage International Airport",
+   "arrTime": "23:20",
+   "arrDate": "2026-12-07",
+   "durationMin": 620,
+   "layovers": [
+    {
+     "min": 75,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    },
+    {
+     "min": 185,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK355",
+    "SK839",
+    "AF1384"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 511.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Air France",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrCode": "TUN",
+   "arrAirportName": "Tunis-Carthage International Airport",
+   "arrTime": "23:20",
+   "arrDate": "2026-12-07",
+   "durationMin": 1020,
+   "layovers": [
+    {
+     "min": 555,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    },
+    {
+     "min": 100,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1150",
+    "KL1411",
+    "AF1384"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 695.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Air France",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrCode": "TUN",
+   "arrAirportName": "Tunis-Carthage International Airport",
+   "arrTime": "16:10",
+   "arrDate": "2026-12-07",
+   "durationMin": 590,
+   "layovers": [
+    {
+     "min": 105,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    },
+    {
+     "min": 105,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1150",
+    "AF1341",
+    "AF1184"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 1159.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": "Sas Link",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "05:30",
+   "depDate": "2026-12-07",
+   "arrCode": "TUN",
+   "arrAirportName": "Tunis-Carthage International Airport",
+   "arrTime": "16:10",
+   "arrDate": "2026-12-07",
+   "durationMin": 640,
+   "layovers": [
+    {
+     "min": 170,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "code": "CPH",
+     "changeAirport": false
+    },
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK2885",
+    "AF1751",
+    "AF1184"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 1178.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": null,
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:25",
+   "depDate": "2026-12-07",
+   "arrCode": "TUN",
+   "arrAirportName": "Tunis-Carthage International Airport",
+   "arrTime": "16:10",
+   "arrDate": "2026-12-07",
+   "durationMin": 585,
+   "layovers": [
+    {
+     "min": 70,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    },
+    {
+     "min": 135,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK335",
+    "SK837",
+    "AF1184"
+   ],
+   "via": "rpc"
+  }
+ ]
 }

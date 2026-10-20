@@ -1,17 +1,159 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA0NUQRoaEgoyMDI2LTEyLTE3agUSA0NUQXIFEgNUUkRAAUgBmAEB",
- "via": "ui",
+ "fetchedAt": "2026-10-19T22:52:13",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 577.0,
+   "price": 551.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Wideroe, Lufthansa and ITA",
+   "operatedBy": null,
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-09",
+   "arrCode": "CTA",
+   "arrAirportName": "Vincenzo Bellini Catania Airport",
+   "arrTime": "23:15",
+   "arrDate": "2026-12-09",
+   "durationMin": 845,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    },
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    },
+    {
+     "min": 250,
+     "overnight": false,
+     "airport": "Leonardo da Vinci International Airport",
+     "city": "Rome",
+     "code": "FCO",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "WF1302",
+    "LH873",
+    "LH236",
+    "AZ1735"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 832.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "KLM and ITA",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-09",
+   "arrCode": "CTA",
+   "arrAirportName": "Vincenzo Bellini Catania Airport",
+   "arrTime": "18:30",
+   "arrDate": "2026-12-09",
+   "durationMin": 730,
+   "layovers": [
+    {
+     "min": 330,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    },
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Leonardo da Vinci International Airport",
+     "city": "Rome",
+     "code": "FCO",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1150",
+    "KL1605",
+    "AZ1733"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 833.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and ITA",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-09",
+   "arrCode": "CTA",
+   "arrAirportName": "Vincenzo Bellini Catania Airport",
+   "arrTime": "17:05",
+   "arrDate": "2026-12-09",
+   "durationMin": 645,
+   "layovers": [
+    {
+     "min": 100,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    },
+    {
+     "min": 195,
+     "overnight": false,
+     "airport": "Milan Linate Airport",
+     "city": "Milan",
+     "code": "LIN",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1150",
+    "KL1597",
+    "AZ1721"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 903.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and ITA",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-09",
+   "arrCode": "CTA",
    "arrAirportName": "Vincenzo Bellini Catania Airport",
    "arrTime": "14:40",
    "arrDate": "2026-12-09",
@@ -19,56 +161,29 @@
    "layovers": [
     {
      "min": 65,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     },
     {
      "min": 85,
+     "overnight": false,
      "airport": "Leonardo da Vinci International Airport",
      "city": "Rome",
-     "overnight": false
+     "code": "FCO",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 715.0,
-   "roundTripTotal": true,
-   "noOverheadBin": false,
-   "stops": 3,
-   "airlines": "Wideroe, Lufthansa and ITA",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "09:10",
-   "depDate": "2026-12-09",
-   "arrAirportName": "Vincenzo Bellini Catania Airport",
-   "arrTime": "23:20",
-   "arrDate": "2026-12-09",
-   "durationMin": 850,
-   "layovers": [
-    {
-     "min": 155,
-     "airport": "Bergen Airport",
-     "city": "Bergen",
-     "overnight": false
-    },
-    {
-     "min": 195,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main",
-     "overnight": false
-    },
-    {
-     "min": 105,
-     "airport": "Leonardo da Vinci International Airport",
-     "city": "Rome",
-     "overnight": false
-    }
+   "flights": [
+    "KL1150",
+    "KL1603",
+    "AZ1745"
    ],
-   "separateTickets": false,
-   "changeAirport": false
+   "via": "rpc"
   }
  ]
 }

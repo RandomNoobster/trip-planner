@@ -23,24 +23,24 @@
      "name": "Malta"
     }
    },
-   "departureDate": "2026-12-07T09:40:00",
-   "arrivalDate": "2026-12-07T10:30:00",
+   "departureDate": "2026-12-06T11:30:00",
+   "arrivalDate": "2026-12-06T12:20:00",
    "price": {
-    "value": 19.99,
-    "valueMainUnit": "19",
+    "value": 20.99,
+    "valueMainUnit": "20",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6028~ ~~ATH~12/07/2026 09:40~MLA~12/07/2026 10:30~~",
+   "flightKey": "FR~6028~ ~~ATH~12/06/2026 11:30~MLA~12/06/2026 12:20~~",
    "flightNumber": "FR6028",
    "previousPrice": null,
-   "priceUpdated": 1791800190000
+   "priceUpdated": 1792441314000
   },
   "summary": {
    "price": {
-    "value": 19.99,
-    "valueMainUnit": "19",
+    "value": 20.99,
+    "valueMainUnit": "20",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -73,25 +73,25 @@
      "name": "Malta"
     }
    },
-   "departureDate": "2026-12-11T21:45:00",
-   "arrivalDate": "2026-12-11T22:35:00",
+   "departureDate": "2026-12-07T09:40:00",
+   "arrivalDate": "2026-12-07T10:30:00",
    "price": {
-    "value": 19.99,
-    "valueMainUnit": "19",
-    "valueFractionalUnit": "99",
+    "value": 21.22,
+    "valueMainUnit": "21",
+    "valueFractionalUnit": "22",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6028~ ~~ATH~12/11/2026 21:45~MLA~12/11/2026 22:35~~",
+   "flightKey": "FR~6028~ ~~ATH~12/07/2026 09:40~MLA~12/07/2026 10:30~~",
    "flightNumber": "FR6028",
    "previousPrice": null,
-   "priceUpdated": 1791800189000
+   "priceUpdated": 1792438720000
   },
   "summary": {
    "price": {
-    "value": 19.99,
-    "valueMainUnit": "19",
-    "valueFractionalUnit": "99",
+    "value": 21.22,
+    "valueMainUnit": "21",
+    "valueFractionalUnit": "22",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -127,72 +127,22 @@
    "departureDate": "2026-12-04T22:50:00",
    "arrivalDate": "2026-12-04T23:59:00",
    "price": {
-    "value": 19.99,
-    "valueMainUnit": "19",
-    "valueFractionalUnit": "99",
+    "value": 21.59,
+    "valueMainUnit": "21",
+    "valueFractionalUnit": "59",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~1199~ ~~ATH~12/04/2026 22:50~FCO~12/04/2026 23:59~~",
    "flightNumber": "FR1199",
    "previousPrice": null,
-   "priceUpdated": 1791801097000
+   "priceUpdated": 1792438948000
   },
   "summary": {
    "price": {
-    "value": 19.99,
-    "valueMainUnit": "19",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-05T19:10:00",
-   "arrivalDate": "2026-12-05T20:40:00",
-   "price": {
-    "value": 20.99,
-    "valueMainUnit": "20",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1318~ ~~ATH~12/05/2026 19:10~BGY~12/05/2026 20:40~~",
-   "flightNumber": "FR1318",
-   "previousPrice": null,
-   "priceUpdated": 1791800192000
-  },
-  "summary": {
-   "price": {
-    "value": 20.99,
-    "valueMainUnit": "20",
-    "valueFractionalUnit": "99",
+    "value": 21.59,
+    "valueMainUnit": "21",
+    "valueFractionalUnit": "59",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -236,7 +186,7 @@
    "flightKey": "FR~6017~ ~~ATH~12/04/2026 23:25~BLQ~12/05/2026 00:45~~",
    "flightNumber": "FR6017",
    "previousPrice": null,
-   "priceUpdated": 1791800193000
+   "priceUpdated": 1792437334000
   },
   "summary": {
    "price": {
@@ -274,8 +224,8 @@
      "name": "Bologna"
     }
    },
-   "departureDate": "2026-12-05T15:55:00",
-   "arrivalDate": "2026-12-05T17:15:00",
+   "departureDate": "2026-12-06T22:45:00",
+   "arrivalDate": "2026-12-07T00:05:00",
    "price": {
     "value": 21.99,
     "valueMainUnit": "21",
@@ -283,10 +233,10 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6052~ ~~ATH~12/05/2026 15:55~BLQ~12/05/2026 17:15~~",
-   "flightNumber": "FR6052",
+   "flightKey": "FR~6017~ ~~ATH~12/06/2026 22:45~BLQ~12/07/2026 00:05~~",
+   "flightNumber": "FR6017",
    "previousPrice": null,
-   "priceUpdated": 1791800189000
+   "priceUpdated": 1792434203000
   },
   "summary": {
    "price": {
@@ -336,7 +286,7 @@
    "flightKey": "FR~6017~ ~~ATH~12/11/2026 23:25~BLQ~12/12/2026 00:45~~",
    "flightNumber": "FR6017",
    "previousPrice": null,
-   "priceUpdated": 1791800188000
+   "priceUpdated": 1792434689000
   },
   "summary": {
    "price": {
@@ -364,34 +314,135 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Malta",
-    "iataCode": "MLA",
-    "name": "Malta",
-    "seoName": "malta",
+    "countryName": "Cyprus",
+    "iataCode": "PFO",
+    "name": "Paphos",
+    "seoName": "paphos",
     "city": {
-     "code": "MALTA",
-     "countryCode": "mt",
-     "name": "Malta"
+     "code": "PAPHOS",
+     "countryCode": "cy",
+     "name": "Paphos"
     }
    },
-   "departureDate": "2026-12-06T11:30:00",
-   "arrivalDate": "2026-12-06T12:20:00",
+   "departureDate": "2026-12-05T15:00:00",
+   "arrivalDate": "2026-12-05T16:35:00",
    "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
+    "value": 23.09,
+    "valueMainUnit": "23",
+    "valueFractionalUnit": "09",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 325~ ~~ATH~12/05/2026 15:00~PFO~12/05/2026 16:35~~",
+   "flightNumber": "FR325",
+   "previousPrice": null,
+   "priceUpdated": 1792439892000
+  },
+  "summary": {
+   "price": {
+    "value": 23.09,
+    "valueMainUnit": "23",
+    "valueFractionalUnit": "09",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-04T17:40:00",
+   "arrivalDate": "2026-12-04T19:10:00",
+   "price": {
+    "value": 23.32,
+    "valueMainUnit": "23",
+    "valueFractionalUnit": "32",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2090~ ~~ATH~12/04/2026 17:40~BGY~12/04/2026 19:10~~",
+   "flightNumber": "FR2090",
+   "previousPrice": null,
+   "priceUpdated": 1792441892000
+  },
+  "summary": {
+   "price": {
+    "value": 23.32,
+    "valueMainUnit": "23",
+    "valueFractionalUnit": "32",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "FCO",
+    "name": "Rome Fiumicino",
+    "seoName": "rome-fiumicino",
+    "city": {
+     "code": "ROME",
+     "countryCode": "it",
+     "macCode": "ROM",
+     "name": "Rome"
+    }
+   },
+   "departureDate": "2026-12-11T22:50:00",
+   "arrivalDate": "2026-12-11T23:59:00",
+   "price": {
+    "value": 23.99,
+    "valueMainUnit": "23",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6028~ ~~ATH~12/06/2026 11:30~MLA~12/06/2026 12:20~~",
-   "flightNumber": "FR6028",
+   "flightKey": "FR~1199~ ~~ATH~12/11/2026 22:50~FCO~12/11/2026 23:59~~",
+   "flightNumber": "FR1199",
    "previousPrice": null,
-   "priceUpdated": 1791800192000
+   "priceUpdated": 1792432499000
   },
   "summary": {
    "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
+    "value": 23.99,
+    "valueMainUnit": "23",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -414,35 +465,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Poland",
-    "iataCode": "WMI",
-    "name": "Warsaw Modlin",
-    "seoName": "warsaw-modlin",
+    "countryName": "Italy",
+    "iataCode": "VCE",
+    "name": "Venice M.Polo",
+    "seoName": "venice",
     "city": {
-     "code": "WARSAW",
-     "countryCode": "pl",
-     "macCode": "WWA",
-     "name": "Warsaw"
+     "code": "VENICE",
+     "countryCode": "it",
+     "macCode": "VEN",
+     "name": "Venice"
     }
    },
-   "departureDate": "2026-12-05T16:45:00",
-   "arrivalDate": "2026-12-05T18:25:00",
+   "departureDate": "2026-12-05T23:20:00",
+   "arrivalDate": "2026-12-06T00:40:00",
    "price": {
-    "value": 25.99,
-    "valueMainUnit": "25",
+    "value": 23.99,
+    "valueMainUnit": "23",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~3324~ ~~ATH~12/05/2026 16:45~WMI~12/05/2026 18:25~~",
-   "flightNumber": "FR3324",
+   "flightKey": "FR~5824~ ~~ATH~12/05/2026 23:20~VCE~12/06/2026 00:40~~",
+   "flightNumber": "FR5824",
    "previousPrice": null,
-   "priceUpdated": 1791800196000
+   "priceUpdated": 1792419258000
   },
   "summary": {
    "price": {
-    "value": 25.99,
-    "valueMainUnit": "25",
+    "value": 23.99,
+    "valueMainUnit": "23",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -478,22 +529,22 @@
    "departureDate": "2026-12-04T21:45:00",
    "arrivalDate": "2026-12-04T22:35:00",
    "price": {
-    "value": 26.17,
-    "valueMainUnit": "26",
-    "valueFractionalUnit": "17",
+    "value": 25.32,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "32",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~6028~ ~~ATH~12/04/2026 21:45~MLA~12/04/2026 22:35~~",
    "flightNumber": "FR6028",
    "previousPrice": null,
-   "priceUpdated": 1791801091000
+   "priceUpdated": 1792441272000
   },
   "summary": {
    "price": {
-    "value": 26.17,
-    "valueMainUnit": "26",
-    "valueFractionalUnit": "17",
+    "value": 25.32,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "32",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -515,41 +566,90 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Poland",
-    "iataCode": "WMI",
-    "name": "Warsaw Modlin",
-    "seoName": "warsaw-modlin",
+    "countryName": "Malta",
+    "iataCode": "MLA",
+    "name": "Malta",
+    "seoName": "malta",
     "city": {
-     "code": "WARSAW",
-     "countryCode": "pl",
-     "macCode": "WWA",
-     "name": "Warsaw"
+     "code": "MALTA",
+     "countryCode": "mt",
+     "name": "Malta"
     }
    },
-   "departureDate": "2026-12-04T11:00:00",
-   "arrivalDate": "2026-12-04T12:40:00",
+   "departureDate": "2026-12-11T21:45:00",
+   "arrivalDate": "2026-12-11T22:35:00",
    "price": {
-    "value": 26.99,
-    "valueMainUnit": "26",
-    "valueFractionalUnit": "99",
+    "value": 25.59,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "59",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~3324~ ~~ATH~12/04/2026 11:00~WMI~12/04/2026 12:40~~",
-   "flightNumber": "FR3324",
+   "flightKey": "FR~6028~ ~~ATH~12/11/2026 21:45~MLA~12/11/2026 22:35~~",
+   "flightNumber": "FR6028",
    "previousPrice": null,
-   "priceUpdated": 1791800197000
+   "priceUpdated": 1792434044000
   },
   "summary": {
    "price": {
-    "value": 26.99,
-    "valueMainUnit": "26",
-    "valueFractionalUnit": "99",
+    "value": 25.59,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "59",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
-   "newRoute": true
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BLQ",
+    "name": "Bologna",
+    "seoName": "bologna",
+    "city": {
+     "code": "BOLOGNA",
+     "countryCode": "it",
+     "name": "Bologna"
+    }
+   },
+   "departureDate": "2026-12-05T15:55:00",
+   "arrivalDate": "2026-12-05T17:15:00",
+   "price": {
+    "value": 27.32,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "32",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6052~ ~~ATH~12/05/2026 15:55~BLQ~12/05/2026 17:15~~",
+   "flightNumber": "FR6052",
+   "previousPrice": null,
+   "priceUpdated": 1792435968000
+  },
+  "summary": {
+   "price": {
+    "value": 27.32,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "32",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
   }
  },
  {
@@ -588,113 +688,13 @@
    "flightKey": "FR~1242~ ~~ATH~12/05/2026 17:25~BUD~12/05/2026 18:30~~",
    "flightNumber": "FR1242",
    "previousPrice": null,
-   "priceUpdated": 1791800189000
+   "priceUpdated": 1792434009000
   },
   "summary": {
    "price": {
     "value": 27.99,
     "valueMainUnit": "27",
     "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Hungary",
-    "iataCode": "BUD",
-    "name": "Budapest",
-    "seoName": "budapest",
-    "city": {
-     "code": "BUDAPEST",
-     "countryCode": "hu",
-     "name": "Budapest"
-    }
-   },
-   "departureDate": "2026-12-11T20:00:00",
-   "arrivalDate": "2026-12-11T21:05:00",
-   "price": {
-    "value": 27.99,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~7596~ ~~ATH~12/11/2026 20:00~BUD~12/11/2026 21:05~~",
-   "flightNumber": "FR7596",
-   "previousPrice": null,
-   "priceUpdated": 1791800193000
-  },
-  "summary": {
-   "price": {
-    "value": 27.99,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BLQ",
-    "name": "Bologna",
-    "seoName": "bologna",
-    "city": {
-     "code": "BOLOGNA",
-     "countryCode": "it",
-     "name": "Bologna"
-    }
-   },
-   "departureDate": "2026-12-06T22:45:00",
-   "arrivalDate": "2026-12-07T00:05:00",
-   "price": {
-    "value": 29.58,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "58",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6017~ ~~ATH~12/06/2026 22:45~BLQ~12/07/2026 00:05~~",
-   "flightNumber": "FR6017",
-   "previousPrice": null,
-   "priceUpdated": 1791801089000
-  },
-  "summary": {
-   "price": {
-    "value": 29.58,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "58",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -738,13 +738,113 @@
    "flightKey": "FR~1196~ ~~ATH~12/06/2026 06:50~CRL~12/06/2026 09:10~~",
    "flightNumber": "FR1196",
    "previousPrice": null,
-   "priceUpdated": 1791800190000
+   "priceUpdated": 1792434007000
   },
   "summary": {
    "price": {
     "value": 29.99,
     "valueMainUnit": "29",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
+    "city": {
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
+    }
+   },
+   "departureDate": "2026-12-07T18:00:00",
+   "arrivalDate": "2026-12-07T20:20:00",
+   "price": {
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1196~ ~~ATH~12/07/2026 18:00~CRL~12/07/2026 20:20~~",
+   "flightNumber": "FR1196",
+   "previousPrice": null,
+   "priceUpdated": 1792434034000
+  },
+  "summary": {
+   "price": {
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-10T15:00:00",
+   "arrivalDate": "2026-12-10T17:25:00",
+   "price": {
+    "value": 30.75,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "75",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4519~ ~~ATH~12/10/2026 15:00~DUB~12/10/2026 17:25~~",
+   "flightNumber": "FR4519",
+   "previousPrice": null,
+   "priceUpdated": 1792434123000
+  },
+  "summary": {
+   "price": {
+    "value": 30.75,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "75",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -776,277 +876,25 @@
      "name": "Budapest"
     }
    },
-   "departureDate": "2026-12-04T20:00:00",
-   "arrivalDate": "2026-12-04T21:05:00",
+   "departureDate": "2026-12-06T14:35:00",
+   "arrivalDate": "2026-12-06T15:40:00",
    "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
+    "value": 31.99,
+    "valueMainUnit": "31",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~7596~ ~~ATH~12/04/2026 20:00~BUD~12/04/2026 21:05~~",
-   "flightNumber": "FR7596",
+   "flightKey": "FR~1242~ ~~ATH~12/06/2026 14:35~BUD~12/06/2026 15:40~~",
+   "flightNumber": "FR1242",
    "previousPrice": null,
-   "priceUpdated": 1791800189000
+   "priceUpdated": 1792436780000
   },
   "summary": {
    "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
+    "value": 31.99,
+    "valueMainUnit": "31",
     "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "VCE",
-    "name": "Venice M.Polo",
-    "seoName": "venice",
-    "city": {
-     "code": "VENICE",
-     "countryCode": "it",
-     "macCode": "VEN",
-     "name": "Venice"
-    }
-   },
-   "departureDate": "2026-12-05T23:20:00",
-   "arrivalDate": "2026-12-06T00:40:00",
-   "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5824~ ~~ATH~12/05/2026 23:20~VCE~12/06/2026 00:40~~",
-   "flightNumber": "FR5824",
-   "previousPrice": null,
-   "priceUpdated": 1791800197000
-  },
-  "summary": {
-   "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "FCO",
-    "name": "Rome Fiumicino",
-    "seoName": "rome-fiumicino",
-    "city": {
-     "code": "ROME",
-     "countryCode": "it",
-     "macCode": "ROM",
-     "name": "Rome"
-    }
-   },
-   "departureDate": "2026-12-11T22:50:00",
-   "arrivalDate": "2026-12-11T23:59:00",
-   "price": {
-    "value": 32.99,
-    "valueMainUnit": "32",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1199~ ~~ATH~12/11/2026 22:50~FCO~12/11/2026 23:59~~",
-   "flightNumber": "FR1199",
-   "previousPrice": null,
-   "priceUpdated": 1791800192000
-  },
-  "summary": {
-   "price": {
-    "value": 32.99,
-    "valueMainUnit": "32",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Cyprus",
-    "iataCode": "PFO",
-    "name": "Paphos",
-    "seoName": "paphos",
-    "city": {
-     "code": "PAPHOS",
-     "countryCode": "cy",
-     "name": "Paphos"
-    }
-   },
-   "departureDate": "2026-12-05T15:00:00",
-   "arrivalDate": "2026-12-05T16:35:00",
-   "price": {
-    "value": 33.14,
-    "valueMainUnit": "33",
-    "valueFractionalUnit": "14",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 325~ ~~ATH~12/05/2026 15:00~PFO~12/05/2026 16:35~~",
-   "flightNumber": "FR325",
-   "previousPrice": null,
-   "priceUpdated": 1791801991000
-  },
-  "summary": {
-   "price": {
-    "value": 33.14,
-    "valueMainUnit": "33",
-    "valueFractionalUnit": "14",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-04T17:40:00",
-   "arrivalDate": "2026-12-04T19:10:00",
-   "price": {
-    "value": 33.17,
-    "valueMainUnit": "33",
-    "valueFractionalUnit": "17",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2090~ ~~ATH~12/04/2026 17:40~BGY~12/04/2026 19:10~~",
-   "flightNumber": "FR2090",
-   "previousPrice": null,
-   "priceUpdated": 1791800234000
-  },
-  "summary": {
-   "price": {
-    "value": 33.17,
-    "valueMainUnit": "33",
-    "valueFractionalUnit": "17",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "departureDate": "2026-12-05T16:30:00",
-   "arrivalDate": "2026-12-05T18:00:00",
-   "price": {
-    "value": 34.76,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "76",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2614~ ~~ATH~12/05/2026 16:30~KTW~12/05/2026 18:00~~",
-   "flightNumber": "FR2614",
-   "previousPrice": null,
-   "priceUpdated": 1791800194000
-  },
-  "summary": {
-   "price": {
-    "value": 34.76,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "76",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1091,7 +939,57 @@
    "flightKey": "FR~  14~ ~~ATH~12/07/2026 06:30~STN~12/07/2026 08:20~~",
    "flightNumber": "FR14",
    "previousPrice": null,
-   "priceUpdated": 1791800192000
+   "priceUpdated": 1792434213000
+  },
+  "summary": {
+   "price": {
+    "value": 34.99,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-05T19:10:00",
+   "arrivalDate": "2026-12-05T20:40:00",
+   "price": {
+    "value": 34.99,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1318~ ~~ATH~12/05/2026 19:10~BGY~12/05/2026 20:40~~",
+   "flightNumber": "FR1318",
+   "previousPrice": null,
+   "priceUpdated": 1792419283000
   },
   "summary": {
    "price": {
@@ -1142,13 +1040,114 @@
    "flightKey": "FR~  14~ ~~ATH~12/11/2026 06:05~STN~12/11/2026 07:55~~",
    "flightNumber": "FR14",
    "previousPrice": null,
-   "priceUpdated": 1791800190000
+   "priceUpdated": 1792437348000
   },
   "summary": {
    "price": {
     "value": 35.88,
     "valueMainUnit": "35",
     "valueFractionalUnit": "88",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Slovakia",
+    "iataCode": "BTS",
+    "name": "Bratislava",
+    "seoName": "bratislava",
+    "city": {
+     "code": "BRATISLAVA",
+     "countryCode": "sk",
+     "name": "Bratislava"
+    }
+   },
+   "departureDate": "2026-12-11T14:45:00",
+   "arrivalDate": "2026-12-11T16:00:00",
+   "price": {
+    "value": 36.23,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "23",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5888~ ~~ATH~12/11/2026 14:45~BTS~12/11/2026 16:00~~",
+   "flightNumber": "FR5888",
+   "previousPrice": null,
+   "priceUpdated": 1792432576000
+  },
+  "summary": {
+   "price": {
+    "value": 36.23,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "23",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "FCO",
+    "name": "Rome Fiumicino",
+    "seoName": "rome-fiumicino",
+    "city": {
+     "code": "ROME",
+     "countryCode": "it",
+     "macCode": "ROM",
+     "name": "Rome"
+    }
+   },
+   "departureDate": "2026-12-07T10:25:00",
+   "arrivalDate": "2026-12-07T11:35:00",
+   "price": {
+    "value": 37.6,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "60",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1199~ ~~ATH~12/07/2026 10:25~FCO~12/07/2026 11:35~~",
+   "flightNumber": "FR1199",
+   "previousPrice": null,
+   "priceUpdated": 1792429041000
+  },
+  "summary": {
+   "price": {
+    "value": 37.6,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "60",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1180,25 +1179,527 @@
      "name": "Budapest"
     }
    },
-   "departureDate": "2026-12-06T14:35:00",
-   "arrivalDate": "2026-12-06T15:40:00",
+   "departureDate": "2026-12-04T20:00:00",
+   "arrivalDate": "2026-12-04T21:05:00",
    "price": {
-    "value": 36.4,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "40",
+    "value": 37.99,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~1242~ ~~ATH~12/06/2026 14:35~BUD~12/06/2026 15:40~~",
-   "flightNumber": "FR1242",
+   "flightKey": "FR~7596~ ~~ATH~12/04/2026 20:00~BUD~12/04/2026 21:05~~",
+   "flightNumber": "FR7596",
    "previousPrice": null,
-   "priceUpdated": 1791801092000
+   "priceUpdated": 1792440151000
   },
   "summary": {
    "price": {
-    "value": 36.4,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "40",
+    "value": 37.99,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Poland",
+    "iataCode": "WMI",
+    "name": "Warsaw Modlin",
+    "seoName": "warsaw-modlin",
+    "city": {
+     "code": "WARSAW",
+     "countryCode": "pl",
+     "macCode": "WWA",
+     "name": "Warsaw"
+    }
+   },
+   "departureDate": "2026-12-05T16:45:00",
+   "arrivalDate": "2026-12-05T18:25:00",
+   "price": {
+    "value": 37.99,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3324~ ~~ATH~12/05/2026 16:45~WMI~12/05/2026 18:25~~",
+   "flightNumber": "FR3324",
+   "previousPrice": null,
+   "priceUpdated": 1792419793000
+  },
+  "summary": {
+   "price": {
+    "value": 37.99,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Poland",
+    "iataCode": "WRO",
+    "name": "Wroclaw",
+    "seoName": "wroclaw",
+    "city": {
+     "code": "WROCLAW",
+     "countryCode": "pl",
+     "name": "Wroclaw"
+    }
+   },
+   "departureDate": "2026-12-09T18:00:00",
+   "arrivalDate": "2026-12-09T19:40:00",
+   "price": {
+    "value": 38.45,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "45",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4936~ ~~ATH~12/09/2026 18:00~WRO~12/09/2026 19:40~~",
+   "flightNumber": "FR4936",
+   "previousPrice": null,
+   "priceUpdated": 1792440177000
+  },
+  "summary": {
+   "price": {
+    "value": 38.45,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "45",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Hungary",
+    "iataCode": "BUD",
+    "name": "Budapest",
+    "seoName": "budapest",
+    "city": {
+     "code": "BUDAPEST",
+     "countryCode": "hu",
+     "name": "Budapest"
+    }
+   },
+   "departureDate": "2026-12-11T20:00:00",
+   "arrivalDate": "2026-12-11T21:05:00",
+   "price": {
+    "value": 38.65,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "65",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7596~ ~~ATH~12/11/2026 20:00~BUD~12/11/2026 21:05~~",
+   "flightNumber": "FR7596",
+   "previousPrice": null,
+   "priceUpdated": 1792432323000
+  },
+  "summary": {
+   "price": {
+    "value": 38.65,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "65",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Hungary",
+    "iataCode": "BUD",
+    "name": "Budapest",
+    "seoName": "budapest",
+    "city": {
+     "code": "BUDAPEST",
+     "countryCode": "hu",
+     "name": "Budapest"
+    }
+   },
+   "departureDate": "2026-12-10T19:25:00",
+   "arrivalDate": "2026-12-10T20:30:00",
+   "price": {
+    "value": 39.95,
+    "valueMainUnit": "39",
+    "valueFractionalUnit": "95",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1242~ ~~ATH~12/10/2026 19:25~BUD~12/10/2026 20:30~~",
+   "flightNumber": "FR1242",
+   "previousPrice": null,
+   "priceUpdated": 1792405330000
+  },
+  "summary": {
+   "price": {
+    "value": 39.95,
+    "valueMainUnit": "39",
+    "valueFractionalUnit": "95",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Austria",
+    "iataCode": "VIE",
+    "name": "Vienna",
+    "seoName": "vienna",
+    "city": {
+     "code": "VIENNA",
+     "countryCode": "at",
+     "name": "Vienna"
+    }
+   },
+   "departureDate": "2026-12-05T14:35:00",
+   "arrivalDate": "2026-12-05T16:00:00",
+   "price": {
+    "value": 41.31,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "31",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~  44~ ~~ATH~12/05/2026 14:35~VIE~12/05/2026 16:00~~",
+   "flightNumber": "FR44",
+   "previousPrice": null,
+   "priceUpdated": 1792415795000
+  },
+  "summary": {
+   "price": {
+    "value": 41.31,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "31",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "departureDate": "2026-12-05T16:30:00",
+   "arrivalDate": "2026-12-05T18:00:00",
+   "price": {
+    "value": 41.57,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "57",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2614~ ~~ATH~12/05/2026 16:30~KTW~12/05/2026 18:00~~",
+   "flightNumber": "FR2614",
+   "previousPrice": null,
+   "priceUpdated": 1792405372000
+  },
+  "summary": {
+   "price": {
+    "value": 41.57,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "57",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Slovakia",
+    "iataCode": "BTS",
+    "name": "Bratislava",
+    "seoName": "bratislava",
+    "city": {
+     "code": "BRATISLAVA",
+     "countryCode": "sk",
+     "name": "Bratislava"
+    }
+   },
+   "departureDate": "2026-12-06T19:30:00",
+   "arrivalDate": "2026-12-06T20:45:00",
+   "price": {
+    "value": 41.99,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5888~ ~~ATH~12/06/2026 19:30~BTS~12/06/2026 20:45~~",
+   "flightNumber": "FR5888",
+   "previousPrice": null,
+   "priceUpdated": 1792427465000
+  },
+  "summary": {
+   "price": {
+    "value": 41.99,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-11T05:55:00",
+   "arrivalDate": "2026-12-11T07:25:00",
+   "price": {
+    "value": 41.99,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1318~ ~~ATH~12/11/2026 05:55~BGY~12/11/2026 07:25~~",
+   "flightNumber": "FR1318",
+   "previousPrice": null,
+   "priceUpdated": 1792436758000
+  },
+  "summary": {
+   "price": {
+    "value": 41.99,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
+    "city": {
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
+    }
+   },
+   "departureDate": "2026-12-05T06:50:00",
+   "arrivalDate": "2026-12-05T09:10:00",
+   "price": {
+    "value": 42.99,
+    "valueMainUnit": "42",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1196~ ~~ATH~12/05/2026 06:50~CRL~12/05/2026 09:10~~",
+   "flightNumber": "FR1196",
+   "previousPrice": null,
+   "priceUpdated": 1792435591000
+  },
+  "summary": {
+   "price": {
+    "value": 42.99,
+    "valueMainUnit": "42",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-09T06:55:00",
+   "arrivalDate": "2026-12-09T08:45:00",
+   "price": {
+    "value": 44.69,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "69",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~  14~ ~~ATH~12/09/2026 06:55~STN~12/09/2026 08:45~~",
+   "flightNumber": "FR14",
+   "previousPrice": null,
+   "priceUpdated": 1792405371000
+  },
+  "summary": {
+   "price": {
+    "value": 44.69,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "69",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1233,8 +1734,8 @@
    "departureDate": "2026-12-07T18:55:00",
    "arrivalDate": "2026-12-07T20:00:00",
    "price": {
-    "value": 36.99,
-    "valueMainUnit": "36",
+    "value": 44.99,
+    "valueMainUnit": "44",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1242,12 +1743,12 @@
    "flightKey": "FR~1242~ ~~ATH~12/07/2026 18:55~BUD~12/07/2026 20:00~~",
    "flightNumber": "FR1242",
    "previousPrice": null,
-   "priceUpdated": 1791800190000
+   "priceUpdated": 1792419742000
   },
   "summary": {
    "price": {
-    "value": 36.99,
-    "valueMainUnit": "36",
+    "value": 44.99,
+    "valueMainUnit": "44",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1283,8 +1784,8 @@
    "departureDate": "2026-12-10T07:55:00",
    "arrivalDate": "2026-12-10T09:25:00",
    "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
+    "value": 45.99,
+    "valueMainUnit": "45",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1292,263 +1793,12 @@
    "flightKey": "FR~1318~ ~~ATH~12/10/2026 07:55~BGY~12/10/2026 09:25~~",
    "flightNumber": "FR1318",
    "previousPrice": null,
-   "priceUpdated": 1791801092000
+   "priceUpdated": 1792436759000
   },
   "summary": {
    "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-11T05:55:00",
-   "arrivalDate": "2026-12-11T07:25:00",
-   "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1318~ ~~ATH~12/11/2026 05:55~BGY~12/11/2026 07:25~~",
-   "flightNumber": "FR1318",
-   "previousPrice": null,
-   "priceUpdated": 1791800193000
-  },
-  "summary": {
-   "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Cyprus",
-    "iataCode": "PFO",
-    "name": "Paphos",
-    "seoName": "paphos",
-    "city": {
-     "code": "PAPHOS",
-     "countryCode": "cy",
-     "name": "Paphos"
-    }
-   },
-   "departureDate": "2026-12-10T14:25:00",
-   "arrivalDate": "2026-12-10T16:00:00",
-   "price": {
-    "value": 40.85,
-    "valueMainUnit": "40",
-    "valueFractionalUnit": "85",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 325~ ~~ATH~12/10/2026 14:25~PFO~12/10/2026 16:00~~",
-   "flightNumber": "FR325",
-   "previousPrice": null,
-   "priceUpdated": 1791800191000
-  },
-  "summary": {
-   "price": {
-    "value": 40.85,
-    "valueMainUnit": "40",
-    "valueFractionalUnit": "85",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-09T06:55:00",
-   "arrivalDate": "2026-12-09T08:45:00",
-   "price": {
-    "value": 42.31,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "31",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~  14~ ~~ATH~12/09/2026 06:55~STN~12/09/2026 08:45~~",
-   "flightNumber": "FR14",
-   "previousPrice": null,
-   "priceUpdated": 1791800189000
-  },
-  "summary": {
-   "price": {
-    "value": 42.31,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "31",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
-    "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
-    }
-   },
-   "departureDate": "2026-12-07T18:00:00",
-   "arrivalDate": "2026-12-07T20:20:00",
-   "price": {
-    "value": 42.93,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "93",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1196~ ~~ATH~12/07/2026 18:00~CRL~12/07/2026 20:20~~",
-   "flightNumber": "FR1196",
-   "previousPrice": null,
-   "priceUpdated": 1791801091000
-  },
-  "summary": {
-   "price": {
-    "value": 42.93,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "93",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-06T21:20:00",
-   "arrivalDate": "2026-12-06T22:50:00",
-   "price": {
-    "value": 42.99,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1318~ ~~ATH~12/06/2026 21:20~BGY~12/06/2026 22:50~~",
-   "flightNumber": "FR1318",
-   "previousPrice": null,
-   "priceUpdated": 1791800189000
-  },
-  "summary": {
-   "price": {
-    "value": 42.99,
-    "valueMainUnit": "42",
+    "value": 45.99,
+    "valueMainUnit": "45",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1584,122 +1834,22 @@
    "departureDate": "2026-12-10T22:40:00",
    "arrivalDate": "2026-12-10T23:59:00",
    "price": {
-    "value": 44.94,
-    "valueMainUnit": "44",
-    "valueFractionalUnit": "94",
+    "value": 46.5,
+    "valueMainUnit": "46",
+    "valueFractionalUnit": "50",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~6017~ ~~ATH~12/10/2026 22:40~BLQ~12/10/2026 23:59~~",
    "flightNumber": "FR6017",
    "previousPrice": null,
-   "priceUpdated": 1791800190000
+   "priceUpdated": 1792404665000
   },
   "summary": {
    "price": {
-    "value": 44.94,
-    "valueMainUnit": "44",
-    "valueFractionalUnit": "94",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Cyprus",
-    "iataCode": "PFO",
-    "name": "Paphos",
-    "seoName": "paphos",
-    "city": {
-     "code": "PAPHOS",
-     "countryCode": "cy",
-     "name": "Paphos"
-    }
-   },
-   "departureDate": "2026-12-06T08:10:00",
-   "arrivalDate": "2026-12-06T09:45:00",
-   "price": {
-    "value": 44.99,
-    "valueMainUnit": "44",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 325~ ~~ATH~12/06/2026 08:10~PFO~12/06/2026 09:45~~",
-   "flightNumber": "FR325",
-   "previousPrice": null,
-   "priceUpdated": 1791800192000
-  },
-  "summary": {
-   "price": {
-    "value": 44.99,
-    "valueMainUnit": "44",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-10T15:00:00",
-   "arrivalDate": "2026-12-10T17:25:00",
-   "price": {
-    "value": 45.69,
-    "valueMainUnit": "45",
-    "valueFractionalUnit": "69",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4519~ ~~ATH~12/10/2026 15:00~DUB~12/10/2026 17:25~~",
-   "flightNumber": "FR4519",
-   "previousPrice": null,
-   "priceUpdated": 1791800192000
-  },
-  "summary": {
-   "price": {
-    "value": 45.69,
-    "valueMainUnit": "45",
-    "valueFractionalUnit": "69",
+    "value": 46.5,
+    "valueMainUnit": "46",
+    "valueFractionalUnit": "50",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1732,8 +1882,8 @@
      "name": "London"
     }
    },
-   "departureDate": "2026-12-05T06:10:00",
-   "arrivalDate": "2026-12-05T08:00:00",
+   "departureDate": "2026-12-05T15:20:00",
+   "arrivalDate": "2026-12-05T17:10:00",
    "price": {
     "value": 46.99,
     "valueMainUnit": "46",
@@ -1741,10 +1891,10 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~  14~ ~~ATH~12/05/2026 06:10~STN~12/05/2026 08:00~~",
-   "flightNumber": "FR14",
+   "flightKey": "FR~  52~ ~~ATH~12/05/2026 15:20~STN~12/05/2026 17:10~~",
+   "flightNumber": "FR52",
    "previousPrice": null,
-   "priceUpdated": 1791800192000
+   "priceUpdated": 1792423895000
   },
   "summary": {
    "price": {
@@ -1756,6 +1906,57 @@
    },
    "previousPrice": null,
    "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Poland",
+    "iataCode": "WMI",
+    "name": "Warsaw Modlin",
+    "seoName": "warsaw-modlin",
+    "city": {
+     "code": "WARSAW",
+     "countryCode": "pl",
+     "macCode": "WWA",
+     "name": "Warsaw"
+    }
+   },
+   "departureDate": "2026-12-04T11:00:00",
+   "arrivalDate": "2026-12-04T12:40:00",
+   "price": {
+    "value": 46.99,
+    "valueMainUnit": "46",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3324~ ~~ATH~12/04/2026 11:00~WMI~12/04/2026 12:40~~",
+   "flightNumber": "FR3324",
+   "previousPrice": null,
+   "priceUpdated": 1792437338000
+  },
+  "summary": {
+   "price": {
+    "value": 46.99,
+    "valueMainUnit": "46",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
   }
  },
  {
@@ -1786,8 +1987,8 @@
    "departureDate": "2026-12-08T13:55:00",
    "arrivalDate": "2026-12-08T15:45:00",
    "price": {
-    "value": 46.99,
-    "valueMainUnit": "46",
+    "value": 47.99,
+    "valueMainUnit": "47",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1795,63 +1996,13 @@
    "flightKey": "FR~  14~ ~~ATH~12/08/2026 13:55~STN~12/08/2026 15:45~~",
    "flightNumber": "FR14",
    "previousPrice": null,
-   "priceUpdated": 1791800192000
+   "priceUpdated": 1792419278000
   },
   "summary": {
    "price": {
-    "value": 46.99,
-    "valueMainUnit": "46",
+    "value": 47.99,
+    "valueMainUnit": "47",
     "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Malta",
-    "iataCode": "MLA",
-    "name": "Malta",
-    "seoName": "malta",
-    "city": {
-     "code": "MALTA",
-     "countryCode": "mt",
-     "name": "Malta"
-    }
-   },
-   "departureDate": "2026-12-10T09:20:00",
-   "arrivalDate": "2026-12-10T10:10:00",
-   "price": {
-    "value": 47.1,
-    "valueMainUnit": "47",
-    "valueFractionalUnit": "10",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6028~ ~~ATH~12/10/2026 09:20~MLA~12/10/2026 10:10~~",
-   "flightNumber": "FR6028",
-   "previousPrice": null,
-   "priceUpdated": 1791800191000
-  },
-  "summary": {
-   "price": {
-    "value": 47.1,
-    "valueMainUnit": "47",
-    "valueFractionalUnit": "10",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1896,7 +2047,7 @@
    "flightKey": "FR~  14~ ~~ATH~12/10/2026 06:20~STN~12/10/2026 08:10~~",
    "flightNumber": "FR14",
    "previousPrice": null,
-   "priceUpdated": 1791800192000
+   "priceUpdated": 1792419307000
   },
   "summary": {
    "price": {
@@ -1924,287 +2075,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Austria",
-    "iataCode": "VIE",
-    "name": "Vienna",
-    "seoName": "vienna",
-    "city": {
-     "code": "VIENNA",
-     "countryCode": "at",
-     "name": "Vienna"
-    }
-   },
-   "departureDate": "2026-12-06T06:00:00",
-   "arrivalDate": "2026-12-06T07:25:00",
-   "price": {
-    "value": 48.99,
-    "valueMainUnit": "48",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~  44~ ~~ATH~12/06/2026 06:00~VIE~12/06/2026 07:25~~",
-   "flightNumber": "FR44",
-   "previousPrice": null,
-   "priceUpdated": 1791800195000
-  },
-  "summary": {
-   "price": {
-    "value": 48.99,
-    "valueMainUnit": "48",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Slovakia",
-    "iataCode": "BTS",
-    "name": "Bratislava",
-    "seoName": "bratislava",
-    "city": {
-     "code": "BRATISLAVA",
-     "countryCode": "sk",
-     "name": "Bratislava"
-    }
-   },
-   "departureDate": "2026-12-11T14:45:00",
-   "arrivalDate": "2026-12-11T16:00:00",
-   "price": {
-    "value": 49.05,
-    "valueMainUnit": "49",
-    "valueFractionalUnit": "05",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5888~ ~~ATH~12/11/2026 14:45~BTS~12/11/2026 16:00~~",
-   "flightNumber": "FR5888",
-   "previousPrice": null,
-   "priceUpdated": 1791802386000
-  },
-  "summary": {
-   "price": {
-    "value": 49.05,
-    "valueMainUnit": "49",
-    "valueFractionalUnit": "05",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Poland",
-    "iataCode": "WMI",
-    "name": "Warsaw Modlin",
-    "seoName": "warsaw-modlin",
-    "city": {
-     "code": "WARSAW",
-     "countryCode": "pl",
-     "macCode": "WWA",
-     "name": "Warsaw"
-    }
-   },
-   "departureDate": "2026-12-07T21:55:00",
-   "arrivalDate": "2026-12-07T23:35:00",
-   "price": {
-    "value": 50.99,
-    "valueMainUnit": "50",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3324~ ~~ATH~12/07/2026 21:55~WMI~12/07/2026 23:35~~",
-   "flightNumber": "FR3324",
-   "previousPrice": null,
-   "priceUpdated": 1791800197000
-  },
-  "summary": {
-   "price": {
-    "value": 50.99,
-    "valueMainUnit": "50",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
-    "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
-    }
-   },
-   "departureDate": "2026-12-05T06:50:00",
-   "arrivalDate": "2026-12-05T09:10:00",
-   "price": {
-    "value": 52.99,
-    "valueMainUnit": "52",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1196~ ~~ATH~12/05/2026 06:50~CRL~12/05/2026 09:10~~",
-   "flightNumber": "FR1196",
-   "previousPrice": null,
-   "priceUpdated": 1791800192000
-  },
-  "summary": {
-   "price": {
-    "value": 52.99,
-    "valueMainUnit": "52",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Poland",
-    "iataCode": "WRO",
-    "name": "Wroclaw",
-    "seoName": "wroclaw",
-    "city": {
-     "code": "WROCLAW",
-     "countryCode": "pl",
-     "name": "Wroclaw"
-    }
-   },
-   "departureDate": "2026-12-06T17:10:00",
-   "arrivalDate": "2026-12-06T18:50:00",
-   "price": {
-    "value": 53.3,
-    "valueMainUnit": "53",
-    "valueFractionalUnit": "30",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4936~ ~~ATH~12/06/2026 17:10~WRO~12/06/2026 18:50~~",
-   "flightNumber": "FR4936",
-   "previousPrice": null,
-   "priceUpdated": 1791800198000
-  },
-  "summary": {
-   "price": {
-    "value": 53.3,
-    "valueMainUnit": "53",
-    "valueFractionalUnit": "30",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
     "countryName": "Italy",
-    "iataCode": "FCO",
-    "name": "Rome Fiumicino",
-    "seoName": "rome-fiumicino",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
     "city": {
-     "code": "ROME",
+     "code": "BERGAMO",
      "countryCode": "it",
-     "macCode": "ROM",
-     "name": "Rome"
+     "name": "Bergamo"
     }
    },
-   "departureDate": "2026-12-07T10:25:00",
-   "arrivalDate": "2026-12-07T11:35:00",
+   "departureDate": "2026-12-06T21:20:00",
+   "arrivalDate": "2026-12-06T22:50:00",
    "price": {
-    "value": 53.33,
-    "valueMainUnit": "53",
-    "valueFractionalUnit": "33",
+    "value": 50.99,
+    "valueMainUnit": "50",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~1199~ ~~ATH~12/07/2026 10:25~FCO~12/07/2026 11:35~~",
-   "flightNumber": "FR1199",
+   "flightKey": "FR~1318~ ~~ATH~12/06/2026 21:20~BGY~12/06/2026 22:50~~",
+   "flightNumber": "FR1318",
    "previousPrice": null,
-   "priceUpdated": 1791800190000
+   "priceUpdated": 1792437388000
   },
   "summary": {
    "price": {
-    "value": 53.33,
-    "valueMainUnit": "53",
-    "valueFractionalUnit": "33",
+    "value": 50.99,
+    "valueMainUnit": "50",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2226,35 +2125,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
+    "countryName": "Malta",
+    "iataCode": "MLA",
+    "name": "Malta",
+    "seoName": "malta",
     "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
+     "code": "MALTA",
+     "countryCode": "mt",
+     "name": "Malta"
     }
    },
-   "departureDate": "2026-12-10T11:25:00",
-   "arrivalDate": "2026-12-10T13:45:00",
+   "departureDate": "2026-12-10T09:20:00",
+   "arrivalDate": "2026-12-10T10:10:00",
    "price": {
-    "value": 53.99,
-    "valueMainUnit": "53",
-    "valueFractionalUnit": "99",
+    "value": 52.0,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "00",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~1196~ ~~ATH~12/10/2026 11:25~CRL~12/10/2026 13:45~~",
-   "flightNumber": "FR1196",
+   "flightKey": "FR~6028~ ~~ATH~12/10/2026 09:20~MLA~12/10/2026 10:10~~",
+   "flightNumber": "FR6028",
    "previousPrice": null,
-   "priceUpdated": 1791800188000
+   "priceUpdated": 1792409825000
   },
   "summary": {
    "price": {
-    "value": 53.99,
-    "valueMainUnit": "53",
-    "valueFractionalUnit": "99",
+    "value": 52.0,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "00",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2277,40 +2176,39 @@
    },
    "arrivalAirport": {
     "countryName": "Poland",
-    "iataCode": "WMI",
-    "name": "Warsaw Modlin",
-    "seoName": "warsaw-modlin",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
     "city": {
-     "code": "WARSAW",
+     "code": "KATOWICE",
      "countryCode": "pl",
-     "macCode": "WWA",
-     "name": "Warsaw"
+     "name": "Katowice"
     }
    },
-   "departureDate": "2026-12-11T11:00:00",
-   "arrivalDate": "2026-12-11T12:40:00",
+   "departureDate": "2026-12-11T11:15:00",
+   "arrivalDate": "2026-12-11T12:45:00",
    "price": {
-    "value": 54.55,
-    "valueMainUnit": "54",
-    "valueFractionalUnit": "55",
+    "value": 52.99,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~3324~ ~~ATH~12/11/2026 11:00~WMI~12/11/2026 12:40~~",
-   "flightNumber": "FR3324",
+   "flightKey": "FR~2614~ ~~ATH~12/11/2026 11:15~KTW~12/11/2026 12:45~~",
+   "flightNumber": "FR2614",
    "previousPrice": null,
-   "priceUpdated": 1791800193000
+   "priceUpdated": 1792432734000
   },
   "summary": {
    "price": {
-    "value": 54.55,
-    "valueMainUnit": "54",
-    "valueFractionalUnit": "55",
+    "value": 52.99,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
-   "newRoute": true
+   "newRoute": false
   }
  },
  {
@@ -2340,8 +2238,8 @@
    "departureDate": "2026-12-07T15:30:00",
    "arrivalDate": "2026-12-07T17:55:00",
    "price": {
-    "value": 54.59,
-    "valueMainUnit": "54",
+    "value": 53.59,
+    "valueMainUnit": "53",
     "valueFractionalUnit": "59",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2349,68 +2247,18 @@
    "flightKey": "FR~4519~ ~~ATH~12/07/2026 15:30~DUB~12/07/2026 17:55~~",
    "flightNumber": "FR4519",
    "previousPrice": null,
-   "priceUpdated": 1791800192000
+   "priceUpdated": 1792427467000
   },
   "summary": {
    "price": {
-    "value": 54.59,
-    "valueMainUnit": "54",
+    "value": 53.59,
+    "valueMainUnit": "53",
     "valueFractionalUnit": "59",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Slovakia",
-    "iataCode": "BTS",
-    "name": "Bratislava",
-    "seoName": "bratislava",
-    "city": {
-     "code": "BRATISLAVA",
-     "countryCode": "sk",
-     "name": "Bratislava"
-    }
-   },
-   "departureDate": "2026-12-06T19:30:00",
-   "arrivalDate": "2026-12-06T20:45:00",
-   "price": {
-    "value": 54.99,
-    "valueMainUnit": "54",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5888~ ~~ATH~12/06/2026 19:30~BTS~12/06/2026 20:45~~",
-   "flightNumber": "FR5888",
-   "previousPrice": null,
-   "priceUpdated": 1791800193000
-  },
-  "summary": {
-   "price": {
-    "value": 54.99,
-    "valueMainUnit": "54",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
   }
  },
  {
@@ -2449,7 +2297,7 @@
    "flightKey": "FR~  44~ ~~ATH~12/10/2026 16:00~VIE~12/10/2026 17:25~~",
    "flightNumber": "FR44",
    "previousPrice": null,
-   "priceUpdated": 1791800132000
+   "priceUpdated": 1792419665000
   },
   "summary": {
    "price": {
@@ -2477,18 +2325,18 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
+    "countryName": "Slovakia",
+    "iataCode": "BTS",
+    "name": "Bratislava",
+    "seoName": "bratislava",
     "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
+     "code": "BRATISLAVA",
+     "countryCode": "sk",
+     "name": "Bratislava"
     }
    },
-   "departureDate": "2026-12-11T11:15:00",
-   "arrivalDate": "2026-12-11T12:45:00",
+   "departureDate": "2026-12-04T14:45:00",
+   "arrivalDate": "2026-12-04T16:00:00",
    "price": {
     "value": 55.99,
     "valueMainUnit": "55",
@@ -2496,10 +2344,60 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2614~ ~~ATH~12/11/2026 11:15~KTW~12/11/2026 12:45~~",
-   "flightNumber": "FR2614",
+   "flightKey": "FR~5888~ ~~ATH~12/04/2026 14:45~BTS~12/04/2026 16:00~~",
+   "flightNumber": "FR5888",
    "previousPrice": null,
-   "priceUpdated": 1791800193000
+   "priceUpdated": 1792437331000
+  },
+  "summary": {
+   "price": {
+    "value": 55.99,
+    "valueMainUnit": "55",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Austria",
+    "iataCode": "VIE",
+    "name": "Vienna",
+    "seoName": "vienna",
+    "city": {
+     "code": "VIENNA",
+     "countryCode": "at",
+     "name": "Vienna"
+    }
+   },
+   "departureDate": "2026-12-06T06:00:00",
+   "arrivalDate": "2026-12-06T07:25:00",
+   "price": {
+    "value": 55.99,
+    "valueMainUnit": "55",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~  44~ ~~ATH~12/06/2026 06:00~VIE~12/06/2026 07:25~~",
+   "flightNumber": "FR44",
+   "previousPrice": null,
+   "priceUpdated": 1792436741000
   },
   "summary": {
    "price": {
@@ -2527,40 +2425,191 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Austria",
-    "iataCode": "VIE",
-    "name": "Vienna",
-    "seoName": "vienna",
+    "countryName": "Cyprus",
+    "iataCode": "PFO",
+    "name": "Paphos",
+    "seoName": "paphos",
     "city": {
-     "code": "VIENNA",
-     "countryCode": "at",
-     "name": "Vienna"
+     "code": "PAPHOS",
+     "countryCode": "cy",
+     "name": "Paphos"
     }
    },
-   "departureDate": "2026-12-05T14:35:00",
-   "arrivalDate": "2026-12-05T16:00:00",
+   "departureDate": "2026-12-06T08:10:00",
+   "arrivalDate": "2026-12-06T09:45:00",
    "price": {
-    "value": 57.73,
-    "valueMainUnit": "57",
-    "valueFractionalUnit": "73",
+    "value": 56.99,
+    "valueMainUnit": "56",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~  44~ ~~ATH~12/05/2026 14:35~VIE~12/05/2026 16:00~~",
-   "flightNumber": "FR44",
+   "flightKey": "FR~ 325~ ~~ATH~12/06/2026 08:10~PFO~12/06/2026 09:45~~",
+   "flightNumber": "FR325",
    "previousPrice": null,
-   "priceUpdated": 1791800198000
+   "priceUpdated": 1792419240000
   },
   "summary": {
    "price": {
-    "value": 57.73,
-    "valueMainUnit": "57",
-    "valueFractionalUnit": "73",
+    "value": 56.99,
+    "valueMainUnit": "56",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Cyprus",
+    "iataCode": "PFO",
+    "name": "Paphos",
+    "seoName": "paphos",
+    "city": {
+     "code": "PAPHOS",
+     "countryCode": "cy",
+     "name": "Paphos"
+    }
+   },
+   "departureDate": "2026-12-10T14:25:00",
+   "arrivalDate": "2026-12-10T16:00:00",
+   "price": {
+    "value": 59.36,
+    "valueMainUnit": "59",
+    "valueFractionalUnit": "36",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 325~ ~~ATH~12/10/2026 14:25~PFO~12/10/2026 16:00~~",
+   "flightNumber": "FR325",
+   "previousPrice": null,
+   "priceUpdated": 1792438119000
+  },
+  "summary": {
+   "price": {
+    "value": 59.36,
+    "valueMainUnit": "59",
+    "valueFractionalUnit": "36",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
+    "city": {
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
+    }
+   },
+   "departureDate": "2026-12-10T11:25:00",
+   "arrivalDate": "2026-12-10T13:45:00",
+   "price": {
+    "value": 59.99,
+    "valueMainUnit": "59",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1196~ ~~ATH~12/10/2026 11:25~CRL~12/10/2026 13:45~~",
+   "flightNumber": "FR1196",
+   "previousPrice": null,
+   "priceUpdated": 1792419294000
+  },
+  "summary": {
+   "price": {
+    "value": 59.99,
+    "valueMainUnit": "59",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Poland",
+    "iataCode": "WMI",
+    "name": "Warsaw Modlin",
+    "seoName": "warsaw-modlin",
+    "city": {
+     "code": "WARSAW",
+     "countryCode": "pl",
+     "macCode": "WWA",
+     "name": "Warsaw"
+    }
+   },
+   "departureDate": "2026-12-07T21:55:00",
+   "arrivalDate": "2026-12-07T23:35:00",
+   "price": {
+    "value": 60.99,
+    "valueMainUnit": "60",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3324~ ~~ATH~12/07/2026 21:55~WMI~12/07/2026 23:35~~",
+   "flightNumber": "FR3324",
+   "previousPrice": null,
+   "priceUpdated": 1792441745000
+  },
+  "summary": {
+   "price": {
+    "value": 60.99,
+    "valueMainUnit": "60",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
   }
  },
  {
@@ -2590,8 +2639,8 @@
    "departureDate": "2026-12-07T22:25:00",
    "arrivalDate": "2026-12-07T23:55:00",
    "price": {
-    "value": 59.99,
-    "valueMainUnit": "59",
+    "value": 61.99,
+    "valueMainUnit": "61",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2599,12 +2648,12 @@
    "flightKey": "FR~2614~ ~~ATH~12/07/2026 22:25~KTW~12/07/2026 23:55~~",
    "flightNumber": "FR2614",
    "previousPrice": null,
-   "priceUpdated": 1791800191000
+   "priceUpdated": 1792419741000
   },
   "summary": {
    "price": {
-    "value": 59.99,
-    "valueMainUnit": "59",
+    "value": 61.99,
+    "valueMainUnit": "61",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2627,35 +2676,136 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Hungary",
-    "iataCode": "BUD",
-    "name": "Budapest",
-    "seoName": "budapest",
+    "countryName": "Poland",
+    "iataCode": "WMI",
+    "name": "Warsaw Modlin",
+    "seoName": "warsaw-modlin",
     "city": {
-     "code": "BUDAPEST",
-     "countryCode": "hu",
-     "name": "Budapest"
+     "code": "WARSAW",
+     "countryCode": "pl",
+     "macCode": "WWA",
+     "name": "Warsaw"
     }
    },
-   "departureDate": "2026-12-10T19:25:00",
-   "arrivalDate": "2026-12-10T20:30:00",
+   "departureDate": "2026-12-11T11:00:00",
+   "arrivalDate": "2026-12-11T12:40:00",
    "price": {
-    "value": 62.36,
+    "value": 62.55,
     "valueMainUnit": "62",
-    "valueFractionalUnit": "36",
+    "valueFractionalUnit": "55",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~1242~ ~~ATH~12/10/2026 19:25~BUD~12/10/2026 20:30~~",
-   "flightNumber": "FR1242",
+   "flightKey": "FR~3324~ ~~ATH~12/11/2026 11:00~WMI~12/11/2026 12:40~~",
+   "flightNumber": "FR3324",
    "previousPrice": null,
-   "priceUpdated": 1791801992000
+   "priceUpdated": 1792432521000
   },
   "summary": {
    "price": {
-    "value": 62.36,
+    "value": 62.55,
     "valueMainUnit": "62",
-    "valueFractionalUnit": "36",
+    "valueFractionalUnit": "55",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Cyprus",
+    "iataCode": "PFO",
+    "name": "Paphos",
+    "seoName": "paphos",
+    "city": {
+     "code": "PAPHOS",
+     "countryCode": "cy",
+     "name": "Paphos"
+    }
+   },
+   "departureDate": "2026-12-07T06:05:00",
+   "arrivalDate": "2026-12-07T07:40:00",
+   "price": {
+    "value": 62.99,
+    "valueMainUnit": "62",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 325~ ~~ATH~12/07/2026 06:05~PFO~12/07/2026 07:40~~",
+   "flightNumber": "FR325",
+   "previousPrice": null,
+   "priceUpdated": 1792419292000
+  },
+  "summary": {
+   "price": {
+    "value": 62.99,
+    "valueMainUnit": "62",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "departureDate": "2026-12-04T11:15:00",
+   "arrivalDate": "2026-12-04T12:45:00",
+   "price": {
+    "value": 63.99,
+    "valueMainUnit": "63",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2614~ ~~ATH~12/04/2026 11:15~KTW~12/04/2026 12:45~~",
+   "flightNumber": "FR2614",
+   "previousPrice": null,
+   "priceUpdated": 1792437335000
+  },
+  "summary": {
+   "price": {
+    "value": 63.99,
+    "valueMainUnit": "63",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2690,8 +2840,8 @@
    "departureDate": "2026-12-08T08:00:00",
    "arrivalDate": "2026-12-08T09:25:00",
    "price": {
-    "value": 62.99,
-    "valueMainUnit": "62",
+    "value": 66.99,
+    "valueMainUnit": "66",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2699,12 +2849,12 @@
    "flightKey": "FR~  44~ ~~ATH~12/08/2026 08:00~VIE~12/08/2026 09:25~~",
    "flightNumber": "FR44",
    "previousPrice": null,
-   "priceUpdated": 1791800196000
+   "priceUpdated": 1792436743000
   },
   "summary": {
    "price": {
-    "value": 62.99,
-    "valueMainUnit": "62",
+    "value": 66.99,
+    "valueMainUnit": "66",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2741,8 +2891,8 @@
    "departureDate": "2026-12-06T16:10:00",
    "arrivalDate": "2026-12-06T18:00:00",
    "price": {
-    "value": 64.99,
-    "valueMainUnit": "64",
+    "value": 67.99,
+    "valueMainUnit": "67",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2750,264 +2900,13 @@
    "flightKey": "FR~  14~ ~~ATH~12/06/2026 16:10~STN~12/06/2026 18:00~~",
    "flightNumber": "FR14",
    "previousPrice": null,
-   "priceUpdated": 1791800190000
+   "priceUpdated": 1792437394000
   },
   "summary": {
    "price": {
-    "value": 64.99,
-    "valueMainUnit": "64",
+    "value": 67.99,
+    "valueMainUnit": "67",
     "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "departureDate": "2026-12-04T11:15:00",
-   "arrivalDate": "2026-12-04T12:45:00",
-   "price": {
-    "value": 66.99,
-    "valueMainUnit": "66",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2614~ ~~ATH~12/04/2026 11:15~KTW~12/04/2026 12:45~~",
-   "flightNumber": "FR2614",
-   "previousPrice": null,
-   "priceUpdated": 1791800193000
-  },
-  "summary": {
-   "price": {
-    "value": 66.99,
-    "valueMainUnit": "66",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Cyprus",
-    "iataCode": "PFO",
-    "name": "Paphos",
-    "seoName": "paphos",
-    "city": {
-     "code": "PAPHOS",
-     "countryCode": "cy",
-     "name": "Paphos"
-    }
-   },
-   "departureDate": "2026-12-07T06:05:00",
-   "arrivalDate": "2026-12-07T07:40:00",
-   "price": {
-    "value": 66.99,
-    "valueMainUnit": "66",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 325~ ~~ATH~12/07/2026 06:05~PFO~12/07/2026 07:40~~",
-   "flightNumber": "FR325",
-   "previousPrice": null,
-   "priceUpdated": 1791800193000
-  },
-  "summary": {
-   "price": {
-    "value": 66.99,
-    "valueMainUnit": "66",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Poland",
-    "iataCode": "WRO",
-    "name": "Wroclaw",
-    "seoName": "wroclaw",
-    "city": {
-     "code": "WROCLAW",
-     "countryCode": "pl",
-     "name": "Wroclaw"
-    }
-   },
-   "departureDate": "2026-12-09T18:00:00",
-   "arrivalDate": "2026-12-09T19:40:00",
-   "price": {
-    "value": 71.89,
-    "valueMainUnit": "71",
-    "valueFractionalUnit": "89",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4936~ ~~ATH~12/09/2026 18:00~WRO~12/09/2026 19:40~~",
-   "flightNumber": "FR4936",
-   "previousPrice": null,
-   "priceUpdated": 1791800193000
-  },
-  "summary": {
-   "price": {
-    "value": 71.89,
-    "valueMainUnit": "71",
-    "valueFractionalUnit": "89",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "VCE",
-    "name": "Venice M.Polo",
-    "seoName": "venice",
-    "city": {
-     "code": "VENICE",
-     "countryCode": "it",
-     "macCode": "VEN",
-     "name": "Venice"
-    }
-   },
-   "departureDate": "2026-12-07T23:45:00",
-   "arrivalDate": "2026-12-08T01:05:00",
-   "price": {
-    "value": 71.99,
-    "valueMainUnit": "71",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5824~ ~~ATH~12/07/2026 23:45~VCE~12/08/2026 01:05~~",
-   "flightNumber": "FR5824",
-   "previousPrice": null,
-   "priceUpdated": 1791800193000
-  },
-  "summary": {
-   "price": {
-    "value": 71.99,
-    "valueMainUnit": "71",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BLQ",
-    "name": "Bologna",
-    "seoName": "bologna",
-    "city": {
-     "code": "BOLOGNA",
-     "countryCode": "it",
-     "name": "Bologna"
-    }
-   },
-   "departureDate": "2026-12-07T10:50:00",
-   "arrivalDate": "2026-12-07T12:10:00",
-   "price": {
-    "value": 74.95,
-    "valueMainUnit": "74",
-    "valueFractionalUnit": "95",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6017~ ~~ATH~12/07/2026 10:50~BLQ~12/07/2026 12:10~~",
-   "flightNumber": "FR6017",
-   "previousPrice": null,
-   "priceUpdated": 1791800189000
-  },
-  "summary": {
-   "price": {
-    "value": 74.95,
-    "valueMainUnit": "74",
-    "valueFractionalUnit": "95",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -3043,22 +2942,22 @@
    "departureDate": "2026-12-04T06:05:00",
    "arrivalDate": "2026-12-04T07:55:00",
    "price": {
-    "value": 86.99,
-    "valueMainUnit": "86",
-    "valueFractionalUnit": "99",
+    "value": 69.57,
+    "valueMainUnit": "69",
+    "valueFractionalUnit": "57",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~  14~ ~~ATH~12/04/2026 06:05~STN~12/04/2026 07:55~~",
    "flightNumber": "FR14",
    "previousPrice": null,
-   "priceUpdated": 1791800189000
+   "priceUpdated": 1792405355000
   },
   "summary": {
    "price": {
-    "value": 86.99,
-    "valueMainUnit": "86",
-    "valueFractionalUnit": "99",
+    "value": 69.57,
+    "valueMainUnit": "69",
+    "valueFractionalUnit": "57",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -3080,34 +2979,135 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Slovakia",
-    "iataCode": "BTS",
-    "name": "Bratislava",
-    "seoName": "bratislava",
+    "countryName": "Poland",
+    "iataCode": "WRO",
+    "name": "Wroclaw",
+    "seoName": "wroclaw",
     "city": {
-     "code": "BRATISLAVA",
-     "countryCode": "sk",
-     "name": "Bratislava"
+     "code": "WROCLAW",
+     "countryCode": "pl",
+     "name": "Wroclaw"
     }
    },
-   "departureDate": "2026-12-04T14:45:00",
-   "arrivalDate": "2026-12-04T16:00:00",
+   "departureDate": "2026-12-06T17:10:00",
+   "arrivalDate": "2026-12-06T18:50:00",
    "price": {
-    "value": 88.99,
-    "valueMainUnit": "88",
+    "value": 70.24,
+    "valueMainUnit": "70",
+    "valueFractionalUnit": "24",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4936~ ~~ATH~12/06/2026 17:10~WRO~12/06/2026 18:50~~",
+   "flightNumber": "FR4936",
+   "previousPrice": null,
+   "priceUpdated": 1792437931000
+  },
+  "summary": {
+   "price": {
+    "value": 70.24,
+    "valueMainUnit": "70",
+    "valueFractionalUnit": "24",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BLQ",
+    "name": "Bologna",
+    "seoName": "bologna",
+    "city": {
+     "code": "BOLOGNA",
+     "countryCode": "it",
+     "name": "Bologna"
+    }
+   },
+   "departureDate": "2026-12-07T10:50:00",
+   "arrivalDate": "2026-12-07T12:10:00",
+   "price": {
+    "value": 89.78,
+    "valueMainUnit": "89",
+    "valueFractionalUnit": "78",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6017~ ~~ATH~12/07/2026 10:50~BLQ~12/07/2026 12:10~~",
+   "flightNumber": "FR6017",
+   "previousPrice": null,
+   "priceUpdated": 1792441866000
+  },
+  "summary": {
+   "price": {
+    "value": 89.78,
+    "valueMainUnit": "89",
+    "valueFractionalUnit": "78",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "VCE",
+    "name": "Venice M.Polo",
+    "seoName": "venice",
+    "city": {
+     "code": "VENICE",
+     "countryCode": "it",
+     "macCode": "VEN",
+     "name": "Venice"
+    }
+   },
+   "departureDate": "2026-12-07T23:45:00",
+   "arrivalDate": "2026-12-08T01:05:00",
+   "price": {
+    "value": 104.99,
+    "valueMainUnit": "104",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~5888~ ~~ATH~12/04/2026 14:45~BTS~12/04/2026 16:00~~",
-   "flightNumber": "FR5888",
+   "flightKey": "FR~5824~ ~~ATH~12/07/2026 23:45~VCE~12/08/2026 01:05~~",
+   "flightNumber": "FR5824",
    "previousPrice": null,
-   "priceUpdated": 1791800191000
+   "priceUpdated": 1792419317000
   },
   "summary": {
    "price": {
-    "value": 88.99,
-    "valueMainUnit": "88",
+    "value": 104.99,
+    "valueMainUnit": "104",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3143,8 +3143,8 @@
    "departureDate": "2026-12-07T19:00:00",
    "arrivalDate": "2026-12-07T20:30:00",
    "price": {
-    "value": 167.99,
-    "valueMainUnit": "167",
+    "value": 150.99,
+    "valueMainUnit": "150",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3152,12 +3152,12 @@
    "flightKey": "FR~2090~ ~~ATH~12/07/2026 19:00~BGY~12/07/2026 20:30~~",
    "flightNumber": "FR2090",
    "previousPrice": null,
-   "priceUpdated": 1791800193000
+   "priceUpdated": 1792419301000
   },
   "summary": {
    "price": {
-    "value": 167.99,
-    "valueMainUnit": "167",
+    "value": 150.99,
+    "valueMainUnit": "150",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3202,7 +3202,7 @@
    "flightKey": "FR~6028~ ~~ATH~12/14/2026 09:40~MLA~12/14/2026 10:30~~",
    "flightNumber": "FR6028",
    "previousPrice": null,
-   "priceUpdated": 1791800191000
+   "priceUpdated": 1792434028000
   },
   "summary": {
    "price": {
@@ -3253,7 +3253,7 @@
    "flightKey": "FR~5824~ ~~ATH~12/12/2026 23:20~VCE~12/13/2026 00:40~~",
    "flightNumber": "FR5824",
    "previousPrice": null,
-   "priceUpdated": 1791802769000
+   "priceUpdated": 1792410233000
   },
   "summary": {
    "price": {
@@ -3295,8 +3295,8 @@
    "departureDate": "2026-12-19T23:20:00",
    "arrivalDate": "2026-12-20T00:40:00",
    "price": {
-    "value": 19.99,
-    "valueMainUnit": "19",
+    "value": 20.99,
+    "valueMainUnit": "20",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3304,113 +3304,12 @@
    "flightKey": "FR~5824~ ~~ATH~12/19/2026 23:20~VCE~12/20/2026 00:40~~",
    "flightNumber": "FR5824",
    "previousPrice": null,
-   "priceUpdated": 1791801997000
+   "priceUpdated": 1792419503000
   },
   "summary": {
    "price": {
-    "value": 19.99,
-    "valueMainUnit": "19",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-19T19:10:00",
-   "arrivalDate": "2026-12-19T20:40:00",
-   "price": {
-    "value": 24.99,
-    "valueMainUnit": "24",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1318~ ~~ATH~12/19/2026 19:10~BGY~12/19/2026 20:40~~",
-   "flightNumber": "FR1318",
-   "previousPrice": null,
-   "priceUpdated": 1791802890000
-  },
-  "summary": {
-   "price": {
-    "value": 24.99,
-    "valueMainUnit": "24",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "VCE",
-    "name": "Venice M.Polo",
-    "seoName": "venice",
-    "city": {
-     "code": "VENICE",
-     "countryCode": "it",
-     "macCode": "VEN",
-     "name": "Venice"
-    }
-   },
-   "departureDate": "2026-12-14T23:45:00",
-   "arrivalDate": "2026-12-15T01:05:00",
-   "price": {
-    "value": 25.99,
-    "valueMainUnit": "25",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5824~ ~~ATH~12/14/2026 23:45~VCE~12/15/2026 01:05~~",
-   "flightNumber": "FR5824",
-   "previousPrice": null,
-   "priceUpdated": 1791800197000
-  },
-  "summary": {
-   "price": {
-    "value": 25.99,
-    "valueMainUnit": "25",
+    "value": 20.99,
+    "valueMainUnit": "20",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3446,8 +3345,8 @@
    "departureDate": "2026-12-13T11:30:00",
    "arrivalDate": "2026-12-13T12:20:00",
    "price": {
-    "value": 26.99,
-    "valueMainUnit": "26",
+    "value": 22.99,
+    "valueMainUnit": "22",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3455,18 +3354,168 @@
    "flightKey": "FR~6028~ ~~ATH~12/13/2026 11:30~MLA~12/13/2026 12:20~~",
    "flightNumber": "FR6028",
    "previousPrice": null,
-   "priceUpdated": 1791800191000
+   "priceUpdated": 1792419365000
   },
   "summary": {
    "price": {
-    "value": 26.99,
-    "valueMainUnit": "26",
+    "value": 22.99,
+    "valueMainUnit": "22",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BLQ",
+    "name": "Bologna",
+    "seoName": "bologna",
+    "city": {
+     "code": "BOLOGNA",
+     "countryCode": "it",
+     "name": "Bologna"
+    }
+   },
+   "departureDate": "2026-12-12T09:35:00",
+   "arrivalDate": "2026-12-12T10:55:00",
+   "price": {
+    "value": 23.32,
+    "valueMainUnit": "23",
+    "valueFractionalUnit": "32",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6017~ ~~ATH~12/12/2026 09:35~BLQ~12/12/2026 10:55~~",
+   "flightNumber": "FR6017",
+   "previousPrice": null,
+   "priceUpdated": 1792440960000
+  },
+  "summary": {
+   "price": {
+    "value": 23.32,
+    "valueMainUnit": "23",
+    "valueFractionalUnit": "32",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Slovakia",
+    "iataCode": "BTS",
+    "name": "Bratislava",
+    "seoName": "bratislava",
+    "city": {
+     "code": "BRATISLAVA",
+     "countryCode": "sk",
+     "name": "Bratislava"
+    }
+   },
+   "departureDate": "2026-12-13T19:30:00",
+   "arrivalDate": "2026-12-13T20:45:00",
+   "price": {
+    "value": 23.35,
+    "valueMainUnit": "23",
+    "valueFractionalUnit": "35",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5888~ ~~ATH~12/13/2026 19:30~BTS~12/13/2026 20:45~~",
+   "flightNumber": "FR5888",
+   "previousPrice": null,
+   "priceUpdated": 1792440317000
+  },
+  "summary": {
+   "price": {
+    "value": 23.35,
+    "valueMainUnit": "23",
+    "valueFractionalUnit": "35",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Cyprus",
+    "iataCode": "PFO",
+    "name": "Paphos",
+    "seoName": "paphos",
+    "city": {
+     "code": "PAPHOS",
+     "countryCode": "cy",
+     "name": "Paphos"
+    }
+   },
+   "departureDate": "2026-12-12T15:00:00",
+   "arrivalDate": "2026-12-12T16:35:00",
+   "price": {
+    "value": 24.49,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "49",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 325~ ~~ATH~12/12/2026 15:00~PFO~12/12/2026 16:35~~",
+   "flightNumber": "FR325",
+   "previousPrice": null,
+   "priceUpdated": 1792435620000
+  },
+  "summary": {
+   "price": {
+    "value": 24.49,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "49",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
   }
  },
  {
@@ -3496,27 +3545,77 @@
    "departureDate": "2026-12-17T09:20:00",
    "arrivalDate": "2026-12-17T10:10:00",
    "price": {
-    "value": 27.52,
+    "value": 27.05,
     "valueMainUnit": "27",
-    "valueFractionalUnit": "52",
+    "valueFractionalUnit": "05",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~6028~ ~~ATH~12/17/2026 09:20~MLA~12/17/2026 10:10~~",
    "flightNumber": "FR6028",
    "previousPrice": null,
-   "priceUpdated": 1791801091000
+   "priceUpdated": 1792418163000
   },
   "summary": {
    "price": {
-    "value": 27.52,
+    "value": 27.05,
     "valueMainUnit": "27",
-    "valueFractionalUnit": "52",
+    "valueFractionalUnit": "05",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Cyprus",
+    "iataCode": "PFO",
+    "name": "Paphos",
+    "seoName": "paphos",
+    "city": {
+     "code": "PAPHOS",
+     "countryCode": "cy",
+     "name": "Paphos"
+    }
+   },
+   "departureDate": "2026-12-14T06:05:00",
+   "arrivalDate": "2026-12-14T07:40:00",
+   "price": {
+    "value": 27.24,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "24",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 325~ ~~ATH~12/14/2026 06:05~PFO~12/14/2026 07:40~~",
+   "flightNumber": "FR325",
+   "previousPrice": null,
+   "priceUpdated": 1792441558000
+  },
+  "summary": {
+   "price": {
+    "value": 27.24,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "24",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
   }
  },
  {
@@ -3546,72 +3645,22 @@
    "departureDate": "2026-12-18T23:25:00",
    "arrivalDate": "2026-12-19T00:45:00",
    "price": {
-    "value": 27.88,
+    "value": 27.32,
     "valueMainUnit": "27",
-    "valueFractionalUnit": "88",
+    "valueFractionalUnit": "32",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~6017~ ~~ATH~12/18/2026 23:25~BLQ~12/19/2026 00:45~~",
    "flightNumber": "FR6017",
    "previousPrice": null,
-   "priceUpdated": 1791801091000
+   "priceUpdated": 1792434039000
   },
   "summary": {
    "price": {
-    "value": 27.88,
+    "value": 27.32,
     "valueMainUnit": "27",
-    "valueFractionalUnit": "88",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BLQ",
-    "name": "Bologna",
-    "seoName": "bologna",
-    "city": {
-     "code": "BOLOGNA",
-     "countryCode": "it",
-     "name": "Bologna"
-    }
-   },
-   "departureDate": "2026-12-17T22:40:00",
-   "arrivalDate": "2026-12-17T23:59:00",
-   "price": {
-    "value": 27.99,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6017~ ~~ATH~12/17/2026 22:40~BLQ~12/17/2026 23:59~~",
-   "flightNumber": "FR6017",
-   "previousPrice": null,
-   "priceUpdated": 1791800189000
-  },
-  "summary": {
-   "price": {
-    "value": 27.99,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "99",
+    "valueFractionalUnit": "32",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -3655,7 +3704,7 @@
    "flightKey": "FR~1242~ ~~ATH~12/12/2026 17:25~BUD~12/12/2026 18:30~~",
    "flightNumber": "FR1242",
    "previousPrice": null,
-   "priceUpdated": 1791802775000
+   "priceUpdated": 1792434006000
   },
   "summary": {
    "price": {
@@ -3697,8 +3746,8 @@
    "departureDate": "2026-12-12T06:10:00",
    "arrivalDate": "2026-12-12T08:00:00",
    "price": {
-    "value": 28.99,
-    "valueMainUnit": "28",
+    "value": 27.99,
+    "valueMainUnit": "27",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3706,12 +3755,12 @@
    "flightKey": "FR~  14~ ~~ATH~12/12/2026 06:10~STN~12/12/2026 08:00~~",
    "flightNumber": "FR14",
    "previousPrice": null,
-   "priceUpdated": 1791800190000
+   "priceUpdated": 1792430574000
   },
   "summary": {
    "price": {
-    "value": 28.99,
-    "valueMainUnit": "28",
+    "value": 27.99,
+    "valueMainUnit": "27",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3734,19 +3783,69 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
     "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
     }
    },
-   "departureDate": "2026-12-14T06:30:00",
-   "arrivalDate": "2026-12-14T08:20:00",
+   "departureDate": "2026-12-18T17:40:00",
+   "arrivalDate": "2026-12-18T19:10:00",
+   "price": {
+    "value": 28.4,
+    "valueMainUnit": "28",
+    "valueFractionalUnit": "40",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2090~ ~~ATH~12/18/2026 17:40~BGY~12/18/2026 19:10~~",
+   "flightNumber": "FR2090",
+   "previousPrice": null,
+   "priceUpdated": 1792404875000
+  },
+  "summary": {
+   "price": {
+    "value": 28.4,
+    "valueMainUnit": "28",
+    "valueFractionalUnit": "40",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "VCE",
+    "name": "Venice M.Polo",
+    "seoName": "venice",
+    "city": {
+     "code": "VENICE",
+     "countryCode": "it",
+     "macCode": "VEN",
+     "name": "Venice"
+    }
+   },
+   "departureDate": "2026-12-14T23:45:00",
+   "arrivalDate": "2026-12-15T01:05:00",
    "price": {
     "value": 28.99,
     "valueMainUnit": "28",
@@ -3754,10 +3853,10 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~  14~ ~~ATH~12/14/2026 06:30~STN~12/14/2026 08:20~~",
-   "flightNumber": "FR14",
+   "flightKey": "FR~5824~ ~~ATH~12/14/2026 23:45~VCE~12/15/2026 01:05~~",
+   "flightNumber": "FR5824",
    "previousPrice": null,
-   "priceUpdated": 1791800190000
+   "priceUpdated": 1792438409000
   },
   "summary": {
    "price": {
@@ -3768,7 +3867,7 @@
     "currencySymbol": "€"
    },
    "previousPrice": null,
-   "newRoute": false
+   "newRoute": true
   }
  },
  {
@@ -3807,7 +3906,7 @@
    "flightKey": "FR~1196~ ~~ATH~12/12/2026 06:50~CRL~12/12/2026 09:10~~",
    "flightNumber": "FR1196",
    "previousPrice": null,
-   "priceUpdated": 1791802763000
+   "priceUpdated": 1792434124000
   },
   "summary": {
    "price": {
@@ -3857,7 +3956,7 @@
    "flightKey": "FR~1196~ ~~ATH~12/13/2026 06:50~CRL~12/13/2026 09:10~~",
    "flightNumber": "FR1196",
    "previousPrice": null,
-   "priceUpdated": 1791800189000
+   "priceUpdated": 1792440420000
   },
   "summary": {
    "price": {
@@ -3885,35 +3984,86 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BLQ",
-    "name": "Bologna",
-    "seoName": "bologna",
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
     "city": {
-     "code": "BOLOGNA",
-     "countryCode": "it",
-     "name": "Bologna"
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
     }
    },
-   "departureDate": "2026-12-12T15:55:00",
-   "arrivalDate": "2026-12-12T17:15:00",
+   "departureDate": "2026-12-14T18:00:00",
+   "arrivalDate": "2026-12-14T20:20:00",
    "price": {
-    "value": 30.52,
-    "valueMainUnit": "30",
-    "valueFractionalUnit": "52",
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6052~ ~~ATH~12/12/2026 15:55~BLQ~12/12/2026 17:15~~",
-   "flightNumber": "FR6052",
+   "flightKey": "FR~1196~ ~~ATH~12/14/2026 18:00~CRL~12/14/2026 20:20~~",
+   "flightNumber": "FR1196",
    "previousPrice": null,
-   "priceUpdated": 1791802889000
+   "priceUpdated": 1792438406000
   },
   "summary": {
    "price": {
-    "value": 30.52,
-    "valueMainUnit": "30",
-    "valueFractionalUnit": "52",
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-14T06:30:00",
+   "arrivalDate": "2026-12-14T08:20:00",
+   "price": {
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~  14~ ~~ATH~12/14/2026 06:30~STN~12/14/2026 08:20~~",
+   "flightNumber": "FR14",
+   "previousPrice": null,
+   "priceUpdated": 1792434009000
+  },
+  "summary": {
+   "price": {
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -3948,8 +4098,8 @@
    "departureDate": "2026-12-12T19:10:00",
    "arrivalDate": "2026-12-12T20:40:00",
    "price": {
-    "value": 31.99,
-    "valueMainUnit": "31",
+    "value": 29.99,
+    "valueMainUnit": "29",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3957,214 +4107,13 @@
    "flightKey": "FR~1318~ ~~ATH~12/12/2026 19:10~BGY~12/12/2026 20:40~~",
    "flightNumber": "FR1318",
    "previousPrice": null,
-   "priceUpdated": 1791802771000
+   "priceUpdated": 1792435014000
   },
   "summary": {
    "price": {
-    "value": 31.99,
-    "valueMainUnit": "31",
+    "value": 29.99,
+    "valueMainUnit": "29",
     "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "FCO",
-    "name": "Rome Fiumicino",
-    "seoName": "rome-fiumicino",
-    "city": {
-     "code": "ROME",
-     "countryCode": "it",
-     "macCode": "ROM",
-     "name": "Rome"
-    }
-   },
-   "departureDate": "2026-12-14T10:25:00",
-   "arrivalDate": "2026-12-14T11:35:00",
-   "price": {
-    "value": 32.38,
-    "valueMainUnit": "32",
-    "valueFractionalUnit": "38",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1199~ ~~ATH~12/14/2026 10:25~FCO~12/14/2026 11:35~~",
-   "flightNumber": "FR1199",
-   "previousPrice": null,
-   "priceUpdated": 1791801093000
-  },
-  "summary": {
-   "price": {
-    "value": 32.38,
-    "valueMainUnit": "32",
-    "valueFractionalUnit": "38",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Malta",
-    "iataCode": "MLA",
-    "name": "Malta",
-    "seoName": "malta",
-    "city": {
-     "code": "MALTA",
-     "countryCode": "mt",
-     "name": "Malta"
-    }
-   },
-   "departureDate": "2026-12-18T21:45:00",
-   "arrivalDate": "2026-12-18T22:35:00",
-   "price": {
-    "value": 32.84,
-    "valueMainUnit": "32",
-    "valueFractionalUnit": "84",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6028~ ~~ATH~12/18/2026 21:45~MLA~12/18/2026 22:35~~",
-   "flightNumber": "FR6028",
-   "previousPrice": null,
-   "priceUpdated": 1791800191000
-  },
-  "summary": {
-   "price": {
-    "value": 32.84,
-    "valueMainUnit": "32",
-    "valueFractionalUnit": "84",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Poland",
-    "iataCode": "WRO",
-    "name": "Wroclaw",
-    "seoName": "wroclaw",
-    "city": {
-     "code": "WROCLAW",
-     "countryCode": "pl",
-     "name": "Wroclaw"
-    }
-   },
-   "departureDate": "2026-12-16T18:00:00",
-   "arrivalDate": "2026-12-16T19:40:00",
-   "price": {
-    "value": 34.15,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "15",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4936~ ~~ATH~12/16/2026 18:00~WRO~12/16/2026 19:40~~",
-   "flightNumber": "FR4936",
-   "previousPrice": null,
-   "priceUpdated": 1791801097000
-  },
-  "summary": {
-   "price": {
-    "value": 34.15,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "15",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "departureDate": "2026-12-12T16:30:00",
-   "arrivalDate": "2026-12-12T18:00:00",
-   "price": {
-    "value": 34.17,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "17",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2614~ ~~ATH~12/12/2026 16:30~KTW~12/12/2026 18:00~~",
-   "flightNumber": "FR2614",
-   "previousPrice": null,
-   "priceUpdated": 1791802890000
-  },
-  "summary": {
-   "price": {
-    "value": 34.17,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "17",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -4196,74 +4145,24 @@
      "name": "Bergamo"
     }
    },
-   "departureDate": "2026-12-14T19:00:00",
-   "arrivalDate": "2026-12-14T20:30:00",
+   "departureDate": "2026-12-19T19:10:00",
+   "arrivalDate": "2026-12-19T20:40:00",
    "price": {
-    "value": 34.99,
-    "valueMainUnit": "34",
+    "value": 29.99,
+    "valueMainUnit": "29",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2090~ ~~ATH~12/14/2026 19:00~BGY~12/14/2026 20:30~~",
-   "flightNumber": "FR2090",
+   "flightKey": "FR~1318~ ~~ATH~12/19/2026 19:10~BGY~12/19/2026 20:40~~",
+   "flightNumber": "FR1318",
    "previousPrice": null,
-   "priceUpdated": 1791802890000
+   "priceUpdated": 1792425752000
   },
   "summary": {
    "price": {
-    "value": 34.99,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Poland",
-    "iataCode": "WRO",
-    "name": "Wroclaw",
-    "seoName": "wroclaw",
-    "city": {
-     "code": "WROCLAW",
-     "countryCode": "pl",
-     "name": "Wroclaw"
-    }
-   },
-   "departureDate": "2026-12-13T17:10:00",
-   "arrivalDate": "2026-12-13T18:50:00",
-   "price": {
-    "value": 34.99,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4936~ ~~ATH~12/13/2026 17:10~WRO~12/13/2026 18:50~~",
-   "flightNumber": "FR4936",
-   "previousPrice": null,
-   "priceUpdated": 1791800192000
-  },
-  "summary": {
-   "price": {
-    "value": 34.99,
-    "valueMainUnit": "34",
+    "value": 29.99,
+    "valueMainUnit": "29",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4300,27 +4199,380 @@
    "departureDate": "2026-12-17T21:55:00",
    "arrivalDate": "2026-12-17T23:35:00",
    "price": {
-    "value": 35.11,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "11",
+    "value": 30.31,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "31",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~3324~ ~~ATH~12/17/2026 21:55~WMI~12/17/2026 23:35~~",
    "flightNumber": "FR3324",
    "previousPrice": null,
-   "priceUpdated": 1791801098000
+   "priceUpdated": 1792405330000
   },
   "summary": {
    "price": {
-    "value": 35.11,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "11",
+    "value": 30.31,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "31",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BLQ",
+    "name": "Bologna",
+    "seoName": "bologna",
+    "city": {
+     "code": "BOLOGNA",
+     "countryCode": "it",
+     "name": "Bologna"
+    }
+   },
+   "departureDate": "2026-12-19T15:55:00",
+   "arrivalDate": "2026-12-19T17:15:00",
+   "price": {
+    "value": 30.99,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6052~ ~~ATH~12/19/2026 15:55~BLQ~12/19/2026 17:15~~",
+   "flightNumber": "FR6052",
+   "previousPrice": null,
+   "priceUpdated": 1792421191000
+  },
+  "summary": {
+   "price": {
+    "value": 30.99,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Poland",
+    "iataCode": "WMI",
+    "name": "Warsaw Modlin",
+    "seoName": "warsaw-modlin",
+    "city": {
+     "code": "WARSAW",
+     "countryCode": "pl",
+     "macCode": "WWA",
+     "name": "Warsaw"
+    }
+   },
+   "departureDate": "2026-12-19T16:45:00",
+   "arrivalDate": "2026-12-19T18:25:00",
+   "price": {
+    "value": 31.88,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "88",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3324~ ~~ATH~12/19/2026 16:45~WMI~12/19/2026 18:25~~",
+   "flightNumber": "FR3324",
+   "previousPrice": null,
+   "priceUpdated": 1792435593000
+  },
+  "summary": {
+   "price": {
+    "value": 31.88,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "88",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Malta",
+    "iataCode": "MLA",
+    "name": "Malta",
+    "seoName": "malta",
+    "city": {
+     "code": "MALTA",
+     "countryCode": "mt",
+     "name": "Malta"
+    }
+   },
+   "departureDate": "2026-12-18T21:45:00",
+   "arrivalDate": "2026-12-18T22:35:00",
+   "price": {
+    "value": 32.25,
+    "valueMainUnit": "32",
+    "valueFractionalUnit": "25",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6028~ ~~ATH~12/18/2026 21:45~MLA~12/18/2026 22:35~~",
+   "flightNumber": "FR6028",
+   "previousPrice": null,
+   "priceUpdated": 1792405309000
+  },
+  "summary": {
+   "price": {
+    "value": 32.25,
+    "valueMainUnit": "32",
+    "valueFractionalUnit": "25",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-14T19:00:00",
+   "arrivalDate": "2026-12-14T20:30:00",
+   "price": {
+    "value": 32.99,
+    "valueMainUnit": "32",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2090~ ~~ATH~12/14/2026 19:00~BGY~12/14/2026 20:30~~",
+   "flightNumber": "FR2090",
+   "previousPrice": null,
+   "priceUpdated": 1792438390000
+  },
+  "summary": {
+   "price": {
+    "value": 32.99,
+    "valueMainUnit": "32",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Poland",
+    "iataCode": "WRO",
+    "name": "Wroclaw",
+    "seoName": "wroclaw",
+    "city": {
+     "code": "WROCLAW",
+     "countryCode": "pl",
+     "name": "Wroclaw"
+    }
+   },
+   "departureDate": "2026-12-13T17:10:00",
+   "arrivalDate": "2026-12-13T18:50:00",
+   "price": {
+    "value": 32.99,
+    "valueMainUnit": "32",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4936~ ~~ATH~12/13/2026 17:10~WRO~12/13/2026 18:50~~",
+   "flightNumber": "FR4936",
+   "previousPrice": null,
+   "priceUpdated": 1792440312000
+  },
+  "summary": {
+   "price": {
+    "value": 32.99,
+    "valueMainUnit": "32",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-13T16:10:00",
+   "arrivalDate": "2026-12-13T18:00:00",
+   "price": {
+    "value": 34.99,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~  14~ ~~ATH~12/13/2026 16:10~STN~12/13/2026 18:00~~",
+   "flightNumber": "FR14",
+   "previousPrice": null,
+   "priceUpdated": 1792434214000
+  },
+  "summary": {
+   "price": {
+    "value": 34.99,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-15T13:55:00",
+   "arrivalDate": "2026-12-15T15:45:00",
+   "price": {
+    "value": 34.99,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~  14~ ~~ATH~12/15/2026 13:55~STN~12/15/2026 15:45~~",
+   "flightNumber": "FR14",
+   "previousPrice": null,
+   "priceUpdated": 1792434028000
+  },
+  "summary": {
+   "price": {
+    "value": 34.99,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
   }
  },
  {
@@ -4351,22 +4603,73 @@
    "departureDate": "2026-12-16T06:55:00",
    "arrivalDate": "2026-12-16T08:45:00",
    "price": {
-    "value": 35.39,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "39",
+    "value": 34.99,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~  14~ ~~ATH~12/16/2026 06:55~STN~12/16/2026 08:45~~",
    "flightNumber": "FR14",
    "previousPrice": null,
-   "priceUpdated": 1791800193000
+   "priceUpdated": 1792434008000
   },
   "summary": {
    "price": {
-    "value": 35.39,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "39",
+    "value": 34.99,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-17T06:20:00",
+   "arrivalDate": "2026-12-17T08:10:00",
+   "price": {
+    "value": 34.99,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~  14~ ~~ATH~12/17/2026 06:20~STN~12/17/2026 08:10~~",
+   "flightNumber": "FR14",
+   "previousPrice": null,
+   "priceUpdated": 1792434140000
+  },
+  "summary": {
+   "price": {
+    "value": 34.99,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -4389,34 +4692,35 @@
    },
    "arrivalAirport": {
     "countryName": "Italy",
-    "iataCode": "BLQ",
-    "name": "Bologna",
-    "seoName": "bologna",
+    "iataCode": "FCO",
+    "name": "Rome Fiumicino",
+    "seoName": "rome-fiumicino",
     "city": {
-     "code": "BOLOGNA",
+     "code": "ROME",
      "countryCode": "it",
-     "name": "Bologna"
+     "macCode": "ROM",
+     "name": "Rome"
     }
    },
-   "departureDate": "2026-12-14T10:50:00",
-   "arrivalDate": "2026-12-14T12:10:00",
+   "departureDate": "2026-12-14T10:25:00",
+   "arrivalDate": "2026-12-14T11:35:00",
    "price": {
-    "value": 35.84,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "84",
+    "value": 36.6,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "60",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6017~ ~~ATH~12/14/2026 10:50~BLQ~12/14/2026 12:10~~",
-   "flightNumber": "FR6017",
+   "flightKey": "FR~1199~ ~~ATH~12/14/2026 10:25~FCO~12/14/2026 11:35~~",
+   "flightNumber": "FR1199",
    "previousPrice": null,
-   "priceUpdated": 1791801091000
+   "priceUpdated": 1792438542000
   },
   "summary": {
    "price": {
-    "value": 35.84,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "84",
+    "value": 36.6,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "60",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -4438,18 +4742,18 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BLQ",
-    "name": "Bologna",
-    "seoName": "bologna",
+    "countryName": "Austria",
+    "iataCode": "VIE",
+    "name": "Vienna",
+    "seoName": "vienna",
     "city": {
-     "code": "BOLOGNA",
-     "countryCode": "it",
-     "name": "Bologna"
+     "code": "VIENNA",
+     "countryCode": "at",
+     "name": "Vienna"
     }
    },
-   "departureDate": "2026-12-19T15:55:00",
-   "arrivalDate": "2026-12-19T17:15:00",
+   "departureDate": "2026-12-13T06:00:00",
+   "arrivalDate": "2026-12-13T07:25:00",
    "price": {
     "value": 36.99,
     "valueMainUnit": "36",
@@ -4457,10 +4761,10 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6052~ ~~ATH~12/19/2026 15:55~BLQ~12/19/2026 17:15~~",
-   "flightNumber": "FR6052",
+   "flightKey": "FR~  44~ ~~ATH~12/13/2026 06:00~VIE~12/13/2026 07:25~~",
+   "flightNumber": "FR44",
    "previousPrice": null,
-   "priceUpdated": 1791801992000
+   "priceUpdated": 1792441865000
   },
   "summary": {
    "price": {
@@ -4510,7 +4814,7 @@
    "flightKey": "FR~  44~ ~~ATH~12/15/2026 08:00~VIE~12/15/2026 09:25~~",
    "flightNumber": "FR44",
    "previousPrice": null,
-   "priceUpdated": 1791801094000
+   "priceUpdated": 1792439208000
   },
   "summary": {
    "price": {
@@ -4538,34 +4842,185 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
+    "countryName": "Italy",
+    "iataCode": "BLQ",
+    "name": "Bologna",
+    "seoName": "bologna",
     "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
+     "code": "BOLOGNA",
+     "countryCode": "it",
+     "name": "Bologna"
     }
    },
-   "departureDate": "2026-12-14T15:30:00",
-   "arrivalDate": "2026-12-14T17:55:00",
+   "departureDate": "2026-12-14T10:50:00",
+   "arrivalDate": "2026-12-14T12:10:00",
    "price": {
-    "value": 37.99,
-    "valueMainUnit": "37",
+    "value": 38.6,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "60",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6017~ ~~ATH~12/14/2026 10:50~BLQ~12/14/2026 12:10~~",
+   "flightNumber": "FR6017",
+   "previousPrice": null,
+   "priceUpdated": 1792438565000
+  },
+  "summary": {
+   "price": {
+    "value": 38.6,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "60",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BLQ",
+    "name": "Bologna",
+    "seoName": "bologna",
+    "city": {
+     "code": "BOLOGNA",
+     "countryCode": "it",
+     "name": "Bologna"
+    }
+   },
+   "departureDate": "2026-12-17T22:40:00",
+   "arrivalDate": "2026-12-17T23:59:00",
+   "price": {
+    "value": 38.99,
+    "valueMainUnit": "38",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~4519~ ~~ATH~12/14/2026 15:30~DUB~12/14/2026 17:55~~",
-   "flightNumber": "FR4519",
+   "flightKey": "FR~6017~ ~~ATH~12/17/2026 22:40~BLQ~12/17/2026 23:59~~",
+   "flightNumber": "FR6017",
    "previousPrice": null,
-   "priceUpdated": 1791800192000
+   "priceUpdated": 1792419449000
   },
   "summary": {
    "price": {
-    "value": 37.99,
-    "valueMainUnit": "37",
+    "value": 38.99,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-17T07:55:00",
+   "arrivalDate": "2026-12-17T09:25:00",
+   "price": {
+    "value": 38.99,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1318~ ~~ATH~12/17/2026 07:55~BGY~12/17/2026 09:25~~",
+   "flightNumber": "FR1318",
+   "previousPrice": null,
+   "priceUpdated": 1792419800000
+  },
+  "summary": {
+   "price": {
+    "value": 38.99,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "FCO",
+    "name": "Rome Fiumicino",
+    "seoName": "rome-fiumicino",
+    "city": {
+     "code": "ROME",
+     "countryCode": "it",
+     "macCode": "ROM",
+     "name": "Rome"
+    }
+   },
+   "departureDate": "2026-12-18T22:50:00",
+   "arrivalDate": "2026-12-18T23:59:00",
+   "price": {
+    "value": 38.99,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1199~ ~~ATH~12/18/2026 22:50~FCO~12/18/2026 23:59~~",
+   "flightNumber": "FR1199",
+   "previousPrice": null,
+   "priceUpdated": 1792436810000
+  },
+  "summary": {
+   "price": {
+    "value": 38.99,
+    "valueMainUnit": "38",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4602,8 +5057,8 @@
    "departureDate": "2026-12-12T16:45:00",
    "arrivalDate": "2026-12-12T18:25:00",
    "price": {
-    "value": 37.99,
-    "valueMainUnit": "37",
+    "value": 38.99,
+    "valueMainUnit": "38",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4611,157 +5066,7 @@
    "flightKey": "FR~3324~ ~~ATH~12/12/2026 16:45~WMI~12/12/2026 18:25~~",
    "flightNumber": "FR3324",
    "previousPrice": null,
-   "priceUpdated": 1791802766000
-  },
-  "summary": {
-   "price": {
-    "value": 37.99,
-    "valueMainUnit": "37",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-17T15:00:00",
-   "arrivalDate": "2026-12-17T17:25:00",
-   "price": {
-    "value": 38.93,
-    "valueMainUnit": "38",
-    "valueFractionalUnit": "93",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4519~ ~~ATH~12/17/2026 15:00~DUB~12/17/2026 17:25~~",
-   "flightNumber": "FR4519",
-   "previousPrice": null,
-   "priceUpdated": 1791800191000
-  },
-  "summary": {
-   "price": {
-    "value": 38.93,
-    "valueMainUnit": "38",
-    "valueFractionalUnit": "93",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
-    "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
-    }
-   },
-   "departureDate": "2026-12-18T11:05:00",
-   "arrivalDate": "2026-12-18T13:25:00",
-   "price": {
-    "value": 38.99,
-    "valueMainUnit": "38",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1196~ ~~ATH~12/18/2026 11:05~CRL~12/18/2026 13:25~~",
-   "flightNumber": "FR1196",
-   "previousPrice": null,
-   "priceUpdated": 1791801992000
-  },
-  "summary": {
-   "price": {
-    "value": 38.99,
-    "valueMainUnit": "38",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Cyprus",
-    "iataCode": "PFO",
-    "name": "Paphos",
-    "seoName": "paphos",
-    "city": {
-     "code": "PAPHOS",
-     "countryCode": "cy",
-     "name": "Paphos"
-    }
-   },
-   "departureDate": "2026-12-19T15:00:00",
-   "arrivalDate": "2026-12-19T16:35:00",
-   "price": {
-    "value": 38.99,
-    "valueMainUnit": "38",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 325~ ~~ATH~12/19/2026 15:00~PFO~12/19/2026 16:35~~",
-   "flightNumber": "FR325",
-   "previousPrice": null,
-   "priceUpdated": 1791801993000
+   "priceUpdated": 1792419666000
   },
   "summary": {
    "price": {
@@ -4790,337 +5095,34 @@
    },
    "arrivalAirport": {
     "countryName": "Poland",
-    "iataCode": "WMI",
-    "name": "Warsaw Modlin",
-    "seoName": "warsaw-modlin",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
     "city": {
-     "code": "WARSAW",
+     "code": "KATOWICE",
      "countryCode": "pl",
-     "macCode": "WWA",
-     "name": "Warsaw"
+     "name": "Katowice"
     }
    },
-   "departureDate": "2026-12-14T21:55:00",
-   "arrivalDate": "2026-12-14T23:35:00",
+   "departureDate": "2026-12-12T16:30:00",
+   "arrivalDate": "2026-12-12T18:00:00",
    "price": {
-    "value": 38.99,
-    "valueMainUnit": "38",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3324~ ~~ATH~12/14/2026 21:55~WMI~12/14/2026 23:35~~",
-   "flightNumber": "FR3324",
-   "previousPrice": null,
-   "priceUpdated": 1791800194000
-  },
-  "summary": {
-   "price": {
-    "value": 38.99,
-    "valueMainUnit": "38",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-13T16:10:00",
-   "arrivalDate": "2026-12-13T18:00:00",
-   "price": {
-    "value": 39.93,
+    "value": 39.71,
     "valueMainUnit": "39",
-    "valueFractionalUnit": "93",
+    "valueFractionalUnit": "71",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~  14~ ~~ATH~12/13/2026 16:10~STN~12/13/2026 18:00~~",
-   "flightNumber": "FR14",
+   "flightKey": "FR~2614~ ~~ATH~12/12/2026 16:30~KTW~12/12/2026 18:00~~",
+   "flightNumber": "FR2614",
    "previousPrice": null,
-   "priceUpdated": 1791800193000
+   "priceUpdated": 1792440141000
   },
   "summary": {
    "price": {
-    "value": 39.93,
+    "value": 39.71,
     "valueMainUnit": "39",
-    "valueFractionalUnit": "93",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Austria",
-    "iataCode": "VIE",
-    "name": "Vienna",
-    "seoName": "vienna",
-    "city": {
-     "code": "VIENNA",
-     "countryCode": "at",
-     "name": "Vienna"
-    }
-   },
-   "departureDate": "2026-12-13T06:00:00",
-   "arrivalDate": "2026-12-13T07:25:00",
-   "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~  44~ ~~ATH~12/13/2026 06:00~VIE~12/13/2026 07:25~~",
-   "flightNumber": "FR44",
-   "previousPrice": null,
-   "priceUpdated": 1791800194000
-  },
-  "summary": {
-   "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-17T06:20:00",
-   "arrivalDate": "2026-12-17T08:10:00",
-   "price": {
-    "value": 40.93,
-    "valueMainUnit": "40",
-    "valueFractionalUnit": "93",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~  14~ ~~ATH~12/17/2026 06:20~STN~12/17/2026 08:10~~",
-   "flightNumber": "FR14",
-   "previousPrice": null,
-   "priceUpdated": 1791800190000
-  },
-  "summary": {
-   "price": {
-    "value": 40.93,
-    "valueMainUnit": "40",
-    "valueFractionalUnit": "93",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Austria",
-    "iataCode": "VIE",
-    "name": "Vienna",
-    "seoName": "vienna",
-    "city": {
-     "code": "VIENNA",
-     "countryCode": "at",
-     "name": "Vienna"
-    }
-   },
-   "departureDate": "2026-12-17T16:00:00",
-   "arrivalDate": "2026-12-17T17:25:00",
-   "price": {
-    "value": 41.31,
-    "valueMainUnit": "41",
-    "valueFractionalUnit": "31",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~  44~ ~~ATH~12/17/2026 16:00~VIE~12/17/2026 17:25~~",
-   "flightNumber": "FR44",
-   "previousPrice": null,
-   "priceUpdated": 1791801443000
-  },
-  "summary": {
-   "price": {
-    "value": 41.31,
-    "valueMainUnit": "41",
-    "valueFractionalUnit": "31",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Cyprus",
-    "iataCode": "PFO",
-    "name": "Paphos",
-    "seoName": "paphos",
-    "city": {
-     "code": "PAPHOS",
-     "countryCode": "cy",
-     "name": "Paphos"
-    }
-   },
-   "departureDate": "2026-12-12T15:00:00",
-   "arrivalDate": "2026-12-12T16:35:00",
-   "price": {
-    "value": 42.07,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "07",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 325~ ~~ATH~12/12/2026 15:00~PFO~12/12/2026 16:35~~",
-   "flightNumber": "FR325",
-   "previousPrice": null,
-   "priceUpdated": 1791800188000
-  },
-  "summary": {
-   "price": {
-    "value": 42.07,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "07",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
-    "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
-    }
-   },
-   "departureDate": "2026-12-14T18:00:00",
-   "arrivalDate": "2026-12-14T20:20:00",
-   "price": {
-    "value": 42.91,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "91",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1196~ ~~ATH~12/14/2026 18:00~CRL~12/14/2026 20:20~~",
-   "flightNumber": "FR1196",
-   "previousPrice": null,
-   "priceUpdated": 1791801089000
-  },
-  "summary": {
-   "price": {
-    "value": 42.91,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "91",
+    "valueFractionalUnit": "71",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -5155,8 +5157,8 @@
    "departureDate": "2026-12-19T06:50:00",
    "arrivalDate": "2026-12-19T09:10:00",
    "price": {
-    "value": 42.99,
-    "valueMainUnit": "42",
+    "value": 40.99,
+    "valueMainUnit": "40",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -5164,13 +5166,414 @@
    "flightKey": "FR~1196~ ~~ATH~12/19/2026 06:50~CRL~12/19/2026 09:10~~",
    "flightNumber": "FR1196",
    "previousPrice": null,
-   "priceUpdated": 1791801991000
+   "priceUpdated": 1792435593000
+  },
+  "summary": {
+   "price": {
+    "value": 40.99,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Poland",
+    "iataCode": "WMI",
+    "name": "Warsaw Modlin",
+    "seoName": "warsaw-modlin",
+    "city": {
+     "code": "WARSAW",
+     "countryCode": "pl",
+     "macCode": "WWA",
+     "name": "Warsaw"
+    }
+   },
+   "departureDate": "2026-12-14T21:55:00",
+   "arrivalDate": "2026-12-14T23:35:00",
+   "price": {
+    "value": 40.99,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3324~ ~~ATH~12/14/2026 21:55~WMI~12/14/2026 23:35~~",
+   "flightNumber": "FR3324",
+   "previousPrice": null,
+   "priceUpdated": 1792438642000
+  },
+  "summary": {
+   "price": {
+    "value": 40.99,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BLQ",
+    "name": "Bologna",
+    "seoName": "bologna",
+    "city": {
+     "code": "BOLOGNA",
+     "countryCode": "it",
+     "name": "Bologna"
+    }
+   },
+   "departureDate": "2026-12-13T22:45:00",
+   "arrivalDate": "2026-12-14T00:05:00",
+   "price": {
+    "value": 41.43,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "43",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6017~ ~~ATH~12/13/2026 22:45~BLQ~12/14/2026 00:05~~",
+   "flightNumber": "FR6017",
+   "previousPrice": null,
+   "priceUpdated": 1792441644000
+  },
+  "summary": {
+   "price": {
+    "value": 41.43,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "43",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-17T15:00:00",
+   "arrivalDate": "2026-12-17T17:25:00",
+   "price": {
+    "value": 42.63,
+    "valueMainUnit": "42",
+    "valueFractionalUnit": "63",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4519~ ~~ATH~12/17/2026 15:00~DUB~12/17/2026 17:25~~",
+   "flightNumber": "FR4519",
+   "previousPrice": null,
+   "priceUpdated": 1792405307000
+  },
+  "summary": {
+   "price": {
+    "value": 42.63,
+    "valueMainUnit": "42",
+    "valueFractionalUnit": "63",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
+    "city": {
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
+    }
+   },
+   "departureDate": "2026-12-18T11:05:00",
+   "arrivalDate": "2026-12-18T13:25:00",
+   "price": {
+    "value": 42.99,
+    "valueMainUnit": "42",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1196~ ~~ATH~12/18/2026 11:05~CRL~12/18/2026 13:25~~",
+   "flightNumber": "FR1196",
+   "previousPrice": null,
+   "priceUpdated": 1792436489000
   },
   "summary": {
    "price": {
     "value": 42.99,
     "valueMainUnit": "42",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Poland",
+    "iataCode": "WRO",
+    "name": "Wroclaw",
+    "seoName": "wroclaw",
+    "city": {
+     "code": "WROCLAW",
+     "countryCode": "pl",
+     "name": "Wroclaw"
+    }
+   },
+   "departureDate": "2026-12-16T18:00:00",
+   "arrivalDate": "2026-12-16T19:40:00",
+   "price": {
+    "value": 43.76,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "76",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4936~ ~~ATH~12/16/2026 18:00~WRO~12/16/2026 19:40~~",
+   "flightNumber": "FR4936",
+   "previousPrice": null,
+   "priceUpdated": 1792405329000
+  },
+  "summary": {
+   "price": {
+    "value": 43.76,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "76",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
+    "city": {
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
+    }
+   },
+   "departureDate": "2026-12-17T11:25:00",
+   "arrivalDate": "2026-12-17T13:45:00",
+   "price": {
+    "value": 43.99,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1196~ ~~ATH~12/17/2026 11:25~CRL~12/17/2026 13:45~~",
+   "flightNumber": "FR1196",
+   "previousPrice": null,
+   "priceUpdated": 1792419387000
+  },
+  "summary": {
+   "price": {
+    "value": 43.99,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-14T15:30:00",
+   "arrivalDate": "2026-12-14T17:55:00",
+   "price": {
+    "value": 43.99,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4519~ ~~ATH~12/14/2026 15:30~DUB~12/14/2026 17:55~~",
+   "flightNumber": "FR4519",
+   "previousPrice": null,
+   "priceUpdated": 1792436777000
+  },
+  "summary": {
+   "price": {
+    "value": 43.99,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Austria",
+    "iataCode": "VIE",
+    "name": "Vienna",
+    "seoName": "vienna",
+    "city": {
+     "code": "VIENNA",
+     "countryCode": "at",
+     "name": "Vienna"
+    }
+   },
+   "departureDate": "2026-12-17T16:00:00",
+   "arrivalDate": "2026-12-17T17:25:00",
+   "price": {
+    "value": 45.05,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "05",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~  44~ ~~ATH~12/17/2026 16:00~VIE~12/17/2026 17:25~~",
+   "flightNumber": "FR44",
+   "previousPrice": null,
+   "priceUpdated": 1792405335000
+  },
+  "summary": {
+   "price": {
+    "value": 45.05,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "05",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -5205,8 +5608,8 @@
    "departureDate": "2026-12-13T14:35:00",
    "arrivalDate": "2026-12-13T15:40:00",
    "price": {
-    "value": 42.99,
-    "valueMainUnit": "42",
+    "value": 45.99,
+    "valueMainUnit": "45",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -5214,112 +5617,12 @@
    "flightKey": "FR~1242~ ~~ATH~12/13/2026 14:35~BUD~12/13/2026 15:40~~",
    "flightNumber": "FR1242",
    "previousPrice": null,
-   "priceUpdated": 1791800192000
+   "priceUpdated": 1792440311000
   },
   "summary": {
    "price": {
-    "value": 42.99,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-17T07:55:00",
-   "arrivalDate": "2026-12-17T09:25:00",
-   "price": {
-    "value": 42.99,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1318~ ~~ATH~12/17/2026 07:55~BGY~12/17/2026 09:25~~",
-   "flightNumber": "FR1318",
-   "previousPrice": null,
-   "priceUpdated": 1791800189000
-  },
-  "summary": {
-   "price": {
-    "value": 42.99,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-18T05:55:00",
-   "arrivalDate": "2026-12-18T07:25:00",
-   "price": {
-    "value": 43.99,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1318~ ~~ATH~12/18/2026 05:55~BGY~12/18/2026 07:25~~",
-   "flightNumber": "FR1318",
-   "previousPrice": null,
-   "priceUpdated": 1791802516000
-  },
-  "summary": {
-   "price": {
-    "value": 43.99,
-    "valueMainUnit": "43",
+    "value": 45.99,
+    "valueMainUnit": "45",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -5355,8 +5658,8 @@
    "departureDate": "2026-12-17T14:25:00",
    "arrivalDate": "2026-12-17T16:00:00",
    "price": {
-    "value": 43.99,
-    "valueMainUnit": "43",
+    "value": 46.99,
+    "valueMainUnit": "46",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -5364,12 +5667,12 @@
    "flightKey": "FR~ 325~ ~~ATH~12/17/2026 14:25~PFO~12/17/2026 16:00~~",
    "flightNumber": "FR325",
    "previousPrice": null,
-   "priceUpdated": 1791800192000
+   "priceUpdated": 1792419460000
   },
   "summary": {
    "price": {
-    "value": 43.99,
-    "valueMainUnit": "43",
+    "value": 46.99,
+    "valueMainUnit": "46",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -5393,85 +5696,34 @@
    },
    "arrivalAirport": {
     "countryName": "Italy",
-    "iataCode": "FCO",
-    "name": "Rome Fiumicino",
-    "seoName": "rome-fiumicino",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
     "city": {
-     "code": "ROME",
+     "code": "BERGAMO",
      "countryCode": "it",
-     "macCode": "ROM",
-     "name": "Rome"
+     "name": "Bergamo"
     }
    },
-   "departureDate": "2026-12-18T22:50:00",
-   "arrivalDate": "2026-12-18T23:59:00",
+   "departureDate": "2026-12-13T21:20:00",
+   "arrivalDate": "2026-12-13T22:50:00",
    "price": {
-    "value": 43.99,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "99",
+    "value": 49.14,
+    "valueMainUnit": "49",
+    "valueFractionalUnit": "14",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~1199~ ~~ATH~12/18/2026 22:50~FCO~12/18/2026 23:59~~",
-   "flightNumber": "FR1199",
+   "flightKey": "FR~1318~ ~~ATH~12/13/2026 21:20~BGY~12/13/2026 22:50~~",
+   "flightNumber": "FR1318",
    "previousPrice": null,
-   "priceUpdated": 1791800193000
+   "priceUpdated": 1792441458000
   },
   "summary": {
    "price": {
-    "value": 43.99,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Austria",
-    "iataCode": "VIE",
-    "name": "Vienna",
-    "seoName": "vienna",
-    "city": {
-     "code": "VIENNA",
-     "countryCode": "at",
-     "name": "Vienna"
-    }
-   },
-   "departureDate": "2026-12-12T14:35:00",
-   "arrivalDate": "2026-12-12T16:00:00",
-   "price": {
-    "value": 43.99,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~  44~ ~~ATH~12/12/2026 14:35~VIE~12/12/2026 16:00~~",
-   "flightNumber": "FR44",
-   "previousPrice": null,
-   "priceUpdated": 1791802778000
-  },
-  "summary": {
-   "price": {
-    "value": 43.99,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "99",
+    "value": 49.14,
+    "valueMainUnit": "49",
+    "valueFractionalUnit": "14",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -5506,78 +5758,27 @@
    "departureDate": "2026-12-13T08:10:00",
    "arrivalDate": "2026-12-13T09:45:00",
    "price": {
-    "value": 47.0,
-    "valueMainUnit": "47",
-    "valueFractionalUnit": "00",
+    "value": 49.67,
+    "valueMainUnit": "49",
+    "valueFractionalUnit": "67",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~ 325~ ~~ATH~12/13/2026 08:10~PFO~12/13/2026 09:45~~",
    "flightNumber": "FR325",
    "previousPrice": null,
-   "priceUpdated": 1791801990000
+   "priceUpdated": 1792405335000
   },
   "summary": {
    "price": {
-    "value": 47.0,
-    "valueMainUnit": "47",
-    "valueFractionalUnit": "00",
+    "value": 49.67,
+    "valueMainUnit": "49",
+    "valueFractionalUnit": "67",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-15T13:55:00",
-   "arrivalDate": "2026-12-15T15:45:00",
-   "price": {
-    "value": 48.39,
-    "valueMainUnit": "48",
-    "valueFractionalUnit": "39",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~  14~ ~~ATH~12/15/2026 13:55~STN~12/15/2026 15:45~~",
-   "flightNumber": "FR14",
-   "previousPrice": null,
-   "priceUpdated": 1791800193000
-  },
-  "summary": {
-   "price": {
-    "value": 48.39,
-    "valueMainUnit": "48",
-    "valueFractionalUnit": "39",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
   }
  },
  {
@@ -5605,30 +5806,180 @@
      "name": "Warsaw"
     }
    },
-   "departureDate": "2026-12-18T11:00:00",
-   "arrivalDate": "2026-12-18T12:40:00",
+   "departureDate": "2026-12-18T11:25:00",
+   "arrivalDate": "2026-12-18T13:05:00",
    "price": {
-    "value": 50.99,
-    "valueMainUnit": "50",
+    "value": 51.99,
+    "valueMainUnit": "51",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~3324~ ~~ATH~12/18/2026 11:00~WMI~12/18/2026 12:40~~",
+   "flightKey": "FR~3324~ ~~ATH~12/18/2026 11:25~WMI~12/18/2026 13:05~~",
    "flightNumber": "FR3324",
    "previousPrice": null,
-   "priceUpdated": 1791801994000
+   "priceUpdated": 1792419450000
   },
   "summary": {
    "price": {
-    "value": 50.99,
-    "valueMainUnit": "50",
+    "value": 51.99,
+    "valueMainUnit": "51",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Hungary",
+    "iataCode": "BUD",
+    "name": "Budapest",
+    "seoName": "budapest",
+    "city": {
+     "code": "BUDAPEST",
+     "countryCode": "hu",
+     "name": "Budapest"
+    }
+   },
+   "departureDate": "2026-12-14T18:55:00",
+   "arrivalDate": "2026-12-14T20:00:00",
+   "price": {
+    "value": 52.18,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "18",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1242~ ~~ATH~12/14/2026 18:55~BUD~12/14/2026 20:00~~",
+   "flightNumber": "FR1242",
+   "previousPrice": null,
+   "priceUpdated": 1792438677000
+  },
+  "summary": {
+   "price": {
+    "value": 52.18,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "18",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Cyprus",
+    "iataCode": "PFO",
+    "name": "Paphos",
+    "seoName": "paphos",
+    "city": {
+     "code": "PAPHOS",
+     "countryCode": "cy",
+     "name": "Paphos"
+    }
+   },
+   "departureDate": "2026-12-19T15:00:00",
+   "arrivalDate": "2026-12-19T16:35:00",
+   "price": {
+    "value": 54.99,
+    "valueMainUnit": "54",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 325~ ~~ATH~12/19/2026 15:00~PFO~12/19/2026 16:35~~",
+   "flightNumber": "FR325",
+   "previousPrice": null,
+   "priceUpdated": 1792419466000
+  },
+  "summary": {
+   "price": {
+    "value": 54.99,
+    "valueMainUnit": "54",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Austria",
+    "iataCode": "VIE",
+    "name": "Vienna",
+    "seoName": "vienna",
+    "city": {
+     "code": "VIENNA",
+     "countryCode": "at",
+     "name": "Vienna"
+    }
+   },
+   "departureDate": "2026-12-12T14:35:00",
+   "arrivalDate": "2026-12-12T16:00:00",
+   "price": {
+    "value": 54.99,
+    "valueMainUnit": "54",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~  44~ ~~ATH~12/12/2026 14:35~VIE~12/12/2026 16:00~~",
+   "flightNumber": "FR44",
+   "previousPrice": null,
+   "priceUpdated": 1792419358000
+  },
+  "summary": {
+   "price": {
+    "value": 54.99,
+    "valueMainUnit": "54",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
   }
  },
  {
@@ -5659,8 +6010,8 @@
    "departureDate": "2026-12-17T16:50:00",
    "arrivalDate": "2026-12-17T18:10:00",
    "price": {
-    "value": 51.99,
-    "valueMainUnit": "51",
+    "value": 55.99,
+    "valueMainUnit": "55",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -5668,12 +6019,12 @@
    "flightKey": "FR~5824~ ~~ATH~12/17/2026 16:50~VCE~12/17/2026 18:10~~",
    "flightNumber": "FR5824",
    "previousPrice": null,
-   "priceUpdated": 1791800195000
+   "priceUpdated": 1792419434000
   },
   "summary": {
    "price": {
-    "value": 51.99,
-    "valueMainUnit": "51",
+    "value": 55.99,
+    "valueMainUnit": "55",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -5696,35 +6047,135 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
+    "countryName": "Slovakia",
+    "iataCode": "BTS",
+    "name": "Bratislava",
+    "seoName": "bratislava",
     "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
+     "code": "BRATISLAVA",
+     "countryCode": "sk",
+     "name": "Bratislava"
     }
    },
-   "departureDate": "2026-12-17T11:25:00",
-   "arrivalDate": "2026-12-17T13:45:00",
+   "departureDate": "2026-12-18T14:45:00",
+   "arrivalDate": "2026-12-18T16:00:00",
    "price": {
-    "value": 54.99,
-    "valueMainUnit": "54",
+    "value": 62.23,
+    "valueMainUnit": "62",
+    "valueFractionalUnit": "23",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5888~ ~~ATH~12/18/2026 14:45~BTS~12/18/2026 16:00~~",
+   "flightNumber": "FR5888",
+   "previousPrice": null,
+   "priceUpdated": 1792405310000
+  },
+  "summary": {
+   "price": {
+    "value": 62.23,
+    "valueMainUnit": "62",
+    "valueFractionalUnit": "23",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "departureDate": "2026-12-19T16:30:00",
+   "arrivalDate": "2026-12-19T18:00:00",
+   "price": {
+    "value": 63.99,
+    "valueMainUnit": "63",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~1196~ ~~ATH~12/17/2026 11:25~CRL~12/17/2026 13:45~~",
-   "flightNumber": "FR1196",
+   "flightKey": "FR~2614~ ~~ATH~12/19/2026 16:30~KTW~12/19/2026 18:00~~",
+   "flightNumber": "FR2614",
    "previousPrice": null,
-   "priceUpdated": 1791800189000
+   "priceUpdated": 1792419437000
   },
   "summary": {
    "price": {
-    "value": 54.99,
-    "valueMainUnit": "54",
+    "value": 63.99,
+    "valueMainUnit": "63",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "departureDate": "2026-12-14T22:25:00",
+   "arrivalDate": "2026-12-14T23:55:00",
+   "price": {
+    "value": 68.62,
+    "valueMainUnit": "68",
+    "valueFractionalUnit": "62",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2614~ ~~ATH~12/14/2026 22:25~KTW~12/14/2026 23:55~~",
+   "flightNumber": "FR2614",
+   "previousPrice": null,
+   "priceUpdated": 1792438392000
+  },
+  "summary": {
+   "price": {
+    "value": 68.62,
+    "valueMainUnit": "68",
+    "valueFractionalUnit": "62",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -5759,8 +6210,8 @@
    "departureDate": "2026-12-18T20:00:00",
    "arrivalDate": "2026-12-18T21:05:00",
    "price": {
-    "value": 54.99,
-    "valueMainUnit": "54",
+    "value": 69.99,
+    "valueMainUnit": "69",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -5768,519 +6219,18 @@
    "flightKey": "FR~7596~ ~~ATH~12/18/2026 20:00~BUD~12/18/2026 21:05~~",
    "flightNumber": "FR7596",
    "previousPrice": null,
-   "priceUpdated": 1791801991000
+   "priceUpdated": 1792419435000
   },
   "summary": {
    "price": {
-    "value": 54.99,
-    "valueMainUnit": "54",
+    "value": 69.99,
+    "valueMainUnit": "69",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Slovakia",
-    "iataCode": "BTS",
-    "name": "Bratislava",
-    "seoName": "bratislava",
-    "city": {
-     "code": "BRATISLAVA",
-     "countryCode": "sk",
-     "name": "Bratislava"
-    }
-   },
-   "departureDate": "2026-12-13T19:30:00",
-   "arrivalDate": "2026-12-13T20:45:00",
-   "price": {
-    "value": 55.4,
-    "valueMainUnit": "55",
-    "valueFractionalUnit": "40",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5888~ ~~ATH~12/13/2026 19:30~BTS~12/13/2026 20:45~~",
-   "flightNumber": "FR5888",
-   "previousPrice": null,
-   "priceUpdated": 1791800192000
-  },
-  "summary": {
-   "price": {
-    "value": 55.4,
-    "valueMainUnit": "55",
-    "valueFractionalUnit": "40",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Poland",
-    "iataCode": "WMI",
-    "name": "Warsaw Modlin",
-    "seoName": "warsaw-modlin",
-    "city": {
-     "code": "WARSAW",
-     "countryCode": "pl",
-     "macCode": "WWA",
-     "name": "Warsaw"
-    }
-   },
-   "departureDate": "2026-12-19T16:45:00",
-   "arrivalDate": "2026-12-19T18:25:00",
-   "price": {
-    "value": 56.37,
-    "valueMainUnit": "56",
-    "valueFractionalUnit": "37",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3324~ ~~ATH~12/19/2026 16:45~WMI~12/19/2026 18:25~~",
-   "flightNumber": "FR3324",
-   "previousPrice": null,
-   "priceUpdated": 1791800197000
-  },
-  "summary": {
-   "price": {
-    "value": 56.37,
-    "valueMainUnit": "56",
-    "valueFractionalUnit": "37",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Cyprus",
-    "iataCode": "PFO",
-    "name": "Paphos",
-    "seoName": "paphos",
-    "city": {
-     "code": "PAPHOS",
-     "countryCode": "cy",
-     "name": "Paphos"
-    }
-   },
-   "departureDate": "2026-12-14T06:05:00",
-   "arrivalDate": "2026-12-14T07:40:00",
-   "price": {
-    "value": 59.36,
-    "valueMainUnit": "59",
-    "valueFractionalUnit": "36",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 325~ ~~ATH~12/14/2026 06:05~PFO~12/14/2026 07:40~~",
-   "flightNumber": "FR325",
-   "previousPrice": null,
-   "priceUpdated": 1791800192000
-  },
-  "summary": {
-   "price": {
-    "value": 59.36,
-    "valueMainUnit": "59",
-    "valueFractionalUnit": "36",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "departureDate": "2026-12-14T22:25:00",
-   "arrivalDate": "2026-12-14T23:55:00",
-   "price": {
-    "value": 62.67,
-    "valueMainUnit": "62",
-    "valueFractionalUnit": "67",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2614~ ~~ATH~12/14/2026 22:25~KTW~12/14/2026 23:55~~",
-   "flightNumber": "FR2614",
-   "previousPrice": null,
-   "priceUpdated": 1791801991000
-  },
-  "summary": {
-   "price": {
-    "value": 62.67,
-    "valueMainUnit": "62",
-    "valueFractionalUnit": "67",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Hungary",
-    "iataCode": "BUD",
-    "name": "Budapest",
-    "seoName": "budapest",
-    "city": {
-     "code": "BUDAPEST",
-     "countryCode": "hu",
-     "name": "Budapest"
-    }
-   },
-   "departureDate": "2026-12-14T09:55:00",
-   "arrivalDate": "2026-12-14T11:00:00",
-   "price": {
-    "value": 66.27,
-    "valueMainUnit": "66",
-    "valueFractionalUnit": "27",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~7596~ ~~ATH~12/14/2026 09:55~BUD~12/14/2026 11:00~~",
-   "flightNumber": "FR7596",
-   "previousPrice": null,
-   "priceUpdated": 1791800191000
-  },
-  "summary": {
-   "price": {
-    "value": 66.27,
-    "valueMainUnit": "66",
-    "valueFractionalUnit": "27",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Hungary",
-    "iataCode": "BUD",
-    "name": "Budapest",
-    "seoName": "budapest",
-    "city": {
-     "code": "BUDAPEST",
-     "countryCode": "hu",
-     "name": "Budapest"
-    }
-   },
-   "departureDate": "2026-12-17T19:25:00",
-   "arrivalDate": "2026-12-17T20:30:00",
-   "price": {
-    "value": 66.72,
-    "valueMainUnit": "66",
-    "valueFractionalUnit": "72",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1242~ ~~ATH~12/17/2026 19:25~BUD~12/17/2026 20:30~~",
-   "flightNumber": "FR1242",
-   "previousPrice": null,
-   "priceUpdated": 1791800191000
-  },
-  "summary": {
-   "price": {
-    "value": 66.72,
-    "valueMainUnit": "66",
-    "valueFractionalUnit": "72",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-13T21:20:00",
-   "arrivalDate": "2026-12-13T22:50:00",
-   "price": {
-    "value": 67.02,
-    "valueMainUnit": "67",
-    "valueFractionalUnit": "02",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1318~ ~~ATH~12/13/2026 21:20~BGY~12/13/2026 22:50~~",
-   "flightNumber": "FR1318",
-   "previousPrice": null,
-   "priceUpdated": 1791800188000
-  },
-  "summary": {
-   "price": {
-    "value": 67.02,
-    "valueMainUnit": "67",
-    "valueFractionalUnit": "02",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BLQ",
-    "name": "Bologna",
-    "seoName": "bologna",
-    "city": {
-     "code": "BOLOGNA",
-     "countryCode": "it",
-     "name": "Bologna"
-    }
-   },
-   "departureDate": "2026-12-13T22:45:00",
-   "arrivalDate": "2026-12-14T00:05:00",
-   "price": {
-    "value": 68.08,
-    "valueMainUnit": "68",
-    "valueFractionalUnit": "08",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6017~ ~~ATH~12/13/2026 22:45~BLQ~12/14/2026 00:05~~",
-   "flightNumber": "FR6017",
-   "previousPrice": null,
-   "priceUpdated": 1791800190000
-  },
-  "summary": {
-   "price": {
-    "value": 68.08,
-    "valueMainUnit": "68",
-    "valueFractionalUnit": "08",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "departureDate": "2026-12-19T16:30:00",
-   "arrivalDate": "2026-12-19T18:00:00",
-   "price": {
-    "value": 74.99,
-    "valueMainUnit": "74",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2614~ ~~ATH~12/19/2026 16:30~KTW~12/19/2026 18:00~~",
-   "flightNumber": "FR2614",
-   "previousPrice": null,
-   "priceUpdated": 1791801647000
-  },
-  "summary": {
-   "price": {
-    "value": 74.99,
-    "valueMainUnit": "74",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Slovakia",
-    "iataCode": "BTS",
-    "name": "Bratislava",
-    "seoName": "bratislava",
-    "city": {
-     "code": "BRATISLAVA",
-     "countryCode": "sk",
-     "name": "Bratislava"
-    }
-   },
-   "departureDate": "2026-12-18T14:45:00",
-   "arrivalDate": "2026-12-18T16:00:00",
-   "price": {
-    "value": 77.6,
-    "valueMainUnit": "77",
-    "valueFractionalUnit": "60",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5888~ ~~ATH~12/18/2026 14:45~BTS~12/18/2026 16:00~~",
-   "flightNumber": "FR5888",
-   "previousPrice": null,
-   "priceUpdated": 1791800191000
-  },
-  "summary": {
-   "price": {
-    "value": 77.6,
-    "valueMainUnit": "77",
-    "valueFractionalUnit": "60",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
   }
  },
  {
@@ -6310,8 +6260,8 @@
    "departureDate": "2026-12-18T11:15:00",
    "arrivalDate": "2026-12-18T12:45:00",
    "price": {
-    "value": 84.99,
-    "valueMainUnit": "84",
+    "value": 71.99,
+    "valueMainUnit": "71",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -6319,12 +6269,12 @@
    "flightKey": "FR~2614~ ~~ATH~12/18/2026 11:15~KTW~12/18/2026 12:45~~",
    "flightNumber": "FR2614",
    "previousPrice": null,
-   "priceUpdated": 1791801655000
+   "priceUpdated": 1792419420000
   },
   "summary": {
    "price": {
-    "value": 84.99,
-    "valueMainUnit": "84",
+    "value": 71.99,
+    "valueMainUnit": "71",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -6360,8 +6310,8 @@
    "departureDate": "2026-12-19T17:25:00",
    "arrivalDate": "2026-12-19T18:30:00",
    "price": {
-    "value": 110.99,
-    "valueMainUnit": "110",
+    "value": 85.99,
+    "valueMainUnit": "85",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -6369,13 +6319,63 @@
    "flightKey": "FR~1242~ ~~ATH~12/19/2026 17:25~BUD~12/19/2026 18:30~~",
    "flightNumber": "FR1242",
    "previousPrice": null,
-   "priceUpdated": 1791801991000
+   "priceUpdated": 1792419798000
   },
   "summary": {
    "price": {
-    "value": 110.99,
-    "valueMainUnit": "110",
+    "value": 85.99,
+    "valueMainUnit": "85",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Hungary",
+    "iataCode": "BUD",
+    "name": "Budapest",
+    "seoName": "budapest",
+    "city": {
+     "code": "BUDAPEST",
+     "countryCode": "hu",
+     "name": "Budapest"
+    }
+   },
+   "departureDate": "2026-12-17T19:25:00",
+   "arrivalDate": "2026-12-17T20:30:00",
+   "price": {
+    "value": 87.52,
+    "valueMainUnit": "87",
+    "valueFractionalUnit": "52",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1242~ ~~ATH~12/17/2026 19:25~BUD~12/17/2026 20:30~~",
+   "flightNumber": "FR1242",
+   "previousPrice": null,
+   "priceUpdated": 1792428148000
+  },
+  "summary": {
+   "price": {
+    "value": 87.52,
+    "valueMainUnit": "87",
+    "valueFractionalUnit": "52",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -6410,22 +6410,22 @@
    "departureDate": "2026-12-19T14:35:00",
    "arrivalDate": "2026-12-19T16:00:00",
    "price": {
-    "value": 111.77,
-    "valueMainUnit": "111",
-    "valueFractionalUnit": "77",
+    "value": 105.88,
+    "valueMainUnit": "105",
+    "valueFractionalUnit": "88",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~  44~ ~~ATH~12/19/2026 14:35~VIE~12/19/2026 16:00~~",
    "flightNumber": "FR44",
    "previousPrice": null,
-   "priceUpdated": 1791800196000
+   "priceUpdated": 1792405325000
   },
   "summary": {
    "price": {
-    "value": 111.77,
-    "valueMainUnit": "111",
-    "valueFractionalUnit": "77",
+    "value": 105.88,
+    "valueMainUnit": "105",
+    "valueFractionalUnit": "88",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -6458,25 +6458,25 @@
      "name": "London"
     }
    },
-   "departureDate": "2026-12-19T06:10:00",
-   "arrivalDate": "2026-12-19T08:00:00",
+   "departureDate": "2026-12-19T15:20:00",
+   "arrivalDate": "2026-12-19T17:10:00",
    "price": {
-    "value": 146.73,
+    "value": 146.99,
     "valueMainUnit": "146",
-    "valueFractionalUnit": "73",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~  14~ ~~ATH~12/19/2026 06:10~STN~12/19/2026 08:00~~",
-   "flightNumber": "FR14",
+   "flightKey": "FR~  52~ ~~ATH~12/19/2026 15:20~STN~12/19/2026 17:10~~",
+   "flightNumber": "FR52",
    "previousPrice": null,
-   "priceUpdated": 1791800192000
+   "priceUpdated": 1792419512000
   },
   "summary": {
    "price": {
-    "value": 146.73,
+    "value": 146.99,
     "valueMainUnit": "146",
-    "valueFractionalUnit": "73",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -6512,22 +6512,22 @@
    "departureDate": "2026-12-18T06:05:00",
    "arrivalDate": "2026-12-18T07:55:00",
    "price": {
-    "value": 152.27,
-    "valueMainUnit": "152",
-    "valueFractionalUnit": "27",
+    "value": 153.64,
+    "valueMainUnit": "153",
+    "valueFractionalUnit": "64",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~  14~ ~~ATH~12/18/2026 06:05~STN~12/18/2026 07:55~~",
    "flightNumber": "FR14",
    "previousPrice": null,
-   "priceUpdated": 1791801993000
+   "priceUpdated": 1792405326000
   },
   "summary": {
    "price": {
-    "value": 152.27,
-    "valueMainUnit": "152",
-    "valueFractionalUnit": "27",
+    "value": 153.64,
+    "valueMainUnit": "153",
+    "valueFractionalUnit": "64",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },

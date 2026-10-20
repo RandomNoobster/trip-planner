@@ -1,36 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTRqBRIDU1RPcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T11:19:52",
+ "fetchedAt": "2026-10-19T23:01:24",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
-   "price": 130.0,
-   "roundTripTotal": false,
-   "noOverheadBin": true,
-   "stops": 1,
-   "airlines": "Norwegian",
-   "operatedBy": null,
-   "depAirportName": "Stockholm Arlanda Airport",
-   "depTime": "07:00",
-   "depDate": "2026-12-14",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "11:45",
-   "arrDate": "2026-12-14",
-   "durationMin": 285,
-   "layovers": [
-    {
-     "min": 170,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 130 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Stockholm Arlanda Airport at 7:00 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 11:45 AM on Monday, December 14. Total duration 4 hr 45 min.  Layover (1 of 1) is a 2 hr 50 min layover at Oslo lufthavn in Oslo. Carbon emissions estimate: 99 kilograms. Select flight"
-  },
-  {
-   "price": 130.0,
+   "price": 124.0,
    "roundTripTotal": false,
    "noOverheadBin": true,
    "stops": 1,
@@ -53,25 +28,25 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 130 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Stockholm Arlanda Airport at 6:30 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 9:40 PM on Monday, December 14. Total duration 3 hr 10 min.  Layover (1 of 1) is a 1 hr 10 min layover at Oslo lufthavn in Oslo. Carbon emissions estimate: 101 kilograms. Select flight"
+   "label": "From 124 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Stockholm Arlanda Airport at 6:30 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 9:40 PM on Monday, December 14. Total duration 3 hr 10 min.  Layover (1 of 1) is a 1 hr 10 min layover at Oslo lufthavn in Oslo. Carbon emissions estimate: 101 kilograms. Select flight"
   },
   {
-   "price": 148.0,
+   "price": 121.0,
    "roundTripTotal": false,
    "noOverheadBin": true,
    "stops": 1,
    "airlines": "Norwegian",
    "operatedBy": "Norwegian",
    "depAirportName": "Stockholm Arlanda Airport",
-   "depTime": "16:30",
+   "depTime": "07:00",
    "depDate": "2026-12-14",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "20:00",
+   "arrTime": "14:15",
    "arrDate": "2026-12-14",
-   "durationMin": 210,
+   "durationMin": 435,
    "layovers": [
     {
-     "min": 95,
+     "min": 320,
      "overnight": false,
      "airport": "Oslo lufthavn",
      "city": "Oslo"
@@ -79,10 +54,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 148 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Stockholm Arlanda Airport at 4:30 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 8:00 PM on Monday, December 14. Total duration 3 hr 30 min.  Layover (1 of 1) is a 1 hr 35 min layover at Oslo lufthavn in Oslo. Carbon emissions estimate: 101 kilograms. Select flight"
+   "label": "From 121 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Stockholm Arlanda Airport at 7:00 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:15 PM on Monday, December 14. Total duration 7 hr 15 min.  Layover (1 of 1) is a 5 hr 20 min layover at Oslo lufthavn in Oslo. Carbon emissions estimate: 99 kilograms. Select flight"
   },
   {
-   "price": 148.0,
+   "price": 121.0,
    "roundTripTotal": false,
    "noOverheadBin": true,
    "stops": 1,
@@ -105,10 +80,62 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 148 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian, Norwegian. Leaves Stockholm Arlanda Airport at 9:10 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:15 PM on Monday, December 14. Total duration 5 hr 5 min.  Layover (1 of 1) is a 3 hr 10 min layover at Oslo lufthavn in Oslo. Carbon emissions estimate: 101 kilograms. Select flight"
+   "label": "From 121 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian, Norwegian. Leaves Stockholm Arlanda Airport at 9:10 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:15 PM on Monday, December 14. Total duration 5 hr 5 min.  Layover (1 of 1) is a 3 hr 10 min layover at Oslo lufthavn in Oslo. Carbon emissions estimate: 101 kilograms. Select flight"
   },
   {
-   "price": 168.0,
+   "price": 124.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": null,
+   "depAirportName": "Stockholm Arlanda Airport",
+   "depTime": "07:00",
+   "depDate": "2026-12-14",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "11:45",
+   "arrDate": "2026-12-14",
+   "durationMin": 285,
+   "layovers": [
+    {
+     "min": 170,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 124 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Stockholm Arlanda Airport at 7:00 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 11:45 AM on Monday, December 14. Total duration 4 hr 45 min.  Layover (1 of 1) is a 2 hr 50 min layover at Oslo lufthavn in Oslo. Carbon emissions estimate: 99 kilograms. Select flight"
+  },
+  {
+   "price": 124.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": "Norwegian",
+   "depAirportName": "Stockholm Arlanda Airport",
+   "depTime": "16:30",
+   "depDate": "2026-12-14",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "20:00",
+   "arrDate": "2026-12-14",
+   "durationMin": 210,
+   "layovers": [
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 124 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Stockholm Arlanda Airport at 4:30 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 8:00 PM on Monday, December 14. Total duration 3 hr 30 min.  Layover (1 of 1) is a 1 hr 35 min layover at Oslo lufthavn in Oslo. Carbon emissions estimate: 101 kilograms. Select flight"
+  },
+  {
+   "price": 169.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -131,7 +158,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 168 euros. 1 stop flight with Scandinavian Airlines and KLM. Operated by KLM Cityhopper. Leaves Stockholm Arlanda Airport at 4:05 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 11:10 PM on Monday, December 14. Total duration 7 hr 5 min.  Layover (1 of 1) is a 2 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Carbon emissions estimate: 221 kilograms. Select flight"
+   "label": "From 169 euros. 1 stop flight with Scandinavian Airlines and KLM. Operated by KLM Cityhopper. Leaves Stockholm Arlanda Airport at 4:05 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 11:10 PM on Monday, December 14. Total duration 7 hr 5 min.  Layover (1 of 1) is a 2 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Carbon emissions estimate: 221 kilograms. Select flight"
   }
  ]
 }

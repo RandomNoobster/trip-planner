@@ -23,25 +23,75 @@
      "name": "Dublin"
     }
    },
-   "departureDate": "2026-12-05T16:15:00",
-   "arrivalDate": "2026-12-05T16:55:00",
+   "departureDate": "2026-12-05T18:20:00",
+   "arrivalDate": "2026-12-05T19:00:00",
    "price": {
-    "value": 34.99,
-    "valueMainUnit": "34",
+    "value": 32.99,
+    "valueMainUnit": "32",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 421~ ~~AMS~12/05/2026 16:15~DUB~12/05/2026 16:55~~",
-   "flightNumber": "FR421",
+   "flightKey": "FR~3007~ ~~AMS~12/05/2026 18:20~DUB~12/05/2026 19:00~~",
+   "flightNumber": "FR3007",
    "previousPrice": null,
-   "priceUpdated": 1791800185000
+   "priceUpdated": 1792439387000
   },
   "summary": {
    "price": {
-    "value": 34.99,
-    "valueMainUnit": "34",
+    "value": 32.99,
+    "valueMainUnit": "32",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Netherlands",
+    "iataCode": "AMS",
+    "name": "Amsterdam",
+    "seoName": "amsterdam",
+    "city": {
+     "code": "AMSTERDAM",
+     "countryCode": "nl",
+     "name": "Amsterdam"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-09T14:40:00",
+   "arrivalDate": "2026-12-09T15:20:00",
+   "price": {
+    "value": 42.31,
+    "valueMainUnit": "42",
+    "valueFractionalUnit": "31",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3103~ ~~AMS~12/09/2026 14:40~DUB~12/09/2026 15:20~~",
+   "flightNumber": "FR3103",
+   "previousPrice": null,
+   "priceUpdated": 1792405355000
+  },
+  "summary": {
+   "price": {
+    "value": 42.31,
+    "valueMainUnit": "42",
+    "valueFractionalUnit": "31",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -76,8 +126,8 @@
    "departureDate": "2026-12-08T20:15:00",
    "arrivalDate": "2026-12-08T20:55:00",
    "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
+    "value": 43.99,
+    "valueMainUnit": "43",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -85,12 +135,12 @@
    "flightKey": "FR~3007~ ~~AMS~12/08/2026 20:15~DUB~12/08/2026 20:55~~",
    "flightNumber": "FR3007",
    "previousPrice": null,
-   "priceUpdated": 1791800184000
+   "priceUpdated": 1792419796000
   },
   "summary": {
    "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
+    "value": 43.99,
+    "valueMainUnit": "43",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -123,24 +173,24 @@
      "name": "Dublin"
     }
    },
-   "departureDate": "2026-12-09T12:35:00",
-   "arrivalDate": "2026-12-09T13:15:00",
+   "departureDate": "2026-12-07T12:40:00",
+   "arrivalDate": "2026-12-07T13:20:00",
    "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
+    "value": 44.99,
+    "valueMainUnit": "44",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~3007~ ~~AMS~12/09/2026 12:35~DUB~12/09/2026 13:15~~",
-   "flightNumber": "FR3007",
+   "flightKey": "FR~5506~ ~~AMS~12/07/2026 12:40~DUB~12/07/2026 13:20~~",
+   "flightNumber": "FR5506",
    "previousPrice": null,
-   "priceUpdated": 1791800184000
+   "priceUpdated": 1792431080000
   },
   "summary": {
    "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
+    "value": 44.99,
+    "valueMainUnit": "44",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -173,24 +223,24 @@
      "name": "Dublin"
     }
    },
-   "departureDate": "2026-12-07T11:25:00",
-   "arrivalDate": "2026-12-07T12:05:00",
+   "departureDate": "2026-12-04T21:35:00",
+   "arrivalDate": "2026-12-04T22:15:00",
    "price": {
-    "value": 45.99,
-    "valueMainUnit": "45",
+    "value": 48.99,
+    "valueMainUnit": "48",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~3007~ ~~AMS~12/07/2026 11:25~DUB~12/07/2026 12:05~~",
-   "flightNumber": "FR3007",
+   "flightKey": "FR~3103~ ~~AMS~12/04/2026 21:35~DUB~12/04/2026 22:15~~",
+   "flightNumber": "FR3103",
    "previousPrice": null,
-   "priceUpdated": 1791800183000
+   "priceUpdated": 1792422080000
   },
   "summary": {
    "price": {
-    "value": 45.99,
-    "valueMainUnit": "45",
+    "value": 48.99,
+    "valueMainUnit": "48",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -226,72 +276,22 @@
    "departureDate": "2026-12-05T20:45:00",
    "arrivalDate": "2026-12-05T23:50:00",
    "price": {
-    "value": 47.07,
-    "valueMainUnit": "47",
-    "valueFractionalUnit": "07",
+    "value": 50.19,
+    "valueMainUnit": "50",
+    "valueFractionalUnit": "19",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~2335~ ~~AMS~12/05/2026 20:45~AGP~12/05/2026 23:50~~",
    "flightNumber": "FR2335",
    "previousPrice": null,
-   "priceUpdated": 1791800175000
+   "priceUpdated": 1792438870000
   },
   "summary": {
    "price": {
-    "value": 47.07,
-    "valueMainUnit": "47",
-    "valueFractionalUnit": "07",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Netherlands",
-    "iataCode": "AMS",
-    "name": "Amsterdam",
-    "seoName": "amsterdam",
-    "city": {
-     "code": "AMSTERDAM",
-     "countryCode": "nl",
-     "name": "Amsterdam"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
-    "city": {
-     "code": "MALAGA",
-     "countryCode": "es",
-     "name": "Malaga"
-    }
-   },
-   "departureDate": "2026-12-06T10:05:00",
-   "arrivalDate": "2026-12-06T13:10:00",
-   "price": {
-    "value": 48.39,
-    "valueMainUnit": "48",
-    "valueFractionalUnit": "39",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2335~ ~~AMS~12/06/2026 10:05~AGP~12/06/2026 13:10~~",
-   "flightNumber": "FR2335",
-   "previousPrice": null,
-   "priceUpdated": 1791801110000
-  },
-  "summary": {
-   "price": {
-    "value": 48.39,
-    "valueMainUnit": "48",
-    "valueFractionalUnit": "39",
+    "value": 50.19,
+    "valueMainUnit": "50",
+    "valueFractionalUnit": "19",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -323,24 +323,24 @@
      "name": "Dublin"
     }
    },
-   "departureDate": "2026-12-04T13:40:00",
-   "arrivalDate": "2026-12-04T14:20:00",
+   "departureDate": "2026-12-11T19:20:00",
+   "arrivalDate": "2026-12-11T20:00:00",
    "price": {
-    "value": 48.99,
-    "valueMainUnit": "48",
+    "value": 55.99,
+    "valueMainUnit": "55",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~3007~ ~~AMS~12/04/2026 13:40~DUB~12/04/2026 14:20~~",
-   "flightNumber": "FR3007",
+   "flightKey": "FR~ 421~ ~~AMS~12/11/2026 19:20~DUB~12/11/2026 20:00~~",
+   "flightNumber": "FR421",
    "previousPrice": null,
-   "priceUpdated": 1791800181000
+   "priceUpdated": 1792441948000
   },
   "summary": {
    "price": {
-    "value": 48.99,
-    "valueMainUnit": "48",
+    "value": 55.99,
+    "valueMainUnit": "55",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -376,8 +376,8 @@
    "departureDate": "2026-12-10T20:55:00",
    "arrivalDate": "2026-12-10T21:35:00",
    "price": {
-    "value": 55.99,
-    "valueMainUnit": "55",
+    "value": 61.99,
+    "valueMainUnit": "61",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -385,12 +385,12 @@
    "flightKey": "FR~3101~ ~~AMS~12/10/2026 20:55~DUB~12/10/2026 21:35~~",
    "flightNumber": "FR3101",
    "previousPrice": null,
-   "priceUpdated": 1791800185000
+   "priceUpdated": 1792440161000
   },
   "summary": {
    "price": {
-    "value": 55.99,
-    "valueMainUnit": "55",
+    "value": 61.99,
+    "valueMainUnit": "61",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -423,25 +423,25 @@
      "name": "Malaga"
     }
    },
-   "departureDate": "2026-12-04T19:45:00",
-   "arrivalDate": "2026-12-04T22:50:00",
+   "departureDate": "2026-12-04T10:10:00",
+   "arrivalDate": "2026-12-04T13:15:00",
    "price": {
-    "value": 63.51,
-    "valueMainUnit": "63",
-    "valueFractionalUnit": "51",
+    "value": 64.89,
+    "valueMainUnit": "64",
+    "valueFractionalUnit": "89",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2335~ ~~AMS~12/04/2026 19:45~AGP~12/04/2026 22:50~~",
-   "flightNumber": "FR2335",
+   "flightKey": "FR~5692~ ~~AMS~12/04/2026 10:10~AGP~12/04/2026 13:15~~",
+   "flightNumber": "FR5692",
    "previousPrice": null,
-   "priceUpdated": 1791800179000
+   "priceUpdated": 1792438624000
   },
   "summary": {
    "price": {
-    "value": 63.51,
-    "valueMainUnit": "63",
-    "valueFractionalUnit": "51",
+    "value": 64.89,
+    "valueMainUnit": "64",
+    "valueFractionalUnit": "89",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -463,35 +463,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
     "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
     }
    },
-   "departureDate": "2026-12-11T17:00:00",
-   "arrivalDate": "2026-12-11T17:40:00",
+   "departureDate": "2026-12-06T10:05:00",
+   "arrivalDate": "2026-12-06T13:10:00",
    "price": {
-    "value": 65.89,
-    "valueMainUnit": "65",
-    "valueFractionalUnit": "89",
+    "value": 66.27,
+    "valueMainUnit": "66",
+    "valueFractionalUnit": "27",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~3101~ ~~AMS~12/11/2026 17:00~DUB~12/11/2026 17:40~~",
-   "flightNumber": "FR3101",
+   "flightKey": "FR~2335~ ~~AMS~12/06/2026 10:05~AGP~12/06/2026 13:10~~",
+   "flightNumber": "FR2335",
    "previousPrice": null,
-   "priceUpdated": 1791800182000
+   "priceUpdated": 1792422260000
   },
   "summary": {
    "price": {
-    "value": 65.89,
-    "valueMainUnit": "65",
-    "valueFractionalUnit": "89",
+    "value": 66.27,
+    "valueMainUnit": "66",
+    "valueFractionalUnit": "27",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -526,8 +526,8 @@
    "departureDate": "2026-12-11T19:45:00",
    "arrivalDate": "2026-12-11T22:50:00",
    "price": {
-    "value": 71.99,
-    "valueMainUnit": "71",
+    "value": 84.99,
+    "valueMainUnit": "84",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -535,63 +535,13 @@
    "flightKey": "FR~2335~ ~~AMS~12/11/2026 19:45~AGP~12/11/2026 22:50~~",
    "flightNumber": "FR2335",
    "previousPrice": null,
-   "priceUpdated": 1791800177000
+   "priceUpdated": 1792419332000
   },
   "summary": {
    "price": {
-    "value": 71.99,
-    "valueMainUnit": "71",
+    "value": 84.99,
+    "valueMainUnit": "84",
     "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Netherlands",
-    "iataCode": "AMS",
-    "name": "Amsterdam",
-    "seoName": "amsterdam",
-    "city": {
-     "code": "AMSTERDAM",
-     "countryCode": "nl",
-     "name": "Amsterdam"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-06T13:25:00",
-   "arrivalDate": "2026-12-06T14:05:00",
-   "price": {
-    "value": 86.97,
-    "valueMainUnit": "86",
-    "valueFractionalUnit": "97",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3103~ ~~AMS~12/06/2026 13:25~DUB~12/06/2026 14:05~~",
-   "flightNumber": "FR3103",
-   "previousPrice": null,
-   "priceUpdated": 1791800124000
-  },
-  "summary": {
-   "price": {
-    "value": 86.97,
-    "valueMainUnit": "86",
-    "valueFractionalUnit": "97",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -626,8 +576,8 @@
    "departureDate": "2026-12-10T12:55:00",
    "arrivalDate": "2026-12-10T16:00:00",
    "price": {
-    "value": 93.99,
-    "valueMainUnit": "93",
+    "value": 90.99,
+    "valueMainUnit": "90",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -635,12 +585,12 @@
    "flightKey": "FR~2335~ ~~AMS~12/10/2026 12:55~AGP~12/10/2026 16:00~~",
    "flightNumber": "FR2335",
    "previousPrice": null,
-   "priceUpdated": 1791800178000
+   "priceUpdated": 1792436773000
   },
   "summary": {
    "price": {
-    "value": 93.99,
-    "valueMainUnit": "93",
+    "value": 90.99,
+    "valueMainUnit": "90",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -663,35 +613,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
     "city": {
-     "code": "MALAGA",
-     "countryCode": "es",
-     "name": "Malaga"
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
     }
    },
-   "departureDate": "2026-12-09T14:55:00",
-   "arrivalDate": "2026-12-09T18:00:00",
+   "departureDate": "2026-12-06T19:25:00",
+   "arrivalDate": "2026-12-06T20:05:00",
    "price": {
-    "value": 124.57,
-    "valueMainUnit": "124",
-    "valueFractionalUnit": "57",
+    "value": 97.99,
+    "valueMainUnit": "97",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2335~ ~~AMS~12/09/2026 14:55~AGP~12/09/2026 18:00~~",
-   "flightNumber": "FR2335",
+   "flightKey": "FR~3101~ ~~AMS~12/06/2026 19:25~DUB~12/06/2026 20:05~~",
+   "flightNumber": "FR3101",
    "previousPrice": null,
-   "priceUpdated": 1791800179000
+   "priceUpdated": 1792432731000
   },
   "summary": {
    "price": {
-    "value": 124.57,
-    "valueMainUnit": "124",
-    "valueFractionalUnit": "57",
+    "value": 97.99,
+    "valueMainUnit": "97",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -735,7 +685,7 @@
    "flightKey": "FR~2335~ ~~AMS~12/07/2026 14:05~AGP~12/07/2026 17:10~~",
    "flightNumber": "FR2335",
    "previousPrice": null,
-   "priceUpdated": 1791800177000
+   "priceUpdated": 1792440398000
   },
   "summary": {
    "price": {
@@ -773,225 +723,25 @@
      "name": "Malaga"
     }
    },
-   "departureDate": "2026-12-08T09:35:00",
-   "arrivalDate": "2026-12-08T12:40:00",
+   "departureDate": "2026-12-09T14:55:00",
+   "arrivalDate": "2026-12-09T18:00:00",
    "price": {
-    "value": 212.99,
-    "valueMainUnit": "212",
-    "valueFractionalUnit": "99",
+    "value": 142.91,
+    "valueMainUnit": "142",
+    "valueFractionalUnit": "91",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2335~ ~~AMS~12/08/2026 09:35~AGP~12/08/2026 12:40~~",
+   "flightKey": "FR~2335~ ~~AMS~12/09/2026 14:55~AGP~12/09/2026 18:00~~",
    "flightNumber": "FR2335",
    "previousPrice": null,
-   "priceUpdated": 1791800177000
+   "priceUpdated": 1792440124000
   },
   "summary": {
    "price": {
-    "value": 212.99,
-    "valueMainUnit": "212",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Netherlands",
-    "iataCode": "AMS",
-    "name": "Amsterdam",
-    "seoName": "amsterdam",
-    "city": {
-     "code": "AMSTERDAM",
-     "countryCode": "nl",
-     "name": "Amsterdam"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-12T21:40:00",
-   "arrivalDate": "2026-12-12T22:20:00",
-   "price": {
-    "value": 42.46,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "46",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3103~ ~~AMS~12/12/2026 21:40~DUB~12/12/2026 22:20~~",
-   "flightNumber": "FR3103",
-   "previousPrice": null,
-   "priceUpdated": 1791800184000
-  },
-  "summary": {
-   "price": {
-    "value": 42.46,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "46",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Netherlands",
-    "iataCode": "AMS",
-    "name": "Amsterdam",
-    "seoName": "amsterdam",
-    "city": {
-     "code": "AMSTERDAM",
-     "countryCode": "nl",
-     "name": "Amsterdam"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-14T11:25:00",
-   "arrivalDate": "2026-12-14T12:05:00",
-   "price": {
-    "value": 45.69,
-    "valueMainUnit": "45",
-    "valueFractionalUnit": "69",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3007~ ~~AMS~12/14/2026 11:25~DUB~12/14/2026 12:05~~",
-   "flightNumber": "FR3007",
-   "previousPrice": null,
-   "priceUpdated": 1791800213000
-  },
-  "summary": {
-   "price": {
-    "value": 45.69,
-    "valueMainUnit": "45",
-    "valueFractionalUnit": "69",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Netherlands",
-    "iataCode": "AMS",
-    "name": "Amsterdam",
-    "seoName": "amsterdam",
-    "city": {
-     "code": "AMSTERDAM",
-     "countryCode": "nl",
-     "name": "Amsterdam"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-15T14:20:00",
-   "arrivalDate": "2026-12-15T15:00:00",
-   "price": {
-    "value": 61.99,
-    "valueMainUnit": "61",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3101~ ~~AMS~12/15/2026 14:20~DUB~12/15/2026 15:00~~",
-   "flightNumber": "FR3101",
-   "previousPrice": null,
-   "priceUpdated": 1791800213000
-  },
-  "summary": {
-   "price": {
-    "value": 61.99,
-    "valueMainUnit": "61",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Netherlands",
-    "iataCode": "AMS",
-    "name": "Amsterdam",
-    "seoName": "amsterdam",
-    "city": {
-     "code": "AMSTERDAM",
-     "countryCode": "nl",
-     "name": "Amsterdam"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-13T14:55:00",
-   "arrivalDate": "2026-12-13T15:35:00",
-   "price": {
-    "value": 65.89,
-    "valueMainUnit": "65",
-    "valueFractionalUnit": "89",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3007~ ~~AMS~12/13/2026 14:55~DUB~12/13/2026 15:35~~",
-   "flightNumber": "FR3007",
-   "previousPrice": null,
-   "priceUpdated": 1791799797000
-  },
-  "summary": {
-   "price": {
-    "value": 65.89,
-    "valueMainUnit": "65",
-    "valueFractionalUnit": "89",
+    "value": 142.91,
+    "valueMainUnit": "142",
+    "valueFractionalUnit": "91",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1023,24 +773,24 @@
      "name": "Malaga"
     }
    },
-   "departureDate": "2026-12-15T09:35:00",
-   "arrivalDate": "2026-12-15T12:40:00",
+   "departureDate": "2026-12-08T09:35:00",
+   "arrivalDate": "2026-12-08T12:40:00",
    "price": {
-    "value": 66.99,
-    "valueMainUnit": "66",
+    "value": 221.99,
+    "valueMainUnit": "221",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2335~ ~~AMS~12/15/2026 09:35~AGP~12/15/2026 12:40~~",
+   "flightKey": "FR~2335~ ~~AMS~12/08/2026 09:35~AGP~12/08/2026 12:40~~",
    "flightNumber": "FR2335",
    "previousPrice": null,
-   "priceUpdated": 1791800181000
+   "priceUpdated": 1792439777000
   },
   "summary": {
    "price": {
-    "value": 66.99,
-    "valueMainUnit": "66",
+    "value": 221.99,
+    "valueMainUnit": "221",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1073,24 +823,224 @@
      "name": "Dublin"
     }
    },
-   "departureDate": "2026-12-16T16:35:00",
-   "arrivalDate": "2026-12-16T17:15:00",
+   "departureDate": "2026-12-12T18:20:00",
+   "arrivalDate": "2026-12-12T19:00:00",
    "price": {
-    "value": 68.99,
-    "valueMainUnit": "68",
+    "value": 43.99,
+    "valueMainUnit": "43",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 421~ ~~AMS~12/16/2026 16:35~DUB~12/16/2026 17:15~~",
-   "flightNumber": "FR421",
+   "flightKey": "FR~3007~ ~~AMS~12/12/2026 18:20~DUB~12/12/2026 19:00~~",
+   "flightNumber": "FR3007",
    "previousPrice": null,
-   "priceUpdated": 1791800211000
+   "priceUpdated": 1792419798000
   },
   "summary": {
    "price": {
-    "value": 68.99,
-    "valueMainUnit": "68",
+    "value": 43.99,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Netherlands",
+    "iataCode": "AMS",
+    "name": "Amsterdam",
+    "seoName": "amsterdam",
+    "city": {
+     "code": "AMSTERDAM",
+     "countryCode": "nl",
+     "name": "Amsterdam"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-14T12:40:00",
+   "arrivalDate": "2026-12-14T13:20:00",
+   "price": {
+    "value": 49.99,
+    "valueMainUnit": "49",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5506~ ~~AMS~12/14/2026 12:40~DUB~12/14/2026 13:20~~",
+   "flightNumber": "FR5506",
+   "previousPrice": null,
+   "priceUpdated": 1792419392000
+  },
+  "summary": {
+   "price": {
+    "value": 49.99,
+    "valueMainUnit": "49",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Netherlands",
+    "iataCode": "AMS",
+    "name": "Amsterdam",
+    "seoName": "amsterdam",
+    "city": {
+     "code": "AMSTERDAM",
+     "countryCode": "nl",
+     "name": "Amsterdam"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-15T16:20:00",
+   "arrivalDate": "2026-12-15T17:00:00",
+   "price": {
+    "value": 57.07,
+    "valueMainUnit": "57",
+    "valueFractionalUnit": "07",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 421~ ~~AMS~12/15/2026 16:20~DUB~12/15/2026 17:00~~",
+   "flightNumber": "FR421",
+   "previousPrice": null,
+   "priceUpdated": 1792405348000
+  },
+  "summary": {
+   "price": {
+    "value": 57.07,
+    "valueMainUnit": "57",
+    "valueFractionalUnit": "07",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Netherlands",
+    "iataCode": "AMS",
+    "name": "Amsterdam",
+    "seoName": "amsterdam",
+    "city": {
+     "code": "AMSTERDAM",
+     "countryCode": "nl",
+     "name": "Amsterdam"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-13T10:05:00",
+   "arrivalDate": "2026-12-13T13:10:00",
+   "price": {
+    "value": 66.27,
+    "valueMainUnit": "66",
+    "valueFractionalUnit": "27",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2335~ ~~AMS~12/13/2026 10:05~AGP~12/13/2026 13:10~~",
+   "flightNumber": "FR2335",
+   "previousPrice": null,
+   "priceUpdated": 1792405331000
+  },
+  "summary": {
+   "price": {
+    "value": 66.27,
+    "valueMainUnit": "66",
+    "valueFractionalUnit": "27",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Netherlands",
+    "iataCode": "AMS",
+    "name": "Amsterdam",
+    "seoName": "amsterdam",
+    "city": {
+     "code": "AMSTERDAM",
+     "countryCode": "nl",
+     "name": "Amsterdam"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-16T14:40:00",
+   "arrivalDate": "2026-12-16T15:20:00",
+   "price": {
+    "value": 66.99,
+    "valueMainUnit": "66",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3103~ ~~AMS~12/16/2026 14:40~DUB~12/16/2026 15:20~~",
+   "flightNumber": "FR3103",
+   "previousPrice": null,
+   "priceUpdated": 1792419452000
+  },
+  "summary": {
+   "price": {
+    "value": 66.99,
+    "valueMainUnit": "66",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1126,22 +1076,122 @@
    "departureDate": "2026-12-12T20:45:00",
    "arrivalDate": "2026-12-12T23:50:00",
    "price": {
-    "value": 73.18,
-    "valueMainUnit": "73",
-    "valueFractionalUnit": "18",
+    "value": 69.57,
+    "valueMainUnit": "69",
+    "valueFractionalUnit": "57",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~2335~ ~~AMS~12/12/2026 20:45~AGP~12/12/2026 23:50~~",
    "flightNumber": "FR2335",
    "previousPrice": null,
-   "priceUpdated": 1791800181000
+   "priceUpdated": 1792405336000
   },
   "summary": {
    "price": {
-    "value": 73.18,
-    "valueMainUnit": "73",
-    "valueFractionalUnit": "18",
+    "value": 69.57,
+    "valueMainUnit": "69",
+    "valueFractionalUnit": "57",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Netherlands",
+    "iataCode": "AMS",
+    "name": "Amsterdam",
+    "seoName": "amsterdam",
+    "city": {
+     "code": "AMSTERDAM",
+     "countryCode": "nl",
+     "name": "Amsterdam"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-13T13:25:00",
+   "arrivalDate": "2026-12-13T14:05:00",
+   "price": {
+    "value": 70.57,
+    "valueMainUnit": "70",
+    "valueFractionalUnit": "57",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3103~ ~~AMS~12/13/2026 13:25~DUB~12/13/2026 14:05~~",
+   "flightNumber": "FR3103",
+   "previousPrice": null,
+   "priceUpdated": 1792405353000
+  },
+  "summary": {
+   "price": {
+    "value": 70.57,
+    "valueMainUnit": "70",
+    "valueFractionalUnit": "57",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Netherlands",
+    "iataCode": "AMS",
+    "name": "Amsterdam",
+    "seoName": "amsterdam",
+    "city": {
+     "code": "AMSTERDAM",
+     "countryCode": "nl",
+     "name": "Amsterdam"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-17T20:55:00",
+   "arrivalDate": "2026-12-17T21:35:00",
+   "price": {
+    "value": 82.99,
+    "valueMainUnit": "82",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3101~ ~~AMS~12/17/2026 20:55~DUB~12/17/2026 21:35~~",
+   "flightNumber": "FR3101",
+   "previousPrice": null,
+   "priceUpdated": 1792424232000
+  },
+  "summary": {
+   "price": {
+    "value": 82.99,
+    "valueMainUnit": "82",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1173,58 +1223,8 @@
      "name": "Malaga"
     }
    },
-   "departureDate": "2026-12-13T10:05:00",
-   "arrivalDate": "2026-12-13T13:10:00",
-   "price": {
-    "value": 82.48,
-    "valueMainUnit": "82",
-    "valueFractionalUnit": "48",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2335~ ~~AMS~12/13/2026 10:05~AGP~12/13/2026 13:10~~",
-   "flightNumber": "FR2335",
-   "previousPrice": null,
-   "priceUpdated": 1791800179000
-  },
-  "summary": {
-   "price": {
-    "value": 82.48,
-    "valueMainUnit": "82",
-    "valueFractionalUnit": "48",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Netherlands",
-    "iataCode": "AMS",
-    "name": "Amsterdam",
-    "seoName": "amsterdam",
-    "city": {
-     "code": "AMSTERDAM",
-     "countryCode": "nl",
-     "name": "Amsterdam"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
-    "city": {
-     "code": "MALAGA",
-     "countryCode": "es",
-     "name": "Malaga"
-    }
-   },
-   "departureDate": "2026-12-14T14:05:00",
-   "arrivalDate": "2026-12-14T17:10:00",
+   "departureDate": "2026-12-15T09:35:00",
+   "arrivalDate": "2026-12-15T12:40:00",
    "price": {
     "value": 89.99,
     "valueMainUnit": "89",
@@ -1232,10 +1232,10 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2335~ ~~AMS~12/14/2026 14:05~AGP~12/14/2026 17:10~~",
+   "flightKey": "FR~2335~ ~~AMS~12/15/2026 09:35~AGP~12/15/2026 12:40~~",
    "flightNumber": "FR2335",
    "previousPrice": null,
-   "priceUpdated": 1791800176000
+   "priceUpdated": 1792429147000
   },
   "summary": {
    "price": {
@@ -1276,8 +1276,8 @@
    "departureDate": "2026-12-16T14:55:00",
    "arrivalDate": "2026-12-16T18:00:00",
    "price": {
-    "value": 91.99,
-    "valueMainUnit": "91",
+    "value": 89.99,
+    "valueMainUnit": "89",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1285,12 +1285,62 @@
    "flightKey": "FR~2335~ ~~AMS~12/16/2026 14:55~AGP~12/16/2026 18:00~~",
    "flightNumber": "FR2335",
    "previousPrice": null,
-   "priceUpdated": 1791800178000
+   "priceUpdated": 1792419428000
   },
   "summary": {
    "price": {
-    "value": 91.99,
-    "valueMainUnit": "91",
+    "value": 89.99,
+    "valueMainUnit": "89",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Netherlands",
+    "iataCode": "AMS",
+    "name": "Amsterdam",
+    "seoName": "amsterdam",
+    "city": {
+     "code": "AMSTERDAM",
+     "countryCode": "nl",
+     "name": "Amsterdam"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-14T14:05:00",
+   "arrivalDate": "2026-12-14T17:10:00",
+   "price": {
+    "value": 90.99,
+    "valueMainUnit": "90",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2335~ ~~AMS~12/14/2026 14:05~AGP~12/14/2026 17:10~~",
+   "flightNumber": "FR2335",
+   "previousPrice": null,
+   "priceUpdated": 1792419396000
+  },
+  "summary": {
+   "price": {
+    "value": 90.99,
+    "valueMainUnit": "90",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1323,74 +1373,24 @@
      "name": "Dublin"
     }
    },
-   "departureDate": "2026-12-17T15:55:00",
-   "arrivalDate": "2026-12-17T16:35:00",
+   "departureDate": "2026-12-19T21:40:00",
+   "arrivalDate": "2026-12-19T22:20:00",
    "price": {
-    "value": 96.21,
-    "valueMainUnit": "96",
-    "valueFractionalUnit": "21",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3007~ ~~AMS~12/17/2026 15:55~DUB~12/17/2026 16:35~~",
-   "flightNumber": "FR3007",
-   "previousPrice": null,
-   "priceUpdated": 1791800213000
-  },
-  "summary": {
-   "price": {
-    "value": 96.21,
-    "valueMainUnit": "96",
-    "valueFractionalUnit": "21",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Netherlands",
-    "iataCode": "AMS",
-    "name": "Amsterdam",
-    "seoName": "amsterdam",
-    "city": {
-     "code": "AMSTERDAM",
-     "countryCode": "nl",
-     "name": "Amsterdam"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-19T18:20:00",
-   "arrivalDate": "2026-12-19T19:00:00",
-   "price": {
-    "value": 104.99,
-    "valueMainUnit": "104",
+    "value": 108.99,
+    "valueMainUnit": "108",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~3007~ ~~AMS~12/19/2026 18:20~DUB~12/19/2026 19:00~~",
-   "flightNumber": "FR3007",
+   "flightKey": "FR~3103~ ~~AMS~12/19/2026 21:40~DUB~12/19/2026 22:20~~",
+   "flightNumber": "FR3103",
    "previousPrice": null,
-   "priceUpdated": 1791801636000
+   "priceUpdated": 1792419479000
   },
   "summary": {
    "price": {
-    "value": 104.99,
-    "valueMainUnit": "104",
+    "value": 108.99,
+    "valueMainUnit": "108",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1423,25 +1423,25 @@
      "name": "Dublin"
     }
    },
-   "departureDate": "2026-12-18T19:20:00",
-   "arrivalDate": "2026-12-18T20:00:00",
+   "departureDate": "2026-12-18T17:00:00",
+   "arrivalDate": "2026-12-18T17:40:00",
    "price": {
-    "value": 122.14,
-    "valueMainUnit": "122",
-    "valueFractionalUnit": "14",
+    "value": 131.73,
+    "valueMainUnit": "131",
+    "valueFractionalUnit": "73",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 421~ ~~AMS~12/18/2026 19:20~DUB~12/18/2026 20:00~~",
-   "flightNumber": "FR421",
+   "flightKey": "FR~3101~ ~~AMS~12/18/2026 17:00~DUB~12/18/2026 17:40~~",
+   "flightNumber": "FR3101",
    "previousPrice": null,
-   "priceUpdated": 1791800211000
+   "priceUpdated": 1792431579000
   },
   "summary": {
    "price": {
-    "value": 122.14,
-    "valueMainUnit": "122",
-    "valueFractionalUnit": "14",
+    "value": 131.73,
+    "valueMainUnit": "131",
+    "valueFractionalUnit": "73",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1476,22 +1476,22 @@
    "departureDate": "2026-12-17T12:55:00",
    "arrivalDate": "2026-12-17T16:00:00",
    "price": {
-    "value": 136.89,
-    "valueMainUnit": "136",
-    "valueFractionalUnit": "89",
+    "value": 152.27,
+    "valueMainUnit": "152",
+    "valueFractionalUnit": "27",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~2335~ ~~AMS~12/17/2026 12:55~AGP~12/17/2026 16:00~~",
    "flightNumber": "FR2335",
    "previousPrice": null,
-   "priceUpdated": 1791800178000
+   "priceUpdated": 1792423727000
   },
   "summary": {
    "price": {
-    "value": 136.89,
-    "valueMainUnit": "136",
-    "valueFractionalUnit": "89",
+    "value": 152.27,
+    "valueMainUnit": "152",
+    "valueFractionalUnit": "27",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1526,22 +1526,22 @@
    "departureDate": "2026-12-19T20:45:00",
    "arrivalDate": "2026-12-19T23:50:00",
    "price": {
-    "value": 190.67,
-    "valueMainUnit": "190",
-    "valueFractionalUnit": "67",
+    "value": 184.59,
+    "valueMainUnit": "184",
+    "valueFractionalUnit": "59",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~2335~ ~~AMS~12/19/2026 20:45~AGP~12/19/2026 23:50~~",
    "flightNumber": "FR2335",
    "previousPrice": null,
-   "priceUpdated": 1791800176000
+   "priceUpdated": 1792434088000
   },
   "summary": {
    "price": {
-    "value": 190.67,
-    "valueMainUnit": "190",
-    "valueFractionalUnit": "67",
+    "value": 184.59,
+    "valueMainUnit": "184",
+    "valueFractionalUnit": "59",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1573,25 +1573,25 @@
      "name": "Malaga"
     }
    },
-   "departureDate": "2026-12-18T10:10:00",
-   "arrivalDate": "2026-12-18T13:15:00",
+   "departureDate": "2026-12-18T19:45:00",
+   "arrivalDate": "2026-12-18T22:50:00",
    "price": {
-    "value": 195.23,
-    "valueMainUnit": "195",
-    "valueFractionalUnit": "23",
+    "value": 184.99,
+    "valueMainUnit": "184",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~5692~ ~~AMS~12/18/2026 10:10~AGP~12/18/2026 13:15~~",
-   "flightNumber": "FR5692",
+   "flightKey": "FR~2335~ ~~AMS~12/18/2026 19:45~AGP~12/18/2026 22:50~~",
+   "flightNumber": "FR2335",
    "previousPrice": null,
-   "priceUpdated": 1791800182000
+   "priceUpdated": 1792419414000
   },
   "summary": {
    "price": {
-    "value": 195.23,
-    "valueMainUnit": "195",
-    "valueFractionalUnit": "23",
+    "value": 184.99,
+    "valueMainUnit": "184",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },

@@ -26,8 +26,8 @@
    "departureDate": "2026-12-11T20:00:00",
    "arrivalDate": "2026-12-11T22:30:00",
    "price": {
-    "value": 41.99,
-    "valueMainUnit": "41",
+    "value": 33.99,
+    "valueMainUnit": "33",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -35,12 +35,62 @@
    "flightKey": "FR~ 707~ ~~LCA~12/11/2026 20:00~VIE~12/11/2026 22:30~~",
    "flightNumber": "FR707",
    "previousPrice": null,
-   "priceUpdated": 1791800573000
+   "priceUpdated": 1792419353000
   },
   "summary": {
    "price": {
-    "value": 41.99,
-    "valueMainUnit": "41",
+    "value": 33.99,
+    "valueMainUnit": "33",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Cyprus",
+    "iataCode": "LCA",
+    "name": "Larnaca",
+    "seoName": "larnaca",
+    "city": {
+     "code": "LARNACA",
+     "countryCode": "cy",
+     "name": "Larnaca"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Austria",
+    "iataCode": "VIE",
+    "name": "Vienna",
+    "seoName": "vienna",
+    "city": {
+     "code": "VIENNA",
+     "countryCode": "at",
+     "name": "Vienna"
+    }
+   },
+   "departureDate": "2026-12-04T20:00:00",
+   "arrivalDate": "2026-12-04T22:30:00",
+   "price": {
+    "value": 49.99,
+    "valueMainUnit": "49",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 707~ ~~LCA~12/04/2026 20:00~VIE~12/04/2026 22:30~~",
+   "flightNumber": "FR707",
+   "previousPrice": null,
+   "priceUpdated": 1792440993000
+  },
+  "summary": {
+   "price": {
+    "value": 49.99,
+    "valueMainUnit": "49",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -76,22 +126,22 @@
    "departureDate": "2026-12-06T10:50:00",
    "arrivalDate": "2026-12-06T13:20:00",
    "price": {
-    "value": 44.59,
-    "valueMainUnit": "44",
-    "valueFractionalUnit": "59",
+    "value": 65.12,
+    "valueMainUnit": "65",
+    "valueFractionalUnit": "12",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~ 707~ ~~LCA~12/06/2026 10:50~VIE~12/06/2026 13:20~~",
    "flightNumber": "FR707",
    "previousPrice": null,
-   "priceUpdated": 1791800571000
+   "priceUpdated": 1792431438000
   },
   "summary": {
    "price": {
-    "value": 44.59,
-    "valueMainUnit": "44",
-    "valueFractionalUnit": "59",
+    "value": 65.12,
+    "valueMainUnit": "65",
+    "valueFractionalUnit": "12",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -123,24 +173,24 @@
      "name": "Vienna"
     }
    },
-   "departureDate": "2026-12-04T20:00:00",
-   "arrivalDate": "2026-12-04T22:30:00",
+   "departureDate": "2026-12-18T20:00:00",
+   "arrivalDate": "2026-12-18T22:30:00",
    "price": {
-    "value": 75.99,
-    "valueMainUnit": "75",
+    "value": 58.99,
+    "valueMainUnit": "58",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 707~ ~~LCA~12/04/2026 20:00~VIE~12/04/2026 22:30~~",
+   "flightKey": "FR~ 707~ ~~LCA~12/18/2026 20:00~VIE~12/18/2026 22:30~~",
    "flightNumber": "FR707",
    "previousPrice": null,
-   "priceUpdated": 1791800573000
+   "priceUpdated": 1792436838000
   },
   "summary": {
    "price": {
-    "value": 75.99,
-    "valueMainUnit": "75",
+    "value": 58.99,
+    "valueMainUnit": "58",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -176,72 +226,22 @@
    "departureDate": "2026-12-13T10:50:00",
    "arrivalDate": "2026-12-13T13:20:00",
    "price": {
-    "value": 56.3,
-    "valueMainUnit": "56",
-    "valueFractionalUnit": "30",
+    "value": 62.27,
+    "valueMainUnit": "62",
+    "valueFractionalUnit": "27",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~ 707~ ~~LCA~12/13/2026 10:50~VIE~12/13/2026 13:20~~",
    "flightNumber": "FR707",
    "previousPrice": null,
-   "priceUpdated": 1791800570000
+   "priceUpdated": 1792418029000
   },
   "summary": {
    "price": {
-    "value": 56.3,
-    "valueMainUnit": "56",
-    "valueFractionalUnit": "30",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Cyprus",
-    "iataCode": "LCA",
-    "name": "Larnaca",
-    "seoName": "larnaca",
-    "city": {
-     "code": "LARNACA",
-     "countryCode": "cy",
-     "name": "Larnaca"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Austria",
-    "iataCode": "VIE",
-    "name": "Vienna",
-    "seoName": "vienna",
-    "city": {
-     "code": "VIENNA",
-     "countryCode": "at",
-     "name": "Vienna"
-    }
-   },
-   "departureDate": "2026-12-18T20:00:00",
-   "arrivalDate": "2026-12-18T22:30:00",
-   "price": {
-    "value": 64.99,
-    "valueMainUnit": "64",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 707~ ~~LCA~12/18/2026 20:00~VIE~12/18/2026 22:30~~",
-   "flightNumber": "FR707",
-   "previousPrice": null,
-   "priceUpdated": 1791800573000
-  },
-  "summary": {
-   "price": {
-    "value": 64.99,
-    "valueMainUnit": "64",
-    "valueFractionalUnit": "99",
+    "value": 62.27,
+    "valueMainUnit": "62",
+    "valueFractionalUnit": "27",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },

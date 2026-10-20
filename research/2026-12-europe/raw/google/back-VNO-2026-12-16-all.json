@@ -1,17 +1,21 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTZqBRIDVk5PcgUSA1RSREABSAGYAQI",
- "via": "ui",
+ "fetchedAt": "2026-10-19T23:07:29",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 252.0,
+   "price": 236.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "Air Baltic and KLM",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "VNO",
    "depAirportName": "Vilnius International Airport",
    "depTime": "07:45",
    "depDate": "2026-12-16",
+   "arrCode": "TRD",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "16:35",
    "arrDate": "2026-12-16",
@@ -19,13 +23,20 @@
    "layovers": [
     {
      "min": 310,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "BT961",
+    "KL1153"
+   ],
+   "via": "rpc"
   },
   {
    "price": 3412.0,
@@ -33,10 +44,12 @@
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "Scandinavian Airlines",
-   "operatedBy": null,
+   "operatedBy": "Cityjet, Sas Link",
+   "depCode": "VNO",
    "depAirportName": "Vilnius International Airport",
    "depTime": "11:20",
    "depDate": "2026-12-16",
+   "arrCode": "TRD",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "14:30",
    "arrDate": "2026-12-16",
@@ -44,13 +57,54 @@
    "layovers": [
     {
      "min": 55,
+     "overnight": false,
      "airport": "Copenhagen Airport",
      "city": "Copenhagen",
-     "overnight": false
+     "code": "CPH",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "SK745",
+    "SK2880"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 3412.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Scandinavian Airlines",
+   "operatedBy": "Cityjet, Sas Link",
+   "depCode": "VNO",
+   "depAirportName": "Vilnius International Airport",
+   "depTime": "15:55",
+   "depDate": "2026-12-16",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "19:20",
+   "arrDate": "2026-12-16",
+   "durationMin": 265,
+   "layovers": [
+    {
+     "min": 65,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "code": "CPH",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK1743",
+    "SK2886"
+   ],
+   "via": "rpc"
   }
  ]
 }

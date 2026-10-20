@@ -27,175 +27,22 @@
    "departureDate": "2026-12-05T08:30:00",
    "arrivalDate": "2026-12-05T08:35:00",
    "price": {
-    "value": 27.31,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "31",
+    "value": 18.03,
+    "valueMainUnit": "18",
+    "valueFractionalUnit": "03",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~4611~ ~~TLL~12/05/2026 08:30~ARN~12/05/2026 08:35~~",
    "flightNumber": "FR4611",
    "previousPrice": null,
-   "priceUpdated": 1791800921000
+   "priceUpdated": 1792442080000
   },
   "summary": {
    "price": {
-    "value": 27.31,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "31",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Estonia",
-    "iataCode": "TLL",
-    "name": "Tallinn",
-    "seoName": "tallinn",
-    "city": {
-     "code": "TALLINN",
-     "countryCode": "ee",
-     "name": "Tallinn"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-05T22:55:00",
-   "arrivalDate": "2026-12-05T23:55:00",
-   "price": {
-    "value": 31.44,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "44",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2224~ ~~TLL~12/05/2026 22:55~STN~12/05/2026 23:55~~",
-   "flightNumber": "FR2224",
-   "previousPrice": null,
-   "priceUpdated": 1791800920000
-  },
-  "summary": {
-   "price": {
-    "value": 31.44,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "44",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Estonia",
-    "iataCode": "TLL",
-    "name": "Tallinn",
-    "seoName": "tallinn",
-    "city": {
-     "code": "TALLINN",
-     "countryCode": "ee",
-     "name": "Tallinn"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-11T23:00:00",
-   "arrivalDate": "2026-12-11T23:59:00",
-   "price": {
-    "value": 31.88,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "88",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2236~ ~~TLL~12/11/2026 23:00~STN~12/11/2026 23:59~~",
-   "flightNumber": "FR2236",
-   "previousPrice": null,
-   "priceUpdated": 1791800919000
-  },
-  "summary": {
-   "price": {
-    "value": 31.88,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "88",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Estonia",
-    "iataCode": "TLL",
-    "name": "Tallinn",
-    "seoName": "tallinn",
-    "city": {
-     "code": "TALLINN",
-     "countryCode": "ee",
-     "name": "Tallinn"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Sweden",
-    "iataCode": "ARN",
-    "name": "Stockholm Arlanda",
-    "seoName": "stockholm-arlandia",
-    "city": {
-     "code": "STOCKHOLM",
-     "countryCode": "se",
-     "macCode": "SLM",
-     "name": "Stockholm"
-    }
-   },
-   "departureDate": "2026-12-07T18:30:00",
-   "arrivalDate": "2026-12-07T18:35:00",
-   "price": {
-    "value": 32.2,
-    "valueMainUnit": "32",
-    "valueFractionalUnit": "20",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4611~ ~~TLL~12/07/2026 18:30~ARN~12/07/2026 18:35~~",
-   "flightNumber": "FR4611",
-   "previousPrice": null,
-   "priceUpdated": 1791800920000
-  },
-  "summary": {
-   "price": {
-    "value": 32.2,
-    "valueMainUnit": "32",
-    "valueFractionalUnit": "20",
+    "value": 18.03,
+    "valueMainUnit": "18",
+    "valueFractionalUnit": "03",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -231,22 +78,175 @@
    "departureDate": "2026-12-04T23:00:00",
    "arrivalDate": "2026-12-04T23:59:00",
    "price": {
-    "value": 36.07,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "07",
+    "value": 25.81,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "81",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~2236~ ~~TLL~12/04/2026 23:00~STN~12/04/2026 23:59~~",
    "flightNumber": "FR2236",
    "previousPrice": null,
-   "priceUpdated": 1791800918000
+   "priceUpdated": 1792441323000
   },
   "summary": {
    "price": {
-    "value": 36.07,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "07",
+    "value": 25.81,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "81",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Estonia",
+    "iataCode": "TLL",
+    "name": "Tallinn",
+    "seoName": "tallinn",
+    "city": {
+     "code": "TALLINN",
+     "countryCode": "ee",
+     "name": "Tallinn"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-05T22:55:00",
+   "arrivalDate": "2026-12-05T23:55:00",
+   "price": {
+    "value": 30.88,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "88",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2224~ ~~TLL~12/05/2026 22:55~STN~12/05/2026 23:55~~",
+   "flightNumber": "FR2224",
+   "previousPrice": null,
+   "priceUpdated": 1792434788000
+  },
+  "summary": {
+   "price": {
+    "value": 30.88,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "88",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Estonia",
+    "iataCode": "TLL",
+    "name": "Tallinn",
+    "seoName": "tallinn",
+    "city": {
+     "code": "TALLINN",
+     "countryCode": "ee",
+     "name": "Tallinn"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-11T23:00:00",
+   "arrivalDate": "2026-12-11T23:59:00",
+   "price": {
+    "value": 37.35,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "35",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2236~ ~~TLL~12/11/2026 23:00~STN~12/11/2026 23:59~~",
+   "flightNumber": "FR2236",
+   "previousPrice": null,
+   "priceUpdated": 1792433046000
+  },
+  "summary": {
+   "price": {
+    "value": 37.35,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "35",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Estonia",
+    "iataCode": "TLL",
+    "name": "Tallinn",
+    "seoName": "tallinn",
+    "city": {
+     "code": "TALLINN",
+     "countryCode": "ee",
+     "name": "Tallinn"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Sweden",
+    "iataCode": "ARN",
+    "name": "Stockholm Arlanda",
+    "seoName": "stockholm-arlandia",
+    "city": {
+     "code": "STOCKHOLM",
+     "countryCode": "se",
+     "macCode": "SLM",
+     "name": "Stockholm"
+    }
+   },
+   "departureDate": "2026-12-07T18:30:00",
+   "arrivalDate": "2026-12-07T18:35:00",
+   "price": {
+    "value": 48.52,
+    "valueMainUnit": "48",
+    "valueFractionalUnit": "52",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4611~ ~~TLL~12/07/2026 18:30~ARN~12/07/2026 18:35~~",
+   "flightNumber": "FR4611",
+   "previousPrice": null,
+   "priceUpdated": 1792405718000
+  },
+  "summary": {
+   "price": {
+    "value": 48.52,
+    "valueMainUnit": "48",
+    "valueFractionalUnit": "52",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -291,113 +291,12 @@
    "flightKey": "FR~8903~ ~~TLL~12/05/2026 11:40~MXP~12/05/2026 13:50~~",
    "flightNumber": "FR8903",
    "previousPrice": null,
-   "priceUpdated": 1791800922000
+   "priceUpdated": 1792437221000
   },
   "summary": {
    "price": {
     "value": 50.99,
     "valueMainUnit": "50",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Estonia",
-    "iataCode": "TLL",
-    "name": "Tallinn",
-    "seoName": "tallinn",
-    "city": {
-     "code": "TALLINN",
-     "countryCode": "ee",
-     "name": "Tallinn"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-06T13:30:00",
-   "arrivalDate": "2026-12-06T14:55:00",
-   "price": {
-    "value": 51.99,
-    "valueMainUnit": "51",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5694~ ~~TLL~12/06/2026 13:30~DUB~12/06/2026 14:55~~",
-   "flightNumber": "FR5694",
-   "previousPrice": null,
-   "priceUpdated": 1791800919000
-  },
-  "summary": {
-   "price": {
-    "value": 51.99,
-    "valueMainUnit": "51",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Estonia",
-    "iataCode": "TLL",
-    "name": "Tallinn",
-    "seoName": "tallinn",
-    "city": {
-     "code": "TALLINN",
-     "countryCode": "ee",
-     "name": "Tallinn"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-07T23:10:00",
-   "arrivalDate": "2026-12-08T00:10:00",
-   "price": {
-    "value": 59.99,
-    "valueMainUnit": "59",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2236~ ~~TLL~12/07/2026 23:10~STN~12/08/2026 00:10~~",
-   "flightNumber": "FR2236",
-   "previousPrice": null,
-   "priceUpdated": 1791800923000
-  },
-  "summary": {
-   "price": {
-    "value": 59.99,
-    "valueMainUnit": "59",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -434,8 +333,8 @@
    "departureDate": "2026-12-06T21:50:00",
    "arrivalDate": "2026-12-07T00:50:00",
    "price": {
-    "value": 68.99,
-    "valueMainUnit": "68",
+    "value": 54.99,
+    "valueMainUnit": "54",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -443,12 +342,63 @@
    "flightKey": "FR~9914~ ~~TLL~12/06/2026 21:50~BCN~12/07/2026 00:50~~",
    "flightNumber": "FR9914",
    "previousPrice": null,
-   "priceUpdated": 1791800921000
+   "priceUpdated": 1792419601000
   },
   "summary": {
    "price": {
-    "value": 68.99,
-    "valueMainUnit": "68",
+    "value": 54.99,
+    "valueMainUnit": "54",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Estonia",
+    "iataCode": "TLL",
+    "name": "Tallinn",
+    "seoName": "tallinn",
+    "city": {
+     "code": "TALLINN",
+     "countryCode": "ee",
+     "name": "Tallinn"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-07T23:10:00",
+   "arrivalDate": "2026-12-08T00:10:00",
+   "price": {
+    "value": 56.99,
+    "valueMainUnit": "56",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2236~ ~~TLL~12/07/2026 23:10~STN~12/08/2026 00:10~~",
+   "flightNumber": "FR2236",
+   "previousPrice": null,
+   "priceUpdated": 1792419494000
+  },
+  "summary": {
+   "price": {
+    "value": 56.99,
+    "valueMainUnit": "56",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -481,24 +431,24 @@
      "name": "Dublin"
     }
    },
-   "departureDate": "2026-12-10T22:50:00",
-   "arrivalDate": "2026-12-11T00:15:00",
+   "departureDate": "2026-12-06T13:30:00",
+   "arrivalDate": "2026-12-06T14:55:00",
    "price": {
-    "value": 68.99,
-    "valueMainUnit": "68",
+    "value": 58.99,
+    "valueMainUnit": "58",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~5694~ ~~TLL~12/10/2026 22:50~DUB~12/11/2026 00:15~~",
+   "flightKey": "FR~5694~ ~~TLL~12/06/2026 13:30~DUB~12/06/2026 14:55~~",
    "flightNumber": "FR5694",
    "previousPrice": null,
-   "priceUpdated": 1791800920000
+   "priceUpdated": 1792419541000
   },
   "summary": {
    "price": {
-    "value": 68.99,
-    "valueMainUnit": "68",
+    "value": 58.99,
+    "valueMainUnit": "58",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -535,8 +485,8 @@
    "departureDate": "2026-12-07T11:50:00",
    "arrivalDate": "2026-12-07T14:00:00",
    "price": {
-    "value": 70.99,
-    "valueMainUnit": "70",
+    "value": 59.99,
+    "valueMainUnit": "59",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -544,12 +494,62 @@
    "flightKey": "FR~8903~ ~~TLL~12/07/2026 11:50~MXP~12/07/2026 14:00~~",
    "flightNumber": "FR8903",
    "previousPrice": null,
-   "priceUpdated": 1791800921000
+   "priceUpdated": 1792442107000
   },
   "summary": {
    "price": {
-    "value": 70.99,
-    "valueMainUnit": "70",
+    "value": 59.99,
+    "valueMainUnit": "59",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Estonia",
+    "iataCode": "TLL",
+    "name": "Tallinn",
+    "seoName": "tallinn",
+    "city": {
+     "code": "TALLINN",
+     "countryCode": "ee",
+     "name": "Tallinn"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-10T22:50:00",
+   "arrivalDate": "2026-12-11T00:15:00",
+   "price": {
+    "value": 65.99,
+    "valueMainUnit": "65",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5694~ ~~TLL~12/10/2026 22:50~DUB~12/11/2026 00:15~~",
+   "flightNumber": "FR5694",
+   "previousPrice": null,
+   "priceUpdated": 1792438122000
+  },
+  "summary": {
+   "price": {
+    "value": 65.99,
+    "valueMainUnit": "65",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -586,22 +586,73 @@
    "departureDate": "2026-12-06T22:50:00",
    "arrivalDate": "2026-12-06T23:50:00",
    "price": {
-    "value": 87.49,
-    "valueMainUnit": "87",
-    "valueFractionalUnit": "49",
+    "value": 95.74,
+    "valueMainUnit": "95",
+    "valueFractionalUnit": "74",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~2224~ ~~TLL~12/06/2026 22:50~STN~12/06/2026 23:50~~",
    "flightNumber": "FR2224",
    "previousPrice": null,
-   "priceUpdated": 1791800918000
+   "priceUpdated": 1792412914000
   },
   "summary": {
    "price": {
-    "value": 87.49,
-    "valueMainUnit": "87",
-    "valueFractionalUnit": "49",
+    "value": 95.74,
+    "valueMainUnit": "95",
+    "valueFractionalUnit": "74",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Estonia",
+    "iataCode": "TLL",
+    "name": "Tallinn",
+    "seoName": "tallinn",
+    "city": {
+     "code": "TALLINN",
+     "countryCode": "ee",
+     "name": "Tallinn"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "BCN",
+    "name": "Barcelona",
+    "seoName": "barcelona-el-prat",
+    "city": {
+     "code": "BARCELONA",
+     "countryCode": "es",
+     "macCode": "BAR",
+     "name": "Barcelona"
+    }
+   },
+   "departureDate": "2026-12-09T21:15:00",
+   "arrivalDate": "2026-12-10T00:15:00",
+   "price": {
+    "value": 108.99,
+    "valueMainUnit": "108",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9914~ ~~TLL~12/09/2026 21:15~BCN~12/10/2026 00:15~~",
+   "flightNumber": "FR9914",
+   "previousPrice": null,
+   "priceUpdated": 1792419322000
+  },
+  "summary": {
+   "price": {
+    "value": 108.99,
+    "valueMainUnit": "108",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -637,22 +688,22 @@
    "departureDate": "2026-12-10T14:05:00",
    "arrivalDate": "2026-12-10T15:05:00",
    "price": {
-    "value": 124.79,
-    "valueMainUnit": "124",
-    "valueFractionalUnit": "79",
+    "value": 112.19,
+    "valueMainUnit": "112",
+    "valueFractionalUnit": "19",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~2224~ ~~TLL~12/10/2026 14:05~STN~12/10/2026 15:05~~",
    "flightNumber": "FR2224",
    "previousPrice": null,
-   "priceUpdated": 1791800923000
+   "priceUpdated": 1792405723000
   },
   "summary": {
    "price": {
-    "value": 124.79,
-    "valueMainUnit": "124",
-    "valueFractionalUnit": "79",
+    "value": 112.19,
+    "valueMainUnit": "112",
+    "valueFractionalUnit": "19",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -674,35 +725,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "BCN",
-    "name": "Barcelona",
-    "seoName": "barcelona-el-prat",
+    "countryName": "Sweden",
+    "iataCode": "ARN",
+    "name": "Stockholm Arlanda",
+    "seoName": "stockholm-arlandia",
     "city": {
-     "code": "BARCELONA",
-     "countryCode": "es",
-     "macCode": "BAR",
-     "name": "Barcelona"
+     "code": "STOCKHOLM",
+     "countryCode": "se",
+     "macCode": "SLM",
+     "name": "Stockholm"
     }
    },
-   "departureDate": "2026-12-09T20:55:00",
-   "arrivalDate": "2026-12-09T23:55:00",
+   "departureDate": "2026-12-19T08:30:00",
+   "arrivalDate": "2026-12-19T08:35:00",
    "price": {
-    "value": 124.99,
-    "valueMainUnit": "124",
+    "value": 22.99,
+    "valueMainUnit": "22",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~9914~ ~~TLL~12/09/2026 20:55~BCN~12/09/2026 23:55~~",
-   "flightNumber": "FR9914",
+   "flightKey": "FR~4611~ ~~TLL~12/19/2026 08:30~ARN~12/19/2026 08:35~~",
+   "flightNumber": "FR4611",
    "previousPrice": null,
-   "priceUpdated": 1791800922000
+   "priceUpdated": 1792419602000
   },
   "summary": {
    "price": {
-    "value": 124.99,
-    "valueMainUnit": "124",
+    "value": 22.99,
+    "valueMainUnit": "22",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -739,124 +790,22 @@
    "departureDate": "2026-12-14T18:30:00",
    "arrivalDate": "2026-12-14T18:35:00",
    "price": {
-    "value": 22.51,
-    "valueMainUnit": "22",
-    "valueFractionalUnit": "51",
+    "value": 24.19,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "19",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~4611~ ~~TLL~12/14/2026 18:30~ARN~12/14/2026 18:35~~",
    "flightNumber": "FR4611",
    "previousPrice": null,
-   "priceUpdated": 1791800920000
+   "priceUpdated": 1792405720000
   },
   "summary": {
    "price": {
-    "value": 22.51,
-    "valueMainUnit": "22",
-    "valueFractionalUnit": "51",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Estonia",
-    "iataCode": "TLL",
-    "name": "Tallinn",
-    "seoName": "tallinn",
-    "city": {
-     "code": "TALLINN",
-     "countryCode": "ee",
-     "name": "Tallinn"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-12T22:55:00",
-   "arrivalDate": "2026-12-12T23:55:00",
-   "price": {
-    "value": 24.99,
+    "value": 24.19,
     "valueMainUnit": "24",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2224~ ~~TLL~12/12/2026 22:55~STN~12/12/2026 23:55~~",
-   "flightNumber": "FR2224",
-   "previousPrice": null,
-   "priceUpdated": 1791800924000
-  },
-  "summary": {
-   "price": {
-    "value": 24.99,
-    "valueMainUnit": "24",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Estonia",
-    "iataCode": "TLL",
-    "name": "Tallinn",
-    "seoName": "tallinn",
-    "city": {
-     "code": "TALLINN",
-     "countryCode": "ee",
-     "name": "Tallinn"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Sweden",
-    "iataCode": "ARN",
-    "name": "Stockholm Arlanda",
-    "seoName": "stockholm-arlandia",
-    "city": {
-     "code": "STOCKHOLM",
-     "countryCode": "se",
-     "macCode": "SLM",
-     "name": "Stockholm"
-    }
-   },
-   "departureDate": "2026-12-19T08:30:00",
-   "arrivalDate": "2026-12-19T08:35:00",
-   "price": {
-    "value": 25.99,
-    "valueMainUnit": "25",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4611~ ~~TLL~12/19/2026 08:30~ARN~12/19/2026 08:35~~",
-   "flightNumber": "FR4611",
-   "previousPrice": null,
-   "priceUpdated": 1791801820000
-  },
-  "summary": {
-   "price": {
-    "value": 25.99,
-    "valueMainUnit": "25",
-    "valueFractionalUnit": "99",
+    "valueFractionalUnit": "19",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -892,8 +841,8 @@
    "departureDate": "2026-12-12T08:30:00",
    "arrivalDate": "2026-12-12T08:35:00",
    "price": {
-    "value": 33.99,
-    "valueMainUnit": "33",
+    "value": 32.99,
+    "valueMainUnit": "32",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -901,13 +850,64 @@
    "flightKey": "FR~4611~ ~~TLL~12/12/2026 08:30~ARN~12/12/2026 08:35~~",
    "flightNumber": "FR4611",
    "previousPrice": null,
-   "priceUpdated": 1791800922000
+   "priceUpdated": 1792429952000
   },
   "summary": {
    "price": {
-    "value": 33.99,
-    "valueMainUnit": "33",
+    "value": 32.99,
+    "valueMainUnit": "32",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Estonia",
+    "iataCode": "TLL",
+    "name": "Tallinn",
+    "seoName": "tallinn",
+    "city": {
+     "code": "TALLINN",
+     "countryCode": "ee",
+     "name": "Tallinn"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-12T22:55:00",
+   "arrivalDate": "2026-12-12T23:55:00",
+   "price": {
+    "value": 41.83,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "83",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2224~ ~~TLL~12/12/2026 22:55~STN~12/12/2026 23:55~~",
+   "flightNumber": "FR2224",
+   "previousPrice": null,
+   "priceUpdated": 1792442110000
+  },
+  "summary": {
+   "price": {
+    "value": 41.83,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "83",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -952,7 +952,7 @@
    "flightKey": "FR~2236~ ~~TLL~12/18/2026 23:00~STN~12/18/2026 23:59~~",
    "flightNumber": "FR2236",
    "previousPrice": null,
-   "priceUpdated": 1791800923000
+   "priceUpdated": 1792435937000
   },
   "summary": {
    "price": {
@@ -994,8 +994,8 @@
    "departureDate": "2026-12-13T21:50:00",
    "arrivalDate": "2026-12-14T00:50:00",
    "price": {
-    "value": 56.99,
-    "valueMainUnit": "56",
+    "value": 52.99,
+    "valueMainUnit": "52",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1003,13 +1003,63 @@
    "flightKey": "FR~9914~ ~~TLL~12/13/2026 21:50~BCN~12/14/2026 00:50~~",
    "flightNumber": "FR9914",
    "previousPrice": null,
-   "priceUpdated": 1791800923000
+   "priceUpdated": 1792434523000
   },
   "summary": {
    "price": {
-    "value": 56.99,
-    "valueMainUnit": "56",
+    "value": 52.99,
+    "valueMainUnit": "52",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Estonia",
+    "iataCode": "TLL",
+    "name": "Tallinn",
+    "seoName": "tallinn",
+    "city": {
+     "code": "TALLINN",
+     "countryCode": "ee",
+     "name": "Tallinn"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-17T22:50:00",
+   "arrivalDate": "2026-12-18T00:15:00",
+   "price": {
+    "value": 58.69,
+    "valueMainUnit": "58",
+    "valueFractionalUnit": "69",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5694~ ~~TLL~12/17/2026 22:50~DUB~12/18/2026 00:15~~",
+   "flightNumber": "FR5694",
+   "previousPrice": null,
+   "priceUpdated": 1792405728000
+  },
+  "summary": {
+   "price": {
+    "value": 58.69,
+    "valueMainUnit": "58",
+    "valueFractionalUnit": "69",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1042,25 +1092,178 @@
      "name": "Barcelona"
     }
    },
-   "departureDate": "2026-12-16T20:55:00",
-   "arrivalDate": "2026-12-16T23:55:00",
+   "departureDate": "2026-12-16T21:15:00",
+   "arrivalDate": "2026-12-17T00:15:00",
    "price": {
-    "value": 69.27,
-    "valueMainUnit": "69",
-    "valueFractionalUnit": "27",
+    "value": 59.09,
+    "valueMainUnit": "59",
+    "valueFractionalUnit": "09",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~9914~ ~~TLL~12/16/2026 20:55~BCN~12/16/2026 23:55~~",
+   "flightKey": "FR~9914~ ~~TLL~12/16/2026 21:15~BCN~12/17/2026 00:15~~",
    "flightNumber": "FR9914",
    "previousPrice": null,
-   "priceUpdated": 1791800922000
+   "priceUpdated": 1792439672000
   },
   "summary": {
    "price": {
-    "value": 69.27,
+    "value": 59.09,
+    "valueMainUnit": "59",
+    "valueFractionalUnit": "09",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Estonia",
+    "iataCode": "TLL",
+    "name": "Tallinn",
+    "seoName": "tallinn",
+    "city": {
+     "code": "TALLINN",
+     "countryCode": "ee",
+     "name": "Tallinn"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-19T22:55:00",
+   "arrivalDate": "2026-12-19T23:55:00",
+   "price": {
+    "value": 65.37,
+    "valueMainUnit": "65",
+    "valueFractionalUnit": "37",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2224~ ~~TLL~12/19/2026 22:55~STN~12/19/2026 23:55~~",
+   "flightNumber": "FR2224",
+   "previousPrice": null,
+   "priceUpdated": 1792405725000
+  },
+  "summary": {
+   "price": {
+    "value": 65.37,
+    "valueMainUnit": "65",
+    "valueFractionalUnit": "37",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Estonia",
+    "iataCode": "TLL",
+    "name": "Tallinn",
+    "seoName": "tallinn",
+    "city": {
+     "code": "TALLINN",
+     "countryCode": "ee",
+     "name": "Tallinn"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-14T23:10:00",
+   "arrivalDate": "2026-12-15T00:10:00",
+   "price": {
+    "value": 68.49,
+    "valueMainUnit": "68",
+    "valueFractionalUnit": "49",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2236~ ~~TLL~12/14/2026 23:10~STN~12/15/2026 00:10~~",
+   "flightNumber": "FR2236",
+   "previousPrice": null,
+   "priceUpdated": 1792405724000
+  },
+  "summary": {
+   "price": {
+    "value": 68.49,
+    "valueMainUnit": "68",
+    "valueFractionalUnit": "49",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Estonia",
+    "iataCode": "TLL",
+    "name": "Tallinn",
+    "seoName": "tallinn",
+    "city": {
+     "code": "TALLINN",
+     "countryCode": "ee",
+     "name": "Tallinn"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "MXP",
+    "name": "Milan Malpensa",
+    "seoName": "milan-malpensa",
+    "city": {
+     "code": "MILAN",
+     "countryCode": "it",
+     "macCode": "MIL",
+     "name": "Milan"
+    }
+   },
+   "departureDate": "2026-12-12T11:40:00",
+   "arrivalDate": "2026-12-12T13:50:00",
+   "price": {
+    "value": 69.74,
     "valueMainUnit": "69",
-    "valueFractionalUnit": "27",
+    "valueFractionalUnit": "74",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~8903~ ~~TLL~12/12/2026 11:40~MXP~12/12/2026 13:50~~",
+   "flightNumber": "FR8903",
+   "previousPrice": null,
+   "priceUpdated": 1792438579000
+  },
+  "summary": {
+   "price": {
+    "value": 69.74,
+    "valueMainUnit": "69",
+    "valueFractionalUnit": "74",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1104,12 +1307,62 @@
    "flightKey": "FR~5694~ ~~TLL~12/19/2026 13:00~DUB~12/19/2026 14:25~~",
    "flightNumber": "FR5694",
    "previousPrice": null,
-   "priceUpdated": 1791801651000
+   "priceUpdated": 1792419482000
   },
   "summary": {
    "price": {
     "value": 69.99,
     "valueMainUnit": "69",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Estonia",
+    "iataCode": "TLL",
+    "name": "Tallinn",
+    "seoName": "tallinn",
+    "city": {
+     "code": "TALLINN",
+     "countryCode": "ee",
+     "name": "Tallinn"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-13T13:30:00",
+   "arrivalDate": "2026-12-13T14:55:00",
+   "price": {
+    "value": 86.99,
+    "valueMainUnit": "86",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5694~ ~~TLL~12/13/2026 13:30~DUB~12/13/2026 14:55~~",
+   "flightNumber": "FR5694",
+   "previousPrice": null,
+   "priceUpdated": 1792419363000
+  },
+  "summary": {
+   "price": {
+    "value": 86.99,
+    "valueMainUnit": "86",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1146,8 +1399,8 @@
    "departureDate": "2026-12-14T11:50:00",
    "arrivalDate": "2026-12-14T14:00:00",
    "price": {
-    "value": 79.99,
-    "valueMainUnit": "79",
+    "value": 87.99,
+    "valueMainUnit": "87",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1155,367 +1408,12 @@
    "flightKey": "FR~8903~ ~~TLL~12/14/2026 11:50~MXP~12/14/2026 14:00~~",
    "flightNumber": "FR8903",
    "previousPrice": null,
-   "priceUpdated": 1791800922000
+   "priceUpdated": 1792419356000
   },
   "summary": {
    "price": {
-    "value": 79.99,
-    "valueMainUnit": "79",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Estonia",
-    "iataCode": "TLL",
-    "name": "Tallinn",
-    "seoName": "tallinn",
-    "city": {
-     "code": "TALLINN",
-     "countryCode": "ee",
-     "name": "Tallinn"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-17T22:50:00",
-   "arrivalDate": "2026-12-18T00:15:00",
-   "price": {
-    "value": 80.59,
-    "valueMainUnit": "80",
-    "valueFractionalUnit": "59",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5694~ ~~TLL~12/17/2026 22:50~DUB~12/18/2026 00:15~~",
-   "flightNumber": "FR5694",
-   "previousPrice": null,
-   "priceUpdated": 1791800922000
-  },
-  "summary": {
-   "price": {
-    "value": 80.59,
-    "valueMainUnit": "80",
-    "valueFractionalUnit": "59",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Estonia",
-    "iataCode": "TLL",
-    "name": "Tallinn",
-    "seoName": "tallinn",
-    "city": {
-     "code": "TALLINN",
-     "countryCode": "ee",
-     "name": "Tallinn"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "MXP",
-    "name": "Milan Malpensa",
-    "seoName": "milan-malpensa",
-    "city": {
-     "code": "MILAN",
-     "countryCode": "it",
-     "macCode": "MIL",
-     "name": "Milan"
-    }
-   },
-   "departureDate": "2026-12-19T11:40:00",
-   "arrivalDate": "2026-12-19T13:50:00",
-   "price": {
-    "value": 81.99,
-    "valueMainUnit": "81",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~8903~ ~~TLL~12/19/2026 11:40~MXP~12/19/2026 13:50~~",
-   "flightNumber": "FR8903",
-   "previousPrice": null,
-   "priceUpdated": 1791801614000
-  },
-  "summary": {
-   "price": {
-    "value": 81.99,
-    "valueMainUnit": "81",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Estonia",
-    "iataCode": "TLL",
-    "name": "Tallinn",
-    "seoName": "tallinn",
-    "city": {
-     "code": "TALLINN",
-     "countryCode": "ee",
-     "name": "Tallinn"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-14T23:10:00",
-   "arrivalDate": "2026-12-15T00:10:00",
-   "price": {
-    "value": 84.49,
-    "valueMainUnit": "84",
-    "valueFractionalUnit": "49",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2236~ ~~TLL~12/14/2026 23:10~STN~12/15/2026 00:10~~",
-   "flightNumber": "FR2236",
-   "previousPrice": null,
-   "priceUpdated": 1791800922000
-  },
-  "summary": {
-   "price": {
-    "value": 84.49,
-    "valueMainUnit": "84",
-    "valueFractionalUnit": "49",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Estonia",
-    "iataCode": "TLL",
-    "name": "Tallinn",
-    "seoName": "tallinn",
-    "city": {
-     "code": "TALLINN",
-     "countryCode": "ee",
-     "name": "Tallinn"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-19T22:55:00",
-   "arrivalDate": "2026-12-19T23:55:00",
-   "price": {
-    "value": 89.99,
-    "valueMainUnit": "89",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2224~ ~~TLL~12/19/2026 22:55~STN~12/19/2026 23:55~~",
-   "flightNumber": "FR2224",
-   "previousPrice": null,
-   "priceUpdated": 1791800923000
-  },
-  "summary": {
-   "price": {
-    "value": 89.99,
-    "valueMainUnit": "89",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Estonia",
-    "iataCode": "TLL",
-    "name": "Tallinn",
-    "seoName": "tallinn",
-    "city": {
-     "code": "TALLINN",
-     "countryCode": "ee",
-     "name": "Tallinn"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "MXP",
-    "name": "Milan Malpensa",
-    "seoName": "milan-malpensa",
-    "city": {
-     "code": "MILAN",
-     "countryCode": "it",
-     "macCode": "MIL",
-     "name": "Milan"
-    }
-   },
-   "departureDate": "2026-12-12T11:40:00",
-   "arrivalDate": "2026-12-12T13:50:00",
-   "price": {
-    "value": 96.39,
-    "valueMainUnit": "96",
-    "valueFractionalUnit": "39",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~8903~ ~~TLL~12/12/2026 11:40~MXP~12/12/2026 13:50~~",
-   "flightNumber": "FR8903",
-   "previousPrice": null,
-   "priceUpdated": 1791800921000
-  },
-  "summary": {
-   "price": {
-    "value": 96.39,
-    "valueMainUnit": "96",
-    "valueFractionalUnit": "39",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Estonia",
-    "iataCode": "TLL",
-    "name": "Tallinn",
-    "seoName": "tallinn",
-    "city": {
-     "code": "TALLINN",
-     "countryCode": "ee",
-     "name": "Tallinn"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-13T13:30:00",
-   "arrivalDate": "2026-12-13T14:55:00",
-   "price": {
-    "value": 96.99,
-    "valueMainUnit": "96",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5694~ ~~TLL~12/13/2026 13:30~DUB~12/13/2026 14:55~~",
-   "flightNumber": "FR5694",
-   "previousPrice": null,
-   "priceUpdated": 1791800922000
-  },
-  "summary": {
-   "price": {
-    "value": 96.99,
-    "valueMainUnit": "96",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Estonia",
-    "iataCode": "TLL",
-    "name": "Tallinn",
-    "seoName": "tallinn",
-    "city": {
-     "code": "TALLINN",
-     "countryCode": "ee",
-     "name": "Tallinn"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-17T14:05:00",
-   "arrivalDate": "2026-12-17T15:05:00",
-   "price": {
-    "value": 106.99,
-    "valueMainUnit": "106",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2224~ ~~TLL~12/17/2026 14:05~STN~12/17/2026 15:05~~",
-   "flightNumber": "FR2224",
-   "previousPrice": null,
-   "priceUpdated": 1791800924000
-  },
-  "summary": {
-   "price": {
-    "value": 106.99,
-    "valueMainUnit": "106",
+    "value": 87.99,
+    "valueMainUnit": "87",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1552,22 +1450,124 @@
    "departureDate": "2026-12-13T22:50:00",
    "arrivalDate": "2026-12-13T23:50:00",
    "price": {
-    "value": 114.59,
-    "valueMainUnit": "114",
-    "valueFractionalUnit": "59",
+    "value": 95.74,
+    "valueMainUnit": "95",
+    "valueFractionalUnit": "74",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~2224~ ~~TLL~12/13/2026 22:50~STN~12/13/2026 23:50~~",
    "flightNumber": "FR2224",
    "previousPrice": null,
-   "priceUpdated": 1791800923000
+   "priceUpdated": 1792441146000
   },
   "summary": {
    "price": {
-    "value": 114.59,
-    "valueMainUnit": "114",
-    "valueFractionalUnit": "59",
+    "value": 95.74,
+    "valueMainUnit": "95",
+    "valueFractionalUnit": "74",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Estonia",
+    "iataCode": "TLL",
+    "name": "Tallinn",
+    "seoName": "tallinn",
+    "city": {
+     "code": "TALLINN",
+     "countryCode": "ee",
+     "name": "Tallinn"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-17T14:05:00",
+   "arrivalDate": "2026-12-17T15:05:00",
+   "price": {
+    "value": 96.99,
+    "valueMainUnit": "96",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2224~ ~~TLL~12/17/2026 14:05~STN~12/17/2026 15:05~~",
+   "flightNumber": "FR2224",
+   "previousPrice": null,
+   "priceUpdated": 1792439757000
+  },
+  "summary": {
+   "price": {
+    "value": 96.99,
+    "valueMainUnit": "96",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Estonia",
+    "iataCode": "TLL",
+    "name": "Tallinn",
+    "seoName": "tallinn",
+    "city": {
+     "code": "TALLINN",
+     "countryCode": "ee",
+     "name": "Tallinn"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "MXP",
+    "name": "Milan Malpensa",
+    "seoName": "milan-malpensa",
+    "city": {
+     "code": "MILAN",
+     "countryCode": "it",
+     "macCode": "MIL",
+     "name": "Milan"
+    }
+   },
+   "departureDate": "2026-12-19T11:40:00",
+   "arrivalDate": "2026-12-19T13:50:00",
+   "price": {
+    "value": 100.99,
+    "valueMainUnit": "100",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~8903~ ~~TLL~12/19/2026 11:40~MXP~12/19/2026 13:50~~",
+   "flightNumber": "FR8903",
+   "previousPrice": null,
+   "priceUpdated": 1792419422000
+  },
+  "summary": {
+   "price": {
+    "value": 100.99,
+    "valueMainUnit": "100",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },

@@ -1,7 +1,8 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTRqBRIDTkNFcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T11:24:23",
+ "fetchedAt": "2026-10-19T23:29:44",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
    "price": 101.0,
@@ -88,70 +89,6 @@
    "label": "From 199 euros. 2 stops flight with KLM and Scandinavian Airlines. Leaves Nice Côte d'Azur Airport at 12:20 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 8:30 PM on Monday, December 14. Total duration 8 hr 10 min.  Layover (1 of 2) is a 2 hr layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 1 hr 20 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 221.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Air France and KLM",
-   "operatedBy": "HOP!, KLM Cityhopper for KLM Royal Dutch Airlines",
-   "depAirportName": "Nice Côte d'Azur Airport",
-   "depTime": "06:40",
-   "depDate": "2026-12-14",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
-   "arrDate": "2026-12-14",
-   "durationMin": 595,
-   "layovers": [
-    {
-     "min": 120,
-     "overnight": false,
-     "airport": "Lyon Airport",
-     "city": "Lyon"
-    },
-    {
-     "min": 185,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 221 euros. 2 stops flight with Air France and KLM. Operated by HOP!, KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Nice Côte d'Azur Airport at 6:40 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:35 PM on Monday, December 14. Total duration 9 hr 55 min.  Layover (1 of 2) is a 2 hr layover at Lyon Airport in Lyon. Layover (2 of 2) is a 3 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 230.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Air France and KLM",
-   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
-   "depAirportName": "Nice Côte d'Azur Airport",
-   "depTime": "20:35",
-   "depDate": "2026-12-14",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
-   "arrDate": "2026-12-15",
-   "durationMin": 1200,
-   "layovers": [
-    {
-     "min": 520,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    },
-    {
-     "min": 365,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 230 euros. 2 stops flight with Air France and KLM. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Nice Côte d'Azur Airport at 8:35 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:35 PM on Tuesday, December 15. Total duration 20 hr.  Layover (1 of 2) is a 8 hr 40 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 6 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
    "price": 240.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
@@ -216,39 +153,7 @@
    "label": "From 276 euros. 2 stops flight with Air France and Scandinavian Airlines. Leaves Nice Côte d'Azur Airport at 6:10 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 9:05 AM on Tuesday, December 15. Total duration 14 hr 55 min.  Layover (1 of 2) is a 1 hr 5 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 8 hr 40 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 278.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Lufthansa and Wideroe",
-   "operatedBy": null,
-   "depAirportName": "Nice Côte d'Azur Airport",
-   "depTime": "10:10",
-   "depDate": "2026-12-14",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-15",
-   "durationMin": 1720,
-   "layovers": [
-    {
-     "min": 555,
-     "overnight": false,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
-    },
-    {
-     "min": 885,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 278 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Nice Côte d'Azur Airport at 10:10 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:50 PM on Tuesday, December 15. Total duration 28 hr 40 min.  Layover (1 of 2) is a 9 hr 15 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 14 hr 45 min layover at Bergen Airport in Bergen. Select flight"
-  },
-  {
-   "price": 281.0,
+   "price": 284.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -277,7 +182,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 281 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Nice Côte d'Azur Airport at 7:00 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:50 PM on Monday, December 14. Total duration 7 hr 50 min.  Layover (1 of 2) is a 1 hr 35 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+   "label": "From 284 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Nice Côte d'Azur Airport at 7:00 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:50 PM on Monday, December 14. Total duration 7 hr 50 min.  Layover (1 of 2) is a 1 hr 35 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
   },
   {
    "price": 448.0,
@@ -312,7 +217,7 @@
    "label": "From 448 euros. 2 stops flight with Tap Air Portugal and Scandinavian Airlines. Operated by Portugalia - Companhia Portuguesa. Leaves Nice Côte d'Azur Airport at 5:50 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 8:30 PM on Monday, December 14. Total duration 14 hr 40 min.  Layover (1 of 2) is a 5 hr 5 min layover at Humberto Delgado Airport in Lisbon. Layover (2 of 2) is a 1 hr 35 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 558.0,
+   "price": 817.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -341,7 +246,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 558 euros. 2 stops flight with Air France and Scandinavian Airlines. Leaves Nice Côte d'Azur Airport at 11:10 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 8:30 PM on Monday, December 14. Total duration 9 hr 20 min.  Layover (1 of 2) is a 1 hr layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 3 hr 20 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 817 euros. 2 stops flight with Air France and Scandinavian Airlines. Leaves Nice Côte d'Azur Airport at 11:10 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 8:30 PM on Monday, December 14. Total duration 9 hr 20 min.  Layover (1 of 2) is a 1 hr layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 3 hr 20 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
    "price": 830.0,

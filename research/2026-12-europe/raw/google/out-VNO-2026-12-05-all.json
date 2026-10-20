@@ -1,14 +1,16 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA1ZOT0ABSAGYAQI",
- "via": "ui",
+ "fetchedAt": "2026-10-19T23:06:27",
+ "priceUnavailable": 0,
+ "via": "html",
  "itineraries": [
   {
-   "price": 150.0,
+   "price": 152.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Wideroe and Finnair",
-   "operatedBy": null,
+   "operatedBy": "Nordic Reg for Finnair",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "16:45",
    "depDate": "2026-12-05",
@@ -19,22 +21,23 @@
    "layovers": [
     {
      "min": 185,
+     "overnight": false,
      "airport": "Oslo lufthavn",
-     "city": "Oslo",
-     "overnight": false
+     "city": "Oslo"
     },
     {
      "min": 480,
+     "overnight": false,
      "airport": "Helsinki Airport",
-     "city": "Helsinki",
-     "overnight": false
+     "city": "Helsinki"
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "label": "From 152 euros. 2 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 4:45 PM on Saturday, December 5 and arrives at Vilnius International Airport at 8:55 AM on Sunday, December 6. Total duration 15 hr 10 min.  Layover (1 of 2) is a 3 hr 5 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 8 hr layover at Helsinki Airport in Helsinki. Select flight"
   },
   {
-   "price": 202.0,
+   "price": 207.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -50,27 +53,28 @@
    "layovers": [
     {
      "min": 150,
+     "overnight": false,
      "airport": "Oslo lufthavn",
-     "city": "Oslo",
-     "overnight": false
+     "city": "Oslo"
     },
     {
      "min": 115,
+     "overnight": false,
      "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main",
-     "overnight": false
+     "city": "Frankfurt am Main"
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "label": "From 207 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Vilnius International Airport at 11:50 PM on Saturday, December 5. Total duration 9 hr 45 min.  Layover (1 of 2) is a 2 hr 30 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 55 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
   },
   {
-   "price": 251.0,
+   "price": 312.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM and Air Baltic",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-05",
@@ -81,21 +85,22 @@
    "layovers": [
     {
      "min": 90,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "overnight": false
+     "city": "Amsterdam"
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "label": "From 312 euros. 1 stop flight with KLM and Air Baltic. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Vilnius International Airport at 1:20 PM on Saturday, December 5. Total duration 6 hr.  Layover (1 of 1) is a 1 hr 30 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 3562.0,
+   "price": 3611.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "Scandinavian Airlines",
-   "operatedBy": null,
+   "operatedBy": "Cityjet, Cityjet",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "10:15",
    "depDate": "2026-12-05",
@@ -106,13 +111,14 @@
    "layovers": [
     {
      "min": 55,
+     "overnight": false,
      "airport": "Copenhagen Airport",
-     "city": "Copenhagen",
-     "overnight": false
+     "city": "Copenhagen"
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "label": "From 3611 euros. 1 stop flight with Scandinavian Airlines. Operated by Cityjet, Cityjet. Leaves Trondheim Airport, Værnes at 10:15 AM on Saturday, December 5 and arrives at Vilnius International Airport at 3:15 PM on Saturday, December 5. Total duration 4 hr.  Layover (1 of 1) is a 55 min layover at Copenhagen Airport in Copenhagen. Select flight"
   }
  ]
 }

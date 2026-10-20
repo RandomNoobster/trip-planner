@@ -1,54 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTZqBRIDQ0dOcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T12:16:58",
+ "fetchedAt": "2026-10-19T23:13:55",
  "priceUnavailable": 0,
  "via": "rpc",
  "itineraries": [
   {
-   "price": 236.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Austrian and Scandinavian Airlines",
-   "operatedBy": "Sas Link",
-   "depCode": "CGN",
-   "depAirportName": "Cologne Bonn Airport",
-   "depTime": "09:40",
-   "depDate": "2026-12-16",
-   "arrCode": "TRD",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "19:20",
-   "arrDate": "2026-12-16",
-   "durationMin": 580,
-   "layovers": [
-    {
-     "min": 235,
-     "overnight": false,
-     "airport": "Vienna International Airport",
-     "city": "Vienna",
-     "code": "VIE",
-     "changeAirport": false
-    },
-    {
-     "min": 50,
-     "overnight": false,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen",
-     "code": "CPH",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "OS246",
-    "OS995",
-    "SK2886"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 249.0,
+   "price": 253.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -100,7 +57,7 @@
    "via": "rpc"
   },
   {
-   "price": 249.0,
+   "price": 253.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -148,6 +105,49 @@
     "LH127",
     "LH872",
     "WF1311"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 289.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Austrian and Scandinavian Airlines",
+   "operatedBy": "Sas Link",
+   "depCode": "CGN",
+   "depAirportName": "Cologne Bonn Airport",
+   "depTime": "09:40",
+   "depDate": "2026-12-16",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "19:20",
+   "arrDate": "2026-12-16",
+   "durationMin": 580,
+   "layovers": [
+    {
+     "min": 235,
+     "overnight": false,
+     "airport": "Vienna International Airport",
+     "city": "Vienna",
+     "code": "VIE",
+     "changeAirport": false
+    },
+    {
+     "min": 50,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "code": "CPH",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "OS246",
+    "OS995",
+    "SK2886"
    ],
    "via": "rpc"
   }

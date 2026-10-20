@@ -1,17 +1,55 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDZqBRIDVFJEcgUSA1BPWkABSAGYAQI",
- "via": "ui",
+ "fetchedAt": "2026-10-19T23:10:29",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 163.0,
+   "price": 144.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-06",
+   "arrCode": "POZ",
+   "arrAirportName": "Poznań Airport",
+   "arrTime": "17:30",
+   "arrDate": "2026-12-06",
+   "durationMin": 670,
+   "layovers": [
+    {
+     "min": 440,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1150",
+    "KL1341"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 217.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-06",
+   "arrCode": "POZ",
    "arrAirportName": "Poznań Airport",
    "arrTime": "13:40",
    "arrDate": "2026-12-06",
@@ -19,13 +57,54 @@
    "layovers": [
     {
      "min": 210,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1150",
+    "KL1333"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 250.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:15",
+   "depDate": "2026-12-06",
+   "arrCode": "POZ",
+   "arrAirportName": "Poznań Airport",
+   "arrTime": "22:25",
+   "arrDate": "2026-12-06",
+   "durationMin": 310,
+   "layovers": [
+    {
+     "min": 65,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1154",
+    "KL1335"
+   ],
+   "via": "rpc"
   }
  ]
 }

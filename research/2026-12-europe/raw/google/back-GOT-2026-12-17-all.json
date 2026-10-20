@@ -1,17 +1,55 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDR09UcgUSA1RSREABSAGYAQI",
- "via": "ui",
+ "fetchedAt": "2026-10-19T23:04:32",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 275.0,
+   "price": 337.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "GOT",
+   "depAirportName": "Gothenburg-Landvetter Airport",
+   "depTime": "06:00",
+   "depDate": "2026-12-17",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-17",
+   "durationMin": 635,
+   "layovers": [
+    {
+     "min": 410,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1228",
+    "KL1153"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 337.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "GOT",
    "depAirportName": "Gothenburg-Landvetter Airport",
    "depTime": "14:35",
    "depDate": "2026-12-17",
+   "arrCode": "TRD",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "23:10",
    "arrDate": "2026-12-17",
@@ -19,24 +57,135 @@
    "layovers": [
     {
      "min": 290,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1234",
+    "KL1155"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 1144.0,
+   "price": 354.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "GOT",
+   "depAirportName": "Gothenburg-Landvetter Airport",
+   "depTime": "10:05",
+   "depDate": "2026-12-17",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-17",
+   "durationMin": 390,
+   "layovers": [
+    {
+     "min": 165,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1230",
+    "KL1153"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 354.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "GOT",
+   "depAirportName": "Gothenburg-Landvetter Airport",
+   "depTime": "17:20",
+   "depDate": "2026-12-17",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-17",
+   "durationMin": 350,
+   "layovers": [
+    {
+     "min": 125,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1236",
+    "KL1155"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 448.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "GOT",
+   "depAirportName": "Gothenburg-Landvetter Airport",
+   "depTime": "12:00",
+   "depDate": "2026-12-17",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-17",
+   "durationMin": 275,
+   "layovers": [
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1232",
+    "KL1153"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 1152.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Air France and Scandinavian Airlines",
-   "operatedBy": null,
+   "operatedBy": "HOP!, Sas Link for Scandinavian Airlines",
+   "depCode": "GOT",
    "depAirportName": "Gothenburg-Landvetter Airport",
    "depTime": "17:10",
    "depDate": "2026-12-17",
+   "arrCode": "TRD",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "14:30",
    "arrDate": "2026-12-18",
@@ -44,19 +193,72 @@
    "layovers": [
     {
      "min": 90,
+     "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
-     "overnight": false
+     "code": "CDG",
+     "changeAirport": false
     },
     {
      "min": 830,
+     "overnight": true,
      "airport": "Copenhagen Airport",
      "city": "Copenhagen",
-     "overnight": false
+     "code": "CPH",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "AF1453",
+    "AF1350",
+    "SK2880"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 1152.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air France and Scandinavian Airlines",
+   "operatedBy": "HOP!, Sas Link for Scandinavian Airlines",
+   "depCode": "GOT",
+   "depAirportName": "Gothenburg-Landvetter Airport",
+   "depTime": "17:10",
+   "depDate": "2026-12-17",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:30",
+   "arrDate": "2026-12-18",
+   "durationMin": 1280,
+   "layovers": [
+    {
+     "min": 700,
+     "overnight": true,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    },
+    {
+     "min": 220,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "code": "CPH",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "AF1453",
+    "AF1750",
+    "SK2880"
+   ],
+   "via": "rpc"
   }
  ]
 }

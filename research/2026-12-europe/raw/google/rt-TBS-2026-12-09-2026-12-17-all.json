@@ -1,17 +1,21 @@
 {
- "url": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDVFJEcgcIARIDVEJTGh4SCjIwMjYtMTItMTdqBwgBEgNUQlNyBwgBEgNUUkRAAUgBcAGCAQsI____________AZgBAQ&hl=en&gl=NO&curr=EUR",
- "via": "ui",
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA1RCUxoaEgoyMDI2LTEyLTE3agUSA1RCU3IFEgNUUkRAAUgBmAEB",
+ "fetchedAt": "2026-10-19T22:57:00",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 639.0,
+   "price": 745.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 3,
    "airlines": "Wideroe and Lufthansa",
    "operatedBy": null,
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "09:10",
    "depDate": "2026-12-09",
+   "arrCode": "TBS",
    "arrAirportName": "Tbilisi International Airport",
    "arrTime": "05:10",
    "arrDate": "2026-12-10",
@@ -19,25 +23,142 @@
    "layovers": [
     {
      "min": 155,
+     "overnight": false,
      "airport": "Bergen Airport",
      "city": "Bergen",
-     "overnight": false
+     "code": "BGO",
+     "changeAirport": false
     },
     {
      "min": 135,
+     "overnight": false,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
-     "overnight": false
+     "code": "FRA",
+     "changeAirport": false
     },
     {
      "min": 245,
+     "overnight": true,
      "airport": "Munich International Airport",
      "city": "Munich",
-     "overnight": false
+     "code": "MUC",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "WF1302",
+    "LH873",
+    "LH116",
+    "LH2558"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 745.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Wideroe and Lufthansa",
+   "operatedBy": null,
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-09",
+   "arrCode": "TBS",
+   "arrAirportName": "Tbilisi International Airport",
+   "arrTime": "05:10",
+   "arrDate": "2026-12-10",
+   "durationMin": 1020,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    },
+    {
+     "min": 75,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    },
+    {
+     "min": 305,
+     "overnight": true,
+     "airport": "Munich International Airport",
+     "city": "Munich",
+     "code": "MUC",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "WF1302",
+    "LH873",
+    "LH114",
+    "LH2558"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 745.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Wideroe and Lufthansa",
+   "operatedBy": null,
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-09",
+   "arrCode": "TBS",
+   "arrAirportName": "Tbilisi International Airport",
+   "arrTime": "05:10",
+   "arrDate": "2026-12-10",
+   "durationMin": 1020,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    },
+    {
+     "min": 255,
+     "overnight": true,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    },
+    {
+     "min": 125,
+     "overnight": false,
+     "airport": "Munich International Airport",
+     "city": "Munich",
+     "code": "MUC",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "WF1302",
+    "LH873",
+    "LH122",
+    "LH2558"
+   ],
+   "via": "rpc"
   }
  ]
 }

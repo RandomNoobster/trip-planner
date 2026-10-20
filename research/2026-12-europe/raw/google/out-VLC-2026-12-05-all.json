@@ -1,54 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA1ZMQ0ABSAGYAQI",
- "fetchedAt": "2026-10-11T12:23:59",
+ "fetchedAt": "2026-10-19T23:32:26",
  "priceUnavailable": 0,
  "via": "rpc",
  "itineraries": [
   {
-   "price": 197.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Wideroe and Finnair",
-   "operatedBy": null,
-   "depCode": "TRD",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "16:45",
-   "depDate": "2026-12-05",
-   "arrCode": "VLC",
-   "arrAirportName": "Valencia Airport",
-   "arrTime": "10:50",
-   "arrDate": "2026-12-06",
-   "durationMin": 1085,
-   "layovers": [
-    {
-     "min": 185,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo",
-     "code": "OSL",
-     "changeAirport": false
-    },
-    {
-     "min": 485,
-     "overnight": true,
-     "airport": "Helsinki Airport",
-     "city": "Helsinki",
-     "code": "HEL",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "WF1452",
-    "AY918",
-    "AY1703"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 203.0,
+   "price": 207.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -91,45 +48,11 @@
    "via": "rpc"
   },
   {
-   "price": 335.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depCode": "TRD",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-05",
-   "arrCode": "VLC",
-   "arrAirportName": "Valencia Airport",
-   "arrTime": "16:10",
-   "arrDate": "2026-12-05",
-   "durationMin": 590,
-   "layovers": [
-    {
-     "min": 305,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "code": "AMS",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "KL1150",
-    "KL1531"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 291.0,
+   "price": 198.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
-   "airlines": "Wideroe and Lufthansa",
+   "airlines": "Wideroe and Finnair",
    "operatedBy": null,
    "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
@@ -137,12 +60,12 @@
    "depDate": "2026-12-05",
    "arrCode": "VLC",
    "arrAirportName": "Valencia Airport",
-   "arrTime": "10:55",
+   "arrTime": "10:50",
    "arrDate": "2026-12-06",
-   "durationMin": 1090,
+   "durationMin": 1085,
    "layovers": [
     {
-     "min": 40,
+     "min": 185,
      "overnight": false,
      "airport": "Oslo lufthavn",
      "city": "Oslo",
@@ -150,11 +73,11 @@
      "changeAirport": false
     },
     {
-     "min": 705,
+     "min": 485,
      "overnight": true,
-     "airport": "Munich International Airport",
-     "city": "Munich",
-     "code": "MUC",
+     "airport": "Helsinki Airport",
+     "city": "Helsinki",
+     "code": "HEL",
      "changeAirport": false
     }
    ],
@@ -162,13 +85,13 @@
    "separateTickets": false,
    "flights": [
     "WF1452",
-    "LH2455",
-    "LH1840"
+    "AY918",
+    "AY1703"
    ],
    "via": "rpc"
   },
   {
-   "price": 511.0,
+   "price": 296.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -211,7 +134,84 @@
    "via": "rpc"
   },
   {
-   "price": 528.0,
+   "price": 335.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Lufthansa",
+   "operatedBy": null,
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "16:45",
+   "depDate": "2026-12-05",
+   "arrCode": "VLC",
+   "arrAirportName": "Valencia Airport",
+   "arrTime": "10:55",
+   "arrDate": "2026-12-06",
+   "durationMin": 1090,
+   "layovers": [
+    {
+     "min": 40,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    },
+    {
+     "min": 705,
+     "overnight": true,
+     "airport": "Munich International Airport",
+     "city": "Munich",
+     "code": "MUC",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "WF1452",
+    "LH2455",
+    "LH1840"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 389.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-05",
+   "arrCode": "VLC",
+   "arrAirportName": "Valencia Airport",
+   "arrTime": "16:10",
+   "arrDate": "2026-12-05",
+   "durationMin": 590,
+   "layovers": [
+    {
+     "min": 305,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1150",
+    "KL1531"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 477.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

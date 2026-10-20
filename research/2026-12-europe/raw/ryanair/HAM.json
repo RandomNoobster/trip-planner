@@ -13,140 +13,41 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Poland",
-    "iataCode": "GDN",
-    "name": "Gdansk",
-    "seoName": "gdansk",
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
     "city": {
-     "code": "GDANSK",
-     "countryCode": "pl",
-     "name": "Gdansk"
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
     }
    },
-   "departureDate": "2026-12-06T17:00:00",
-   "arrivalDate": "2026-12-06T18:20:00",
+   "departureDate": "2026-12-10T15:30:00",
+   "arrivalDate": "2026-12-10T16:05:00",
    "price": {
-    "value": 37.73,
-    "valueMainUnit": "37",
-    "valueFractionalUnit": "73",
+    "value": 36.23,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "23",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6120~ ~~HAM~12/06/2026 17:00~GDN~12/06/2026 18:20~~",
-   "flightNumber": "FR6120",
+   "flightKey": "FR~1517~ ~~HAM~12/10/2026 15:30~STN~12/10/2026 16:05~~",
+   "flightNumber": "FR1517",
    "previousPrice": null,
-   "priceUpdated": 1791800546000
+   "priceUpdated": 1792424220000
   },
   "summary": {
    "price": {
-    "value": 37.73,
-    "valueMainUnit": "37",
-    "valueFractionalUnit": "73",
+    "value": 36.23,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "23",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "PMI",
-    "name": "Palma de Mallorca",
-    "seoName": "palma-mallorca",
-    "city": {
-     "code": "PALMA",
-     "countryCode": "es",
-     "name": "Palma"
-    }
-   },
-   "departureDate": "2026-12-05T10:20:00",
-   "arrivalDate": "2026-12-05T13:00:00",
-   "price": {
-    "value": 38.4,
-    "valueMainUnit": "38",
-    "valueFractionalUnit": "40",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2049~ ~~HAM~12/05/2026 10:20~PMI~12/05/2026 13:00~~",
-   "flightNumber": "FR2049",
-   "previousPrice": null,
-   "priceUpdated": 1791801901000
-  },
-  "summary": {
-   "price": {
-    "value": 38.4,
-    "valueMainUnit": "38",
-    "valueFractionalUnit": "40",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Portugal",
-    "iataCode": "OPO",
-    "name": "Porto",
-    "seoName": "porto",
-    "city": {
-     "code": "PORTO",
-     "countryCode": "pt",
-     "name": "Porto"
-    }
-   },
-   "departureDate": "2026-12-04T11:15:00",
-   "arrivalDate": "2026-12-04T13:20:00",
-   "price": {
-    "value": 41.51,
-    "valueMainUnit": "41",
-    "valueFractionalUnit": "51",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1842~ ~~HAM~12/04/2026 11:15~OPO~12/04/2026 13:20~~",
-   "flightNumber": "FR1842",
-   "previousPrice": null,
-   "priceUpdated": 1791800545000
-  },
-  "summary": {
-   "price": {
-    "value": 41.51,
-    "valueMainUnit": "41",
-    "valueFractionalUnit": "51",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
   }
  },
  {
@@ -176,8 +77,8 @@
    "departureDate": "2026-12-06T09:05:00",
    "arrivalDate": "2026-12-06T11:45:00",
    "price": {
-    "value": 44.99,
-    "valueMainUnit": "44",
+    "value": 39.99,
+    "valueMainUnit": "39",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -185,12 +86,162 @@
    "flightKey": "FR~2049~ ~~HAM~12/06/2026 09:05~PMI~12/06/2026 11:45~~",
    "flightNumber": "FR2049",
    "previousPrice": null,
-   "priceUpdated": 1791800545000
+   "priceUpdated": 1792430654000
   },
   "summary": {
    "price": {
-    "value": 44.99,
-    "valueMainUnit": "44",
+    "value": 39.99,
+    "valueMainUnit": "39",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-10T21:25:00",
+   "arrivalDate": "2026-12-11T00:50:00",
+   "price": {
+    "value": 40.99,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1805~ ~~HAM~12/10/2026 21:25~AGP~12/11/2026 00:50~~",
+   "flightNumber": "FR1805",
+   "previousPrice": null,
+   "priceUpdated": 1792419356000
+  },
+  "summary": {
+   "price": {
+    "value": 40.99,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Poland",
+    "iataCode": "GDN",
+    "name": "Gdansk",
+    "seoName": "gdansk",
+    "city": {
+     "code": "GDANSK",
+     "countryCode": "pl",
+     "name": "Gdansk"
+    }
+   },
+   "departureDate": "2026-12-06T17:00:00",
+   "arrivalDate": "2026-12-06T18:20:00",
+   "price": {
+    "value": 53.57,
+    "valueMainUnit": "53",
+    "valueFractionalUnit": "57",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6120~ ~~HAM~12/06/2026 17:00~GDN~12/06/2026 18:20~~",
+   "flightNumber": "FR6120",
+   "previousPrice": null,
+   "priceUpdated": 1792424987000
+  },
+  "summary": {
+   "price": {
+    "value": 53.57,
+    "valueMainUnit": "53",
+    "valueFractionalUnit": "57",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-10T10:30:00",
+   "arrivalDate": "2026-12-10T11:35:00",
+   "price": {
+    "value": 57.99,
+    "valueMainUnit": "57",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5044~ ~~HAM~12/10/2026 10:30~DUB~12/10/2026 11:35~~",
+   "flightNumber": "FR5044",
+   "previousPrice": null,
+   "priceUpdated": 1792419873000
+  },
+  "summary": {
+   "price": {
+    "value": 57.99,
+    "valueMainUnit": "57",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -227,373 +278,22 @@
    "departureDate": "2026-12-07T17:10:00",
    "arrivalDate": "2026-12-07T17:45:00",
    "price": {
-    "value": 51.82,
-    "valueMainUnit": "51",
-    "valueFractionalUnit": "82",
+    "value": 64.08,
+    "valueMainUnit": "64",
+    "valueFractionalUnit": "08",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~1517~ ~~HAM~12/07/2026 17:10~STN~12/07/2026 17:45~~",
    "flightNumber": "FR1517",
    "previousPrice": null,
-   "priceUpdated": 1791800546000
+   "priceUpdated": 1792425121000
   },
   "summary": {
    "price": {
-    "value": 51.82,
-    "valueMainUnit": "51",
-    "valueFractionalUnit": "82",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
-    "city": {
-     "code": "MALAGA",
-     "countryCode": "es",
-     "name": "Malaga"
-    }
-   },
-   "departureDate": "2026-12-10T21:25:00",
-   "arrivalDate": "2026-12-11T00:50:00",
-   "price": {
-    "value": 57.99,
-    "valueMainUnit": "57",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1805~ ~~HAM~12/10/2026 21:25~AGP~12/11/2026 00:50~~",
-   "flightNumber": "FR1805",
-   "previousPrice": null,
-   "priceUpdated": 1791800544000
-  },
-  "summary": {
-   "price": {
-    "value": 57.99,
-    "valueMainUnit": "57",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-09T12:25:00",
-   "arrivalDate": "2026-12-09T13:30:00",
-   "price": {
-    "value": 65.41,
-    "valueMainUnit": "65",
-    "valueFractionalUnit": "41",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5044~ ~~HAM~12/09/2026 12:25~DUB~12/09/2026 13:30~~",
-   "flightNumber": "FR5044",
-   "previousPrice": null,
-   "priceUpdated": 1791800544000
-  },
-  "summary": {
-   "price": {
-    "value": 65.41,
-    "valueMainUnit": "65",
-    "valueFractionalUnit": "41",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
-    "city": {
-     "code": "MALAGA",
-     "countryCode": "es",
-     "name": "Malaga"
-    }
-   },
-   "departureDate": "2026-12-07T11:45:00",
-   "arrivalDate": "2026-12-07T15:10:00",
-   "price": {
-    "value": 66.54,
-    "valueMainUnit": "66",
-    "valueFractionalUnit": "54",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1805~ ~~HAM~12/07/2026 11:45~AGP~12/07/2026 15:10~~",
-   "flightNumber": "FR1805",
-   "previousPrice": null,
-   "priceUpdated": 1791800546000
-  },
-  "summary": {
-   "price": {
-    "value": 66.54,
-    "valueMainUnit": "66",
-    "valueFractionalUnit": "54",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-10T10:30:00",
-   "arrivalDate": "2026-12-10T11:35:00",
-   "price": {
-    "value": 67.99,
-    "valueMainUnit": "67",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5044~ ~~HAM~12/10/2026 10:30~DUB~12/10/2026 11:35~~",
-   "flightNumber": "FR5044",
-   "previousPrice": null,
-   "priceUpdated": 1791800545000
-  },
-  "summary": {
-   "price": {
-    "value": 67.99,
-    "valueMainUnit": "67",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-05T19:35:00",
-   "arrivalDate": "2026-12-05T22:35:00",
-   "price": {
-    "value": 68.99,
-    "valueMainUnit": "68",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4026~ ~~HAM~12/05/2026 19:35~ALC~12/05/2026 22:35~~",
-   "flightNumber": "FR4026",
-   "previousPrice": null,
-   "priceUpdated": 1791800544000
-  },
-  "summary": {
-   "price": {
-    "value": 68.99,
-    "valueMainUnit": "68",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-10T15:30:00",
-   "arrivalDate": "2026-12-10T16:05:00",
-   "price": {
-    "value": 71.19,
-    "valueMainUnit": "71",
-    "valueFractionalUnit": "19",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1517~ ~~HAM~12/10/2026 15:30~STN~12/10/2026 16:05~~",
-   "flightNumber": "FR1517",
-   "previousPrice": null,
-   "priceUpdated": 1791800545000
-  },
-  "summary": {
-   "price": {
-    "value": 71.19,
-    "valueMainUnit": "71",
-    "valueFractionalUnit": "19",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-05T09:15:00",
-   "arrivalDate": "2026-12-05T10:20:00",
-   "price": {
-    "value": 75.31,
-    "valueMainUnit": "75",
-    "valueFractionalUnit": "31",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5044~ ~~HAM~12/05/2026 09:15~DUB~12/05/2026 10:20~~",
-   "flightNumber": "FR5044",
-   "previousPrice": null,
-   "priceUpdated": 1791800543000
-  },
-  "summary": {
-   "price": {
-    "value": 75.31,
-    "valueMainUnit": "75",
-    "valueFractionalUnit": "31",
+    "value": 64.08,
+    "valueMainUnit": "64",
+    "valueFractionalUnit": "08",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -628,8 +328,8 @@
    "departureDate": "2026-12-04T10:25:00",
    "arrivalDate": "2026-12-04T11:30:00",
    "price": {
-    "value": 83.99,
-    "valueMainUnit": "83",
+    "value": 64.99,
+    "valueMainUnit": "64",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -637,13 +337,514 @@
    "flightKey": "FR~5044~ ~~HAM~12/04/2026 10:25~DUB~12/04/2026 11:30~~",
    "flightNumber": "FR5044",
    "previousPrice": null,
-   "priceUpdated": 1791800547000
+   "priceUpdated": 1792419238000
   },
   "summary": {
    "price": {
-    "value": 83.99,
-    "valueMainUnit": "83",
+    "value": 64.99,
+    "valueMainUnit": "64",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "PMI",
+    "name": "Palma de Mallorca",
+    "seoName": "palma-mallorca",
+    "city": {
+     "code": "PALMA",
+     "countryCode": "es",
+     "name": "Palma"
+    }
+   },
+   "departureDate": "2026-12-05T10:20:00",
+   "arrivalDate": "2026-12-05T13:00:00",
+   "price": {
+    "value": 66.36,
+    "valueMainUnit": "66",
+    "valueFractionalUnit": "36",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2049~ ~~HAM~12/05/2026 10:20~PMI~12/05/2026 13:00~~",
+   "flightNumber": "FR2049",
+   "previousPrice": null,
+   "priceUpdated": 1792405397000
+  },
+  "summary": {
+   "price": {
+    "value": 66.36,
+    "valueMainUnit": "66",
+    "valueFractionalUnit": "36",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-05T19:35:00",
+   "arrivalDate": "2026-12-05T22:35:00",
+   "price": {
+    "value": 70.99,
+    "valueMainUnit": "70",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4026~ ~~HAM~12/05/2026 19:35~ALC~12/05/2026 22:35~~",
+   "flightNumber": "FR4026",
+   "previousPrice": null,
+   "priceUpdated": 1792419271000
+  },
+  "summary": {
+   "price": {
+    "value": 70.99,
+    "valueMainUnit": "70",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Poland",
+    "iataCode": "GDN",
+    "name": "Gdansk",
+    "seoName": "gdansk",
+    "city": {
+     "code": "GDANSK",
+     "countryCode": "pl",
+     "name": "Gdansk"
+    }
+   },
+   "departureDate": "2026-12-04T14:45:00",
+   "arrivalDate": "2026-12-04T16:05:00",
+   "price": {
+    "value": 70.99,
+    "valueMainUnit": "70",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6120~ ~~HAM~12/04/2026 14:45~GDN~12/04/2026 16:05~~",
+   "flightNumber": "FR6120",
+   "previousPrice": null,
+   "priceUpdated": 1792437154000
+  },
+  "summary": {
+   "price": {
+    "value": 70.99,
+    "valueMainUnit": "70",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-09T12:25:00",
+   "arrivalDate": "2026-12-09T13:30:00",
+   "price": {
+    "value": 71.04,
+    "valueMainUnit": "71",
+    "valueFractionalUnit": "04",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5044~ ~~HAM~12/09/2026 12:25~DUB~12/09/2026 13:30~~",
+   "flightNumber": "FR5044",
+   "previousPrice": null,
+   "priceUpdated": 1792428870000
+  },
+  "summary": {
+   "price": {
+    "value": 71.04,
+    "valueMainUnit": "71",
+    "valueFractionalUnit": "04",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Poland",
+    "iataCode": "GDN",
+    "name": "Gdansk",
+    "seoName": "gdansk",
+    "city": {
+     "code": "GDANSK",
+     "countryCode": "pl",
+     "name": "Gdansk"
+    }
+   },
+   "departureDate": "2026-12-11T14:45:00",
+   "arrivalDate": "2026-12-11T16:05:00",
+   "price": {
+    "value": 74.99,
+    "valueMainUnit": "74",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6120~ ~~HAM~12/11/2026 14:45~GDN~12/11/2026 16:05~~",
+   "flightNumber": "FR6120",
+   "previousPrice": null,
+   "priceUpdated": 1792439517000
+  },
+  "summary": {
+   "price": {
+    "value": 74.99,
+    "valueMainUnit": "74",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "OPO",
+    "name": "Porto",
+    "seoName": "porto",
+    "city": {
+     "code": "PORTO",
+     "countryCode": "pt",
+     "name": "Porto"
+    }
+   },
+   "departureDate": "2026-12-04T11:15:00",
+   "arrivalDate": "2026-12-04T13:20:00",
+   "price": {
+    "value": 76.94,
+    "valueMainUnit": "76",
+    "valueFractionalUnit": "94",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1842~ ~~HAM~12/04/2026 11:15~OPO~12/04/2026 13:20~~",
+   "flightNumber": "FR1842",
+   "previousPrice": null,
+   "priceUpdated": 1792441389000
+  },
+  "summary": {
+   "price": {
+    "value": 76.94,
+    "valueMainUnit": "76",
+    "valueFractionalUnit": "94",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-07T11:45:00",
+   "arrivalDate": "2026-12-07T15:10:00",
+   "price": {
+    "value": 77.98,
+    "valueMainUnit": "77",
+    "valueFractionalUnit": "98",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1805~ ~~HAM~12/07/2026 11:45~AGP~12/07/2026 15:10~~",
+   "flightNumber": "FR1805",
+   "previousPrice": null,
+   "priceUpdated": 1792428252000
+  },
+  "summary": {
+   "price": {
+    "value": 77.98,
+    "valueMainUnit": "77",
+    "valueFractionalUnit": "98",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "PMI",
+    "name": "Palma de Mallorca",
+    "seoName": "palma-mallorca",
+    "city": {
+     "code": "PALMA",
+     "countryCode": "es",
+     "name": "Palma"
+    }
+   },
+   "departureDate": "2026-12-10T18:55:00",
+   "arrivalDate": "2026-12-10T21:35:00",
+   "price": {
+    "value": 78.15,
+    "valueMainUnit": "78",
+    "valueFractionalUnit": "15",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2049~ ~~HAM~12/10/2026 18:55~PMI~12/10/2026 21:35~~",
+   "flightNumber": "FR2049",
+   "previousPrice": null,
+   "priceUpdated": 1792434386000
+  },
+  "summary": {
+   "price": {
+    "value": 78.15,
+    "valueMainUnit": "78",
+    "valueFractionalUnit": "15",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-04T13:15:00",
+   "arrivalDate": "2026-12-04T13:50:00",
+   "price": {
+    "value": 79.52,
+    "valueMainUnit": "79",
+    "valueFractionalUnit": "52",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1517~ ~~HAM~12/04/2026 13:15~STN~12/04/2026 13:50~~",
+   "flightNumber": "FR1517",
+   "previousPrice": null,
+   "priceUpdated": 1792433354000
+  },
+  "summary": {
+   "price": {
+    "value": 79.52,
+    "valueMainUnit": "79",
+    "valueFractionalUnit": "52",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-05T09:15:00",
+   "arrivalDate": "2026-12-05T10:20:00",
+   "price": {
+    "value": 83.16,
+    "valueMainUnit": "83",
+    "valueFractionalUnit": "16",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5044~ ~~HAM~12/05/2026 09:15~DUB~12/05/2026 10:20~~",
+   "flightNumber": "FR5044",
+   "previousPrice": null,
+   "priceUpdated": 1792433209000
+  },
+  "summary": {
+   "price": {
+    "value": 83.16,
+    "valueMainUnit": "83",
+    "valueFractionalUnit": "16",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -678,22 +879,22 @@
    "departureDate": "2026-12-11T10:25:00",
    "arrivalDate": "2026-12-11T11:30:00",
    "price": {
-    "value": 84.16,
-    "valueMainUnit": "84",
-    "valueFractionalUnit": "16",
+    "value": 86.05,
+    "valueMainUnit": "86",
+    "valueFractionalUnit": "05",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~5044~ ~~HAM~12/11/2026 10:25~DUB~12/11/2026 11:30~~",
    "flightNumber": "FR5044",
    "previousPrice": null,
-   "priceUpdated": 1791800548000
+   "priceUpdated": 1792418366000
   },
   "summary": {
    "price": {
-    "value": 84.16,
-    "valueMainUnit": "84",
-    "valueFractionalUnit": "16",
+    "value": 86.05,
+    "valueMainUnit": "86",
+    "valueFractionalUnit": "05",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -715,40 +916,91 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "PMI",
-    "name": "Palma de Mallorca",
-    "seoName": "palma-mallorca",
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
     "city": {
-     "code": "PALMA",
-     "countryCode": "es",
-     "name": "Palma"
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
     }
    },
-   "departureDate": "2026-12-10T18:55:00",
-   "arrivalDate": "2026-12-10T21:35:00",
+   "departureDate": "2026-12-11T13:15:00",
+   "arrivalDate": "2026-12-11T13:50:00",
    "price": {
-    "value": 89.67,
-    "valueMainUnit": "89",
-    "valueFractionalUnit": "67",
+    "value": 90.42,
+    "valueMainUnit": "90",
+    "valueFractionalUnit": "42",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2049~ ~~HAM~12/10/2026 18:55~PMI~12/10/2026 21:35~~",
-   "flightNumber": "FR2049",
+   "flightKey": "FR~1517~ ~~HAM~12/11/2026 13:15~STN~12/11/2026 13:50~~",
+   "flightNumber": "FR1517",
    "previousPrice": null,
-   "priceUpdated": 1791800544000
+   "priceUpdated": 1792438339000
   },
   "summary": {
    "price": {
-    "value": 89.67,
-    "valueMainUnit": "89",
-    "valueFractionalUnit": "67",
+    "value": 90.42,
+    "valueMainUnit": "90",
+    "valueFractionalUnit": "42",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "OPO",
+    "name": "Porto",
+    "seoName": "porto",
+    "city": {
+     "code": "PORTO",
+     "countryCode": "pt",
+     "name": "Porto"
+    }
+   },
+   "departureDate": "2026-12-07T11:15:00",
+   "arrivalDate": "2026-12-07T13:20:00",
+   "price": {
+    "value": 90.59,
+    "valueMainUnit": "90",
+    "valueFractionalUnit": "59",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1842~ ~~HAM~12/07/2026 11:15~OPO~12/07/2026 13:20~~",
+   "flightNumber": "FR1842",
+   "previousPrice": null,
+   "priceUpdated": 1792407334000
+  },
+  "summary": {
+   "price": {
+    "value": 90.59,
+    "valueMainUnit": "90",
+    "valueFractionalUnit": "59",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
   }
  },
  {
@@ -787,214 +1039,13 @@
    "flightKey": "FR~1842~ ~~HAM~12/11/2026 11:15~OPO~12/11/2026 13:20~~",
    "flightNumber": "FR1842",
    "previousPrice": null,
-   "priceUpdated": 1791800547000
+   "priceUpdated": 1792434061000
   },
   "summary": {
    "price": {
     "value": 91.37,
     "valueMainUnit": "91",
     "valueFractionalUnit": "37",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Poland",
-    "iataCode": "GDN",
-    "name": "Gdansk",
-    "seoName": "gdansk",
-    "city": {
-     "code": "GDANSK",
-     "countryCode": "pl",
-     "name": "Gdansk"
-    }
-   },
-   "departureDate": "2026-12-11T14:45:00",
-   "arrivalDate": "2026-12-11T16:05:00",
-   "price": {
-    "value": 93.99,
-    "valueMainUnit": "93",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6120~ ~~HAM~12/11/2026 14:45~GDN~12/11/2026 16:05~~",
-   "flightNumber": "FR6120",
-   "previousPrice": null,
-   "priceUpdated": 1791800547000
-  },
-  "summary": {
-   "price": {
-    "value": 93.99,
-    "valueMainUnit": "93",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Poland",
-    "iataCode": "GDN",
-    "name": "Gdansk",
-    "seoName": "gdansk",
-    "city": {
-     "code": "GDANSK",
-     "countryCode": "pl",
-     "name": "Gdansk"
-    }
-   },
-   "departureDate": "2026-12-04T14:45:00",
-   "arrivalDate": "2026-12-04T16:05:00",
-   "price": {
-    "value": 96.99,
-    "valueMainUnit": "96",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6120~ ~~HAM~12/04/2026 14:45~GDN~12/04/2026 16:05~~",
-   "flightNumber": "FR6120",
-   "previousPrice": null,
-   "priceUpdated": 1791803369000
-  },
-  "summary": {
-   "price": {
-    "value": 96.99,
-    "valueMainUnit": "96",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-11T13:15:00",
-   "arrivalDate": "2026-12-11T13:50:00",
-   "price": {
-    "value": 98.88,
-    "valueMainUnit": "98",
-    "valueFractionalUnit": "88",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1517~ ~~HAM~12/11/2026 13:15~STN~12/11/2026 13:50~~",
-   "flightNumber": "FR1517",
-   "previousPrice": null,
-   "priceUpdated": 1791800547000
-  },
-  "summary": {
-   "price": {
-    "value": 98.88,
-    "valueMainUnit": "98",
-    "valueFractionalUnit": "88",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Portugal",
-    "iataCode": "OPO",
-    "name": "Porto",
-    "seoName": "porto",
-    "city": {
-     "code": "PORTO",
-     "countryCode": "pt",
-     "name": "Porto"
-    }
-   },
-   "departureDate": "2026-12-07T11:15:00",
-   "arrivalDate": "2026-12-07T13:20:00",
-   "price": {
-    "value": 100.49,
-    "valueMainUnit": "100",
-    "valueFractionalUnit": "49",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1842~ ~~HAM~12/07/2026 11:15~OPO~12/07/2026 13:20~~",
-   "flightNumber": "FR1842",
-   "previousPrice": null,
-   "priceUpdated": 1791800548000
-  },
-  "summary": {
-   "price": {
-    "value": 100.49,
-    "valueMainUnit": "100",
-    "valueFractionalUnit": "49",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1030,8 +1081,8 @@
    "departureDate": "2026-12-06T17:35:00",
    "arrivalDate": "2026-12-06T18:10:00",
    "price": {
-    "value": 107.99,
-    "valueMainUnit": "107",
+    "value": 108.99,
+    "valueMainUnit": "108",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1039,12 +1090,12 @@
    "flightKey": "FR~1517~ ~~HAM~12/06/2026 17:35~STN~12/06/2026 18:10~~",
    "flightNumber": "FR1517",
    "previousPrice": null,
-   "priceUpdated": 1791800548000
+   "priceUpdated": 1792441174000
   },
   "summary": {
    "price": {
-    "value": 107.99,
-    "valueMainUnit": "107",
+    "value": 108.99,
+    "valueMainUnit": "108",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1080,73 +1131,22 @@
    "departureDate": "2026-12-09T11:30:00",
    "arrivalDate": "2026-12-09T14:30:00",
    "price": {
-    "value": 108.82,
-    "valueMainUnit": "108",
-    "valueFractionalUnit": "82",
+    "value": 122.07,
+    "valueMainUnit": "122",
+    "valueFractionalUnit": "07",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~4026~ ~~HAM~12/09/2026 11:30~ALC~12/09/2026 14:30~~",
    "flightNumber": "FR4026",
    "previousPrice": null,
-   "priceUpdated": 1791800544000
+   "priceUpdated": 1792405399000
   },
   "summary": {
    "price": {
-    "value": 108.82,
-    "valueMainUnit": "108",
-    "valueFractionalUnit": "82",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-04T13:15:00",
-   "arrivalDate": "2026-12-04T13:50:00",
-   "price": {
-    "value": 116.61,
-    "valueMainUnit": "116",
-    "valueFractionalUnit": "61",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1517~ ~~HAM~12/04/2026 13:15~STN~12/04/2026 13:50~~",
-   "flightNumber": "FR1517",
-   "previousPrice": null,
-   "priceUpdated": 1791801420000
-  },
-  "summary": {
-   "price": {
-    "value": 116.61,
-    "valueMainUnit": "116",
-    "valueFractionalUnit": "61",
+    "value": 122.07,
+    "valueMainUnit": "122",
+    "valueFractionalUnit": "07",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1181,8 +1181,8 @@
    "departureDate": "2026-12-07T16:40:00",
    "arrivalDate": "2026-12-07T17:45:00",
    "price": {
-    "value": 128.99,
-    "valueMainUnit": "128",
+    "value": 126.99,
+    "valueMainUnit": "126",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1190,12 +1190,12 @@
    "flightKey": "FR~5044~ ~~HAM~12/07/2026 16:40~DUB~12/07/2026 17:45~~",
    "flightNumber": "FR5044",
    "previousPrice": null,
-   "priceUpdated": 1791800547000
+   "priceUpdated": 1792419268000
   },
   "summary": {
    "price": {
-    "value": 128.99,
-    "valueMainUnit": "128",
+    "value": 126.99,
+    "valueMainUnit": "126",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1218,35 +1218,34 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
+    "countryName": "Poland",
+    "iataCode": "GDN",
+    "name": "Gdansk",
+    "seoName": "gdansk",
     "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
+     "code": "GDANSK",
+     "countryCode": "pl",
+     "name": "Gdansk"
     }
    },
-   "departureDate": "2026-12-17T15:30:00",
-   "arrivalDate": "2026-12-17T16:05:00",
+   "departureDate": "2026-12-17T11:40:00",
+   "arrivalDate": "2026-12-17T13:00:00",
    "price": {
-    "value": 37.99,
-    "valueMainUnit": "37",
+    "value": 38.99,
+    "valueMainUnit": "38",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~1517~ ~~HAM~12/17/2026 15:30~STN~12/17/2026 16:05~~",
-   "flightNumber": "FR1517",
+   "flightKey": "FR~6120~ ~~HAM~12/17/2026 11:40~GDN~12/17/2026 13:00~~",
+   "flightNumber": "FR6120",
    "previousPrice": null,
-   "priceUpdated": 1791800517000
+   "priceUpdated": 1792419786000
   },
   "summary": {
    "price": {
-    "value": 37.99,
-    "valueMainUnit": "37",
+    "value": 38.99,
+    "valueMainUnit": "38",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1282,8 +1281,8 @@
    "departureDate": "2026-12-13T17:00:00",
    "arrivalDate": "2026-12-13T18:20:00",
    "price": {
-    "value": 41.99,
-    "valueMainUnit": "41",
+    "value": 45.99,
+    "valueMainUnit": "45",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1291,12 +1290,12 @@
    "flightKey": "FR~6120~ ~~HAM~12/13/2026 17:00~GDN~12/13/2026 18:20~~",
    "flightNumber": "FR6120",
    "previousPrice": null,
-   "priceUpdated": 1791800544000
+   "priceUpdated": 1792419368000
   },
   "summary": {
    "price": {
-    "value": 41.99,
-    "valueMainUnit": "41",
+    "value": 45.99,
+    "valueMainUnit": "45",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1329,74 +1328,24 @@
      "name": "Palma"
     }
    },
-   "departureDate": "2026-12-13T09:05:00",
-   "arrivalDate": "2026-12-13T11:45:00",
+   "departureDate": "2026-12-12T10:20:00",
+   "arrivalDate": "2026-12-12T13:00:00",
    "price": {
-    "value": 45.63,
-    "valueMainUnit": "45",
-    "valueFractionalUnit": "63",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2049~ ~~HAM~12/13/2026 09:05~PMI~12/13/2026 11:45~~",
-   "flightNumber": "FR2049",
-   "previousPrice": null,
-   "priceUpdated": 1791800543000
-  },
-  "summary": {
-   "price": {
-    "value": 45.63,
-    "valueMainUnit": "45",
-    "valueFractionalUnit": "63",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Poland",
-    "iataCode": "GDN",
-    "name": "Gdansk",
-    "seoName": "gdansk",
-    "city": {
-     "code": "GDANSK",
-     "countryCode": "pl",
-     "name": "Gdansk"
-    }
-   },
-   "departureDate": "2026-12-17T11:40:00",
-   "arrivalDate": "2026-12-17T13:00:00",
-   "price": {
-    "value": 47.99,
-    "valueMainUnit": "47",
+    "value": 49.99,
+    "valueMainUnit": "49",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6120~ ~~HAM~12/17/2026 11:40~GDN~12/17/2026 13:00~~",
-   "flightNumber": "FR6120",
+   "flightKey": "FR~2049~ ~~HAM~12/12/2026 10:20~PMI~12/12/2026 13:00~~",
+   "flightNumber": "FR2049",
    "previousPrice": null,
-   "priceUpdated": 1791800519000
+   "priceUpdated": 1792434238000
   },
   "summary": {
    "price": {
-    "value": 47.99,
-    "valueMainUnit": "47",
+    "value": 49.99,
+    "valueMainUnit": "49",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1433,22 +1382,173 @@
    "departureDate": "2026-12-14T17:10:00",
    "arrivalDate": "2026-12-14T17:45:00",
    "price": {
-    "value": 50.21,
-    "valueMainUnit": "50",
-    "valueFractionalUnit": "21",
+    "value": 51.82,
+    "valueMainUnit": "51",
+    "valueFractionalUnit": "82",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~1517~ ~~HAM~12/14/2026 17:10~STN~12/14/2026 17:45~~",
    "flightNumber": "FR1517",
    "previousPrice": null,
-   "priceUpdated": 1791800518000
+   "priceUpdated": 1792427585000
   },
   "summary": {
    "price": {
-    "value": 50.21,
-    "valueMainUnit": "50",
-    "valueFractionalUnit": "21",
+    "value": 51.82,
+    "valueMainUnit": "51",
+    "valueFractionalUnit": "82",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-17T15:30:00",
+   "arrivalDate": "2026-12-17T16:05:00",
+   "price": {
+    "value": 51.99,
+    "valueMainUnit": "51",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1517~ ~~HAM~12/17/2026 15:30~STN~12/17/2026 16:05~~",
+   "flightNumber": "FR1517",
+   "previousPrice": null,
+   "priceUpdated": 1792419440000
+  },
+  "summary": {
+   "price": {
+    "value": 51.99,
+    "valueMainUnit": "51",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-14T11:45:00",
+   "arrivalDate": "2026-12-14T15:10:00",
+   "price": {
+    "value": 52.09,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "09",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1805~ ~~HAM~12/14/2026 11:45~AGP~12/14/2026 15:10~~",
+   "flightNumber": "FR1805",
+   "previousPrice": null,
+   "priceUpdated": 1792405356000
+  },
+  "summary": {
+   "price": {
+    "value": 52.09,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "09",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-16T12:25:00",
+   "arrivalDate": "2026-12-16T13:30:00",
+   "price": {
+    "value": 63.81,
+    "valueMainUnit": "63",
+    "valueFractionalUnit": "81",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5044~ ~~HAM~12/16/2026 12:25~DUB~12/16/2026 13:30~~",
+   "flightNumber": "FR5044",
+   "previousPrice": null,
+   "priceUpdated": 1792405358000
+  },
+  "summary": {
+   "price": {
+    "value": 63.81,
+    "valueMainUnit": "63",
+    "valueFractionalUnit": "81",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1480,25 +1580,25 @@
      "name": "Palma"
     }
    },
-   "departureDate": "2026-12-12T10:20:00",
-   "arrivalDate": "2026-12-12T13:00:00",
+   "departureDate": "2026-12-13T09:05:00",
+   "arrivalDate": "2026-12-13T11:45:00",
    "price": {
-    "value": 51.99,
-    "valueMainUnit": "51",
-    "valueFractionalUnit": "99",
+    "value": 66.36,
+    "valueMainUnit": "66",
+    "valueFractionalUnit": "36",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2049~ ~~HAM~12/12/2026 10:20~PMI~12/12/2026 13:00~~",
+   "flightKey": "FR~2049~ ~~HAM~12/13/2026 09:05~PMI~12/13/2026 11:45~~",
    "flightNumber": "FR2049",
    "previousPrice": null,
-   "priceUpdated": 1791800547000
+   "priceUpdated": 1792433899000
   },
   "summary": {
    "price": {
-    "value": 51.99,
-    "valueMainUnit": "51",
-    "valueFractionalUnit": "99",
+    "value": 66.36,
+    "valueMainUnit": "66",
+    "valueFractionalUnit": "36",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1533,323 +1633,22 @@
    "departureDate": "2026-12-19T15:50:00",
    "arrivalDate": "2026-12-19T17:10:00",
    "price": {
-    "value": 60.95,
-    "valueMainUnit": "60",
-    "valueFractionalUnit": "95",
+    "value": 70.55,
+    "valueMainUnit": "70",
+    "valueFractionalUnit": "55",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~6120~ ~~HAM~12/19/2026 15:50~GDN~12/19/2026 17:10~~",
    "flightNumber": "FR6120",
    "previousPrice": null,
-   "priceUpdated": 1791800515000
+   "priceUpdated": 1792405355000
   },
   "summary": {
    "price": {
-    "value": 60.95,
-    "valueMainUnit": "60",
-    "valueFractionalUnit": "95",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-16T12:25:00",
-   "arrivalDate": "2026-12-16T13:30:00",
-   "price": {
-    "value": 62.67,
-    "valueMainUnit": "62",
-    "valueFractionalUnit": "67",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5044~ ~~HAM~12/16/2026 12:25~DUB~12/16/2026 13:30~~",
-   "flightNumber": "FR5044",
-   "previousPrice": null,
-   "priceUpdated": 1791800054000
-  },
-  "summary": {
-   "price": {
-    "value": 62.67,
-    "valueMainUnit": "62",
-    "valueFractionalUnit": "67",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
-    "city": {
-     "code": "MALAGA",
-     "countryCode": "es",
-     "name": "Malaga"
-    }
-   },
-   "departureDate": "2026-12-17T21:25:00",
-   "arrivalDate": "2026-12-18T00:50:00",
-   "price": {
-    "value": 64.99,
-    "valueMainUnit": "64",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1805~ ~~HAM~12/17/2026 21:25~AGP~12/18/2026 00:50~~",
-   "flightNumber": "FR1805",
-   "previousPrice": null,
-   "priceUpdated": 1791800516000
-  },
-  "summary": {
-   "price": {
-    "value": 64.99,
-    "valueMainUnit": "64",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
-    "city": {
-     "code": "MALAGA",
-     "countryCode": "es",
-     "name": "Malaga"
-    }
-   },
-   "departureDate": "2026-12-14T11:45:00",
-   "arrivalDate": "2026-12-14T15:10:00",
-   "price": {
-    "value": 69.57,
-    "valueMainUnit": "69",
-    "valueFractionalUnit": "57",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1805~ ~~HAM~12/14/2026 11:45~AGP~12/14/2026 15:10~~",
-   "flightNumber": "FR1805",
-   "previousPrice": null,
-   "priceUpdated": 1791800518000
-  },
-  "summary": {
-   "price": {
-    "value": 69.57,
-    "valueMainUnit": "69",
-    "valueFractionalUnit": "57",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-17T10:30:00",
-   "arrivalDate": "2026-12-17T11:35:00",
-   "price": {
-    "value": 72.04,
-    "valueMainUnit": "72",
-    "valueFractionalUnit": "04",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5044~ ~~HAM~12/17/2026 10:30~DUB~12/17/2026 11:35~~",
-   "flightNumber": "FR5044",
-   "previousPrice": null,
-   "priceUpdated": 1791800518000
-  },
-  "summary": {
-   "price": {
-    "value": 72.04,
-    "valueMainUnit": "72",
-    "valueFractionalUnit": "04",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-13T17:35:00",
-   "arrivalDate": "2026-12-13T18:10:00",
-   "price": {
-    "value": 79.52,
-    "valueMainUnit": "79",
-    "valueFractionalUnit": "52",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1517~ ~~HAM~12/13/2026 17:35~STN~12/13/2026 18:10~~",
-   "flightNumber": "FR1517",
-   "previousPrice": null,
-   "priceUpdated": 1791800544000
-  },
-  "summary": {
-   "price": {
-    "value": 79.52,
-    "valueMainUnit": "79",
-    "valueFractionalUnit": "52",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "PMI",
-    "name": "Palma de Mallorca",
-    "seoName": "palma-mallorca",
-    "city": {
-     "code": "PALMA",
-     "countryCode": "es",
-     "name": "Palma"
-    }
-   },
-   "departureDate": "2026-12-17T18:55:00",
-   "arrivalDate": "2026-12-17T21:35:00",
-   "price": {
-    "value": 80.71,
-    "valueMainUnit": "80",
-    "valueFractionalUnit": "71",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2049~ ~~HAM~12/17/2026 18:55~PMI~12/17/2026 21:35~~",
-   "flightNumber": "FR2049",
-   "previousPrice": null,
-   "priceUpdated": 1791800517000
-  },
-  "summary": {
-   "price": {
-    "value": 80.71,
-    "valueMainUnit": "80",
-    "valueFractionalUnit": "71",
+    "value": 70.55,
+    "valueMainUnit": "70",
+    "valueFractionalUnit": "55",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1885,8 +1684,8 @@
    "departureDate": "2026-12-18T13:15:00",
    "arrivalDate": "2026-12-18T13:50:00",
    "price": {
-    "value": 84.99,
-    "valueMainUnit": "84",
+    "value": 73.99,
+    "valueMainUnit": "73",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1894,13 +1693,114 @@
    "flightKey": "FR~1517~ ~~HAM~12/18/2026 13:15~STN~12/18/2026 13:50~~",
    "flightNumber": "FR1517",
    "previousPrice": null,
-   "priceUpdated": 1791801613000
+   "priceUpdated": 1792419479000
   },
   "summary": {
    "price": {
-    "value": 84.99,
-    "valueMainUnit": "84",
+    "value": 73.99,
+    "valueMainUnit": "73",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-13T17:35:00",
+   "arrivalDate": "2026-12-13T18:10:00",
+   "price": {
+    "value": 75.67,
+    "valueMainUnit": "75",
+    "valueFractionalUnit": "67",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1517~ ~~HAM~12/13/2026 17:35~STN~12/13/2026 18:10~~",
+   "flightNumber": "FR1517",
+   "previousPrice": null,
+   "priceUpdated": 1792405450000
+  },
+  "summary": {
+   "price": {
+    "value": 75.67,
+    "valueMainUnit": "75",
+    "valueFractionalUnit": "67",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-17T10:30:00",
+   "arrivalDate": "2026-12-17T11:35:00",
+   "price": {
+    "value": 80.42,
+    "valueMainUnit": "80",
+    "valueFractionalUnit": "42",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5044~ ~~HAM~12/17/2026 10:30~DUB~12/17/2026 11:35~~",
+   "flightNumber": "FR5044",
+   "previousPrice": null,
+   "priceUpdated": 1792405356000
+  },
+  "summary": {
+   "price": {
+    "value": 80.42,
+    "valueMainUnit": "80",
+    "valueFractionalUnit": "42",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1944,7 +1844,7 @@
    "flightKey": "FR~6120~ ~~HAM~12/18/2026 14:45~GDN~12/18/2026 16:05~~",
    "flightNumber": "FR6120",
    "previousPrice": null,
-   "priceUpdated": 1791800514000
+   "priceUpdated": 1792438601000
   },
   "summary": {
    "price": {
@@ -1956,6 +1856,106 @@
    },
    "previousPrice": null,
    "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "PMI",
+    "name": "Palma de Mallorca",
+    "seoName": "palma-mallorca",
+    "city": {
+     "code": "PALMA",
+     "countryCode": "es",
+     "name": "Palma"
+    }
+   },
+   "departureDate": "2026-12-17T18:55:00",
+   "arrivalDate": "2026-12-17T21:35:00",
+   "price": {
+    "value": 90.56,
+    "valueMainUnit": "90",
+    "valueFractionalUnit": "56",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2049~ ~~HAM~12/17/2026 18:55~PMI~12/17/2026 21:35~~",
+   "flightNumber": "FR2049",
+   "previousPrice": null,
+   "priceUpdated": 1792405358000
+  },
+  "summary": {
+   "price": {
+    "value": 90.56,
+    "valueMainUnit": "90",
+    "valueFractionalUnit": "56",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-17T21:25:00",
+   "arrivalDate": "2026-12-18T00:50:00",
+   "price": {
+    "value": 90.99,
+    "valueMainUnit": "90",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1805~ ~~HAM~12/17/2026 21:25~AGP~12/18/2026 00:50~~",
+   "flightNumber": "FR1805",
+   "previousPrice": null,
+   "priceUpdated": 1792439898000
+  },
+  "summary": {
+   "price": {
+    "value": 90.99,
+    "valueMainUnit": "90",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
   }
  },
  {
@@ -1985,8 +1985,8 @@
    "departureDate": "2026-12-12T19:35:00",
    "arrivalDate": "2026-12-12T22:35:00",
    "price": {
-    "value": 99.99,
-    "valueMainUnit": "99",
+    "value": 93.99,
+    "valueMainUnit": "93",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1994,12 +1994,12 @@
    "flightKey": "FR~4026~ ~~HAM~12/12/2026 19:35~ALC~12/12/2026 22:35~~",
    "flightNumber": "FR4026",
    "previousPrice": null,
-   "priceUpdated": 1791800151000
+   "priceUpdated": 1792419346000
   },
   "summary": {
    "price": {
-    "value": 99.99,
-    "valueMainUnit": "99",
+    "value": 93.99,
+    "valueMainUnit": "93",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2035,8 +2035,8 @@
    "departureDate": "2026-12-18T10:25:00",
    "arrivalDate": "2026-12-18T11:30:00",
    "price": {
-    "value": 100.99,
-    "valueMainUnit": "100",
+    "value": 95.99,
+    "valueMainUnit": "95",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2044,12 +2044,12 @@
    "flightKey": "FR~5044~ ~~HAM~12/18/2026 10:25~DUB~12/18/2026 11:30~~",
    "flightNumber": "FR5044",
    "previousPrice": null,
-   "priceUpdated": 1791801632000
+   "priceUpdated": 1792419399000
   },
   "summary": {
    "price": {
-    "value": 100.99,
-    "valueMainUnit": "100",
+    "value": 95.99,
+    "valueMainUnit": "95",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2085,8 +2085,8 @@
    "departureDate": "2026-12-19T18:30:00",
    "arrivalDate": "2026-12-19T21:10:00",
    "price": {
-    "value": 101.99,
-    "valueMainUnit": "101",
+    "value": 98.99,
+    "valueMainUnit": "98",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2094,118 +2094,18 @@
    "flightKey": "FR~7184~ ~~HAM~12/19/2026 18:30~PMI~12/19/2026 21:10~~",
    "flightNumber": "FR7184",
    "previousPrice": null,
-   "priceUpdated": 1791800515000
+   "priceUpdated": 1792436814000
   },
   "summary": {
    "price": {
-    "value": 101.99,
-    "valueMainUnit": "101",
+    "value": 98.99,
+    "valueMainUnit": "98",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-12T09:15:00",
-   "arrivalDate": "2026-12-12T10:20:00",
-   "price": {
-    "value": 108.06,
-    "valueMainUnit": "108",
-    "valueFractionalUnit": "06",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5044~ ~~HAM~12/12/2026 09:15~DUB~12/12/2026 10:20~~",
-   "flightNumber": "FR5044",
-   "previousPrice": null,
-   "priceUpdated": 1791800546000
-  },
-  "summary": {
-   "price": {
-    "value": 108.06,
-    "valueMainUnit": "108",
-    "valueFractionalUnit": "06",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Portugal",
-    "iataCode": "OPO",
-    "name": "Porto",
-    "seoName": "porto",
-    "city": {
-     "code": "PORTO",
-     "countryCode": "pt",
-     "name": "Porto"
-    }
-   },
-   "departureDate": "2026-12-14T11:15:00",
-   "arrivalDate": "2026-12-14T13:20:00",
-   "price": {
-    "value": 112.74,
-    "valueMainUnit": "112",
-    "valueFractionalUnit": "74",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1842~ ~~HAM~12/14/2026 11:15~OPO~12/14/2026 13:20~~",
-   "flightNumber": "FR1842",
-   "previousPrice": null,
-   "priceUpdated": 1791800514000
-  },
-  "summary": {
-   "price": {
-    "value": 112.74,
-    "valueMainUnit": "112",
-    "valueFractionalUnit": "74",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
   }
  },
  {
@@ -2235,8 +2135,8 @@
    "departureDate": "2026-12-19T09:15:00",
    "arrivalDate": "2026-12-19T10:20:00",
    "price": {
-    "value": 117.99,
-    "valueMainUnit": "117",
+    "value": 102.99,
+    "valueMainUnit": "102",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2244,62 +2144,12 @@
    "flightKey": "FR~5044~ ~~HAM~12/19/2026 09:15~DUB~12/19/2026 10:20~~",
    "flightNumber": "FR5044",
    "previousPrice": null,
-   "priceUpdated": 1791803066000
+   "priceUpdated": 1792433467000
   },
   "summary": {
    "price": {
-    "value": 117.99,
-    "valueMainUnit": "117",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Germany",
-    "iataCode": "HAM",
-    "name": "Hamburg",
-    "seoName": "hamburg",
-    "city": {
-     "code": "HAMBURG",
-     "countryCode": "de",
-     "name": "Hamburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-16T11:30:00",
-   "arrivalDate": "2026-12-16T14:30:00",
-   "price": {
-    "value": 121.99,
-    "valueMainUnit": "121",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4026~ ~~HAM~12/16/2026 11:30~ALC~12/16/2026 14:30~~",
-   "flightNumber": "FR4026",
-   "previousPrice": null,
-   "priceUpdated": 1791800516000
-  },
-  "summary": {
-   "price": {
-    "value": 121.99,
-    "valueMainUnit": "121",
+    "value": 102.99,
+    "valueMainUnit": "102",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2335,22 +2185,22 @@
    "departureDate": "2026-12-14T16:40:00",
    "arrivalDate": "2026-12-14T17:45:00",
    "price": {
-    "value": 124.27,
-    "valueMainUnit": "124",
-    "valueFractionalUnit": "27",
+    "value": 108.22,
+    "valueMainUnit": "108",
+    "valueFractionalUnit": "22",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~5044~ ~~HAM~12/14/2026 16:40~DUB~12/14/2026 17:45~~",
    "flightNumber": "FR5044",
    "previousPrice": null,
-   "priceUpdated": 1791803053000
+   "priceUpdated": 1792441471000
   },
   "summary": {
    "price": {
-    "value": 124.27,
-    "valueMainUnit": "124",
-    "valueFractionalUnit": "27",
+    "value": 108.22,
+    "valueMainUnit": "108",
+    "valueFractionalUnit": "22",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2372,35 +2222,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "PMI",
-    "name": "Palma de Mallorca",
-    "seoName": "palma-mallorca",
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
     "city": {
-     "code": "PALMA",
-     "countryCode": "es",
-     "name": "Palma"
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
     }
    },
-   "departureDate": "2026-12-18T15:55:00",
-   "arrivalDate": "2026-12-18T18:35:00",
+   "departureDate": "2026-12-12T09:15:00",
+   "arrivalDate": "2026-12-12T10:20:00",
    "price": {
-    "value": 132.67,
-    "valueMainUnit": "132",
-    "valueFractionalUnit": "67",
+    "value": 114.12,
+    "valueMainUnit": "114",
+    "valueFractionalUnit": "12",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2049~ ~~HAM~12/18/2026 15:55~PMI~12/18/2026 18:35~~",
-   "flightNumber": "FR2049",
+   "flightKey": "FR~5044~ ~~HAM~12/12/2026 09:15~DUB~12/12/2026 10:20~~",
+   "flightNumber": "FR5044",
    "previousPrice": null,
-   "priceUpdated": 1791800515000
+   "priceUpdated": 1792405400000
   },
   "summary": {
    "price": {
-    "value": 132.67,
-    "valueMainUnit": "132",
-    "valueFractionalUnit": "67",
+    "value": 114.12,
+    "valueMainUnit": "114",
+    "valueFractionalUnit": "12",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2436,8 +2286,8 @@
    "departureDate": "2026-12-19T11:55:00",
    "arrivalDate": "2026-12-19T12:30:00",
    "price": {
-    "value": 137.99,
-    "valueMainUnit": "137",
+    "value": 128.99,
+    "valueMainUnit": "128",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2445,12 +2295,162 @@
    "flightKey": "FR~1517~ ~~HAM~12/19/2026 11:55~STN~12/19/2026 12:30~~",
    "flightNumber": "FR1517",
    "previousPrice": null,
-   "priceUpdated": 1791800517000
+   "priceUpdated": 1792436841000
   },
   "summary": {
    "price": {
-    "value": 137.99,
+    "value": 128.99,
+    "valueMainUnit": "128",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "PMI",
+    "name": "Palma de Mallorca",
+    "seoName": "palma-mallorca",
+    "city": {
+     "code": "PALMA",
+     "countryCode": "es",
+     "name": "Palma"
+    }
+   },
+   "departureDate": "2026-12-18T15:55:00",
+   "arrivalDate": "2026-12-18T18:35:00",
+   "price": {
+    "value": 133.57,
+    "valueMainUnit": "133",
+    "valueFractionalUnit": "57",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2049~ ~~HAM~12/18/2026 15:55~PMI~12/18/2026 18:35~~",
+   "flightNumber": "FR2049",
+   "previousPrice": null,
+   "priceUpdated": 1792438510000
+  },
+  "summary": {
+   "price": {
+    "value": 133.57,
+    "valueMainUnit": "133",
+    "valueFractionalUnit": "57",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Portugal",
+    "iataCode": "OPO",
+    "name": "Porto",
+    "seoName": "porto",
+    "city": {
+     "code": "PORTO",
+     "countryCode": "pt",
+     "name": "Porto"
+    }
+   },
+   "departureDate": "2026-12-14T11:15:00",
+   "arrivalDate": "2026-12-14T13:20:00",
+   "price": {
+    "value": 137.09,
     "valueMainUnit": "137",
+    "valueFractionalUnit": "09",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1842~ ~~HAM~12/14/2026 11:15~OPO~12/14/2026 13:20~~",
+   "flightNumber": "FR1842",
+   "previousPrice": null,
+   "priceUpdated": 1792431900000
+  },
+  "summary": {
+   "price": {
+    "value": 137.09,
+    "valueMainUnit": "137",
+    "valueFractionalUnit": "09",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Germany",
+    "iataCode": "HAM",
+    "name": "Hamburg",
+    "seoName": "hamburg",
+    "city": {
+     "code": "HAMBURG",
+     "countryCode": "de",
+     "name": "Hamburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-16T11:30:00",
+   "arrivalDate": "2026-12-16T14:30:00",
+   "price": {
+    "value": 140.99,
+    "valueMainUnit": "140",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4026~ ~~HAM~12/16/2026 11:30~ALC~12/16/2026 14:30~~",
+   "flightNumber": "FR4026",
+   "previousPrice": null,
+   "priceUpdated": 1792419431000
+  },
+  "summary": {
+   "price": {
+    "value": 140.99,
+    "valueMainUnit": "140",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2486,8 +2486,8 @@
    "departureDate": "2026-12-19T19:35:00",
    "arrivalDate": "2026-12-19T22:35:00",
    "price": {
-    "value": 155.99,
-    "valueMainUnit": "155",
+    "value": 158.99,
+    "valueMainUnit": "158",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2495,12 +2495,12 @@
    "flightKey": "FR~4026~ ~~HAM~12/19/2026 19:35~ALC~12/19/2026 22:35~~",
    "flightNumber": "FR4026",
    "previousPrice": null,
-   "priceUpdated": 1791801647000
+   "priceUpdated": 1792433934000
   },
   "summary": {
    "price": {
-    "value": 155.99,
-    "valueMainUnit": "155",
+    "value": 158.99,
+    "valueMainUnit": "158",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2536,22 +2536,22 @@
    "departureDate": "2026-12-18T11:15:00",
    "arrivalDate": "2026-12-18T13:20:00",
    "price": {
-    "value": 166.19,
-    "valueMainUnit": "166",
-    "valueFractionalUnit": "19",
+    "value": 194.79,
+    "valueMainUnit": "194",
+    "valueFractionalUnit": "79",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~1842~ ~~HAM~12/18/2026 11:15~OPO~12/18/2026 13:20~~",
    "flightNumber": "FR1842",
    "previousPrice": null,
-   "priceUpdated": 1791800515000
+   "priceUpdated": 1792405357000
   },
   "summary": {
    "price": {
-    "value": 166.19,
-    "valueMainUnit": "166",
-    "valueFractionalUnit": "19",
+    "value": 194.79,
+    "valueMainUnit": "194",
+    "valueFractionalUnit": "79",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },

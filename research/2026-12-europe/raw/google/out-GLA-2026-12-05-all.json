@@ -1,6 +1,6 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA0dMQUABSAGYAQI",
- "fetchedAt": "2026-10-11T12:21:05",
+ "fetchedAt": "2026-10-19T23:24:20",
  "priceUnavailable": 0,
  "via": "rpc",
  "itineraries": [
@@ -39,7 +39,50 @@
    "via": "rpc"
   },
   {
-   "price": 320.0,
+   "price": 356.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and KLM",
+   "operatedBy": "KLM Cityhopper, Sas Link for Scandinavian Airlines",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "07:00",
+   "depDate": "2026-12-05",
+   "arrCode": "GLA",
+   "arrAirportName": "Glasgow Airport",
+   "arrTime": "16:30",
+   "arrDate": "2026-12-05",
+   "durationMin": 630,
+   "layovers": [
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    },
+    {
+     "min": 270,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK341",
+    "KL1198",
+    "KL941"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 356.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -82,7 +125,7 @@
    "via": "rpc"
   },
   {
-   "price": 405.0,
+   "price": 407.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -125,7 +168,7 @@
    "via": "rpc"
   },
   {
-   "price": 442.0,
+   "price": 455.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -177,7 +220,7 @@
    "via": "rpc"
   },
   {
-   "price": 810.0,
+   "price": 814.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

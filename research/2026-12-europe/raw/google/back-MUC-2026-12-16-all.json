@@ -1,7 +1,8 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTZqBRIDTVVDcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T11:21:43",
+ "fetchedAt": "2026-10-19T23:13:09",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
    "price": 131.0,
@@ -56,108 +57,6 @@
    "label": "From 131 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Munich International Airport at 5:35 PM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 11:10 PM on Wednesday, December 16. Total duration 5 hr 35 min.  Layover (1 of 1) is a 1 hr 50 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 229.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Scandinavian Airlines",
-   "operatedBy": null,
-   "depAirportName": "Munich International Airport",
-   "depTime": "07:00",
-   "depDate": "2026-12-16",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:00",
-   "arrDate": "2026-12-16",
-   "durationMin": 540,
-   "layovers": [
-    {
-     "min": 70,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    },
-    {
-     "min": 195,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 229 euros. 2 stops flight with KLM and Scandinavian Airlines. Leaves Munich International Airport at 7:00 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 4:00 PM on Wednesday, December 16. Total duration 9 hr.  Layover (1 of 2) is a 1 hr 10 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 3 hr 15 min layover at Oslo lufthavn in Oslo. Select flight"
-  },
-  {
-   "price": 275.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Lufthansa and Wideroe",
-   "operatedBy": null,
-   "depAirportName": "Munich International Airport",
-   "depTime": "08:00",
-   "depDate": "2026-12-16",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-16",
-   "durationMin": 410,
-   "layovers": [
-    {
-     "min": 70,
-     "overnight": false,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
-    },
-    {
-     "min": 95,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 275 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Munich International Airport at 8:00 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 2:50 PM on Wednesday, December 16. Total duration 6 hr 50 min.  Layover (1 of 2) is a 1 hr 10 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
-  },
-  {
-   "price": 216.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 3,
-   "airlines": "Finnair and Wideroe",
-   "operatedBy": "Nordic Reg for Finnair, Nordic Reg for Finnair",
-   "depAirportName": "Munich International Airport",
-   "depTime": "18:40",
-   "depDate": "2026-12-16",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-17",
-   "durationMin": 1210,
-   "layovers": [
-    {
-     "min": 550,
-     "overnight": false,
-     "airport": "Helsinki Airport",
-     "city": "Helsinki"
-    },
-    {
-     "min": 25,
-     "overnight": false,
-     "airport": "Stockholm Arlanda Airport",
-     "city": "Stockholm"
-    },
-    {
-     "min": 230,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 216 euros. 3 stops flight with Finnair and Wideroe. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Munich International Airport at 6:40 PM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 2:50 PM on Thursday, December 17. Total duration 20 hr 10 min.  Layover (1 of 3) is a 9 hr 10 min layover at Helsinki Airport in Helsinki. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 3 hr 50 min layover at Bergen Airport in Bergen. Select flight"
-  },
-  {
    "price": 223.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
@@ -190,7 +89,109 @@
    "label": "From 223 euros. 2 stops flight with Air France and KLM. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Munich International Airport at 7:05 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 4:35 PM on Wednesday, December 16. Total duration 9 hr 30 min.  Layover (1 of 2) is a 2 hr 40 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 1 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 385.0,
+   "price": 229.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Munich International Airport",
+   "depTime": "07:00",
+   "depDate": "2026-12-16",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:00",
+   "arrDate": "2026-12-16",
+   "durationMin": 540,
+   "layovers": [
+    {
+     "min": 70,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    },
+    {
+     "min": 195,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 229 euros. 2 stops flight with KLM and Scandinavian Airlines. Leaves Munich International Airport at 7:00 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 4:00 PM on Wednesday, December 16. Total duration 9 hr.  Layover (1 of 2) is a 1 hr 10 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 3 hr 15 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 278.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Munich International Airport",
+   "depTime": "08:00",
+   "depDate": "2026-12-16",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-16",
+   "durationMin": 410,
+   "layovers": [
+    {
+     "min": 70,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 278 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Munich International Airport at 8:00 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 2:50 PM on Wednesday, December 16. Total duration 6 hr 50 min.  Layover (1 of 2) is a 1 hr 10 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+  },
+  {
+   "price": 304.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Finnair and Wideroe",
+   "operatedBy": "Nordic Reg for Finnair, Nordic Reg for Finnair",
+   "depAirportName": "Munich International Airport",
+   "depTime": "18:40",
+   "depDate": "2026-12-16",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "18:10",
+   "arrDate": "2026-12-17",
+   "durationMin": 1410,
+   "layovers": [
+    {
+     "min": 550,
+     "overnight": false,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki"
+    },
+    {
+     "min": 25,
+     "overnight": false,
+     "airport": "Stockholm Arlanda Airport",
+     "city": "Stockholm"
+    },
+    {
+     "min": 425,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 304 euros. 3 stops flight with Finnair and Wideroe. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Munich International Airport at 6:40 PM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 6:10 PM on Thursday, December 17. Total duration 23 hr 30 min.  Layover (1 of 3) is a 9 hr 10 min layover at Helsinki Airport in Helsinki. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 7 hr 5 min layover at Bergen Airport in Bergen. Select flight"
+  },
+  {
+   "price": 387.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -219,7 +220,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 385 euros. 2 stops flight with Austrian and Scandinavian Airlines. Operated by Sas Link. Leaves Munich International Airport at 11:30 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 7:20 PM on Wednesday, December 16. Total duration 7 hr 50 min.  Layover (1 of 2) is a 2 hr 30 min layover at Vienna International Airport in Vienna. Layover (2 of 2) is a 50 min layover at Copenhagen Airport in Copenhagen. Select flight"
+   "label": "From 387 euros. 2 stops flight with Austrian and Scandinavian Airlines. Operated by Sas Link. Leaves Munich International Airport at 11:30 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 7:20 PM on Wednesday, December 16. Total duration 7 hr 50 min.  Layover (1 of 2) is a 2 hr 30 min layover at Vienna International Airport in Vienna. Layover (2 of 2) is a 50 min layover at Copenhagen Airport in Copenhagen. Select flight"
   },
   {
    "price": 580.0,
@@ -254,7 +255,7 @@
    "label": "From 580 euros. 2 stops flight with Air France and Scandinavian Airlines. Operated by Sas Connect for Scandinavian Airlines, Sas Link for Scandinavian Airlines. Leaves Munich International Airport at 3:30 PM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 12:40 AM on Thursday, December 17. Total duration 9 hr 10 min.  Layover (1 of 2) is a 2 hr 55 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 55 min layover at Copenhagen Airport in Copenhagen. Select flight"
   },
   {
-   "price": 1651.0,
+   "price": 1652.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -283,7 +284,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 1651 euros. 2 stops flight with Austrian and Scandinavian Airlines. Operated by Air Dolomiti, Sas Link. Leaves Munich International Airport at 8:00 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 2:30 PM on Wednesday, December 16. Total duration 6 hr 30 min.  Layover (1 of 2) is a 1 hr 10 min layover at Vienna International Airport in Vienna. Layover (2 of 2) is a 50 min layover at Copenhagen Airport in Copenhagen. Select flight"
+   "label": "From 1652 euros. 2 stops flight with Austrian and Scandinavian Airlines. Operated by Air Dolomiti, Sas Link. Leaves Munich International Airport at 8:00 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 2:30 PM on Wednesday, December 16. Total duration 6 hr 30 min.  Layover (1 of 2) is a 1 hr 10 min layover at Vienna International Airport in Vienna. Layover (2 of 2) is a 50 min layover at Copenhagen Airport in Copenhagen. Select flight"
   }
  ]
 }

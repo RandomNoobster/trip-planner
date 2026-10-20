@@ -27,22 +27,22 @@
    "departureDate": "2026-12-06T11:45:00",
    "arrivalDate": "2026-12-06T13:55:00",
    "price": {
-    "value": 65.64,
+    "value": 65.47,
     "valueMainUnit": "65",
-    "valueFractionalUnit": "64",
+    "valueFractionalUnit": "47",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~4113~ ~~KTW~12/06/2026 11:45~FCO~12/06/2026 13:55~~",
    "flightNumber": "FR4113",
    "previousPrice": null,
-   "priceUpdated": 1791803257000
+   "priceUpdated": 1792437160000
   },
   "summary": {
    "price": {
-    "value": 65.64,
+    "value": 65.47,
     "valueMainUnit": "65",
-    "valueFractionalUnit": "64",
+    "valueFractionalUnit": "47",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -75,76 +75,25 @@
      "name": "London"
     }
    },
-   "departureDate": "2026-12-07T11:00:00",
-   "arrivalDate": "2026-12-07T12:25:00",
-   "price": {
-    "value": 78.67,
-    "valueMainUnit": "78",
-    "valueFractionalUnit": "67",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~5535~ ~~KTW~12/07/2026 11:00~STN~12/07/2026 12:25~~",
-   "flightNumber": "FR5535",
-   "previousPrice": null,
-   "priceUpdated": 1791800562000
-  },
-  "summary": {
-   "price": {
-    "value": 78.67,
-    "valueMainUnit": "78",
-    "valueFractionalUnit": "67",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
    "departureDate": "2026-12-05T22:05:00",
    "arrivalDate": "2026-12-05T23:30:00",
    "price": {
-    "value": 85.41,
-    "valueMainUnit": "85",
-    "valueFractionalUnit": "41",
+    "value": 83.15,
+    "valueMainUnit": "83",
+    "valueFractionalUnit": "15",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~5535~ ~~KTW~12/05/2026 22:05~STN~12/05/2026 23:30~~",
    "flightNumber": "FR5535",
    "previousPrice": null,
-   "priceUpdated": 1791801115000
+   "priceUpdated": 1792438210000
   },
   "summary": {
    "price": {
-    "value": 85.41,
-    "valueMainUnit": "85",
-    "valueFractionalUnit": "41",
+    "value": 83.15,
+    "valueMainUnit": "83",
+    "valueFractionalUnit": "15",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -166,18 +115,19 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "MAN",
-    "name": "Manchester",
-    "seoName": "manchester",
+    "countryName": "Italy",
+    "iataCode": "FCO",
+    "name": "Rome Fiumicino",
+    "seoName": "rome-fiumicino",
     "city": {
-     "code": "MANCHESTER",
-     "countryCode": "gb",
-     "name": "Manchester"
+     "code": "ROME",
+     "countryCode": "it",
+     "macCode": "ROM",
+     "name": "Rome"
     }
    },
-   "departureDate": "2026-12-04T06:40:00",
-   "arrivalDate": "2026-12-04T08:20:00",
+   "departureDate": "2026-12-07T17:50:00",
+   "arrivalDate": "2026-12-07T20:00:00",
    "price": {
     "value": 87.0,
     "valueMainUnit": "87",
@@ -185,16 +135,66 @@
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~6403~ ~~KTW~12/04/2026 06:40~MAN~12/04/2026 08:20~~",
-   "flightNumber": "FR6403",
+   "flightKey": "FR~4113~ ~~KTW~12/07/2026 17:50~FCO~12/07/2026 20:00~~",
+   "flightNumber": "FR4113",
    "previousPrice": null,
-   "priceUpdated": 1791800558000
+   "priceUpdated": 1792426512000
   },
   "summary": {
    "price": {
     "value": 87.0,
     "valueMainUnit": "87",
     "valueFractionalUnit": "00",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-06T12:55:00",
+   "arrivalDate": "2026-12-06T14:45:00",
+   "price": {
+    "value": 91.68,
+    "valueMainUnit": "91",
+    "valueFractionalUnit": "68",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~3409~ ~~KTW~12/06/2026 12:55~BGY~12/06/2026 14:45~~",
+   "flightNumber": "FR3409",
+   "previousPrice": null,
+   "priceUpdated": 1792436788000
+  },
+  "summary": {
+   "price": {
+    "value": 91.68,
+    "valueMainUnit": "91",
+    "valueFractionalUnit": "68",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -229,22 +229,22 @@
    "departureDate": "2026-12-11T06:40:00",
    "arrivalDate": "2026-12-11T08:20:00",
    "price": {
-    "value": 87.0,
-    "valueMainUnit": "87",
-    "valueFractionalUnit": "00",
+    "value": 92.28,
+    "valueMainUnit": "92",
+    "valueFractionalUnit": "28",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~6403~ ~~KTW~12/11/2026 06:40~MAN~12/11/2026 08:20~~",
    "flightNumber": "FR6403",
    "previousPrice": null,
-   "priceUpdated": 1791800563000
+   "priceUpdated": 1792434100000
   },
   "summary": {
    "price": {
-    "value": 87.0,
-    "valueMainUnit": "87",
-    "valueFractionalUnit": "00",
+    "value": 92.28,
+    "valueMainUnit": "92",
+    "valueFractionalUnit": "28",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -266,90 +266,40 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
+    "countryName": "Cyprus",
+    "iataCode": "PFO",
+    "name": "Paphos",
+    "seoName": "paphos",
     "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
+     "code": "PAPHOS",
+     "countryCode": "cy",
+     "name": "Paphos"
     }
    },
-   "departureDate": "2026-12-06T12:55:00",
-   "arrivalDate": "2026-12-06T14:45:00",
+   "departureDate": "2026-12-05T15:15:00",
+   "arrivalDate": "2026-12-05T19:25:00",
    "price": {
-    "value": 87.42,
-    "valueMainUnit": "87",
-    "valueFractionalUnit": "42",
+    "value": 95.0,
+    "valueMainUnit": "95",
+    "valueFractionalUnit": "00",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~3409~ ~~KTW~12/06/2026 12:55~BGY~12/06/2026 14:45~~",
-   "flightNumber": "FR3409",
+   "flightKey": "FR~6393~ ~~KTW~12/05/2026 15:15~PFO~12/05/2026 19:25~~",
+   "flightNumber": "FR6393",
    "previousPrice": null,
-   "priceUpdated": 1791800239000
+   "priceUpdated": 1792434016000
   },
   "summary": {
    "price": {
-    "value": 87.42,
-    "valueMainUnit": "87",
-    "valueFractionalUnit": "42",
+    "value": 95.0,
+    "valueMainUnit": "95",
+    "valueFractionalUnit": "00",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "previousPrice": null,
    "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
-    "city": {
-     "code": "MALAGA",
-     "countryCode": "es",
-     "name": "Malaga"
-    }
-   },
-   "departureDate": "2026-12-07T07:15:00",
-   "arrivalDate": "2026-12-07T11:05:00",
-   "price": {
-    "value": 95.0,
-    "valueMainUnit": "95",
-    "valueFractionalUnit": "00",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~7012~ ~~KTW~12/07/2026 07:15~AGP~12/07/2026 11:05~~",
-   "flightNumber": "FR7012",
-   "previousPrice": null,
-   "priceUpdated": 1791800562000
-  },
-  "summary": {
-   "price": {
-    "value": 95.0,
-    "valueMainUnit": "95",
-    "valueFractionalUnit": "00",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": true
   }
  },
  {
@@ -388,7 +338,7 @@
    "flightKey": "FR~6393~ ~~KTW~12/07/2026 06:20~PFO~12/07/2026 10:30~~",
    "flightNumber": "FR6393",
    "previousPrice": null,
-   "priceUpdated": 1791800560000
+   "priceUpdated": 1792434038000
   },
   "summary": {
    "price": {
@@ -416,141 +366,90 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "departureDate": "2026-12-05T12:35:00",
-   "arrivalDate": "2026-12-05T16:05:00",
-   "price": {
-    "value": 96.16,
-    "valueMainUnit": "96",
-    "valueFractionalUnit": "16",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~2615~ ~~KTW~12/05/2026 12:35~ATH~12/05/2026 16:05~~",
-   "flightNumber": "FR2615",
-   "previousPrice": null,
-   "priceUpdated": 1791800556000
-  },
-  "summary": {
-   "price": {
-    "value": 96.16,
-    "valueMainUnit": "96",
-    "valueFractionalUnit": "16",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "CTA",
-    "name": "Catania",
-    "seoName": "catania",
-    "city": {
-     "code": "CATANIA",
-     "countryCode": "it",
-     "name": "Catania"
-    }
-   },
-   "departureDate": "2026-12-11T14:00:00",
-   "arrivalDate": "2026-12-11T16:35:00",
-   "price": {
-    "value": 104.91,
-    "valueMainUnit": "104",
-    "valueFractionalUnit": "91",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~6373~ ~~KTW~12/11/2026 14:00~CTA~12/11/2026 16:35~~",
-   "flightNumber": "FR6373",
-   "previousPrice": null,
-   "priceUpdated": 1791800560000
-  },
-  "summary": {
-   "price": {
-    "value": 104.91,
-    "valueMainUnit": "104",
-    "valueFractionalUnit": "91",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
     "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
+    "iataCode": "MAN",
+    "name": "Manchester",
+    "seoName": "manchester",
     "city": {
-     "code": "LONDON",
+     "code": "MANCHESTER",
      "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
+     "name": "Manchester"
     }
    },
-   "departureDate": "2026-12-06T22:20:00",
-   "arrivalDate": "2026-12-06T23:45:00",
+   "departureDate": "2026-12-04T06:40:00",
+   "arrivalDate": "2026-12-04T08:20:00",
    "price": {
-    "value": 104.91,
-    "valueMainUnit": "104",
+    "value": 96.91,
+    "valueMainUnit": "96",
     "valueFractionalUnit": "91",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~5535~ ~~KTW~12/06/2026 22:20~STN~12/06/2026 23:45~~",
-   "flightNumber": "FR5535",
+   "flightKey": "FR~6403~ ~~KTW~12/04/2026 06:40~MAN~12/04/2026 08:20~~",
+   "flightNumber": "FR6403",
    "previousPrice": null,
-   "priceUpdated": 1791800557000
+   "priceUpdated": 1792434039000
   },
   "summary": {
    "price": {
-    "value": 104.91,
-    "valueMainUnit": "104",
+    "value": 96.91,
+    "valueMainUnit": "96",
     "valueFractionalUnit": "91",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "previousPrice": null,
    "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Malta",
+    "iataCode": "MLA",
+    "name": "Malta",
+    "seoName": "malta",
+    "city": {
+     "code": "MALTA",
+     "countryCode": "mt",
+     "name": "Malta"
+    }
+   },
+   "departureDate": "2026-12-04T15:30:00",
+   "arrivalDate": "2026-12-04T18:20:00",
+   "price": {
+    "value": 104.78,
+    "valueMainUnit": "104",
+    "valueFractionalUnit": "78",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~1251~ ~~KTW~12/04/2026 15:30~MLA~12/04/2026 18:20~~",
+   "flightNumber": "FR1251",
+   "previousPrice": null,
+   "priceUpdated": 1792426545000
+  },
+  "summary": {
+   "price": {
+    "value": 104.78,
+    "valueMainUnit": "104",
+    "valueFractionalUnit": "78",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": true
   }
  },
  {
@@ -577,8 +476,8 @@
      "name": "Alicante"
     }
    },
-   "departureDate": "2026-12-04T21:10:00",
-   "arrivalDate": "2026-12-05T00:30:00",
+   "departureDate": "2026-12-06T17:45:00",
+   "arrivalDate": "2026-12-06T21:05:00",
    "price": {
     "value": 108.0,
     "valueMainUnit": "108",
@@ -586,10 +485,10 @@
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~3596~ ~~KTW~12/04/2026 21:10~ALC~12/05/2026 00:30~~",
+   "flightKey": "FR~3596~ ~~KTW~12/06/2026 17:45~ALC~12/06/2026 21:05~~",
    "flightNumber": "FR3596",
    "previousPrice": null,
-   "priceUpdated": 1791800556000
+   "priceUpdated": 1792434036000
   },
   "summary": {
    "price": {
@@ -639,7 +538,7 @@
    "flightKey": "FR~6373~ ~~KTW~12/04/2026 14:00~CTA~12/04/2026 16:35~~",
    "flightNumber": "FR6373",
    "previousPrice": null,
-   "priceUpdated": 1791800557000
+   "priceUpdated": 1792434007000
   },
   "summary": {
    "price": {
@@ -689,7 +588,7 @@
    "flightKey": "FR~6377~ ~~KTW~12/06/2026 16:10~CTA~12/06/2026 18:45~~",
    "flightNumber": "FR6377",
    "previousPrice": null,
-   "priceUpdated": 1791800557000
+   "priceUpdated": 1792405428000
   },
   "summary": {
    "price": {
@@ -717,85 +616,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Malta",
-    "iataCode": "MLA",
-    "name": "Malta",
-    "seoName": "malta",
+    "countryName": "Italy",
+    "iataCode": "CTA",
+    "name": "Catania",
+    "seoName": "catania",
     "city": {
-     "code": "MALTA",
-     "countryCode": "mt",
-     "name": "Malta"
+     "code": "CATANIA",
+     "countryCode": "it",
+     "name": "Catania"
     }
    },
-   "departureDate": "2026-12-06T07:15:00",
-   "arrivalDate": "2026-12-06T10:05:00",
+   "departureDate": "2026-12-11T14:00:00",
+   "arrivalDate": "2026-12-11T16:35:00",
    "price": {
-    "value": 109.28,
+    "value": 109.15,
     "valueMainUnit": "109",
-    "valueFractionalUnit": "28",
+    "valueFractionalUnit": "15",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~1251~ ~~KTW~12/06/2026 07:15~MLA~12/06/2026 10:05~~",
-   "flightNumber": "FR1251",
+   "flightKey": "FR~6373~ ~~KTW~12/11/2026 14:00~CTA~12/11/2026 16:35~~",
+   "flightNumber": "FR6373",
    "previousPrice": null,
-   "priceUpdated": 1791800558000
+   "priceUpdated": 1792434031000
   },
   "summary": {
    "price": {
-    "value": 109.28,
+    "value": 109.15,
     "valueMainUnit": "109",
-    "valueFractionalUnit": "28",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Cyprus",
-    "iataCode": "PFO",
-    "name": "Paphos",
-    "seoName": "paphos",
-    "city": {
-     "code": "PAPHOS",
-     "countryCode": "cy",
-     "name": "Paphos"
-    }
-   },
-   "departureDate": "2026-12-05T15:15:00",
-   "arrivalDate": "2026-12-05T19:25:00",
-   "price": {
-    "value": 109.74,
-    "valueMainUnit": "109",
-    "valueFractionalUnit": "74",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~6393~ ~~KTW~12/05/2026 15:15~PFO~12/05/2026 19:25~~",
-   "flightNumber": "FR6393",
-   "previousPrice": null,
-   "priceUpdated": 1791803258000
-  },
-  "summary": {
-   "price": {
-    "value": 109.74,
-    "valueMainUnit": "109",
-    "valueFractionalUnit": "74",
+    "valueFractionalUnit": "15",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -828,30 +677,231 @@
      "name": "London"
     }
    },
-   "departureDate": "2026-12-10T14:50:00",
-   "arrivalDate": "2026-12-10T16:15:00",
+   "departureDate": "2026-12-06T09:55:00",
+   "arrivalDate": "2026-12-06T11:20:00",
    "price": {
-    "value": 120.12,
-    "valueMainUnit": "120",
-    "valueFractionalUnit": "12",
+    "value": 109.15,
+    "valueMainUnit": "109",
+    "valueFractionalUnit": "15",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~5535~ ~~KTW~12/10/2026 14:50~STN~12/10/2026 16:15~~",
-   "flightNumber": "FR5535",
+   "flightKey": "FR~2472~ ~~KTW~12/06/2026 09:55~STN~12/06/2026 11:20~~",
+   "flightNumber": "FR2472",
    "previousPrice": null,
-   "priceUpdated": 1791800559000
+   "priceUpdated": 1792425228000
   },
   "summary": {
    "price": {
-    "value": 120.12,
-    "valueMainUnit": "120",
-    "valueFractionalUnit": "12",
+    "value": 109.15,
+    "valueMainUnit": "109",
+    "valueFractionalUnit": "15",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "previousPrice": null,
    "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-09T08:25:00",
+   "arrivalDate": "2026-12-09T09:50:00",
+   "price": {
+    "value": 109.15,
+    "valueMainUnit": "109",
+    "valueFractionalUnit": "15",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~5535~ ~~KTW~12/09/2026 08:25~STN~12/09/2026 09:50~~",
+   "flightNumber": "FR5535",
+   "previousPrice": null,
+   "priceUpdated": 1792419888000
+  },
+  "summary": {
+   "price": {
+    "value": 109.15,
+    "valueMainUnit": "109",
+    "valueFractionalUnit": "15",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "departureDate": "2026-12-05T12:35:00",
+   "arrivalDate": "2026-12-05T16:05:00",
+   "price": {
+    "value": 113.52,
+    "valueMainUnit": "113",
+    "valueFractionalUnit": "52",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~2615~ ~~KTW~12/05/2026 12:35~ATH~12/05/2026 16:05~~",
+   "flightNumber": "FR2615",
+   "previousPrice": null,
+   "priceUpdated": 1792434856000
+  },
+  "summary": {
+   "price": {
+    "value": 113.52,
+    "valueMainUnit": "113",
+    "valueFractionalUnit": "52",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-05T14:10:00",
+   "arrivalDate": "2026-12-05T18:00:00",
+   "price": {
+    "value": 113.52,
+    "valueMainUnit": "113",
+    "valueFractionalUnit": "52",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~7012~ ~~KTW~12/05/2026 14:10~AGP~12/05/2026 18:00~~",
+   "flightNumber": "FR7012",
+   "previousPrice": null,
+   "priceUpdated": 1792426543000
+  },
+  "summary": {
+   "price": {
+    "value": 113.52,
+    "valueMainUnit": "113",
+    "valueFractionalUnit": "52",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Malta",
+    "iataCode": "MLA",
+    "name": "Malta",
+    "seoName": "malta",
+    "city": {
+     "code": "MALTA",
+     "countryCode": "mt",
+     "name": "Malta"
+    }
+   },
+   "departureDate": "2026-12-06T07:15:00",
+   "arrivalDate": "2026-12-06T10:05:00",
+   "price": {
+    "value": 117.88,
+    "valueMainUnit": "117",
+    "valueFractionalUnit": "88",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~1251~ ~~KTW~12/06/2026 07:15~MLA~12/06/2026 10:05~~",
+   "flightNumber": "FR1251",
+   "previousPrice": null,
+   "priceUpdated": 1792426544000
+  },
+  "summary": {
+   "price": {
+    "value": 117.88,
+    "valueMainUnit": "117",
+    "valueFractionalUnit": "88",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": true
   }
  },
  {
@@ -890,7 +940,7 @@
    "flightKey": "FR~1251~ ~~KTW~12/05/2026 14:00~MLA~12/05/2026 16:50~~",
    "flightNumber": "FR1251",
    "previousPrice": null,
-   "priceUpdated": 1791800559000
+   "priceUpdated": 1792405428000
   },
   "summary": {
    "price": {
@@ -940,7 +990,7 @@
    "flightKey": "FR~1251~ ~~KTW~12/11/2026 15:30~MLA~12/11/2026 18:20~~",
    "flightNumber": "FR1251",
    "previousPrice": null,
-   "priceUpdated": 1791800563000
+   "priceUpdated": 1792405432000
   },
   "summary": {
    "price": {
@@ -979,176 +1029,25 @@
      "name": "London"
     }
    },
-   "departureDate": "2026-12-04T08:00:00",
-   "arrivalDate": "2026-12-04T09:25:00",
+   "departureDate": "2026-12-07T11:00:00",
+   "arrivalDate": "2026-12-07T12:25:00",
    "price": {
-    "value": 121.88,
-    "valueMainUnit": "121",
-    "valueFractionalUnit": "88",
+    "value": 122.25,
+    "valueMainUnit": "122",
+    "valueFractionalUnit": "25",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~5535~ ~~KTW~12/04/2026 08:00~STN~12/04/2026 09:25~~",
+   "flightKey": "FR~5535~ ~~KTW~12/07/2026 11:00~STN~12/07/2026 12:25~~",
    "flightNumber": "FR5535",
    "previousPrice": null,
-   "priceUpdated": 1791800289000
+   "priceUpdated": 1792429693000
   },
   "summary": {
    "price": {
-    "value": 121.88,
-    "valueMainUnit": "121",
-    "valueFractionalUnit": "88",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-06T17:45:00",
-   "arrivalDate": "2026-12-06T21:05:00",
-   "price": {
-    "value": 122.91,
+    "value": 122.25,
     "valueMainUnit": "122",
-    "valueFractionalUnit": "91",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~3596~ ~~KTW~12/06/2026 17:45~ALC~12/06/2026 21:05~~",
-   "flightNumber": "FR3596",
-   "previousPrice": null,
-   "priceUpdated": 1791800558000
-  },
-  "summary": {
-   "price": {
-    "value": 122.91,
-    "valueMainUnit": "122",
-    "valueFractionalUnit": "91",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-09T08:25:00",
-   "arrivalDate": "2026-12-09T09:50:00",
-   "price": {
-    "value": 126.77,
-    "valueMainUnit": "126",
-    "valueFractionalUnit": "77",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~5535~ ~~KTW~12/09/2026 08:25~STN~12/09/2026 09:50~~",
-   "flightNumber": "FR5535",
-   "previousPrice": null,
-   "priceUpdated": 1791800561000
-  },
-  "summary": {
-   "price": {
-    "value": 126.77,
-    "valueMainUnit": "126",
-    "valueFractionalUnit": "77",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-07T14:05:00",
-   "arrivalDate": "2026-12-07T15:55:00",
-   "price": {
-    "value": 126.77,
-    "valueMainUnit": "126",
-    "valueFractionalUnit": "77",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~3409~ ~~KTW~12/07/2026 14:05~BGY~12/07/2026 15:55~~",
-   "flightNumber": "FR3409",
-   "previousPrice": null,
-   "priceUpdated": 1791800560000
-  },
-  "summary": {
-   "price": {
-    "value": 126.77,
-    "valueMainUnit": "126",
-    "valueFractionalUnit": "77",
+    "valueFractionalUnit": "25",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -1183,122 +1082,22 @@
    "departureDate": "2026-12-07T09:15:00",
    "arrivalDate": "2026-12-07T12:05:00",
    "price": {
-    "value": 131.15,
-    "valueMainUnit": "131",
-    "valueFractionalUnit": "15",
+    "value": 126.62,
+    "valueMainUnit": "126",
+    "valueFractionalUnit": "62",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~1251~ ~~KTW~12/07/2026 09:15~MLA~12/07/2026 12:05~~",
    "flightNumber": "FR1251",
    "previousPrice": null,
-   "priceUpdated": 1791800560000
+   "priceUpdated": 1792419879000
   },
   "summary": {
    "price": {
-    "value": 131.15,
-    "valueMainUnit": "131",
-    "valueFractionalUnit": "15",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Malta",
-    "iataCode": "MLA",
-    "name": "Malta",
-    "seoName": "malta",
-    "city": {
-     "code": "MALTA",
-     "countryCode": "mt",
-     "name": "Malta"
-    }
-   },
-   "departureDate": "2026-12-04T15:30:00",
-   "arrivalDate": "2026-12-04T18:20:00",
-   "price": {
-    "value": 139.89,
-    "valueMainUnit": "139",
-    "valueFractionalUnit": "89",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~1251~ ~~KTW~12/04/2026 15:30~MLA~12/04/2026 18:20~~",
-   "flightNumber": "FR1251",
-   "previousPrice": null,
-   "priceUpdated": 1791800556000
-  },
-  "summary": {
-   "price": {
-    "value": 139.89,
-    "valueMainUnit": "139",
-    "valueFractionalUnit": "89",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Malta",
-    "iataCode": "MLA",
-    "name": "Malta",
-    "seoName": "malta",
-    "city": {
-     "code": "MALTA",
-     "countryCode": "mt",
-     "name": "Malta"
-    }
-   },
-   "departureDate": "2026-12-10T14:25:00",
-   "arrivalDate": "2026-12-10T17:15:00",
-   "price": {
-    "value": 141.41,
-    "valueMainUnit": "141",
-    "valueFractionalUnit": "41",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~1251~ ~~KTW~12/10/2026 14:25~MLA~12/10/2026 17:15~~",
-   "flightNumber": "FR1251",
-   "previousPrice": null,
-   "priceUpdated": 1791800560000
-  },
-  "summary": {
-   "price": {
-    "value": 141.41,
-    "valueMainUnit": "141",
-    "valueFractionalUnit": "41",
+    "value": 126.62,
+    "valueMainUnit": "126",
+    "valueFractionalUnit": "62",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -1334,22 +1133,22 @@
    "departureDate": "2026-12-11T13:00:00",
    "arrivalDate": "2026-12-11T15:10:00",
    "price": {
-    "value": 148.64,
-    "valueMainUnit": "148",
-    "valueFractionalUnit": "64",
+    "value": 126.62,
+    "valueMainUnit": "126",
+    "valueFractionalUnit": "62",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~4113~ ~~KTW~12/11/2026 13:00~FCO~12/11/2026 15:10~~",
    "flightNumber": "FR4113",
    "previousPrice": null,
-   "priceUpdated": 1791800561000
+   "priceUpdated": 1792419370000
   },
   "summary": {
    "price": {
-    "value": 148.64,
-    "valueMainUnit": "148",
-    "valueFractionalUnit": "64",
+    "value": 126.62,
+    "valueMainUnit": "126",
+    "valueFractionalUnit": "62",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -1381,30 +1180,80 @@
      "name": "Malaga"
     }
    },
-   "departureDate": "2026-12-05T14:10:00",
-   "arrivalDate": "2026-12-05T18:00:00",
+   "departureDate": "2026-12-07T07:15:00",
+   "arrivalDate": "2026-12-07T11:05:00",
    "price": {
-    "value": 153.01,
-    "valueMainUnit": "153",
-    "valueFractionalUnit": "01",
+    "value": 129.2,
+    "valueMainUnit": "129",
+    "valueFractionalUnit": "20",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~7012~ ~~KTW~12/05/2026 14:10~AGP~12/05/2026 18:00~~",
+   "flightKey": "FR~7012~ ~~KTW~12/07/2026 07:15~AGP~12/07/2026 11:05~~",
    "flightNumber": "FR7012",
    "previousPrice": null,
-   "priceUpdated": 1791800556000
+   "priceUpdated": 1792437148000
   },
   "summary": {
    "price": {
-    "value": 153.01,
-    "valueMainUnit": "153",
-    "valueFractionalUnit": "01",
+    "value": 129.2,
+    "valueMainUnit": "129",
+    "valueFractionalUnit": "20",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "previousPrice": null,
    "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-07T14:05:00",
+   "arrivalDate": "2026-12-07T15:55:00",
+   "price": {
+    "value": 130.99,
+    "valueMainUnit": "130",
+    "valueFractionalUnit": "99",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~3409~ ~~KTW~12/07/2026 14:05~BGY~12/07/2026 15:55~~",
+   "flightNumber": "FR3409",
+   "previousPrice": null,
+   "priceUpdated": 1792419879000
+  },
+  "summary": {
+   "price": {
+    "value": 130.99,
+    "valueMainUnit": "130",
+    "valueFractionalUnit": "99",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": false
   }
  },
  {
@@ -1434,22 +1283,223 @@
    "departureDate": "2026-12-11T07:20:00",
    "arrivalDate": "2026-12-11T10:50:00",
    "price": {
-    "value": 154.66,
-    "valueMainUnit": "154",
-    "valueFractionalUnit": "66",
+    "value": 138.42,
+    "valueMainUnit": "138",
+    "valueFractionalUnit": "42",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~2615~ ~~KTW~12/11/2026 07:20~ATH~12/11/2026 10:50~~",
    "flightNumber": "FR2615",
    "previousPrice": null,
-   "priceUpdated": 1791801461000
+   "priceUpdated": 1792432520000
   },
   "summary": {
    "price": {
-    "value": 154.66,
-    "valueMainUnit": "154",
-    "valueFractionalUnit": "66",
+    "value": 138.42,
+    "valueMainUnit": "138",
+    "valueFractionalUnit": "42",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "NAP",
+    "name": "Naples",
+    "seoName": "naples",
+    "city": {
+     "code": "NAPLES",
+     "countryCode": "it",
+     "name": "Naples"
+    }
+   },
+   "departureDate": "2026-12-04T18:20:00",
+   "arrivalDate": "2026-12-04T20:25:00",
+   "price": {
+    "value": 139.72,
+    "valueMainUnit": "139",
+    "valueFractionalUnit": "72",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~3148~ ~~KTW~12/04/2026 18:20~NAP~12/04/2026 20:25~~",
+   "flightNumber": "FR3148",
+   "previousPrice": null,
+   "priceUpdated": 1792419777000
+  },
+  "summary": {
+   "price": {
+    "value": 139.72,
+    "valueMainUnit": "139",
+    "valueFractionalUnit": "72",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Malta",
+    "iataCode": "MLA",
+    "name": "Malta",
+    "seoName": "malta",
+    "city": {
+     "code": "MALTA",
+     "countryCode": "mt",
+     "name": "Malta"
+    }
+   },
+   "departureDate": "2026-12-10T14:25:00",
+   "arrivalDate": "2026-12-10T17:15:00",
+   "price": {
+    "value": 141.44,
+    "valueMainUnit": "141",
+    "valueFractionalUnit": "44",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~1251~ ~~KTW~12/10/2026 14:25~MLA~12/10/2026 17:15~~",
+   "flightNumber": "FR1251",
+   "previousPrice": null,
+   "priceUpdated": 1792405431000
+  },
+  "summary": {
+   "price": {
+    "value": 141.44,
+    "valueMainUnit": "141",
+    "valueFractionalUnit": "44",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "NAP",
+    "name": "Naples",
+    "seoName": "naples",
+    "city": {
+     "code": "NAPLES",
+     "countryCode": "it",
+     "name": "Naples"
+    }
+   },
+   "departureDate": "2026-12-06T06:45:00",
+   "arrivalDate": "2026-12-06T08:50:00",
+   "price": {
+    "value": 145.84,
+    "valueMainUnit": "145",
+    "valueFractionalUnit": "84",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~3148~ ~~KTW~12/06/2026 06:45~NAP~12/06/2026 08:50~~",
+   "flightNumber": "FR3148",
+   "previousPrice": null,
+   "priceUpdated": 1792405430000
+  },
+  "summary": {
+   "price": {
+    "value": 145.84,
+    "valueMainUnit": "145",
+    "valueFractionalUnit": "84",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-08T14:20:00",
+   "arrivalDate": "2026-12-08T15:45:00",
+   "price": {
+    "value": 148.46,
+    "valueMainUnit": "148",
+    "valueFractionalUnit": "46",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~5535~ ~~KTW~12/08/2026 14:20~STN~12/08/2026 15:45~~",
+   "flightNumber": "FR5535",
+   "previousPrice": null,
+   "priceUpdated": 1792436736000
+  },
+  "summary": {
+   "price": {
+    "value": 148.46,
+    "valueMainUnit": "148",
+    "valueFractionalUnit": "46",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -1482,25 +1532,25 @@
      "name": "London"
     }
    },
-   "departureDate": "2026-12-08T14:20:00",
-   "arrivalDate": "2026-12-08T15:45:00",
+   "departureDate": "2026-12-10T14:50:00",
+   "arrivalDate": "2026-12-10T16:15:00",
    "price": {
-    "value": 161.76,
-    "valueMainUnit": "161",
-    "valueFractionalUnit": "76",
+    "value": 149.47,
+    "valueMainUnit": "149",
+    "valueFractionalUnit": "47",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~5535~ ~~KTW~12/08/2026 14:20~STN~12/08/2026 15:45~~",
+   "flightKey": "FR~5535~ ~~KTW~12/10/2026 14:50~STN~12/10/2026 16:15~~",
    "flightNumber": "FR5535",
    "previousPrice": null,
-   "priceUpdated": 1791800563000
+   "priceUpdated": 1792429787000
   },
   "summary": {
    "price": {
-    "value": 161.76,
-    "valueMainUnit": "161",
-    "valueFractionalUnit": "76",
+    "value": 149.47,
+    "valueMainUnit": "149",
+    "valueFractionalUnit": "47",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -1532,30 +1582,131 @@
      "name": "Alicante"
     }
    },
-   "departureDate": "2026-12-11T21:10:00",
-   "arrivalDate": "2026-12-12T00:30:00",
+   "departureDate": "2026-12-04T21:10:00",
+   "arrivalDate": "2026-12-05T00:30:00",
    "price": {
-    "value": 166.13,
-    "valueMainUnit": "166",
-    "valueFractionalUnit": "13",
+    "value": 153.63,
+    "valueMainUnit": "153",
+    "valueFractionalUnit": "63",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~3596~ ~~KTW~12/11/2026 21:10~ALC~12/12/2026 00:30~~",
+   "flightKey": "FR~3596~ ~~KTW~12/04/2026 21:10~ALC~12/05/2026 00:30~~",
    "flightNumber": "FR3596",
    "previousPrice": null,
-   "priceUpdated": 1791800563000
+   "priceUpdated": 1792405427000
   },
   "summary": {
    "price": {
-    "value": 166.13,
-    "valueMainUnit": "166",
-    "valueFractionalUnit": "13",
+    "value": 153.63,
+    "valueMainUnit": "153",
+    "valueFractionalUnit": "63",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "previousPrice": null,
    "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "departureDate": "2026-12-07T18:30:00",
+   "arrivalDate": "2026-12-07T22:00:00",
+   "price": {
+    "value": 161.56,
+    "valueMainUnit": "161",
+    "valueFractionalUnit": "56",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~2615~ ~~KTW~12/07/2026 18:30~ATH~12/07/2026 22:00~~",
+   "flightNumber": "FR2615",
+   "previousPrice": null,
+   "priceUpdated": 1792432867000
+  },
+  "summary": {
+   "price": {
+    "value": 161.56,
+    "valueMainUnit": "161",
+    "valueFractionalUnit": "56",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "FCO",
+    "name": "Rome Fiumicino",
+    "seoName": "rome-fiumicino",
+    "city": {
+     "code": "ROME",
+     "countryCode": "it",
+     "macCode": "ROM",
+     "name": "Rome"
+    }
+   },
+   "departureDate": "2026-12-04T13:00:00",
+   "arrivalDate": "2026-12-04T15:10:00",
+   "price": {
+    "value": 166.6,
+    "valueMainUnit": "166",
+    "valueFractionalUnit": "60",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~4113~ ~~KTW~12/04/2026 13:00~FCO~12/04/2026 15:10~~",
+   "flightNumber": "FR4113",
+   "previousPrice": null,
+   "priceUpdated": 1792405425000
+  },
+  "summary": {
+   "price": {
+    "value": 166.6,
+    "valueMainUnit": "166",
+    "valueFractionalUnit": "60",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": true
   }
  },
  {
@@ -1585,22 +1736,22 @@
    "departureDate": "2026-12-04T10:10:00",
    "arrivalDate": "2026-12-04T12:10:00",
    "price": {
-    "value": 174.08,
-    "valueMainUnit": "174",
-    "valueFractionalUnit": "08",
+    "value": 177.07,
+    "valueMainUnit": "177",
+    "valueFractionalUnit": "07",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~5347~ ~~KTW~12/04/2026 10:10~DUB~12/04/2026 12:10~~",
    "flightNumber": "FR5347",
    "previousPrice": null,
-   "priceUpdated": 1791800557000
+   "priceUpdated": 1792405426000
   },
   "summary": {
    "price": {
-    "value": 174.08,
-    "valueMainUnit": "174",
-    "valueFractionalUnit": "08",
+    "value": 177.07,
+    "valueMainUnit": "177",
+    "valueFractionalUnit": "07",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -1635,22 +1786,22 @@
    "departureDate": "2026-12-11T10:10:00",
    "arrivalDate": "2026-12-11T12:10:00",
    "price": {
-    "value": 174.88,
-    "valueMainUnit": "174",
-    "valueFractionalUnit": "88",
+    "value": 179.03,
+    "valueMainUnit": "179",
+    "valueFractionalUnit": "03",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~5347~ ~~KTW~12/11/2026 10:10~DUB~12/11/2026 12:10~~",
    "flightNumber": "FR5347",
    "previousPrice": null,
-   "priceUpdated": 1791800563000
+   "priceUpdated": 1792436780000
   },
   "summary": {
    "price": {
-    "value": 174.88,
-    "valueMainUnit": "174",
-    "valueFractionalUnit": "88",
+    "value": 179.03,
+    "valueMainUnit": "179",
+    "valueFractionalUnit": "03",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -1686,22 +1837,22 @@
    "departureDate": "2026-12-11T08:00:00",
    "arrivalDate": "2026-12-11T09:25:00",
    "price": {
-    "value": 178.62,
-    "valueMainUnit": "178",
-    "valueFractionalUnit": "62",
+    "value": 183.0,
+    "valueMainUnit": "183",
+    "valueFractionalUnit": "00",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~5535~ ~~KTW~12/11/2026 08:00~STN~12/11/2026 09:25~~",
    "flightNumber": "FR5535",
    "previousPrice": null,
-   "priceUpdated": 1791800562000
+   "priceUpdated": 1792416546000
   },
   "summary": {
    "price": {
-    "value": 178.62,
-    "valueMainUnit": "178",
-    "valueFractionalUnit": "62",
+    "value": 183.0,
+    "valueMainUnit": "183",
+    "valueFractionalUnit": "00",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -1723,90 +1874,40 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
     "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
     }
    },
-   "departureDate": "2026-12-11T13:10:00",
-   "arrivalDate": "2026-12-11T15:00:00",
+   "departureDate": "2026-12-11T21:10:00",
+   "arrivalDate": "2026-12-12T00:30:00",
    "price": {
-    "value": 183.62,
+    "value": 183.4,
     "valueMainUnit": "183",
-    "valueFractionalUnit": "62",
+    "valueFractionalUnit": "40",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~3409~ ~~KTW~12/11/2026 13:10~BGY~12/11/2026 15:00~~",
-   "flightNumber": "FR3409",
+   "flightKey": "FR~3596~ ~~KTW~12/11/2026 21:10~ALC~12/12/2026 00:30~~",
+   "flightNumber": "FR3596",
    "previousPrice": null,
-   "priceUpdated": 1791800563000
+   "priceUpdated": 1792419883000
   },
   "summary": {
    "price": {
-    "value": 183.62,
+    "value": 183.4,
     "valueMainUnit": "183",
-    "valueFractionalUnit": "62",
+    "valueFractionalUnit": "40",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "previousPrice": null,
    "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "NAP",
-    "name": "Naples",
-    "seoName": "naples",
-    "city": {
-     "code": "NAPLES",
-     "countryCode": "it",
-     "name": "Naples"
-    }
-   },
-   "departureDate": "2026-12-04T18:20:00",
-   "arrivalDate": "2026-12-04T20:25:00",
-   "price": {
-    "value": 183.62,
-    "valueMainUnit": "183",
-    "valueFractionalUnit": "62",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~3148~ ~~KTW~12/04/2026 18:20~NAP~12/04/2026 20:25~~",
-   "flightNumber": "FR3148",
-   "previousPrice": null,
-   "priceUpdated": 1791800557000
-  },
-  "summary": {
-   "price": {
-    "value": 183.62,
-    "valueMainUnit": "183",
-    "valueFractionalUnit": "62",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": true
   }
  },
  {
@@ -1836,279 +1937,27 @@
    "departureDate": "2026-12-07T12:50:00",
    "arrivalDate": "2026-12-07T14:55:00",
    "price": {
-    "value": 193.32,
-    "valueMainUnit": "193",
-    "valueFractionalUnit": "32",
+    "value": 203.19,
+    "valueMainUnit": "203",
+    "valueFractionalUnit": "19",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~3148~ ~~KTW~12/07/2026 12:50~NAP~12/07/2026 14:55~~",
    "flightNumber": "FR3148",
    "previousPrice": null,
-   "priceUpdated": 1791801460000
+   "priceUpdated": 1792432355000
   },
   "summary": {
    "price": {
-    "value": 193.32,
-    "valueMainUnit": "193",
-    "valueFractionalUnit": "32",
+    "value": 203.19,
+    "valueMainUnit": "203",
+    "valueFractionalUnit": "19",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "previousPrice": null,
    "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "FCO",
-    "name": "Rome Fiumicino",
-    "seoName": "rome-fiumicino",
-    "city": {
-     "code": "ROME",
-     "countryCode": "it",
-     "macCode": "ROM",
-     "name": "Rome"
-    }
-   },
-   "departureDate": "2026-12-07T17:50:00",
-   "arrivalDate": "2026-12-07T20:00:00",
-   "price": {
-    "value": 196.22,
-    "valueMainUnit": "196",
-    "valueFractionalUnit": "22",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~4113~ ~~KTW~12/07/2026 17:50~FCO~12/07/2026 20:00~~",
-   "flightNumber": "FR4113",
-   "previousPrice": null,
-   "priceUpdated": 1791800561000
-  },
-  "summary": {
-   "price": {
-    "value": 196.22,
-    "valueMainUnit": "196",
-    "valueFractionalUnit": "22",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "FCO",
-    "name": "Rome Fiumicino",
-    "seoName": "rome-fiumicino",
-    "city": {
-     "code": "ROME",
-     "countryCode": "it",
-     "macCode": "ROM",
-     "name": "Rome"
-    }
-   },
-   "departureDate": "2026-12-04T13:00:00",
-   "arrivalDate": "2026-12-04T15:10:00",
-   "price": {
-    "value": 196.69,
-    "valueMainUnit": "196",
-    "valueFractionalUnit": "69",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~4113~ ~~KTW~12/04/2026 13:00~FCO~12/04/2026 15:10~~",
-   "flightNumber": "FR4113",
-   "previousPrice": null,
-   "priceUpdated": 1791800559000
-  },
-  "summary": {
-   "price": {
-    "value": 196.69,
-    "valueMainUnit": "196",
-    "valueFractionalUnit": "69",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "departureDate": "2026-12-07T18:30:00",
-   "arrivalDate": "2026-12-07T22:00:00",
-   "price": {
-    "value": 201.11,
-    "valueMainUnit": "201",
-    "valueFractionalUnit": "11",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~2615~ ~~KTW~12/07/2026 18:30~ATH~12/07/2026 22:00~~",
-   "flightNumber": "FR2615",
-   "previousPrice": null,
-   "priceUpdated": 1791800561000
-  },
-  "summary": {
-   "price": {
-    "value": 201.11,
-    "valueMainUnit": "201",
-    "valueFractionalUnit": "11",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-04T13:10:00",
-   "arrivalDate": "2026-12-04T15:00:00",
-   "price": {
-    "value": 205.49,
-    "valueMainUnit": "205",
-    "valueFractionalUnit": "49",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~3409~ ~~KTW~12/04/2026 13:10~BGY~12/04/2026 15:00~~",
-   "flightNumber": "FR3409",
-   "previousPrice": null,
-   "priceUpdated": 1791800560000
-  },
-  "summary": {
-   "price": {
-    "value": 205.49,
-    "valueMainUnit": "205",
-    "valueFractionalUnit": "49",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-07T16:15:00",
-   "arrivalDate": "2026-12-07T18:15:00",
-   "price": {
-    "value": 222.98,
-    "valueMainUnit": "222",
-    "valueFractionalUnit": "98",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~5347~ ~~KTW~12/07/2026 16:15~DUB~12/07/2026 18:15~~",
-   "flightNumber": "FR5347",
-   "previousPrice": null,
-   "priceUpdated": 1791800561000
-  },
-  "summary": {
-   "price": {
-    "value": 222.98,
-    "valueMainUnit": "222",
-    "valueFractionalUnit": "98",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": false
   }
  },
  {
@@ -2138,22 +1987,22 @@
    "departureDate": "2026-12-04T07:20:00",
    "arrivalDate": "2026-12-04T10:50:00",
    "price": {
-    "value": 249.65,
-    "valueMainUnit": "249",
-    "valueFractionalUnit": "65",
+    "value": 209.26,
+    "valueMainUnit": "209",
+    "valueFractionalUnit": "26",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~2615~ ~~KTW~12/04/2026 07:20~ATH~12/04/2026 10:50~~",
    "flightNumber": "FR2615",
    "previousPrice": null,
-   "priceUpdated": 1791800557000
+   "priceUpdated": 1792437755000
   },
   "summary": {
    "price": {
-    "value": 249.65,
-    "valueMainUnit": "249",
-    "valueFractionalUnit": "65",
+    "value": 209.26,
+    "valueMainUnit": "209",
+    "valueFractionalUnit": "26",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -2185,75 +2034,25 @@
      "name": "Naples"
     }
    },
-   "departureDate": "2026-12-06T06:45:00",
-   "arrivalDate": "2026-12-06T08:50:00",
-   "price": {
-    "value": 251.0,
-    "valueMainUnit": "251",
-    "valueFractionalUnit": "00",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~3148~ ~~KTW~12/06/2026 06:45~NAP~12/06/2026 08:50~~",
-   "flightNumber": "FR3148",
-   "previousPrice": null,
-   "priceUpdated": 1791800558000
-  },
-  "summary": {
-   "price": {
-    "value": 251.0,
-    "valueMainUnit": "251",
-    "valueFractionalUnit": "00",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "NAP",
-    "name": "Naples",
-    "seoName": "naples",
-    "city": {
-     "code": "NAPLES",
-     "countryCode": "it",
-     "name": "Naples"
-    }
-   },
    "departureDate": "2026-12-10T08:30:00",
    "arrivalDate": "2026-12-10T10:35:00",
    "price": {
-    "value": 289.0,
-    "valueMainUnit": "289",
-    "valueFractionalUnit": "00",
+    "value": 230.06,
+    "valueMainUnit": "230",
+    "valueFractionalUnit": "06",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~3148~ ~~KTW~12/10/2026 08:30~NAP~12/10/2026 10:35~~",
    "flightNumber": "FR3148",
    "previousPrice": null,
-   "priceUpdated": 1791800559000
+   "priceUpdated": 1792405434000
   },
   "summary": {
    "price": {
-    "value": 289.0,
-    "valueMainUnit": "289",
-    "valueFractionalUnit": "00",
+    "value": 230.06,
+    "valueMainUnit": "230",
+    "valueFractionalUnit": "06",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -2288,27 +2087,228 @@
    "departureDate": "2026-12-11T18:20:00",
    "arrivalDate": "2026-12-11T20:25:00",
    "price": {
-    "value": 293.37,
-    "valueMainUnit": "293",
-    "valueFractionalUnit": "37",
+    "value": 230.06,
+    "valueMainUnit": "230",
+    "valueFractionalUnit": "06",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~3148~ ~~KTW~12/11/2026 18:20~NAP~12/11/2026 20:25~~",
    "flightNumber": "FR3148",
    "previousPrice": null,
-   "priceUpdated": 1791800559000
+   "priceUpdated": 1792405436000
   },
   "summary": {
    "price": {
-    "value": 293.37,
-    "valueMainUnit": "293",
-    "valueFractionalUnit": "37",
+    "value": 230.06,
+    "valueMainUnit": "230",
+    "valueFractionalUnit": "06",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "previousPrice": null,
    "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-07T16:15:00",
+   "arrivalDate": "2026-12-07T18:15:00",
+   "price": {
+    "value": 231.44,
+    "valueMainUnit": "231",
+    "valueFractionalUnit": "44",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~5347~ ~~KTW~12/07/2026 16:15~DUB~12/07/2026 18:15~~",
+   "flightNumber": "FR5347",
+   "previousPrice": null,
+   "priceUpdated": 1792439112000
+  },
+  "summary": {
+   "price": {
+    "value": 231.44,
+    "valueMainUnit": "231",
+    "valueFractionalUnit": "44",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-11T13:10:00",
+   "arrivalDate": "2026-12-11T15:00:00",
+   "price": {
+    "value": 231.44,
+    "valueMainUnit": "231",
+    "valueFractionalUnit": "44",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~3409~ ~~KTW~12/11/2026 13:10~BGY~12/11/2026 15:00~~",
+   "flightNumber": "FR3409",
+   "previousPrice": null,
+   "priceUpdated": 1792423356000
+  },
+  "summary": {
+   "price": {
+    "value": 231.44,
+    "valueMainUnit": "231",
+    "valueFractionalUnit": "44",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-04T13:10:00",
+   "arrivalDate": "2026-12-04T15:00:00",
+   "price": {
+    "value": 240.18,
+    "valueMainUnit": "240",
+    "valueFractionalUnit": "18",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~3409~ ~~KTW~12/04/2026 13:10~BGY~12/04/2026 15:00~~",
+   "flightNumber": "FR3409",
+   "previousPrice": null,
+   "priceUpdated": 1792419778000
+  },
+  "summary": {
+   "price": {
+    "value": 240.18,
+    "valueMainUnit": "240",
+    "valueFractionalUnit": "18",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-04T08:00:00",
+   "arrivalDate": "2026-12-04T09:25:00",
+   "price": {
+    "value": 247.07,
+    "valueMainUnit": "247",
+    "valueFractionalUnit": "07",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~5535~ ~~KTW~12/04/2026 08:00~STN~12/04/2026 09:25~~",
+   "flightNumber": "FR5535",
+   "previousPrice": null,
+   "priceUpdated": 1792405494000
+  },
+  "summary": {
+   "price": {
+    "value": 247.07,
+    "valueMainUnit": "247",
+    "valueFractionalUnit": "07",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": false
   }
  },
  {
@@ -2338,22 +2338,22 @@
    "departureDate": "2026-12-07T20:45:00",
    "arrivalDate": "2026-12-08T00:05:00",
    "price": {
-    "value": 297.32,
-    "valueMainUnit": "297",
-    "valueFractionalUnit": "32",
+    "value": 288.22,
+    "valueMainUnit": "288",
+    "valueFractionalUnit": "22",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~3596~ ~~KTW~12/07/2026 20:45~ALC~12/08/2026 00:05~~",
    "flightNumber": "FR3596",
    "previousPrice": null,
-   "priceUpdated": 1791800559000
+   "priceUpdated": 1792419314000
   },
   "summary": {
    "price": {
-    "value": 297.32,
-    "valueMainUnit": "297",
-    "valueFractionalUnit": "32",
+    "value": 288.22,
+    "valueMainUnit": "288",
+    "valueFractionalUnit": "22",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -2388,22 +2388,73 @@
    "departureDate": "2026-12-06T17:30:00",
    "arrivalDate": "2026-12-06T19:10:00",
    "price": {
-    "value": 416.88,
-    "valueMainUnit": "416",
-    "valueFractionalUnit": "88",
+    "value": 476.0,
+    "valueMainUnit": "476",
+    "valueFractionalUnit": "00",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~6403~ ~~KTW~12/06/2026 17:30~MAN~12/06/2026 19:10~~",
    "flightNumber": "FR6403",
    "previousPrice": null,
-   "priceUpdated": 1791800556000
+   "priceUpdated": 1792405428000
   },
   "summary": {
    "price": {
-    "value": 416.88,
-    "valueMainUnit": "416",
-    "valueFractionalUnit": "88",
+    "value": 476.0,
+    "valueMainUnit": "476",
+    "valueFractionalUnit": "00",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-13T22:20:00",
+   "arrivalDate": "2026-12-13T23:45:00",
+   "price": {
+    "value": 65.0,
+    "valueMainUnit": "65",
+    "valueFractionalUnit": "00",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~5535~ ~~KTW~12/13/2026 22:20~STN~12/13/2026 23:45~~",
+   "flightNumber": "FR5535",
+   "previousPrice": null,
+   "priceUpdated": 1792434037000
+  },
+  "summary": {
+   "price": {
+    "value": 65.0,
+    "valueMainUnit": "65",
+    "valueFractionalUnit": "00",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -2448,7 +2499,7 @@
    "flightKey": "FR~2472~ ~~KTW~12/15/2026 19:45~STN~12/15/2026 21:10~~",
    "flightNumber": "FR2472",
    "previousPrice": null,
-   "priceUpdated": 1791800561000
+   "priceUpdated": 1792434004000
   },
   "summary": {
    "price": {
@@ -2499,7 +2550,7 @@
    "flightKey": "FR~5535~ ~~KTW~12/16/2026 08:25~STN~12/16/2026 09:50~~",
    "flightNumber": "FR5535",
    "previousPrice": null,
-   "priceUpdated": 1791800558000
+   "priceUpdated": 1792434009000
   },
   "summary": {
    "price": {
@@ -2550,7 +2601,7 @@
    "flightKey": "FR~5535~ ~~KTW~12/17/2026 14:50~STN~12/17/2026 16:15~~",
    "flightNumber": "FR5535",
    "previousPrice": null,
-   "priceUpdated": 1791800556000
+   "priceUpdated": 1792434008000
   },
   "summary": {
    "price": {
@@ -2591,22 +2642,22 @@
    "departureDate": "2026-12-14T14:05:00",
    "arrivalDate": "2026-12-14T15:55:00",
    "price": {
-    "value": 65.44,
+    "value": 65.0,
     "valueMainUnit": "65",
-    "valueFractionalUnit": "44",
+    "valueFractionalUnit": "00",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~3409~ ~~KTW~12/14/2026 14:05~BGY~12/14/2026 15:55~~",
    "flightNumber": "FR3409",
    "previousPrice": null,
-   "priceUpdated": 1791802486000
+   "priceUpdated": 1792434009000
   },
   "summary": {
    "price": {
-    "value": 65.44,
+    "value": 65.0,
     "valueMainUnit": "65",
-    "valueFractionalUnit": "44",
+    "valueFractionalUnit": "00",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -2642,123 +2693,22 @@
    "departureDate": "2026-12-14T20:25:00",
    "arrivalDate": "2026-12-14T21:50:00",
    "price": {
-    "value": 65.55,
+    "value": 65.47,
     "valueMainUnit": "65",
-    "valueFractionalUnit": "55",
+    "valueFractionalUnit": "47",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~2472~ ~~KTW~12/14/2026 20:25~STN~12/14/2026 21:50~~",
    "flightNumber": "FR2472",
    "previousPrice": null,
-   "priceUpdated": 1791800558000
+   "priceUpdated": 1792437110000
   },
   "summary": {
    "price": {
-    "value": 65.55,
+    "value": 65.47,
     "valueMainUnit": "65",
-    "valueFractionalUnit": "55",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "FCO",
-    "name": "Rome Fiumicino",
-    "seoName": "rome-fiumicino",
-    "city": {
-     "code": "ROME",
-     "countryCode": "it",
-     "macCode": "ROM",
-     "name": "Rome"
-    }
-   },
-   "departureDate": "2026-12-17T09:05:00",
-   "arrivalDate": "2026-12-17T11:15:00",
-   "price": {
-    "value": 78.67,
-    "valueMainUnit": "78",
-    "valueFractionalUnit": "67",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~4113~ ~~KTW~12/17/2026 09:05~FCO~12/17/2026 11:15~~",
-   "flightNumber": "FR4113",
-   "previousPrice": null,
-   "priceUpdated": 1791800558000
-  },
-  "summary": {
-   "price": {
-    "value": 78.67,
-    "valueMainUnit": "78",
-    "valueFractionalUnit": "67",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-14T20:45:00",
-   "arrivalDate": "2026-12-15T00:05:00",
-   "price": {
-    "value": 83.04,
-    "valueMainUnit": "83",
-    "valueFractionalUnit": "04",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~3596~ ~~KTW~12/14/2026 20:45~ALC~12/15/2026 00:05~~",
-   "flightNumber": "FR3596",
-   "previousPrice": null,
-   "priceUpdated": 1791800557000
-  },
-  "summary": {
-   "price": {
-    "value": 83.04,
-    "valueMainUnit": "83",
-    "valueFractionalUnit": "04",
+    "valueFractionalUnit": "47",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -2794,22 +2744,122 @@
    "departureDate": "2026-12-18T08:00:00",
    "arrivalDate": "2026-12-18T09:25:00",
    "price": {
-    "value": 83.13,
-    "valueMainUnit": "83",
-    "valueFractionalUnit": "13",
+    "value": 70.5,
+    "valueMainUnit": "70",
+    "valueFractionalUnit": "50",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~5535~ ~~KTW~12/18/2026 08:00~STN~12/18/2026 09:25~~",
    "flightNumber": "FR5535",
    "previousPrice": null,
-   "priceUpdated": 1791800559000
+   "priceUpdated": 1792434038000
   },
   "summary": {
    "price": {
-    "value": 83.13,
-    "valueMainUnit": "83",
-    "valueFractionalUnit": "13",
+    "value": 70.5,
+    "valueMainUnit": "70",
+    "valueFractionalUnit": "50",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-14T20:45:00",
+   "arrivalDate": "2026-12-15T00:05:00",
+   "price": {
+    "value": 82.94,
+    "valueMainUnit": "82",
+    "valueFractionalUnit": "94",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~3596~ ~~KTW~12/14/2026 20:45~ALC~12/15/2026 00:05~~",
+   "flightNumber": "FR3596",
+   "previousPrice": null,
+   "priceUpdated": 1792434006000
+  },
+  "summary": {
+   "price": {
+    "value": 82.94,
+    "valueMainUnit": "82",
+    "valueFractionalUnit": "94",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-13T12:55:00",
+   "arrivalDate": "2026-12-13T14:45:00",
+   "price": {
+    "value": 84.49,
+    "valueMainUnit": "84",
+    "valueFractionalUnit": "49",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~3409~ ~~KTW~12/13/2026 12:55~BGY~12/13/2026 14:45~~",
+   "flightNumber": "FR3409",
+   "previousPrice": null,
+   "priceUpdated": 1792405433000
+  },
+  "summary": {
+   "price": {
+    "value": 84.49,
+    "valueMainUnit": "84",
+    "valueFractionalUnit": "49",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -2845,22 +2895,22 @@
    "departureDate": "2026-12-19T22:05:00",
    "arrivalDate": "2026-12-19T23:30:00",
    "price": {
-    "value": 87.53,
+    "value": 87.31,
     "valueMainUnit": "87",
-    "valueFractionalUnit": "53",
+    "valueFractionalUnit": "31",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~5535~ ~~KTW~12/19/2026 22:05~STN~12/19/2026 23:30~~",
    "flightNumber": "FR5535",
    "previousPrice": null,
-   "priceUpdated": 1791802357000
+   "priceUpdated": 1792419522000
   },
   "summary": {
    "price": {
-    "value": 87.53,
+    "value": 87.31,
     "valueMainUnit": "87",
-    "valueFractionalUnit": "53",
+    "valueFractionalUnit": "31",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -2892,25 +2942,25 @@
      "name": "Paphos"
     }
    },
-   "departureDate": "2026-12-12T15:15:00",
-   "arrivalDate": "2026-12-12T19:25:00",
+   "departureDate": "2026-12-14T06:20:00",
+   "arrivalDate": "2026-12-14T10:30:00",
    "price": {
-    "value": 87.53,
-    "valueMainUnit": "87",
-    "valueFractionalUnit": "53",
+    "value": 95.0,
+    "valueMainUnit": "95",
+    "valueFractionalUnit": "00",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~6393~ ~~KTW~12/12/2026 15:15~PFO~12/12/2026 19:25~~",
+   "flightKey": "FR~6393~ ~~KTW~12/14/2026 06:20~PFO~12/14/2026 10:30~~",
    "flightNumber": "FR6393",
    "previousPrice": null,
-   "priceUpdated": 1791803351000
+   "priceUpdated": 1792434039000
   },
   "summary": {
    "price": {
-    "value": 87.53,
-    "valueMainUnit": "87",
-    "valueFractionalUnit": "53",
+    "value": 95.0,
+    "valueMainUnit": "95",
+    "valueFractionalUnit": "00",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -2932,41 +2982,40 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
+    "countryName": "Italy",
+    "iataCode": "TRN",
+    "name": "Turin",
+    "seoName": "turin",
     "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
+     "code": "TURIN",
+     "countryCode": "it",
+     "name": "Turin"
     }
    },
-   "departureDate": "2026-12-13T22:20:00",
-   "arrivalDate": "2026-12-13T23:45:00",
+   "departureDate": "2026-12-19T18:25:00",
+   "arrivalDate": "2026-12-19T20:20:00",
    "price": {
-    "value": 91.31,
-    "valueMainUnit": "91",
-    "valueFractionalUnit": "31",
+    "value": 100.41,
+    "valueMainUnit": "100",
+    "valueFractionalUnit": "41",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~5535~ ~~KTW~12/13/2026 22:20~STN~12/13/2026 23:45~~",
-   "flightNumber": "FR5535",
+   "flightKey": "FR~3611~ ~~KTW~12/19/2026 18:25~TRN~12/19/2026 20:20~~",
+   "flightNumber": "FR3611",
    "previousPrice": null,
-   "priceUpdated": 1791800564000
+   "priceUpdated": 1792419873000
   },
   "summary": {
    "price": {
-    "value": 91.31,
-    "valueMainUnit": "91",
-    "valueFractionalUnit": "31",
+    "value": 100.41,
+    "valueMainUnit": "100",
+    "valueFractionalUnit": "41",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "previousPrice": null,
-   "newRoute": false
+   "newRoute": true
   }
  },
  {
@@ -2983,35 +3032,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
+    "countryName": "Italy",
+    "iataCode": "CTA",
+    "name": "Catania",
+    "seoName": "catania",
     "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
+     "code": "CATANIA",
+     "countryCode": "it",
+     "name": "Catania"
     }
    },
-   "departureDate": "2026-12-12T12:35:00",
-   "arrivalDate": "2026-12-12T16:05:00",
+   "departureDate": "2026-12-18T14:00:00",
+   "arrivalDate": "2026-12-18T16:35:00",
    "price": {
-    "value": 91.79,
-    "valueMainUnit": "91",
-    "valueFractionalUnit": "79",
+    "value": 104.78,
+    "valueMainUnit": "104",
+    "valueFractionalUnit": "78",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~2615~ ~~KTW~12/12/2026 12:35~ATH~12/12/2026 16:05~~",
-   "flightNumber": "FR2615",
+   "flightKey": "FR~6373~ ~~KTW~12/18/2026 14:00~CTA~12/18/2026 16:35~~",
+   "flightNumber": "FR6373",
    "previousPrice": null,
-   "priceUpdated": 1791802766000
+   "priceUpdated": 1792434013000
   },
   "summary": {
    "price": {
-    "value": 91.79,
-    "valueMainUnit": "91",
-    "valueFractionalUnit": "79",
+    "value": 104.78,
+    "valueMainUnit": "104",
+    "valueFractionalUnit": "78",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -3047,122 +3096,22 @@
    "departureDate": "2026-12-12T22:05:00",
    "arrivalDate": "2026-12-12T23:30:00",
    "price": {
-    "value": 91.79,
-    "valueMainUnit": "91",
-    "valueFractionalUnit": "79",
+    "value": 104.78,
+    "valueMainUnit": "104",
+    "valueFractionalUnit": "78",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~5535~ ~~KTW~12/12/2026 22:05~STN~12/12/2026 23:30~~",
    "flightNumber": "FR5535",
    "previousPrice": null,
-   "priceUpdated": 1791800562000
+   "priceUpdated": 1792436764000
   },
   "summary": {
    "price": {
-    "value": 91.79,
-    "valueMainUnit": "91",
-    "valueFractionalUnit": "79",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
-    "city": {
-     "code": "MALAGA",
-     "countryCode": "es",
-     "name": "Malaga"
-    }
-   },
-   "departureDate": "2026-12-14T07:15:00",
-   "arrivalDate": "2026-12-14T11:05:00",
-   "price": {
-    "value": 95.0,
-    "valueMainUnit": "95",
-    "valueFractionalUnit": "00",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~7012~ ~~KTW~12/14/2026 07:15~AGP~12/14/2026 11:05~~",
-   "flightNumber": "FR7012",
-   "previousPrice": null,
-   "priceUpdated": 1791800560000
-  },
-  "summary": {
-   "price": {
-    "value": 95.0,
-    "valueMainUnit": "95",
-    "valueFractionalUnit": "00",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Cyprus",
-    "iataCode": "PFO",
-    "name": "Paphos",
-    "seoName": "paphos",
-    "city": {
-     "code": "PAPHOS",
-     "countryCode": "cy",
-     "name": "Paphos"
-    }
-   },
-   "departureDate": "2026-12-14T06:20:00",
-   "arrivalDate": "2026-12-14T10:30:00",
-   "price": {
-    "value": 100.25,
-    "valueMainUnit": "100",
-    "valueFractionalUnit": "25",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~6393~ ~~KTW~12/14/2026 06:20~PFO~12/14/2026 10:30~~",
-   "flightNumber": "FR6393",
-   "previousPrice": null,
-   "priceUpdated": 1791800558000
-  },
-  "summary": {
-   "price": {
-    "value": 100.25,
-    "valueMainUnit": "100",
-    "valueFractionalUnit": "25",
+    "value": 104.78,
+    "valueMainUnit": "104",
+    "valueFractionalUnit": "78",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -3185,139 +3134,40 @@
    },
    "arrivalAirport": {
     "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
+    "iataCode": "FCO",
+    "name": "Rome Fiumicino",
+    "seoName": "rome-fiumicino",
     "city": {
-     "code": "BERGAMO",
+     "code": "ROME",
      "countryCode": "it",
-     "name": "Bergamo"
+     "macCode": "ROM",
+     "name": "Rome"
     }
    },
-   "departureDate": "2026-12-13T12:55:00",
-   "arrivalDate": "2026-12-13T14:45:00",
+   "departureDate": "2026-12-17T09:05:00",
+   "arrivalDate": "2026-12-17T11:15:00",
    "price": {
-    "value": 111.82,
-    "valueMainUnit": "111",
-    "valueFractionalUnit": "82",
+    "value": 104.78,
+    "valueMainUnit": "104",
+    "valueFractionalUnit": "78",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~3409~ ~~KTW~12/13/2026 12:55~BGY~12/13/2026 14:45~~",
-   "flightNumber": "FR3409",
+   "flightKey": "FR~4113~ ~~KTW~12/17/2026 09:05~FCO~12/17/2026 11:15~~",
+   "flightNumber": "FR4113",
    "previousPrice": null,
-   "priceUpdated": 1791800561000
+   "priceUpdated": 1792431511000
   },
   "summary": {
    "price": {
-    "value": 111.82,
-    "valueMainUnit": "111",
-    "valueFractionalUnit": "82",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Malta",
-    "iataCode": "MLA",
-    "name": "Malta",
-    "seoName": "malta",
-    "city": {
-     "code": "MALTA",
-     "countryCode": "mt",
-     "name": "Malta"
-    }
-   },
-   "departureDate": "2026-12-18T15:30:00",
-   "arrivalDate": "2026-12-18T18:20:00",
-   "price": {
-    "value": 113.81,
-    "valueMainUnit": "113",
-    "valueFractionalUnit": "81",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~1251~ ~~KTW~12/18/2026 15:30~MLA~12/18/2026 18:20~~",
-   "flightNumber": "FR1251",
-   "previousPrice": null,
-   "priceUpdated": 1791802358000
-  },
-  "summary": {
-   "price": {
-    "value": 113.81,
-    "valueMainUnit": "113",
-    "valueFractionalUnit": "81",
+    "value": 104.78,
+    "valueMainUnit": "104",
+    "valueFractionalUnit": "78",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "previousPrice": null,
    "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-18T13:10:00",
-   "arrivalDate": "2026-12-18T15:00:00",
-   "price": {
-    "value": 116.03,
-    "valueMainUnit": "116",
-    "valueFractionalUnit": "03",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~3409~ ~~KTW~12/18/2026 13:10~BGY~12/18/2026 15:00~~",
-   "flightNumber": "FR3409",
-   "previousPrice": null,
-   "priceUpdated": 1791800557000
-  },
-  "summary": {
-   "price": {
-    "value": 116.03,
-    "valueMainUnit": "116",
-    "valueFractionalUnit": "03",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": false
   }
  },
  {
@@ -3347,22 +3197,22 @@
    "departureDate": "2026-12-17T08:15:00",
    "arrivalDate": "2026-12-17T10:50:00",
    "price": {
-    "value": 117.49,
-    "valueMainUnit": "117",
-    "valueFractionalUnit": "49",
+    "value": 108.0,
+    "valueMainUnit": "108",
+    "valueFractionalUnit": "00",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~6373~ ~~KTW~12/17/2026 08:15~CTA~12/17/2026 10:50~~",
    "flightNumber": "FR6373",
    "previousPrice": null,
-   "priceUpdated": 1791800560000
+   "priceUpdated": 1792434038000
   },
   "summary": {
    "price": {
-    "value": 117.49,
-    "valueMainUnit": "117",
-    "valueFractionalUnit": "49",
+    "value": 108.0,
+    "valueMainUnit": "108",
+    "valueFractionalUnit": "00",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -3385,39 +3235,90 @@
    },
    "arrivalAirport": {
     "countryName": "Italy",
-    "iataCode": "CTA",
-    "name": "Catania",
-    "seoName": "catania",
+    "iataCode": "NAP",
+    "name": "Naples",
+    "seoName": "naples",
     "city": {
-     "code": "CATANIA",
+     "code": "NAPLES",
      "countryCode": "it",
-     "name": "Catania"
+     "name": "Naples"
     }
    },
-   "departureDate": "2026-12-18T18:00:00",
-   "arrivalDate": "2026-12-18T20:35:00",
+   "departureDate": "2026-12-17T08:30:00",
+   "arrivalDate": "2026-12-17T10:35:00",
    "price": {
-    "value": 118.19,
-    "valueMainUnit": "118",
-    "valueFractionalUnit": "19",
+    "value": 113.52,
+    "valueMainUnit": "113",
+    "valueFractionalUnit": "52",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~6377~ ~~KTW~12/18/2026 18:00~CTA~12/18/2026 20:35~~",
-   "flightNumber": "FR6377",
+   "flightKey": "FR~3148~ ~~KTW~12/17/2026 08:30~NAP~12/17/2026 10:35~~",
+   "flightNumber": "FR3148",
    "previousPrice": null,
-   "priceUpdated": 1791802359000
+   "priceUpdated": 1792420657000
   },
   "summary": {
    "price": {
-    "value": 118.19,
-    "valueMainUnit": "118",
-    "valueFractionalUnit": "19",
+    "value": 113.52,
+    "valueMainUnit": "113",
+    "valueFractionalUnit": "52",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "previousPrice": null,
-   "newRoute": false
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "FCO",
+    "name": "Rome Fiumicino",
+    "seoName": "rome-fiumicino",
+    "city": {
+     "code": "ROME",
+     "countryCode": "it",
+     "macCode": "ROM",
+     "name": "Rome"
+    }
+   },
+   "departureDate": "2026-12-13T11:45:00",
+   "arrivalDate": "2026-12-13T13:55:00",
+   "price": {
+    "value": 117.88,
+    "valueMainUnit": "117",
+    "valueFractionalUnit": "88",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~4113~ ~~KTW~12/13/2026 11:45~FCO~12/13/2026 13:55~~",
+   "flightNumber": "FR4113",
+   "previousPrice": null,
+   "priceUpdated": 1792436784000
+  },
+  "summary": {
+   "price": {
+    "value": 117.88,
+    "valueMainUnit": "117",
+    "valueFractionalUnit": "88",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": true
   }
  },
  {
@@ -3456,7 +3357,7 @@
    "flightKey": "FR~1251~ ~~KTW~12/12/2026 14:00~MLA~12/12/2026 16:50~~",
    "flightNumber": "FR1251",
    "previousPrice": null,
-   "priceUpdated": 1791800563000
+   "priceUpdated": 1792405434000
   },
   "summary": {
    "price": {
@@ -3506,7 +3407,7 @@
    "flightKey": "FR~1251~ ~~KTW~12/13/2026 07:15~MLA~12/13/2026 10:05~~",
    "flightNumber": "FR1251",
    "previousPrice": null,
-   "priceUpdated": 1791800560000
+   "priceUpdated": 1792405436000
   },
   "summary": {
    "price": {
@@ -3556,7 +3457,7 @@
    "flightKey": "FR~1251~ ~~KTW~12/17/2026 14:25~MLA~12/17/2026 17:15~~",
    "flightNumber": "FR1251",
    "previousPrice": null,
-   "priceUpdated": 1791800557000
+   "priceUpdated": 1792405462000
   },
   "summary": {
    "price": {
@@ -3585,39 +3486,39 @@
    },
    "arrivalAirport": {
     "countryName": "Italy",
-    "iataCode": "CTA",
-    "name": "Catania",
-    "seoName": "catania",
+    "iataCode": "NAP",
+    "name": "Naples",
+    "seoName": "naples",
     "city": {
-     "code": "CATANIA",
+     "code": "NAPLES",
      "countryCode": "it",
-     "name": "Catania"
+     "name": "Naples"
     }
    },
-   "departureDate": "2026-12-19T06:15:00",
-   "arrivalDate": "2026-12-19T08:50:00",
+   "departureDate": "2026-12-14T12:50:00",
+   "arrivalDate": "2026-12-14T14:55:00",
    "price": {
-    "value": 122.57,
-    "valueMainUnit": "122",
-    "valueFractionalUnit": "57",
+    "value": 121.2,
+    "valueMainUnit": "121",
+    "valueFractionalUnit": "20",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~6373~ ~~KTW~12/19/2026 06:15~CTA~12/19/2026 08:50~~",
-   "flightNumber": "FR6373",
+   "flightKey": "FR~3148~ ~~KTW~12/14/2026 12:50~NAP~12/14/2026 14:55~~",
+   "flightNumber": "FR3148",
    "previousPrice": null,
-   "priceUpdated": 1791802357000
+   "priceUpdated": 1792441900000
   },
   "summary": {
    "price": {
-    "value": 122.57,
-    "valueMainUnit": "122",
-    "valueFractionalUnit": "57",
+    "value": 121.2,
+    "valueMainUnit": "121",
+    "valueFractionalUnit": "20",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "previousPrice": null,
-   "newRoute": false
+   "newRoute": true
   }
  },
  {
@@ -3634,40 +3535,40 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
+    "countryName": "Italy",
+    "iataCode": "NAP",
+    "name": "Naples",
+    "seoName": "naples",
     "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
+     "code": "NAPLES",
+     "countryCode": "it",
+     "name": "Naples"
     }
    },
-   "departureDate": "2026-12-13T17:45:00",
-   "arrivalDate": "2026-12-13T21:05:00",
+   "departureDate": "2026-12-18T18:20:00",
+   "arrivalDate": "2026-12-18T20:25:00",
    "price": {
-    "value": 124.7,
-    "valueMainUnit": "124",
-    "valueFractionalUnit": "70",
+    "value": 121.2,
+    "valueMainUnit": "121",
+    "valueFractionalUnit": "20",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~3596~ ~~KTW~12/13/2026 17:45~ALC~12/13/2026 21:05~~",
-   "flightNumber": "FR3596",
+   "flightKey": "FR~3148~ ~~KTW~12/18/2026 18:20~NAP~12/18/2026 20:25~~",
+   "flightNumber": "FR3148",
    "previousPrice": null,
-   "priceUpdated": 1791800562000
+   "priceUpdated": 1792405460000
   },
   "summary": {
    "price": {
-    "value": 124.7,
-    "valueMainUnit": "124",
-    "valueFractionalUnit": "70",
+    "value": 121.2,
+    "valueMainUnit": "121",
+    "valueFractionalUnit": "20",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "previousPrice": null,
-   "newRoute": false
+   "newRoute": true
   }
  },
  {
@@ -3694,25 +3595,25 @@
      "name": "Athens"
     }
    },
-   "departureDate": "2026-12-19T12:35:00",
-   "arrivalDate": "2026-12-19T16:05:00",
+   "departureDate": "2026-12-14T18:30:00",
+   "arrivalDate": "2026-12-14T22:00:00",
    "price": {
-    "value": 125.68,
-    "valueMainUnit": "125",
-    "valueFractionalUnit": "68",
+    "value": 123.38,
+    "valueMainUnit": "123",
+    "valueFractionalUnit": "38",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~2615~ ~~KTW~12/19/2026 12:35~ATH~12/19/2026 16:05~~",
+   "flightKey": "FR~2615~ ~~KTW~12/14/2026 18:30~ATH~12/14/2026 22:00~~",
    "flightNumber": "FR2615",
    "previousPrice": null,
-   "priceUpdated": 1791801458000
+   "priceUpdated": 1792438622000
   },
   "summary": {
    "price": {
-    "value": 125.68,
-    "valueMainUnit": "125",
-    "valueFractionalUnit": "68",
+    "value": 123.38,
+    "valueMainUnit": "123",
+    "valueFractionalUnit": "38",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -3744,25 +3645,25 @@
      "name": "Paphos"
     }
    },
-   "departureDate": "2026-12-19T15:15:00",
-   "arrivalDate": "2026-12-19T19:25:00",
+   "departureDate": "2026-12-12T15:15:00",
+   "arrivalDate": "2026-12-12T19:25:00",
    "price": {
-    "value": 126.94,
+    "value": 126.62,
     "valueMainUnit": "126",
-    "valueFractionalUnit": "94",
+    "valueFractionalUnit": "62",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~6393~ ~~KTW~12/19/2026 15:15~PFO~12/19/2026 19:25~~",
+   "flightKey": "FR~6393~ ~~KTW~12/12/2026 15:15~PFO~12/12/2026 19:25~~",
    "flightNumber": "FR6393",
    "previousPrice": null,
-   "priceUpdated": 1791802357000
+   "priceUpdated": 1792436763000
   },
   "summary": {
    "price": {
-    "value": 126.94,
+    "value": 126.62,
     "valueMainUnit": "126",
-    "valueFractionalUnit": "94",
+    "valueFractionalUnit": "62",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -3795,327 +3696,25 @@
      "name": "Rome"
     }
    },
-   "departureDate": "2026-12-13T11:45:00",
-   "arrivalDate": "2026-12-13T13:55:00",
-   "price": {
-    "value": 135.7,
-    "valueMainUnit": "135",
-    "valueFractionalUnit": "70",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~4113~ ~~KTW~12/13/2026 11:45~FCO~12/13/2026 13:55~~",
-   "flightNumber": "FR4113",
-   "previousPrice": null,
-   "priceUpdated": 1791803376000
-  },
-  "summary": {
-   "price": {
-    "value": 135.7,
-    "valueMainUnit": "135",
-    "valueFractionalUnit": "70",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRN",
-    "name": "Turin",
-    "seoName": "turin",
-    "city": {
-     "code": "TURIN",
-     "countryCode": "it",
-     "name": "Turin"
-    }
-   },
-   "departureDate": "2026-12-19T18:25:00",
-   "arrivalDate": "2026-12-19T20:20:00",
-   "price": {
-    "value": 135.7,
-    "valueMainUnit": "135",
-    "valueFractionalUnit": "70",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~3611~ ~~KTW~12/19/2026 18:25~TRN~12/19/2026 20:20~~",
-   "flightNumber": "FR3611",
-   "previousPrice": null,
-   "priceUpdated": 1791802361000
-  },
-  "summary": {
-   "price": {
-    "value": 135.7,
-    "valueMainUnit": "135",
-    "valueFractionalUnit": "70",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "NAP",
-    "name": "Naples",
-    "seoName": "naples",
-    "city": {
-     "code": "NAPLES",
-     "countryCode": "it",
-     "name": "Naples"
-    }
-   },
-   "departureDate": "2026-12-13T06:45:00",
-   "arrivalDate": "2026-12-13T08:50:00",
-   "price": {
-    "value": 139.89,
-    "valueMainUnit": "139",
-    "valueFractionalUnit": "89",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~3148~ ~~KTW~12/13/2026 06:45~NAP~12/13/2026 08:50~~",
-   "flightNumber": "FR3148",
-   "previousPrice": null,
-   "priceUpdated": 1791800559000
-  },
-  "summary": {
-   "price": {
-    "value": 139.89,
-    "valueMainUnit": "139",
-    "valueFractionalUnit": "89",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "NAP",
-    "name": "Naples",
-    "seoName": "naples",
-    "city": {
-     "code": "NAPLES",
-     "countryCode": "it",
-     "name": "Naples"
-    }
-   },
-   "departureDate": "2026-12-17T08:30:00",
-   "arrivalDate": "2026-12-17T10:35:00",
-   "price": {
-    "value": 139.89,
-    "valueMainUnit": "139",
-    "valueFractionalUnit": "89",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~3148~ ~~KTW~12/17/2026 08:30~NAP~12/17/2026 10:35~~",
-   "flightNumber": "FR3148",
-   "previousPrice": null,
-   "priceUpdated": 1791800557000
-  },
-  "summary": {
-   "price": {
-    "value": 139.89,
-    "valueMainUnit": "139",
-    "valueFractionalUnit": "89",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "FCO",
-    "name": "Rome Fiumicino",
-    "seoName": "rome-fiumicino",
-    "city": {
-     "code": "ROME",
-     "countryCode": "it",
-     "macCode": "ROM",
-     "name": "Rome"
-    }
-   },
-   "departureDate": "2026-12-14T17:50:00",
-   "arrivalDate": "2026-12-14T20:00:00",
-   "price": {
-    "value": 139.89,
-    "valueMainUnit": "139",
-    "valueFractionalUnit": "89",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~4113~ ~~KTW~12/14/2026 17:50~FCO~12/14/2026 20:00~~",
-   "flightNumber": "FR4113",
-   "previousPrice": null,
-   "priceUpdated": 1791800561000
-  },
-  "summary": {
-   "price": {
-    "value": 139.89,
-    "valueMainUnit": "139",
-    "valueFractionalUnit": "89",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Malta",
-    "iataCode": "MLA",
-    "name": "Malta",
-    "seoName": "malta",
-    "city": {
-     "code": "MALTA",
-     "countryCode": "mt",
-     "name": "Malta"
-    }
-   },
-   "departureDate": "2026-12-19T14:00:00",
-   "arrivalDate": "2026-12-19T16:50:00",
-   "price": {
-    "value": 150.42,
-    "valueMainUnit": "150",
-    "valueFractionalUnit": "42",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~1251~ ~~KTW~12/19/2026 14:00~MLA~12/19/2026 16:50~~",
-   "flightNumber": "FR1251",
-   "previousPrice": null,
-   "priceUpdated": 1791800556000
-  },
-  "summary": {
-   "price": {
-    "value": 150.42,
-    "valueMainUnit": "150",
-    "valueFractionalUnit": "42",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "FCO",
-    "name": "Rome Fiumicino",
-    "seoName": "rome-fiumicino",
-    "city": {
-     "code": "ROME",
-     "countryCode": "it",
-     "macCode": "ROM",
-     "name": "Rome"
-    }
-   },
    "departureDate": "2026-12-18T13:00:00",
    "arrivalDate": "2026-12-18T15:10:00",
    "price": {
-    "value": 153.22,
-    "valueMainUnit": "153",
-    "valueFractionalUnit": "22",
+    "value": 126.62,
+    "valueMainUnit": "126",
+    "valueFractionalUnit": "62",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~4113~ ~~KTW~12/18/2026 13:00~FCO~12/18/2026 15:10~~",
    "flightNumber": "FR4113",
    "previousPrice": null,
-   "priceUpdated": 1791802359000
+   "priceUpdated": 1792419776000
   },
   "summary": {
    "price": {
-    "value": 153.22,
-    "valueMainUnit": "153",
-    "valueFractionalUnit": "22",
+    "value": 126.62,
+    "valueMainUnit": "126",
+    "valueFractionalUnit": "62",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -4147,130 +3746,30 @@
      "name": "Malaga"
     }
    },
-   "departureDate": "2026-12-12T14:10:00",
-   "arrivalDate": "2026-12-12T18:00:00",
+   "departureDate": "2026-12-14T07:15:00",
+   "arrivalDate": "2026-12-14T11:05:00",
    "price": {
-    "value": 156.23,
-    "valueMainUnit": "156",
-    "valueFractionalUnit": "23",
+    "value": 129.2,
+    "valueMainUnit": "129",
+    "valueFractionalUnit": "20",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~7012~ ~~KTW~12/12/2026 14:10~AGP~12/12/2026 18:00~~",
+   "flightKey": "FR~7012~ ~~KTW~12/14/2026 07:15~AGP~12/14/2026 11:05~~",
    "flightNumber": "FR7012",
    "previousPrice": null,
-   "priceUpdated": 1791800560000
+   "priceUpdated": 1792405458000
   },
   "summary": {
    "price": {
-    "value": 156.23,
-    "valueMainUnit": "156",
-    "valueFractionalUnit": "23",
+    "value": 129.2,
+    "valueMainUnit": "129",
+    "valueFractionalUnit": "20",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "previousPrice": null,
    "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-18T21:10:00",
-   "arrivalDate": "2026-12-19T00:30:00",
-   "price": {
-    "value": 161.98,
-    "valueMainUnit": "161",
-    "valueFractionalUnit": "98",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~3596~ ~~KTW~12/18/2026 21:10~ALC~12/19/2026 00:30~~",
-   "flightNumber": "FR3596",
-   "previousPrice": null,
-   "priceUpdated": 1791802357000
-  },
-  "summary": {
-   "price": {
-    "value": 161.98,
-    "valueMainUnit": "161",
-    "valueFractionalUnit": "98",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-17T14:45:00",
-   "arrivalDate": "2026-12-17T18:05:00",
-   "price": {
-    "value": 166.13,
-    "valueMainUnit": "166",
-    "valueFractionalUnit": "13",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~3596~ ~~KTW~12/17/2026 14:45~ALC~12/17/2026 18:05~~",
-   "flightNumber": "FR3596",
-   "previousPrice": null,
-   "priceUpdated": 1791800557000
-  },
-  "summary": {
-   "price": {
-    "value": 166.13,
-    "valueMainUnit": "166",
-    "valueFractionalUnit": "13",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": false
   }
  },
  {
@@ -4300,22 +3799,22 @@
    "departureDate": "2026-12-13T16:10:00",
    "arrivalDate": "2026-12-13T18:45:00",
    "price": {
-    "value": 166.13,
-    "valueMainUnit": "166",
-    "valueFractionalUnit": "13",
+    "value": 130.99,
+    "valueMainUnit": "130",
+    "valueFractionalUnit": "99",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~6377~ ~~KTW~12/13/2026 16:10~CTA~12/13/2026 18:45~~",
    "flightNumber": "FR6377",
    "previousPrice": null,
-   "priceUpdated": 1791800559000
+   "priceUpdated": 1792419883000
   },
   "summary": {
    "price": {
-    "value": 166.13,
-    "valueMainUnit": "166",
-    "valueFractionalUnit": "13",
+    "value": 130.99,
+    "valueMainUnit": "130",
+    "valueFractionalUnit": "99",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -4347,30 +3846,80 @@
      "name": "Naples"
     }
    },
-   "departureDate": "2026-12-14T12:50:00",
-   "arrivalDate": "2026-12-14T14:55:00",
+   "departureDate": "2026-12-13T06:45:00",
+   "arrivalDate": "2026-12-13T08:50:00",
    "price": {
-    "value": 174.78,
-    "valueMainUnit": "174",
-    "valueFractionalUnit": "78",
+    "value": 135.36,
+    "valueMainUnit": "135",
+    "valueFractionalUnit": "36",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~3148~ ~~KTW~12/14/2026 12:50~NAP~12/14/2026 14:55~~",
+   "flightKey": "FR~3148~ ~~KTW~12/13/2026 06:45~NAP~12/13/2026 08:50~~",
    "flightNumber": "FR3148",
    "previousPrice": null,
-   "priceUpdated": 1791800558000
+   "priceUpdated": 1792419880000
   },
   "summary": {
    "price": {
-    "value": 174.78,
-    "valueMainUnit": "174",
-    "valueFractionalUnit": "78",
+    "value": 135.36,
+    "valueMainUnit": "135",
+    "valueFractionalUnit": "36",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "previousPrice": null,
    "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Cyprus",
+    "iataCode": "PFO",
+    "name": "Paphos",
+    "seoName": "paphos",
+    "city": {
+     "code": "PAPHOS",
+     "countryCode": "cy",
+     "name": "Paphos"
+    }
+   },
+   "departureDate": "2026-12-19T15:15:00",
+   "arrivalDate": "2026-12-19T19:25:00",
+   "price": {
+    "value": 139.72,
+    "valueMainUnit": "139",
+    "valueFractionalUnit": "72",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~6393~ ~~KTW~12/19/2026 15:15~PFO~12/19/2026 19:25~~",
+   "flightNumber": "FR6393",
+   "previousPrice": null,
+   "priceUpdated": 1792435063000
+  },
+  "summary": {
+   "price": {
+    "value": 139.72,
+    "valueMainUnit": "139",
+    "valueFractionalUnit": "72",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": false
   }
  },
  {
@@ -4397,25 +3946,25 @@
      "name": "Malta"
     }
    },
-   "departureDate": "2026-12-14T09:15:00",
-   "arrivalDate": "2026-12-14T12:05:00",
+   "departureDate": "2026-12-19T14:00:00",
+   "arrivalDate": "2026-12-19T16:50:00",
    "price": {
-    "value": 174.88,
-    "valueMainUnit": "174",
-    "valueFractionalUnit": "88",
+    "value": 147.85,
+    "valueMainUnit": "147",
+    "valueFractionalUnit": "85",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~1251~ ~~KTW~12/14/2026 09:15~MLA~12/14/2026 12:05~~",
+   "flightKey": "FR~1251~ ~~KTW~12/19/2026 14:00~MLA~12/19/2026 16:50~~",
    "flightNumber": "FR1251",
    "previousPrice": null,
-   "priceUpdated": 1791800561000
+   "priceUpdated": 1792419668000
   },
   "summary": {
    "price": {
-    "value": 174.88,
-    "valueMainUnit": "174",
-    "valueFractionalUnit": "88",
+    "value": 147.85,
+    "valueMainUnit": "147",
+    "valueFractionalUnit": "85",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -4447,25 +3996,25 @@
      "name": "Athens"
     }
    },
-   "departureDate": "2026-12-18T07:20:00",
-   "arrivalDate": "2026-12-18T10:50:00",
+   "departureDate": "2026-12-12T12:35:00",
+   "arrivalDate": "2026-12-12T16:05:00",
    "price": {
-    "value": 179.25,
-    "valueMainUnit": "179",
-    "valueFractionalUnit": "25",
+    "value": 148.46,
+    "valueMainUnit": "148",
+    "valueFractionalUnit": "46",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~2615~ ~~KTW~12/18/2026 07:20~ATH~12/18/2026 10:50~~",
+   "flightKey": "FR~2615~ ~~KTW~12/12/2026 12:35~ATH~12/12/2026 16:05~~",
    "flightNumber": "FR2615",
    "previousPrice": null,
-   "priceUpdated": 1791801461000
+   "priceUpdated": 1792419879000
   },
   "summary": {
    "price": {
-    "value": 179.25,
-    "valueMainUnit": "179",
-    "valueFractionalUnit": "25",
+    "value": 148.46,
+    "valueMainUnit": "148",
+    "valueFractionalUnit": "46",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -4501,22 +4050,222 @@
    "departureDate": "2026-12-19T07:15:00",
    "arrivalDate": "2026-12-19T09:25:00",
    "price": {
-    "value": 179.49,
-    "valueMainUnit": "179",
-    "valueFractionalUnit": "49",
+    "value": 148.46,
+    "valueMainUnit": "148",
+    "valueFractionalUnit": "46",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~4113~ ~~KTW~12/19/2026 07:15~FCO~12/19/2026 09:25~~",
    "flightNumber": "FR4113",
    "previousPrice": null,
-   "priceUpdated": 1791802358000
+   "priceUpdated": 1792419777000
   },
   "summary": {
    "price": {
-    "value": 179.49,
-    "valueMainUnit": "179",
-    "valueFractionalUnit": "49",
+    "value": 148.46,
+    "valueMainUnit": "148",
+    "valueFractionalUnit": "46",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Malta",
+    "iataCode": "MLA",
+    "name": "Malta",
+    "seoName": "malta",
+    "city": {
+     "code": "MALTA",
+     "countryCode": "mt",
+     "name": "Malta"
+    }
+   },
+   "departureDate": "2026-12-14T09:15:00",
+   "arrivalDate": "2026-12-14T12:05:00",
+   "price": {
+    "value": 152.83,
+    "valueMainUnit": "152",
+    "valueFractionalUnit": "83",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~1251~ ~~KTW~12/14/2026 09:15~MLA~12/14/2026 12:05~~",
+   "flightNumber": "FR1251",
+   "previousPrice": null,
+   "priceUpdated": 1792427569000
+  },
+  "summary": {
+   "price": {
+    "value": 152.83,
+    "valueMainUnit": "152",
+    "valueFractionalUnit": "83",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-13T17:45:00",
+   "arrivalDate": "2026-12-13T21:05:00",
+   "price": {
+    "value": 154.32,
+    "valueMainUnit": "154",
+    "valueFractionalUnit": "32",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~3596~ ~~KTW~12/13/2026 17:45~ALC~12/13/2026 21:05~~",
+   "flightNumber": "FR3596",
+   "previousPrice": null,
+   "priceUpdated": 1792405434000
+  },
+  "summary": {
+   "price": {
+    "value": 154.32,
+    "valueMainUnit": "154",
+    "valueFractionalUnit": "32",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-18T13:10:00",
+   "arrivalDate": "2026-12-18T15:00:00",
+   "price": {
+    "value": 156.53,
+    "valueMainUnit": "156",
+    "valueFractionalUnit": "53",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~3409~ ~~KTW~12/18/2026 13:10~BGY~12/18/2026 15:00~~",
+   "flightNumber": "FR3409",
+   "previousPrice": null,
+   "priceUpdated": 1792405462000
+  },
+  "summary": {
+   "price": {
+    "value": 156.53,
+    "valueMainUnit": "156",
+    "valueFractionalUnit": "53",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Malta",
+    "iataCode": "MLA",
+    "name": "Malta",
+    "seoName": "malta",
+    "city": {
+     "code": "MALTA",
+     "countryCode": "mt",
+     "name": "Malta"
+    }
+   },
+   "departureDate": "2026-12-18T15:30:00",
+   "arrivalDate": "2026-12-18T18:20:00",
+   "price": {
+    "value": 157.19,
+    "valueMainUnit": "157",
+    "valueFractionalUnit": "19",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~1251~ ~~KTW~12/18/2026 15:30~MLA~12/18/2026 18:20~~",
+   "flightNumber": "FR1251",
+   "previousPrice": null,
+   "priceUpdated": 1792419777000
+  },
+  "summary": {
+   "price": {
+    "value": 157.19,
+    "valueMainUnit": "157",
+    "valueFractionalUnit": "19",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -4551,22 +4300,22 @@
    "departureDate": "2026-12-18T06:40:00",
    "arrivalDate": "2026-12-18T08:20:00",
    "price": {
-    "value": 183.87,
-    "valueMainUnit": "183",
-    "valueFractionalUnit": "87",
+    "value": 157.19,
+    "valueMainUnit": "157",
+    "valueFractionalUnit": "19",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~6403~ ~~KTW~12/18/2026 06:40~MAN~12/18/2026 08:20~~",
    "flightNumber": "FR6403",
    "previousPrice": null,
-   "priceUpdated": 1791802357000
+   "priceUpdated": 1792419448000
   },
   "summary": {
    "price": {
-    "value": 183.87,
-    "valueMainUnit": "183",
-    "valueFractionalUnit": "87",
+    "value": 157.19,
+    "valueMainUnit": "157",
+    "valueFractionalUnit": "19",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -4589,84 +4338,34 @@
    },
    "arrivalAirport": {
     "countryName": "Italy",
-    "iataCode": "NAP",
-    "name": "Naples",
-    "seoName": "naples",
+    "iataCode": "CTA",
+    "name": "Catania",
+    "seoName": "catania",
     "city": {
-     "code": "NAPLES",
+     "code": "CATANIA",
      "countryCode": "it",
-     "name": "Naples"
+     "name": "Catania"
     }
    },
-   "departureDate": "2026-12-18T18:20:00",
-   "arrivalDate": "2026-12-18T20:25:00",
+   "departureDate": "2026-12-19T06:15:00",
+   "arrivalDate": "2026-12-19T08:50:00",
    "price": {
-    "value": 193.32,
-    "valueMainUnit": "193",
-    "valueFractionalUnit": "32",
+    "value": 161.56,
+    "valueMainUnit": "161",
+    "valueFractionalUnit": "56",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~3148~ ~~KTW~12/18/2026 18:20~NAP~12/18/2026 20:25~~",
-   "flightNumber": "FR3148",
+   "flightKey": "FR~6373~ ~~KTW~12/19/2026 06:15~CTA~12/19/2026 08:50~~",
+   "flightNumber": "FR6373",
    "previousPrice": null,
-   "priceUpdated": 1791800560000
+   "priceUpdated": 1792426582000
   },
   "summary": {
    "price": {
-    "value": 193.32,
-    "valueMainUnit": "193",
-    "valueFractionalUnit": "32",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Poland",
-    "iataCode": "KTW",
-    "name": "Katowice",
-    "seoName": "katowice",
-    "city": {
-     "code": "KATOWICE",
-     "countryCode": "pl",
-     "name": "Katowice"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Greece",
-    "iataCode": "ATH",
-    "name": "Athens",
-    "seoName": "athens",
-    "city": {
-     "code": "ATHENS",
-     "countryCode": "gr",
-     "name": "Athens"
-    }
-   },
-   "departureDate": "2026-12-14T18:30:00",
-   "arrivalDate": "2026-12-14T22:00:00",
-   "price": {
-    "value": 196.33,
-    "valueMainUnit": "196",
-    "valueFractionalUnit": "33",
-    "currencyCode": "PLN",
-    "currencySymbol": "zł"
-   },
-   "flightKey": "FR~2615~ ~~KTW~12/14/2026 18:30~ATH~12/14/2026 22:00~~",
-   "flightNumber": "FR2615",
-   "previousPrice": null,
-   "priceUpdated": 1791800560000
-  },
-  "summary": {
-   "price": {
-    "value": 196.33,
-    "valueMainUnit": "196",
-    "valueFractionalUnit": "33",
+    "value": 161.56,
+    "valueMainUnit": "161",
+    "valueFractionalUnit": "56",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -4689,34 +4388,85 @@
    },
    "arrivalAirport": {
     "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
     "city": {
-     "code": "MALAGA",
+     "code": "ALICANTE",
      "countryCode": "es",
-     "name": "Malaga"
+     "name": "Alicante"
     }
    },
-   "departureDate": "2026-12-19T14:10:00",
-   "arrivalDate": "2026-12-19T18:00:00",
+   "departureDate": "2026-12-17T14:45:00",
+   "arrivalDate": "2026-12-17T18:05:00",
    "price": {
-    "value": 227.66,
-    "valueMainUnit": "227",
-    "valueFractionalUnit": "66",
+    "value": 165.93,
+    "valueMainUnit": "165",
+    "valueFractionalUnit": "93",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
-   "flightKey": "FR~7012~ ~~KTW~12/19/2026 14:10~AGP~12/19/2026 18:00~~",
-   "flightNumber": "FR7012",
+   "flightKey": "FR~3596~ ~~KTW~12/17/2026 14:45~ALC~12/17/2026 18:05~~",
+   "flightNumber": "FR3596",
    "previousPrice": null,
-   "priceUpdated": 1791802360000
+   "priceUpdated": 1792428757000
   },
   "summary": {
    "price": {
-    "value": 227.66,
-    "valueMainUnit": "227",
-    "valueFractionalUnit": "66",
+    "value": 165.93,
+    "valueMainUnit": "165",
+    "valueFractionalUnit": "93",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "FCO",
+    "name": "Rome Fiumicino",
+    "seoName": "rome-fiumicino",
+    "city": {
+     "code": "ROME",
+     "countryCode": "it",
+     "macCode": "ROM",
+     "name": "Rome"
+    }
+   },
+   "departureDate": "2026-12-14T17:50:00",
+   "arrivalDate": "2026-12-14T20:00:00",
+   "price": {
+    "value": 170.3,
+    "valueMainUnit": "170",
+    "valueFractionalUnit": "30",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~4113~ ~~KTW~12/14/2026 17:50~FCO~12/14/2026 20:00~~",
+   "flightNumber": "FR4113",
+   "previousPrice": null,
+   "priceUpdated": 1792419776000
+  },
+  "summary": {
+   "price": {
+    "value": 170.3,
+    "valueMainUnit": "170",
+    "valueFractionalUnit": "30",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -4751,22 +4501,222 @@
    "departureDate": "2026-12-14T16:15:00",
    "arrivalDate": "2026-12-14T18:15:00",
    "price": {
-    "value": 239.3,
-    "valueMainUnit": "239",
-    "valueFractionalUnit": "30",
+    "value": 180.03,
+    "valueMainUnit": "180",
+    "valueFractionalUnit": "03",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~5347~ ~~KTW~12/14/2026 16:15~DUB~12/14/2026 18:15~~",
    "flightNumber": "FR5347",
    "previousPrice": null,
-   "priceUpdated": 1791800557000
+   "priceUpdated": 1792405460000
   },
   "summary": {
    "price": {
-    "value": 239.3,
-    "valueMainUnit": "239",
-    "valueFractionalUnit": "30",
+    "value": 180.03,
+    "valueMainUnit": "180",
+    "valueFractionalUnit": "03",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "departureDate": "2026-12-19T12:35:00",
+   "arrivalDate": "2026-12-19T16:05:00",
+   "price": {
+    "value": 181.7,
+    "valueMainUnit": "181",
+    "valueFractionalUnit": "70",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~2615~ ~~KTW~12/19/2026 12:35~ATH~12/19/2026 16:05~~",
+   "flightNumber": "FR2615",
+   "previousPrice": null,
+   "priceUpdated": 1792405459000
+  },
+  "summary": {
+   "price": {
+    "value": 181.7,
+    "valueMainUnit": "181",
+    "valueFractionalUnit": "70",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-12T14:10:00",
+   "arrivalDate": "2026-12-12T18:00:00",
+   "price": {
+    "value": 193.21,
+    "valueMainUnit": "193",
+    "valueFractionalUnit": "21",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~7012~ ~~KTW~12/12/2026 14:10~AGP~12/12/2026 18:00~~",
+   "flightNumber": "FR7012",
+   "previousPrice": null,
+   "priceUpdated": 1792405434000
+  },
+  "summary": {
+   "price": {
+    "value": 193.21,
+    "valueMainUnit": "193",
+    "valueFractionalUnit": "21",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Greece",
+    "iataCode": "ATH",
+    "name": "Athens",
+    "seoName": "athens",
+    "city": {
+     "code": "ATHENS",
+     "countryCode": "gr",
+     "name": "Athens"
+    }
+   },
+   "departureDate": "2026-12-18T07:20:00",
+   "arrivalDate": "2026-12-18T10:50:00",
+   "price": {
+    "value": 200.87,
+    "valueMainUnit": "200",
+    "valueFractionalUnit": "87",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~2615~ ~~KTW~12/18/2026 07:20~ATH~12/18/2026 10:50~~",
+   "flightNumber": "FR2615",
+   "previousPrice": null,
+   "priceUpdated": 1792436770000
+  },
+  "summary": {
+   "price": {
+    "value": 200.87,
+    "valueMainUnit": "200",
+    "valueFractionalUnit": "87",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-18T21:10:00",
+   "arrivalDate": "2026-12-19T00:30:00",
+   "price": {
+    "value": 218.34,
+    "valueMainUnit": "218",
+    "valueFractionalUnit": "34",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~3596~ ~~KTW~12/18/2026 21:10~ALC~12/19/2026 00:30~~",
+   "flightNumber": "FR3596",
+   "previousPrice": null,
+   "priceUpdated": 1792423360000
+  },
+  "summary": {
+   "price": {
+    "value": 218.34,
+    "valueMainUnit": "218",
+    "valueFractionalUnit": "34",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
@@ -4801,27 +4751,77 @@
    "departureDate": "2026-12-18T10:10:00",
    "arrivalDate": "2026-12-18T12:10:00",
    "price": {
-    "value": 262.69,
-    "valueMainUnit": "262",
-    "valueFractionalUnit": "69",
+    "value": 235.81,
+    "valueMainUnit": "235",
+    "valueFractionalUnit": "81",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~5347~ ~~KTW~12/18/2026 10:10~DUB~12/18/2026 12:10~~",
    "flightNumber": "FR5347",
    "previousPrice": null,
-   "priceUpdated": 1791802357000
+   "priceUpdated": 1792419776000
   },
   "summary": {
    "price": {
-    "value": 262.69,
-    "valueMainUnit": "262",
-    "valueFractionalUnit": "69",
+    "value": 235.81,
+    "valueMainUnit": "235",
+    "valueFractionalUnit": "81",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "previousPrice": null,
    "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Poland",
+    "iataCode": "KTW",
+    "name": "Katowice",
+    "seoName": "katowice",
+    "city": {
+     "code": "KATOWICE",
+     "countryCode": "pl",
+     "name": "Katowice"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-19T14:10:00",
+   "arrivalDate": "2026-12-19T18:00:00",
+   "price": {
+    "value": 358.11,
+    "valueMainUnit": "358",
+    "valueFractionalUnit": "11",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "flightKey": "FR~7012~ ~~KTW~12/19/2026 14:10~AGP~12/19/2026 18:00~~",
+   "flightNumber": "FR7012",
+   "previousPrice": null,
+   "priceUpdated": 1792419422000
+  },
+  "summary": {
+   "price": {
+    "value": 358.11,
+    "valueMainUnit": "358",
+    "valueFractionalUnit": "11",
+    "currencyCode": "PLN",
+    "currencySymbol": "zł"
+   },
+   "previousPrice": null,
+   "newRoute": true
   }
  },
  {
@@ -4851,22 +4851,22 @@
    "departureDate": "2026-12-13T17:30:00",
    "arrivalDate": "2026-12-13T19:10:00",
    "price": {
-    "value": 510.55,
-    "valueMainUnit": "510",
-    "valueFractionalUnit": "55",
+    "value": 439.32,
+    "valueMainUnit": "439",
+    "valueFractionalUnit": "32",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },
    "flightKey": "FR~6403~ ~~KTW~12/13/2026 17:30~MAN~12/13/2026 19:10~~",
    "flightNumber": "FR6403",
    "previousPrice": null,
-   "priceUpdated": 1791800559000
+   "priceUpdated": 1792424632000
   },
   "summary": {
    "price": {
-    "value": 510.55,
-    "valueMainUnit": "510",
-    "valueFractionalUnit": "55",
+    "value": 439.32,
+    "valueMainUnit": "439",
+    "valueFractionalUnit": "32",
     "currencyCode": "PLN",
     "currencySymbol": "zł"
    },

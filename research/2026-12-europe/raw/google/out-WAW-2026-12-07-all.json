@@ -1,10 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA1dBV0ABSAGYAQI",
- "fetchedAt": "2026-10-11T11:20:55",
+ "fetchedAt": "2026-10-19T23:08:56",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
-   "price": 108.0,
+   "price": 122.0,
    "roundTripTotal": false,
    "noOverheadBin": true,
    "stops": 1,
@@ -27,36 +28,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 108 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Trondheim Airport, Værnes at 7:15 AM on Monday, December 7 and arrives at Warsaw Chopin Airport at 11:25 AM on Monday, December 7. Total duration 4 hr 10 min.  Layover (1 of 1) is a 1 hr 20 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 122 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Trondheim Airport, Værnes at 7:15 AM on Monday, December 7 and arrives at Warsaw Chopin Airport at 11:25 AM on Monday, December 7. Total duration 4 hr 10 min.  Layover (1 of 1) is a 1 hr 20 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 172.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-07",
-   "arrAirportName": "Warsaw Chopin Airport",
-   "arrTime": "12:00",
-   "arrDate": "2026-12-07",
-   "durationMin": 340,
-   "layovers": [
-    {
-     "min": 85,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 172 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Monday, December 7 and arrives at Warsaw Chopin Airport at 12:00 PM on Monday, December 7. Total duration 5 hr 40 min.  Layover (1 of 1) is a 1 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 180.0,
+   "price": 182.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -85,10 +60,36 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 180 euros. 2 stops flight with Scandinavian Airlines and KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 10:40 AM on Monday, December 7 and arrives at Warsaw Chopin Airport at 6:55 PM on Monday, December 7. Total duration 8 hr 15 min.  Layover (1 of 2) is a 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 30 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 182 euros. 2 stops flight with Scandinavian Airlines and KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 10:40 AM on Monday, December 7 and arrives at Warsaw Chopin Airport at 6:55 PM on Monday, December 7. Total duration 8 hr 15 min.  Layover (1 of 2) is a 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 30 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 199.0,
+   "price": 202.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Warsaw Chopin Airport",
+   "arrTime": "12:00",
+   "arrDate": "2026-12-07",
+   "durationMin": 340,
+   "layovers": [
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 202 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Monday, December 7 and arrives at Warsaw Chopin Airport at 12:00 PM on Monday, December 7. Total duration 5 hr 40 min.  Layover (1 of 1) is a 1 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 240.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -111,36 +112,42 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 199 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:10 PM on Monday, December 7 and arrives at Warsaw Chopin Airport at 11:10 PM on Monday, December 7. Total duration 6 hr.  Layover (1 of 1) is a 1 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 240 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:10 PM on Monday, December 7 and arrives at Warsaw Chopin Airport at 11:10 PM on Monday, December 7. Total duration 6 hr.  Layover (1 of 1) is a 1 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 129.0,
+   "price": 239.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": "Sas Link for Scandinavian Airlines",
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
+   "depTime": "10:25",
    "depDate": "2026-12-07",
    "arrAirportName": "Warsaw Chopin Airport",
-   "arrTime": "18:55",
+   "arrTime": "22:05",
    "arrDate": "2026-12-07",
-   "durationMin": 755,
+   "durationMin": 700,
    "layovers": [
     {
-     "min": 500,
+     "min": 70,
      "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
+     "airport": "Stockholm Arlanda Airport",
+     "city": "Stockholm"
+    },
+    {
+     "min": 245,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
     }
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 129 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Monday, December 7 and arrives at Warsaw Chopin Airport at 6:55 PM on Monday, December 7. Total duration 12 hr 35 min.  Layover (1 of 1) is a 8 hr 20 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 239 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 10:25 AM on Monday, December 7 and arrives at Warsaw Chopin Airport at 10:05 PM on Monday, December 7. Total duration 11 hr 40 min.  Layover (1 of 2) is a 1 hr 10 min layover at Stockholm Arlanda Airport in Stockholm. Layover (2 of 2) is a 4 hr 5 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
   },
   {
-   "price": 252.0,
+   "price": 255.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -175,42 +182,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 252 euros. 3 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 6:00 AM on Monday, December 7 and arrives at Warsaw Chopin Airport at 6:35 PM on Monday, December 7. Total duration 12 hr 35 min.  Layover (1 of 3) is a 3 hr 15 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 3 hr layover at Helsinki Airport in Helsinki. Select flight"
+   "label": "From 255 euros. 3 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 6:00 AM on Monday, December 7 and arrives at Warsaw Chopin Airport at 6:35 PM on Monday, December 7. Total duration 12 hr 35 min.  Layover (1 of 3) is a 3 hr 15 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 3 hr layover at Helsinki Airport in Helsinki. Select flight"
   },
   {
-   "price": 334.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "13:00",
-   "depDate": "2026-12-07",
-   "arrAirportName": "Warsaw Chopin Airport",
-   "arrTime": "22:05",
-   "arrDate": "2026-12-07",
-   "durationMin": 545,
-   "layovers": [
-    {
-     "min": 75,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    },
-    {
-     "min": 120,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 334 euros. 2 stops flight with Scandinavian Airlines and Air France. Leaves Trondheim Airport, Værnes at 1:00 PM on Monday, December 7 and arrives at Warsaw Chopin Airport at 10:05 PM on Monday, December 7. Total duration 9 hr 5 min.  Layover (1 of 2) is a 1 hr 15 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
-  },
-  {
-   "price": 470.0,
+   "price": 478.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -239,10 +214,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 470 euros. 2 stops flight with Scandinavian Airlines and Austrian. Operated by Air Dolomiti. Leaves Trondheim Airport, Værnes at 10:40 AM on Monday, December 7 and arrives at Warsaw Chopin Airport at 6:45 PM on Monday, December 7. Total duration 8 hr 5 min.  Layover (1 of 2) is a 2 hr 40 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 50 min layover at Vienna International Airport in Vienna. Select flight"
+   "label": "From 478 euros. 2 stops flight with Scandinavian Airlines and Austrian. Operated by Air Dolomiti. Leaves Trondheim Airport, Værnes at 10:40 AM on Monday, December 7 and arrives at Warsaw Chopin Airport at 6:45 PM on Monday, December 7. Total duration 8 hr 5 min.  Layover (1 of 2) is a 2 hr 40 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 50 min layover at Vienna International Airport in Vienna. Select flight"
   },
   {
-   "price": 558.0,
+   "price": 501.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -271,7 +246,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 558 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 9:10 AM on Monday, December 7 and arrives at Warsaw Chopin Airport at 5:40 PM on Monday, December 7. Total duration 8 hr 30 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 1 hr layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+   "label": "From 501 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 9:10 AM on Monday, December 7 and arrives at Warsaw Chopin Airport at 5:40 PM on Monday, December 7. Total duration 8 hr 30 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 1 hr layover at Frankfurt Airport in Frankfurt am Main. Select flight"
   }
  ]
 }

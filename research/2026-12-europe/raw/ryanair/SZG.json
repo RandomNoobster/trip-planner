@@ -36,13 +36,63 @@
    "flightKey": "FR~ 309~ ~~SZG~12/05/2026 17:50~STN~12/05/2026 18:45~~",
    "flightNumber": "FR309",
    "previousPrice": null,
-   "priceUpdated": 1791802705000
+   "priceUpdated": 1792433998000
   },
   "summary": {
    "price": {
     "value": 22.99,
     "valueMainUnit": "22",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Austria",
+    "iataCode": "SZG",
+    "name": "Salzburg",
+    "seoName": "salzburg",
+    "city": {
+     "code": "SALZBURG",
+     "countryCode": "at",
+     "name": "Salzburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "MAN",
+    "name": "Manchester",
+    "seoName": "manchester",
+    "city": {
+     "code": "MANCHESTER",
+     "countryCode": "gb",
+     "name": "Manchester"
+    }
+   },
+   "departureDate": "2026-12-05T09:45:00",
+   "arrivalDate": "2026-12-05T11:00:00",
+   "price": {
+    "value": 26.58,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "58",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1738~ ~~SZG~12/05/2026 09:45~MAN~12/05/2026 11:00~~",
+   "flightNumber": "FR1738",
+   "previousPrice": null,
+   "priceUpdated": 1792405704000
+  },
+  "summary": {
+   "price": {
+    "value": 26.58,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "58",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -86,7 +136,7 @@
    "flightKey": "FR~4258~ ~~SZG~12/05/2026 15:20~BHX~12/05/2026 16:25~~",
    "flightNumber": "FR4258",
    "previousPrice": null,
-   "priceUpdated": 1791800897000
+   "priceUpdated": 1792405705000
   },
   "summary": {
    "price": {
@@ -98,107 +148,6 @@
    },
    "previousPrice": null,
    "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Austria",
-    "iataCode": "SZG",
-    "name": "Salzburg",
-    "seoName": "salzburg",
-    "city": {
-     "code": "SALZBURG",
-     "countryCode": "at",
-     "name": "Salzburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "MAN",
-    "name": "Manchester",
-    "seoName": "manchester",
-    "city": {
-     "code": "MANCHESTER",
-     "countryCode": "gb",
-     "name": "Manchester"
-    }
-   },
-   "departureDate": "2026-12-05T09:45:00",
-   "arrivalDate": "2026-12-05T11:00:00",
-   "price": {
-    "value": 27.05,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "05",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1738~ ~~SZG~12/05/2026 09:45~MAN~12/05/2026 11:00~~",
-   "flightNumber": "FR1738",
-   "previousPrice": null,
-   "priceUpdated": 1791800903000
-  },
-  "summary": {
-   "price": {
-    "value": 27.05,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "05",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Austria",
-    "iataCode": "SZG",
-    "name": "Salzburg",
-    "seoName": "salzburg",
-    "city": {
-     "code": "SALZBURG",
-     "countryCode": "at",
-     "name": "Salzburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-11T16:05:00",
-   "arrivalDate": "2026-12-11T17:00:00",
-   "price": {
-    "value": 46.84,
-    "valueMainUnit": "46",
-    "valueFractionalUnit": "84",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 309~ ~~SZG~12/11/2026 16:05~STN~12/11/2026 17:00~~",
-   "flightNumber": "FR309",
-   "previousPrice": null,
-   "priceUpdated": 1791800902000
-  },
-  "summary": {
-   "price": {
-    "value": 46.84,
-    "valueMainUnit": "46",
-    "valueFractionalUnit": "84",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
   }
  },
  {
@@ -228,22 +177,22 @@
    "departureDate": "2026-12-05T11:30:00",
    "arrivalDate": "2026-12-05T13:00:00",
    "price": {
-    "value": 47.42,
-    "valueMainUnit": "47",
-    "valueFractionalUnit": "42",
+    "value": 34.22,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "22",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~1411~ ~~SZG~12/05/2026 11:30~DUB~12/05/2026 13:00~~",
    "flightNumber": "FR1411",
    "previousPrice": null,
-   "priceUpdated": 1791800906000
+   "priceUpdated": 1792439902000
   },
   "summary": {
    "price": {
-    "value": 47.42,
-    "valueMainUnit": "47",
-    "valueFractionalUnit": "42",
+    "value": 34.22,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "22",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -278,22 +227,22 @@
    "departureDate": "2026-12-06T16:30:00",
    "arrivalDate": "2026-12-06T19:00:00",
    "price": {
-    "value": 56.05,
-    "valueMainUnit": "56",
-    "valueFractionalUnit": "05",
+    "value": 47.42,
+    "valueMainUnit": "47",
+    "valueFractionalUnit": "42",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~7878~ ~~SZG~12/06/2026 16:30~ALC~12/06/2026 19:00~~",
    "flightNumber": "FR7878",
    "previousPrice": null,
-   "priceUpdated": 1791800897000
+   "priceUpdated": 1792405705000
   },
   "summary": {
    "price": {
-    "value": 56.05,
-    "valueMainUnit": "56",
-    "valueFractionalUnit": "05",
+    "value": 47.42,
+    "valueMainUnit": "47",
+    "valueFractionalUnit": "42",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -326,11 +275,62 @@
      "name": "London"
     }
    },
+   "departureDate": "2026-12-11T16:05:00",
+   "arrivalDate": "2026-12-11T17:00:00",
+   "price": {
+    "value": 48.01,
+    "valueMainUnit": "48",
+    "valueFractionalUnit": "01",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 309~ ~~SZG~12/11/2026 16:05~STN~12/11/2026 17:00~~",
+   "flightNumber": "FR309",
+   "previousPrice": null,
+   "priceUpdated": 1792405703000
+  },
+  "summary": {
+   "price": {
+    "value": 48.01,
+    "valueMainUnit": "48",
+    "valueFractionalUnit": "01",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Austria",
+    "iataCode": "SZG",
+    "name": "Salzburg",
+    "seoName": "salzburg",
+    "city": {
+     "code": "SALZBURG",
+     "countryCode": "at",
+     "name": "Salzburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
    "departureDate": "2026-12-04T16:05:00",
    "arrivalDate": "2026-12-04T17:00:00",
    "price": {
-    "value": 62.99,
-    "valueMainUnit": "62",
+    "value": 52.99,
+    "valueMainUnit": "52",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -338,12 +338,12 @@
    "flightKey": "FR~ 309~ ~~SZG~12/04/2026 16:05~STN~12/04/2026 17:00~~",
    "flightNumber": "FR309",
    "previousPrice": null,
-   "priceUpdated": 1791803387000
+   "priceUpdated": 1792436736000
   },
   "summary": {
    "price": {
-    "value": 62.99,
-    "valueMainUnit": "62",
+    "value": 52.99,
+    "valueMainUnit": "52",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -380,22 +380,22 @@
    "departureDate": "2026-12-10T18:00:00",
    "arrivalDate": "2026-12-10T18:55:00",
    "price": {
-    "value": 72.69,
-    "valueMainUnit": "72",
-    "valueFractionalUnit": "69",
+    "value": 74.43,
+    "valueMainUnit": "74",
+    "valueFractionalUnit": "43",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~ 305~ ~~SZG~12/10/2026 18:00~STN~12/10/2026 18:55~~",
    "flightNumber": "FR305",
    "previousPrice": null,
-   "priceUpdated": 1791800904000
+   "priceUpdated": 1792405706000
   },
   "summary": {
    "price": {
-    "value": 72.69,
-    "valueMainUnit": "72",
-    "valueFractionalUnit": "69",
+    "value": 74.43,
+    "valueMainUnit": "74",
+    "valueFractionalUnit": "43",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -431,72 +431,22 @@
    "departureDate": "2026-12-06T11:50:00",
    "arrivalDate": "2026-12-06T12:45:00",
    "price": {
-    "value": 76.27,
+    "value": 76.01,
     "valueMainUnit": "76",
-    "valueFractionalUnit": "27",
+    "valueFractionalUnit": "01",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~ 305~ ~~SZG~12/06/2026 11:50~STN~12/06/2026 12:45~~",
    "flightNumber": "FR305",
    "previousPrice": null,
-   "priceUpdated": 1791800903000
+   "priceUpdated": 1792421477000
   },
   "summary": {
    "price": {
-    "value": 76.27,
+    "value": 76.01,
     "valueMainUnit": "76",
-    "valueFractionalUnit": "27",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Austria",
-    "iataCode": "SZG",
-    "name": "Salzburg",
-    "seoName": "salzburg",
-    "city": {
-     "code": "SALZBURG",
-     "countryCode": "at",
-     "name": "Salzburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "MAN",
-    "name": "Manchester",
-    "seoName": "manchester",
-    "city": {
-     "code": "MANCHESTER",
-     "countryCode": "gb",
-     "name": "Manchester"
-    }
-   },
-   "departureDate": "2026-12-07T11:45:00",
-   "arrivalDate": "2026-12-07T13:00:00",
-   "price": {
-    "value": 82.99,
-    "valueMainUnit": "82",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1738~ ~~SZG~12/07/2026 11:45~MAN~12/07/2026 13:00~~",
-   "flightNumber": "FR1738",
-   "previousPrice": null,
-   "priceUpdated": 1791800904000
-  },
-  "summary": {
-   "price": {
-    "value": 82.99,
-    "valueMainUnit": "82",
-    "valueFractionalUnit": "99",
+    "valueFractionalUnit": "01",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -531,8 +481,8 @@
    "departureDate": "2026-12-09T19:40:00",
    "arrivalDate": "2026-12-09T22:10:00",
    "price": {
-    "value": 90.99,
-    "valueMainUnit": "90",
+    "value": 80.99,
+    "valueMainUnit": "80",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -540,12 +490,12 @@
    "flightKey": "FR~7878~ ~~SZG~12/09/2026 19:40~ALC~12/09/2026 22:10~~",
    "flightNumber": "FR7878",
    "previousPrice": null,
-   "priceUpdated": 1791800899000
+   "priceUpdated": 1792419297000
   },
   "summary": {
    "price": {
-    "value": 90.99,
-    "valueMainUnit": "90",
+    "value": 80.99,
+    "valueMainUnit": "80",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -569,35 +519,34 @@
    },
    "arrivalAirport": {
     "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
+    "iataCode": "MAN",
+    "name": "Manchester",
+    "seoName": "manchester",
     "city": {
-     "code": "LONDON",
+     "code": "MANCHESTER",
      "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
+     "name": "Manchester"
     }
    },
-   "departureDate": "2026-12-07T10:00:00",
-   "arrivalDate": "2026-12-07T10:55:00",
+   "departureDate": "2026-12-07T11:45:00",
+   "arrivalDate": "2026-12-07T13:00:00",
    "price": {
-    "value": 195.27,
-    "valueMainUnit": "195",
-    "valueFractionalUnit": "27",
+    "value": 103.99,
+    "valueMainUnit": "103",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 305~ ~~SZG~12/07/2026 10:00~STN~12/07/2026 10:55~~",
-   "flightNumber": "FR305",
+   "flightKey": "FR~1738~ ~~SZG~12/07/2026 11:45~MAN~12/07/2026 13:00~~",
+   "flightNumber": "FR1738",
    "previousPrice": null,
-   "priceUpdated": 1791800904000
+   "priceUpdated": 1792434504000
   },
   "summary": {
    "price": {
-    "value": 195.27,
-    "valueMainUnit": "195",
-    "valueFractionalUnit": "27",
+    "value": 103.99,
+    "valueMainUnit": "103",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -630,25 +579,76 @@
      "name": "London"
     }
    },
-   "departureDate": "2026-12-12T17:50:00",
-   "arrivalDate": "2026-12-12T18:45:00",
+   "departureDate": "2026-12-07T10:00:00",
+   "arrivalDate": "2026-12-07T10:55:00",
    "price": {
-    "value": 30.11,
-    "valueMainUnit": "30",
-    "valueFractionalUnit": "11",
+    "value": 151.17,
+    "valueMainUnit": "151",
+    "valueFractionalUnit": "17",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 309~ ~~SZG~12/12/2026 17:50~STN~12/12/2026 18:45~~",
-   "flightNumber": "FR309",
+   "flightKey": "FR~ 305~ ~~SZG~12/07/2026 10:00~STN~12/07/2026 10:55~~",
+   "flightNumber": "FR305",
    "previousPrice": null,
-   "priceUpdated": 1791800902000
+   "priceUpdated": 1792422201000
   },
   "summary": {
    "price": {
-    "value": 30.11,
-    "valueMainUnit": "30",
-    "valueFractionalUnit": "11",
+    "value": 151.17,
+    "valueMainUnit": "151",
+    "valueFractionalUnit": "17",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Austria",
+    "iataCode": "SZG",
+    "name": "Salzburg",
+    "seoName": "salzburg",
+    "city": {
+     "code": "SALZBURG",
+     "countryCode": "at",
+     "name": "Salzburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-12T13:25:00",
+   "arrivalDate": "2026-12-12T14:20:00",
+   "price": {
+    "value": 19.99,
+    "valueMainUnit": "19",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 305~ ~~SZG~12/12/2026 13:25~STN~12/12/2026 14:20~~",
+   "flightNumber": "FR305",
+   "previousPrice": null,
+   "priceUpdated": 1792434005000
+  },
+  "summary": {
+   "price": {
+    "value": 19.99,
+    "valueMainUnit": "19",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -683,128 +683,27 @@
    "departureDate": "2026-12-12T15:20:00",
    "arrivalDate": "2026-12-12T16:25:00",
    "price": {
-    "value": 30.55,
-    "valueMainUnit": "30",
-    "valueFractionalUnit": "55",
+    "value": 27.21,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "21",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~4258~ ~~SZG~12/12/2026 15:20~BHX~12/12/2026 16:25~~",
    "flightNumber": "FR4258",
    "previousPrice": null,
-   "priceUpdated": 1791800902000
+   "priceUpdated": 1792405706000
   },
   "summary": {
    "price": {
-    "value": 30.55,
-    "valueMainUnit": "30",
-    "valueFractionalUnit": "55",
+    "value": 27.21,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "21",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Austria",
-    "iataCode": "SZG",
-    "name": "Salzburg",
-    "seoName": "salzburg",
-    "city": {
-     "code": "SALZBURG",
-     "countryCode": "at",
-     "name": "Salzburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-19T14:40:00",
-   "arrivalDate": "2026-12-19T16:10:00",
-   "price": {
-    "value": 30.99,
-    "valueMainUnit": "30",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1420~ ~~SZG~12/19/2026 14:40~DUB~12/19/2026 16:10~~",
-   "flightNumber": "FR1420",
-   "previousPrice": null,
-   "priceUpdated": 1791801806000
-  },
-  "summary": {
-   "price": {
-    "value": 30.99,
-    "valueMainUnit": "30",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Austria",
-    "iataCode": "SZG",
-    "name": "Salzburg",
-    "seoName": "salzburg",
-    "city": {
-     "code": "SALZBURG",
-     "countryCode": "at",
-     "name": "Salzburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-19T17:50:00",
-   "arrivalDate": "2026-12-19T18:45:00",
-   "price": {
-    "value": 33.3,
-    "valueMainUnit": "33",
-    "valueFractionalUnit": "30",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 309~ ~~SZG~12/19/2026 17:50~STN~12/19/2026 18:45~~",
-   "flightNumber": "FR309",
-   "previousPrice": null,
-   "priceUpdated": 1791800905000
-  },
-  "summary": {
-   "price": {
-    "value": 33.3,
-    "valueMainUnit": "33",
-    "valueFractionalUnit": "30",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
   }
  },
  {
@@ -834,8 +733,8 @@
    "departureDate": "2026-12-12T09:45:00",
    "arrivalDate": "2026-12-12T11:00:00",
    "price": {
-    "value": 33.99,
-    "valueMainUnit": "33",
+    "value": 28.99,
+    "valueMainUnit": "28",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -843,12 +742,12 @@
    "flightKey": "FR~1738~ ~~SZG~12/12/2026 09:45~MAN~12/12/2026 11:00~~",
    "flightNumber": "FR1738",
    "previousPrice": null,
-   "priceUpdated": 1791800905000
+   "priceUpdated": 1792419518000
   },
   "summary": {
    "price": {
-    "value": 33.99,
-    "valueMainUnit": "33",
+    "value": 28.99,
+    "valueMainUnit": "28",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -884,8 +783,8 @@
    "departureDate": "2026-12-12T11:30:00",
    "arrivalDate": "2026-12-12T13:00:00",
    "price": {
-    "value": 34.99,
-    "valueMainUnit": "34",
+    "value": 29.99,
+    "valueMainUnit": "29",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -893,12 +792,62 @@
    "flightKey": "FR~1411~ ~~SZG~12/12/2026 11:30~DUB~12/12/2026 13:00~~",
    "flightNumber": "FR1411",
    "previousPrice": null,
-   "priceUpdated": 1791800902000
+   "priceUpdated": 1792419333000
   },
   "summary": {
    "price": {
-    "value": 34.99,
-    "valueMainUnit": "34",
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Austria",
+    "iataCode": "SZG",
+    "name": "Salzburg",
+    "seoName": "salzburg",
+    "city": {
+     "code": "SALZBURG",
+     "countryCode": "at",
+     "name": "Salzburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-19T14:40:00",
+   "arrivalDate": "2026-12-19T16:10:00",
+   "price": {
+    "value": 31.99,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1420~ ~~SZG~12/19/2026 14:40~DUB~12/19/2026 16:10~~",
+   "flightNumber": "FR1420",
+   "previousPrice": null,
+   "priceUpdated": 1792419499000
+  },
+  "summary": {
+   "price": {
+    "value": 31.99,
+    "valueMainUnit": "31",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -934,22 +883,22 @@
    "departureDate": "2026-12-19T15:20:00",
    "arrivalDate": "2026-12-19T16:25:00",
    "price": {
-    "value": 35.98,
+    "value": 35.1,
     "valueMainUnit": "35",
-    "valueFractionalUnit": "98",
+    "valueFractionalUnit": "10",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~4258~ ~~SZG~12/19/2026 15:20~BHX~12/19/2026 16:25~~",
    "flightNumber": "FR4258",
    "previousPrice": null,
-   "priceUpdated": 1791800900000
+   "priceUpdated": 1792442054000
   },
   "summary": {
    "price": {
-    "value": 35.98,
+    "value": 35.1,
     "valueMainUnit": "35",
-    "valueFractionalUnit": "98",
+    "valueFractionalUnit": "10",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -971,40 +920,143 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
     "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
     }
    },
-   "departureDate": "2026-12-13T16:30:00",
-   "arrivalDate": "2026-12-13T19:00:00",
+   "departureDate": "2026-12-19T13:25:00",
+   "arrivalDate": "2026-12-19T14:20:00",
    "price": {
-    "value": 42.99,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "99",
+    "value": 36.6,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "60",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~7878~ ~~SZG~12/13/2026 16:30~ALC~12/13/2026 19:00~~",
-   "flightNumber": "FR7878",
+   "flightKey": "FR~ 305~ ~~SZG~12/19/2026 13:25~STN~12/19/2026 14:20~~",
+   "flightNumber": "FR305",
    "previousPrice": null,
-   "priceUpdated": 1791800900000
+   "priceUpdated": 1792433490000
   },
   "summary": {
    "price": {
-    "value": 42.99,
-    "valueMainUnit": "42",
+    "value": 36.6,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "60",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Austria",
+    "iataCode": "SZG",
+    "name": "Salzburg",
+    "seoName": "salzburg",
+    "city": {
+     "code": "SALZBURG",
+     "countryCode": "at",
+     "name": "Salzburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-18T10:00:00",
+   "arrivalDate": "2026-12-18T10:55:00",
+   "price": {
+    "value": 38.34,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "34",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 305~ ~~SZG~12/18/2026 10:00~STN~12/18/2026 10:55~~",
+   "flightNumber": "FR305",
+   "previousPrice": null,
+   "priceUpdated": 1792405702000
+  },
+  "summary": {
+   "price": {
+    "value": 38.34,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "34",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Austria",
+    "iataCode": "SZG",
+    "name": "Salzburg",
+    "seoName": "salzburg",
+    "city": {
+     "code": "SALZBURG",
+     "countryCode": "at",
+     "name": "Salzburg"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-17T18:00:00",
+   "arrivalDate": "2026-12-17T18:55:00",
+   "price": {
+    "value": 43.99,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 305~ ~~SZG~12/17/2026 18:00~STN~12/17/2026 18:55~~",
+   "flightNumber": "FR305",
+   "previousPrice": null,
+   "priceUpdated": 1792419574000
+  },
+  "summary": {
+   "price": {
+    "value": 43.99,
+    "valueMainUnit": "43",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
-   "newRoute": true
+   "newRoute": false
   }
  },
  {
@@ -1043,7 +1095,7 @@
    "flightKey": "FR~7878~ ~~SZG~12/16/2026 19:40~ALC~12/16/2026 22:10~~",
    "flightNumber": "FR7878",
    "previousPrice": null,
-   "priceUpdated": 1791800899000
+   "priceUpdated": 1792437203000
   },
   "summary": {
    "price": {
@@ -1071,41 +1123,40 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
     "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
     }
    },
-   "departureDate": "2026-12-17T18:00:00",
-   "arrivalDate": "2026-12-17T18:55:00",
+   "departureDate": "2026-12-13T16:30:00",
+   "arrivalDate": "2026-12-13T19:00:00",
    "price": {
-    "value": 45.99,
-    "valueMainUnit": "45",
+    "value": 53.99,
+    "valueMainUnit": "53",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 305~ ~~SZG~12/17/2026 18:00~STN~12/17/2026 18:55~~",
-   "flightNumber": "FR305",
+   "flightKey": "FR~7878~ ~~SZG~12/13/2026 16:30~ALC~12/13/2026 19:00~~",
+   "flightNumber": "FR7878",
    "previousPrice": null,
-   "priceUpdated": 1791800904000
+   "priceUpdated": 1792419365000
   },
   "summary": {
    "price": {
-    "value": 45.99,
-    "valueMainUnit": "45",
+    "value": 53.99,
+    "valueMainUnit": "53",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
-   "newRoute": false
+   "newRoute": true
   }
  },
  {
@@ -1123,86 +1174,34 @@
    },
    "arrivalAirport": {
     "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
+    "iataCode": "MAN",
+    "name": "Manchester",
+    "seoName": "manchester",
     "city": {
-     "code": "LONDON",
+     "code": "MANCHESTER",
      "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
+     "name": "Manchester"
     }
    },
-   "departureDate": "2026-12-18T10:00:00",
-   "arrivalDate": "2026-12-18T10:55:00",
+   "departureDate": "2026-12-19T09:45:00",
+   "arrivalDate": "2026-12-19T11:00:00",
    "price": {
-    "value": 54.67,
-    "valueMainUnit": "54",
-    "valueFractionalUnit": "67",
+    "value": 70.37,
+    "valueMainUnit": "70",
+    "valueFractionalUnit": "37",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 305~ ~~SZG~12/18/2026 10:00~STN~12/18/2026 10:55~~",
-   "flightNumber": "FR305",
+   "flightKey": "FR~1738~ ~~SZG~12/19/2026 09:45~MAN~12/19/2026 11:00~~",
+   "flightNumber": "FR1738",
    "previousPrice": null,
-   "priceUpdated": 1791800905000
+   "priceUpdated": 1792405705000
   },
   "summary": {
    "price": {
-    "value": 54.67,
-    "valueMainUnit": "54",
-    "valueFractionalUnit": "67",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Austria",
-    "iataCode": "SZG",
-    "name": "Salzburg",
-    "seoName": "salzburg",
-    "city": {
-     "code": "SALZBURG",
-     "countryCode": "at",
-     "name": "Salzburg"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-14T10:00:00",
-   "arrivalDate": "2026-12-14T10:55:00",
-   "price": {
-    "value": 66.08,
-    "valueMainUnit": "66",
-    "valueFractionalUnit": "08",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 305~ ~~SZG~12/14/2026 10:00~STN~12/14/2026 10:55~~",
-   "flightNumber": "FR305",
-   "previousPrice": null,
-   "priceUpdated": 1791800904000
-  },
-  "summary": {
-   "price": {
-    "value": 66.08,
-    "valueMainUnit": "66",
-    "valueFractionalUnit": "08",
+    "value": 70.37,
+    "valueMainUnit": "70",
+    "valueFractionalUnit": "37",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1234,25 +1233,25 @@
      "name": "Manchester"
     }
    },
-   "departureDate": "2026-12-19T09:45:00",
-   "arrivalDate": "2026-12-19T11:00:00",
+   "departureDate": "2026-12-14T11:45:00",
+   "arrivalDate": "2026-12-14T13:00:00",
    "price": {
-    "value": 72.69,
-    "valueMainUnit": "72",
-    "valueFractionalUnit": "69",
+    "value": 81.17,
+    "valueMainUnit": "81",
+    "valueFractionalUnit": "17",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~1738~ ~~SZG~12/19/2026 09:45~MAN~12/19/2026 11:00~~",
+   "flightKey": "FR~1738~ ~~SZG~12/14/2026 11:45~MAN~12/14/2026 13:00~~",
    "flightNumber": "FR1738",
    "previousPrice": null,
-   "priceUpdated": 1791800907000
+   "priceUpdated": 1792405704000
   },
   "summary": {
    "price": {
-    "value": 72.69,
-    "valueMainUnit": "72",
-    "valueFractionalUnit": "69",
+    "value": 81.17,
+    "valueMainUnit": "81",
+    "valueFractionalUnit": "17",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1288,8 +1287,8 @@
    "departureDate": "2026-12-13T11:50:00",
    "arrivalDate": "2026-12-13T12:45:00",
    "price": {
-    "value": 80.85,
-    "valueMainUnit": "80",
+    "value": 81.85,
+    "valueMainUnit": "81",
     "valueFractionalUnit": "85",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1297,12 +1296,12 @@
    "flightKey": "FR~ 305~ ~~SZG~12/13/2026 11:50~STN~12/13/2026 12:45~~",
    "flightNumber": "FR305",
    "previousPrice": null,
-   "priceUpdated": 1791801803000
+   "priceUpdated": 1792437745000
   },
   "summary": {
    "price": {
-    "value": 80.85,
-    "valueMainUnit": "80",
+    "value": 81.85,
+    "valueMainUnit": "81",
     "valueFractionalUnit": "85",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1326,17 +1325,18 @@
    },
    "arrivalAirport": {
     "countryName": "United Kingdom",
-    "iataCode": "MAN",
-    "name": "Manchester",
-    "seoName": "manchester",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
     "city": {
-     "code": "MANCHESTER",
+     "code": "LONDON",
      "countryCode": "gb",
-     "name": "Manchester"
+     "macCode": "LON",
+     "name": "London"
     }
    },
-   "departureDate": "2026-12-14T11:45:00",
-   "arrivalDate": "2026-12-14T13:00:00",
+   "departureDate": "2026-12-14T10:00:00",
+   "arrivalDate": "2026-12-14T10:55:00",
    "price": {
     "value": 84.78,
     "valueMainUnit": "84",
@@ -1344,10 +1344,10 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~1738~ ~~SZG~12/14/2026 11:45~MAN~12/14/2026 13:00~~",
-   "flightNumber": "FR1738",
+   "flightKey": "FR~ 305~ ~~SZG~12/14/2026 10:00~STN~12/14/2026 10:55~~",
+   "flightNumber": "FR305",
    "previousPrice": null,
-   "priceUpdated": 1791800906000
+   "priceUpdated": 1792437546000
   },
   "summary": {
    "price": {

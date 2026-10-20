@@ -26,8 +26,8 @@
    "departureDate": "2026-12-07T12:30:00",
    "arrivalDate": "2026-12-07T14:00:00",
    "price": {
-    "value": 58.99,
-    "valueMainUnit": "58",
+    "value": 68.99,
+    "valueMainUnit": "68",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -35,12 +35,313 @@
    "flightKey": "FR~4666~ ~~RVN~12/07/2026 12:30~BHX~12/07/2026 14:00~~",
    "flightNumber": "FR4666",
    "previousPrice": null,
-   "priceUpdated": 1791800834000
+   "priceUpdated": 1792419471000
   },
   "summary": {
    "price": {
-    "value": 58.99,
-    "valueMainUnit": "58",
+    "value": 68.99,
+    "valueMainUnit": "68",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
+    "city": {
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
+    }
+   },
+   "departureDate": "2026-12-05T20:15:00",
+   "arrivalDate": "2026-12-05T22:40:00",
+   "price": {
+    "value": 78.25,
+    "valueMainUnit": "78",
+    "valueFractionalUnit": "25",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4810~ ~~RVN~12/05/2026 20:15~CRL~12/05/2026 22:40~~",
+   "flightNumber": "FR4810",
+   "previousPrice": null,
+   "priceUpdated": 1792405633000
+  },
+  "summary": {
+   "price": {
+    "value": 78.25,
+    "valueMainUnit": "78",
+    "valueFractionalUnit": "25",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LPL",
+    "name": "Liverpool",
+    "seoName": "liverpool",
+    "city": {
+     "code": "LIVERPOOL",
+     "countryCode": "gb",
+     "name": "Liverpool"
+    }
+   },
+   "departureDate": "2026-12-08T14:20:00",
+   "arrivalDate": "2026-12-08T15:50:00",
+   "price": {
+    "value": 82.99,
+    "valueMainUnit": "82",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9985~ ~~RVN~12/08/2026 14:20~LPL~12/08/2026 15:50~~",
+   "flightNumber": "FR9985",
+   "previousPrice": null,
+   "priceUpdated": 1792437134000
+  },
+  "summary": {
+   "price": {
+    "value": 82.99,
+    "valueMainUnit": "82",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "SNN",
+    "name": "Shannon",
+    "seoName": "shannon",
+    "city": {
+     "code": "SHANNON",
+     "countryCode": "ie",
+     "name": "Shannon"
+    }
+   },
+   "departureDate": "2026-12-05T22:40:00",
+   "arrivalDate": "2026-12-06T00:30:00",
+   "price": {
+    "value": 82.99,
+    "valueMainUnit": "82",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4315~ ~~RVN~12/05/2026 22:40~SNN~12/06/2026 00:30~~",
+   "flightNumber": "FR4315",
+   "previousPrice": null,
+   "priceUpdated": 1792439600000
+  },
+  "summary": {
+   "price": {
+    "value": 82.99,
+    "valueMainUnit": "82",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "France",
+    "iataCode": "BVA",
+    "name": "Paris Beauvais",
+    "seoName": "paris-beauvais",
+    "city": {
+     "code": "PARIS",
+     "countryCode": "fr",
+     "macCode": "PAR",
+     "name": "Paris"
+    }
+   },
+   "departureDate": "2026-12-10T20:00:00",
+   "arrivalDate": "2026-12-10T22:40:00",
+   "price": {
+    "value": 85.99,
+    "valueMainUnit": "85",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1655~ ~~RVN~12/10/2026 20:00~BVA~12/10/2026 22:40~~",
+   "flightNumber": "FR1655",
+   "previousPrice": null,
+   "priceUpdated": 1792419380000
+  },
+  "summary": {
+   "price": {
+    "value": 85.99,
+    "valueMainUnit": "85",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-05T17:05:00",
+   "arrivalDate": "2026-12-05T19:55:00",
+   "price": {
+    "value": 87.99,
+    "valueMainUnit": "87",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4312~ ~~RVN~12/05/2026 17:05~BGY~12/05/2026 19:55~~",
+   "flightNumber": "FR4312",
+   "previousPrice": null,
+   "priceUpdated": 1792419267000
+  },
+  "summary": {
+   "price": {
+    "value": 87.99,
+    "valueMainUnit": "87",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-11T12:25:00",
+   "arrivalDate": "2026-12-11T15:15:00",
+   "price": {
+    "value": 99.99,
+    "valueMainUnit": "99",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4312~ ~~RVN~12/11/2026 12:25~BGY~12/11/2026 15:15~~",
+   "flightNumber": "FR4312",
+   "previousPrice": null,
+   "priceUpdated": 1792419377000
+  },
+  "summary": {
+   "price": {
+    "value": 99.99,
+    "valueMainUnit": "99",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -77,8 +378,8 @@
    "departureDate": "2026-12-11T12:10:00",
    "arrivalDate": "2026-12-11T13:40:00",
    "price": {
-    "value": 74.99,
-    "valueMainUnit": "74",
+    "value": 101.99,
+    "valueMainUnit": "101",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -86,162 +387,12 @@
    "flightKey": "FR~1932~ ~~RVN~12/11/2026 12:10~STN~12/11/2026 13:40~~",
    "flightNumber": "FR1932",
    "previousPrice": null,
-   "priceUpdated": 1791800833000
+   "priceUpdated": 1792433480000
   },
   "summary": {
    "price": {
-    "value": 74.99,
-    "valueMainUnit": "74",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "SNN",
-    "name": "Shannon",
-    "seoName": "shannon",
-    "city": {
-     "code": "SHANNON",
-     "countryCode": "ie",
-     "name": "Shannon"
-    }
-   },
-   "departureDate": "2026-12-05T22:40:00",
-   "arrivalDate": "2026-12-06T00:30:00",
-   "price": {
-    "value": 80.99,
-    "valueMainUnit": "80",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4315~ ~~RVN~12/05/2026 22:40~SNN~12/06/2026 00:30~~",
-   "flightNumber": "FR4315",
-   "previousPrice": null,
-   "priceUpdated": 1791803349000
-  },
-  "summary": {
-   "price": {
-    "value": 80.99,
-    "valueMainUnit": "80",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
-    "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
-    }
-   },
-   "departureDate": "2026-12-05T20:15:00",
-   "arrivalDate": "2026-12-05T22:40:00",
-   "price": {
-    "value": 87.16,
-    "valueMainUnit": "87",
-    "valueFractionalUnit": "16",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4810~ ~~RVN~12/05/2026 20:15~CRL~12/05/2026 22:40~~",
-   "flightNumber": "FR4810",
-   "previousPrice": null,
-   "priceUpdated": 1791800833000
-  },
-  "summary": {
-   "price": {
-    "value": 87.16,
-    "valueMainUnit": "87",
-    "valueFractionalUnit": "16",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
-    "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
-    }
-   },
-   "departureDate": "2026-12-08T20:15:00",
-   "arrivalDate": "2026-12-08T22:40:00",
-   "price": {
-    "value": 98.99,
-    "valueMainUnit": "98",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4810~ ~~RVN~12/08/2026 20:15~CRL~12/08/2026 22:40~~",
-   "flightNumber": "FR4810",
-   "previousPrice": null,
-   "priceUpdated": 1791800831000
-  },
-  "summary": {
-   "price": {
-    "value": 98.99,
-    "valueMainUnit": "98",
+    "value": 101.99,
+    "valueMainUnit": "101",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -278,228 +429,27 @@
    "departureDate": "2026-12-05T22:05:00",
    "arrivalDate": "2026-12-05T23:35:00",
    "price": {
-    "value": 100.79,
-    "valueMainUnit": "100",
-    "valueFractionalUnit": "79",
+    "value": 107.99,
+    "valueMainUnit": "107",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~1932~ ~~RVN~12/05/2026 22:05~STN~12/05/2026 23:35~~",
    "flightNumber": "FR1932",
    "previousPrice": null,
-   "priceUpdated": 1791800834000
+   "priceUpdated": 1792423636000
   },
   "summary": {
    "price": {
-    "value": 100.79,
-    "valueMainUnit": "100",
-    "valueFractionalUnit": "79",
+    "value": 107.99,
+    "valueMainUnit": "107",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "France",
-    "iataCode": "BVA",
-    "name": "Paris Beauvais",
-    "seoName": "paris-beauvais",
-    "city": {
-     "code": "PARIS",
-     "countryCode": "fr",
-     "macCode": "PAR",
-     "name": "Paris"
-    }
-   },
-   "departureDate": "2026-12-10T20:00:00",
-   "arrivalDate": "2026-12-10T22:40:00",
-   "price": {
-    "value": 100.99,
-    "valueMainUnit": "100",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1655~ ~~RVN~12/10/2026 20:00~BVA~12/10/2026 22:40~~",
-   "flightNumber": "FR1655",
-   "previousPrice": null,
-   "priceUpdated": 1791800831000
-  },
-  "summary": {
-   "price": {
-    "value": 100.99,
-    "valueMainUnit": "100",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LPL",
-    "name": "Liverpool",
-    "seoName": "liverpool",
-    "city": {
-     "code": "LIVERPOOL",
-     "countryCode": "gb",
-     "name": "Liverpool"
-    }
-   },
-   "departureDate": "2026-12-08T14:20:00",
-   "arrivalDate": "2026-12-08T15:50:00",
-   "price": {
-    "value": 110.99,
-    "valueMainUnit": "110",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~9985~ ~~RVN~12/08/2026 14:20~LPL~12/08/2026 15:50~~",
-   "flightNumber": "FR9985",
-   "previousPrice": null,
-   "priceUpdated": 1791803362000
-  },
-  "summary": {
-   "price": {
-    "value": 110.99,
-    "valueMainUnit": "110",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-05T17:05:00",
-   "arrivalDate": "2026-12-05T19:55:00",
-   "price": {
-    "value": 112.99,
-    "valueMainUnit": "112",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4312~ ~~RVN~12/05/2026 17:05~BGY~12/05/2026 19:55~~",
-   "flightNumber": "FR4312",
-   "previousPrice": null,
-   "priceUpdated": 1791800832000
-  },
-  "summary": {
-   "price": {
-    "value": 112.99,
-    "valueMainUnit": "112",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-04T12:25:00",
-   "arrivalDate": "2026-12-04T15:15:00",
-   "price": {
-    "value": 119.12,
-    "valueMainUnit": "119",
-    "valueFractionalUnit": "12",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4312~ ~~RVN~12/04/2026 12:25~BGY~12/04/2026 15:15~~",
-   "flightNumber": "FR4312",
-   "previousPrice": null,
-   "priceUpdated": 1791800831000
-  },
-  "summary": {
-   "price": {
-    "value": 119.12,
-    "valueMainUnit": "119",
-    "valueFractionalUnit": "12",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
   }
  },
  {
@@ -529,22 +479,22 @@
    "departureDate": "2026-12-05T22:20:00",
    "arrivalDate": "2026-12-05T23:50:00",
    "price": {
-    "value": 123.27,
-    "valueMainUnit": "123",
-    "valueFractionalUnit": "27",
+    "value": 109.41,
+    "valueMainUnit": "109",
+    "valueFractionalUnit": "41",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~9985~ ~~RVN~12/05/2026 22:20~LPL~12/05/2026 23:50~~",
    "flightNumber": "FR9985",
    "previousPrice": null,
-   "priceUpdated": 1791800833000
+   "priceUpdated": 1792405637000
   },
   "summary": {
    "price": {
-    "value": 123.27,
-    "valueMainUnit": "123",
-    "valueFractionalUnit": "27",
+    "value": 109.41,
+    "valueMainUnit": "109",
+    "valueFractionalUnit": "41",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -576,25 +526,25 @@
      "name": "Charleroi"
     }
    },
-   "departureDate": "2026-12-10T19:10:00",
-   "arrivalDate": "2026-12-10T21:35:00",
+   "departureDate": "2026-12-08T20:15:00",
+   "arrivalDate": "2026-12-08T22:40:00",
    "price": {
-    "value": 124.61,
-    "valueMainUnit": "124",
-    "valueFractionalUnit": "61",
+    "value": 110.99,
+    "valueMainUnit": "110",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~4810~ ~~RVN~12/10/2026 19:10~CRL~12/10/2026 21:35~~",
+   "flightKey": "FR~4810~ ~~RVN~12/08/2026 20:15~CRL~12/08/2026 22:40~~",
    "flightNumber": "FR4810",
    "previousPrice": null,
-   "priceUpdated": 1791800834000
+   "priceUpdated": 1792419381000
   },
   "summary": {
    "price": {
-    "value": 124.61,
-    "valueMainUnit": "124",
-    "valueFractionalUnit": "61",
+    "value": 110.99,
+    "valueMainUnit": "110",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -626,226 +576,25 @@
      "name": "Bergamo"
     }
    },
-   "departureDate": "2026-12-11T12:25:00",
-   "arrivalDate": "2026-12-11T15:15:00",
+   "departureDate": "2026-12-04T12:25:00",
+   "arrivalDate": "2026-12-04T15:15:00",
    "price": {
-    "value": 130.99,
-    "valueMainUnit": "130",
-    "valueFractionalUnit": "99",
+    "value": 112.06,
+    "valueMainUnit": "112",
+    "valueFractionalUnit": "06",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~4312~ ~~RVN~12/11/2026 12:25~BGY~12/11/2026 15:15~~",
+   "flightKey": "FR~4312~ ~~RVN~12/04/2026 12:25~BGY~12/04/2026 15:15~~",
    "flightNumber": "FR4312",
    "previousPrice": null,
-   "priceUpdated": 1791800831000
+   "priceUpdated": 1792438456000
   },
   "summary": {
    "price": {
-    "value": 130.99,
-    "valueMainUnit": "130",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "BRS",
-    "name": "Bristol",
-    "seoName": "bristol",
-    "city": {
-     "code": "BRISTOL",
-     "countryCode": "gb",
-     "name": "Bristol"
-    }
-   },
-   "departureDate": "2026-12-10T11:55:00",
-   "arrivalDate": "2026-12-10T13:30:00",
-   "price": {
-    "value": 143.54,
-    "valueMainUnit": "143",
-    "valueFractionalUnit": "54",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6668~ ~~RVN~12/10/2026 11:55~BRS~12/10/2026 13:30~~",
-   "flightNumber": "FR6668",
-   "previousPrice": null,
-   "priceUpdated": 1791800830000
-  },
-  "summary": {
-   "price": {
-    "value": 143.54,
-    "valueMainUnit": "143",
-    "valueFractionalUnit": "54",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "BHX",
-    "name": "Birmingham",
-    "seoName": "birmingham",
-    "city": {
-     "code": "BIRMINGHAM",
-     "countryCode": "gb",
-     "name": "Birmingham"
-    }
-   },
-   "departureDate": "2026-12-05T20:45:00",
-   "arrivalDate": "2026-12-05T22:10:00",
-   "price": {
-    "value": 146.59,
-    "valueMainUnit": "146",
-    "valueFractionalUnit": "59",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4666~ ~~RVN~12/05/2026 20:45~BHX~12/05/2026 22:10~~",
-   "flightNumber": "FR4666",
-   "previousPrice": null,
-   "priceUpdated": 1791800830000
-  },
-  "summary": {
-   "price": {
-    "value": 146.59,
-    "valueMainUnit": "146",
-    "valueFractionalUnit": "59",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-04T12:10:00",
-   "arrivalDate": "2026-12-04T13:40:00",
-   "price": {
-    "value": 148.57,
-    "valueMainUnit": "148",
-    "valueFractionalUnit": "57",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1932~ ~~RVN~12/04/2026 12:10~STN~12/04/2026 13:40~~",
-   "flightNumber": "FR1932",
-   "previousPrice": null,
-   "priceUpdated": 1791800831000
-  },
-  "summary": {
-   "price": {
-    "value": 148.57,
-    "valueMainUnit": "148",
-    "valueFractionalUnit": "57",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-06T22:20:00",
-   "arrivalDate": "2026-12-07T01:10:00",
-   "price": {
-    "value": 150.99,
-    "valueMainUnit": "150",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4444~ ~~RVN~12/06/2026 22:20~BGY~12/07/2026 01:10~~",
-   "flightNumber": "FR4444",
-   "previousPrice": null,
-   "priceUpdated": 1791800830000
-  },
-  "summary": {
-   "price": {
-    "value": 150.99,
-    "valueMainUnit": "150",
-    "valueFractionalUnit": "99",
+    "value": 112.06,
+    "valueMainUnit": "112",
+    "valueFractionalUnit": "06",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -880,8 +629,8 @@
    "departureDate": "2026-12-05T15:55:00",
    "arrivalDate": "2026-12-05T17:25:00",
    "price": {
-    "value": 158.59,
-    "valueMainUnit": "158",
+    "value": 117.59,
+    "valueMainUnit": "117",
     "valueFractionalUnit": "59",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -889,364 +638,12 @@
    "flightKey": "FR~6665~ ~~RVN~12/05/2026 15:55~MAN~12/05/2026 17:25~~",
    "flightNumber": "FR6665",
    "previousPrice": null,
-   "priceUpdated": 1791800833000
+   "priceUpdated": 1792427703000
   },
   "summary": {
    "price": {
-    "value": 158.59,
-    "valueMainUnit": "158",
-    "valueFractionalUnit": "59",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "MAN",
-    "name": "Manchester",
-    "seoName": "manchester",
-    "city": {
-     "code": "MANCHESTER",
-     "countryCode": "gb",
-     "name": "Manchester"
-    }
-   },
-   "departureDate": "2026-12-07T13:25:00",
-   "arrivalDate": "2026-12-07T14:55:00",
-   "price": {
-    "value": 172.99,
-    "valueMainUnit": "172",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6665~ ~~RVN~12/07/2026 13:25~MAN~12/07/2026 14:55~~",
-   "flightNumber": "FR6665",
-   "previousPrice": null,
-   "priceUpdated": 1791800833000
-  },
-  "summary": {
-   "price": {
-    "value": 172.99,
-    "valueMainUnit": "172",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-09T16:05:00",
-   "arrivalDate": "2026-12-09T17:35:00",
-   "price": {
-    "value": 178.99,
-    "valueMainUnit": "178",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1932~ ~~RVN~12/09/2026 16:05~STN~12/09/2026 17:35~~",
-   "flightNumber": "FR1932",
-   "previousPrice": null,
-   "priceUpdated": 1791800832000
-  },
-  "summary": {
-   "price": {
-    "value": 178.99,
-    "valueMainUnit": "178",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-10T20:45:00",
-   "arrivalDate": "2026-12-10T23:35:00",
-   "price": {
-    "value": 178.99,
-    "valueMainUnit": "178",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4312~ ~~RVN~12/10/2026 20:45~BGY~12/10/2026 23:35~~",
-   "flightNumber": "FR4312",
-   "previousPrice": null,
-   "priceUpdated": 1791800834000
-  },
-  "summary": {
-   "price": {
-    "value": 178.99,
-    "valueMainUnit": "178",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-05T11:45:00",
-   "arrivalDate": "2026-12-05T13:20:00",
-   "price": {
-    "value": 182.99,
-    "valueMainUnit": "182",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~8661~ ~~RVN~12/05/2026 11:45~DUB~12/05/2026 13:20~~",
-   "flightNumber": "FR8661",
-   "previousPrice": null,
-   "priceUpdated": 1791800830000
-  },
-  "summary": {
-   "price": {
-    "value": 182.99,
-    "valueMainUnit": "182",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-07T23:20:00",
-   "arrivalDate": "2026-12-08T00:55:00",
-   "price": {
-    "value": 183.99,
-    "valueMainUnit": "183",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~8661~ ~~RVN~12/07/2026 23:20~DUB~12/08/2026 00:55~~",
-   "flightNumber": "FR8661",
-   "previousPrice": null,
-   "priceUpdated": 1791800831000
-  },
-  "summary": {
-   "price": {
-    "value": 183.99,
-    "valueMainUnit": "183",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-10T12:15:00",
-   "arrivalDate": "2026-12-10T13:45:00",
-   "price": {
-    "value": 197.47,
-    "valueMainUnit": "197",
-    "valueFractionalUnit": "47",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1932~ ~~RVN~12/10/2026 12:15~STN~12/10/2026 13:45~~",
-   "flightNumber": "FR1932",
-   "previousPrice": null,
-   "priceUpdated": 1791801733000
-  },
-  "summary": {
-   "price": {
-    "value": 197.47,
-    "valueMainUnit": "197",
-    "valueFractionalUnit": "47",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "SNN",
-    "name": "Shannon",
-    "seoName": "shannon",
-    "city": {
-     "code": "SHANNON",
-     "countryCode": "ie",
-     "name": "Shannon"
-    }
-   },
-   "departureDate": "2026-12-07T13:40:00",
-   "arrivalDate": "2026-12-07T15:30:00",
-   "price": {
-    "value": 198.59,
-    "valueMainUnit": "198",
-    "valueFractionalUnit": "59",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4315~ ~~RVN~12/07/2026 13:40~SNN~12/07/2026 15:30~~",
-   "flightNumber": "FR4315",
-   "previousPrice": null,
-   "priceUpdated": 1791800831000
-  },
-  "summary": {
-   "price": {
-    "value": 198.59,
-    "valueMainUnit": "198",
+    "value": 117.59,
+    "valueMainUnit": "117",
     "valueFractionalUnit": "59",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1283,22 +680,573 @@
    "departureDate": "2026-12-08T12:45:00",
    "arrivalDate": "2026-12-08T14:15:00",
    "price": {
-    "value": 201.59,
-    "valueMainUnit": "201",
-    "valueFractionalUnit": "59",
+    "value": 118.49,
+    "valueMainUnit": "118",
+    "valueFractionalUnit": "49",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~1932~ ~~RVN~12/08/2026 12:45~STN~12/08/2026 14:15~~",
    "flightNumber": "FR1932",
    "previousPrice": null,
-   "priceUpdated": 1791800830000
+   "priceUpdated": 1792423633000
   },
   "summary": {
    "price": {
-    "value": 201.59,
-    "valueMainUnit": "201",
-    "valueFractionalUnit": "59",
+    "value": 118.49,
+    "valueMainUnit": "118",
+    "valueFractionalUnit": "49",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-04T12:10:00",
+   "arrivalDate": "2026-12-04T13:40:00",
+   "price": {
+    "value": 119.49,
+    "valueMainUnit": "119",
+    "valueFractionalUnit": "49",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1932~ ~~RVN~12/04/2026 12:10~STN~12/04/2026 13:40~~",
+   "flightNumber": "FR1932",
+   "previousPrice": null,
+   "priceUpdated": 1792422734000
+  },
+  "summary": {
+   "price": {
+    "value": 119.49,
+    "valueMainUnit": "119",
+    "valueFractionalUnit": "49",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
+    "city": {
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
+    }
+   },
+   "departureDate": "2026-12-10T19:10:00",
+   "arrivalDate": "2026-12-10T21:35:00",
+   "price": {
+    "value": 121.96,
+    "valueMainUnit": "121",
+    "valueFractionalUnit": "96",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4810~ ~~RVN~12/10/2026 19:10~CRL~12/10/2026 21:35~~",
+   "flightNumber": "FR4810",
+   "previousPrice": null,
+   "priceUpdated": 1792405633000
+  },
+  "summary": {
+   "price": {
+    "value": 121.96,
+    "valueMainUnit": "121",
+    "valueFractionalUnit": "96",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-07T23:20:00",
+   "arrivalDate": "2026-12-08T00:55:00",
+   "price": {
+    "value": 122.99,
+    "valueMainUnit": "122",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~8661~ ~~RVN~12/07/2026 23:20~DUB~12/08/2026 00:55~~",
+   "flightNumber": "FR8661",
+   "previousPrice": null,
+   "priceUpdated": 1792419384000
+  },
+  "summary": {
+   "price": {
+    "value": 122.99,
+    "valueMainUnit": "122",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "BRS",
+    "name": "Bristol",
+    "seoName": "bristol",
+    "city": {
+     "code": "BRISTOL",
+     "countryCode": "gb",
+     "name": "Bristol"
+    }
+   },
+   "departureDate": "2026-12-10T11:55:00",
+   "arrivalDate": "2026-12-10T13:30:00",
+   "price": {
+    "value": 125.19,
+    "valueMainUnit": "125",
+    "valueFractionalUnit": "19",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6668~ ~~RVN~12/10/2026 11:55~BRS~12/10/2026 13:30~~",
+   "flightNumber": "FR6668",
+   "previousPrice": null,
+   "priceUpdated": 1792427682000
+  },
+  "summary": {
+   "price": {
+    "value": 125.19,
+    "valueMainUnit": "125",
+    "valueFractionalUnit": "19",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "SNN",
+    "name": "Shannon",
+    "seoName": "shannon",
+    "city": {
+     "code": "SHANNON",
+     "countryCode": "ie",
+     "name": "Shannon"
+    }
+   },
+   "departureDate": "2026-12-07T13:40:00",
+   "arrivalDate": "2026-12-07T15:30:00",
+   "price": {
+    "value": 143.09,
+    "valueMainUnit": "143",
+    "valueFractionalUnit": "09",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4315~ ~~RVN~12/07/2026 13:40~SNN~12/07/2026 15:30~~",
+   "flightNumber": "FR4315",
+   "previousPrice": null,
+   "priceUpdated": 1792435333000
+  },
+  "summary": {
+   "price": {
+    "value": 143.09,
+    "valueMainUnit": "143",
+    "valueFractionalUnit": "09",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "MAN",
+    "name": "Manchester",
+    "seoName": "manchester",
+    "city": {
+     "code": "MANCHESTER",
+     "countryCode": "gb",
+     "name": "Manchester"
+    }
+   },
+   "departureDate": "2026-12-07T13:25:00",
+   "arrivalDate": "2026-12-07T14:55:00",
+   "price": {
+    "value": 145.99,
+    "valueMainUnit": "145",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6665~ ~~RVN~12/07/2026 13:25~MAN~12/07/2026 14:55~~",
+   "flightNumber": "FR6665",
+   "previousPrice": null,
+   "priceUpdated": 1792419296000
+  },
+  "summary": {
+   "price": {
+    "value": 145.99,
+    "valueMainUnit": "145",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "BHX",
+    "name": "Birmingham",
+    "seoName": "birmingham",
+    "city": {
+     "code": "BIRMINGHAM",
+     "countryCode": "gb",
+     "name": "Birmingham"
+    }
+   },
+   "departureDate": "2026-12-05T20:45:00",
+   "arrivalDate": "2026-12-05T22:10:00",
+   "price": {
+    "value": 149.69,
+    "valueMainUnit": "149",
+    "valueFractionalUnit": "69",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4666~ ~~RVN~12/05/2026 20:45~BHX~12/05/2026 22:10~~",
+   "flightNumber": "FR4666",
+   "previousPrice": null,
+   "priceUpdated": 1792405628000
+  },
+  "summary": {
+   "price": {
+    "value": 149.69,
+    "valueMainUnit": "149",
+    "valueFractionalUnit": "69",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "BRS",
+    "name": "Bristol",
+    "seoName": "bristol",
+    "city": {
+     "code": "BRISTOL",
+     "countryCode": "gb",
+     "name": "Bristol"
+    }
+   },
+   "departureDate": "2026-12-06T17:20:00",
+   "arrivalDate": "2026-12-06T18:55:00",
+   "price": {
+    "value": 152.99,
+    "valueMainUnit": "152",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6668~ ~~RVN~12/06/2026 17:20~BRS~12/06/2026 18:55~~",
+   "flightNumber": "FR6668",
+   "previousPrice": null,
+   "priceUpdated": 1792429934000
+  },
+  "summary": {
+   "price": {
+    "value": 152.99,
+    "valueMainUnit": "152",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-10T20:45:00",
+   "arrivalDate": "2026-12-10T23:35:00",
+   "price": {
+    "value": 152.99,
+    "valueMainUnit": "152",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4312~ ~~RVN~12/10/2026 20:45~BGY~12/10/2026 23:35~~",
+   "flightNumber": "FR4312",
+   "previousPrice": null,
+   "priceUpdated": 1792436734000
+  },
+  "summary": {
+   "price": {
+    "value": 152.99,
+    "valueMainUnit": "152",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-06T22:20:00",
+   "arrivalDate": "2026-12-07T01:10:00",
+   "price": {
+    "value": 158.99,
+    "valueMainUnit": "158",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4444~ ~~RVN~12/06/2026 22:20~BGY~12/07/2026 01:10~~",
+   "flightNumber": "FR4444",
+   "previousPrice": null,
+   "priceUpdated": 1792441451000
+  },
+  "summary": {
+   "price": {
+    "value": 158.99,
+    "valueMainUnit": "158",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-05T11:45:00",
+   "arrivalDate": "2026-12-05T13:20:00",
+   "price": {
+    "value": 162.99,
+    "valueMainUnit": "162",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~8661~ ~~RVN~12/05/2026 11:45~DUB~12/05/2026 13:20~~",
+   "flightNumber": "FR8661",
+   "previousPrice": null,
+   "priceUpdated": 1792419406000
+  },
+  "summary": {
+   "price": {
+    "value": 162.99,
+    "valueMainUnit": "162",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1333,77 +1281,27 @@
    "departureDate": "2026-12-09T20:45:00",
    "arrivalDate": "2026-12-09T22:20:00",
    "price": {
-    "value": 204.47,
-    "valueMainUnit": "204",
-    "valueFractionalUnit": "47",
+    "value": 173.86,
+    "valueMainUnit": "173",
+    "valueFractionalUnit": "86",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~8661~ ~~RVN~12/09/2026 20:45~DUB~12/09/2026 22:20~~",
    "flightNumber": "FR8661",
    "previousPrice": null,
-   "priceUpdated": 1791800830000
+   "priceUpdated": 1792429033000
   },
   "summary": {
    "price": {
-    "value": 204.47,
-    "valueMainUnit": "204",
-    "valueFractionalUnit": "47",
+    "value": 173.86,
+    "valueMainUnit": "173",
+    "valueFractionalUnit": "86",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "BRS",
-    "name": "Bristol",
-    "seoName": "bristol",
-    "city": {
-     "code": "BRISTOL",
-     "countryCode": "gb",
-     "name": "Bristol"
-    }
-   },
-   "departureDate": "2026-12-06T17:20:00",
-   "arrivalDate": "2026-12-06T18:55:00",
-   "price": {
-    "value": 205.49,
-    "valueMainUnit": "205",
-    "valueFractionalUnit": "49",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6668~ ~~RVN~12/06/2026 17:20~BRS~12/06/2026 18:55~~",
-   "flightNumber": "FR6668",
-   "previousPrice": null,
-   "priceUpdated": 1791800833000
-  },
-  "summary": {
-   "price": {
-    "value": 205.49,
-    "valueMainUnit": "205",
-    "valueFractionalUnit": "49",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
   }
  },
  {
@@ -1434,22 +1332,22 @@
    "departureDate": "2026-12-06T19:40:00",
    "arrivalDate": "2026-12-06T22:20:00",
    "price": {
-    "value": 207.21,
-    "valueMainUnit": "207",
-    "valueFractionalUnit": "21",
+    "value": 189.83,
+    "valueMainUnit": "189",
+    "valueFractionalUnit": "83",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~1655~ ~~RVN~12/06/2026 19:40~BVA~12/06/2026 22:20~~",
    "flightNumber": "FR1655",
    "previousPrice": null,
-   "priceUpdated": 1791800829000
+   "priceUpdated": 1792405633000
   },
   "summary": {
    "price": {
-    "value": 207.21,
-    "valueMainUnit": "207",
-    "valueFractionalUnit": "21",
+    "value": 189.83,
+    "valueMainUnit": "189",
+    "valueFractionalUnit": "83",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1482,25 +1380,76 @@
      "name": "London"
     }
    },
-   "departureDate": "2026-12-06T21:25:00",
-   "arrivalDate": "2026-12-06T22:55:00",
+   "departureDate": "2026-12-09T16:05:00",
+   "arrivalDate": "2026-12-09T17:35:00",
    "price": {
-    "value": 235.79,
-    "valueMainUnit": "235",
-    "valueFractionalUnit": "79",
+    "value": 190.99,
+    "valueMainUnit": "190",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~1932~ ~~RVN~12/06/2026 21:25~STN~12/06/2026 22:55~~",
+   "flightKey": "FR~1932~ ~~RVN~12/09/2026 16:05~STN~12/09/2026 17:35~~",
    "flightNumber": "FR1932",
    "previousPrice": null,
-   "priceUpdated": 1791800830000
+   "priceUpdated": 1792419380000
   },
   "summary": {
    "price": {
-    "value": 235.79,
-    "valueMainUnit": "235",
-    "valueFractionalUnit": "79",
+    "value": 190.99,
+    "valueMainUnit": "190",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-10T12:15:00",
+   "arrivalDate": "2026-12-10T13:45:00",
+   "price": {
+    "value": 199.74,
+    "valueMainUnit": "199",
+    "valueFractionalUnit": "74",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1932~ ~~RVN~12/10/2026 12:15~STN~12/10/2026 13:45~~",
+   "flightNumber": "FR1932",
+   "previousPrice": null,
+   "priceUpdated": 1792405633000
+  },
+  "summary": {
+   "price": {
+    "value": 199.74,
+    "valueMainUnit": "199",
+    "valueFractionalUnit": "74",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1536,22 +1485,22 @@
    "departureDate": "2026-12-07T20:10:00",
    "arrivalDate": "2026-12-07T21:40:00",
    "price": {
-    "value": 311.91,
-    "valueMainUnit": "311",
-    "valueFractionalUnit": "91",
+    "value": 217.25,
+    "valueMainUnit": "217",
+    "valueFractionalUnit": "25",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~1932~ ~~RVN~12/07/2026 20:10~STN~12/07/2026 21:40~~",
    "flightNumber": "FR1932",
    "previousPrice": null,
-   "priceUpdated": 1791800831000
+   "priceUpdated": 1792439838000
   },
   "summary": {
    "price": {
-    "value": 311.91,
-    "valueMainUnit": "311",
-    "valueFractionalUnit": "91",
+    "value": 217.25,
+    "valueMainUnit": "217",
+    "valueFractionalUnit": "25",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1586,22 +1535,22 @@
    "departureDate": "2026-12-10T14:25:00",
    "arrivalDate": "2026-12-10T16:15:00",
    "price": {
-    "value": 349.89,
-    "valueMainUnit": "349",
-    "valueFractionalUnit": "89",
+    "value": 294.7,
+    "valueMainUnit": "294",
+    "valueFractionalUnit": "70",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~4315~ ~~RVN~12/10/2026 14:25~SNN~12/10/2026 16:15~~",
    "flightNumber": "FR4315",
    "previousPrice": null,
-   "priceUpdated": 1791800830000
+   "priceUpdated": 1792427681000
   },
   "summary": {
    "price": {
-    "value": 349.89,
-    "valueMainUnit": "349",
-    "valueFractionalUnit": "89",
+    "value": 294.7,
+    "valueMainUnit": "294",
+    "valueFractionalUnit": "70",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1633,25 +1582,76 @@
      "name": "Dublin"
     }
    },
-   "departureDate": "2026-12-06T14:05:00",
-   "arrivalDate": "2026-12-06T15:40:00",
+   "departureDate": "2026-12-10T11:30:00",
+   "arrivalDate": "2026-12-10T13:05:00",
    "price": {
-    "value": 350.93,
-    "valueMainUnit": "350",
-    "valueFractionalUnit": "93",
+    "value": 343.99,
+    "valueMainUnit": "343",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~8661~ ~~RVN~12/06/2026 14:05~DUB~12/06/2026 15:40~~",
+   "flightKey": "FR~8661~ ~~RVN~12/10/2026 11:30~DUB~12/10/2026 13:05~~",
    "flightNumber": "FR8661",
    "previousPrice": null,
-   "priceUpdated": 1791800830000
+   "priceUpdated": 1792419380000
   },
   "summary": {
    "price": {
-    "value": 350.93,
-    "valueMainUnit": "350",
-    "valueFractionalUnit": "93",
+    "value": 343.99,
+    "valueMainUnit": "343",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-06T21:25:00",
+   "arrivalDate": "2026-12-06T22:55:00",
+   "price": {
+    "value": 351.49,
+    "valueMainUnit": "351",
+    "valueFractionalUnit": "49",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1932~ ~~RVN~12/06/2026 21:25~STN~12/06/2026 22:55~~",
+   "flightNumber": "FR1932",
+   "previousPrice": null,
+   "priceUpdated": 1792421833000
+  },
+  "summary": {
+   "price": {
+    "value": 351.49,
+    "valueMainUnit": "351",
+    "valueFractionalUnit": "49",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1683,25 +1683,25 @@
      "name": "Dublin"
     }
    },
-   "departureDate": "2026-12-10T11:30:00",
-   "arrivalDate": "2026-12-10T13:05:00",
+   "departureDate": "2026-12-06T14:05:00",
+   "arrivalDate": "2026-12-06T15:40:00",
    "price": {
-    "value": 380.99,
+    "value": 380.19,
     "valueMainUnit": "380",
-    "valueFractionalUnit": "99",
+    "valueFractionalUnit": "19",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~8661~ ~~RVN~12/10/2026 11:30~DUB~12/10/2026 13:05~~",
+   "flightKey": "FR~8661~ ~~RVN~12/06/2026 14:05~DUB~12/06/2026 15:40~~",
    "flightNumber": "FR8661",
    "previousPrice": null,
-   "priceUpdated": 1791800833000
+   "priceUpdated": 1792405635000
   },
   "summary": {
    "price": {
-    "value": 380.99,
+    "value": 380.19,
     "valueMainUnit": "380",
-    "valueFractionalUnit": "99",
+    "valueFractionalUnit": "19",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1745,7 +1745,7 @@
    "flightKey": "FR~4312~ ~~RVN~12/07/2026 22:05~BGY~12/08/2026 00:55~~",
    "flightNumber": "FR4312",
    "previousPrice": null,
-   "priceUpdated": 1791800834000
+   "priceUpdated": 1792419275000
   },
   "summary": {
    "price": {
@@ -1773,184 +1773,34 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
+    "countryName": "Ireland",
+    "iataCode": "SNN",
+    "name": "Shannon",
+    "seoName": "shannon",
     "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
+     "code": "SHANNON",
+     "countryCode": "ie",
+     "name": "Shannon"
     }
    },
-   "departureDate": "2026-12-15T20:15:00",
-   "arrivalDate": "2026-12-15T22:40:00",
+   "departureDate": "2026-12-12T22:40:00",
+   "arrivalDate": "2026-12-13T00:30:00",
    "price": {
-    "value": 90.99,
-    "valueMainUnit": "90",
+    "value": 68.99,
+    "valueMainUnit": "68",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~4810~ ~~RVN~12/15/2026 20:15~CRL~12/15/2026 22:40~~",
-   "flightNumber": "FR4810",
+   "flightKey": "FR~4315~ ~~RVN~12/12/2026 22:40~SNN~12/13/2026 00:30~~",
+   "flightNumber": "FR4315",
    "previousPrice": null,
-   "priceUpdated": 1791800831000
+   "priceUpdated": 1792427091000
   },
   "summary": {
    "price": {
-    "value": 90.99,
-    "valueMainUnit": "90",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "BRS",
-    "name": "Bristol",
-    "seoName": "bristol",
-    "city": {
-     "code": "BRISTOL",
-     "countryCode": "gb",
-     "name": "Bristol"
-    }
-   },
-   "departureDate": "2026-12-17T11:55:00",
-   "arrivalDate": "2026-12-17T13:30:00",
-   "price": {
-    "value": 93.99,
-    "valueMainUnit": "93",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6668~ ~~RVN~12/17/2026 11:55~BRS~12/17/2026 13:30~~",
-   "flightNumber": "FR6668",
-   "previousPrice": null,
-   "priceUpdated": 1791800833000
-  },
-  "summary": {
-   "price": {
-    "value": 93.99,
-    "valueMainUnit": "93",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
-    "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
-    }
-   },
-   "departureDate": "2026-12-17T19:10:00",
-   "arrivalDate": "2026-12-17T21:35:00",
-   "price": {
-    "value": 95.67,
-    "valueMainUnit": "95",
-    "valueFractionalUnit": "67",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4810~ ~~RVN~12/17/2026 19:10~CRL~12/17/2026 21:35~~",
-   "flightNumber": "FR4810",
-   "previousPrice": null,
-   "priceUpdated": 1791800834000
-  },
-  "summary": {
-   "price": {
-    "value": 95.67,
-    "valueMainUnit": "95",
-    "valueFractionalUnit": "67",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "BHX",
-    "name": "Birmingham",
-    "seoName": "birmingham",
-    "city": {
-     "code": "BIRMINGHAM",
-     "countryCode": "gb",
-     "name": "Birmingham"
-    }
-   },
-   "departureDate": "2026-12-14T12:30:00",
-   "arrivalDate": "2026-12-14T14:00:00",
-   "price": {
-    "value": 95.99,
-    "valueMainUnit": "95",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4666~ ~~RVN~12/14/2026 12:30~BHX~12/14/2026 14:00~~",
-   "flightNumber": "FR4666",
-   "previousPrice": null,
-   "priceUpdated": 1791800834000
-  },
-  "summary": {
-   "price": {
-    "value": 95.99,
-    "valueMainUnit": "95",
+    "value": 68.99,
+    "valueMainUnit": "68",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1987,22 +1837,22 @@
    "departureDate": "2026-12-17T12:15:00",
    "arrivalDate": "2026-12-17T13:45:00",
    "price": {
-    "value": 103.39,
-    "valueMainUnit": "103",
-    "valueFractionalUnit": "39",
+    "value": 74.12,
+    "valueMainUnit": "74",
+    "valueFractionalUnit": "12",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~1932~ ~~RVN~12/17/2026 12:15~STN~12/17/2026 13:45~~",
    "flightNumber": "FR1932",
    "previousPrice": null,
-   "priceUpdated": 1791801733000
+   "priceUpdated": 1792432813000
   },
   "summary": {
    "price": {
-    "value": 103.39,
-    "valueMainUnit": "103",
-    "valueFractionalUnit": "39",
+    "value": 74.12,
+    "valueMainUnit": "74",
+    "valueFractionalUnit": "12",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2034,25 +1884,126 @@
      "name": "Charleroi"
     }
    },
-   "departureDate": "2026-12-12T20:15:00",
-   "arrivalDate": "2026-12-12T22:40:00",
+   "departureDate": "2026-12-15T20:15:00",
+   "arrivalDate": "2026-12-15T22:40:00",
    "price": {
-    "value": 104.99,
-    "valueMainUnit": "104",
+    "value": 75.99,
+    "valueMainUnit": "75",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~4810~ ~~RVN~12/12/2026 20:15~CRL~12/12/2026 22:40~~",
+   "flightKey": "FR~4810~ ~~RVN~12/15/2026 20:15~CRL~12/15/2026 22:40~~",
    "flightNumber": "FR4810",
    "previousPrice": null,
-   "priceUpdated": 1791800830000
+   "priceUpdated": 1792420032000
   },
   "summary": {
    "price": {
-    "value": 104.99,
-    "valueMainUnit": "104",
+    "value": 75.99,
+    "valueMainUnit": "75",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
+    "city": {
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
+    }
+   },
+   "departureDate": "2026-12-17T19:10:00",
+   "arrivalDate": "2026-12-17T21:35:00",
+   "price": {
+    "value": 78.25,
+    "valueMainUnit": "78",
+    "valueFractionalUnit": "25",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4810~ ~~RVN~12/17/2026 19:10~CRL~12/17/2026 21:35~~",
+   "flightNumber": "FR4810",
+   "previousPrice": null,
+   "priceUpdated": 1792405638000
+  },
+  "summary": {
+   "price": {
+    "value": 78.25,
+    "valueMainUnit": "78",
+    "valueFractionalUnit": "25",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-18T12:10:00",
+   "arrivalDate": "2026-12-18T13:40:00",
+   "price": {
+    "value": 87.29,
+    "valueMainUnit": "87",
+    "valueFractionalUnit": "29",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1932~ ~~RVN~12/18/2026 12:10~STN~12/18/2026 13:40~~",
+   "flightNumber": "FR1932",
+   "previousPrice": null,
+   "priceUpdated": 1792405633000
+  },
+  "summary": {
+   "price": {
+    "value": 87.29,
+    "valueMainUnit": "87",
+    "valueFractionalUnit": "29",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2088,8 +2039,8 @@
    "departureDate": "2026-12-12T22:05:00",
    "arrivalDate": "2026-12-12T23:35:00",
    "price": {
-    "value": 106.49,
-    "valueMainUnit": "106",
+    "value": 91.49,
+    "valueMainUnit": "91",
     "valueFractionalUnit": "49",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2097,114 +2048,13 @@
    "flightKey": "FR~1932~ ~~RVN~12/12/2026 22:05~STN~12/12/2026 23:35~~",
    "flightNumber": "FR1932",
    "previousPrice": null,
-   "priceUpdated": 1791800830000
+   "priceUpdated": 1792433087000
   },
   "summary": {
    "price": {
-    "value": 106.49,
-    "valueMainUnit": "106",
+    "value": 91.49,
+    "valueMainUnit": "91",
     "valueFractionalUnit": "49",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "SNN",
-    "name": "Shannon",
-    "seoName": "shannon",
-    "city": {
-     "code": "SHANNON",
-     "countryCode": "ie",
-     "name": "Shannon"
-    }
-   },
-   "departureDate": "2026-12-12T22:40:00",
-   "arrivalDate": "2026-12-13T00:30:00",
-   "price": {
-    "value": 116.84,
-    "valueMainUnit": "116",
-    "valueFractionalUnit": "84",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4315~ ~~RVN~12/12/2026 22:40~SNN~12/13/2026 00:30~~",
-   "flightNumber": "FR4315",
-   "previousPrice": null,
-   "priceUpdated": 1791800831000
-  },
-  "summary": {
-   "price": {
-    "value": 116.84,
-    "valueMainUnit": "116",
-    "valueFractionalUnit": "84",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-19T22:05:00",
-   "arrivalDate": "2026-12-19T23:35:00",
-   "price": {
-    "value": 116.99,
-    "valueMainUnit": "116",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1932~ ~~RVN~12/19/2026 22:05~STN~12/19/2026 23:35~~",
-   "flightNumber": "FR1932",
-   "previousPrice": null,
-   "priceUpdated": 1791800832000
-  },
-  "summary": {
-   "price": {
-    "value": 116.99,
-    "valueMainUnit": "116",
-    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2236,24 +2086,24 @@
      "name": "Birmingham"
     }
    },
-   "departureDate": "2026-12-19T20:45:00",
-   "arrivalDate": "2026-12-19T22:10:00",
+   "departureDate": "2026-12-14T12:30:00",
+   "arrivalDate": "2026-12-14T14:00:00",
    "price": {
-    "value": 122.99,
-    "valueMainUnit": "122",
+    "value": 97.99,
+    "valueMainUnit": "97",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~4666~ ~~RVN~12/19/2026 20:45~BHX~12/19/2026 22:10~~",
+   "flightKey": "FR~4666~ ~~RVN~12/14/2026 12:30~BHX~12/14/2026 14:00~~",
    "flightNumber": "FR4666",
    "previousPrice": null,
-   "priceUpdated": 1791801733000
+   "priceUpdated": 1792419439000
   },
   "summary": {
    "price": {
-    "value": 122.99,
-    "valueMainUnit": "122",
+    "value": 97.99,
+    "valueMainUnit": "97",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2276,35 +2126,84 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "France",
-    "iataCode": "BVA",
-    "name": "Paris Beauvais",
-    "seoName": "paris-beauvais",
+    "countryName": "United Kingdom",
+    "iataCode": "MAN",
+    "name": "Manchester",
+    "seoName": "manchester",
     "city": {
-     "code": "PARIS",
-     "countryCode": "fr",
-     "macCode": "PAR",
-     "name": "Paris"
+     "code": "MANCHESTER",
+     "countryCode": "gb",
+     "name": "Manchester"
     }
    },
-   "departureDate": "2026-12-17T20:00:00",
-   "arrivalDate": "2026-12-17T22:40:00",
+   "departureDate": "2026-12-14T13:25:00",
+   "arrivalDate": "2026-12-14T14:55:00",
    "price": {
-    "value": 125.99,
-    "valueMainUnit": "125",
+    "value": 101.99,
+    "valueMainUnit": "101",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~1655~ ~~RVN~12/17/2026 20:00~BVA~12/17/2026 22:40~~",
-   "flightNumber": "FR1655",
+   "flightKey": "FR~6665~ ~~RVN~12/14/2026 13:25~MAN~12/14/2026 14:55~~",
+   "flightNumber": "FR6665",
    "previousPrice": null,
-   "priceUpdated": 1791803447000
+   "priceUpdated": 1792420033000
   },
   "summary": {
    "price": {
-    "value": 125.99,
-    "valueMainUnit": "125",
+    "value": 101.99,
+    "valueMainUnit": "101",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "BRS",
+    "name": "Bristol",
+    "seoName": "bristol",
+    "city": {
+     "code": "BRISTOL",
+     "countryCode": "gb",
+     "name": "Bristol"
+    }
+   },
+   "departureDate": "2026-12-17T11:55:00",
+   "arrivalDate": "2026-12-17T13:30:00",
+   "price": {
+    "value": 105.99,
+    "valueMainUnit": "105",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6668~ ~~RVN~12/17/2026 11:55~BRS~12/17/2026 13:30~~",
+   "flightNumber": "FR6668",
+   "previousPrice": null,
+   "priceUpdated": 1792420032000
+  },
+  "summary": {
+   "price": {
+    "value": 105.99,
+    "valueMainUnit": "105",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2341,8 +2240,8 @@
    "departureDate": "2026-12-13T19:40:00",
    "arrivalDate": "2026-12-13T22:20:00",
    "price": {
-    "value": 127.99,
-    "valueMainUnit": "127",
+    "value": 105.99,
+    "valueMainUnit": "105",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2350,12 +2249,12 @@
    "flightKey": "FR~1655~ ~~RVN~12/13/2026 19:40~BVA~12/13/2026 22:20~~",
    "flightNumber": "FR1655",
    "previousPrice": null,
-   "priceUpdated": 1791803401000
+   "priceUpdated": 1792436809000
   },
   "summary": {
    "price": {
-    "value": 127.99,
-    "valueMainUnit": "127",
+    "value": 105.99,
+    "valueMainUnit": "105",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2378,185 +2277,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LPL",
-    "name": "Liverpool",
-    "seoName": "liverpool",
+    "countryName": "France",
+    "iataCode": "BVA",
+    "name": "Paris Beauvais",
+    "seoName": "paris-beauvais",
     "city": {
-     "code": "LIVERPOOL",
-     "countryCode": "gb",
-     "name": "Liverpool"
+     "code": "PARIS",
+     "countryCode": "fr",
+     "macCode": "PAR",
+     "name": "Paris"
     }
    },
-   "departureDate": "2026-12-19T22:20:00",
-   "arrivalDate": "2026-12-19T23:50:00",
+   "departureDate": "2026-12-17T20:00:00",
+   "arrivalDate": "2026-12-17T22:40:00",
    "price": {
-    "value": 128.37,
-    "valueMainUnit": "128",
-    "valueFractionalUnit": "37",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~9985~ ~~RVN~12/19/2026 22:20~LPL~12/19/2026 23:50~~",
-   "flightNumber": "FR9985",
-   "previousPrice": null,
-   "priceUpdated": 1791800830000
-  },
-  "summary": {
-   "price": {
-    "value": 128.37,
-    "valueMainUnit": "128",
-    "valueFractionalUnit": "37",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "MAN",
-    "name": "Manchester",
-    "seoName": "manchester",
-    "city": {
-     "code": "MANCHESTER",
-     "countryCode": "gb",
-     "name": "Manchester"
-    }
-   },
-   "departureDate": "2026-12-12T15:55:00",
-   "arrivalDate": "2026-12-12T17:25:00",
-   "price": {
-    "value": 128.99,
-    "valueMainUnit": "128",
+    "value": 109.99,
+    "valueMainUnit": "109",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6665~ ~~RVN~12/12/2026 15:55~MAN~12/12/2026 17:25~~",
-   "flightNumber": "FR6665",
+   "flightKey": "FR~1655~ ~~RVN~12/17/2026 20:00~BVA~12/17/2026 22:40~~",
+   "flightNumber": "FR1655",
    "previousPrice": null,
-   "priceUpdated": 1791800832000
+   "priceUpdated": 1792436834000
   },
   "summary": {
    "price": {
-    "value": 128.99,
-    "valueMainUnit": "128",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-18T12:10:00",
-   "arrivalDate": "2026-12-18T13:40:00",
-   "price": {
-    "value": 130.19,
-    "valueMainUnit": "130",
-    "valueFractionalUnit": "19",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1932~ ~~RVN~12/18/2026 12:10~STN~12/18/2026 13:40~~",
-   "flightNumber": "FR1932",
-   "previousPrice": null,
-   "priceUpdated": 1791800834000
-  },
-  "summary": {
-   "price": {
-    "value": 130.19,
-    "valueMainUnit": "130",
-    "valueFractionalUnit": "19",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "MAN",
-    "name": "Manchester",
-    "seoName": "manchester",
-    "city": {
-     "code": "MANCHESTER",
-     "countryCode": "gb",
-     "name": "Manchester"
-    }
-   },
-   "departureDate": "2026-12-14T13:25:00",
-   "arrivalDate": "2026-12-14T14:55:00",
-   "price": {
-    "value": 130.99,
-    "valueMainUnit": "130",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6665~ ~~RVN~12/14/2026 13:25~MAN~12/14/2026 14:55~~",
-   "flightNumber": "FR6665",
-   "previousPrice": null,
-   "priceUpdated": 1791800830000
-  },
-  "summary": {
-   "price": {
-    "value": 130.99,
-    "valueMainUnit": "130",
+    "value": 109.99,
+    "valueMainUnit": "109",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2593,8 +2342,8 @@
    "departureDate": "2026-12-15T12:45:00",
    "arrivalDate": "2026-12-15T14:15:00",
    "price": {
-    "value": 131.99,
-    "valueMainUnit": "131",
+    "value": 110.99,
+    "valueMainUnit": "110",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2602,63 +2351,12 @@
    "flightKey": "FR~1932~ ~~RVN~12/15/2026 12:45~STN~12/15/2026 14:15~~",
    "flightNumber": "FR1932",
    "previousPrice": null,
-   "priceUpdated": 1791803416000
+   "priceUpdated": 1792436773000
   },
   "summary": {
    "price": {
-    "value": 131.99,
-    "valueMainUnit": "131",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-14T20:10:00",
-   "arrivalDate": "2026-12-14T21:40:00",
-   "price": {
-    "value": 134.99,
-    "valueMainUnit": "134",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1932~ ~~RVN~12/14/2026 20:10~STN~12/14/2026 21:40~~",
-   "flightNumber": "FR1932",
-   "previousPrice": null,
-   "priceUpdated": 1791803370000
-  },
-  "summary": {
-   "price": {
-    "value": 134.99,
-    "valueMainUnit": "134",
+    "value": 110.99,
+    "valueMainUnit": "110",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2694,8 +2392,8 @@
    "departureDate": "2026-12-18T12:25:00",
    "arrivalDate": "2026-12-18T15:15:00",
    "price": {
-    "value": 136.99,
-    "valueMainUnit": "136",
+    "value": 112.99,
+    "valueMainUnit": "112",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2703,12 +2401,12 @@
    "flightKey": "FR~4312~ ~~RVN~12/18/2026 12:25~BGY~12/18/2026 15:15~~",
    "flightNumber": "FR4312",
    "previousPrice": null,
-   "priceUpdated": 1791801640000
+   "priceUpdated": 1792419459000
   },
   "summary": {
    "price": {
-    "value": 136.99,
-    "valueMainUnit": "136",
+    "value": 112.99,
+    "valueMainUnit": "112",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2741,25 +2439,25 @@
      "name": "Birmingham"
     }
    },
-   "departureDate": "2026-12-12T20:45:00",
-   "arrivalDate": "2026-12-12T22:10:00",
+   "departureDate": "2026-12-19T20:45:00",
+   "arrivalDate": "2026-12-19T22:10:00",
    "price": {
-    "value": 143.87,
-    "valueMainUnit": "143",
-    "valueFractionalUnit": "87",
+    "value": 114.99,
+    "valueMainUnit": "114",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~4666~ ~~RVN~12/12/2026 20:45~BHX~12/12/2026 22:10~~",
+   "flightKey": "FR~4666~ ~~RVN~12/19/2026 20:45~BHX~12/19/2026 22:10~~",
    "flightNumber": "FR4666",
    "previousPrice": null,
-   "priceUpdated": 1791801730000
+   "priceUpdated": 1792419472000
   },
   "summary": {
    "price": {
-    "value": 143.87,
-    "valueMainUnit": "143",
-    "valueFractionalUnit": "87",
+    "value": 114.99,
+    "valueMainUnit": "114",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2791,25 +2489,25 @@
      "name": "Charleroi"
     }
    },
-   "departureDate": "2026-12-19T20:15:00",
-   "arrivalDate": "2026-12-19T22:40:00",
+   "departureDate": "2026-12-12T20:15:00",
+   "arrivalDate": "2026-12-12T22:40:00",
    "price": {
-    "value": 144.54,
-    "valueMainUnit": "144",
-    "valueFractionalUnit": "54",
+    "value": 114.99,
+    "valueMainUnit": "114",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~4810~ ~~RVN~12/19/2026 20:15~CRL~12/19/2026 22:40~~",
+   "flightKey": "FR~4810~ ~~RVN~12/12/2026 20:15~CRL~12/12/2026 22:40~~",
    "flightNumber": "FR4810",
    "previousPrice": null,
-   "priceUpdated": 1791800831000
+   "priceUpdated": 1792420033000
   },
   "summary": {
    "price": {
-    "value": 144.54,
-    "valueMainUnit": "144",
-    "valueFractionalUnit": "54",
+    "value": 114.99,
+    "valueMainUnit": "114",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2832,39 +2530,40 @@
    },
    "arrivalAirport": {
     "countryName": "United Kingdom",
-    "iataCode": "MAN",
-    "name": "Manchester",
-    "seoName": "manchester",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
     "city": {
-     "code": "MANCHESTER",
+     "code": "LONDON",
      "countryCode": "gb",
-     "name": "Manchester"
+     "macCode": "LON",
+     "name": "London"
     }
    },
-   "departureDate": "2026-12-19T15:55:00",
-   "arrivalDate": "2026-12-19T17:25:00",
+   "departureDate": "2026-12-19T22:05:00",
+   "arrivalDate": "2026-12-19T23:35:00",
    "price": {
-    "value": 146.16,
-    "valueMainUnit": "146",
-    "valueFractionalUnit": "16",
+    "value": 118.39,
+    "valueMainUnit": "118",
+    "valueFractionalUnit": "39",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6665~ ~~RVN~12/19/2026 15:55~MAN~12/19/2026 17:25~~",
-   "flightNumber": "FR6665",
+   "flightKey": "FR~1932~ ~~RVN~12/19/2026 22:05~STN~12/19/2026 23:35~~",
+   "flightNumber": "FR1932",
    "previousPrice": null,
-   "priceUpdated": 1791800832000
+   "priceUpdated": 1792427218000
   },
   "summary": {
    "price": {
-    "value": 146.16,
-    "valueMainUnit": "146",
-    "valueFractionalUnit": "16",
+    "value": 118.39,
+    "valueMainUnit": "118",
+    "valueFractionalUnit": "39",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
-   "newRoute": true
+   "newRoute": false
   }
  },
  {
@@ -2881,35 +2580,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "SNN",
-    "name": "Shannon",
-    "seoName": "shannon",
+    "countryName": "United Kingdom",
+    "iataCode": "LPL",
+    "name": "Liverpool",
+    "seoName": "liverpool",
     "city": {
-     "code": "SHANNON",
-     "countryCode": "ie",
-     "name": "Shannon"
+     "code": "LIVERPOOL",
+     "countryCode": "gb",
+     "name": "Liverpool"
     }
    },
-   "departureDate": "2026-12-19T22:40:00",
-   "arrivalDate": "2026-12-20T00:30:00",
+   "departureDate": "2026-12-19T22:20:00",
+   "arrivalDate": "2026-12-19T23:50:00",
    "price": {
-    "value": 152.99,
-    "valueMainUnit": "152",
-    "valueFractionalUnit": "99",
+    "value": 123.27,
+    "valueMainUnit": "123",
+    "valueFractionalUnit": "27",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~4315~ ~~RVN~12/19/2026 22:40~SNN~12/20/2026 00:30~~",
-   "flightNumber": "FR4315",
+   "flightKey": "FR~9985~ ~~RVN~12/19/2026 22:20~LPL~12/19/2026 23:50~~",
+   "flightNumber": "FR9985",
    "previousPrice": null,
-   "priceUpdated": 1791801731000
+   "priceUpdated": 1792405633000
   },
   "summary": {
    "price": {
-    "value": 152.99,
-    "valueMainUnit": "152",
-    "valueFractionalUnit": "99",
+    "value": 123.27,
+    "valueMainUnit": "123",
+    "valueFractionalUnit": "27",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2944,8 +2643,8 @@
    "departureDate": "2026-12-12T17:05:00",
    "arrivalDate": "2026-12-12T19:55:00",
    "price": {
-    "value": 157.99,
-    "valueMainUnit": "157",
+    "value": 124.99,
+    "valueMainUnit": "124",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2953,12 +2652,12 @@
    "flightKey": "FR~4312~ ~~RVN~12/12/2026 17:05~BGY~12/12/2026 19:55~~",
    "flightNumber": "FR4312",
    "previousPrice": null,
-   "priceUpdated": 1791803423000
+   "priceUpdated": 1792436751000
   },
   "summary": {
    "price": {
-    "value": 157.99,
-    "valueMainUnit": "157",
+    "value": 124.99,
+    "valueMainUnit": "124",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2994,22 +2693,373 @@
    "departureDate": "2026-12-15T14:20:00",
    "arrivalDate": "2026-12-15T15:50:00",
    "price": {
-    "value": 170.91,
-    "valueMainUnit": "170",
-    "valueFractionalUnit": "91",
+    "value": 143.25,
+    "valueMainUnit": "143",
+    "valueFractionalUnit": "25",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~9985~ ~~RVN~12/15/2026 14:20~LPL~12/15/2026 15:50~~",
    "flightNumber": "FR9985",
    "previousPrice": null,
-   "priceUpdated": 1791800830000
+   "priceUpdated": 1792405634000
   },
   "summary": {
    "price": {
-    "value": 170.91,
-    "valueMainUnit": "170",
-    "valueFractionalUnit": "91",
+    "value": 143.25,
+    "valueMainUnit": "143",
+    "valueFractionalUnit": "25",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-14T20:10:00",
+   "arrivalDate": "2026-12-14T21:40:00",
+   "price": {
+    "value": 145.99,
+    "valueMainUnit": "145",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1932~ ~~RVN~12/14/2026 20:10~STN~12/14/2026 21:40~~",
+   "flightNumber": "FR1932",
+   "previousPrice": null,
+   "priceUpdated": 1792436776000
+  },
+  "summary": {
+   "price": {
+    "value": 145.99,
+    "valueMainUnit": "145",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "BRS",
+    "name": "Bristol",
+    "seoName": "bristol",
+    "city": {
+     "code": "BRISTOL",
+     "countryCode": "gb",
+     "name": "Bristol"
+    }
+   },
+   "departureDate": "2026-12-13T17:20:00",
+   "arrivalDate": "2026-12-13T18:55:00",
+   "price": {
+    "value": 148.19,
+    "valueMainUnit": "148",
+    "valueFractionalUnit": "19",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6668~ ~~RVN~12/13/2026 17:20~BRS~12/13/2026 18:55~~",
+   "flightNumber": "FR6668",
+   "previousPrice": null,
+   "priceUpdated": 1792427091000
+  },
+  "summary": {
+   "price": {
+    "value": 148.19,
+    "valueMainUnit": "148",
+    "valueFractionalUnit": "19",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-19T17:05:00",
+   "arrivalDate": "2026-12-19T19:55:00",
+   "price": {
+    "value": 148.39,
+    "valueMainUnit": "148",
+    "valueFractionalUnit": "39",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4312~ ~~RVN~12/19/2026 17:05~BGY~12/19/2026 19:55~~",
+   "flightNumber": "FR4312",
+   "previousPrice": null,
+   "priceUpdated": 1792405633000
+  },
+  "summary": {
+   "price": {
+    "value": 148.39,
+    "valueMainUnit": "148",
+    "valueFractionalUnit": "39",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
+    "city": {
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
+    }
+   },
+   "departureDate": "2026-12-19T20:15:00",
+   "arrivalDate": "2026-12-19T22:40:00",
+   "price": {
+    "value": 151.86,
+    "valueMainUnit": "151",
+    "valueFractionalUnit": "86",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4810~ ~~RVN~12/19/2026 20:15~CRL~12/19/2026 22:40~~",
+   "flightNumber": "FR4810",
+   "previousPrice": null,
+   "priceUpdated": 1792405634000
+  },
+  "summary": {
+   "price": {
+    "value": 151.86,
+    "valueMainUnit": "151",
+    "valueFractionalUnit": "86",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "BHX",
+    "name": "Birmingham",
+    "seoName": "birmingham",
+    "city": {
+     "code": "BIRMINGHAM",
+     "countryCode": "gb",
+     "name": "Birmingham"
+    }
+   },
+   "departureDate": "2026-12-12T20:45:00",
+   "arrivalDate": "2026-12-12T22:10:00",
+   "price": {
+    "value": 155.54,
+    "valueMainUnit": "155",
+    "valueFractionalUnit": "54",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4666~ ~~RVN~12/12/2026 20:45~BHX~12/12/2026 22:10~~",
+   "flightNumber": "FR4666",
+   "previousPrice": null,
+   "priceUpdated": 1792405631000
+  },
+  "summary": {
+   "price": {
+    "value": 155.54,
+    "valueMainUnit": "155",
+    "valueFractionalUnit": "54",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "SNN",
+    "name": "Shannon",
+    "seoName": "shannon",
+    "city": {
+     "code": "SHANNON",
+     "countryCode": "ie",
+     "name": "Shannon"
+    }
+   },
+   "departureDate": "2026-12-14T13:40:00",
+   "arrivalDate": "2026-12-14T15:30:00",
+   "price": {
+    "value": 156.59,
+    "valueMainUnit": "156",
+    "valueFractionalUnit": "59",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4315~ ~~RVN~12/14/2026 13:40~SNN~12/14/2026 15:30~~",
+   "flightNumber": "FR4315",
+   "previousPrice": null,
+   "priceUpdated": 1792427216000
+  },
+  "summary": {
+   "price": {
+    "value": 156.59,
+    "valueMainUnit": "156",
+    "valueFractionalUnit": "59",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "MAN",
+    "name": "Manchester",
+    "seoName": "manchester",
+    "city": {
+     "code": "MANCHESTER",
+     "countryCode": "gb",
+     "name": "Manchester"
+    }
+   },
+   "departureDate": "2026-12-12T15:55:00",
+   "arrivalDate": "2026-12-12T17:25:00",
+   "price": {
+    "value": 158.99,
+    "valueMainUnit": "158",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6665~ ~~RVN~12/12/2026 15:55~MAN~12/12/2026 17:25~~",
+   "flightNumber": "FR6665",
+   "previousPrice": null,
+   "priceUpdated": 1792419362000
+  },
+  "summary": {
+   "price": {
+    "value": 158.99,
+    "valueMainUnit": "158",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -3045,8 +3095,8 @@
    "departureDate": "2026-12-13T21:25:00",
    "arrivalDate": "2026-12-13T22:55:00",
    "price": {
-    "value": 178.99,
-    "valueMainUnit": "178",
+    "value": 162.99,
+    "valueMainUnit": "162",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3054,12 +3104,162 @@
    "flightKey": "FR~1932~ ~~RVN~12/13/2026 21:25~STN~12/13/2026 22:55~~",
    "flightNumber": "FR1932",
    "previousPrice": null,
-   "priceUpdated": 1791800832000
+   "priceUpdated": 1792420033000
   },
   "summary": {
    "price": {
-    "value": 178.99,
-    "valueMainUnit": "178",
+    "value": 162.99,
+    "valueMainUnit": "162",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "MAN",
+    "name": "Manchester",
+    "seoName": "manchester",
+    "city": {
+     "code": "MANCHESTER",
+     "countryCode": "gb",
+     "name": "Manchester"
+    }
+   },
+   "departureDate": "2026-12-19T15:55:00",
+   "arrivalDate": "2026-12-19T17:25:00",
+   "price": {
+    "value": 163.81,
+    "valueMainUnit": "163",
+    "valueFractionalUnit": "81",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6665~ ~~RVN~12/19/2026 15:55~MAN~12/19/2026 17:25~~",
+   "flightNumber": "FR6665",
+   "previousPrice": null,
+   "priceUpdated": 1792405634000
+  },
+  "summary": {
+   "price": {
+    "value": 163.81,
+    "valueMainUnit": "163",
+    "valueFractionalUnit": "81",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "SNN",
+    "name": "Shannon",
+    "seoName": "shannon",
+    "city": {
+     "code": "SHANNON",
+     "countryCode": "ie",
+     "name": "Shannon"
+    }
+   },
+   "departureDate": "2026-12-17T14:25:00",
+   "arrivalDate": "2026-12-17T16:15:00",
+   "price": {
+    "value": 166.99,
+    "valueMainUnit": "166",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4315~ ~~RVN~12/17/2026 14:25~SNN~12/17/2026 16:15~~",
+   "flightNumber": "FR4315",
+   "previousPrice": null,
+   "priceUpdated": 1792420033000
+  },
+  "summary": {
+   "price": {
+    "value": 166.99,
+    "valueMainUnit": "166",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-16T20:45:00",
+   "arrivalDate": "2026-12-16T22:20:00",
+   "price": {
+    "value": 181.99,
+    "valueMainUnit": "181",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~8661~ ~~RVN~12/16/2026 20:45~DUB~12/16/2026 22:20~~",
+   "flightNumber": "FR8661",
+   "previousPrice": null,
+   "priceUpdated": 1792420032000
+  },
+  "summary": {
+   "price": {
+    "value": 181.99,
+    "valueMainUnit": "181",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3092,24 +3292,24 @@
      "name": "Shannon"
     }
    },
-   "departureDate": "2026-12-17T14:25:00",
-   "arrivalDate": "2026-12-17T16:15:00",
+   "departureDate": "2026-12-19T22:40:00",
+   "arrivalDate": "2026-12-20T00:30:00",
    "price": {
-    "value": 181.99,
-    "valueMainUnit": "181",
+    "value": 184.99,
+    "valueMainUnit": "184",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~4315~ ~~RVN~12/17/2026 14:25~SNN~12/17/2026 16:15~~",
+   "flightKey": "FR~4315~ ~~RVN~12/19/2026 22:40~SNN~12/20/2026 00:30~~",
    "flightNumber": "FR4315",
    "previousPrice": null,
-   "priceUpdated": 1791800834000
+   "priceUpdated": 1792420034000
   },
   "summary": {
    "price": {
-    "value": 181.99,
-    "valueMainUnit": "181",
+    "value": 184.99,
+    "valueMainUnit": "184",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3142,25 +3342,25 @@
      "name": "Bergamo"
     }
    },
-   "departureDate": "2026-12-19T17:05:00",
-   "arrivalDate": "2026-12-19T19:55:00",
+   "departureDate": "2026-12-13T22:20:00",
+   "arrivalDate": "2026-12-14T01:10:00",
    "price": {
-    "value": 183.63,
-    "valueMainUnit": "183",
-    "valueFractionalUnit": "63",
+    "value": 190.99,
+    "valueMainUnit": "190",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~4312~ ~~RVN~12/19/2026 17:05~BGY~12/19/2026 19:55~~",
-   "flightNumber": "FR4312",
+   "flightKey": "FR~4444~ ~~RVN~12/13/2026 22:20~BGY~12/14/2026 01:10~~",
+   "flightNumber": "FR4444",
    "previousPrice": null,
-   "priceUpdated": 1791800829000
+   "priceUpdated": 1792436837000
   },
   "summary": {
    "price": {
-    "value": 183.63,
-    "valueMainUnit": "183",
-    "valueFractionalUnit": "63",
+    "value": 190.99,
+    "valueMainUnit": "190",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -3195,22 +3395,73 @@
    "departureDate": "2026-12-14T23:20:00",
    "arrivalDate": "2026-12-15T00:55:00",
    "price": {
-    "value": 189.23,
-    "valueMainUnit": "189",
-    "valueFractionalUnit": "23",
+    "value": 194.35,
+    "valueMainUnit": "194",
+    "valueFractionalUnit": "35",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~8661~ ~~RVN~12/14/2026 23:20~DUB~12/15/2026 00:55~~",
    "flightNumber": "FR8661",
    "previousPrice": null,
-   "priceUpdated": 1791800831000
+   "priceUpdated": 1792427216000
   },
   "summary": {
    "price": {
-    "value": 189.23,
-    "valueMainUnit": "189",
-    "valueFractionalUnit": "23",
+    "value": 194.35,
+    "valueMainUnit": "194",
+    "valueFractionalUnit": "35",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "RVN",
+    "name": "Lapland Rovaniemi",
+    "seoName": "lapland-rovaniemi",
+    "city": {
+     "code": "ROVANIEMI",
+     "countryCode": "fi",
+     "name": "Rovaniemi"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-16T16:05:00",
+   "arrivalDate": "2026-12-16T17:35:00",
+   "price": {
+    "value": 194.59,
+    "valueMainUnit": "194",
+    "valueFractionalUnit": "59",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1932~ ~~RVN~12/16/2026 16:05~STN~12/16/2026 17:35~~",
+   "flightNumber": "FR1932",
+   "previousPrice": null,
+   "priceUpdated": 1792427219000
+  },
+  "summary": {
+   "price": {
+    "value": 194.59,
+    "valueMainUnit": "194",
+    "valueFractionalUnit": "59",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -3254,7 +3505,7 @@
    "flightKey": "FR~4312~ ~~RVN~12/17/2026 20:45~BGY~12/17/2026 23:35~~",
    "flightNumber": "FR4312",
    "previousPrice": null,
-   "priceUpdated": 1791800834000
+   "priceUpdated": 1792405633000
   },
   "summary": {
    "price": {
@@ -3282,185 +3533,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-16T20:45:00",
-   "arrivalDate": "2026-12-16T22:20:00",
-   "price": {
-    "value": 208.99,
-    "valueMainUnit": "208",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~8661~ ~~RVN~12/16/2026 20:45~DUB~12/16/2026 22:20~~",
-   "flightNumber": "FR8661",
-   "previousPrice": null,
-   "priceUpdated": 1791800833000
-  },
-  "summary": {
-   "price": {
-    "value": 208.99,
-    "valueMainUnit": "208",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-13T22:20:00",
-   "arrivalDate": "2026-12-14T01:10:00",
-   "price": {
-    "value": 209.99,
-    "valueMainUnit": "209",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4444~ ~~RVN~12/13/2026 22:20~BGY~12/14/2026 01:10~~",
-   "flightNumber": "FR4444",
-   "previousPrice": null,
-   "priceUpdated": 1791803375000
-  },
-  "summary": {
-   "price": {
-    "value": 209.99,
-    "valueMainUnit": "209",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "SNN",
-    "name": "Shannon",
-    "seoName": "shannon",
-    "city": {
-     "code": "SHANNON",
-     "countryCode": "ie",
-     "name": "Shannon"
-    }
-   },
-   "departureDate": "2026-12-14T13:40:00",
-   "arrivalDate": "2026-12-14T15:30:00",
-   "price": {
-    "value": 216.49,
-    "valueMainUnit": "216",
-    "valueFractionalUnit": "49",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4315~ ~~RVN~12/14/2026 13:40~SNN~12/14/2026 15:30~~",
-   "flightNumber": "FR4315",
-   "previousPrice": null,
-   "priceUpdated": 1791800832000
-  },
-  "summary": {
-   "price": {
-    "value": 216.49,
-    "valueMainUnit": "216",
-    "valueFractionalUnit": "49",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
     "countryName": "United Kingdom",
-    "iataCode": "BRS",
-    "name": "Bristol",
-    "seoName": "bristol",
+    "iataCode": "LPL",
+    "name": "Liverpool",
+    "seoName": "liverpool",
     "city": {
-     "code": "BRISTOL",
+     "code": "LIVERPOOL",
      "countryCode": "gb",
-     "name": "Bristol"
+     "name": "Liverpool"
     }
    },
-   "departureDate": "2026-12-13T17:20:00",
-   "arrivalDate": "2026-12-13T18:55:00",
+   "departureDate": "2026-12-12T22:20:00",
+   "arrivalDate": "2026-12-12T23:50:00",
    "price": {
-    "value": 218.59,
-    "valueMainUnit": "218",
-    "valueFractionalUnit": "59",
+    "value": 229.91,
+    "valueMainUnit": "229",
+    "valueFractionalUnit": "91",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6668~ ~~RVN~12/13/2026 17:20~BRS~12/13/2026 18:55~~",
-   "flightNumber": "FR6668",
+   "flightKey": "FR~9985~ ~~RVN~12/12/2026 22:20~LPL~12/12/2026 23:50~~",
+   "flightNumber": "FR9985",
    "previousPrice": null,
-   "priceUpdated": 1791800831000
+   "priceUpdated": 1792405637000
   },
   "summary": {
    "price": {
-    "value": 218.59,
-    "valueMainUnit": "218",
-    "valueFractionalUnit": "59",
+    "value": 229.91,
+    "valueMainUnit": "229",
+    "valueFractionalUnit": "91",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -3495,8 +3596,8 @@
    "departureDate": "2026-12-17T11:30:00",
    "arrivalDate": "2026-12-17T13:05:00",
    "price": {
-    "value": 224.99,
-    "valueMainUnit": "224",
+    "value": 234.99,
+    "valueMainUnit": "234",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3504,62 +3605,12 @@
    "flightKey": "FR~8661~ ~~RVN~12/17/2026 11:30~DUB~12/17/2026 13:05~~",
    "flightNumber": "FR8661",
    "previousPrice": null,
-   "priceUpdated": 1791800832000
+   "priceUpdated": 1792420033000
   },
   "summary": {
    "price": {
-    "value": 224.99,
-    "valueMainUnit": "224",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-12T11:45:00",
-   "arrivalDate": "2026-12-12T13:20:00",
-   "price": {
-    "value": 246.99,
-    "valueMainUnit": "246",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~8661~ ~~RVN~12/12/2026 11:45~DUB~12/12/2026 13:20~~",
-   "flightNumber": "FR8661",
-   "previousPrice": null,
-   "priceUpdated": 1791800832000
-  },
-  "summary": {
-   "price": {
-    "value": 246.99,
-    "valueMainUnit": "246",
+    "value": 234.99,
+    "valueMainUnit": "234",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3604,7 +3655,7 @@
    "flightKey": "FR~8661~ ~~RVN~12/19/2026 11:45~DUB~12/19/2026 13:20~~",
    "flightNumber": "FR8661",
    "previousPrice": null,
-   "priceUpdated": 1791800829000
+   "priceUpdated": 1792405633000
   },
   "summary": {
    "price": {
@@ -3632,40 +3683,40 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LPL",
-    "name": "Liverpool",
-    "seoName": "liverpool",
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
     "city": {
-     "code": "LIVERPOOL",
-     "countryCode": "gb",
-     "name": "Liverpool"
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
     }
    },
-   "departureDate": "2026-12-12T22:20:00",
-   "arrivalDate": "2026-12-12T23:50:00",
+   "departureDate": "2026-12-12T11:45:00",
+   "arrivalDate": "2026-12-12T13:20:00",
    "price": {
-    "value": 254.33,
-    "valueMainUnit": "254",
-    "valueFractionalUnit": "33",
+    "value": 263.99,
+    "valueMainUnit": "263",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~9985~ ~~RVN~12/12/2026 22:20~LPL~12/12/2026 23:50~~",
-   "flightNumber": "FR9985",
+   "flightKey": "FR~8661~ ~~RVN~12/12/2026 11:45~DUB~12/12/2026 13:20~~",
+   "flightNumber": "FR8661",
    "previousPrice": null,
-   "priceUpdated": 1791801734000
+   "priceUpdated": 1792420032000
   },
   "summary": {
    "price": {
-    "value": 254.33,
-    "valueMainUnit": "254",
-    "valueFractionalUnit": "33",
+    "value": 263.99,
+    "valueMainUnit": "263",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
-   "newRoute": true
+   "newRoute": false
   }
  },
  {
@@ -3695,78 +3746,27 @@
    "departureDate": "2026-12-14T22:05:00",
    "arrivalDate": "2026-12-15T00:55:00",
    "price": {
-    "value": 301.46,
-    "valueMainUnit": "301",
-    "valueFractionalUnit": "46",
+    "value": 319.62,
+    "valueMainUnit": "319",
+    "valueFractionalUnit": "62",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~4312~ ~~RVN~12/14/2026 22:05~BGY~12/15/2026 00:55~~",
    "flightNumber": "FR4312",
    "previousPrice": null,
-   "priceUpdated": 1791800830000
+   "priceUpdated": 1792405633000
   },
   "summary": {
    "price": {
-    "value": 301.46,
-    "valueMainUnit": "301",
-    "valueFractionalUnit": "46",
+    "value": 319.62,
+    "valueMainUnit": "319",
+    "valueFractionalUnit": "62",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "RVN",
-    "name": "Lapland Rovaniemi",
-    "seoName": "lapland-rovaniemi",
-    "city": {
-     "code": "ROVANIEMI",
-     "countryCode": "fi",
-     "name": "Rovaniemi"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-16T16:05:00",
-   "arrivalDate": "2026-12-16T17:35:00",
-   "price": {
-    "value": 365.29,
-    "valueMainUnit": "365",
-    "valueFractionalUnit": "29",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1932~ ~~RVN~12/16/2026 16:05~STN~12/16/2026 17:35~~",
-   "flightNumber": "FR1932",
-   "previousPrice": null,
-   "priceUpdated": 1791800830000
-  },
-  "summary": {
-   "price": {
-    "value": 365.29,
-    "valueMainUnit": "365",
-    "valueFractionalUnit": "29",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
   }
  },
  {
@@ -3805,7 +3805,7 @@
    "flightKey": "FR~8661~ ~~RVN~12/13/2026 14:05~DUB~12/13/2026 15:40~~",
    "flightNumber": "FR8661",
    "previousPrice": null,
-   "priceUpdated": 1791800830000
+   "priceUpdated": 1792419350000
   },
   "summary": {
    "price": {

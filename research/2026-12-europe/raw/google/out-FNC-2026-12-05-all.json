@@ -1,10 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA0ZOQ0ABSAGYAQI",
- "fetchedAt": "2026-10-11T11:26:09",
+ "fetchedAt": "2026-10-19T23:38:50",
  "priceUnavailable": 0,
+ "via": "html",
  "itineraries": [
   {
-   "price": 458.0,
+   "price": 459.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -33,15 +34,15 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 458 euros. 2 stops flight with Scandinavian Airlines and Tap Air Portugal. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 4:40 PM on Saturday, December 5 and arrives at Madeira Airport at 1:00 AM on Sunday, December 6. Total duration 9 hr 20 min.  Layover (1 of 2) is a 1 hr 5 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 10 min layover at Humberto Delgado Airport in Lisbon. Select flight"
+   "label": "From 459 euros. 2 stops flight with Scandinavian Airlines and Tap Air Portugal. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 4:40 PM on Saturday, December 5 and arrives at Madeira Airport at 1:00 AM on Sunday, December 6. Total duration 9 hr 20 min.  Layover (1 of 2) is a 1 hr 5 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 10 min layover at Humberto Delgado Airport in Lisbon. Select flight"
   },
   {
-   "price": 626.0,
+   "price": 700.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Wideroe and Finnair",
-   "operatedBy": "Jettime A/S for Finnair",
+   "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "16:45",
    "depDate": "2026-12-05",
@@ -51,13 +52,13 @@
    "durationMin": 2880,
    "layovers": [
     {
-     "min": 1125,
+     "min": 895,
      "overnight": false,
      "airport": "Oslo lufthavn",
      "city": "Oslo"
     },
     {
-     "min": 1260,
+     "min": 1490,
      "overnight": false,
      "airport": "Helsinki Airport",
      "city": "Helsinki"
@@ -65,10 +66,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 626 euros. 2 stops flight with Wideroe and Finnair. Operated by Jettime A/S for Finnair. Leaves Trondheim Airport, Værnes at 4:45 PM on Saturday, December 5 and arrives at Madeira Airport at 3:45 PM on Monday, December 7. Total duration 48 hr.  Layover (1 of 2) is a 18 hr 45 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 21 hr layover at Helsinki Airport in Helsinki. Select flight"
+   "label": "From 700 euros. 2 stops flight with Wideroe and Finnair. Leaves Trondheim Airport, Værnes at 4:45 PM on Saturday, December 5 and arrives at Madeira Airport at 3:45 PM on Monday, December 7. Total duration 48 hr.  Layover (1 of 2) is a 14 hr 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 24 hr 50 min layover at Helsinki Airport in Helsinki. Select flight"
   },
   {
-   "price": 811.0,
+   "price": 818.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -103,7 +104,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 811 euros. 3 stops flight with Wideroe, Lufthansa and Tap Air Portugal. Leaves Trondheim Airport, Værnes at 9:10 AM on Saturday, December 5 and arrives at Madeira Airport at 10:55 PM on Saturday, December 5. Total duration 14 hr 45 min.  Layover (1 of 3) is a 2 hr 40 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 2 hr 45 min layover at Frankfurt Airport in Frankfurt am Main. Layover (3 of 3) is a 1 hr 5 min layover at Humberto Delgado Airport in Lisbon. Select flight"
+   "label": "From 818 euros. 3 stops flight with Wideroe, Lufthansa and Tap Air Portugal. Leaves Trondheim Airport, Værnes at 9:10 AM on Saturday, December 5 and arrives at Madeira Airport at 10:55 PM on Saturday, December 5. Total duration 14 hr 45 min.  Layover (1 of 3) is a 2 hr 40 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 2 hr 45 min layover at Frankfurt Airport in Frankfurt am Main. Layover (3 of 3) is a 1 hr 5 min layover at Humberto Delgado Airport in Lisbon. Select flight"
   }
  ]
 }

@@ -1,17 +1,21 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDhqBRIDVFJEcgUSA0dPVEABSAGYAQI",
- "via": "ui",
+ "fetchedAt": "2026-10-19T23:02:53",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 120.0,
+   "price": 121.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-08",
+   "arrCode": "GOT",
    "arrAirportName": "Gothenburg-Landvetter Airport",
    "arrTime": "11:15",
    "arrDate": "2026-12-08",
@@ -19,13 +23,54 @@
    "layovers": [
     {
      "min": 65,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1150",
+    "KL1231"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 180.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-08",
+   "arrCode": "GOT",
+   "arrAirportName": "Gothenburg-Landvetter Airport",
+   "arrTime": "22:25",
+   "arrDate": "2026-12-08",
+   "durationMin": 315,
+   "layovers": [
+    {
+     "min": 80,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1154",
+    "KL1239"
+   ],
+   "via": "rpc"
   }
  ]
 }

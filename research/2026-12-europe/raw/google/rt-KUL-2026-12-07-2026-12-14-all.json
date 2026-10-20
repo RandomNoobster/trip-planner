@@ -1,17 +1,107 @@
 {
- "url": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEyLTA3agcIARIDVFJEcgcIARIDS1VMGh4SCjIwMjYtMTItMTRqBwgBEgNLVUxyBwgBEgNUUkRAAUgBcAGCAQsI____________AZgBAQ&hl=en&gl=NO&curr=EUR",
- "via": "ui",
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA0tVTBoaEgoyMDI2LTEyLTE0agUSA0tVTHIFEgNUUkRAAUgBmAEB",
+ "fetchedAt": "2026-10-19T22:57:47",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 893.0,
+   "price": 912.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Malaysia Airlines",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-07",
+   "arrCode": "KUL",
+   "arrAirportName": "Kuala Lumpur International Airport",
+   "arrTime": "18:45",
+   "arrDate": "2026-12-08",
+   "durationMin": 1115,
+   "layovers": [
+    {
+     "min": 70,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    },
+    {
+     "min": 70,
+     "overnight": false,
+     "airport": "Singapore Changi Airport",
+     "city": "Singapore",
+     "code": "SIN",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1154",
+    "KL835",
+    "MH608"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 956.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and KLM",
+   "operatedBy": null,
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "14:45",
+   "depDate": "2026-12-07",
+   "arrCode": "KUL",
+   "arrAirportName": "Kuala Lumpur International Airport",
+   "arrTime": "15:40",
+   "arrDate": "2026-12-08",
+   "durationMin": 1075,
+   "layovers": [
+    {
+     "min": 80,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    },
+    {
+     "min": 90,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK361",
+    "KL1204",
+    "KL809"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 1044.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "17:10",
    "depDate": "2026-12-07",
+   "arrCode": "KUL",
    "arrAirportName": "Kuala Lumpur International Airport",
    "arrTime": "15:40",
    "arrDate": "2026-12-08",
@@ -19,24 +109,67 @@
    "layovers": [
     {
      "min": 50,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1154",
+    "KL809"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 1147.0,
+   "price": 969.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrCode": "KUL",
+   "arrAirportName": "Kuala Lumpur International Airport",
+   "arrTime": "15:40",
+   "arrDate": "2026-12-08",
+   "durationMin": 1580,
+   "layovers": [
+    {
+     "min": 705,
+     "overnight": true,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1150",
+    "KL809"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 1196.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and Etihad",
-   "operatedBy": null,
+   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "05:30",
    "depDate": "2026-12-07",
+   "arrCode": "KUL",
    "arrAirportName": "Kuala Lumpur International Airport",
    "arrTime": "08:05",
    "arrDate": "2026-12-08",
@@ -44,19 +177,29 @@
    "layovers": [
     {
      "min": 180,
+     "overnight": false,
      "airport": "Copenhagen Airport",
      "city": "Copenhagen",
-     "overnight": false
+     "code": "CPH",
+     "changeAirport": false
     },
     {
      "min": 80,
+     "overnight": false,
      "airport": "Zayed International Airport",
      "city": "Abu Dhabi",
-     "overnight": false
+     "code": "AUH",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "SK2885",
+    "EY178",
+    "EY488"
+   ],
+   "via": "rpc"
   }
  ]
 }

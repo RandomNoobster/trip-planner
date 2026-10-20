@@ -1,17 +1,21 @@
 {
- "url": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEyLTA1agcIARIDVFJEcgcIARIDU1pHGh4SCjIwMjYtMTItMTNqBwgBEgNTWkdyBwgBEgNUUkRAAUgBcAGCAQsI____________AZgBAQ&hl=en&gl=NO&curr=EUR",
- "via": "ui",
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA1NaRxoaEgoyMDI2LTEyLTEzagUSA1NaR3IFEgNUUkRAAUgBmAEB",
+ "fetchedAt": "2026-10-19T23:00:24",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 357.0,
+   "price": 366.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Wideroe and Lufthansa",
    "operatedBy": null,
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "13:05",
    "depDate": "2026-12-05",
+   "arrCode": "SZG",
    "arrAirportName": "Salzburg Airport",
    "arrTime": "22:35",
    "arrDate": "2026-12-05",
@@ -19,30 +23,42 @@
    "layovers": [
     {
      "min": 150,
+     "overnight": false,
      "airport": "Oslo lufthavn",
      "city": "Oslo",
-     "overnight": false
+     "code": "OSL",
+     "changeAirport": false
     },
     {
      "min": 165,
+     "overnight": false,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
-     "overnight": false
+     "code": "FRA",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "WF1448",
+    "LH863",
+    "LH1266"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 1448.0,
+   "price": 1470.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and Lufthansa",
-   "operatedBy": null,
+   "operatedBy": "Sas Link",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "07:00",
    "depDate": "2026-12-05",
+   "arrCode": "SZG",
    "arrAirportName": "Salzburg Airport",
    "arrTime": "13:55",
    "arrDate": "2026-12-05",
@@ -50,19 +66,115 @@
    "layovers": [
     {
      "min": 85,
+     "overnight": false,
      "airport": "Oslo lufthavn",
      "city": "Oslo",
-     "overnight": false
+     "code": "OSL",
+     "changeAirport": false
     },
     {
      "min": 65,
+     "overnight": false,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
-     "overnight": false
+     "code": "FRA",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "SK341",
+    "LH859",
+    "LH1262"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 1470.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Lufthansa",
+   "operatedBy": "Sas Link",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "13:30",
+   "depDate": "2026-12-05",
+   "arrCode": "SZG",
+   "arrAirportName": "Salzburg Airport",
+   "arrTime": "22:35",
+   "arrDate": "2026-12-05",
+   "durationMin": 545,
+   "layovers": [
+    {
+     "min": 125,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    },
+    {
+     "min": 165,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK355",
+    "LH863",
+    "LH1266"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 1484.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Lufthansa",
+   "operatedBy": "Sas Link",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "15:05",
+   "depDate": "2026-12-05",
+   "arrCode": "SZG",
+   "arrAirportName": "Salzburg Airport",
+   "arrTime": "22:35",
+   "arrDate": "2026-12-05",
+   "durationMin": 450,
+   "layovers": [
+    {
+     "min": 150,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen",
+     "code": "CPH",
+     "changeAirport": false
+    },
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "SK2881",
+    "LH829",
+    "LH1266"
+   ],
+   "via": "rpc"
   }
  ]
 }

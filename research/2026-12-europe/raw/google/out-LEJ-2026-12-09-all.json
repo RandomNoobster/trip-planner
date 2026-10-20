@@ -1,11 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA0xFSkABSAGYAQI",
- "fetchedAt": "2026-10-11T12:18:56",
+ "fetchedAt": "2026-10-19T23:16:13",
  "priceUnavailable": 0,
  "via": "rpc",
  "itineraries": [
   {
-   "price": 217.0,
+   "price": 221.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -48,50 +48,7 @@
    "via": "rpc"
   },
   {
-   "price": 358.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Wideroe and Lufthansa",
-   "operatedBy": null,
-   "depCode": "TRD",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "09:10",
-   "depDate": "2026-12-09",
-   "arrCode": "LEJ",
-   "arrAirportName": "Leipzig/Halle Airport",
-   "arrTime": "09:45",
-   "arrDate": "2026-12-10",
-   "durationMin": 1475,
-   "layovers": [
-    {
-     "min": 155,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen",
-     "code": "BGO",
-     "changeAirport": false
-    },
-    {
-     "min": 1065,
-     "overnight": true,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main",
-     "code": "FRA",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "WF1302",
-    "LH873",
-    "LH152"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 389.0,
+   "price": 396.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -134,7 +91,7 @@
    "via": "rpc"
   },
   {
-   "price": 447.0,
+   "price": 551.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

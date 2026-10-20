@@ -1,36 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA0FHUEABSAGYAQI",
- "fetchedAt": "2026-10-11T11:25:00",
+ "fetchedAt": "2026-10-19T23:33:20",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
-   "price": 126.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Málaga-Costa del Sol Airport",
-   "arrTime": "15:55",
-   "arrDate": "2026-12-05",
-   "durationMin": 575,
-   "layovers": [
-    {
-     "min": 260,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 126 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Málaga-Costa del Sol Airport at 3:55 PM on Saturday, December 5. Total duration 9 hr 35 min.  Layover (1 of 1) is a 4 hr 20 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 129.0,
+   "price": 130.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -53,10 +28,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 129 euros. 1 stop flight with KLM and Transavia. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Málaga-Costa del Sol Airport at 7:30 PM on Saturday, December 5. Total duration 13 hr 10 min.  Layover (1 of 1) is a 7 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 130 euros. 1 stop flight with KLM and Transavia. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Málaga-Costa del Sol Airport at 7:30 PM on Saturday, December 5. Total duration 13 hr 10 min.  Layover (1 of 1) is a 7 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 149.0,
+   "price": 132.0,
    "roundTripTotal": false,
    "noOverheadBin": true,
    "stops": 1,
@@ -79,25 +54,51 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 149 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Trondheim Airport, Værnes at 7:15 AM on Saturday, December 5 and arrives at Málaga-Costa del Sol Airport at 3:25 PM on Saturday, December 5. Total duration 8 hr 10 min.  Layover (1 of 1) is a 2 hr 55 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 132 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Trondheim Airport, Værnes at 7:15 AM on Saturday, December 5 and arrives at Málaga-Costa del Sol Airport at 3:25 PM on Saturday, December 5. Total duration 8 hr 10 min.  Layover (1 of 1) is a 2 hr 55 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 186.0,
+   "price": 142.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Málaga-Costa del Sol Airport",
+   "arrTime": "15:55",
+   "arrDate": "2026-12-05",
+   "durationMin": 575,
+   "layovers": [
+    {
+     "min": 260,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 142 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Málaga-Costa del Sol Airport at 3:55 PM on Saturday, December 5. Total duration 9 hr 35 min.  Layover (1 of 1) is a 4 hr 20 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 215.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Wideroe and Finnair",
    "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "16:45",
+   "depTime": "13:05",
    "depDate": "2026-12-05",
    "arrAirportName": "Málaga-Costa del Sol Airport",
    "arrTime": "10:15",
    "arrDate": "2026-12-06",
-   "durationMin": 1050,
+   "durationMin": 1270,
    "layovers": [
     {
-     "min": 185,
+     "min": 405,
      "overnight": false,
      "airport": "Oslo lufthavn",
      "city": "Oslo"
@@ -111,10 +112,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 186 euros. 2 stops flight with Wideroe and Finnair. Leaves Trondheim Airport, Værnes at 4:45 PM on Saturday, December 5 and arrives at Málaga-Costa del Sol Airport at 10:15 AM on Sunday, December 6. Total duration 17 hr 30 min.  Layover (1 of 2) is a 3 hr 5 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 7 hr 10 min layover at Helsinki Airport in Helsinki. Select flight"
+   "label": "From 215 euros. 2 stops flight with Wideroe and Finnair. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Málaga-Costa del Sol Airport at 10:15 AM on Sunday, December 6. Total duration 21 hr 10 min.  Layover (1 of 2) is a 6 hr 45 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 7 hr 10 min layover at Helsinki Airport in Helsinki. Select flight"
   },
   {
-   "price": 226.0,
+   "price": 227.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -143,10 +144,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 226 euros. 2 stops flight with Wideroe and Air France. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Málaga-Costa del Sol Airport at 11:30 PM on Saturday, December 5. Total duration 10 hr 25 min.  Layover (1 of 2) is a 3 hr 5 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 55 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "label": "From 227 euros. 2 stops flight with Wideroe and Air France. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Málaga-Costa del Sol Airport at 11:30 PM on Saturday, December 5. Total duration 10 hr 25 min.  Layover (1 of 2) is a 3 hr 5 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 55 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
   },
   {
-   "price": 239.0,
+   "price": 243.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -175,42 +176,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 239 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Málaga-Costa del Sol Airport at 12:20 PM on Sunday, December 6. Total duration 23 hr 15 min.  Layover (1 of 2) is a 16 hr 10 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 50 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+   "label": "From 243 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Málaga-Costa del Sol Airport at 12:20 PM on Sunday, December 6. Total duration 23 hr 15 min.  Layover (1 of 2) is a 16 hr 10 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 50 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
   },
   {
-   "price": 239.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Wideroe and Lufthansa",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "13:05",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Málaga-Costa del Sol Airport",
-   "arrTime": "11:05",
-   "arrDate": "2026-12-06",
-   "durationMin": 1320,
-   "layovers": [
-    {
-     "min": 260,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    },
-    {
-     "min": 670,
-     "overnight": false,
-     "airport": "Munich International Airport",
-     "city": "Munich"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 239 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Málaga-Costa del Sol Airport at 11:05 AM on Sunday, December 6. Total duration 22 hr.  Layover (1 of 2) is a 4 hr 20 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 11 hr 10 min layover at Munich International Airport in Munich. Select flight"
-  },
-  {
-   "price": 255.0,
+   "price": 256.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -239,42 +208,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 255 euros. 2 stops flight with Scandinavian Airlines and KLM. Operated by Sas Link for Scandinavian Airlines, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 7:00 AM on Saturday, December 5 and arrives at Málaga-Costa del Sol Airport at 3:55 PM on Saturday, December 5. Total duration 8 hr 55 min.  Layover (1 of 2) is a 1 hr 25 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 30 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 256 euros. 2 stops flight with Scandinavian Airlines and KLM. Operated by Sas Link for Scandinavian Airlines, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 7:00 AM on Saturday, December 5 and arrives at Málaga-Costa del Sol Airport at 3:55 PM on Saturday, December 5. Total duration 8 hr 55 min.  Layover (1 of 2) is a 1 hr 25 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 30 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 358.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": "Sas Link for Scandinavian Airlines",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "07:00",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Málaga-Costa del Sol Airport",
-   "arrTime": "16:50",
-   "arrDate": "2026-12-05",
-   "durationMin": 590,
-   "layovers": [
-    {
-     "min": 35,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    },
-    {
-     "min": 170,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 358 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 7:00 AM on Saturday, December 5 and arrives at Málaga-Costa del Sol Airport at 4:50 PM on Saturday, December 5. Total duration 9 hr 50 min.  Layover (1 of 2) is a 35 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 50 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
-  },
-  {
-   "price": 370.0,
+   "price": 372.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -303,7 +240,39 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 370 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 1:30 PM on Saturday, December 5 and arrives at Málaga-Costa del Sol Airport at 11:30 PM on Saturday, December 5. Total duration 10 hr.  Layover (1 of 2) is a 2 hr 40 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 55 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "label": "From 372 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 1:30 PM on Saturday, December 5 and arrives at Málaga-Costa del Sol Airport at 11:30 PM on Saturday, December 5. Total duration 10 hr.  Layover (1 of 2) is a 2 hr 40 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 55 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+  },
+  {
+   "price": 400.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "07:00",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Málaga-Costa del Sol Airport",
+   "arrTime": "16:50",
+   "arrDate": "2026-12-05",
+   "durationMin": 590,
+   "layovers": [
+    {
+     "min": 35,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    },
+    {
+     "min": 170,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 400 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 7:00 AM on Saturday, December 5 and arrives at Málaga-Costa del Sol Airport at 4:50 PM on Saturday, December 5. Total duration 9 hr 50 min.  Layover (1 of 2) is a 35 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 50 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTZqBRIDVkxDcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T12:25:06",
+ "fetchedAt": "2026-10-19T23:33:10",
  "priceUnavailable": 0,
  "via": "rpc",
  "itineraries": [
@@ -107,7 +107,7 @@
    "via": "rpc"
   },
   {
-   "price": 281.0,
+   "price": 261.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -124,7 +124,7 @@
    "durationMin": 640,
    "layovers": [
     {
-     "min": 210,
+     "min": 95,
      "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
@@ -132,7 +132,7 @@
      "changeAirport": false
     },
     {
-     "min": 75,
+     "min": 195,
      "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
@@ -144,7 +144,50 @@
    "separateTickets": false,
    "flights": [
     "AF1493",
-    "AF1640",
+    "KL1404",
+    "KL1153"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 261.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air France and KLM",
+   "operatedBy": "HOP!, KLM Cityhopper for KLM Royal Dutch Airlines",
+   "depCode": "VLC",
+   "depAirportName": "Valencia Airport",
+   "depTime": "05:55",
+   "depDate": "2026-12-16",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-16",
+   "durationMin": 640,
+   "layovers": [
+    {
+     "min": 130,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    },
+    {
+     "min": 165,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "AF1493",
+    "KL1406",
     "KL1153"
    ],
    "via": "rpc"

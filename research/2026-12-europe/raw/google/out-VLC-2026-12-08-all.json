@@ -1,122 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDhqBRIDVFJEcgUSA1ZMQ0ABSAGYAQI",
- "fetchedAt": "2026-10-11T12:24:25",
+ "fetchedAt": "2026-10-19T23:32:45",
  "priceUnavailable": 0,
  "via": "rpc",
  "itineraries": [
   {
-   "price": 335.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depCode": "TRD",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-08",
-   "arrCode": "VLC",
-   "arrAirportName": "Valencia Airport",
-   "arrTime": "16:10",
-   "arrDate": "2026-12-08",
-   "durationMin": 590,
-   "layovers": [
-    {
-     "min": 305,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "code": "AMS",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "KL1150",
-    "KL1531"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 391.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depCode": "TRD",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "17:10",
-   "depDate": "2026-12-08",
-   "arrCode": "VLC",
-   "arrAirportName": "Valencia Airport",
-   "arrTime": "23:25",
-   "arrDate": "2026-12-08",
-   "durationMin": 375,
-   "layovers": [
-    {
-     "min": 85,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "code": "AMS",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "KL1154",
-    "KL1535"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 225.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Wideroe and Finnair",
-   "operatedBy": "Nordic Reg for Finnair",
-   "depCode": "TRD",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "08:05",
-   "depDate": "2026-12-08",
-   "arrCode": "VLC",
-   "arrAirportName": "Valencia Airport",
-   "arrTime": "10:50",
-   "arrDate": "2026-12-09",
-   "durationMin": 1605,
-   "layovers": [
-    {
-     "min": 535,
-     "overnight": true,
-     "airport": "Tromsø Airport",
-     "city": "Tromsø Municipality",
-     "code": "TOS",
-     "changeAirport": false
-    },
-    {
-     "min": 585,
-     "overnight": true,
-     "airport": "Helsinki Airport",
-     "city": "Helsinki",
-     "code": "HEL",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "WF1343",
-    "AY946",
-    "AY1703"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 347.0,
+   "price": 348.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -168,7 +57,118 @@
    "via": "rpc"
   },
   {
-   "price": 535.0,
+   "price": 465.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-08",
+   "arrCode": "VLC",
+   "arrAirportName": "Valencia Airport",
+   "arrTime": "16:10",
+   "arrDate": "2026-12-08",
+   "durationMin": 590,
+   "layovers": [
+    {
+     "min": 305,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1150",
+    "KL1531"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 465.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-08",
+   "arrCode": "VLC",
+   "arrAirportName": "Valencia Airport",
+   "arrTime": "23:25",
+   "arrDate": "2026-12-08",
+   "durationMin": 375,
+   "layovers": [
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1154",
+    "KL1535"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 449.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Finnair",
+   "operatedBy": "Nordic Reg for Finnair",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "08:05",
+   "depDate": "2026-12-08",
+   "arrCode": "VLC",
+   "arrAirportName": "Valencia Airport",
+   "arrTime": "10:50",
+   "arrDate": "2026-12-09",
+   "durationMin": 1605,
+   "layovers": [
+    {
+     "min": 535,
+     "overnight": true,
+     "airport": "Tromsø Airport",
+     "city": "Tromsø Municipality",
+     "code": "TOS",
+     "changeAirport": false
+    },
+    {
+     "min": 585,
+     "overnight": true,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki",
+     "code": "HEL",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "WF1343",
+    "AY946",
+    "AY1703"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 539.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -211,50 +211,7 @@
    "via": "rpc"
   },
   {
-   "price": 1222.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": "HOP!",
-   "depCode": "TRD",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "14:45",
-   "depDate": "2026-12-08",
-   "arrCode": "VLC",
-   "arrAirportName": "Valencia Airport",
-   "arrTime": "23:25",
-   "arrDate": "2026-12-08",
-   "durationMin": 520,
-   "layovers": [
-    {
-     "min": 85,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo",
-     "code": "OSL",
-     "changeAirport": false
-    },
-    {
-     "min": 85,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
-     "code": "CDG",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "SK361",
-    "AF1775",
-    "AF1492"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 1259.0,
+   "price": 1438.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

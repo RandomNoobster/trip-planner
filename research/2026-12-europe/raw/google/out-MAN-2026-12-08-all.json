@@ -1,10 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDhqBRIDVFJEcgUSA01BTkABSAGYAQI",
- "fetchedAt": "2026-10-11T11:23:47",
+ "fetchedAt": "2026-10-19T23:26:50",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
-   "price": 118.0,
+   "price": 139.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -27,10 +28,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 118 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Tuesday, December 8 and arrives at Manchester Airport at 8:00 PM on Tuesday, December 8. Total duration 14 hr 40 min.  Layover (1 of 1) is a 11 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 139 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Tuesday, December 8 and arrives at Manchester Airport at 8:00 PM on Tuesday, December 8. Total duration 14 hr 40 min.  Layover (1 of 1) is a 11 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 161.0,
+   "price": 241.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -40,12 +41,12 @@
    "depTime": "06:20",
    "depDate": "2026-12-08",
    "arrAirportName": "Manchester Airport",
-   "arrTime": "16:35",
+   "arrTime": "10:05",
    "arrDate": "2026-12-08",
-   "durationMin": 675,
+   "durationMin": 285,
    "layovers": [
     {
-     "min": 455,
+     "min": 65,
      "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam"
@@ -53,7 +54,65 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 161 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Tuesday, December 8 and arrives at Manchester Airport at 4:35 PM on Tuesday, December 8. Total duration 11 hr 15 min.  Layover (1 of 1) is a 7 hr 35 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 241 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Tuesday, December 8 and arrives at Manchester Airport at 10:05 AM on Tuesday, December 8. Total duration 4 hr 45 min.  Layover (1 of 1) is a 1 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 243.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and KLM",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:40",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Manchester Airport",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-08",
+   "durationMin": 415,
+   "layovers": [
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    },
+    {
+     "min": 105,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 243 euros. 2 stops flight with Scandinavian Airlines and KLM. Leaves Trondheim Airport, Værnes at 10:40 AM on Tuesday, December 8 and arrives at Manchester Airport at 4:35 PM on Tuesday, December 8. Total duration 6 hr 55 min.  Layover (1 of 2) is a 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 270.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Manchester Airport",
+   "arrTime": "22:05",
+   "arrDate": "2026-12-08",
+   "durationMin": 355,
+   "layovers": [
+    {
+     "min": 130,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 270 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:10 PM on Tuesday, December 8 and arrives at Manchester Airport at 10:05 PM on Tuesday, December 8. Total duration 5 hr 55 min.  Layover (1 of 1) is a 2 hr 10 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
    "price": 181.0,
@@ -88,7 +147,7 @@
    "label": "From 181 euros. 2 stops flight with Scandinavian Airlines and KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 10:40 AM on Tuesday, December 8 and arrives at Manchester Airport at 8:00 PM on Tuesday, December 8. Total duration 10 hr 20 min.  Layover (1 of 2) is a 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 5 hr 10 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 190.0,
+   "price": 224.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -98,44 +157,12 @@
    "depTime": "06:20",
    "depDate": "2026-12-08",
    "arrAirportName": "Manchester Airport",
-   "arrTime": "10:05",
-   "arrDate": "2026-12-08",
-   "durationMin": 285,
-   "layovers": [
-    {
-     "min": 65,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 190 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Tuesday, December 8 and arrives at Manchester Airport at 10:05 AM on Tuesday, December 8. Total duration 4 hr 45 min.  Layover (1 of 1) is a 1 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 222.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and KLM",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "10:40",
-   "depDate": "2026-12-08",
-   "arrAirportName": "Manchester Airport",
    "arrTime": "16:35",
    "arrDate": "2026-12-08",
-   "durationMin": 415,
+   "durationMin": 675,
    "layovers": [
     {
-     "min": 55,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    },
-    {
-     "min": 105,
+     "min": 455,
      "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam"
@@ -143,10 +170,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 222 euros. 2 stops flight with Scandinavian Airlines and KLM. Leaves Trondheim Airport, Værnes at 10:40 AM on Tuesday, December 8 and arrives at Manchester Airport at 4:35 PM on Tuesday, December 8. Total duration 6 hr 55 min.  Layover (1 of 2) is a 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 224 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Tuesday, December 8 and arrives at Manchester Airport at 4:35 PM on Tuesday, December 8. Total duration 11 hr 15 min.  Layover (1 of 1) is a 7 hr 35 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 260.0,
+   "price": 261.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -175,10 +202,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 260 euros. 2 stops flight with KLM and Air France. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Trondheim Airport, Værnes at 6:20 AM on Tuesday, December 8 and arrives at Manchester Airport at 6:40 PM on Tuesday, December 8. Total duration 13 hr 20 min.  Layover (1 of 2) is a 3 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 4 hr 30 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "label": "From 261 euros. 2 stops flight with KLM and Air France. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Trondheim Airport, Værnes at 6:20 AM on Tuesday, December 8 and arrives at Manchester Airport at 6:40 PM on Tuesday, December 8. Total duration 13 hr 20 min.  Layover (1 of 2) is a 3 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 4 hr 30 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
   },
   {
-   "price": 260.0,
+   "price": 261.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -207,25 +234,31 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 260 euros. 2 stops flight with KLM and Air France. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Trondheim Airport, Værnes at 6:20 AM on Tuesday, December 8 and arrives at Manchester Airport at 6:40 PM on Tuesday, December 8. Total duration 13 hr 20 min.  Layover (1 of 2) is a 6 hr 10 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 2 hr layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "label": "From 261 euros. 2 stops flight with KLM and Air France. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Trondheim Airport, Værnes at 6:20 AM on Tuesday, December 8 and arrives at Manchester Airport at 6:40 PM on Tuesday, December 8. Total duration 13 hr 20 min.  Layover (1 of 2) is a 6 hr 10 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 2 hr layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
   },
   {
-   "price": 268.0,
+   "price": 294.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and KLM",
    "operatedBy": "KLM Cityhopper",
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "17:10",
+   "depTime": "14:45",
    "depDate": "2026-12-08",
    "arrAirportName": "Manchester Airport",
-   "arrTime": "22:05",
+   "arrTime": "20:00",
    "arrDate": "2026-12-08",
-   "durationMin": 355,
+   "durationMin": 375,
    "layovers": [
     {
-     "min": 130,
+     "min": 40,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    },
+    {
+     "min": 75,
      "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam"
@@ -233,10 +266,42 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 268 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:10 PM on Tuesday, December 8 and arrives at Manchester Airport at 10:05 PM on Tuesday, December 8. Total duration 5 hr 55 min.  Layover (1 of 1) is a 2 hr 10 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 294 euros. 2 stops flight with Scandinavian Airlines and KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 2:45 PM on Tuesday, December 8 and arrives at Manchester Airport at 8:00 PM on Tuesday, December 8. Total duration 6 hr 15 min.  Layover (1 of 2) is a 40 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 326.0,
+   "price": 298.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": "Sas Link",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:25",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Manchester Airport",
+   "arrTime": "18:40",
+   "arrDate": "2026-12-08",
+   "durationMin": 555,
+   "layovers": [
+    {
+     "min": 70,
+     "overnight": false,
+     "airport": "Stockholm Arlanda Airport",
+     "city": "Stockholm"
+    },
+    {
+     "min": 150,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 298 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 10:25 AM on Tuesday, December 8 and arrives at Manchester Airport at 6:40 PM on Tuesday, December 8. Total duration 9 hr 15 min.  Layover (1 of 2) is a 1 hr 10 min layover at Stockholm Arlanda Airport in Stockholm. Layover (2 of 2) is a 2 hr 30 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+  },
+  {
+   "price": 327.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -271,74 +336,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 326 euros. 3 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 3:35 PM on Tuesday, December 8 and arrives at Manchester Airport at 9:10 AM on Wednesday, December 9. Total duration 18 hr 35 min.  Layover (1 of 3) is a 2 hr 15 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 8 hr 45 min layover at Helsinki Airport in Helsinki. Select flight"
+   "label": "From 327 euros. 3 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 3:35 PM on Tuesday, December 8 and arrives at Manchester Airport at 9:10 AM on Wednesday, December 9. Total duration 18 hr 35 min.  Layover (1 of 3) is a 2 hr 15 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 8 hr 45 min layover at Helsinki Airport in Helsinki. Select flight"
   },
   {
-   "price": 341.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": "Sas Link for Scandinavian Airlines",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "10:25",
-   "depDate": "2026-12-08",
-   "arrAirportName": "Manchester Airport",
-   "arrTime": "18:40",
-   "arrDate": "2026-12-08",
-   "durationMin": 555,
-   "layovers": [
-    {
-     "min": 70,
-     "overnight": false,
-     "airport": "Stockholm Arlanda Airport",
-     "city": "Stockholm"
-    },
-    {
-     "min": 150,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 341 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 10:25 AM on Tuesday, December 8 and arrives at Manchester Airport at 6:40 PM on Tuesday, December 8. Total duration 9 hr 15 min.  Layover (1 of 2) is a 1 hr 10 min layover at Stockholm Arlanda Airport in Stockholm. Layover (2 of 2) is a 2 hr 30 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
-  },
-  {
-   "price": 442.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Tap Air Portugal",
-   "operatedBy": "Portugalia - Companhia Portuguesa",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "16:35",
-   "depDate": "2026-12-08",
-   "arrAirportName": "Manchester Airport",
-   "arrTime": "10:40",
-   "arrDate": "2026-12-09",
-   "durationMin": 1145,
-   "layovers": [
-    {
-     "min": 70,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    },
-    {
-     "min": 570,
-     "overnight": false,
-     "airport": "Humberto Delgado Airport",
-     "city": "Lisbon"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 442 euros. 2 stops flight with Scandinavian Airlines and Tap Air Portugal. Operated by Portugalia - Companhia Portuguesa. Leaves Trondheim Airport, Værnes at 4:35 PM on Tuesday, December 8 and arrives at Manchester Airport at 10:40 AM on Wednesday, December 9. Total duration 19 hr 5 min.  Layover (1 of 2) is a 1 hr 10 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 9 hr 30 min layover at Humberto Delgado Airport in Lisbon. Select flight"
-  },
-  {
-   "price": 512.0,
+   "price": 517.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -367,7 +368,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 512 euros. 2 stops flight with Wideroe, Lufthansa and Lufthansa City Airlines. Leaves Trondheim Airport, Værnes at 9:10 AM on Tuesday, December 8 and arrives at Manchester Airport at 5:00 PM on Tuesday, December 8. Total duration 8 hr 50 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 1 hr 10 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+   "label": "From 517 euros. 2 stops flight with Wideroe, Lufthansa and Lufthansa City Airlines. Leaves Trondheim Airport, Værnes at 9:10 AM on Tuesday, December 8 and arrives at Manchester Airport at 5:00 PM on Tuesday, December 8. Total duration 8 hr 50 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 1 hr 10 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
   }
  ]
 }

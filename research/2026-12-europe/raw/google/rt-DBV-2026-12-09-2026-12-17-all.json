@@ -1,17 +1,21 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA0RCVhoaEgoyMDI2LTEyLTE3agUSA0RCVnIFEgNUUkRAAUgBmAEB",
- "via": "ui",
+ "fetchedAt": "2026-10-19T22:54:31",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 464.0,
+   "price": 694.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "KLM and Croatia",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-09",
+   "arrCode": "DBV",
    "arrAirportName": "Dubrovnik Airport",
    "arrTime": "22:00",
    "arrDate": "2026-12-09",
@@ -19,19 +23,29 @@
    "layovers": [
     {
      "min": 330,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     },
     {
      "min": 305,
-     "airport": "Franjo Tuđman International Airport Zagr",
+     "overnight": false,
+     "airport": "Franjo Tuđman International Airport Zagreb",
      "city": "Zagreb",
-     "overnight": false
+     "code": "ZAG",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1150",
+    "KL1967",
+    "OU664"
+   ],
+   "via": "rpc"
   }
  ]
 }

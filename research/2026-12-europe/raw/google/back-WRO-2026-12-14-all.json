@@ -1,17 +1,21 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTRqBRIDV1JPcgUSA1RSREABSAGYAQI",
- "via": "ui",
+ "fetchedAt": "2026-10-19T23:09:54",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 112.0,
+   "price": 96.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "WRO",
    "depAirportName": "Nicolaus Copernicus Wrocław Airport",
    "depTime": "13:45",
    "depDate": "2026-12-14",
+   "arrCode": "TRD",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "23:10",
    "arrDate": "2026-12-14",
@@ -19,55 +23,67 @@
    "layovers": [
     {
      "min": 330,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1338",
+    "KL1155"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 231.0,
+   "price": 169.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Scandinavian Airlines",
-   "operatedBy": null,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "WRO",
    "depAirportName": "Nicolaus Copernicus Wrocław Airport",
-   "depTime": "13:45",
+   "depTime": "06:10",
    "depDate": "2026-12-14",
+   "arrCode": "TRD",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "20:30",
+   "arrTime": "16:35",
    "arrDate": "2026-12-14",
-   "durationMin": 405,
+   "durationMin": 625,
    "layovers": [
     {
-     "min": 55,
+     "min": 390,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
-    },
-    {
-     "min": 80,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1336",
+    "KL1153"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 281.0,
+   "price": 192.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Lufthansa and Wideroe",
-   "operatedBy": null,
+   "operatedBy": "Air Dolomiti",
+   "depCode": "WRO",
    "depAirportName": "Nicolaus Copernicus Wrocław Airport",
    "depTime": "07:00",
    "depDate": "2026-12-14",
+   "arrCode": "TRD",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "14:50",
    "arrDate": "2026-12-14",
@@ -75,19 +91,72 @@
    "layovers": [
     {
      "min": 100,
+     "overnight": false,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
-     "overnight": false
+     "code": "FRA",
+     "changeAirport": false
     },
     {
      "min": 95,
+     "overnight": false,
      "airport": "Bergen Airport",
      "city": "Bergen",
-     "overnight": false
+     "code": "BGO",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "LH1379",
+    "LH872",
+    "WF1311"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 231.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Scandinavian Airlines",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "WRO",
+   "depAirportName": "Nicolaus Copernicus Wrocław Airport",
+   "depTime": "13:45",
+   "depDate": "2026-12-14",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "20:30",
+   "arrDate": "2026-12-14",
+   "durationMin": 405,
+   "layovers": [
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    },
+    {
+     "min": 80,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1338",
+    "KL1205",
+    "SK370"
+   ],
+   "via": "rpc"
   }
  ]
 }

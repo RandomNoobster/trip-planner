@@ -1,21 +1,19 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA1BNSUABSAGYAQI",
- "fetchedAt": "2026-10-11T12:26:41",
+ "fetchedAt": "2026-10-19T23:35:19",
  "priceUnavailable": 0,
- "via": "rpc",
+ "via": "html",
  "itineraries": [
   {
-   "price": 350.0,
+   "price": 395.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "KLM and Air Europa",
-   "operatedBy": "Air Europa Express, KLM Cityhopper",
-   "depCode": "TRD",
+   "operatedBy": "KLM Cityhopper, Air Europa Express",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-07",
-   "arrCode": "PMI",
    "arrAirportName": "Palma de Mallorca Airport",
    "arrTime": "15:55",
    "arrDate": "2026-12-07",
@@ -25,40 +23,29 @@
      "min": 60,
      "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "code": "AMS",
-     "changeAirport": false
+     "city": "Amsterdam"
     },
     {
      "min": 145,
      "overnight": false,
      "airport": "Adolfo Suárez Madrid-Barajas Airport",
-     "city": "Madrid",
-     "code": "MAD",
-     "changeAirport": false
+     "city": "Madrid"
     }
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "flights": [
-    "KL1150",
-    "KL1503",
-    "UX6067"
-   ],
-   "via": "rpc"
+   "label": "From 395 euros. 2 stops flight with KLM and Air Europa. Operated by KLM Cityhopper, Air Europa Express. Leaves Trondheim Airport, Værnes at 6:20 AM on Monday, December 7 and arrives at Palma de Mallorca Airport at 3:55 PM on Monday, December 7. Total duration 9 hr 35 min.  Layover (1 of 2) is a 1 hr layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 2 hr 25 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Select flight"
   },
   {
-   "price": 361.0,
+   "price": 598.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Wideroe, Lufthansa and Discover Airlines",
    "operatedBy": null,
-   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "09:10",
    "depDate": "2026-12-07",
-   "arrCode": "PMI",
    "arrAirportName": "Palma de Mallorca Airport",
    "arrTime": "11:30",
    "arrDate": "2026-12-08",
@@ -68,40 +55,29 @@
      "min": 155,
      "overnight": false,
      "airport": "Bergen Airport",
-     "city": "Bergen",
-     "code": "BGO",
-     "changeAirport": false
+     "city": "Bergen"
     },
     {
      "min": 1100,
-     "overnight": true,
+     "overnight": false,
      "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main",
-     "code": "FRA",
-     "changeAirport": false
+     "city": "Frankfurt am Main"
     }
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "flights": [
-    "WF1302",
-    "LH873",
-    "4Y512"
-   ],
-   "via": "rpc"
+   "label": "From 598 euros. 2 stops flight with Wideroe, Lufthansa and Discover Airlines. Leaves Trondheim Airport, Værnes at 9:10 AM on Monday, December 7 and arrives at Palma de Mallorca Airport at 11:30 AM on Tuesday, December 8. Total duration 26 hr 20 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 18 hr 20 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
   },
   {
-   "price": 679.0,
+   "price": 710.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and Air Europa",
-   "operatedBy": "Air Europa Express, Sas Link",
-   "depCode": "TRD",
+   "operatedBy": "Sas Link, Air Europa Express",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "05:30",
    "depDate": "2026-12-07",
-   "arrCode": "PMI",
    "arrAirportName": "Palma de Mallorca Airport",
    "arrTime": "15:55",
    "arrDate": "2026-12-07",
@@ -111,40 +87,29 @@
      "min": 80,
      "overnight": false,
      "airport": "Copenhagen Airport",
-     "city": "Copenhagen",
-     "code": "CPH",
-     "changeAirport": false
+     "city": "Copenhagen"
     },
     {
      "min": 155,
      "overnight": false,
      "airport": "Adolfo Suárez Madrid-Barajas Airport",
-     "city": "Madrid",
-     "code": "MAD",
-     "changeAirport": false
+     "city": "Madrid"
     }
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "flights": [
-    "SK2885",
-    "SK581",
-    "UX6067"
-   ],
-   "via": "rpc"
+   "label": "From 710 euros. 2 stops flight with Scandinavian Airlines and Air Europa. Operated by Sas Link, Air Europa Express. Leaves Trondheim Airport, Værnes at 5:30 AM on Monday, December 7 and arrives at Palma de Mallorca Airport at 3:55 PM on Monday, December 7. Total duration 10 hr 25 min.  Layover (1 of 2) is a 1 hr 20 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 2 hr 35 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Select flight"
   },
   {
-   "price": 751.0,
+   "price": 757.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and Air Europa",
-   "operatedBy": "Air Europa Express, Sas Link",
-   "depCode": "TRD",
+   "operatedBy": "Sas Link, Air Europa Express",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "10:15",
    "depDate": "2026-12-07",
-   "arrCode": "PMI",
    "arrAirportName": "Palma de Mallorca Airport",
    "arrTime": "20:20",
    "arrDate": "2026-12-07",
@@ -154,27 +119,18 @@
      "min": 55,
      "overnight": false,
      "airport": "Copenhagen Airport",
-     "city": "Copenhagen",
-     "code": "CPH",
-     "changeAirport": false
+     "city": "Copenhagen"
     },
     {
      "min": 170,
      "overnight": false,
      "airport": "Adolfo Suárez Madrid-Barajas Airport",
-     "city": "Madrid",
-     "code": "MAD",
-     "changeAirport": false
+     "city": "Madrid"
     }
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "flights": [
-    "SK2889",
-    "SK4303",
-    "UX6097"
-   ],
-   "via": "rpc"
+   "label": "From 757 euros. 2 stops flight with Scandinavian Airlines and Air Europa. Operated by Sas Link, Air Europa Express. Leaves Trondheim Airport, Værnes at 10:15 AM on Monday, December 7 and arrives at Palma de Mallorca Airport at 8:20 PM on Monday, December 7. Total duration 10 hr 5 min.  Layover (1 of 2) is a 55 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 2 hr 50 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Select flight"
   }
  ]
 }

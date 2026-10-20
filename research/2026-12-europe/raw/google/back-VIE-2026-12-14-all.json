@@ -1,34 +1,9 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTRqBRIDVklFcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T11:22:46",
+ "fetchedAt": "2026-10-19T23:20:09",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
-  {
-   "price": 159.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depAirportName": "Vienna International Airport",
-   "depTime": "06:50",
-   "depDate": "2026-12-14",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
-   "arrDate": "2026-12-14",
-   "durationMin": 585,
-   "layovers": [
-    {
-     "min": 340,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 159 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Vienna International Airport at 6:50 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:35 PM on Monday, December 14. Total duration 9 hr 45 min.  Layover (1 of 1) is a 5 hr 40 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
   {
    "price": 159.0,
    "roundTripTotal": false,
@@ -56,7 +31,33 @@
    "label": "From 159 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Vienna International Airport at 5:05 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 11:10 PM on Monday, December 14. Total duration 6 hr 5 min.  Layover (1 of 1) is a 2 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 213.0,
+   "price": 178.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Vienna International Airport",
+   "depTime": "06:50",
+   "depDate": "2026-12-14",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-14",
+   "durationMin": 585,
+   "layovers": [
+    {
+     "min": 340,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 178 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Vienna International Airport at 6:50 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:35 PM on Monday, December 14. Total duration 9 hr 45 min.  Layover (1 of 1) is a 5 hr 40 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 252.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -79,10 +80,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 213 euros. 1 stop flight with Austrian and Scandinavian Airlines. Operated by Sas Link. Leaves Vienna International Airport at 6:50 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 1:35 PM on Monday, December 14. Total duration 6 hr 45 min.  Layover (1 of 1) is a 3 hr 15 min layover at Stockholm Arlanda Airport in Stockholm. Select flight"
+   "label": "From 252 euros. 1 stop flight with Austrian and Scandinavian Airlines. Operated by Sas Link. Leaves Vienna International Airport at 6:50 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 1:35 PM on Monday, December 14. Total duration 6 hr 45 min.  Layover (1 of 1) is a 3 hr 15 min layover at Stockholm Arlanda Airport in Stockholm. Select flight"
   },
   {
-   "price": 208.0,
+   "price": 256.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -97,13 +98,13 @@
    "durationMin": 1175,
    "layovers": [
     {
-     "min": 70,
+     "min": 500,
      "overnight": false,
      "airport": "Helsinki Airport",
      "city": "Helsinki"
     },
     {
-     "min": 490,
+     "min": 50,
      "overnight": false,
      "airport": "Stockholm Arlanda Airport",
      "city": "Stockholm"
@@ -117,10 +118,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 208 euros. 3 stops flight with Finnair and Wideroe. Operated by Jettime A/S for Finnair, Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Vienna International Airport at 7:15 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:50 PM on Tuesday, December 15. Total duration 19 hr 35 min.  Layover (1 of 3) is a 1 hr 10 min layover at Helsinki Airport in Helsinki. Layover (2 of 3) is a 8 hr 10 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 3 hr 50 min layover at Bergen Airport in Bergen. Select flight"
+   "label": "From 256 euros. 3 stops flight with Finnair and Wideroe. Operated by Jettime A/S for Finnair, Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Vienna International Airport at 7:15 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:50 PM on Tuesday, December 15. Total duration 19 hr 35 min.  Layover (1 of 3) is a 8 hr 20 min layover at Helsinki Airport in Helsinki. Layover (2 of 3) is a 50 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 3 hr 50 min layover at Bergen Airport in Bergen. Select flight"
   },
   {
-   "price": 292.0,
+   "price": 295.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -149,10 +150,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 292 euros. 2 stops flight with Austrian, Lufthansa and Wideroe. Leaves Vienna International Airport at 7:00 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:50 PM on Monday, December 14. Total duration 7 hr 50 min.  Layover (1 of 2) is a 1 hr 40 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+   "label": "From 295 euros. 2 stops flight with Austrian, Lufthansa and Wideroe. Leaves Vienna International Airport at 7:00 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:50 PM on Monday, December 14. Total duration 7 hr 50 min.  Layover (1 of 2) is a 1 hr 40 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
   },
   {
-   "price": 314.0,
+   "price": 315.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -175,10 +176,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 314 euros. 1 stop flight with Austrian and Scandinavian Airlines. Leaves Vienna International Airport at 11:15 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:00 PM on Monday, December 14. Total duration 4 hr 45 min.  Layover (1 of 1) is a 1 hr 25 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 315 euros. 1 stop flight with Austrian and Scandinavian Airlines. Leaves Vienna International Airport at 11:15 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:00 PM on Monday, December 14. Total duration 4 hr 45 min.  Layover (1 of 1) is a 1 hr 25 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 326.0,
+   "price": 327.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -201,42 +202,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 326 euros. 1 stop flight with Austrian and Scandinavian Airlines. Operated by Sas Link. Leaves Vienna International Airport at 7:20 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:30 PM on Monday, December 14. Total duration 7 hr 10 min.  Layover (1 of 1) is a 3 hr 45 min layover at Copenhagen Airport in Copenhagen. Select flight"
+   "label": "From 327 euros. 1 stop flight with Austrian and Scandinavian Airlines. Operated by Sas Link. Leaves Vienna International Airport at 7:20 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:30 PM on Monday, December 14. Total duration 7 hr 10 min.  Layover (1 of 1) is a 3 hr 45 min layover at Copenhagen Airport in Copenhagen. Select flight"
   },
   {
-   "price": 439.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Air France and KLM",
-   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
-   "depAirportName": "Vienna International Airport",
-   "depTime": "06:15",
-   "depDate": "2026-12-14",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
-   "arrDate": "2026-12-14",
-   "durationMin": 620,
-   "layovers": [
-    {
-     "min": 185,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    },
-    {
-     "min": 75,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 439 euros. 2 stops flight with Air France and KLM. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Vienna International Airport at 6:15 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:35 PM on Monday, December 14. Total duration 10 hr 20 min.  Layover (1 of 2) is a 3 hr 5 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 1 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 555.0,
+   "price": 556.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -259,7 +228,39 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 555 euros. 1 stop flight with Austrian and Scandinavian Airlines. Operated by Sas Link. Leaves Vienna International Airport at 3:05 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 7:20 PM on Monday, December 14. Total duration 4 hr 15 min.  Layover (1 of 1) is a 50 min layover at Copenhagen Airport in Copenhagen. Select flight"
+   "label": "From 556 euros. 1 stop flight with Austrian and Scandinavian Airlines. Operated by Sas Link. Leaves Vienna International Airport at 3:05 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 7:20 PM on Monday, December 14. Total duration 4 hr 15 min.  Layover (1 of 1) is a 50 min layover at Copenhagen Airport in Copenhagen. Select flight"
+  },
+  {
+   "price": 654.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air France and KLM",
+   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
+   "depAirportName": "Vienna International Airport",
+   "depTime": "06:15",
+   "depDate": "2026-12-14",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-14",
+   "durationMin": 620,
+   "layovers": [
+    {
+     "min": 70,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
+    },
+    {
+     "min": 195,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 654 euros. 2 stops flight with Air France and KLM. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Vienna International Airport at 6:15 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:35 PM on Monday, December 14. Total duration 10 hr 20 min.  Layover (1 of 2) is a 1 hr 10 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 3 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTVqBRIDTFlTcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T12:22:21",
+ "fetchedAt": "2026-10-19T23:29:00",
  "priceUnavailable": 0,
  "via": "rpc",
  "itineraries": [
@@ -116,50 +116,59 @@
    "via": "rpc"
   },
   {
-   "price": 260.0,
+   "price": 252.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Air France and Scandinavian Airlines",
+   "stops": 3,
+   "airlines": "Discover Airlines, Lufthansa and Wideroe",
    "operatedBy": null,
    "depCode": "LYS",
    "depAirportName": "Lyon Airport",
-   "depTime": "10:25",
+   "depTime": "18:40",
    "depDate": "2026-12-15",
    "arrCode": "TRD",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "19:15",
-   "arrDate": "2026-12-15",
-   "durationMin": 530,
+   "arrTime": "14:50",
+   "arrDate": "2026-12-16",
+   "durationMin": 1210,
    "layovers": [
     {
-     "min": 130,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
-     "code": "CDG",
+     "min": 720,
+     "overnight": true,
+     "airport": "Munich International Airport",
+     "city": "Munich",
+     "code": "MUC",
      "changeAirport": false
     },
     {
-     "min": 125,
+     "min": 70,
      "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo",
-     "code": "OSL",
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
      "changeAirport": false
     }
    ],
    "changeAirport": false,
    "separateTickets": false,
    "flights": [
-    "AF7361",
-    "AF1774",
-    "SK366"
+    "4Y625",
+    "LH127",
+    "LH872",
+    "WF1311"
    ],
    "via": "rpc"
   },
   {
-   "price": 271.0,
+   "price": 336.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -198,49 +207,6 @@
     "4Y613",
     "LH872",
     "WF1311"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 287.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Air France and Scandinavian Airlines",
-   "operatedBy": null,
-   "depCode": "LYS",
-   "depAirportName": "Lyon Airport",
-   "depTime": "11:35",
-   "depDate": "2026-12-15",
-   "arrCode": "TRD",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "19:15",
-   "arrDate": "2026-12-15",
-   "durationMin": 460,
-   "layovers": [
-    {
-     "min": 60,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
-     "code": "CDG",
-     "changeAirport": false
-    },
-    {
-     "min": 125,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo",
-     "code": "OSL",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "AF7363",
-    "AF1774",
-    "SK366"
    ],
    "via": "rpc"
   },
@@ -284,6 +250,49 @@
     "TP473",
     "TP762",
     "SK344"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 563.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air France and Scandinavian Airlines",
+   "operatedBy": null,
+   "depCode": "LYS",
+   "depAirportName": "Lyon Airport",
+   "depTime": "11:35",
+   "depDate": "2026-12-15",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "19:15",
+   "arrDate": "2026-12-15",
+   "durationMin": 460,
+   "layovers": [
+    {
+     "min": 60,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    },
+    {
+     "min": 125,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "AF7363",
+    "AF1774",
+    "SK366"
    ],
    "via": "rpc"
   }

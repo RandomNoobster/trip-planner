@@ -1,6 +1,6 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDVkxDcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T12:24:46",
+ "fetchedAt": "2026-10-19T23:32:54",
  "priceUnavailable": 0,
  "via": "rpc",
  "itineraries": [
@@ -73,7 +73,50 @@
    "via": "rpc"
   },
   {
-   "price": 280.0,
+   "price": 266.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depCode": "VLC",
+   "depAirportName": "Valencia Airport",
+   "depTime": "06:05",
+   "depDate": "2026-12-13",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:45",
+   "arrDate": "2026-12-13",
+   "durationMin": 520,
+   "layovers": [
+    {
+     "min": 100,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    },
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "LH1105",
+    "LH872",
+    "WF1311"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 306.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -103,49 +146,6 @@
    "flights": [
     "HV6336",
     "KL1153"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 293.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Air France and Wideroe",
-   "operatedBy": "HOP!",
-   "depCode": "VLC",
-   "depAirportName": "Valencia Airport",
-   "depTime": "05:55",
-   "depDate": "2026-12-13",
-   "arrCode": "TRD",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:45",
-   "arrDate": "2026-12-13",
-   "durationMin": 530,
-   "layovers": [
-    {
-     "min": 105,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
-     "code": "CDG",
-     "changeAirport": false
-    },
-    {
-     "min": 80,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen",
-     "code": "BGO",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "AF1493",
-    "AF1252",
-    "WF1311"
    ],
    "via": "rpc"
   },
@@ -184,7 +184,7 @@
    "via": "rpc"
   },
   {
-   "price": 267.0,
+   "price": 270.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -227,32 +227,32 @@
    "via": "rpc"
   },
   {
-   "price": 342.0,
+   "price": 317.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
-   "airlines": "Lufthansa and Wideroe",
-   "operatedBy": null,
+   "airlines": "Air France and Wideroe",
+   "operatedBy": "HOP!",
    "depCode": "VLC",
    "depAirportName": "Valencia Airport",
-   "depTime": "06:05",
+   "depTime": "05:55",
    "depDate": "2026-12-13",
    "arrCode": "TRD",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "14:45",
    "arrDate": "2026-12-13",
-   "durationMin": 520,
+   "durationMin": 530,
    "layovers": [
     {
-     "min": 100,
+     "min": 105,
      "overnight": false,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main",
-     "code": "FRA",
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
      "changeAirport": false
     },
     {
-     "min": 85,
+     "min": 80,
      "overnight": false,
      "airport": "Bergen Airport",
      "city": "Bergen",
@@ -263,8 +263,8 @@
    "changeAirport": false,
    "separateTickets": false,
    "flights": [
-    "LH1105",
-    "LH872",
+    "AF1493",
+    "AF1252",
     "WF1311"
    ],
    "via": "rpc"
@@ -313,7 +313,7 @@
    "via": "rpc"
   },
   {
-   "price": 486.0,
+   "price": 436.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,

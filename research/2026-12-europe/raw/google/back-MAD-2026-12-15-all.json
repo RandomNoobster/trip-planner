@@ -1,8 +1,8 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTVqBRIDTUFEcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T11:39:08",
+ "fetchedAt": "2026-10-19T23:32:13",
  "priceUnavailable": 0,
- "via": "rpc",
+ "via": "html",
  "itineraries": [
   {
    "price": 113.0,
@@ -11,32 +11,24 @@
    "stops": 1,
    "airlines": "KLM",
    "operatedBy": "KLM Cityhopper",
-   "depCode": "MAD",
    "depAirportName": "Adolfo Suárez Madrid-Barajas Airport",
-   "depTime": "10:50",
+   "depTime": "06:05",
    "depDate": "2026-12-15",
-   "arrCode": "TRD",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "16:35",
    "arrDate": "2026-12-15",
-   "durationMin": 345,
+   "durationMin": 630,
    "layovers": [
     {
-     "min": 60,
+     "min": 350,
      "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "code": "AMS",
-     "changeAirport": false
+     "city": "Amsterdam"
     }
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "flights": [
-    "KL1502",
-    "KL1153"
-   ],
-   "via": "rpc"
+   "label": "From 113 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Adolfo Suárez Madrid-Barajas Airport at 6:05 AM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 4:35 PM on Tuesday, December 15. Total duration 10 hr 30 min.  Layover (1 of 1) is a 5 hr 50 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
    "price": 113.0,
@@ -45,11 +37,9 @@
    "stops": 1,
    "airlines": "KLM",
    "operatedBy": "KLM Cityhopper",
-   "depCode": "MAD",
    "depAirportName": "Adolfo Suárez Madrid-Barajas Airport",
    "depTime": "17:00",
    "depDate": "2026-12-15",
-   "arrCode": "TRD",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "23:10",
    "arrDate": "2026-12-15",
@@ -59,104 +49,38 @@
      "min": 85,
      "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "code": "AMS",
-     "changeAirport": false
+     "city": "Amsterdam"
     }
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "flights": [
-    "KL1506",
-    "KL1155"
-   ],
-   "via": "rpc"
+   "label": "From 113 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Adolfo Suárez Madrid-Barajas Airport at 5:00 PM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 11:10 PM on Tuesday, December 15. Total duration 6 hr 10 min.  Layover (1 of 1) is a 1 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 211.0,
+   "price": 130.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Scandinavian Airlines",
-   "operatedBy": null,
-   "depCode": "MAD",
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
    "depAirportName": "Adolfo Suárez Madrid-Barajas Airport",
-   "depTime": "13:05",
+   "depTime": "10:50",
    "depDate": "2026-12-15",
-   "arrCode": "TRD",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "20:30",
+   "arrTime": "16:35",
    "arrDate": "2026-12-15",
-   "durationMin": 445,
+   "durationMin": 345,
    "layovers": [
     {
-     "min": 45,
+     "min": 60,
      "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "code": "AMS",
-     "changeAirport": false
-    },
-    {
-     "min": 80,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo",
-     "code": "OSL",
-     "changeAirport": false
+     "city": "Amsterdam"
     }
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "flights": [
-    "KL1504",
-    "KL1205",
-    "SK370"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 214.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Lufthansa and Wideroe",
-   "operatedBy": null,
-   "depCode": "MAD",
-   "depAirportName": "Adolfo Suárez Madrid-Barajas Airport",
-   "depTime": "06:05",
-   "depDate": "2026-12-15",
-   "arrCode": "TRD",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-15",
-   "durationMin": 525,
-   "layovers": [
-    {
-     "min": 95,
-     "overnight": false,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main",
-     "code": "FRA",
-     "changeAirport": false
-    },
-    {
-     "min": 95,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen",
-     "code": "BGO",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "LH1117",
-    "LH872",
-    "WF1311"
-   ],
-   "via": "rpc"
+   "label": "From 130 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Adolfo Suárez Madrid-Barajas Airport at 10:50 AM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 4:35 PM on Tuesday, December 15. Total duration 5 hr 45 min.  Layover (1 of 1) is a 1 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
    "price": 211.0,
@@ -165,11 +89,9 @@
    "stops": 2,
    "airlines": "KLM and Scandinavian Airlines",
    "operatedBy": null,
-   "depCode": "MAD",
    "depAirportName": "Adolfo Suárez Madrid-Barajas Airport",
    "depTime": "06:05",
    "depDate": "2026-12-15",
-   "arrCode": "TRD",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "14:10",
    "arrDate": "2026-12-15",
@@ -179,70 +101,236 @@
      "min": 80,
      "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "code": "AMS",
-     "changeAirport": false
+     "city": "Amsterdam"
     },
     {
      "min": 85,
      "overnight": false,
      "airport": "Oslo lufthavn",
-     "city": "Oslo",
-     "code": "OSL",
-     "changeAirport": false
+     "city": "Oslo"
     }
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "flights": [
-    "KL1500",
-    "KL1199",
-    "SK344"
-   ],
-   "via": "rpc"
+   "label": "From 211 euros. 2 stops flight with KLM and Scandinavian Airlines. Leaves Adolfo Suárez Madrid-Barajas Airport at 6:05 AM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 2:10 PM on Tuesday, December 15. Total duration 8 hr 5 min.  Layover (1 of 2) is a 1 hr 20 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 1 hr 25 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 246.0,
+   "price": 211.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Adolfo Suárez Madrid-Barajas Airport",
+   "depTime": "13:05",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "20:30",
+   "arrDate": "2026-12-15",
+   "durationMin": 445,
+   "layovers": [
+    {
+     "min": 45,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    },
+    {
+     "min": 80,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 211 euros. 2 stops flight with KLM and Scandinavian Airlines. Leaves Adolfo Suárez Madrid-Barajas Airport at 1:05 PM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 8:30 PM on Tuesday, December 15. Total duration 7 hr 25 min.  Layover (1 of 2) is a 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 1 hr 20 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 247.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air France and KLM",
+   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
+   "depAirportName": "Adolfo Suárez Madrid-Barajas Airport",
+   "depTime": "06:00",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-15",
+   "durationMin": 635,
+   "layovers": [
+    {
+     "min": 205,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
+    },
+    {
+     "min": 75,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 247 euros. 2 stops flight with Air France and KLM. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Adolfo Suárez Madrid-Barajas Airport at 6:00 AM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 4:35 PM on Tuesday, December 15. Total duration 10 hr 35 min.  Layover (1 of 2) is a 3 hr 25 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 1 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 276.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Air France and Scandinavian Airlines",
    "operatedBy": null,
-   "depCode": "MAD",
    "depAirportName": "Adolfo Suárez Madrid-Barajas Airport",
-   "depTime": "10:00",
+   "depTime": "16:25",
    "depDate": "2026-12-15",
-   "arrCode": "TRD",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "19:15",
-   "arrDate": "2026-12-15",
-   "durationMin": 555,
+   "arrTime": "09:05",
+   "arrDate": "2026-12-16",
+   "durationMin": 1000,
    "layovers": [
     {
-     "min": 100,
+     "min": 135,
      "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
-     "code": "CDG",
-     "changeAirport": false
+     "city": "Paris"
     },
     {
-     "min": 125,
+     "min": 520,
      "overnight": false,
      "airport": "Oslo lufthavn",
-     "city": "Oslo",
-     "code": "OSL",
-     "changeAirport": false
+     "city": "Oslo"
     }
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "flights": [
-    "AF1001",
-    "AF1774",
-    "SK366"
+   "label": "From 276 euros. 2 stops flight with Air France and Scandinavian Airlines. Leaves Adolfo Suárez Madrid-Barajas Airport at 4:25 PM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 9:05 AM on Wednesday, December 16. Total duration 16 hr 40 min.  Layover (1 of 2) is a 2 hr 15 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 8 hr 40 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 281.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Adolfo Suárez Madrid-Barajas Airport",
+   "depTime": "06:05",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-15",
+   "durationMin": 525,
+   "layovers": [
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    }
    ],
-   "via": "rpc"
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 281 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Adolfo Suárez Madrid-Barajas Airport at 6:05 AM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 2:50 PM on Tuesday, December 15. Total duration 8 hr 45 min.  Layover (1 of 2) is a 1 hr 35 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+  },
+  {
+   "price": 374.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Tap Air Portugal and Scandinavian Airlines",
+   "operatedBy": "Portugalia - Companhia Portuguesa",
+   "depAirportName": "Adolfo Suárez Madrid-Barajas Airport",
+   "depTime": "10:20",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "20:30",
+   "arrDate": "2026-12-15",
+   "durationMin": 610,
+   "layovers": [
+    {
+     "min": 120,
+     "overnight": false,
+     "airport": "Humberto Delgado Airport",
+     "city": "Lisbon"
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 374 euros. 2 stops flight with Tap Air Portugal and Scandinavian Airlines. Operated by Portugalia - Companhia Portuguesa. Leaves Adolfo Suárez Madrid-Barajas Airport at 10:20 AM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 8:30 PM on Tuesday, December 15. Total duration 10 hr 10 min.  Layover (1 of 2) is a 2 hr layover at Humberto Delgado Airport in Lisbon. Layover (2 of 2) is a 1 hr 35 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 447.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air France and Scandinavian Airlines",
+   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "depAirportName": "Adolfo Suárez Madrid-Barajas Airport",
+   "depTime": "16:25",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "00:40",
+   "arrDate": "2026-12-16",
+   "durationMin": 495,
+   "layovers": [
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
+    },
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 447 euros. 2 stops flight with Air France and Scandinavian Airlines. Operated by Sas Link for Scandinavian Airlines. Leaves Adolfo Suárez Madrid-Barajas Airport at 4:25 PM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 12:40 AM on Wednesday, December 16. Total duration 8 hr 15 min.  Layover (1 of 2) is a 1 hr 35 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 55 min layover at Copenhagen Airport in Copenhagen. Select flight"
+  },
+  {
+   "price": 630.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Scandinavian Airlines",
+   "operatedBy": "Sas Link",
+   "depAirportName": "Adolfo Suárez Madrid-Barajas Airport",
+   "depTime": "17:00",
+   "depDate": "2026-12-15",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "00:40",
+   "arrDate": "2026-12-16",
+   "durationMin": 460,
+   "layovers": [
+    {
+     "min": 160,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 630 euros. 1 stop flight with Scandinavian Airlines. Operated by Sas Link. Leaves Adolfo Suárez Madrid-Barajas Airport at 5:00 PM on Tuesday, December 15 and arrives at Trondheim Airport, Værnes at 12:40 AM on Wednesday, December 16. Total duration 7 hr 40 min.  Layover (1 of 1) is a 2 hr 40 min layover at Copenhagen Airport in Copenhagen. Select flight"
   }
  ]
 }

@@ -1,10 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDZqBRIDVFJEcgUSA0VESUABSAGYAQI",
- "fetchedAt": "2026-10-11T11:23:29",
+ "fetchedAt": "2026-10-19T23:23:37",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
-   "price": 148.0,
+   "price": 149.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -27,10 +28,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 148 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Sunday, December 6 and arrives at Edinburgh Airport at 12:30 PM on Sunday, December 6. Total duration 7 hr 10 min.  Layover (1 of 1) is a 3 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 149 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Sunday, December 6 and arrives at Edinburgh Airport at 12:30 PM on Sunday, December 6. Total duration 7 hr 10 min.  Layover (1 of 1) is a 3 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 252.0,
+   "price": 254.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -53,234 +54,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 252 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:15 PM on Sunday, December 6 and arrives at Edinburgh Airport at 11:05 PM on Sunday, December 6. Total duration 6 hr 50 min.  Layover (1 of 1) is a 3 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 254 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:15 PM on Sunday, December 6 and arrives at Edinburgh Airport at 11:05 PM on Sunday, December 6. Total duration 6 hr 50 min.  Layover (1 of 1) is a 3 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 556.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and KLM",
-   "operatedBy": "Sas Link for Scandinavian Airlines, KLM Cityhopper",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "13:15",
-   "depDate": "2026-12-06",
-   "arrAirportName": "Edinburgh Airport",
-   "arrTime": "20:00",
-   "arrDate": "2026-12-06",
-   "durationMin": 465,
-   "layovers": [
-    {
-     "min": 130,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    },
-    {
-     "min": 65,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 556 euros. 2 stops flight with Scandinavian Airlines and KLM. Operated by Sas Link for Scandinavian Airlines, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 1:15 PM on Sunday, December 6 and arrives at Edinburgh Airport at 8:00 PM on Sunday, December 6. Total duration 7 hr 45 min.  Layover (1 of 2) is a 2 hr 10 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 389.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Air France",
-   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-06",
-   "arrAirportName": "Edinburgh Airport",
-   "arrTime": "22:15",
-   "arrDate": "2026-12-06",
-   "durationMin": 1015,
-   "layovers": [
-    {
-     "min": 565,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    },
-    {
-     "min": 125,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 389 euros. 2 stops flight with KLM and Air France. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Trondheim Airport, Værnes at 6:20 AM on Sunday, December 6 and arrives at Edinburgh Airport at 10:15 PM on Sunday, December 6. Total duration 16 hr 55 min.  Layover (1 of 2) is a 9 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 2 hr 5 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
-  },
-  {
-   "price": 389.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Air France",
-   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-06",
-   "arrAirportName": "Edinburgh Airport",
-   "arrTime": "22:15",
-   "arrDate": "2026-12-06",
-   "durationMin": 1015,
-   "layovers": [
-    {
-     "min": 475,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    },
-    {
-     "min": 215,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 389 euros. 2 stops flight with KLM and Air France. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Trondheim Airport, Værnes at 6:20 AM on Sunday, December 6 and arrives at Edinburgh Airport at 10:15 PM on Sunday, December 6. Total duration 16 hr 55 min.  Layover (1 of 2) is a 7 hr 55 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 3 hr 35 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
-  },
-  {
-   "price": 389.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Air France",
-   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-06",
-   "arrAirportName": "Edinburgh Airport",
-   "arrTime": "22:15",
-   "arrDate": "2026-12-06",
-   "durationMin": 1015,
-   "layovers": [
-    {
-     "min": 330,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    },
-    {
-     "min": 355,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 389 euros. 2 stops flight with KLM and Air France. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Trondheim Airport, Værnes at 6:20 AM on Sunday, December 6 and arrives at Edinburgh Airport at 10:15 PM on Sunday, December 6. Total duration 16 hr 55 min.  Layover (1 of 2) is a 5 hr 30 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 5 hr 55 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
-  },
-  {
-   "price": 389.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Air France",
-   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-06",
-   "arrAirportName": "Edinburgh Airport",
-   "arrTime": "22:15",
-   "arrDate": "2026-12-06",
-   "durationMin": 1015,
-   "layovers": [
-    {
-     "min": 105,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    },
-    {
-     "min": 575,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 389 euros. 2 stops flight with KLM and Air France. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Trondheim Airport, Værnes at 6:20 AM on Sunday, December 6 and arrives at Edinburgh Airport at 10:15 PM on Sunday, December 6. Total duration 16 hr 55 min.  Layover (1 of 2) is a 1 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 9 hr 35 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
-  },
-  {
-   "price": 389.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Air France",
-   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-06",
-   "arrAirportName": "Edinburgh Airport",
-   "arrTime": "22:15",
-   "arrDate": "2026-12-06",
-   "durationMin": 1015,
-   "layovers": [
-    {
-     "min": 370,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    },
-    {
-     "min": 315,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 389 euros. 2 stops flight with KLM and Air France. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Trondheim Airport, Værnes at 6:20 AM on Sunday, December 6 and arrives at Edinburgh Airport at 10:15 PM on Sunday, December 6. Total duration 16 hr 55 min.  Layover (1 of 2) is a 6 hr 10 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 5 hr 15 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
-  },
-  {
-   "price": 423.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Wideroe and Lufthansa",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "09:10",
-   "depDate": "2026-12-06",
-   "arrAirportName": "Edinburgh Airport",
-   "arrTime": "23:20",
-   "arrDate": "2026-12-06",
-   "durationMin": 910,
-   "layovers": [
-    {
-     "min": 155,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen"
-    },
-    {
-     "min": 440,
-     "overnight": false,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 423 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 9:10 AM on Sunday, December 6 and arrives at Edinburgh Airport at 11:20 PM on Sunday, December 6. Total duration 15 hr 10 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 7 hr 20 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
-  },
-  {
-   "price": 465.0,
+   "price": 421.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -309,10 +86,208 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 465 euros. 2 stops flight with Wideroe and Air France. Leaves Trondheim Airport, Værnes at 9:10 AM on Sunday, December 6 and arrives at Edinburgh Airport at 10:15 PM on Sunday, December 6. Total duration 14 hr 5 min.  Layover (1 of 2) is a 2 hr 50 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 5 hr 55 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "label": "From 421 euros. 2 stops flight with Wideroe and Air France. Leaves Trondheim Airport, Værnes at 9:10 AM on Sunday, December 6 and arrives at Edinburgh Airport at 10:15 PM on Sunday, December 6. Total duration 14 hr 5 min.  Layover (1 of 2) is a 2 hr 50 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 5 hr 55 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
   },
   {
-   "price": 467.0,
+   "price": 290.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Air France",
+   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Edinburgh Airport",
+   "arrTime": "22:15",
+   "arrDate": "2026-12-06",
+   "durationMin": 1015,
+   "layovers": [
+    {
+     "min": 330,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    },
+    {
+     "min": 355,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 290 euros. 2 stops flight with KLM and Air France. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Trondheim Airport, Værnes at 6:20 AM on Sunday, December 6 and arrives at Edinburgh Airport at 10:15 PM on Sunday, December 6. Total duration 16 hr 55 min.  Layover (1 of 2) is a 5 hr 30 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 5 hr 55 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+  },
+  {
+   "price": 290.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Air France",
+   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Edinburgh Airport",
+   "arrTime": "22:15",
+   "arrDate": "2026-12-06",
+   "durationMin": 1015,
+   "layovers": [
+    {
+     "min": 565,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    },
+    {
+     "min": 125,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 290 euros. 2 stops flight with KLM and Air France. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Trondheim Airport, Værnes at 6:20 AM on Sunday, December 6 and arrives at Edinburgh Airport at 10:15 PM on Sunday, December 6. Total duration 16 hr 55 min.  Layover (1 of 2) is a 9 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 2 hr 5 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+  },
+  {
+   "price": 290.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Air France",
+   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Edinburgh Airport",
+   "arrTime": "22:15",
+   "arrDate": "2026-12-06",
+   "durationMin": 1015,
+   "layovers": [
+    {
+     "min": 475,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    },
+    {
+     "min": 215,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 290 euros. 2 stops flight with KLM and Air France. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Trondheim Airport, Værnes at 6:20 AM on Sunday, December 6 and arrives at Edinburgh Airport at 10:15 PM on Sunday, December 6. Total duration 16 hr 55 min.  Layover (1 of 2) is a 7 hr 55 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 3 hr 35 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+  },
+  {
+   "price": 290.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Air France",
+   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Edinburgh Airport",
+   "arrTime": "22:15",
+   "arrDate": "2026-12-06",
+   "durationMin": 1015,
+   "layovers": [
+    {
+     "min": 370,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    },
+    {
+     "min": 315,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 290 euros. 2 stops flight with KLM and Air France. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Trondheim Airport, Værnes at 6:20 AM on Sunday, December 6 and arrives at Edinburgh Airport at 10:15 PM on Sunday, December 6. Total duration 16 hr 55 min.  Layover (1 of 2) is a 6 hr 10 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 5 hr 15 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+  },
+  {
+   "price": 373.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Scandinavian Airlines, Austrian and Lufthansa",
+   "operatedBy": "Sas Link",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "08:00",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Edinburgh Airport",
+   "arrTime": "23:20",
+   "arrDate": "2026-12-06",
+   "durationMin": 980,
+   "layovers": [
+    {
+     "min": 310,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    },
+    {
+     "min": 160,
+     "overnight": false,
+     "airport": "Vienna International Airport",
+     "city": "Vienna"
+    },
+    {
+     "min": 90,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 373 euros. 3 stops flight with Scandinavian Airlines, Austrian and Lufthansa. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 8:00 AM on Sunday, December 6 and arrives at Edinburgh Airport at 11:20 PM on Sunday, December 6. Total duration 16 hr 20 min. Economy + Business Class Layover (1 of 3) is a 5 hr 10 min layover at Oslo lufthavn in Oslo. Layover (2 of 3) is a 2 hr 40 min layover at Vienna International Airport in Vienna. Layover (3 of 3) is a 1 hr 30 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 376.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Edinburgh Airport",
+   "arrTime": "23:20",
+   "arrDate": "2026-12-06",
+   "durationMin": 910,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    },
+    {
+     "min": 440,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 376 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 9:10 AM on Sunday, December 6 and arrives at Edinburgh Airport at 11:20 PM on Sunday, December 6. Total duration 15 hr 10 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 7 hr 20 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 423.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -347,10 +322,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 467 euros. 3 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 10:00 PM on Sunday, December 6 and arrives at Edinburgh Airport at 5:50 PM on Monday, December 7. Total duration 20 hr 50 min.  Layover (1 of 3) is a 11 hr 20 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 2 hr 5 min layover at Helsinki Airport in Helsinki. Select flight"
+   "label": "From 423 euros. 3 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 10:00 PM on Sunday, December 6 and arrives at Edinburgh Airport at 5:50 PM on Monday, December 7. Total duration 20 hr 50 min.  Layover (1 of 3) is a 11 hr 20 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 2 hr 5 min layover at Helsinki Airport in Helsinki. Select flight"
   },
   {
-   "price": 546.0,
+   "price": 691.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -379,7 +354,39 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 546 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 1:15 PM on Sunday, December 6 and arrives at Edinburgh Airport at 10:15 PM on Sunday, December 6. Total duration 10 hr.  Layover (1 of 2) is a 2 hr 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 25 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "label": "From 691 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 1:15 PM on Sunday, December 6 and arrives at Edinburgh Airport at 10:15 PM on Sunday, December 6. Total duration 10 hr.  Layover (1 of 2) is a 2 hr 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 25 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+  },
+  {
+   "price": 701.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": "Sas Link for Scandinavian Airlines, Sas Connect for Scandinavian Airlines",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "15:05",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Edinburgh Airport",
+   "arrTime": "22:15",
+   "arrDate": "2026-12-06",
+   "durationMin": 490,
+   "layovers": [
+    {
+     "min": 45,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen"
+    },
+    {
+     "min": 120,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 701 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link for Scandinavian Airlines, Sas Connect for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 3:05 PM on Sunday, December 6 and arrives at Edinburgh Airport at 10:15 PM on Sunday, December 6. Total duration 8 hr 10 min.  Layover (1 of 2) is a 45 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 2 hr layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
   }
  ]
 }

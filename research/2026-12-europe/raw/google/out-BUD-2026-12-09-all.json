@@ -1,10 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA0JVREABSAGYAQI",
- "fetchedAt": "2026-10-11T11:22:54",
+ "fetchedAt": "2026-10-19T23:20:38",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
-   "price": 127.0,
+   "price": 130.0,
    "roundTripTotal": false,
    "noOverheadBin": true,
    "stops": 1,
@@ -27,36 +28,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 127 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Trondheim Airport, Værnes at 7:15 AM on Wednesday, December 9 and arrives at Budapest Ferenc Liszt International Airport at 11:30 AM on Wednesday, December 9. Total duration 4 hr 15 min.  Layover (1 of 1) is a 50 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 130 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Trondheim Airport, Værnes at 7:15 AM on Wednesday, December 9 and arrives at Budapest Ferenc Liszt International Airport at 11:30 AM on Wednesday, December 9. Total duration 4 hr 15 min.  Layover (1 of 1) is a 50 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 209.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-09",
-   "arrAirportName": "Budapest Ferenc Liszt International Airport",
-   "arrTime": "11:30",
-   "arrDate": "2026-12-09",
-   "durationMin": 310,
-   "layovers": [
-    {
-     "min": 50,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 209 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Wednesday, December 9 and arrives at Budapest Ferenc Liszt International Airport at 11:30 AM on Wednesday, December 9. Total duration 5 hr 10 min.  Layover (1 of 1) is a 50 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 244.0,
+   "price": 245.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -79,10 +54,36 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 244 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:10 PM on Wednesday, December 9 and arrives at Budapest Ferenc Liszt International Airport at 11:30 PM on Wednesday, December 9. Total duration 6 hr 20 min.  Layover (1 of 1) is a 1 hr 55 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 245 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:10 PM on Wednesday, December 9 and arrives at Budapest Ferenc Liszt International Airport at 11:30 PM on Wednesday, December 9. Total duration 6 hr 20 min.  Layover (1 of 1) is a 1 hr 55 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 253.0,
+   "price": 264.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Budapest Ferenc Liszt International Airport",
+   "arrTime": "11:30",
+   "arrDate": "2026-12-09",
+   "durationMin": 310,
+   "layovers": [
+    {
+     "min": 50,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 264 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Wednesday, December 9 and arrives at Budapest Ferenc Liszt International Airport at 11:30 AM on Wednesday, December 9. Total duration 5 hr 10 min.  Layover (1 of 1) is a 50 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 290.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -111,10 +112,42 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 253 euros. 2 stops flight with Scandinavian Airlines and Austrian. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 3:05 PM on Wednesday, December 9 and arrives at Budapest Ferenc Liszt International Airport at 9:55 PM on Wednesday, December 9. Total duration 6 hr 50 min.  Layover (1 of 2) is a 55 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 1 hr 45 min layover at Vienna International Airport in Vienna. Select flight"
+   "label": "From 290 euros. 2 stops flight with Scandinavian Airlines and Austrian. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 3:05 PM on Wednesday, December 9 and arrives at Budapest Ferenc Liszt International Airport at 9:55 PM on Wednesday, December 9. Total duration 6 hr 50 min.  Layover (1 of 2) is a 55 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 1 hr 45 min layover at Vienna International Airport in Vienna. Select flight"
   },
   {
-   "price": 229.0,
+   "price": 220.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and KLM",
+   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "10:40",
+   "depDate": "2026-12-09",
+   "arrAirportName": "Budapest Ferenc Liszt International Airport",
+   "arrTime": "23:30",
+   "arrDate": "2026-12-09",
+   "durationMin": 770,
+   "layovers": [
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    },
+    {
+     "min": 420,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 220 euros. 2 stops flight with Scandinavian Airlines and KLM. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 10:40 AM on Wednesday, December 9 and arrives at Budapest Ferenc Liszt International Airport at 11:30 PM on Wednesday, December 9. Total duration 12 hr 50 min.  Layover (1 of 2) is a 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 7 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 232.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -143,31 +176,31 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 229 euros. 2 stops flight with Scandinavian Airlines and Austrian. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 10:40 AM on Wednesday, December 9 and arrives at Budapest Ferenc Liszt International Airport at 9:55 PM on Wednesday, December 9. Total duration 11 hr 15 min.  Layover (1 of 2) is a 2 hr 40 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 4 hr 25 min layover at Vienna International Airport in Vienna. Select flight"
+   "label": "From 232 euros. 2 stops flight with Scandinavian Airlines and Austrian. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 10:40 AM on Wednesday, December 9 and arrives at Budapest Ferenc Liszt International Airport at 9:55 PM on Wednesday, December 9. Total duration 11 hr 15 min.  Layover (1 of 2) is a 2 hr 40 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 4 hr 25 min layover at Vienna International Airport in Vienna. Select flight"
   },
   {
-   "price": 263.0,
+   "price": 360.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
-   "airlines": "KLM and Air France",
-   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": "Sas Link",
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
+   "depTime": "10:25",
    "depDate": "2026-12-09",
    "arrAirportName": "Budapest Ferenc Liszt International Airport",
    "arrTime": "22:40",
    "arrDate": "2026-12-09",
-   "durationMin": 980,
+   "durationMin": 735,
    "layovers": [
     {
-     "min": 330,
+     "min": 70,
      "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
+     "airport": "Stockholm Arlanda Airport",
+     "city": "Stockholm"
     },
     {
-     "min": 300,
+     "min": 290,
      "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris"
@@ -175,10 +208,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 263 euros. 2 stops flight with KLM and Air France. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Trondheim Airport, Værnes at 6:20 AM on Wednesday, December 9 and arrives at Budapest Ferenc Liszt International Airport at 10:40 PM on Wednesday, December 9. Total duration 16 hr 20 min.  Layover (1 of 2) is a 5 hr 30 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 5 hr layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "label": "From 360 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 10:25 AM on Wednesday, December 9 and arrives at Budapest Ferenc Liszt International Airport at 10:40 PM on Wednesday, December 9. Total duration 12 hr 15 min.  Layover (1 of 2) is a 1 hr 10 min layover at Stockholm Arlanda Airport in Stockholm. Layover (2 of 2) is a 4 hr 50 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
   },
   {
-   "price": 359.0,
+   "price": 363.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -207,7 +240,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 359 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 9:10 AM on Wednesday, December 9 and arrives at Budapest Ferenc Liszt International Airport at 5:50 PM on Wednesday, December 9. Total duration 8 hr 40 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 1 hr 15 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+   "label": "From 363 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 9:10 AM on Wednesday, December 9 and arrives at Budapest Ferenc Liszt International Airport at 5:50 PM on Wednesday, December 9. Total duration 8 hr 40 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 1 hr 15 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
   }
  ]
 }

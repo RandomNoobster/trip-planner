@@ -15,34 +15,34 @@
    },
    "arrivalAirport": {
     "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
+    "iataCode": "SNN",
+    "name": "Shannon",
+    "seoName": "shannon",
     "city": {
-     "code": "DUBLIN",
+     "code": "SHANNON",
      "countryCode": "ie",
-     "name": "Dublin"
+     "name": "Shannon"
     }
    },
-   "departureDate": "2026-12-09T15:55:00",
-   "arrivalDate": "2026-12-09T17:15:00",
+   "departureDate": "2026-12-09T20:00:00",
+   "arrivalDate": "2026-12-09T21:30:00",
    "price": {
-    "value": 14.99,
-    "valueMainUnit": "14",
-    "valueFractionalUnit": "99",
+    "value": 12.64,
+    "valueMainUnit": "12",
+    "valueFractionalUnit": "64",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
-   "flightKey": "FR~ 113~ ~~LGW~12/09/2026 15:55~DUB~12/09/2026 17:15~~",
-   "flightNumber": "FR113",
+   "flightKey": "FR~1183~ ~~LGW~12/09/2026 20:00~SNN~12/09/2026 21:30~~",
+   "flightNumber": "FR1183",
    "previousPrice": null,
-   "priceUpdated": 1791800574000
+   "priceUpdated": 1792434010000
   },
   "summary": {
    "price": {
-    "value": 14.99,
-    "valueMainUnit": "14",
-    "valueFractionalUnit": "99",
+    "value": 12.64,
+    "valueMainUnit": "12",
+    "valueFractionalUnit": "64",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -66,34 +66,34 @@
    },
    "arrivalAirport": {
     "countryName": "Ireland",
-    "iataCode": "SNN",
-    "name": "Shannon",
-    "seoName": "shannon",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
     "city": {
-     "code": "SHANNON",
+     "code": "DUBLIN",
      "countryCode": "ie",
-     "name": "Shannon"
+     "name": "Dublin"
     }
    },
-   "departureDate": "2026-12-09T20:00:00",
-   "arrivalDate": "2026-12-09T21:30:00",
+   "departureDate": "2026-12-09T15:55:00",
+   "arrivalDate": "2026-12-09T17:15:00",
    "price": {
-    "value": 15.24,
-    "valueMainUnit": "15",
-    "valueFractionalUnit": "24",
+    "value": 14.99,
+    "valueMainUnit": "14",
+    "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
-   "flightKey": "FR~1183~ ~~LGW~12/09/2026 20:00~SNN~12/09/2026 21:30~~",
-   "flightNumber": "FR1183",
+   "flightKey": "FR~ 113~ ~~LGW~12/09/2026 15:55~DUB~12/09/2026 17:15~~",
+   "flightNumber": "FR113",
    "previousPrice": null,
-   "priceUpdated": 1791800576000
+   "priceUpdated": 1792434033000
   },
   "summary": {
    "price": {
-    "value": 15.24,
-    "valueMainUnit": "15",
-    "valueFractionalUnit": "24",
+    "value": 14.99,
+    "valueMainUnit": "14",
+    "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -129,8 +129,8 @@
    "departureDate": "2026-12-05T15:20:00",
    "arrivalDate": "2026-12-05T16:40:00",
    "price": {
-    "value": 17.99,
-    "valueMainUnit": "17",
+    "value": 16.99,
+    "valueMainUnit": "16",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -138,12 +138,12 @@
    "flightKey": "FR~1031~ ~~LGW~12/05/2026 15:20~DUB~12/05/2026 16:40~~",
    "flightNumber": "FR1031",
    "previousPrice": null,
-   "priceUpdated": 1791800576000
+   "priceUpdated": 1792437386000
   },
   "summary": {
    "price": {
-    "value": 17.99,
-    "valueMainUnit": "17",
+    "value": 16.99,
+    "valueMainUnit": "16",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -180,225 +180,21 @@
    "departureDate": "2026-12-08T12:30:00",
    "arrivalDate": "2026-12-08T14:00:00",
    "price": {
-    "value": 18.03,
-    "valueMainUnit": "18",
-    "valueFractionalUnit": "03",
+    "value": 16.99,
+    "valueMainUnit": "16",
+    "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~1183~ ~~LGW~12/08/2026 12:30~SNN~12/08/2026 14:00~~",
    "flightNumber": "FR1183",
    "previousPrice": null,
-   "priceUpdated": 1791800576000
+   "priceUpdated": 1792434036000
   },
   "summary": {
    "price": {
-    "value": 18.03,
-    "valueMainUnit": "18",
-    "valueFractionalUnit": "03",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LGW",
-    "name": "London Gatwick",
-    "seoName": "london-gatwick",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "SNN",
-    "name": "Shannon",
-    "seoName": "shannon",
-    "city": {
-     "code": "SHANNON",
-     "countryCode": "ie",
-     "name": "Shannon"
-    }
-   },
-   "departureDate": "2026-12-04T16:35:00",
-   "arrivalDate": "2026-12-04T18:05:00",
-   "price": {
-    "value": 18.63,
-    "valueMainUnit": "18",
-    "valueFractionalUnit": "63",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~1183~ ~~LGW~12/04/2026 16:35~SNN~12/04/2026 18:05~~",
-   "flightNumber": "FR1183",
-   "previousPrice": null,
-   "priceUpdated": 1791800577000
-  },
-  "summary": {
-   "price": {
-    "value": 18.63,
-    "valueMainUnit": "18",
-    "valueFractionalUnit": "63",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LGW",
-    "name": "London Gatwick",
-    "seoName": "london-gatwick",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "ORK",
-    "name": "Cork",
-    "seoName": "cork",
-    "city": {
-     "code": "CORK",
-     "countryCode": "ie",
-     "name": "Cork"
-    }
-   },
-   "departureDate": "2026-12-10T09:40:00",
-   "arrivalDate": "2026-12-10T11:05:00",
-   "price": {
-    "value": 19.48,
-    "valueMainUnit": "19",
-    "valueFractionalUnit": "48",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~7722~ ~~LGW~12/10/2026 09:40~ORK~12/10/2026 11:05~~",
-   "flightNumber": "FR7722",
-   "previousPrice": null,
-   "priceUpdated": 1791800575000
-  },
-  "summary": {
-   "price": {
-    "value": 19.48,
-    "valueMainUnit": "19",
-    "valueFractionalUnit": "48",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LGW",
-    "name": "London Gatwick",
-    "seoName": "london-gatwick",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "SNN",
-    "name": "Shannon",
-    "seoName": "shannon",
-    "city": {
-     "code": "SHANNON",
-     "countryCode": "ie",
-     "name": "Shannon"
-    }
-   },
-   "departureDate": "2026-12-05T20:00:00",
-   "arrivalDate": "2026-12-05T21:30:00",
-   "price": {
-    "value": 19.48,
-    "valueMainUnit": "19",
-    "valueFractionalUnit": "48",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~1183~ ~~LGW~12/05/2026 20:00~SNN~12/05/2026 21:30~~",
-   "flightNumber": "FR1183",
-   "previousPrice": null,
-   "priceUpdated": 1791800577000
-  },
-  "summary": {
-   "price": {
-    "value": 19.48,
-    "valueMainUnit": "19",
-    "valueFractionalUnit": "48",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LGW",
-    "name": "London Gatwick",
-    "seoName": "london-gatwick",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-08T11:25:00",
-   "arrivalDate": "2026-12-08T12:45:00",
-   "price": {
-    "value": 19.99,
-    "valueMainUnit": "19",
-    "valueFractionalUnit": "99",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~ 113~ ~~LGW~12/08/2026 11:25~DUB~12/08/2026 12:45~~",
-   "flightNumber": "FR113",
-   "previousPrice": null,
-   "priceUpdated": 1791800574000
-  },
-  "summary": {
-   "price": {
-    "value": 19.99,
-    "valueMainUnit": "19",
+    "value": 16.99,
+    "valueMainUnit": "16",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -435,73 +231,22 @@
    "departureDate": "2026-12-06T08:25:00",
    "arrivalDate": "2026-12-06T09:45:00",
    "price": {
-    "value": 20.99,
-    "valueMainUnit": "20",
-    "valueFractionalUnit": "99",
+    "value": 21.77,
+    "valueMainUnit": "21",
+    "valueFractionalUnit": "77",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~ 113~ ~~LGW~12/06/2026 08:25~DUB~12/06/2026 09:45~~",
    "flightNumber": "FR113",
    "previousPrice": null,
-   "priceUpdated": 1791800210000
+   "priceUpdated": 1792423373000
   },
   "summary": {
    "price": {
-    "value": 20.99,
-    "valueMainUnit": "20",
-    "valueFractionalUnit": "99",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LGW",
-    "name": "London Gatwick",
-    "seoName": "london-gatwick",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-05T09:40:00",
-   "arrivalDate": "2026-12-05T13:05:00",
-   "price": {
-    "value": 21.99,
+    "value": 21.77,
     "valueMainUnit": "21",
-    "valueFractionalUnit": "99",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~2715~ ~~LGW~12/05/2026 09:40~ALC~12/05/2026 13:05~~",
-   "flightNumber": "FR2715",
-   "previousPrice": null,
-   "priceUpdated": 1791800577000
-  },
-  "summary": {
-   "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
-    "valueFractionalUnit": "99",
+    "valueFractionalUnit": "77",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -537,73 +282,22 @@
    "departureDate": "2026-12-10T12:20:00",
    "arrivalDate": "2026-12-10T13:50:00",
    "price": {
-    "value": 22.14,
+    "value": 22.21,
     "valueMainUnit": "22",
-    "valueFractionalUnit": "14",
+    "valueFractionalUnit": "21",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~1183~ ~~LGW~12/10/2026 12:20~SNN~12/10/2026 13:50~~",
    "flightNumber": "FR1183",
    "previousPrice": null,
-   "priceUpdated": 1791800576000
+   "priceUpdated": 1792424272000
   },
   "summary": {
    "price": {
-    "value": 22.14,
+    "value": 22.21,
     "valueMainUnit": "22",
-    "valueFractionalUnit": "14",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LGW",
-    "name": "London Gatwick",
-    "seoName": "london-gatwick",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-10T19:20:00",
-   "arrivalDate": "2026-12-10T20:40:00",
-   "price": {
-    "value": 23.84,
-    "valueMainUnit": "23",
-    "valueFractionalUnit": "84",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~ 113~ ~~LGW~12/10/2026 19:20~DUB~12/10/2026 20:40~~",
-   "flightNumber": "FR113",
-   "previousPrice": null,
-   "priceUpdated": 1791801145000
-  },
-  "summary": {
-   "price": {
-    "value": 23.84,
-    "valueMainUnit": "23",
-    "valueFractionalUnit": "84",
+    "valueFractionalUnit": "21",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -636,76 +330,25 @@
      "name": "Cork"
     }
    },
-   "departureDate": "2026-12-05T18:00:00",
-   "arrivalDate": "2026-12-05T19:25:00",
+   "departureDate": "2026-12-10T09:40:00",
+   "arrivalDate": "2026-12-10T11:05:00",
    "price": {
-    "value": 24.6,
-    "valueMainUnit": "24",
-    "valueFractionalUnit": "60",
+    "value": 22.75,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "75",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
-   "flightKey": "FR~7722~ ~~LGW~12/05/2026 18:00~ORK~12/05/2026 19:25~~",
+   "flightKey": "FR~7722~ ~~LGW~12/10/2026 09:40~ORK~12/10/2026 11:05~~",
    "flightNumber": "FR7722",
    "previousPrice": null,
-   "priceUpdated": 1791800575000
+   "priceUpdated": 1792441094000
   },
   "summary": {
    "price": {
-    "value": 24.6,
-    "valueMainUnit": "24",
-    "valueFractionalUnit": "60",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LGW",
-    "name": "London Gatwick",
-    "seoName": "london-gatwick",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-07T09:40:00",
-   "arrivalDate": "2026-12-07T11:00:00",
-   "price": {
-    "value": 25.91,
-    "valueMainUnit": "25",
-    "valueFractionalUnit": "91",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~ 117~ ~~LGW~12/07/2026 09:40~DUB~12/07/2026 11:00~~",
-   "flightNumber": "FR117",
-   "previousPrice": null,
-   "priceUpdated": 1791800576000
-  },
-  "summary": {
-   "price": {
-    "value": 25.91,
-    "valueMainUnit": "25",
-    "valueFractionalUnit": "91",
+    "value": 22.75,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "75",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -738,25 +381,25 @@
      "name": "Alicante"
     }
    },
-   "departureDate": "2026-12-11T18:30:00",
-   "arrivalDate": "2026-12-11T21:55:00",
+   "departureDate": "2026-12-05T09:40:00",
+   "arrivalDate": "2026-12-05T13:05:00",
    "price": {
-    "value": 29.32,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "32",
+    "value": 22.99,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
-   "flightKey": "FR~2715~ ~~LGW~12/11/2026 18:30~ALC~12/11/2026 21:55~~",
+   "flightKey": "FR~2715~ ~~LGW~12/05/2026 09:40~ALC~12/05/2026 13:05~~",
    "flightNumber": "FR2715",
    "previousPrice": null,
-   "priceUpdated": 1791800578000
+   "priceUpdated": 1792434007000
   },
   "summary": {
    "price": {
-    "value": 29.32,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "32",
+    "value": 22.99,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -789,25 +432,178 @@
      "name": "Dublin"
     }
    },
-   "departureDate": "2026-12-04T21:35:00",
-   "arrivalDate": "2026-12-04T22:55:00",
+   "departureDate": "2026-12-08T09:40:00",
+   "arrivalDate": "2026-12-08T11:00:00",
    "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
+    "value": 22.99,
+    "valueMainUnit": "22",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
-   "flightKey": "FR~ 123~ ~~LGW~12/04/2026 21:35~DUB~12/04/2026 22:55~~",
-   "flightNumber": "FR123",
+   "flightKey": "FR~ 115~ ~~LGW~12/08/2026 09:40~DUB~12/08/2026 11:00~~",
+   "flightNumber": "FR115",
    "previousPrice": null,
-   "priceUpdated": 1791800577000
+   "priceUpdated": 1792419283000
   },
   "summary": {
    "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
+    "value": 22.99,
+    "valueMainUnit": "22",
     "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LGW",
+    "name": "London Gatwick",
+    "seoName": "london-gatwick",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-10T08:50:00",
+   "arrivalDate": "2026-12-10T10:10:00",
+   "price": {
+    "value": 23.99,
+    "valueMainUnit": "23",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~ 115~ ~~LGW~12/10/2026 08:50~DUB~12/10/2026 10:10~~",
+   "flightNumber": "FR115",
+   "previousPrice": null,
+   "priceUpdated": 1792419316000
+  },
+  "summary": {
+   "price": {
+    "value": 23.99,
+    "valueMainUnit": "23",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LGW",
+    "name": "London Gatwick",
+    "seoName": "london-gatwick",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "SNN",
+    "name": "Shannon",
+    "seoName": "shannon",
+    "city": {
+     "code": "SHANNON",
+     "countryCode": "ie",
+     "name": "Shannon"
+    }
+   },
+   "departureDate": "2026-12-04T16:35:00",
+   "arrivalDate": "2026-12-04T18:05:00",
+   "price": {
+    "value": 24.44,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "44",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~1183~ ~~LGW~12/04/2026 16:35~SNN~12/04/2026 18:05~~",
+   "flightNumber": "FR1183",
+   "previousPrice": null,
+   "priceUpdated": 1792438416000
+  },
+  "summary": {
+   "price": {
+    "value": 24.44,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "44",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LGW",
+    "name": "London Gatwick",
+    "seoName": "london-gatwick",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "SNN",
+    "name": "Shannon",
+    "seoName": "shannon",
+    "city": {
+     "code": "SHANNON",
+     "countryCode": "ie",
+     "name": "Shannon"
+    }
+   },
+   "departureDate": "2026-12-05T20:00:00",
+   "arrivalDate": "2026-12-05T21:30:00",
+   "price": {
+    "value": 24.44,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "44",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~1183~ ~~LGW~12/05/2026 20:00~SNN~12/05/2026 21:30~~",
+   "flightNumber": "FR1183",
+   "previousPrice": null,
+   "priceUpdated": 1792439575000
+  },
+  "summary": {
+   "price": {
+    "value": 24.44,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "44",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -843,8 +639,8 @@
    "departureDate": "2026-12-11T17:45:00",
    "arrivalDate": "2026-12-11T19:05:00",
    "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
+    "value": 24.99,
+    "valueMainUnit": "24",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -852,13 +648,64 @@
    "flightKey": "FR~ 307~ ~~LGW~12/11/2026 17:45~DUB~12/11/2026 19:05~~",
    "flightNumber": "FR307",
    "previousPrice": null,
-   "priceUpdated": 1791800578000
+   "priceUpdated": 1792419807000
   },
   "summary": {
    "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
+    "value": 24.99,
+    "valueMainUnit": "24",
     "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LGW",
+    "name": "London Gatwick",
+    "seoName": "london-gatwick",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "ORK",
+    "name": "Cork",
+    "seoName": "cork",
+    "city": {
+     "code": "CORK",
+     "countryCode": "ie",
+     "name": "Cork"
+    }
+   },
+   "departureDate": "2026-12-05T18:00:00",
+   "arrivalDate": "2026-12-05T19:25:00",
+   "price": {
+    "value": 25.59,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "59",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~7722~ ~~LGW~12/05/2026 18:00~ORK~12/05/2026 19:25~~",
+   "flightNumber": "FR7722",
+   "previousPrice": null,
+   "priceUpdated": 1792432968000
+  },
+  "summary": {
+   "price": {
+    "value": 25.59,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "59",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -894,22 +741,73 @@
    "departureDate": "2026-12-09T11:25:00",
    "arrivalDate": "2026-12-09T12:50:00",
    "price": {
-    "value": 33.88,
-    "valueMainUnit": "33",
-    "valueFractionalUnit": "88",
+    "value": 26.96,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "96",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~7722~ ~~LGW~12/09/2026 11:25~ORK~12/09/2026 12:50~~",
    "flightNumber": "FR7722",
    "previousPrice": null,
-   "priceUpdated": 1791800576000
+   "priceUpdated": 1792419808000
   },
   "summary": {
    "price": {
-    "value": 33.88,
-    "valueMainUnit": "33",
-    "valueFractionalUnit": "88",
+    "value": 26.96,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "96",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LGW",
+    "name": "London Gatwick",
+    "seoName": "london-gatwick",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-11T13:15:00",
+   "arrivalDate": "2026-12-11T16:40:00",
+   "price": {
+    "value": 27.99,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~2717~ ~~LGW~12/11/2026 13:15~ALC~12/11/2026 16:40~~",
+   "flightNumber": "FR2717",
+   "previousPrice": null,
+   "priceUpdated": 1792434038000
+  },
+  "summary": {
+   "price": {
+    "value": 27.99,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -945,22 +843,73 @@
    "departureDate": "2026-12-08T11:10:00",
    "arrivalDate": "2026-12-08T12:35:00",
    "price": {
-    "value": 34.73,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "73",
+    "value": 31.18,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "18",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~7722~ ~~LGW~12/08/2026 11:10~ORK~12/08/2026 12:35~~",
    "flightNumber": "FR7722",
    "previousPrice": null,
-   "priceUpdated": 1791800574000
+   "priceUpdated": 1792419806000
   },
   "summary": {
    "price": {
-    "value": 34.73,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "73",
+    "value": 31.18,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "18",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LGW",
+    "name": "London Gatwick",
+    "seoName": "london-gatwick",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-07T21:30:00",
+   "arrivalDate": "2026-12-07T22:50:00",
+   "price": {
+    "value": 31.25,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "25",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~ 123~ ~~LGW~12/07/2026 21:30~DUB~12/07/2026 22:50~~",
+   "flightNumber": "FR123",
+   "previousPrice": null,
+   "priceUpdated": 1792411367000
+  },
+  "summary": {
+   "price": {
+    "value": 31.25,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "25",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -996,8 +945,8 @@
    "departureDate": "2026-12-04T18:30:00",
    "arrivalDate": "2026-12-04T21:55:00",
    "price": {
-    "value": 37.99,
-    "valueMainUnit": "37",
+    "value": 36.99,
+    "valueMainUnit": "36",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -1005,12 +954,12 @@
    "flightKey": "FR~2715~ ~~LGW~12/04/2026 18:30~ALC~12/04/2026 21:55~~",
    "flightNumber": "FR2715",
    "previousPrice": null,
-   "priceUpdated": 1791800577000
+   "priceUpdated": 1792437777000
   },
   "summary": {
    "price": {
-    "value": 37.99,
-    "valueMainUnit": "37",
+    "value": 36.99,
+    "valueMainUnit": "36",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -1034,35 +983,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
     "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
     }
    },
-   "departureDate": "2026-12-10T13:30:00",
-   "arrivalDate": "2026-12-10T16:55:00",
+   "departureDate": "2026-12-04T21:35:00",
+   "arrivalDate": "2026-12-04T22:55:00",
    "price": {
-    "value": 38.3,
-    "valueMainUnit": "38",
-    "valueFractionalUnit": "30",
+    "value": 36.99,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
-   "flightKey": "FR~2715~ ~~LGW~12/10/2026 13:30~ALC~12/10/2026 16:55~~",
-   "flightNumber": "FR2715",
+   "flightKey": "FR~ 123~ ~~LGW~12/04/2026 21:35~DUB~12/04/2026 22:55~~",
+   "flightNumber": "FR123",
    "previousPrice": null,
-   "priceUpdated": 1791800578000
+   "priceUpdated": 1792438588000
   },
   "summary": {
    "price": {
-    "value": 38.3,
-    "valueMainUnit": "38",
-    "valueFractionalUnit": "30",
+    "value": 36.99,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -1098,73 +1047,22 @@
    "departureDate": "2026-12-11T16:35:00",
    "arrivalDate": "2026-12-11T18:05:00",
    "price": {
-    "value": 39.81,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "81",
+    "value": 40.45,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "45",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~1183~ ~~LGW~12/11/2026 16:35~SNN~12/11/2026 18:05~~",
    "flightNumber": "FR1183",
    "previousPrice": null,
-   "priceUpdated": 1791800576000
+   "priceUpdated": 1792436784000
   },
   "summary": {
    "price": {
-    "value": 39.81,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "81",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LGW",
-    "name": "London Gatwick",
-    "seoName": "london-gatwick",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "SNN",
-    "name": "Shannon",
-    "seoName": "shannon",
-    "city": {
-     "code": "SHANNON",
-     "countryCode": "ie",
-     "name": "Shannon"
-    }
-   },
-   "departureDate": "2026-12-07T18:15:00",
-   "arrivalDate": "2026-12-07T19:45:00",
-   "price": {
-    "value": 46.78,
-    "valueMainUnit": "46",
-    "valueFractionalUnit": "78",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~1183~ ~~LGW~12/07/2026 18:15~SNN~12/07/2026 19:45~~",
-   "flightNumber": "FR1183",
-   "previousPrice": null,
-   "priceUpdated": 1791800574000
-  },
-  "summary": {
-   "price": {
-    "value": 46.78,
-    "valueMainUnit": "46",
-    "valueFractionalUnit": "78",
+    "value": 40.45,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "45",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -1197,25 +1095,25 @@
      "name": "Alicante"
     }
    },
-   "departureDate": "2026-12-06T19:10:00",
-   "arrivalDate": "2026-12-06T22:35:00",
+   "departureDate": "2026-12-10T13:30:00",
+   "arrivalDate": "2026-12-10T16:55:00",
    "price": {
-    "value": 48.99,
-    "valueMainUnit": "48",
-    "valueFractionalUnit": "99",
+    "value": 41.9,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "90",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
-   "flightKey": "FR~2715~ ~~LGW~12/06/2026 19:10~ALC~12/06/2026 22:35~~",
+   "flightKey": "FR~2715~ ~~LGW~12/10/2026 13:30~ALC~12/10/2026 16:55~~",
    "flightNumber": "FR2715",
    "previousPrice": null,
-   "priceUpdated": 1791803366000
+   "priceUpdated": 1792416173000
   },
   "summary": {
    "price": {
-    "value": 48.99,
-    "valueMainUnit": "48",
-    "valueFractionalUnit": "99",
+    "value": 41.9,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "90",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -1251,73 +1149,22 @@
    "departureDate": "2026-12-04T18:00:00",
    "arrivalDate": "2026-12-04T19:25:00",
    "price": {
-    "value": 50.03,
-    "valueMainUnit": "50",
-    "valueFractionalUnit": "03",
+    "value": 44.38,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "38",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~7722~ ~~LGW~12/04/2026 18:00~ORK~12/04/2026 19:25~~",
    "flightNumber": "FR7722",
    "previousPrice": null,
-   "priceUpdated": 1791800577000
+   "priceUpdated": 1792441186000
   },
   "summary": {
    "price": {
-    "value": 50.03,
-    "valueMainUnit": "50",
-    "valueFractionalUnit": "03",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LGW",
-    "name": "London Gatwick",
-    "seoName": "london-gatwick",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "ORK",
-    "name": "Cork",
-    "seoName": "cork",
-    "city": {
-     "code": "CORK",
-     "countryCode": "ie",
-     "name": "Cork"
-    }
-   },
-   "departureDate": "2026-12-07T16:20:00",
-   "arrivalDate": "2026-12-07T17:45:00",
-   "price": {
-    "value": 51.24,
-    "valueMainUnit": "51",
-    "valueFractionalUnit": "24",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~7722~ ~~LGW~12/07/2026 16:20~ORK~12/07/2026 17:45~~",
-   "flightNumber": "FR7722",
-   "previousPrice": null,
-   "priceUpdated": 1791800578000
-  },
-  "summary": {
-   "price": {
-    "value": 51.24,
-    "valueMainUnit": "51",
-    "valueFractionalUnit": "24",
+    "value": 44.38,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "38",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -1350,25 +1197,76 @@
      "name": "Alicante"
     }
    },
-   "departureDate": "2026-12-09T10:10:00",
-   "arrivalDate": "2026-12-09T13:35:00",
+   "departureDate": "2026-12-06T19:10:00",
+   "arrivalDate": "2026-12-06T22:35:00",
    "price": {
-    "value": 60.27,
-    "valueMainUnit": "60",
-    "valueFractionalUnit": "27",
+    "value": 46.99,
+    "valueMainUnit": "46",
+    "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
-   "flightKey": "FR~2717~ ~~LGW~12/09/2026 10:10~ALC~12/09/2026 13:35~~",
-   "flightNumber": "FR2717",
+   "flightKey": "FR~2715~ ~~LGW~12/06/2026 19:10~ALC~12/06/2026 22:35~~",
+   "flightNumber": "FR2715",
    "previousPrice": null,
-   "priceUpdated": 1791800576000
+   "priceUpdated": 1792441029000
   },
   "summary": {
    "price": {
-    "value": 60.27,
-    "valueMainUnit": "60",
-    "valueFractionalUnit": "27",
+    "value": 46.99,
+    "valueMainUnit": "46",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LGW",
+    "name": "London Gatwick",
+    "seoName": "london-gatwick",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "SNN",
+    "name": "Shannon",
+    "seoName": "shannon",
+    "city": {
+     "code": "SHANNON",
+     "countryCode": "ie",
+     "name": "Shannon"
+    }
+   },
+   "departureDate": "2026-12-07T18:15:00",
+   "arrivalDate": "2026-12-07T19:45:00",
+   "price": {
+    "value": 54.91,
+    "valueMainUnit": "54",
+    "valueFractionalUnit": "91",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~1183~ ~~LGW~12/07/2026 18:15~SNN~12/07/2026 19:45~~",
+   "flightNumber": "FR1183",
+   "previousPrice": null,
+   "priceUpdated": 1792439630000
+  },
+  "summary": {
+   "price": {
+    "value": 54.91,
+    "valueMainUnit": "54",
+    "valueFractionalUnit": "91",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -1404,73 +1302,22 @@
    "departureDate": "2026-12-11T18:00:00",
    "arrivalDate": "2026-12-11T19:25:00",
    "price": {
-    "value": 66.07,
-    "valueMainUnit": "66",
-    "valueFractionalUnit": "07",
+    "value": 57.31,
+    "valueMainUnit": "57",
+    "valueFractionalUnit": "31",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~7722~ ~~LGW~12/11/2026 18:00~ORK~12/11/2026 19:25~~",
    "flightNumber": "FR7722",
    "previousPrice": null,
-   "priceUpdated": 1791800575000
+   "priceUpdated": 1792431463000
   },
   "summary": {
    "price": {
-    "value": 66.07,
-    "valueMainUnit": "66",
-    "valueFractionalUnit": "07",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LGW",
-    "name": "London Gatwick",
-    "seoName": "london-gatwick",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-07T13:20:00",
-   "arrivalDate": "2026-12-07T16:45:00",
-   "price": {
-    "value": 89.99,
-    "valueMainUnit": "89",
-    "valueFractionalUnit": "99",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~2715~ ~~LGW~12/07/2026 13:20~ALC~12/07/2026 16:45~~",
-   "flightNumber": "FR2715",
-   "previousPrice": null,
-   "priceUpdated": 1791800576000
-  },
-  "summary": {
-   "price": {
-    "value": 89.99,
-    "valueMainUnit": "89",
-    "valueFractionalUnit": "99",
+    "value": 57.31,
+    "valueMainUnit": "57",
+    "valueFractionalUnit": "31",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -1506,22 +1353,175 @@
    "departureDate": "2026-12-06T17:50:00",
    "arrivalDate": "2026-12-06T19:20:00",
    "price": {
-    "value": 94.88,
-    "valueMainUnit": "94",
-    "valueFractionalUnit": "88",
+    "value": 64.05,
+    "valueMainUnit": "64",
+    "valueFractionalUnit": "05",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~1183~ ~~LGW~12/06/2026 17:50~SNN~12/06/2026 19:20~~",
    "flightNumber": "FR1183",
    "previousPrice": null,
-   "priceUpdated": 1791800576000
+   "priceUpdated": 1792436045000
   },
   "summary": {
    "price": {
-    "value": 94.88,
-    "valueMainUnit": "94",
-    "valueFractionalUnit": "88",
+    "value": 64.05,
+    "valueMainUnit": "64",
+    "valueFractionalUnit": "05",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LGW",
+    "name": "London Gatwick",
+    "seoName": "london-gatwick",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-07T13:20:00",
+   "arrivalDate": "2026-12-07T16:45:00",
+   "price": {
+    "value": 64.99,
+    "valueMainUnit": "64",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~2715~ ~~LGW~12/07/2026 13:20~ALC~12/07/2026 16:45~~",
+   "flightNumber": "FR2715",
+   "previousPrice": null,
+   "priceUpdated": 1792419806000
+  },
+  "summary": {
+   "price": {
+    "value": 64.99,
+    "valueMainUnit": "64",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LGW",
+    "name": "London Gatwick",
+    "seoName": "london-gatwick",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "ORK",
+    "name": "Cork",
+    "seoName": "cork",
+    "city": {
+     "code": "CORK",
+     "countryCode": "ie",
+     "name": "Cork"
+    }
+   },
+   "departureDate": "2026-12-07T16:20:00",
+   "arrivalDate": "2026-12-07T17:45:00",
+   "price": {
+    "value": 66.33,
+    "valueMainUnit": "66",
+    "valueFractionalUnit": "33",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~7722~ ~~LGW~12/07/2026 16:20~ORK~12/07/2026 17:45~~",
+   "flightNumber": "FR7722",
+   "previousPrice": null,
+   "priceUpdated": 1792437803000
+  },
+  "summary": {
+   "price": {
+    "value": 66.33,
+    "valueMainUnit": "66",
+    "valueFractionalUnit": "33",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LGW",
+    "name": "London Gatwick",
+    "seoName": "london-gatwick",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-09T10:10:00",
+   "arrivalDate": "2026-12-09T13:35:00",
+   "price": {
+    "value": 69.47,
+    "valueMainUnit": "69",
+    "valueFractionalUnit": "47",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~2717~ ~~LGW~12/09/2026 10:10~ALC~12/09/2026 13:35~~",
+   "flightNumber": "FR2717",
+   "previousPrice": null,
+   "priceUpdated": 1792405426000
+  },
+  "summary": {
+   "price": {
+    "value": 69.47,
+    "valueMainUnit": "69",
+    "valueFractionalUnit": "47",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -1557,22 +1557,22 @@
    "departureDate": "2026-12-06T19:50:00",
    "arrivalDate": "2026-12-06T21:15:00",
    "price": {
-    "value": 156.72,
-    "valueMainUnit": "156",
-    "valueFractionalUnit": "72",
+    "value": 113.78,
+    "valueMainUnit": "113",
+    "valueFractionalUnit": "78",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~7722~ ~~LGW~12/06/2026 19:50~ORK~12/06/2026 21:15~~",
    "flightNumber": "FR7722",
    "previousPrice": null,
-   "priceUpdated": 1791800574000
+   "priceUpdated": 1792436045000
   },
   "summary": {
    "price": {
-    "value": 156.72,
-    "valueMainUnit": "156",
-    "valueFractionalUnit": "72",
+    "value": 113.78,
+    "valueMainUnit": "113",
+    "valueFractionalUnit": "78",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -1608,21 +1608,72 @@
    "departureDate": "2026-12-08T14:50:00",
    "arrivalDate": "2026-12-08T18:15:00",
    "price": {
-    "value": 281.99,
-    "valueMainUnit": "281",
-    "valueFractionalUnit": "99",
+    "value": 300.24,
+    "valueMainUnit": "300",
+    "valueFractionalUnit": "24",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~2715~ ~~LGW~12/08/2026 14:50~ALC~12/08/2026 18:15~~",
    "flightNumber": "FR2715",
    "previousPrice": null,
-   "priceUpdated": 1791800574000
+   "priceUpdated": 1792419311000
   },
   "summary": {
    "price": {
-    "value": 281.99,
-    "valueMainUnit": "281",
+    "value": 300.24,
+    "valueMainUnit": "300",
+    "valueFractionalUnit": "24",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LGW",
+    "name": "London Gatwick",
+    "seoName": "london-gatwick",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-13T08:25:00",
+   "arrivalDate": "2026-12-13T09:45:00",
+   "price": {
+    "value": 19.99,
+    "valueMainUnit": "19",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~ 113~ ~~LGW~12/13/2026 08:25~DUB~12/13/2026 09:45~~",
+   "flightNumber": "FR113",
+   "previousPrice": null,
+   "priceUpdated": 1792434013000
+  },
+  "summary": {
+   "price": {
+    "value": 19.99,
+    "valueMainUnit": "19",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -1659,8 +1710,8 @@
    "departureDate": "2026-12-12T16:45:00",
    "arrivalDate": "2026-12-12T18:05:00",
    "price": {
-    "value": 18.99,
-    "valueMainUnit": "18",
+    "value": 20.99,
+    "valueMainUnit": "20",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -1668,63 +1719,12 @@
    "flightKey": "FR~ 119~ ~~LGW~12/12/2026 16:45~DUB~12/12/2026 18:05~~",
    "flightNumber": "FR119",
    "previousPrice": null,
-   "priceUpdated": 1791800576000
+   "priceUpdated": 1792441450000
   },
   "summary": {
    "price": {
-    "value": 18.99,
-    "valueMainUnit": "18",
-    "valueFractionalUnit": "99",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LGW",
-    "name": "London Gatwick",
-    "seoName": "london-gatwick",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "ORK",
-    "name": "Cork",
-    "seoName": "cork",
-    "city": {
-     "code": "CORK",
-     "countryCode": "ie",
-     "name": "Cork"
-    }
-   },
-   "departureDate": "2026-12-12T18:00:00",
-   "arrivalDate": "2026-12-12T19:25:00",
-   "price": {
-    "value": 19.99,
-    "valueMainUnit": "19",
-    "valueFractionalUnit": "99",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~7722~ ~~LGW~12/12/2026 18:00~ORK~12/12/2026 19:25~~",
-   "flightNumber": "FR7722",
-   "previousPrice": null,
-   "priceUpdated": 1791800579000
-  },
-  "summary": {
-   "price": {
-    "value": 19.99,
-    "valueMainUnit": "19",
+    "value": 20.99,
+    "valueMainUnit": "20",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -1770,7 +1770,7 @@
    "flightKey": "FR~ 117~ ~~LGW~12/14/2026 09:40~DUB~12/14/2026 11:00~~",
    "flightNumber": "FR117",
    "previousPrice": null,
-   "priceUpdated": 1791801303000
+   "priceUpdated": 1792419444000
   },
   "summary": {
    "price": {
@@ -1809,25 +1809,178 @@
      "name": "Dublin"
     }
    },
-   "departureDate": "2026-12-13T09:50:00",
-   "arrivalDate": "2026-12-13T11:10:00",
+   "departureDate": "2026-12-16T08:50:00",
+   "arrivalDate": "2026-12-16T10:10:00",
    "price": {
-    "value": 22.1,
-    "valueMainUnit": "22",
-    "valueFractionalUnit": "10",
+    "value": 23.84,
+    "valueMainUnit": "23",
+    "valueFractionalUnit": "84",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
-   "flightKey": "FR~ 115~ ~~LGW~12/13/2026 09:50~DUB~12/13/2026 11:10~~",
+   "flightKey": "FR~ 115~ ~~LGW~12/16/2026 08:50~DUB~12/16/2026 10:10~~",
    "flightNumber": "FR115",
    "previousPrice": null,
-   "priceUpdated": 1791800577000
+   "priceUpdated": 1792405433000
   },
   "summary": {
    "price": {
-    "value": 22.1,
-    "valueMainUnit": "22",
-    "valueFractionalUnit": "10",
+    "value": 23.84,
+    "valueMainUnit": "23",
+    "valueFractionalUnit": "84",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LGW",
+    "name": "London Gatwick",
+    "seoName": "london-gatwick",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-12T18:30:00",
+   "arrivalDate": "2026-12-12T21:55:00",
+   "price": {
+    "value": 23.99,
+    "valueMainUnit": "23",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~2717~ ~~LGW~12/12/2026 18:30~ALC~12/12/2026 21:55~~",
+   "flightNumber": "FR2717",
+   "previousPrice": null,
+   "priceUpdated": 1792436777000
+  },
+  "summary": {
+   "price": {
+    "value": 23.99,
+    "valueMainUnit": "23",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LGW",
+    "name": "London Gatwick",
+    "seoName": "london-gatwick",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-15T08:50:00",
+   "arrivalDate": "2026-12-15T10:10:00",
+   "price": {
+    "value": 23.99,
+    "valueMainUnit": "23",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~ 123~ ~~LGW~12/15/2026 08:50~DUB~12/15/2026 10:10~~",
+   "flightNumber": "FR123",
+   "previousPrice": null,
+   "priceUpdated": 1792436806000
+  },
+  "summary": {
+   "price": {
+    "value": 23.99,
+    "valueMainUnit": "23",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LGW",
+    "name": "London Gatwick",
+    "seoName": "london-gatwick",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "ORK",
+    "name": "Cork",
+    "seoName": "cork",
+    "city": {
+     "code": "CORK",
+     "countryCode": "ie",
+     "name": "Cork"
+    }
+   },
+   "departureDate": "2026-12-12T18:00:00",
+   "arrivalDate": "2026-12-12T19:25:00",
+   "price": {
+    "value": 26.11,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "11",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~7722~ ~~LGW~12/12/2026 18:00~ORK~12/12/2026 19:25~~",
+   "flightNumber": "FR7722",
+   "previousPrice": null,
+   "priceUpdated": 1792428777000
+  },
+  "summary": {
+   "price": {
+    "value": 26.11,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "11",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -1863,277 +2016,22 @@
    "departureDate": "2026-12-12T20:00:00",
    "arrivalDate": "2026-12-12T21:30:00",
    "price": {
-    "value": 22.66,
-    "valueMainUnit": "22",
-    "valueFractionalUnit": "66",
+    "value": 26.52,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "52",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~1183~ ~~LGW~12/12/2026 20:00~SNN~12/12/2026 21:30~~",
    "flightNumber": "FR1183",
    "previousPrice": null,
-   "priceUpdated": 1791800577000
+   "priceUpdated": 1792428773000
   },
   "summary": {
    "price": {
-    "value": 22.66,
-    "valueMainUnit": "22",
-    "valueFractionalUnit": "66",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LGW",
-    "name": "London Gatwick",
-    "seoName": "london-gatwick",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-16T08:50:00",
-   "arrivalDate": "2026-12-16T10:10:00",
-   "price": {
-    "value": 24.45,
-    "valueMainUnit": "24",
-    "valueFractionalUnit": "45",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~ 115~ ~~LGW~12/16/2026 08:50~DUB~12/16/2026 10:10~~",
-   "flightNumber": "FR115",
-   "previousPrice": null,
-   "priceUpdated": 1791800575000
-  },
-  "summary": {
-   "price": {
-    "value": 24.45,
-    "valueMainUnit": "24",
-    "valueFractionalUnit": "45",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LGW",
-    "name": "London Gatwick",
-    "seoName": "london-gatwick",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-15T09:40:00",
-   "arrivalDate": "2026-12-15T11:00:00",
-   "price": {
-    "value": 27.99,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "99",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~ 115~ ~~LGW~12/15/2026 09:40~DUB~12/15/2026 11:00~~",
-   "flightNumber": "FR115",
-   "previousPrice": null,
-   "priceUpdated": 1791800576000
-  },
-  "summary": {
-   "price": {
-    "value": 27.99,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "99",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LGW",
-    "name": "London Gatwick",
-    "seoName": "london-gatwick",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-12T09:40:00",
-   "arrivalDate": "2026-12-12T13:05:00",
-   "price": {
-    "value": 29.32,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "32",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~2715~ ~~LGW~12/12/2026 09:40~ALC~12/12/2026 13:05~~",
-   "flightNumber": "FR2715",
-   "previousPrice": null,
-   "priceUpdated": 1791800574000
-  },
-  "summary": {
-   "price": {
-    "value": 29.32,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "32",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LGW",
-    "name": "London Gatwick",
-    "seoName": "london-gatwick",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "SNN",
-    "name": "Shannon",
-    "seoName": "shannon",
-    "city": {
-     "code": "SHANNON",
-     "countryCode": "ie",
-     "name": "Shannon"
-    }
-   },
-   "departureDate": "2026-12-15T12:30:00",
-   "arrivalDate": "2026-12-15T14:00:00",
-   "price": {
-    "value": 34.73,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "73",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~1183~ ~~LGW~12/15/2026 12:30~SNN~12/15/2026 14:00~~",
-   "flightNumber": "FR1183",
-   "previousPrice": null,
-   "priceUpdated": 1791800574000
-  },
-  "summary": {
-   "price": {
-    "value": 34.73,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "73",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LGW",
-    "name": "London Gatwick",
-    "seoName": "london-gatwick",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-15T14:50:00",
-   "arrivalDate": "2026-12-15T18:15:00",
-   "price": {
-    "value": 36.53,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "53",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~2715~ ~~LGW~12/15/2026 14:50~ALC~12/15/2026 18:15~~",
-   "flightNumber": "FR2715",
-   "previousPrice": null,
-   "priceUpdated": 1791800575000
-  },
-  "summary": {
-   "price": {
-    "value": 36.53,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "53",
+    "value": 26.52,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "52",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -2169,22 +2067,22 @@
    "departureDate": "2026-12-16T10:10:00",
    "arrivalDate": "2026-12-16T13:35:00",
    "price": {
-    "value": 36.53,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "53",
+    "value": 27.99,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~2717~ ~~LGW~12/16/2026 10:10~ALC~12/16/2026 13:35~~",
    "flightNumber": "FR2717",
    "previousPrice": null,
-   "priceUpdated": 1791800574000
+   "priceUpdated": 1792434002000
   },
   "summary": {
    "price": {
-    "value": 36.53,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "53",
+    "value": 27.99,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -2220,22 +2118,22 @@
    "departureDate": "2026-12-15T11:10:00",
    "arrivalDate": "2026-12-15T12:35:00",
    "price": {
-    "value": 37.63,
+    "value": 37.62,
     "valueMainUnit": "37",
-    "valueFractionalUnit": "63",
+    "valueFractionalUnit": "62",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~7722~ ~~LGW~12/15/2026 11:10~ORK~12/15/2026 12:35~~",
    "flightNumber": "FR7722",
    "previousPrice": null,
-   "priceUpdated": 1791800577000
+   "priceUpdated": 1792427584000
   },
   "summary": {
    "price": {
-    "value": 37.63,
+    "value": 37.62,
     "valueMainUnit": "37",
-    "valueFractionalUnit": "63",
+    "valueFractionalUnit": "62",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -2271,8 +2169,8 @@
    "departureDate": "2026-12-14T13:20:00",
    "arrivalDate": "2026-12-14T16:45:00",
    "price": {
-    "value": 43.99,
-    "valueMainUnit": "43",
+    "value": 39.99,
+    "valueMainUnit": "39",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -2280,13 +2178,115 @@
    "flightKey": "FR~2715~ ~~LGW~12/14/2026 13:20~ALC~12/14/2026 16:45~~",
    "flightNumber": "FR2715",
    "previousPrice": null,
-   "priceUpdated": 1791800574000
+   "priceUpdated": 1792419431000
   },
   "summary": {
    "price": {
-    "value": 43.99,
-    "valueMainUnit": "43",
+    "value": 39.99,
+    "valueMainUnit": "39",
     "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LGW",
+    "name": "London Gatwick",
+    "seoName": "london-gatwick",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-15T14:50:00",
+   "arrivalDate": "2026-12-15T18:15:00",
+   "price": {
+    "value": 42.05,
+    "valueMainUnit": "42",
+    "valueFractionalUnit": "05",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~2715~ ~~LGW~12/15/2026 14:50~ALC~12/15/2026 18:15~~",
+   "flightNumber": "FR2715",
+   "previousPrice": null,
+   "priceUpdated": 1792405432000
+  },
+  "summary": {
+   "price": {
+    "value": 42.05,
+    "valueMainUnit": "42",
+    "valueFractionalUnit": "05",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LGW",
+    "name": "London Gatwick",
+    "seoName": "london-gatwick",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "SNN",
+    "name": "Shannon",
+    "seoName": "shannon",
+    "city": {
+     "code": "SHANNON",
+     "countryCode": "ie",
+     "name": "Shannon"
+    }
+   },
+   "departureDate": "2026-12-14T18:15:00",
+   "arrivalDate": "2026-12-14T19:45:00",
+   "price": {
+    "value": 43.38,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "38",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~1183~ ~~LGW~12/14/2026 18:15~SNN~12/14/2026 19:45~~",
+   "flightNumber": "FR1183",
+   "previousPrice": null,
+   "priceUpdated": 1792405429000
+  },
+  "summary": {
+   "price": {
+    "value": 43.38,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "38",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -2331,58 +2331,7 @@
    "flightKey": "FR~2715~ ~~LGW~12/17/2026 13:30~ALC~12/17/2026 16:55~~",
    "flightNumber": "FR2715",
    "previousPrice": null,
-   "priceUpdated": 1791800576000
-  },
-  "summary": {
-   "price": {
-    "value": 43.99,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "99",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LGW",
-    "name": "London Gatwick",
-    "seoName": "london-gatwick",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-17T08:50:00",
-   "arrivalDate": "2026-12-17T10:10:00",
-   "price": {
-    "value": 43.99,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "99",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~ 115~ ~~LGW~12/17/2026 08:50~DUB~12/17/2026 10:10~~",
-   "flightNumber": "FR115",
-   "previousPrice": null,
-   "priceUpdated": 1791800575000
+   "priceUpdated": 1792419408000
   },
   "summary": {
    "price": {
@@ -2424,22 +2373,124 @@
    "departureDate": "2026-12-16T11:25:00",
    "arrivalDate": "2026-12-16T12:50:00",
    "price": {
-    "value": 44.4,
+    "value": 44.45,
     "valueMainUnit": "44",
-    "valueFractionalUnit": "40",
+    "valueFractionalUnit": "45",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~7722~ ~~LGW~12/16/2026 11:25~ORK~12/16/2026 12:50~~",
    "flightNumber": "FR7722",
    "previousPrice": null,
-   "priceUpdated": 1791800579000
+   "priceUpdated": 1792430078000
   },
   "summary": {
    "price": {
-    "value": 44.4,
+    "value": 44.45,
     "valueMainUnit": "44",
-    "valueFractionalUnit": "40",
+    "valueFractionalUnit": "45",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LGW",
+    "name": "London Gatwick",
+    "seoName": "london-gatwick",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "SNN",
+    "name": "Shannon",
+    "seoName": "shannon",
+    "city": {
+     "code": "SHANNON",
+     "countryCode": "ie",
+     "name": "Shannon"
+    }
+   },
+   "departureDate": "2026-12-15T12:30:00",
+   "arrivalDate": "2026-12-15T14:00:00",
+   "price": {
+    "value": 44.67,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "67",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~1183~ ~~LGW~12/15/2026 12:30~SNN~12/15/2026 14:00~~",
+   "flightNumber": "FR1183",
+   "previousPrice": null,
+   "priceUpdated": 1792423375000
+  },
+  "summary": {
+   "price": {
+    "value": 44.67,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "67",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LGW",
+    "name": "London Gatwick",
+    "seoName": "london-gatwick",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-17T08:50:00",
+   "arrivalDate": "2026-12-17T10:10:00",
+   "price": {
+    "value": 44.99,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~ 115~ ~~LGW~12/17/2026 08:50~DUB~12/17/2026 10:10~~",
+   "flightNumber": "FR115",
+   "previousPrice": null,
+   "priceUpdated": 1792436796000
+  },
+  "summary": {
+   "price": {
+    "value": 44.99,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -2475,22 +2526,22 @@
    "departureDate": "2026-12-17T12:20:00",
    "arrivalDate": "2026-12-17T13:50:00",
    "price": {
-    "value": 49.98,
-    "valueMainUnit": "49",
-    "valueFractionalUnit": "98",
+    "value": 52.25,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "25",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~1183~ ~~LGW~12/17/2026 12:20~SNN~12/17/2026 13:50~~",
    "flightNumber": "FR1183",
    "previousPrice": null,
-   "priceUpdated": 1791800578000
+   "priceUpdated": 1792419777000
   },
   "summary": {
    "price": {
-    "value": 49.98,
-    "valueMainUnit": "49",
-    "valueFractionalUnit": "98",
+    "value": 52.25,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "25",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -2526,22 +2577,22 @@
    "departureDate": "2026-12-16T20:00:00",
    "arrivalDate": "2026-12-16T21:30:00",
    "price": {
-    "value": 51.67,
-    "valueMainUnit": "51",
-    "valueFractionalUnit": "67",
+    "value": 53.09,
+    "valueMainUnit": "53",
+    "valueFractionalUnit": "09",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~1183~ ~~LGW~12/16/2026 20:00~SNN~12/16/2026 21:30~~",
    "flightNumber": "FR1183",
    "previousPrice": null,
-   "priceUpdated": 1791800577000
+   "priceUpdated": 1792419427000
   },
   "summary": {
    "price": {
-    "value": 51.67,
-    "valueMainUnit": "51",
-    "valueFractionalUnit": "67",
+    "value": 53.09,
+    "valueMainUnit": "53",
+    "valueFractionalUnit": "09",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -2565,17 +2616,17 @@
    },
    "arrivalAirport": {
     "countryName": "Ireland",
-    "iataCode": "ORK",
-    "name": "Cork",
-    "seoName": "cork",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
     "city": {
-     "code": "CORK",
+     "code": "DUBLIN",
      "countryCode": "ie",
-     "name": "Cork"
+     "name": "Dublin"
     }
    },
-   "departureDate": "2026-12-17T09:40:00",
-   "arrivalDate": "2026-12-17T11:05:00",
+   "departureDate": "2026-12-19T22:30:00",
+   "arrivalDate": "2026-12-19T23:50:00",
    "price": {
     "value": 53.37,
     "valueMainUnit": "53",
@@ -2583,10 +2634,10 @@
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
-   "flightKey": "FR~7722~ ~~LGW~12/17/2026 09:40~ORK~12/17/2026 11:05~~",
-   "flightNumber": "FR7722",
+   "flightKey": "FR~ 307~ ~~LGW~12/19/2026 22:30~DUB~12/19/2026 23:50~~",
+   "flightNumber": "FR307",
    "previousPrice": null,
-   "priceUpdated": 1791800577000
+   "priceUpdated": 1792424680000
   },
   "summary": {
    "price": {
@@ -2628,8 +2679,8 @@
    "departureDate": "2026-12-18T13:15:00",
    "arrivalDate": "2026-12-18T16:40:00",
    "price": {
-    "value": 54.99,
-    "valueMainUnit": "54",
+    "value": 53.99,
+    "valueMainUnit": "53",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -2637,12 +2688,12 @@
    "flightKey": "FR~2717~ ~~LGW~12/18/2026 13:15~ALC~12/18/2026 16:40~~",
    "flightNumber": "FR2717",
    "previousPrice": null,
-   "priceUpdated": 1791802375000
+   "priceUpdated": 1792419467000
   },
   "summary": {
    "price": {
-    "value": 54.99,
-    "valueMainUnit": "54",
+    "value": 53.99,
+    "valueMainUnit": "53",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -2667,85 +2718,34 @@
    },
    "arrivalAirport": {
     "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
+    "iataCode": "ORK",
+    "name": "Cork",
+    "seoName": "cork",
     "city": {
-     "code": "DUBLIN",
+     "code": "CORK",
      "countryCode": "ie",
-     "name": "Dublin"
+     "name": "Cork"
     }
    },
-   "departureDate": "2026-12-19T20:10:00",
-   "arrivalDate": "2026-12-19T21:30:00",
+   "departureDate": "2026-12-17T09:40:00",
+   "arrivalDate": "2026-12-17T11:05:00",
    "price": {
-    "value": 57.99,
+    "value": 57.31,
     "valueMainUnit": "57",
-    "valueFractionalUnit": "99",
+    "valueFractionalUnit": "31",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
-   "flightKey": "FR~ 113~ ~~LGW~12/19/2026 20:10~DUB~12/19/2026 21:30~~",
-   "flightNumber": "FR113",
+   "flightKey": "FR~7722~ ~~LGW~12/17/2026 09:40~ORK~12/17/2026 11:05~~",
+   "flightNumber": "FR7722",
    "previousPrice": null,
-   "priceUpdated": 1791803413000
+   "priceUpdated": 1792433470000
   },
   "summary": {
    "price": {
-    "value": 57.99,
+    "value": 57.31,
     "valueMainUnit": "57",
-    "valueFractionalUnit": "99",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LGW",
-    "name": "London Gatwick",
-    "seoName": "london-gatwick",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "SNN",
-    "name": "Shannon",
-    "seoName": "shannon",
-    "city": {
-     "code": "SHANNON",
-     "countryCode": "ie",
-     "name": "Shannon"
-    }
-   },
-   "departureDate": "2026-12-14T18:15:00",
-   "arrivalDate": "2026-12-14T19:45:00",
-   "price": {
-    "value": 58.53,
-    "valueMainUnit": "58",
-    "valueFractionalUnit": "53",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~1183~ ~~LGW~12/14/2026 18:15~SNN~12/14/2026 19:45~~",
-   "flightNumber": "FR1183",
-   "previousPrice": null,
-   "priceUpdated": 1791800575000
-  },
-  "summary": {
-   "price": {
-    "value": 58.53,
-    "valueMainUnit": "58",
-    "valueFractionalUnit": "53",
+    "valueFractionalUnit": "31",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -2781,73 +2781,22 @@
    "departureDate": "2026-12-14T16:20:00",
    "arrivalDate": "2026-12-14T17:45:00",
    "price": {
-    "value": 65.23,
-    "valueMainUnit": "65",
-    "valueFractionalUnit": "23",
+    "value": 60.68,
+    "valueMainUnit": "60",
+    "valueFractionalUnit": "68",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~7722~ ~~LGW~12/14/2026 16:20~ORK~12/14/2026 17:45~~",
    "flightNumber": "FR7722",
    "previousPrice": null,
-   "priceUpdated": 1791800575000
+   "priceUpdated": 1792425174000
   },
   "summary": {
    "price": {
-    "value": 65.23,
-    "valueMainUnit": "65",
-    "valueFractionalUnit": "23",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LGW",
-    "name": "London Gatwick",
-    "seoName": "london-gatwick",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-19T18:30:00",
-   "arrivalDate": "2026-12-19T21:55:00",
-   "price": {
-    "value": 70.99,
-    "valueMainUnit": "70",
-    "valueFractionalUnit": "99",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~2717~ ~~LGW~12/19/2026 18:30~ALC~12/19/2026 21:55~~",
-   "flightNumber": "FR2717",
-   "previousPrice": null,
-   "priceUpdated": 1791802374000
-  },
-  "summary": {
-   "price": {
-    "value": 70.99,
-    "valueMainUnit": "70",
-    "valueFractionalUnit": "99",
+    "value": 60.68,
+    "valueMainUnit": "60",
+    "valueFractionalUnit": "68",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -2883,22 +2832,73 @@
    "departureDate": "2026-12-13T19:10:00",
    "arrivalDate": "2026-12-13T22:35:00",
    "price": {
-    "value": 71.17,
-    "valueMainUnit": "71",
-    "valueFractionalUnit": "17",
+    "value": 62.72,
+    "valueMainUnit": "62",
+    "valueFractionalUnit": "72",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~2715~ ~~LGW~12/13/2026 19:10~ALC~12/13/2026 22:35~~",
    "flightNumber": "FR2715",
    "previousPrice": null,
-   "priceUpdated": 1791800575000
+   "priceUpdated": 1792405429000
   },
   "summary": {
    "price": {
-    "value": 71.17,
-    "valueMainUnit": "71",
-    "valueFractionalUnit": "17",
+    "value": 62.72,
+    "valueMainUnit": "62",
+    "valueFractionalUnit": "72",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LGW",
+    "name": "London Gatwick",
+    "seoName": "london-gatwick",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-19T18:30:00",
+   "arrivalDate": "2026-12-19T21:55:00",
+   "price": {
+    "value": 63.99,
+    "valueMainUnit": "63",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~2717~ ~~LGW~12/19/2026 18:30~ALC~12/19/2026 21:55~~",
+   "flightNumber": "FR2717",
+   "previousPrice": null,
+   "priceUpdated": 1792426563000
+  },
+  "summary": {
+   "price": {
+    "value": 63.99,
+    "valueMainUnit": "63",
+    "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -2931,24 +2931,24 @@
      "name": "Dublin"
     }
    },
-   "departureDate": "2026-12-18T14:55:00",
-   "arrivalDate": "2026-12-18T16:15:00",
+   "departureDate": "2026-12-18T16:10:00",
+   "arrivalDate": "2026-12-18T17:30:00",
    "price": {
-    "value": 71.99,
-    "valueMainUnit": "71",
+    "value": 73.99,
+    "valueMainUnit": "73",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
-   "flightKey": "FR~ 127~ ~~LGW~12/18/2026 14:55~DUB~12/18/2026 16:15~~",
-   "flightNumber": "FR127",
+   "flightKey": "FR~ 113~ ~~LGW~12/18/2026 16:10~DUB~12/18/2026 17:30~~",
+   "flightNumber": "FR113",
    "previousPrice": null,
-   "priceUpdated": 1791802376000
+   "priceUpdated": 1792436809000
   },
   "summary": {
    "price": {
-    "value": 71.99,
-    "valueMainUnit": "71",
+    "value": 73.99,
+    "valueMainUnit": "73",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -2985,73 +2985,22 @@
    "departureDate": "2026-12-19T20:00:00",
    "arrivalDate": "2026-12-19T21:30:00",
    "price": {
-    "value": 75.3,
-    "valueMainUnit": "75",
-    "valueFractionalUnit": "30",
+    "value": 80.07,
+    "valueMainUnit": "80",
+    "valueFractionalUnit": "07",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~1183~ ~~LGW~12/19/2026 20:00~SNN~12/19/2026 21:30~~",
    "flightNumber": "FR1183",
    "previousPrice": null,
-   "priceUpdated": 1791802376000
+   "priceUpdated": 1792439576000
   },
   "summary": {
    "price": {
-    "value": 75.3,
-    "valueMainUnit": "75",
-    "valueFractionalUnit": "30",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LGW",
-    "name": "London Gatwick",
-    "seoName": "london-gatwick",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "SNN",
-    "name": "Shannon",
-    "seoName": "shannon",
-    "city": {
-     "code": "SHANNON",
-     "countryCode": "ie",
-     "name": "Shannon"
-    }
-   },
-   "departureDate": "2026-12-13T17:50:00",
-   "arrivalDate": "2026-12-13T19:20:00",
-   "price": {
-    "value": 90.1,
-    "valueMainUnit": "90",
-    "valueFractionalUnit": "10",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~1183~ ~~LGW~12/13/2026 17:50~SNN~12/13/2026 19:20~~",
-   "flightNumber": "FR1183",
-   "previousPrice": null,
-   "priceUpdated": 1791800577000
-  },
-  "summary": {
-   "price": {
-    "value": 90.1,
-    "valueMainUnit": "90",
-    "valueFractionalUnit": "10",
+    "value": 80.07,
+    "valueMainUnit": "80",
+    "valueFractionalUnit": "07",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -3087,73 +3036,22 @@
    "departureDate": "2026-12-19T18:00:00",
    "arrivalDate": "2026-12-19T19:25:00",
    "price": {
-    "value": 90.53,
-    "valueMainUnit": "90",
-    "valueFractionalUnit": "53",
+    "value": 86.81,
+    "valueMainUnit": "86",
+    "valueFractionalUnit": "81",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~7722~ ~~LGW~12/19/2026 18:00~ORK~12/19/2026 19:25~~",
    "flightNumber": "FR7722",
    "previousPrice": null,
-   "priceUpdated": 1791803278000
+   "priceUpdated": 1792426677000
   },
   "summary": {
    "price": {
-    "value": 90.53,
-    "valueMainUnit": "90",
-    "valueFractionalUnit": "53",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LGW",
-    "name": "London Gatwick",
-    "seoName": "london-gatwick",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "SNN",
-    "name": "Shannon",
-    "seoName": "shannon",
-    "city": {
-     "code": "SHANNON",
-     "countryCode": "ie",
-     "name": "Shannon"
-    }
-   },
-   "departureDate": "2026-12-18T16:35:00",
-   "arrivalDate": "2026-12-18T18:05:00",
-   "price": {
-    "value": 98.15,
-    "valueMainUnit": "98",
-    "valueFractionalUnit": "15",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~1183~ ~~LGW~12/18/2026 16:35~SNN~12/18/2026 18:05~~",
-   "flightNumber": "FR1183",
-   "previousPrice": null,
-   "priceUpdated": 1791803393000
-  },
-  "summary": {
-   "price": {
-    "value": 98.15,
-    "valueMainUnit": "98",
-    "valueFractionalUnit": "15",
+    "value": 86.81,
+    "valueMainUnit": "86",
+    "valueFractionalUnit": "81",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -3189,22 +3087,124 @@
    "departureDate": "2026-12-18T18:00:00",
    "arrivalDate": "2026-12-18T19:25:00",
    "price": {
-    "value": 109.49,
-    "valueMainUnit": "109",
-    "valueFractionalUnit": "49",
+    "value": 96.45,
+    "valueMainUnit": "96",
+    "valueFractionalUnit": "45",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~7722~ ~~LGW~12/18/2026 18:00~ORK~12/18/2026 19:25~~",
    "flightNumber": "FR7722",
    "previousPrice": null,
-   "priceUpdated": 1791800577000
+   "priceUpdated": 1792429384000
   },
   "summary": {
    "price": {
-    "value": 109.49,
-    "valueMainUnit": "109",
-    "valueFractionalUnit": "49",
+    "value": 96.45,
+    "valueMainUnit": "96",
+    "valueFractionalUnit": "45",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LGW",
+    "name": "London Gatwick",
+    "seoName": "london-gatwick",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "SNN",
+    "name": "Shannon",
+    "seoName": "shannon",
+    "city": {
+     "code": "SHANNON",
+     "countryCode": "ie",
+     "name": "Shannon"
+    }
+   },
+   "departureDate": "2026-12-18T16:35:00",
+   "arrivalDate": "2026-12-18T18:05:00",
+   "price": {
+    "value": 99.45,
+    "valueMainUnit": "99",
+    "valueFractionalUnit": "45",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~1183~ ~~LGW~12/18/2026 16:35~SNN~12/18/2026 18:05~~",
+   "flightNumber": "FR1183",
+   "previousPrice": null,
+   "priceUpdated": 1792436874000
+  },
+  "summary": {
+   "price": {
+    "value": 99.45,
+    "valueMainUnit": "99",
+    "valueFractionalUnit": "45",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LGW",
+    "name": "London Gatwick",
+    "seoName": "london-gatwick",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "SNN",
+    "name": "Shannon",
+    "seoName": "shannon",
+    "city": {
+     "code": "SHANNON",
+     "countryCode": "ie",
+     "name": "Shannon"
+    }
+   },
+   "departureDate": "2026-12-13T17:50:00",
+   "arrivalDate": "2026-12-13T19:20:00",
+   "price": {
+    "value": 116.73,
+    "valueMainUnit": "116",
+    "valueFractionalUnit": "73",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~1183~ ~~LGW~12/13/2026 17:50~SNN~12/13/2026 19:20~~",
+   "flightNumber": "FR1183",
+   "previousPrice": null,
+   "priceUpdated": 1792431472000
+  },
+  "summary": {
+   "price": {
+    "value": 116.73,
+    "valueMainUnit": "116",
+    "valueFractionalUnit": "73",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -3240,22 +3240,22 @@
    "departureDate": "2026-12-13T19:50:00",
    "arrivalDate": "2026-12-13T21:15:00",
    "price": {
-    "value": 128.61,
-    "valueMainUnit": "128",
-    "valueFractionalUnit": "61",
+    "value": 135.7,
+    "valueMainUnit": "135",
+    "valueFractionalUnit": "70",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~7722~ ~~LGW~12/13/2026 19:50~ORK~12/13/2026 21:15~~",
    "flightNumber": "FR7722",
    "previousPrice": null,
-   "priceUpdated": 1791803409000
+   "priceUpdated": 1792436772000
   },
   "summary": {
    "price": {
-    "value": 128.61,
-    "valueMainUnit": "128",
-    "valueFractionalUnit": "61",
+    "value": 135.7,
+    "valueMainUnit": "135",
+    "valueFractionalUnit": "70",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },

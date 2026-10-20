@@ -1,11 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA1RZTxoaEgoyMDI2LTEyLTE1agUSA1RZT3IFEgNUUkRAAUgBmAEB",
- "fetchedAt": "2026-10-12T13:13:13",
+ "fetchedAt": "2026-10-19T22:58:13",
  "priceUnavailable": 6,
  "via": "html",
  "itineraries": [
   {
-   "price": 916.0,
+   "price": 1012.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 1,
@@ -28,10 +28,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 916 euros round trip total. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Monday, December 7 and arrives at Narita International Airport at 11:45 AM on Tuesday, December 8. Total duration 21 hr 25 min.  Layover (1 of 1) is a 5 hr 35 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 1012 euros round trip total. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Monday, December 7 and arrives at Narita International Airport at 11:45 AM on Tuesday, December 8. Total duration 21 hr 25 min.  Layover (1 of 1) is a 5 hr 35 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 970.0,
+   "price": 1067.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
@@ -60,22 +60,22 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 970 euros round trip total. 2 stops flight with Scandinavian Airlines and KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:25 AM on Monday, December 7 and arrives at Narita International Airport at 11:45 AM on Tuesday, December 8. Total duration 21 hr 20 min.  Layover (1 of 2) is a 1 hr 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 50 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 1067 euros round trip total. 2 stops flight with Scandinavian Airlines and KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:25 AM on Monday, December 7 and arrives at Narita International Airport at 11:45 AM on Tuesday, December 8. Total duration 21 hr 20 min.  Layover (1 of 2) is a 1 hr 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 50 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 1123.0,
+   "price": 1079.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
-   "airlines": "KLM and ANA",
+   "airlines": "KLM and JAL",
    "operatedBy": "KLM Cityhopper",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-07",
    "arrAirportName": "Haneda Airport",
-   "arrTime": "16:40",
+   "arrTime": "15:55",
    "arrDate": "2026-12-08",
-   "durationMin": 1580,
+   "durationMin": 1535,
    "layovers": [
     {
      "min": 355,
@@ -84,7 +84,7 @@
      "city": "Amsterdam"
     },
     {
-     "min": 240,
+     "min": 205,
      "overnight": false,
      "airport": "Kansai International Airport",
      "city": "Osaka"
@@ -92,106 +92,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 1123 euros round trip total. 2 stops flight with KLM and ANA. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Monday, December 7 and arrives at Haneda Airport at 4:40 PM on Tuesday, December 8. Total duration 26 hr 20 min.  Layover (1 of 2) is a 5 hr 55 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 4 hr layover at Kansai International Airport in Osaka. Select flight"
+   "label": "From 1079 euros round trip total. 2 stops flight with KLM and JAL. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Monday, December 7 and arrives at Haneda Airport at 3:55 PM on Tuesday, December 8. Total duration 25 hr 35 min.  Layover (1 of 2) is a 5 hr 55 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 3 hr 25 min layover at Kansai International Airport in Osaka. Select flight"
   },
   {
-   "price": 1185.0,
-   "roundTripTotal": true,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": "Sas Link",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "15:05",
-   "depDate": "2026-12-07",
-   "arrAirportName": "Haneda Airport",
-   "arrTime": "19:55",
-   "arrDate": "2026-12-08",
-   "durationMin": 1250,
-   "layovers": [
-    {
-     "min": 75,
-     "overnight": false,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen"
-    },
-    {
-     "min": 140,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 1185 euros round trip total. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 3:05 PM on Monday, December 7 and arrives at Haneda Airport at 7:55 PM on Tuesday, December 8. Total duration 20 hr 50 min.  Layover (1 of 2) is a 1 hr 15 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 2 hr 20 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
-  },
-  {
-   "price": 1261.0,
-   "roundTripTotal": true,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Etihad",
-   "operatedBy": "Sas Link for Scandinavian Airlines",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "05:30",
-   "depDate": "2026-12-07",
-   "arrAirportName": "Narita International Airport",
-   "arrTime": "11:40",
-   "arrDate": "2026-12-08",
-   "durationMin": 1330,
-   "layovers": [
-    {
-     "min": 180,
-     "overnight": false,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen"
-    },
-    {
-     "min": 95,
-     "overnight": false,
-     "airport": "Zayed International Airport",
-     "city": "Abu Dhabi"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 1261 euros round trip total. 2 stops flight with Scandinavian Airlines and Etihad. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 5:30 AM on Monday, December 7 and arrives at Narita International Airport at 11:40 AM on Tuesday, December 8. Total duration 22 hr 10 min.  Layover (1 of 2) is a 3 hr layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 1 hr 35 min layover at Zayed International Airport in Abu Dhabi. Select flight"
-  },
-  {
-   "price": 1170.0,
-   "roundTripTotal": true,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "13:00",
-   "depDate": "2026-12-07",
-   "arrAirportName": "Haneda Airport",
-   "arrTime": "19:55",
-   "arrDate": "2026-12-08",
-   "durationMin": 1375,
-   "layovers": [
-    {
-     "min": 190,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    },
-    {
-     "min": 140,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 1170 euros round trip total. 2 stops flight with Scandinavian Airlines and Air France. Leaves Trondheim Airport, Værnes at 1:00 PM on Monday, December 7 and arrives at Haneda Airport at 7:55 PM on Tuesday, December 8. Total duration 22 hr 55 min.  Layover (1 of 2) is a 3 hr 10 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 20 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
-  },
-  {
-   "price": 1189.0,
+   "price": 1127.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
@@ -220,10 +124,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 1189 euros round trip total. 2 stops flight with Scandinavian Airlines and Air France. Leaves Trondheim Airport, Værnes at 2:45 PM on Monday, December 7 and arrives at Haneda Airport at 7:55 PM on Tuesday, December 8. Total duration 21 hr 10 min.  Layover (1 of 2) is a 1 hr 25 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 20 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "label": "From 1127 euros round trip total. 2 stops flight with Scandinavian Airlines and Air France. Leaves Trondheim Airport, Værnes at 2:45 PM on Monday, December 7 and arrives at Haneda Airport at 7:55 PM on Tuesday, December 8. Total duration 21 hr 10 min.  Layover (1 of 2) is a 1 hr 25 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 20 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
   },
   {
-   "price": 1283.0,
+   "price": 1097.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 3,
@@ -258,7 +162,71 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 1283 euros round trip total. 3 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 6:00 AM on Monday, December 7 and arrives at Narita International Airport at 2:10 PM on Tuesday, December 8. Total duration 24 hr 10 min.  Layover (1 of 3) is a 3 hr 15 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 2 hr 55 min layover at Helsinki Airport in Helsinki. Select flight"
+   "label": "From 1097 euros round trip total. 3 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 6:00 AM on Monday, December 7 and arrives at Narita International Airport at 2:10 PM on Tuesday, December 8. Total duration 24 hr 10 min.  Layover (1 of 3) is a 3 hr 15 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 2 hr 55 min layover at Helsinki Airport in Helsinki. Select flight"
+  },
+  {
+   "price": 1141.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "15:05",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Haneda Airport",
+   "arrTime": "19:55",
+   "arrDate": "2026-12-08",
+   "durationMin": 1250,
+   "layovers": [
+    {
+     "min": 75,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen"
+    },
+    {
+     "min": 140,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 1141 euros round trip total. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 3:05 PM on Monday, December 7 and arrives at Haneda Airport at 7:55 PM on Tuesday, December 8. Total duration 20 hr 50 min.  Layover (1 of 2) is a 1 hr 15 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 2 hr 20 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+  },
+  {
+   "price": 1318.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Etihad",
+   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "05:30",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Narita International Airport",
+   "arrTime": "11:40",
+   "arrDate": "2026-12-08",
+   "durationMin": 1330,
+   "layovers": [
+    {
+     "min": 180,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen"
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Zayed International Airport",
+     "city": "Abu Dhabi"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 1318 euros round trip total. 2 stops flight with Scandinavian Airlines and Etihad. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 5:30 AM on Monday, December 7 and arrives at Narita International Airport at 11:40 AM on Tuesday, December 8. Total duration 22 hr 10 min.  Layover (1 of 2) is a 3 hr layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 1 hr 35 min layover at Zayed International Airport in Abu Dhabi. Select flight"
   }
  ]
 }

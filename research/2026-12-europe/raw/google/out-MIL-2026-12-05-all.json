@@ -1,10 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA01JTEABSAGYAQI",
- "fetchedAt": "2026-10-11T11:26:26",
+ "fetchedAt": "2026-10-19T23:40:05",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
-   "price": 117.0,
+   "price": 136.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -27,10 +28,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 117 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Milan Linate Airport at 12:00 PM on Saturday, December 5. Total duration 5 hr 40 min.  Layover (1 of 1) is a 1 hr 40 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 136 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Milan Linate Airport at 12:00 PM on Saturday, December 5. Total duration 5 hr 40 min.  Layover (1 of 1) is a 1 hr 40 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 217.0,
+   "price": 221.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -59,170 +60,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 217 euros. 2 stops flight with Wideroe, Lufthansa and Air Dolomiti. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Milano Malpensa Airport at 10:05 PM on Saturday, December 5. Total duration 9 hr.  Layover (1 of 2) is a 2 hr 30 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+   "label": "From 221 euros. 2 stops flight with Wideroe, Lufthansa and Air Dolomiti. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Milano Malpensa Airport at 10:05 PM on Saturday, December 5. Total duration 9 hr.  Layover (1 of 2) is a 2 hr 30 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr layover at Frankfurt Airport in Frankfurt am Main. Select flight"
   },
   {
-   "price": 334.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": "Sas Link for Scandinavian Airlines",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "07:00",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Milano Malpensa Airport",
-   "arrTime": "14:55",
-   "arrDate": "2026-12-05",
-   "durationMin": 475,
-   "layovers": [
-    {
-     "min": 35,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    },
-    {
-     "min": 125,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 334 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 7:00 AM on Saturday, December 5 and arrives at Milano Malpensa Airport at 2:55 PM on Saturday, December 5. Total duration 7 hr 55 min.  Layover (1 of 2) is a 35 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 5 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
-  },
-  {
-   "price": 173.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Wideroe and Finnair",
-   "operatedBy": "Jettime A/S for Finnair",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "13:05",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Milano Malpensa Airport",
-   "arrTime": "10:10",
-   "arrDate": "2026-12-06",
-   "durationMin": 1265,
-   "layovers": [
-    {
-     "min": 405,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    },
-    {
-     "min": 525,
-     "overnight": false,
-     "airport": "Helsinki Airport",
-     "city": "Helsinki"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 173 euros. 2 stops flight with Wideroe and Finnair. Operated by Jettime A/S for Finnair. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Milano Malpensa Airport at 10:10 AM on Sunday, December 6. Total duration 21 hr 5 min.  Layover (1 of 2) is a 6 hr 45 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 8 hr 45 min layover at Helsinki Airport in Helsinki. Select flight"
-  },
-  {
-   "price": 217.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Wideroe and Lufthansa",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "13:05",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Milan Linate Airport",
-   "arrTime": "22:55",
-   "arrDate": "2026-12-05",
-   "durationMin": 590,
-   "layovers": [
-    {
-     "min": 150,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    },
-    {
-     "min": 170,
-     "overnight": false,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 217 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Milan Linate Airport at 10:55 PM on Saturday, December 5. Total duration 9 hr 50 min.  Layover (1 of 2) is a 2 hr 30 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 50 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
-  },
-  {
-   "price": 235.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Wideroe and Air France",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "13:05",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Milan Linate Airport",
-   "arrTime": "22:25",
-   "arrDate": "2026-12-05",
-   "durationMin": 560,
-   "layovers": [
-    {
-     "min": 185,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    },
-    {
-     "min": 55,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 235 euros. 2 stops flight with Wideroe and Air France. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Milan Linate Airport at 10:25 PM on Saturday, December 5. Total duration 9 hr 20 min.  Layover (1 of 2) is a 3 hr 5 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 55 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
-  },
-  {
-   "price": 251.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": "Sas Link",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "07:00",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Milan Linate Airport",
-   "arrTime": "22:25",
-   "arrDate": "2026-12-05",
-   "durationMin": 925,
-   "layovers": [
-    {
-     "min": 540,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    },
-    {
-     "min": 55,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 251 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 7:00 AM on Saturday, December 5 and arrives at Milan Linate Airport at 10:25 PM on Saturday, December 5. Total duration 15 hr 25 min.  Layover (1 of 2) is a 9 hr layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 55 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
-  },
-  {
-   "price": 267.0,
+   "price": 268.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -251,10 +92,170 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 267 euros. 2 stops flight with Scandinavian Airlines and KLM. Operated by Sas Link for Scandinavian Airlines, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 7:00 AM on Saturday, December 5 and arrives at Milan Linate Airport at 3:55 PM on Saturday, December 5. Total duration 8 hr 55 min.  Layover (1 of 2) is a 1 hr 25 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 268 euros. 2 stops flight with Scandinavian Airlines and KLM. Operated by Sas Link for Scandinavian Airlines, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 7:00 AM on Saturday, December 5 and arrives at Milan Linate Airport at 3:55 PM on Saturday, December 5. Total duration 8 hr 55 min.  Layover (1 of 2) is a 1 hr 25 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 360.0,
+   "price": 184.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Finnair",
+   "operatedBy": "Jettime A/S for Finnair",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "16:45",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Milano Malpensa Airport",
+   "arrTime": "18:15",
+   "arrDate": "2026-12-06",
+   "durationMin": 1530,
+   "layovers": [
+    {
+     "min": 895,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    },
+    {
+     "min": 300,
+     "overnight": false,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 184 euros. 2 stops flight with Wideroe and Finnair. Operated by Jettime A/S for Finnair. Leaves Trondheim Airport, Værnes at 4:45 PM on Saturday, December 5 and arrives at Milano Malpensa Airport at 6:15 PM on Sunday, December 6. Total duration 25 hr 30 min.  Layover (1 of 2) is a 14 hr 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 5 hr layover at Helsinki Airport in Helsinki. Select flight"
+  },
+  {
+   "price": 221.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Lufthansa",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "13:05",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Milan Linate Airport",
+   "arrTime": "22:55",
+   "arrDate": "2026-12-05",
+   "durationMin": 590,
+   "layovers": [
+    {
+     "min": 150,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    },
+    {
+     "min": 170,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 221 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Milan Linate Airport at 10:55 PM on Saturday, December 5. Total duration 9 hr 50 min.  Layover (1 of 2) is a 2 hr 30 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 50 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 236.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Air France",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "13:05",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Milan Linate Airport",
+   "arrTime": "22:25",
+   "arrDate": "2026-12-05",
+   "durationMin": 560,
+   "layovers": [
+    {
+     "min": 185,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    },
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 236 euros. 2 stops flight with Wideroe and Air France. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Milan Linate Airport at 10:25 PM on Saturday, December 5. Total duration 9 hr 20 min.  Layover (1 of 2) is a 3 hr 5 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 55 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+  },
+  {
+   "price": 272.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": "Sas Link",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "07:00",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Milan Linate Airport",
+   "arrTime": "22:25",
+   "arrDate": "2026-12-05",
+   "durationMin": 925,
+   "layovers": [
+    {
+     "min": 540,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    },
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 272 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 7:00 AM on Saturday, December 5 and arrives at Milan Linate Airport at 10:25 PM on Saturday, December 5. Total duration 15 hr 25 min.  Layover (1 of 2) is a 9 hr layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 55 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+  },
+  {
+   "price": 286.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and KLM",
+   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "13:30",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Milan Linate Airport",
+   "arrTime": "22:55",
+   "arrDate": "2026-12-05",
+   "durationMin": 565,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    },
+    {
+     "min": 145,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 286 euros. 2 stops flight with Scandinavian Airlines and KLM. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 1:30 PM on Saturday, December 5 and arrives at Milan Linate Airport at 10:55 PM on Saturday, December 5. Total duration 9 hr 25 min.  Layover (1 of 2) is a 2 hr 35 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 364.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -283,31 +284,31 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 360 euros. 2 stops flight with Wideroe, Lufthansa and Air Dolomiti. Leaves Trondheim Airport, Værnes at 9:10 AM on Saturday, December 5 and arrives at Milano Malpensa Airport at 5:55 PM on Saturday, December 5. Total duration 8 hr 45 min.  Layover (1 of 2) is a 2 hr 40 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 1 hr 40 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+   "label": "From 364 euros. 2 stops flight with Wideroe, Lufthansa and Air Dolomiti. Leaves Trondheim Airport, Værnes at 9:10 AM on Saturday, December 5 and arrives at Milano Malpensa Airport at 5:55 PM on Saturday, December 5. Total duration 8 hr 45 min.  Layover (1 of 2) is a 2 hr 40 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 1 hr 40 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
   },
   {
-   "price": 384.0,
+   "price": 412.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": "Sas Link",
+   "operatedBy": "Sas Link for Scandinavian Airlines",
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "13:30",
+   "depTime": "07:00",
    "depDate": "2026-12-05",
-   "arrAirportName": "Milan Linate Airport",
-   "arrTime": "22:25",
+   "arrAirportName": "Milano Malpensa Airport",
+   "arrTime": "14:55",
    "arrDate": "2026-12-05",
-   "durationMin": 535,
+   "durationMin": 475,
    "layovers": [
     {
-     "min": 160,
+     "min": 35,
      "overnight": false,
      "airport": "Oslo lufthavn",
      "city": "Oslo"
     },
     {
-     "min": 55,
+     "min": 125,
      "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris"
@@ -315,7 +316,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 384 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 1:30 PM on Saturday, December 5 and arrives at Milan Linate Airport at 10:25 PM on Saturday, December 5. Total duration 8 hr 55 min.  Layover (1 of 2) is a 2 hr 40 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 55 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "label": "From 412 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 7:00 AM on Saturday, December 5 and arrives at Milano Malpensa Airport at 2:55 PM on Saturday, December 5. Total duration 7 hr 55 min.  Layover (1 of 2) is a 35 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr 5 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
   }
  ]
 }

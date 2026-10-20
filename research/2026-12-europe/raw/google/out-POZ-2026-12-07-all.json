@@ -1,17 +1,21 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA1BPWkABSAGYAQI",
- "via": "ui",
+ "fetchedAt": "2026-10-19T23:10:35",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 125.0,
+   "price": 186.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-07",
+   "arrCode": "POZ",
    "arrAirportName": "Poznań Airport",
    "arrTime": "17:30",
    "arrDate": "2026-12-07",
@@ -19,24 +23,33 @@
    "layovers": [
     {
      "min": 440,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1150",
+    "KL1341"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 204.0,
+   "price": 207.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and KLM",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "10:40",
    "depDate": "2026-12-07",
+   "arrCode": "POZ",
    "arrAirportName": "Poznań Airport",
    "arrTime": "17:30",
    "arrDate": "2026-12-07",
@@ -44,19 +57,97 @@
    "layovers": [
     {
      "min": 55,
+     "overnight": false,
      "airport": "Oslo lufthavn",
      "city": "Oslo",
-     "overnight": false
+     "code": "OSL",
+     "changeAirport": false
     },
     {
      "min": 90,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "SK351",
+    "KL1200",
+    "KL1341"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 250.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-07",
+   "arrCode": "POZ",
+   "arrAirportName": "Poznań Airport",
+   "arrTime": "22:25",
+   "arrDate": "2026-12-07",
+   "durationMin": 315,
+   "layovers": [
+    {
+     "min": 70,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1154",
+    "KL1335"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 442.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrCode": "POZ",
+   "arrAirportName": "Poznań Airport",
+   "arrTime": "13:45",
+   "arrDate": "2026-12-07",
+   "durationMin": 445,
+   "layovers": [
+    {
+     "min": 215,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1150",
+    "KL1333"
+   ],
+   "via": "rpc"
   }
  ]
 }

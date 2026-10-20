@@ -23,8 +23,8 @@
      "name": "Copenhagen"
     }
    },
-   "departureDate": "2026-12-07T14:20:00",
-   "arrivalDate": "2026-12-07T14:50:00",
+   "departureDate": "2026-12-07T06:10:00",
+   "arrivalDate": "2026-12-07T06:40:00",
    "price": {
     "value": 14.99,
     "valueMainUnit": "14",
@@ -32,10 +32,10 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6156~ ~~KUN~12/07/2026 14:20~CPH~12/07/2026 14:50~~",
-   "flightNumber": "FR6156",
+   "flightKey": "FR~7621~ ~~KUN~12/07/2026 06:10~CPH~12/07/2026 06:40~~",
+   "flightNumber": "FR7621",
    "previousPrice": null,
-   "priceUpdated": 1791800561000
+   "priceUpdated": 1792434034000
   },
   "summary": {
    "price": {
@@ -85,107 +85,7 @@
    "flightKey": "FR~6156~ ~~KUN~12/09/2026 21:00~CPH~12/09/2026 21:30~~",
    "flightNumber": "FR6156",
    "previousPrice": null,
-   "priceUpdated": 1791800564000
-  },
-  "summary": {
-   "price": {
-    "value": 14.99,
-    "valueMainUnit": "14",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "EDI",
-    "name": "Edinburgh",
-    "seoName": "edinburgh",
-    "city": {
-     "code": "EDINBURGH",
-     "countryCode": "gb",
-     "name": "Edinburgh"
-    }
-   },
-   "departureDate": "2026-12-04T17:50:00",
-   "arrivalDate": "2026-12-04T18:45:00",
-   "price": {
-    "value": 14.99,
-    "valueMainUnit": "14",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2885~ ~~KUN~12/04/2026 17:50~EDI~12/04/2026 18:45~~",
-   "flightNumber": "FR2885",
-   "previousPrice": null,
-   "priceUpdated": 1791802031000
-  },
-  "summary": {
-   "price": {
-    "value": 14.99,
-    "valueMainUnit": "14",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LPL",
-    "name": "Liverpool",
-    "seoName": "liverpool",
-    "city": {
-     "code": "LIVERPOOL",
-     "countryCode": "gb",
-     "name": "Liverpool"
-    }
-   },
-   "departureDate": "2026-12-11T06:15:00",
-   "arrivalDate": "2026-12-11T07:15:00",
-   "price": {
-    "value": 14.99,
-    "valueMainUnit": "14",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5728~ ~~KUN~12/11/2026 06:15~LPL~12/11/2026 07:15~~",
-   "flightNumber": "FR5728",
-   "previousPrice": null,
-   "priceUpdated": 1791800560000
+   "priceUpdated": 1792434003000
   },
   "summary": {
    "price": {
@@ -236,63 +136,13 @@
    "flightKey": "FR~4653~ ~~KUN~12/06/2026 07:00~ARN~12/06/2026 07:25~~",
    "flightNumber": "FR4653",
    "previousPrice": null,
-   "priceUpdated": 1791800564000
+   "priceUpdated": 1792434033000
   },
   "summary": {
    "price": {
     "value": 14.99,
     "valueMainUnit": "14",
     "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Denmark",
-    "iataCode": "CPH",
-    "name": "Copenhagen",
-    "seoName": "copenhagen",
-    "city": {
-     "code": "COPENHAGEN",
-     "countryCode": "dk",
-     "name": "Copenhagen"
-    }
-   },
-   "departureDate": "2026-12-05T21:25:00",
-   "arrivalDate": "2026-12-05T21:55:00",
-   "price": {
-    "value": 15.54,
-    "valueMainUnit": "15",
-    "valueFractionalUnit": "54",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6156~ ~~KUN~12/05/2026 21:25~CPH~12/05/2026 21:55~~",
-   "flightNumber": "FR6156",
-   "previousPrice": null,
-   "priceUpdated": 1791800561000
-  },
-  "summary": {
-   "price": {
-    "value": 15.54,
-    "valueMainUnit": "15",
-    "valueFractionalUnit": "54",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -328,71 +178,71 @@
    "departureDate": "2026-12-07T14:30:00",
    "arrivalDate": "2026-12-07T14:55:00",
    "price": {
-    "value": 15.91,
-    "valueMainUnit": "15",
-    "valueFractionalUnit": "91",
+    "value": 14.99,
+    "valueMainUnit": "14",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~4606~ ~~KUN~12/07/2026 14:30~ARN~12/07/2026 14:55~~",
    "flightNumber": "FR4606",
    "previousPrice": null,
-   "priceUpdated": 1791800562000
+   "priceUpdated": 1792434038000
   },
   "summary": {
    "price": {
-    "value": 15.91,
+    "value": 14.99,
+    "valueMainUnit": "14",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LPL",
+    "name": "Liverpool",
+    "seoName": "liverpool",
+    "city": {
+     "code": "LIVERPOOL",
+     "countryCode": "gb",
+     "name": "Liverpool"
+    }
+   },
+   "departureDate": "2026-12-11T06:15:00",
+   "arrivalDate": "2026-12-11T07:15:00",
+   "price": {
+    "value": 15.99,
     "valueMainUnit": "15",
-    "valueFractionalUnit": "91",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "BRS",
-    "name": "Bristol",
-    "seoName": "bristol",
-    "city": {
-     "code": "BRISTOL",
-     "countryCode": "gb",
-     "name": "Bristol"
-    }
-   },
-   "departureDate": "2026-12-11T16:50:00",
-   "arrivalDate": "2026-12-11T17:50:00",
-   "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~8682~ ~~KUN~12/11/2026 16:50~BRS~12/11/2026 17:50~~",
-   "flightNumber": "FR8682",
+   "flightKey": "FR~5728~ ~~KUN~12/11/2026 06:15~LPL~12/11/2026 07:15~~",
+   "flightNumber": "FR5728",
    "previousPrice": null,
-   "priceUpdated": 1791800561000
+   "priceUpdated": 1792430245000
   },
   "summary": {
    "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
+    "value": 15.99,
+    "valueMainUnit": "15",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -415,87 +265,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
+    "countryName": "Denmark",
+    "iataCode": "CPH",
+    "name": "Copenhagen",
+    "seoName": "copenhagen",
     "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
+     "code": "COPENHAGEN",
+     "countryCode": "dk",
+     "name": "Copenhagen"
     }
    },
-   "departureDate": "2026-12-10T22:35:00",
-   "arrivalDate": "2026-12-10T23:20:00",
+   "departureDate": "2026-12-05T21:25:00",
+   "arrivalDate": "2026-12-05T21:55:00",
    "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
-    "valueFractionalUnit": "99",
+    "value": 17.56,
+    "valueMainUnit": "17",
+    "valueFractionalUnit": "56",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2745~ ~~KUN~12/10/2026 22:35~STN~12/10/2026 23:20~~",
-   "flightNumber": "FR2745",
+   "flightKey": "FR~6156~ ~~KUN~12/05/2026 21:25~CPH~12/05/2026 21:55~~",
+   "flightNumber": "FR6156",
    "previousPrice": null,
-   "priceUpdated": 1791800567000
+   "priceUpdated": 1792441421000
   },
   "summary": {
    "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LTN",
-    "name": "London Luton",
-    "seoName": "london-luton",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-08T21:10:00",
-   "arrivalDate": "2026-12-08T22:00:00",
-   "price": {
-    "value": 24.28,
-    "valueMainUnit": "24",
-    "valueFractionalUnit": "28",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2364~ ~~KUN~12/08/2026 21:10~LTN~12/08/2026 22:00~~",
-   "flightNumber": "FR2364",
-   "previousPrice": null,
-   "priceUpdated": 1791800561000
-  },
-  "summary": {
-   "price": {
-    "value": 24.28,
-    "valueMainUnit": "24",
-    "valueFractionalUnit": "28",
+    "value": 17.56,
+    "valueMainUnit": "17",
+    "valueFractionalUnit": "56",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -530,8 +328,8 @@
    "departureDate": "2026-12-06T06:00:00",
    "arrivalDate": "2026-12-06T07:25:00",
    "price": {
-    "value": 24.99,
-    "valueMainUnit": "24",
+    "value": 18.99,
+    "valueMainUnit": "18",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -539,12 +337,12 @@
    "flightKey": "FR~ 939~ ~~KUN~12/06/2026 06:00~CRL~12/06/2026 07:25~~",
    "flightNumber": "FR939",
    "previousPrice": null,
-   "priceUpdated": 1791800562000
+   "priceUpdated": 1792436859000
   },
   "summary": {
    "price": {
-    "value": 24.99,
-    "valueMainUnit": "24",
+    "value": 18.99,
+    "valueMainUnit": "18",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -567,34 +365,84 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Germany",
-    "iataCode": "CGN",
-    "name": "Cologne",
-    "seoName": "cologne-bonn",
+    "countryName": "United Kingdom",
+    "iataCode": "EDI",
+    "name": "Edinburgh",
+    "seoName": "edinburgh",
     "city": {
-     "code": "COLOGNE",
-     "countryCode": "de",
-     "name": "Cologne"
+     "code": "EDINBURGH",
+     "countryCode": "gb",
+     "name": "Edinburgh"
     }
    },
-   "departureDate": "2026-12-07T10:00:00",
-   "arrivalDate": "2026-12-07T11:10:00",
+   "departureDate": "2026-12-04T17:50:00",
+   "arrivalDate": "2026-12-04T18:45:00",
    "price": {
-    "value": 24.99,
-    "valueMainUnit": "24",
+    "value": 18.99,
+    "valueMainUnit": "18",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~5603~ ~~KUN~12/07/2026 10:00~CGN~12/07/2026 11:10~~",
-   "flightNumber": "FR5603",
+   "flightKey": "FR~2885~ ~~KUN~12/04/2026 17:50~EDI~12/04/2026 18:45~~",
+   "flightNumber": "FR2885",
    "previousPrice": null,
-   "priceUpdated": 1791802736000
+   "priceUpdated": 1792433981000
   },
   "summary": {
    "price": {
-    "value": 24.99,
-    "valueMainUnit": "24",
+    "value": 18.99,
+    "valueMainUnit": "18",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "BRS",
+    "name": "Bristol",
+    "seoName": "bristol",
+    "city": {
+     "code": "BRISTOL",
+     "countryCode": "gb",
+     "name": "Bristol"
+    }
+   },
+   "departureDate": "2026-12-11T16:50:00",
+   "arrivalDate": "2026-12-11T17:50:00",
+   "price": {
+    "value": 22.99,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~8682~ ~~KUN~12/11/2026 16:50~BRS~12/11/2026 17:50~~",
+   "flightNumber": "FR8682",
+   "previousPrice": null,
+   "priceUpdated": 1792434033000
+  },
+  "summary": {
+   "price": {
+    "value": 22.99,
+    "valueMainUnit": "22",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -639,7 +487,7 @@
    "flightKey": "FR~6156~ ~~KUN~12/08/2026 14:35~CPH~12/08/2026 15:05~~",
    "flightNumber": "FR6156",
    "previousPrice": null,
-   "priceUpdated": 1791803387000
+   "priceUpdated": 1792436725000
   },
   "summary": {
    "price": {
@@ -667,35 +515,85 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Cyprus",
-    "iataCode": "PFO",
-    "name": "Paphos",
-    "seoName": "paphos",
+    "countryName": "United Kingdom",
+    "iataCode": "EDI",
+    "name": "Edinburgh",
+    "seoName": "edinburgh",
     "city": {
-     "code": "PAPHOS",
-     "countryCode": "cy",
-     "name": "Paphos"
+     "code": "EDINBURGH",
+     "countryCode": "gb",
+     "name": "Edinburgh"
     }
    },
-   "departureDate": "2026-12-07T13:50:00",
-   "arrivalDate": "2026-12-07T17:25:00",
+   "departureDate": "2026-12-07T06:55:00",
+   "arrivalDate": "2026-12-07T07:50:00",
    "price": {
-    "value": 25.99,
-    "valueMainUnit": "25",
+    "value": 24.99,
+    "valueMainUnit": "24",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~9114~ ~~KUN~12/07/2026 13:50~PFO~12/07/2026 17:25~~",
-   "flightNumber": "FR9114",
+   "flightKey": "FR~2885~ ~~KUN~12/07/2026 06:55~EDI~12/07/2026 07:50~~",
+   "flightNumber": "FR2885",
    "previousPrice": null,
-   "priceUpdated": 1791800560000
+   "priceUpdated": 1792434003000
   },
   "summary": {
    "price": {
-    "value": 25.99,
-    "valueMainUnit": "25",
+    "value": 24.99,
+    "valueMainUnit": "24",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LPL",
+    "name": "Liverpool",
+    "seoName": "liverpool",
+    "city": {
+     "code": "LIVERPOOL",
+     "countryCode": "gb",
+     "name": "Liverpool"
+    }
+   },
+   "departureDate": "2026-12-04T06:15:00",
+   "arrivalDate": "2026-12-04T07:15:00",
+   "price": {
+    "value": 25.02,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "02",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5728~ ~~KUN~12/04/2026 06:15~LPL~12/04/2026 07:15~~",
+   "flightNumber": "FR5728",
+   "previousPrice": null,
+   "priceUpdated": 1792435745000
+  },
+  "summary": {
+   "price": {
+    "value": 25.02,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "02",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -730,8 +628,8 @@
    "departureDate": "2026-12-10T17:10:00",
    "arrivalDate": "2026-12-10T17:40:00",
    "price": {
-    "value": 26.99,
-    "valueMainUnit": "26",
+    "value": 25.99,
+    "valueMainUnit": "25",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -739,13 +637,64 @@
    "flightKey": "FR~6156~ ~~KUN~12/10/2026 17:10~CPH~12/10/2026 17:40~~",
    "flightNumber": "FR6156",
    "previousPrice": null,
-   "priceUpdated": 1791800561000
+   "priceUpdated": 1792425160000
   },
   "summary": {
    "price": {
-    "value": 26.99,
-    "valueMainUnit": "26",
+    "value": 25.99,
+    "valueMainUnit": "25",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LTN",
+    "name": "London Luton",
+    "seoName": "london-luton",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-08T21:10:00",
+   "arrivalDate": "2026-12-08T22:00:00",
+   "price": {
+    "value": 27.61,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "61",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2364~ ~~KUN~12/08/2026 21:10~LTN~12/08/2026 22:00~~",
+   "flightNumber": "FR2364",
+   "previousPrice": null,
+   "priceUpdated": 1792434708000
+  },
+  "summary": {
+   "price": {
+    "value": 27.61,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "61",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -778,8 +727,8 @@
      "name": "London"
     }
    },
-   "departureDate": "2026-12-07T07:45:00",
-   "arrivalDate": "2026-12-07T08:30:00",
+   "departureDate": "2026-12-10T22:35:00",
+   "arrivalDate": "2026-12-10T23:20:00",
    "price": {
     "value": 27.61,
     "valueMainUnit": "27",
@@ -787,10 +736,10 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2745~ ~~KUN~12/07/2026 07:45~STN~12/07/2026 08:30~~",
+   "flightKey": "FR~2745~ ~~KUN~12/10/2026 22:35~STN~12/10/2026 23:20~~",
    "flightNumber": "FR2745",
    "previousPrice": null,
-   "priceUpdated": 1791800567000
+   "priceUpdated": 1792431062000
   },
   "summary": {
    "price": {
@@ -841,7 +790,7 @@
    "flightKey": "FR~2745~ ~~KUN~12/09/2026 08:00~STN~12/09/2026 08:45~~",
    "flightNumber": "FR2745",
    "previousPrice": null,
-   "priceUpdated": 1791800565000
+   "priceUpdated": 1792419323000
   },
   "summary": {
    "price": {
@@ -870,9 +819,9 @@
    },
    "arrivalAirport": {
     "countryName": "United Kingdom",
-    "iataCode": "LTN",
-    "name": "London Luton",
-    "seoName": "london-luton",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
     "city": {
      "code": "LONDON",
      "countryCode": "gb",
@@ -880,25 +829,125 @@
      "name": "London"
     }
    },
-   "departureDate": "2026-12-09T16:05:00",
-   "arrivalDate": "2026-12-09T16:55:00",
+   "departureDate": "2026-12-07T07:45:00",
+   "arrivalDate": "2026-12-07T08:30:00",
    "price": {
-    "value": 29.46,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "46",
+    "value": 28.4,
+    "valueMainUnit": "28",
+    "valueFractionalUnit": "40",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2145~ ~~KUN~12/09/2026 16:05~LTN~12/09/2026 16:55~~",
-   "flightNumber": "FR2145",
+   "flightKey": "FR~2745~ ~~KUN~12/07/2026 07:45~STN~12/07/2026 08:30~~",
+   "flightNumber": "FR2745",
    "previousPrice": null,
-   "priceUpdated": 1791800562000
+   "priceUpdated": 1792405425000
   },
   "summary": {
    "price": {
-    "value": 29.46,
+    "value": 28.4,
+    "valueMainUnit": "28",
+    "valueFractionalUnit": "40",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-05T15:25:00",
+   "arrivalDate": "2026-12-05T18:20:00",
+   "price": {
+    "value": 29.99,
     "valueMainUnit": "29",
-    "valueFractionalUnit": "46",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6429~ ~~KUN~12/05/2026 15:25~ALC~12/05/2026 18:20~~",
+   "flightNumber": "FR6429",
+   "previousPrice": null,
+   "priceUpdated": 1792434034000
+  },
+  "summary": {
+   "price": {
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "BRS",
+    "name": "Bristol",
+    "seoName": "bristol",
+    "city": {
+     "code": "BRISTOL",
+     "countryCode": "gb",
+     "name": "Bristol"
+    }
+   },
+   "departureDate": "2026-12-04T16:50:00",
+   "arrivalDate": "2026-12-04T17:50:00",
+   "price": {
+    "value": 31.99,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~8682~ ~~KUN~12/04/2026 16:50~BRS~12/04/2026 17:50~~",
+   "flightNumber": "FR8682",
+   "previousPrice": null,
+   "priceUpdated": 1792431026000
+  },
+  "summary": {
+   "price": {
+    "value": 31.99,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -933,8 +982,8 @@
    "departureDate": "2026-12-11T06:25:00",
    "arrivalDate": "2026-12-11T06:55:00",
    "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
+    "value": 31.99,
+    "valueMainUnit": "31",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -942,12 +991,62 @@
    "flightKey": "FR~6156~ ~~KUN~12/11/2026 06:25~CPH~12/11/2026 06:55~~",
    "flightNumber": "FR6156",
    "previousPrice": null,
-   "priceUpdated": 1791800560000
+   "priceUpdated": 1792430801000
   },
   "summary": {
    "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
+    "value": 31.99,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LPL",
+    "name": "Liverpool",
+    "seoName": "liverpool",
+    "city": {
+     "code": "LIVERPOOL",
+     "countryCode": "gb",
+     "name": "Liverpool"
+    }
+   },
+   "departureDate": "2026-12-10T12:30:00",
+   "arrivalDate": "2026-12-10T13:30:00",
+   "price": {
+    "value": 31.99,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5728~ ~~KUN~12/10/2026 12:30~LPL~12/10/2026 13:30~~",
+   "flightNumber": "FR5728",
+   "previousPrice": null,
+   "priceUpdated": 1792419306000
+  },
+  "summary": {
+   "price": {
+    "value": 31.99,
+    "valueMainUnit": "31",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -984,8 +1083,8 @@
    "departureDate": "2026-12-05T17:15:00",
    "arrivalDate": "2026-12-05T18:05:00",
    "price": {
-    "value": 30.99,
-    "valueMainUnit": "30",
+    "value": 31.99,
+    "valueMainUnit": "31",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -993,112 +1092,12 @@
    "flightKey": "FR~2364~ ~~KUN~12/05/2026 17:15~LTN~12/05/2026 18:05~~",
    "flightNumber": "FR2364",
    "previousPrice": null,
-   "priceUpdated": 1791800473000
+   "priceUpdated": 1792419249000
   },
   "summary": {
    "price": {
-    "value": 30.99,
-    "valueMainUnit": "30",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LPL",
-    "name": "Liverpool",
-    "seoName": "liverpool",
-    "city": {
-     "code": "LIVERPOOL",
-     "countryCode": "gb",
-     "name": "Liverpool"
-    }
-   },
-   "departureDate": "2026-12-04T06:15:00",
-   "arrivalDate": "2026-12-04T07:15:00",
-   "price": {
-    "value": 31.66,
+    "value": 31.99,
     "valueMainUnit": "31",
-    "valueFractionalUnit": "66",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5728~ ~~KUN~12/04/2026 06:15~LPL~12/04/2026 07:15~~",
-   "flightNumber": "FR5728",
-   "previousPrice": null,
-   "priceUpdated": 1791800562000
-  },
-  "summary": {
-   "price": {
-    "value": 31.66,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "66",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LPL",
-    "name": "Liverpool",
-    "seoName": "liverpool",
-    "city": {
-     "code": "LIVERPOOL",
-     "countryCode": "gb",
-     "name": "Liverpool"
-    }
-   },
-   "departureDate": "2026-12-10T12:30:00",
-   "arrivalDate": "2026-12-10T13:30:00",
-   "price": {
-    "value": 33.99,
-    "valueMainUnit": "33",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5728~ ~~KUN~12/10/2026 12:30~LPL~12/10/2026 13:30~~",
-   "flightNumber": "FR5728",
-   "previousPrice": null,
-   "priceUpdated": 1791800562000
-  },
-  "summary": {
-   "price": {
-    "value": 33.99,
-    "valueMainUnit": "33",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1122,9 +1121,9 @@
    },
    "arrivalAirport": {
     "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
+    "iataCode": "LTN",
+    "name": "London Luton",
+    "seoName": "london-luton",
     "city": {
      "code": "LONDON",
      "countryCode": "gb",
@@ -1132,24 +1131,74 @@
      "name": "London"
     }
    },
-   "departureDate": "2026-12-11T12:05:00",
-   "arrivalDate": "2026-12-11T12:50:00",
+   "departureDate": "2026-12-09T16:05:00",
+   "arrivalDate": "2026-12-09T16:55:00",
    "price": {
-    "value": 33.99,
-    "valueMainUnit": "33",
+    "value": 32.38,
+    "valueMainUnit": "32",
+    "valueFractionalUnit": "38",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2145~ ~~KUN~12/09/2026 16:05~LTN~12/09/2026 16:55~~",
+   "flightNumber": "FR2145",
+   "previousPrice": null,
+   "priceUpdated": 1792435068000
+  },
+  "summary": {
+   "price": {
+    "value": 32.38,
+    "valueMainUnit": "32",
+    "valueFractionalUnit": "38",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Cyprus",
+    "iataCode": "PFO",
+    "name": "Paphos",
+    "seoName": "paphos",
+    "city": {
+     "code": "PAPHOS",
+     "countryCode": "cy",
+     "name": "Paphos"
+    }
+   },
+   "departureDate": "2026-12-07T13:50:00",
+   "arrivalDate": "2026-12-07T17:25:00",
+   "price": {
+    "value": 32.99,
+    "valueMainUnit": "32",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2745~ ~~KUN~12/11/2026 12:05~STN~12/11/2026 12:50~~",
-   "flightNumber": "FR2745",
+   "flightKey": "FR~9114~ ~~KUN~12/07/2026 13:50~PFO~12/07/2026 17:25~~",
+   "flightNumber": "FR9114",
    "previousPrice": null,
-   "priceUpdated": 1791800568000
+   "priceUpdated": 1792434005000
   },
   "summary": {
    "price": {
-    "value": 33.99,
-    "valueMainUnit": "33",
+    "value": 32.99,
+    "valueMainUnit": "32",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1172,35 +1221,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
+    "countryName": "Germany",
+    "iataCode": "CGN",
+    "name": "Cologne",
+    "seoName": "cologne-bonn",
     "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
+     "code": "COLOGNE",
+     "countryCode": "de",
+     "name": "Cologne"
     }
    },
-   "departureDate": "2026-12-04T10:25:00",
-   "arrivalDate": "2026-12-04T11:50:00",
+   "departureDate": "2026-12-07T10:00:00",
+   "arrivalDate": "2026-12-07T11:10:00",
    "price": {
-    "value": 34.23,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "23",
+    "value": 33.99,
+    "valueMainUnit": "33",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 939~ ~~KUN~12/04/2026 10:25~CRL~12/04/2026 11:50~~",
-   "flightNumber": "FR939",
+   "flightKey": "FR~5603~ ~~KUN~12/07/2026 10:00~CGN~12/07/2026 11:10~~",
+   "flightNumber": "FR5603",
    "previousPrice": null,
-   "priceUpdated": 1791800562000
+   "priceUpdated": 1792424260000
   },
   "summary": {
    "price": {
-    "value": 34.23,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "23",
+    "value": 33.99,
+    "valueMainUnit": "33",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1235,22 +1284,22 @@
    "departureDate": "2026-12-06T12:15:00",
    "arrivalDate": "2026-12-06T15:10:00",
    "price": {
-    "value": 34.99,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "99",
+    "value": 36.59,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "59",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~6429~ ~~KUN~12/06/2026 12:15~ALC~12/06/2026 15:10~~",
    "flightNumber": "FR6429",
    "previousPrice": null,
-   "priceUpdated": 1791800560000
+   "priceUpdated": 1792434001000
   },
   "summary": {
    "price": {
-    "value": 34.99,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "99",
+    "value": 36.59,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "59",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1273,134 +1322,35 @@
    },
    "arrivalAirport": {
     "countryName": "United Kingdom",
-    "iataCode": "BRS",
-    "name": "Bristol",
-    "seoName": "bristol",
+    "iataCode": "LTN",
+    "name": "London Luton",
+    "seoName": "london-luton",
     "city": {
-     "code": "BRISTOL",
+     "code": "LONDON",
      "countryCode": "gb",
-     "name": "Bristol"
+     "macCode": "LON",
+     "name": "London"
     }
    },
-   "departureDate": "2026-12-04T16:50:00",
-   "arrivalDate": "2026-12-04T17:50:00",
+   "departureDate": "2026-12-11T11:30:00",
+   "arrivalDate": "2026-12-11T12:20:00",
    "price": {
-    "value": 34.99,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "99",
+    "value": 37.54,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "54",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~8682~ ~~KUN~12/04/2026 16:50~BRS~12/04/2026 17:50~~",
-   "flightNumber": "FR8682",
+   "flightKey": "FR~2145~ ~~KUN~12/11/2026 11:30~LTN~12/11/2026 12:20~~",
+   "flightNumber": "FR2145",
    "previousPrice": null,
-   "priceUpdated": 1791800565000
+   "priceUpdated": 1792405428000
   },
   "summary": {
    "price": {
-    "value": 34.99,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-06T18:00:00",
-   "arrivalDate": "2026-12-06T19:25:00",
-   "price": {
-    "value": 35.24,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "24",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~9293~ ~~KUN~12/06/2026 18:00~BGY~12/06/2026 19:25~~",
-   "flightNumber": "FR9293",
-   "previousPrice": null,
-   "priceUpdated": 1791800563000
-  },
-  "summary": {
-   "price": {
-    "value": 35.24,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "24",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-05T15:25:00",
-   "arrivalDate": "2026-12-05T18:20:00",
-   "price": {
-    "value": 35.99,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6429~ ~~KUN~12/05/2026 15:25~ALC~12/05/2026 18:20~~",
-   "flightNumber": "FR6429",
-   "previousPrice": null,
-   "priceUpdated": 1791800564000
-  },
-  "summary": {
-   "price": {
-    "value": 35.99,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "99",
+    "value": 37.54,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "54",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1432,24 +1382,74 @@
      "name": "Alicante"
     }
    },
-   "departureDate": "2026-12-04T16:30:00",
-   "arrivalDate": "2026-12-04T19:25:00",
+   "departureDate": "2026-12-11T16:30:00",
+   "arrivalDate": "2026-12-11T19:25:00",
    "price": {
-    "value": 36.99,
-    "valueMainUnit": "36",
+    "value": 37.99,
+    "valueMainUnit": "37",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6429~ ~~KUN~12/04/2026 16:30~ALC~12/04/2026 19:25~~",
+   "flightKey": "FR~6429~ ~~KUN~12/11/2026 16:30~ALC~12/11/2026 19:25~~",
    "flightNumber": "FR6429",
    "previousPrice": null,
-   "priceUpdated": 1791803393000
+   "priceUpdated": 1792419324000
   },
   "summary": {
    "price": {
-    "value": 36.99,
-    "valueMainUnit": "36",
+    "value": 37.99,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Denmark",
+    "iataCode": "CPH",
+    "name": "Copenhagen",
+    "seoName": "copenhagen",
+    "city": {
+     "code": "COPENHAGEN",
+     "countryCode": "dk",
+     "name": "Copenhagen"
+    }
+   },
+   "departureDate": "2026-12-06T19:25:00",
+   "arrivalDate": "2026-12-06T19:55:00",
+   "price": {
+    "value": 38.99,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6156~ ~~KUN~12/06/2026 19:25~CPH~12/06/2026 19:55~~",
+   "flightNumber": "FR6156",
+   "previousPrice": null,
+   "priceUpdated": 1792436797000
+  },
+  "summary": {
+   "price": {
+    "value": 38.99,
+    "valueMainUnit": "38",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1485,8 +1485,8 @@
    "departureDate": "2026-12-10T07:55:00",
    "arrivalDate": "2026-12-10T11:30:00",
    "price": {
-    "value": 37.99,
-    "valueMainUnit": "37",
+    "value": 38.99,
+    "valueMainUnit": "38",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1494,12 +1494,12 @@
    "flightKey": "FR~9114~ ~~KUN~12/10/2026 07:55~PFO~12/10/2026 11:30~~",
    "flightNumber": "FR9114",
    "previousPrice": null,
-   "priceUpdated": 1791800560000
+   "priceUpdated": 1792437768000
   },
   "summary": {
    "price": {
-    "value": 37.99,
-    "valueMainUnit": "37",
+    "value": 38.99,
+    "valueMainUnit": "38",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1536,376 +1536,22 @@
    "departureDate": "2026-12-06T22:55:00",
    "arrivalDate": "2026-12-06T23:45:00",
    "price": {
-    "value": 38.08,
-    "valueMainUnit": "38",
-    "valueFractionalUnit": "08",
+    "value": 39.71,
+    "valueMainUnit": "39",
+    "valueFractionalUnit": "71",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~2145~ ~~KUN~12/06/2026 22:55~LTN~12/06/2026 23:45~~",
    "flightNumber": "FR2145",
    "previousPrice": null,
-   "priceUpdated": 1791800560000
+   "priceUpdated": 1792405478000
   },
   "summary": {
    "price": {
-    "value": 38.08,
-    "valueMainUnit": "38",
-    "valueFractionalUnit": "08",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Sweden",
-    "iataCode": "ARN",
-    "name": "Stockholm Arlanda",
-    "seoName": "stockholm-arlandia",
-    "city": {
-     "code": "STOCKHOLM",
-     "countryCode": "se",
-     "macCode": "SLM",
-     "name": "Stockholm"
-    }
-   },
-   "departureDate": "2026-12-11T13:15:00",
-   "arrivalDate": "2026-12-11T13:40:00",
-   "price": {
-    "value": 39.14,
+    "value": 39.71,
     "valueMainUnit": "39",
-    "valueFractionalUnit": "14",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4606~ ~~KUN~12/11/2026 13:15~ARN~12/11/2026 13:40~~",
-   "flightNumber": "FR4606",
-   "previousPrice": null,
-   "priceUpdated": 1791800562000
-  },
-  "summary": {
-   "price": {
-    "value": 39.14,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "14",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LTN",
-    "name": "London Luton",
-    "seoName": "london-luton",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-10T13:05:00",
-   "arrivalDate": "2026-12-10T13:55:00",
-   "price": {
-    "value": 40.54,
-    "valueMainUnit": "40",
-    "valueFractionalUnit": "54",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2145~ ~~KUN~12/10/2026 13:05~LTN~12/10/2026 13:55~~",
-   "flightNumber": "FR2145",
-   "previousPrice": null,
-   "priceUpdated": 1791800564000
-  },
-  "summary": {
-   "price": {
-    "value": 40.54,
-    "valueMainUnit": "40",
-    "valueFractionalUnit": "54",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "BRS",
-    "name": "Bristol",
-    "seoName": "bristol",
-    "city": {
-     "code": "BRISTOL",
-     "countryCode": "gb",
-     "name": "Bristol"
-    }
-   },
-   "departureDate": "2026-12-07T11:15:00",
-   "arrivalDate": "2026-12-07T12:15:00",
-   "price": {
-    "value": 40.99,
-    "valueMainUnit": "40",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~8682~ ~~KUN~12/07/2026 11:15~BRS~12/07/2026 12:15~~",
-   "flightNumber": "FR8682",
-   "previousPrice": null,
-   "priceUpdated": 1791800563000
-  },
-  "summary": {
-   "price": {
-    "value": 40.99,
-    "valueMainUnit": "40",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "EDI",
-    "name": "Edinburgh",
-    "seoName": "edinburgh",
-    "city": {
-     "code": "EDINBURGH",
-     "countryCode": "gb",
-     "name": "Edinburgh"
-    }
-   },
-   "departureDate": "2026-12-07T06:55:00",
-   "arrivalDate": "2026-12-07T07:50:00",
-   "price": {
-    "value": 41.35,
-    "valueMainUnit": "41",
-    "valueFractionalUnit": "35",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2885~ ~~KUN~12/07/2026 06:55~EDI~12/07/2026 07:50~~",
-   "flightNumber": "FR2885",
-   "previousPrice": null,
-   "priceUpdated": 1791800561000
-  },
-  "summary": {
-   "price": {
-    "value": 41.35,
-    "valueMainUnit": "41",
-    "valueFractionalUnit": "35",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-06T22:50:00",
-   "arrivalDate": "2026-12-06T23:35:00",
-   "price": {
-    "value": 42.17,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "17",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4940~ ~~KUN~12/06/2026 22:50~STN~12/06/2026 23:35~~",
-   "flightNumber": "FR4940",
-   "previousPrice": null,
-   "priceUpdated": 1791800570000
-  },
-  "summary": {
-   "price": {
-    "value": 42.17,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "17",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "EDI",
-    "name": "Edinburgh",
-    "seoName": "edinburgh",
-    "city": {
-     "code": "EDINBURGH",
-     "countryCode": "gb",
-     "name": "Edinburgh"
-    }
-   },
-   "departureDate": "2026-12-10T11:35:00",
-   "arrivalDate": "2026-12-10T12:30:00",
-   "price": {
-    "value": 42.99,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2885~ ~~KUN~12/10/2026 11:35~EDI~12/10/2026 12:30~~",
-   "flightNumber": "FR2885",
-   "previousPrice": null,
-   "priceUpdated": 1791800562000
-  },
-  "summary": {
-   "price": {
-    "value": 42.99,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LTN",
-    "name": "London Luton",
-    "seoName": "london-luton",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-11T11:30:00",
-   "arrivalDate": "2026-12-11T12:20:00",
-   "price": {
-    "value": 43.17,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "17",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2145~ ~~KUN~12/11/2026 11:30~LTN~12/11/2026 12:20~~",
-   "flightNumber": "FR2145",
-   "previousPrice": null,
-   "priceUpdated": 1791801746000
-  },
-  "summary": {
-   "price": {
-    "value": 43.17,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "17",
+    "valueFractionalUnit": "71",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1941,8 +1587,8 @@
    "departureDate": "2026-12-05T09:45:00",
    "arrivalDate": "2026-12-05T10:30:00",
    "price": {
-    "value": 44.99,
-    "valueMainUnit": "44",
+    "value": 39.99,
+    "valueMainUnit": "39",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1950,212 +1596,12 @@
    "flightKey": "FR~2745~ ~~KUN~12/05/2026 09:45~STN~12/05/2026 10:30~~",
    "flightNumber": "FR2745",
    "previousPrice": null,
-   "priceUpdated": 1791803372000
+   "priceUpdated": 1792436733000
   },
   "summary": {
    "price": {
-    "value": 44.99,
-    "valueMainUnit": "44",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "SNN",
-    "name": "Shannon",
-    "seoName": "shannon",
-    "city": {
-     "code": "SHANNON",
-     "countryCode": "ie",
-     "name": "Shannon"
-    }
-   },
-   "departureDate": "2026-12-10T22:45:00",
-   "arrivalDate": "2026-12-11T00:10:00",
-   "price": {
-    "value": 45.09,
-    "valueMainUnit": "45",
-    "valueFractionalUnit": "09",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6431~ ~~KUN~12/10/2026 22:45~SNN~12/11/2026 00:10~~",
-   "flightNumber": "FR6431",
-   "previousPrice": null,
-   "priceUpdated": 1791800564000
-  },
-  "summary": {
-   "price": {
-    "value": 45.09,
-    "valueMainUnit": "45",
-    "valueFractionalUnit": "09",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Denmark",
-    "iataCode": "CPH",
-    "name": "Copenhagen",
-    "seoName": "copenhagen",
-    "city": {
-     "code": "COPENHAGEN",
-     "countryCode": "dk",
-     "name": "Copenhagen"
-    }
-   },
-   "departureDate": "2026-12-06T19:25:00",
-   "arrivalDate": "2026-12-06T19:55:00",
-   "price": {
-    "value": 46.99,
-    "valueMainUnit": "46",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6156~ ~~KUN~12/06/2026 19:25~CPH~12/06/2026 19:55~~",
-   "flightNumber": "FR6156",
-   "previousPrice": null,
-   "priceUpdated": 1791800563000
-  },
-  "summary": {
-   "price": {
-    "value": 46.99,
-    "valueMainUnit": "46",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-10T14:40:00",
-   "arrivalDate": "2026-12-10T17:35:00",
-   "price": {
-    "value": 47.59,
-    "valueMainUnit": "47",
-    "valueFractionalUnit": "59",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6429~ ~~KUN~12/10/2026 14:40~ALC~12/10/2026 17:35~~",
-   "flightNumber": "FR6429",
-   "previousPrice": null,
-   "priceUpdated": 1791800564000
-  },
-  "summary": {
-   "price": {
-    "value": 47.59,
-    "valueMainUnit": "47",
-    "valueFractionalUnit": "59",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-11T16:30:00",
-   "arrivalDate": "2026-12-11T19:25:00",
-   "price": {
-    "value": 48.99,
-    "valueMainUnit": "48",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6429~ ~~KUN~12/11/2026 16:30~ALC~12/11/2026 19:25~~",
-   "flightNumber": "FR6429",
-   "previousPrice": null,
-   "priceUpdated": 1791800561000
-  },
-  "summary": {
-   "price": {
-    "value": 48.99,
-    "valueMainUnit": "48",
+    "value": 39.99,
+    "valueMainUnit": "39",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2191,8 +1637,8 @@
    "departureDate": "2026-12-11T10:25:00",
    "arrivalDate": "2026-12-11T11:50:00",
    "price": {
-    "value": 48.99,
-    "valueMainUnit": "48",
+    "value": 40.99,
+    "valueMainUnit": "40",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2200,12 +1646,12 @@
    "flightKey": "FR~ 939~ ~~KUN~12/11/2026 10:25~CRL~12/11/2026 11:50~~",
    "flightNumber": "FR939",
    "previousPrice": null,
-   "priceUpdated": 1791800565000
+   "priceUpdated": 1792419361000
   },
   "summary": {
    "price": {
-    "value": 48.99,
-    "valueMainUnit": "48",
+    "value": 40.99,
+    "valueMainUnit": "40",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2239,25 +1685,76 @@
      "name": "London"
     }
    },
-   "departureDate": "2026-12-04T12:05:00",
-   "arrivalDate": "2026-12-04T12:50:00",
+   "departureDate": "2026-12-06T22:50:00",
+   "arrivalDate": "2026-12-06T23:35:00",
    "price": {
-    "value": 51.99,
-    "valueMainUnit": "51",
-    "valueFractionalUnit": "99",
+    "value": 41.35,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "35",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2745~ ~~KUN~12/04/2026 12:05~STN~12/04/2026 12:50~~",
-   "flightNumber": "FR2745",
+   "flightKey": "FR~4940~ ~~KUN~12/06/2026 22:50~STN~12/06/2026 23:35~~",
+   "flightNumber": "FR4940",
    "previousPrice": null,
-   "priceUpdated": 1791800566000
+   "priceUpdated": 1792426299000
   },
   "summary": {
    "price": {
-    "value": 51.99,
-    "valueMainUnit": "51",
-    "valueFractionalUnit": "99",
+    "value": 41.35,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "35",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Sweden",
+    "iataCode": "ARN",
+    "name": "Stockholm Arlanda",
+    "seoName": "stockholm-arlandia",
+    "city": {
+     "code": "STOCKHOLM",
+     "countryCode": "se",
+     "macCode": "SLM",
+     "name": "Stockholm"
+    }
+   },
+   "departureDate": "2026-12-11T13:15:00",
+   "arrivalDate": "2026-12-11T13:40:00",
+   "price": {
+    "value": 41.98,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "98",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4606~ ~~KUN~12/11/2026 13:15~ARN~12/11/2026 13:40~~",
+   "flightNumber": "FR4606",
+   "previousPrice": null,
+   "priceUpdated": 1792421056000
+  },
+  "summary": {
+   "price": {
+    "value": 41.98,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "98",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2293,8 +1790,8 @@
    "departureDate": "2026-12-04T13:15:00",
    "arrivalDate": "2026-12-04T13:40:00",
    "price": {
-    "value": 51.99,
-    "valueMainUnit": "51",
+    "value": 41.99,
+    "valueMainUnit": "41",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2302,12 +1799,12 @@
    "flightKey": "FR~4606~ ~~KUN~12/04/2026 13:15~ARN~12/04/2026 13:40~~",
    "flightNumber": "FR4606",
    "previousPrice": null,
-   "priceUpdated": 1791800562000
+   "priceUpdated": 1792419888000
   },
   "summary": {
    "price": {
-    "value": 51.99,
-    "valueMainUnit": "51",
+    "value": 41.99,
+    "valueMainUnit": "41",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2331,33 +1828,83 @@
    },
    "arrivalAirport": {
     "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
+    "iataCode": "SNN",
+    "name": "Shannon",
+    "seoName": "shannon",
     "city": {
-     "code": "DUBLIN",
+     "code": "SHANNON",
      "countryCode": "ie",
-     "name": "Dublin"
+     "name": "Shannon"
     }
    },
-   "departureDate": "2026-12-07T22:00:00",
-   "arrivalDate": "2026-12-07T23:10:00",
+   "departureDate": "2026-12-10T22:45:00",
+   "arrivalDate": "2026-12-11T00:10:00",
    "price": {
-    "value": 52.99,
-    "valueMainUnit": "52",
+    "value": 42.15,
+    "valueMainUnit": "42",
+    "valueFractionalUnit": "15",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6431~ ~~KUN~12/10/2026 22:45~SNN~12/11/2026 00:10~~",
+   "flightNumber": "FR6431",
+   "previousPrice": null,
+   "priceUpdated": 1792405428000
+  },
+  "summary": {
+   "price": {
+    "value": 42.15,
+    "valueMainUnit": "42",
+    "valueFractionalUnit": "15",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-04T16:30:00",
+   "arrivalDate": "2026-12-04T19:25:00",
+   "price": {
+    "value": 42.99,
+    "valueMainUnit": "42",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2972~ ~~KUN~12/07/2026 22:00~DUB~12/07/2026 23:10~~",
-   "flightNumber": "FR2972",
+   "flightKey": "FR~6429~ ~~KUN~12/04/2026 16:30~ALC~12/04/2026 19:25~~",
+   "flightNumber": "FR6429",
    "previousPrice": null,
-   "priceUpdated": 1791800565000
+   "priceUpdated": 1792438665000
   },
   "summary": {
    "price": {
-    "value": 52.99,
-    "valueMainUnit": "52",
+    "value": 42.99,
+    "valueMainUnit": "42",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2380,40 +1927,342 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Germany",
-    "iataCode": "CGN",
-    "name": "Cologne",
-    "seoName": "cologne-bonn",
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
     "city": {
-     "code": "COLOGNE",
-     "countryCode": "de",
-     "name": "Cologne"
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
     }
    },
-   "departureDate": "2026-12-05T16:20:00",
-   "arrivalDate": "2026-12-05T17:30:00",
+   "departureDate": "2026-12-11T12:05:00",
+   "arrivalDate": "2026-12-11T12:50:00",
    "price": {
-    "value": 56.99,
-    "valueMainUnit": "56",
+    "value": 42.99,
+    "valueMainUnit": "42",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~5603~ ~~KUN~12/05/2026 16:20~CGN~12/05/2026 17:30~~",
-   "flightNumber": "FR5603",
+   "flightKey": "FR~2745~ ~~KUN~12/11/2026 12:05~STN~12/11/2026 12:50~~",
+   "flightNumber": "FR2745",
    "previousPrice": null,
-   "priceUpdated": 1791800560000
+   "priceUpdated": 1792432367000
   },
   "summary": {
    "price": {
-    "value": 56.99,
-    "valueMainUnit": "56",
+    "value": 42.99,
+    "valueMainUnit": "42",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "BRS",
+    "name": "Bristol",
+    "seoName": "bristol",
+    "city": {
+     "code": "BRISTOL",
+     "countryCode": "gb",
+     "name": "Bristol"
+    }
+   },
+   "departureDate": "2026-12-07T11:15:00",
+   "arrivalDate": "2026-12-07T12:15:00",
+   "price": {
+    "value": 44.99,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~8682~ ~~KUN~12/07/2026 11:15~BRS~12/07/2026 12:15~~",
+   "flightNumber": "FR8682",
+   "previousPrice": null,
+   "priceUpdated": 1792419291000
+  },
+  "summary": {
+   "price": {
+    "value": 44.99,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LTN",
+    "name": "London Luton",
+    "seoName": "london-luton",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-10T13:05:00",
+   "arrivalDate": "2026-12-10T13:55:00",
+   "price": {
+    "value": 45.04,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "04",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2145~ ~~KUN~12/10/2026 13:05~LTN~12/10/2026 13:55~~",
+   "flightNumber": "FR2145",
+   "previousPrice": null,
+   "priceUpdated": 1792405426000
+  },
+  "summary": {
+   "price": {
+    "value": 45.04,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "04",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Denmark",
+    "iataCode": "CPH",
+    "name": "Copenhagen",
+    "seoName": "copenhagen",
+    "city": {
+     "code": "COPENHAGEN",
+     "countryCode": "dk",
+     "name": "Copenhagen"
+    }
+   },
+   "departureDate": "2026-12-04T06:25:00",
+   "arrivalDate": "2026-12-04T06:55:00",
+   "price": {
+    "value": 45.99,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6156~ ~~KUN~12/04/2026 06:25~CPH~12/04/2026 06:55~~",
+   "flightNumber": "FR6156",
+   "previousPrice": null,
+   "priceUpdated": 1792436739000
+  },
+  "summary": {
+   "price": {
+    "value": 45.99,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "EDI",
+    "name": "Edinburgh",
+    "seoName": "edinburgh",
+    "city": {
+     "code": "EDINBURGH",
+     "countryCode": "gb",
+     "name": "Edinburgh"
+    }
+   },
+   "departureDate": "2026-12-10T11:35:00",
+   "arrivalDate": "2026-12-10T12:30:00",
+   "price": {
+    "value": 46.99,
+    "valueMainUnit": "46",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2885~ ~~KUN~12/10/2026 11:35~EDI~12/10/2026 12:30~~",
+   "flightNumber": "FR2885",
+   "previousPrice": null,
+   "priceUpdated": 1792419349000
+  },
+  "summary": {
+   "price": {
+    "value": 46.99,
+    "valueMainUnit": "46",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-06T18:00:00",
+   "arrivalDate": "2026-12-06T19:25:00",
+   "price": {
+    "value": 48.33,
+    "valueMainUnit": "48",
+    "valueFractionalUnit": "33",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9293~ ~~KUN~12/06/2026 18:00~BGY~12/06/2026 19:25~~",
+   "flightNumber": "FR9293",
+   "previousPrice": null,
+   "priceUpdated": 1792434834000
+  },
+  "summary": {
+   "price": {
+    "value": 48.33,
+    "valueMainUnit": "48",
+    "valueFractionalUnit": "33",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-08T17:15:00",
+   "arrivalDate": "2026-12-08T18:40:00",
+   "price": {
+    "value": 48.95,
+    "valueMainUnit": "48",
+    "valueFractionalUnit": "95",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9293~ ~~KUN~12/08/2026 17:15~BGY~12/08/2026 18:40~~",
+   "flightNumber": "FR9293",
+   "previousPrice": null,
+   "priceUpdated": 1792441994000
+  },
+  "summary": {
+   "price": {
+    "value": 48.95,
+    "valueMainUnit": "48",
+    "valueFractionalUnit": "95",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
   }
  },
  {
@@ -2443,8 +2292,8 @@
    "departureDate": "2026-12-10T23:20:00",
    "arrivalDate": "2026-12-11T00:30:00",
    "price": {
-    "value": 56.99,
-    "valueMainUnit": "56",
+    "value": 49.99,
+    "valueMainUnit": "49",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2452,12 +2301,12 @@
    "flightKey": "FR~2972~ ~~KUN~12/10/2026 23:20~DUB~12/11/2026 00:30~~",
    "flightNumber": "FR2972",
    "previousPrice": null,
-   "priceUpdated": 1791803372000
+   "priceUpdated": 1792436766000
   },
   "summary": {
    "price": {
-    "value": 56.99,
-    "valueMainUnit": "56",
+    "value": 49.99,
+    "valueMainUnit": "49",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2494,8 +2343,8 @@
    "departureDate": "2026-12-04T11:30:00",
    "arrivalDate": "2026-12-04T12:20:00",
    "price": {
-    "value": 56.99,
-    "valueMainUnit": "56",
+    "value": 49.99,
+    "valueMainUnit": "49",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2503,12 +2352,12 @@
    "flightKey": "FR~2145~ ~~KUN~12/04/2026 11:30~LTN~12/04/2026 12:20~~",
    "flightNumber": "FR2145",
    "previousPrice": null,
-   "priceUpdated": 1791800560000
+   "priceUpdated": 1792435963000
   },
   "summary": {
    "price": {
-    "value": 56.99,
-    "valueMainUnit": "56",
+    "value": 49.99,
+    "valueMainUnit": "49",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2531,35 +2380,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
     "city": {
-     "code": "MALAGA",
-     "countryCode": "es",
-     "name": "Malaga"
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
     }
    },
-   "departureDate": "2026-12-07T15:30:00",
-   "arrivalDate": "2026-12-07T18:55:00",
+   "departureDate": "2026-12-04T10:25:00",
+   "arrivalDate": "2026-12-04T11:50:00",
    "price": {
-    "value": 57.07,
-    "valueMainUnit": "57",
-    "valueFractionalUnit": "07",
+    "value": 50.01,
+    "valueMainUnit": "50",
+    "valueFractionalUnit": "01",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~5502~ ~~KUN~12/07/2026 15:30~AGP~12/07/2026 18:55~~",
-   "flightNumber": "FR5502",
+   "flightKey": "FR~ 939~ ~~KUN~12/04/2026 10:25~CRL~12/04/2026 11:50~~",
+   "flightNumber": "FR939",
    "previousPrice": null,
-   "priceUpdated": 1791800565000
+   "priceUpdated": 1792421388000
   },
   "summary": {
    "price": {
-    "value": 57.07,
-    "valueMainUnit": "57",
-    "valueFractionalUnit": "07",
+    "value": 50.01,
+    "valueMainUnit": "50",
+    "valueFractionalUnit": "01",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2581,84 +2430,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
     "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
     }
    },
-   "departureDate": "2026-12-10T08:35:00",
-   "arrivalDate": "2026-12-10T10:00:00",
+   "departureDate": "2026-12-04T12:05:00",
+   "arrivalDate": "2026-12-04T12:50:00",
    "price": {
-    "value": 57.23,
-    "valueMainUnit": "57",
-    "valueFractionalUnit": "23",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~9293~ ~~KUN~12/10/2026 08:35~BGY~12/10/2026 10:00~~",
-   "flightNumber": "FR9293",
-   "previousPrice": null,
-   "priceUpdated": 1791800562000
-  },
-  "summary": {
-   "price": {
-    "value": 57.23,
-    "valueMainUnit": "57",
-    "valueFractionalUnit": "23",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Denmark",
-    "iataCode": "CPH",
-    "name": "Copenhagen",
-    "seoName": "copenhagen",
-    "city": {
-     "code": "COPENHAGEN",
-     "countryCode": "dk",
-     "name": "Copenhagen"
-    }
-   },
-   "departureDate": "2026-12-04T06:25:00",
-   "arrivalDate": "2026-12-04T06:55:00",
-   "price": {
-    "value": 57.99,
-    "valueMainUnit": "57",
+    "value": 50.99,
+    "valueMainUnit": "50",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6156~ ~~KUN~12/04/2026 06:25~CPH~12/04/2026 06:55~~",
-   "flightNumber": "FR6156",
+   "flightKey": "FR~2745~ ~~KUN~12/04/2026 12:05~STN~12/04/2026 12:50~~",
+   "flightNumber": "FR2745",
    "previousPrice": null,
-   "priceUpdated": 1791800561000
+   "priceUpdated": 1792419875000
   },
   "summary": {
    "price": {
-    "value": 57.99,
-    "valueMainUnit": "57",
+    "value": 50.99,
+    "valueMainUnit": "50",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2694,22 +2494,122 @@
    "departureDate": "2026-12-11T17:50:00",
    "arrivalDate": "2026-12-11T18:45:00",
    "price": {
-    "value": 58.92,
-    "valueMainUnit": "58",
-    "valueFractionalUnit": "92",
+    "value": 54.18,
+    "valueMainUnit": "54",
+    "valueFractionalUnit": "18",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~2885~ ~~KUN~12/11/2026 17:50~EDI~12/11/2026 18:45~~",
    "flightNumber": "FR2885",
    "previousPrice": null,
-   "priceUpdated": 1791800564000
+   "priceUpdated": 1792433070000
   },
   "summary": {
    "price": {
-    "value": 58.92,
-    "valueMainUnit": "58",
-    "valueFractionalUnit": "92",
+    "value": 54.18,
+    "valueMainUnit": "54",
+    "valueFractionalUnit": "18",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-10T08:35:00",
+   "arrivalDate": "2026-12-10T10:00:00",
+   "price": {
+    "value": 54.68,
+    "valueMainUnit": "54",
+    "valueFractionalUnit": "68",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9293~ ~~KUN~12/10/2026 08:35~BGY~12/10/2026 10:00~~",
+   "flightNumber": "FR9293",
+   "previousPrice": null,
+   "priceUpdated": 1792405463000
+  },
+  "summary": {
+   "price": {
+    "value": 54.68,
+    "valueMainUnit": "54",
+    "valueFractionalUnit": "68",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-07T22:00:00",
+   "arrivalDate": "2026-12-07T23:10:00",
+   "price": {
+    "value": 54.99,
+    "valueMainUnit": "54",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2972~ ~~KUN~12/07/2026 22:00~DUB~12/07/2026 23:10~~",
+   "flightNumber": "FR2972",
+   "previousPrice": null,
+   "priceUpdated": 1792419289000
+  },
+  "summary": {
+   "price": {
+    "value": 54.99,
+    "valueMainUnit": "54",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2744,8 +2644,8 @@
    "departureDate": "2026-12-06T15:35:00",
    "arrivalDate": "2026-12-06T19:00:00",
    "price": {
-    "value": 58.99,
-    "valueMainUnit": "58",
+    "value": 54.99,
+    "valueMainUnit": "54",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2753,12 +2653,12 @@
    "flightKey": "FR~5502~ ~~KUN~12/06/2026 15:35~AGP~12/06/2026 19:00~~",
    "flightNumber": "FR5502",
    "previousPrice": null,
-   "priceUpdated": 1791803384000
+   "priceUpdated": 1792436771000
   },
   "summary": {
    "price": {
-    "value": 58.99,
-    "valueMainUnit": "58",
+    "value": 54.99,
+    "valueMainUnit": "54",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2781,40 +2681,90 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
     "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
     }
    },
-   "departureDate": "2026-12-08T17:15:00",
-   "arrivalDate": "2026-12-08T18:40:00",
+   "departureDate": "2026-12-10T14:40:00",
+   "arrivalDate": "2026-12-10T17:35:00",
    "price": {
-    "value": 64.41,
-    "valueMainUnit": "64",
-    "valueFractionalUnit": "41",
+    "value": 57.07,
+    "valueMainUnit": "57",
+    "valueFractionalUnit": "07",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~9293~ ~~KUN~12/08/2026 17:15~BGY~12/08/2026 18:40~~",
-   "flightNumber": "FR9293",
+   "flightKey": "FR~6429~ ~~KUN~12/10/2026 14:40~ALC~12/10/2026 17:35~~",
+   "flightNumber": "FR6429",
    "previousPrice": null,
-   "priceUpdated": 1791800560000
+   "priceUpdated": 1792405462000
   },
   "summary": {
    "price": {
-    "value": 64.41,
-    "valueMainUnit": "64",
-    "valueFractionalUnit": "41",
+    "value": 57.07,
+    "valueMainUnit": "57",
+    "valueFractionalUnit": "07",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
-   "newRoute": true
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Germany",
+    "iataCode": "CGN",
+    "name": "Cologne",
+    "seoName": "cologne-bonn",
+    "city": {
+     "code": "COLOGNE",
+     "countryCode": "de",
+     "name": "Cologne"
+    }
+   },
+   "departureDate": "2026-12-05T16:20:00",
+   "arrivalDate": "2026-12-05T17:30:00",
+   "price": {
+    "value": 58.99,
+    "valueMainUnit": "58",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5603~ ~~KUN~12/05/2026 16:20~CGN~12/05/2026 17:30~~",
+   "flightNumber": "FR5603",
+   "previousPrice": null,
+   "priceUpdated": 1792440966000
+  },
+  "summary": {
+   "price": {
+    "value": 58.99,
+    "valueMainUnit": "58",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
   }
  },
  {
@@ -2844,8 +2794,8 @@
    "departureDate": "2026-12-05T16:20:00",
    "arrivalDate": "2026-12-05T17:30:00",
    "price": {
-    "value": 66.99,
-    "valueMainUnit": "66",
+    "value": 59.99,
+    "valueMainUnit": "59",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2853,13 +2803,214 @@
    "flightKey": "FR~2972~ ~~KUN~12/05/2026 16:20~DUB~12/05/2026 17:30~~",
    "flightNumber": "FR2972",
    "previousPrice": null,
-   "priceUpdated": 1791800561000
+   "priceUpdated": 1792432362000
   },
   "summary": {
    "price": {
-    "value": 66.99,
-    "valueMainUnit": "66",
+    "value": 59.99,
+    "valueMainUnit": "59",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LPL",
+    "name": "Liverpool",
+    "seoName": "liverpool",
+    "city": {
+     "code": "LIVERPOOL",
+     "countryCode": "gb",
+     "name": "Liverpool"
+    }
+   },
+   "departureDate": "2026-12-07T18:10:00",
+   "arrivalDate": "2026-12-07T19:10:00",
+   "price": {
+    "value": 60.24,
+    "valueMainUnit": "60",
+    "valueFractionalUnit": "24",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5728~ ~~KUN~12/07/2026 18:10~LPL~12/07/2026 19:10~~",
+   "flightNumber": "FR5728",
+   "previousPrice": null,
+   "priceUpdated": 1792437699000
+  },
+  "summary": {
+   "price": {
+    "value": 60.24,
+    "valueMainUnit": "60",
+    "valueFractionalUnit": "24",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "EDI",
+    "name": "Edinburgh",
+    "seoName": "edinburgh",
+    "city": {
+     "code": "EDINBURGH",
+     "countryCode": "gb",
+     "name": "Edinburgh"
+    }
+   },
+   "departureDate": "2026-12-06T12:45:00",
+   "arrivalDate": "2026-12-06T13:40:00",
+   "price": {
+    "value": 62.5,
+    "valueMainUnit": "62",
+    "valueFractionalUnit": "50",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2885~ ~~KUN~12/06/2026 12:45~EDI~12/06/2026 13:40~~",
+   "flightNumber": "FR2885",
+   "previousPrice": null,
+   "priceUpdated": 1792437879000
+  },
+  "summary": {
+   "price": {
+    "value": 62.5,
+    "valueMainUnit": "62",
+    "valueFractionalUnit": "50",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LTN",
+    "name": "London Luton",
+    "seoName": "london-luton",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-07T11:10:00",
+   "arrivalDate": "2026-12-07T12:00:00",
+   "price": {
+    "value": 62.99,
+    "valueMainUnit": "62",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2145~ ~~KUN~12/07/2026 11:10~LTN~12/07/2026 12:00~~",
+   "flightNumber": "FR2145",
+   "previousPrice": null,
+   "priceUpdated": 1792436744000
+  },
+  "summary": {
+   "price": {
+    "value": 62.99,
+    "valueMainUnit": "62",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-07T15:30:00",
+   "arrivalDate": "2026-12-07T18:55:00",
+   "price": {
+    "value": 74.72,
+    "valueMainUnit": "74",
+    "valueFractionalUnit": "72",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5502~ ~~KUN~12/07/2026 15:30~AGP~12/07/2026 18:55~~",
+   "flightNumber": "FR5502",
+   "previousPrice": null,
+   "priceUpdated": 1792405462000
+  },
+  "summary": {
+   "price": {
+    "value": 74.72,
+    "valueMainUnit": "74",
+    "valueFractionalUnit": "72",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2894,8 +3045,8 @@
    "departureDate": "2026-12-04T10:55:00",
    "arrivalDate": "2026-12-04T12:20:00",
    "price": {
-    "value": 72.99,
-    "valueMainUnit": "72",
+    "value": 74.99,
+    "valueMainUnit": "74",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2903,68 +3054,18 @@
    "flightKey": "FR~9293~ ~~KUN~12/04/2026 10:55~BGY~12/04/2026 12:20~~",
    "flightNumber": "FR9293",
    "previousPrice": null,
-   "priceUpdated": 1791800562000
+   "priceUpdated": 1792419269000
   },
   "summary": {
    "price": {
-    "value": 72.99,
-    "valueMainUnit": "72",
+    "value": 74.99,
+    "valueMainUnit": "74",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "EDI",
-    "name": "Edinburgh",
-    "seoName": "edinburgh",
-    "city": {
-     "code": "EDINBURGH",
-     "countryCode": "gb",
-     "name": "Edinburgh"
-    }
-   },
-   "departureDate": "2026-12-06T12:45:00",
-   "arrivalDate": "2026-12-06T13:40:00",
-   "price": {
-    "value": 75.31,
-    "valueMainUnit": "75",
-    "valueFractionalUnit": "31",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2885~ ~~KUN~12/06/2026 12:45~EDI~12/06/2026 13:40~~",
-   "flightNumber": "FR2885",
-   "previousPrice": null,
-   "priceUpdated": 1791800563000
-  },
-  "summary": {
-   "price": {
-    "value": 75.31,
-    "valueMainUnit": "75",
-    "valueFractionalUnit": "31",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
   }
  },
  {
@@ -3003,164 +3104,13 @@
    "flightKey": "FR~2972~ ~~KUN~12/06/2026 10:35~DUB~12/06/2026 11:45~~",
    "flightNumber": "FR2972",
    "previousPrice": null,
-   "priceUpdated": 1791800561000
+   "priceUpdated": 1792419268000
   },
   "summary": {
    "price": {
     "value": 78.99,
     "valueMainUnit": "78",
     "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LPL",
-    "name": "Liverpool",
-    "seoName": "liverpool",
-    "city": {
-     "code": "LIVERPOOL",
-     "countryCode": "gb",
-     "name": "Liverpool"
-    }
-   },
-   "departureDate": "2026-12-07T18:10:00",
-   "arrivalDate": "2026-12-07T19:10:00",
-   "price": {
-    "value": 82.09,
-    "valueMainUnit": "82",
-    "valueFractionalUnit": "09",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5728~ ~~KUN~12/07/2026 18:10~LPL~12/07/2026 19:10~~",
-   "flightNumber": "FR5728",
-   "previousPrice": null,
-   "priceUpdated": 1791800561000
-  },
-  "summary": {
-   "price": {
-    "value": 82.09,
-    "valueMainUnit": "82",
-    "valueFractionalUnit": "09",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LTN",
-    "name": "London Luton",
-    "seoName": "london-luton",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-07T11:10:00",
-   "arrivalDate": "2026-12-07T12:00:00",
-   "price": {
-    "value": 86.99,
-    "valueMainUnit": "86",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2145~ ~~KUN~12/07/2026 11:10~LTN~12/07/2026 12:00~~",
-   "flightNumber": "FR2145",
-   "previousPrice": null,
-   "priceUpdated": 1791803395000
-  },
-  "summary": {
-   "price": {
-    "value": 86.99,
-    "valueMainUnit": "86",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "SNN",
-    "name": "Shannon",
-    "seoName": "shannon",
-    "city": {
-     "code": "SHANNON",
-     "countryCode": "ie",
-     "name": "Shannon"
-    }
-   },
-   "departureDate": "2026-12-06T13:10:00",
-   "arrivalDate": "2026-12-06T14:35:00",
-   "price": {
-    "value": 95.19,
-    "valueMainUnit": "95",
-    "valueFractionalUnit": "19",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6431~ ~~KUN~12/06/2026 13:10~SNN~12/06/2026 14:35~~",
-   "flightNumber": "FR6431",
-   "previousPrice": null,
-   "priceUpdated": 1791800566000
-  },
-  "summary": {
-   "price": {
-    "value": 95.19,
-    "valueMainUnit": "95",
-    "valueFractionalUnit": "19",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -3195,22 +3145,22 @@
    "departureDate": "2026-12-07T18:05:00",
    "arrivalDate": "2026-12-07T21:00:00",
    "price": {
-    "value": 97.27,
-    "valueMainUnit": "97",
-    "valueFractionalUnit": "27",
+    "value": 81.48,
+    "valueMainUnit": "81",
+    "valueFractionalUnit": "48",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~6429~ ~~KUN~12/07/2026 18:05~ALC~12/07/2026 21:00~~",
    "flightNumber": "FR6429",
    "previousPrice": null,
-   "priceUpdated": 1791800563000
+   "priceUpdated": 1792405459000
   },
   "summary": {
    "price": {
-    "value": 97.27,
-    "valueMainUnit": "97",
-    "valueFractionalUnit": "27",
+    "value": 81.48,
+    "valueMainUnit": "81",
+    "valueFractionalUnit": "48",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -3245,22 +3195,122 @@
    "departureDate": "2026-12-06T15:05:00",
    "arrivalDate": "2026-12-06T16:05:00",
    "price": {
-    "value": 108.74,
-    "valueMainUnit": "108",
-    "valueFractionalUnit": "74",
+    "value": 82.09,
+    "valueMainUnit": "82",
+    "valueFractionalUnit": "09",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~5728~ ~~KUN~12/06/2026 15:05~LPL~12/06/2026 16:05~~",
    "flightNumber": "FR5728",
    "previousPrice": null,
-   "priceUpdated": 1791800560000
+   "priceUpdated": 1792405478000
   },
   "summary": {
    "price": {
-    "value": 108.74,
-    "valueMainUnit": "108",
-    "valueFractionalUnit": "74",
+    "value": 82.09,
+    "valueMainUnit": "82",
+    "valueFractionalUnit": "09",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "SNN",
+    "name": "Shannon",
+    "seoName": "shannon",
+    "city": {
+     "code": "SHANNON",
+     "countryCode": "ie",
+     "name": "Shannon"
+    }
+   },
+   "departureDate": "2026-12-06T13:10:00",
+   "arrivalDate": "2026-12-06T14:35:00",
+   "price": {
+    "value": 83.49,
+    "valueMainUnit": "83",
+    "valueFractionalUnit": "49",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6431~ ~~KUN~12/06/2026 13:10~SNN~12/06/2026 14:35~~",
+   "flightNumber": "FR6431",
+   "previousPrice": null,
+   "priceUpdated": 1792405477000
+  },
+  "summary": {
+   "price": {
+    "value": 83.49,
+    "valueMainUnit": "83",
+    "valueFractionalUnit": "49",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-04T07:40:00",
+   "arrivalDate": "2026-12-04T11:05:00",
+   "price": {
+    "value": 94.99,
+    "valueMainUnit": "94",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5502~ ~~KUN~12/04/2026 07:40~AGP~12/04/2026 11:05~~",
+   "flightNumber": "FR5502",
+   "previousPrice": null,
+   "priceUpdated": 1792436733000
+  },
+  "summary": {
+   "price": {
+    "value": 94.99,
+    "valueMainUnit": "94",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -3295,22 +3345,22 @@
    "departureDate": "2026-12-11T10:55:00",
    "arrivalDate": "2026-12-11T12:20:00",
    "price": {
-    "value": 110.64,
-    "valueMainUnit": "110",
-    "valueFractionalUnit": "64",
+    "value": 121.41,
+    "valueMainUnit": "121",
+    "valueFractionalUnit": "41",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~9293~ ~~KUN~12/11/2026 10:55~BGY~12/11/2026 12:20~~",
    "flightNumber": "FR9293",
    "previousPrice": null,
-   "priceUpdated": 1791800564000
+   "priceUpdated": 1792405463000
   },
   "summary": {
    "price": {
-    "value": 110.64,
-    "valueMainUnit": "110",
-    "valueFractionalUnit": "64",
+    "value": 121.41,
+    "valueMainUnit": "121",
+    "valueFractionalUnit": "41",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -3342,24 +3392,24 @@
      "name": "Malaga"
     }
    },
-   "departureDate": "2026-12-04T07:40:00",
-   "arrivalDate": "2026-12-04T11:05:00",
+   "departureDate": "2026-12-11T07:40:00",
+   "arrivalDate": "2026-12-11T11:05:00",
    "price": {
-    "value": 118.99,
-    "valueMainUnit": "118",
+    "value": 137.99,
+    "valueMainUnit": "137",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~5502~ ~~KUN~12/04/2026 07:40~AGP~12/04/2026 11:05~~",
+   "flightKey": "FR~5502~ ~~KUN~12/11/2026 07:40~AGP~12/11/2026 11:05~~",
    "flightNumber": "FR5502",
    "previousPrice": null,
-   "priceUpdated": 1791803396000
+   "priceUpdated": 1792441990000
   },
   "summary": {
    "price": {
-    "value": 118.99,
-    "valueMainUnit": "118",
+    "value": 137.99,
+    "valueMainUnit": "137",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3382,34 +3432,34 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
+    "countryName": "Denmark",
+    "iataCode": "CPH",
+    "name": "Copenhagen",
+    "seoName": "copenhagen",
     "city": {
-     "code": "MALAGA",
-     "countryCode": "es",
-     "name": "Malaga"
+     "code": "COPENHAGEN",
+     "countryCode": "dk",
+     "name": "Copenhagen"
     }
    },
-   "departureDate": "2026-12-11T07:40:00",
-   "arrivalDate": "2026-12-11T11:05:00",
+   "departureDate": "2026-12-12T21:25:00",
+   "arrivalDate": "2026-12-12T21:55:00",
    "price": {
-    "value": 168.99,
-    "valueMainUnit": "168",
+    "value": 14.99,
+    "valueMainUnit": "14",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~5502~ ~~KUN~12/11/2026 07:40~AGP~12/11/2026 11:05~~",
-   "flightNumber": "FR5502",
+   "flightKey": "FR~6156~ ~~KUN~12/12/2026 21:25~CPH~12/12/2026 21:55~~",
+   "flightNumber": "FR6156",
    "previousPrice": null,
-   "priceUpdated": 1791800562000
+   "priceUpdated": 1792436824000
   },
   "summary": {
    "price": {
-    "value": 168.99,
-    "valueMainUnit": "168",
+    "value": 14.99,
+    "valueMainUnit": "14",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3454,7 +3504,7 @@
    "flightKey": "FR~7621~ ~~KUN~12/14/2026 06:10~CPH~12/14/2026 06:40~~",
    "flightNumber": "FR7621",
    "previousPrice": null,
-   "priceUpdated": 1791800564000
+   "priceUpdated": 1792434012000
   },
   "summary": {
    "price": {
@@ -3504,7 +3554,7 @@
    "flightKey": "FR~6156~ ~~KUN~12/15/2026 14:35~CPH~12/15/2026 15:05~~",
    "flightNumber": "FR6156",
    "previousPrice": null,
-   "priceUpdated": 1791800562000
+   "priceUpdated": 1792434041000
   },
   "summary": {
    "price": {
@@ -3542,8 +3592,8 @@
      "name": "Copenhagen"
     }
    },
-   "departureDate": "2026-12-16T21:00:00",
-   "arrivalDate": "2026-12-16T21:30:00",
+   "departureDate": "2026-12-17T17:10:00",
+   "arrivalDate": "2026-12-17T17:40:00",
    "price": {
     "value": 14.99,
     "valueMainUnit": "14",
@@ -3551,10 +3601,111 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6156~ ~~KUN~12/16/2026 21:00~CPH~12/16/2026 21:30~~",
+   "flightKey": "FR~6156~ ~~KUN~12/17/2026 17:10~CPH~12/17/2026 17:40~~",
    "flightNumber": "FR6156",
    "previousPrice": null,
-   "priceUpdated": 1791800562000
+   "priceUpdated": 1792434037000
+  },
+  "summary": {
+   "price": {
+    "value": 14.99,
+    "valueMainUnit": "14",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Denmark",
+    "iataCode": "CPH",
+    "name": "Copenhagen",
+    "seoName": "copenhagen",
+    "city": {
+     "code": "COPENHAGEN",
+     "countryCode": "dk",
+     "name": "Copenhagen"
+    }
+   },
+   "departureDate": "2026-12-18T06:25:00",
+   "arrivalDate": "2026-12-18T06:55:00",
+   "price": {
+    "value": 14.99,
+    "valueMainUnit": "14",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6156~ ~~KUN~12/18/2026 06:25~CPH~12/18/2026 06:55~~",
+   "flightNumber": "FR6156",
+   "previousPrice": null,
+   "priceUpdated": 1792434009000
+  },
+  "summary": {
+   "price": {
+    "value": 14.99,
+    "valueMainUnit": "14",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Sweden",
+    "iataCode": "ARN",
+    "name": "Stockholm Arlanda",
+    "seoName": "stockholm-arlandia",
+    "city": {
+     "code": "STOCKHOLM",
+     "countryCode": "se",
+     "macCode": "SLM",
+     "name": "Stockholm"
+    }
+   },
+   "departureDate": "2026-12-13T07:00:00",
+   "arrivalDate": "2026-12-13T07:25:00",
+   "price": {
+    "value": 14.99,
+    "valueMainUnit": "14",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4653~ ~~KUN~12/13/2026 07:00~ARN~12/13/2026 07:25~~",
+   "flightNumber": "FR4653",
+   "previousPrice": null,
+   "priceUpdated": 1792434037000
   },
   "summary": {
    "price": {
@@ -3605,7 +3756,7 @@
    "flightKey": "FR~4606~ ~~KUN~12/14/2026 14:30~ARN~12/14/2026 14:55~~",
    "flightNumber": "FR4606",
    "previousPrice": null,
-   "priceUpdated": 1791800562000
+   "priceUpdated": 1792419871000
   },
   "summary": {
    "price": {
@@ -3656,12 +3807,162 @@
    "flightKey": "FR~4606~ ~~KUN~12/17/2026 16:35~ARN~12/17/2026 17:00~~",
    "flightNumber": "FR4606",
    "previousPrice": null,
-   "priceUpdated": 1791800563000
+   "priceUpdated": 1792434009000
   },
   "summary": {
    "price": {
     "value": 14.99,
     "valueMainUnit": "14",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Denmark",
+    "iataCode": "CPH",
+    "name": "Copenhagen",
+    "seoName": "copenhagen",
+    "city": {
+     "code": "COPENHAGEN",
+     "countryCode": "dk",
+     "name": "Copenhagen"
+    }
+   },
+   "departureDate": "2026-12-16T21:00:00",
+   "arrivalDate": "2026-12-16T21:30:00",
+   "price": {
+    "value": 15.34,
+    "valueMainUnit": "15",
+    "valueFractionalUnit": "34",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6156~ ~~KUN~12/16/2026 21:00~CPH~12/16/2026 21:30~~",
+   "flightNumber": "FR6156",
+   "previousPrice": null,
+   "priceUpdated": 1792434006000
+  },
+  "summary": {
+   "price": {
+    "value": 15.34,
+    "valueMainUnit": "15",
+    "valueFractionalUnit": "34",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LPL",
+    "name": "Liverpool",
+    "seoName": "liverpool",
+    "city": {
+     "code": "LIVERPOOL",
+     "countryCode": "gb",
+     "name": "Liverpool"
+    }
+   },
+   "departureDate": "2026-12-17T12:30:00",
+   "arrivalDate": "2026-12-17T13:30:00",
+   "price": {
+    "value": 16.99,
+    "valueMainUnit": "16",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5728~ ~~KUN~12/17/2026 12:30~LPL~12/17/2026 13:30~~",
+   "flightNumber": "FR5728",
+   "previousPrice": null,
+   "priceUpdated": 1792434256000
+  },
+  "summary": {
+   "price": {
+    "value": 16.99,
+    "valueMainUnit": "16",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LPL",
+    "name": "Liverpool",
+    "seoName": "liverpool",
+    "city": {
+     "code": "LIVERPOOL",
+     "countryCode": "gb",
+     "name": "Liverpool"
+    }
+   },
+   "departureDate": "2026-12-18T06:15:00",
+   "arrivalDate": "2026-12-18T07:15:00",
+   "price": {
+    "value": 16.99,
+    "valueMainUnit": "16",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5728~ ~~KUN~12/18/2026 06:15~LPL~12/18/2026 07:15~~",
+   "flightNumber": "FR5728",
+   "previousPrice": null,
+   "priceUpdated": 1792434004000
+  },
+  "summary": {
+   "price": {
+    "value": 16.99,
+    "valueMainUnit": "16",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3695,175 +3996,25 @@
      "name": "Stockholm"
     }
    },
-   "departureDate": "2026-12-13T07:00:00",
-   "arrivalDate": "2026-12-13T07:25:00",
+   "departureDate": "2026-12-18T13:15:00",
+   "arrivalDate": "2026-12-18T13:40:00",
    "price": {
-    "value": 15.85,
-    "valueMainUnit": "15",
-    "valueFractionalUnit": "85",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4653~ ~~KUN~12/13/2026 07:00~ARN~12/13/2026 07:25~~",
-   "flightNumber": "FR4653",
-   "previousPrice": null,
-   "priceUpdated": 1791800565000
-  },
-  "summary": {
-   "price": {
-    "value": 15.85,
-    "valueMainUnit": "15",
-    "valueFractionalUnit": "85",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Denmark",
-    "iataCode": "CPH",
-    "name": "Copenhagen",
-    "seoName": "copenhagen",
-    "city": {
-     "code": "COPENHAGEN",
-     "countryCode": "dk",
-     "name": "Copenhagen"
-    }
-   },
-   "departureDate": "2026-12-17T17:10:00",
-   "arrivalDate": "2026-12-17T17:40:00",
-   "price": {
-    "value": 15.99,
-    "valueMainUnit": "15",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6156~ ~~KUN~12/17/2026 17:10~CPH~12/17/2026 17:40~~",
-   "flightNumber": "FR6156",
-   "previousPrice": null,
-   "priceUpdated": 1791800563000
-  },
-  "summary": {
-   "price": {
-    "value": 15.99,
-    "valueMainUnit": "15",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Denmark",
-    "iataCode": "CPH",
-    "name": "Copenhagen",
-    "seoName": "copenhagen",
-    "city": {
-     "code": "COPENHAGEN",
-     "countryCode": "dk",
-     "name": "Copenhagen"
-    }
-   },
-   "departureDate": "2026-12-12T21:25:00",
-   "arrivalDate": "2026-12-12T21:55:00",
-   "price": {
-    "value": 16.99,
-    "valueMainUnit": "16",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6156~ ~~KUN~12/12/2026 21:25~CPH~12/12/2026 21:55~~",
-   "flightNumber": "FR6156",
-   "previousPrice": null,
-   "priceUpdated": 1791800562000
-  },
-  "summary": {
-   "price": {
-    "value": 16.99,
-    "valueMainUnit": "16",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
-    "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
-    }
-   },
-   "departureDate": "2026-12-13T06:00:00",
-   "arrivalDate": "2026-12-13T07:25:00",
-   "price": {
-    "value": 17.99,
+    "value": 17.35,
     "valueMainUnit": "17",
-    "valueFractionalUnit": "99",
+    "valueFractionalUnit": "35",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 939~ ~~KUN~12/13/2026 06:00~CRL~12/13/2026 07:25~~",
-   "flightNumber": "FR939",
+   "flightKey": "FR~4606~ ~~KUN~12/18/2026 13:15~ARN~12/18/2026 13:40~~",
+   "flightNumber": "FR4606",
    "previousPrice": null,
-   "priceUpdated": 1791800561000
+   "priceUpdated": 1792405433000
   },
   "summary": {
    "price": {
-    "value": 17.99,
+    "value": 17.35,
     "valueMainUnit": "17",
-    "valueFractionalUnit": "99",
+    "valueFractionalUnit": "35",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -3899,8 +4050,8 @@
    "departureDate": "2026-12-17T22:35:00",
    "arrivalDate": "2026-12-17T23:20:00",
    "price": {
-    "value": 19.99,
-    "valueMainUnit": "19",
+    "value": 17.99,
+    "valueMainUnit": "17",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3908,68 +4059,18 @@
    "flightKey": "FR~2745~ ~~KUN~12/17/2026 22:35~STN~12/17/2026 23:20~~",
    "flightNumber": "FR2745",
    "previousPrice": null,
-   "priceUpdated": 1791800566000
+   "priceUpdated": 1792434034000
   },
   "summary": {
    "price": {
-    "value": 19.99,
-    "valueMainUnit": "19",
+    "value": 17.99,
+    "valueMainUnit": "17",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-15T17:15:00",
-   "arrivalDate": "2026-12-15T18:40:00",
-   "price": {
-    "value": 19.99,
-    "valueMainUnit": "19",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~9293~ ~~KUN~12/15/2026 17:15~BGY~12/15/2026 18:40~~",
-   "flightNumber": "FR9293",
-   "previousPrice": null,
-   "priceUpdated": 1791800564000
-  },
-  "summary": {
-   "price": {
-    "value": 19.99,
-    "valueMainUnit": "19",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
   }
  },
  {
@@ -3996,25 +4097,75 @@
      "name": "Copenhagen"
     }
    },
-   "departureDate": "2026-12-18T06:25:00",
-   "arrivalDate": "2026-12-18T06:55:00",
+   "departureDate": "2026-12-13T19:25:00",
+   "arrivalDate": "2026-12-13T19:55:00",
    "price": {
-    "value": 20.29,
-    "valueMainUnit": "20",
-    "valueFractionalUnit": "29",
+    "value": 19.49,
+    "valueMainUnit": "19",
+    "valueFractionalUnit": "49",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6156~ ~~KUN~12/18/2026 06:25~CPH~12/18/2026 06:55~~",
+   "flightKey": "FR~6156~ ~~KUN~12/13/2026 19:25~CPH~12/13/2026 19:55~~",
    "flightNumber": "FR6156",
    "previousPrice": null,
-   "priceUpdated": 1791800560000
+   "priceUpdated": 1792440316000
   },
   "summary": {
    "price": {
-    "value": 20.29,
-    "valueMainUnit": "20",
-    "valueFractionalUnit": "29",
+    "value": 19.49,
+    "valueMainUnit": "19",
+    "valueFractionalUnit": "49",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
+    "city": {
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
+    }
+   },
+   "departureDate": "2026-12-13T06:00:00",
+   "arrivalDate": "2026-12-13T07:25:00",
+   "price": {
+    "value": 19.99,
+    "valueMainUnit": "19",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 939~ ~~KUN~12/13/2026 06:00~CRL~12/13/2026 07:25~~",
+   "flightNumber": "FR939",
+   "previousPrice": null,
+   "priceUpdated": 1792434033000
+  },
+  "summary": {
+   "price": {
+    "value": 19.99,
+    "valueMainUnit": "19",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -4047,8 +4198,8 @@
      "name": "London"
     }
    },
-   "departureDate": "2026-12-15T11:45:00",
-   "arrivalDate": "2026-12-15T12:35:00",
+   "departureDate": "2026-12-15T21:10:00",
+   "arrivalDate": "2026-12-15T22:00:00",
    "price": {
     "value": 21.99,
     "valueMainUnit": "21",
@@ -4056,10 +4207,10 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2145~ ~~KUN~12/15/2026 11:45~LTN~12/15/2026 12:35~~",
-   "flightNumber": "FR2145",
+   "flightKey": "FR~2364~ ~~KUN~12/15/2026 21:10~LTN~12/15/2026 22:00~~",
+   "flightNumber": "FR2364",
    "previousPrice": null,
-   "priceUpdated": 1791800563000
+   "priceUpdated": 1792434033000
   },
   "summary": {
    "price": {
@@ -4110,7 +4261,7 @@
    "flightKey": "FR~2145~ ~~KUN~12/16/2026 16:05~LTN~12/16/2026 16:55~~",
    "flightNumber": "FR2145",
    "previousPrice": null,
-   "priceUpdated": 1791800565000
+   "priceUpdated": 1792434001000
   },
   "summary": {
    "price": {
@@ -4138,170 +4289,18 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
+    "countryName": "Denmark",
+    "iataCode": "CPH",
+    "name": "Copenhagen",
+    "seoName": "copenhagen",
     "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
+     "code": "COPENHAGEN",
+     "countryCode": "dk",
+     "name": "Copenhagen"
     }
    },
-   "departureDate": "2026-12-13T22:50:00",
-   "arrivalDate": "2026-12-13T23:35:00",
-   "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4940~ ~~KUN~12/13/2026 22:50~STN~12/13/2026 23:35~~",
-   "flightNumber": "FR4940",
-   "previousPrice": null,
-   "priceUpdated": 1791800567000
-  },
-  "summary": {
-   "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-14T07:45:00",
-   "arrivalDate": "2026-12-14T08:30:00",
-   "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2745~ ~~KUN~12/14/2026 07:45~STN~12/14/2026 08:30~~",
-   "flightNumber": "FR2745",
-   "previousPrice": null,
-   "priceUpdated": 1791800565000
-  },
-  "summary": {
-   "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LPL",
-    "name": "Liverpool",
-    "seoName": "liverpool",
-    "city": {
-     "code": "LIVERPOOL",
-     "countryCode": "gb",
-     "name": "Liverpool"
-    }
-   },
-   "departureDate": "2026-12-18T06:15:00",
-   "arrivalDate": "2026-12-18T07:15:00",
-   "price": {
-    "value": 22.77,
-    "valueMainUnit": "22",
-    "valueFractionalUnit": "77",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5728~ ~~KUN~12/18/2026 06:15~LPL~12/18/2026 07:15~~",
-   "flightNumber": "FR5728",
-   "previousPrice": null,
-   "priceUpdated": 1791800561000
-  },
-  "summary": {
-   "price": {
-    "value": 22.77,
-    "valueMainUnit": "22",
-    "valueFractionalUnit": "77",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Germany",
-    "iataCode": "CGN",
-    "name": "Cologne",
-    "seoName": "cologne-bonn",
-    "city": {
-     "code": "COLOGNE",
-     "countryCode": "de",
-     "name": "Cologne"
-    }
-   },
-   "departureDate": "2026-12-14T10:00:00",
-   "arrivalDate": "2026-12-14T11:10:00",
+   "departureDate": "2026-12-19T21:25:00",
+   "arrivalDate": "2026-12-19T21:55:00",
    "price": {
     "value": 22.99,
     "valueMainUnit": "22",
@@ -4309,10 +4308,10 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~5603~ ~~KUN~12/14/2026 10:00~CGN~12/14/2026 11:10~~",
-   "flightNumber": "FR5603",
+   "flightKey": "FR~6156~ ~~KUN~12/19/2026 21:25~CPH~12/19/2026 21:55~~",
+   "flightNumber": "FR6156",
    "previousPrice": null,
-   "priceUpdated": 1791800563000
+   "priceUpdated": 1792436764000
   },
   "summary": {
    "price": {
@@ -4351,25 +4350,25 @@
      "name": "London"
     }
    },
-   "departureDate": "2026-12-12T17:15:00",
-   "arrivalDate": "2026-12-12T18:05:00",
+   "departureDate": "2026-12-12T11:05:00",
+   "arrivalDate": "2026-12-12T11:55:00",
    "price": {
-    "value": 23.32,
-    "valueMainUnit": "23",
-    "valueFractionalUnit": "32",
+    "value": 24.66,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "66",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2364~ ~~KUN~12/12/2026 17:15~LTN~12/12/2026 18:05~~",
-   "flightNumber": "FR2364",
+   "flightKey": "FR~2145~ ~~KUN~12/12/2026 11:05~LTN~12/12/2026 11:55~~",
+   "flightNumber": "FR2145",
    "previousPrice": null,
-   "priceUpdated": 1791800562000
+   "priceUpdated": 1792434035000
   },
   "summary": {
    "price": {
-    "value": 23.32,
-    "valueMainUnit": "23",
-    "valueFractionalUnit": "32",
+    "value": 24.66,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "66",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -4391,136 +4390,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Denmark",
-    "iataCode": "CPH",
-    "name": "Copenhagen",
-    "seoName": "copenhagen",
+    "countryName": "Germany",
+    "iataCode": "CGN",
+    "name": "Cologne",
+    "seoName": "cologne-bonn",
     "city": {
-     "code": "COPENHAGEN",
-     "countryCode": "dk",
-     "name": "Copenhagen"
+     "code": "COLOGNE",
+     "countryCode": "de",
+     "name": "Cologne"
     }
    },
-   "departureDate": "2026-12-19T21:25:00",
-   "arrivalDate": "2026-12-19T21:55:00",
+   "departureDate": "2026-12-14T10:00:00",
+   "arrivalDate": "2026-12-14T11:10:00",
    "price": {
-    "value": 23.99,
-    "valueMainUnit": "23",
-    "valueFractionalUnit": "99",
+    "value": 24.67,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "67",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6156~ ~~KUN~12/19/2026 21:25~CPH~12/19/2026 21:55~~",
-   "flightNumber": "FR6156",
+   "flightKey": "FR~5603~ ~~KUN~12/14/2026 10:00~CGN~12/14/2026 11:10~~",
+   "flightNumber": "FR5603",
    "previousPrice": null,
-   "priceUpdated": 1791800560000
+   "priceUpdated": 1792434915000
   },
   "summary": {
    "price": {
-    "value": 23.99,
-    "valueMainUnit": "23",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LPL",
-    "name": "Liverpool",
-    "seoName": "liverpool",
-    "city": {
-     "code": "LIVERPOOL",
-     "countryCode": "gb",
-     "name": "Liverpool"
-    }
-   },
-   "departureDate": "2026-12-17T12:30:00",
-   "arrivalDate": "2026-12-17T13:30:00",
-   "price": {
-    "value": 24.17,
+    "value": 24.67,
     "valueMainUnit": "24",
-    "valueFractionalUnit": "17",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5728~ ~~KUN~12/17/2026 12:30~LPL~12/17/2026 13:30~~",
-   "flightNumber": "FR5728",
-   "previousPrice": null,
-   "priceUpdated": 1791800563000
-  },
-  "summary": {
-   "price": {
-    "value": 24.17,
-    "valueMainUnit": "24",
-    "valueFractionalUnit": "17",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Sweden",
-    "iataCode": "ARN",
-    "name": "Stockholm Arlanda",
-    "seoName": "stockholm-arlandia",
-    "city": {
-     "code": "STOCKHOLM",
-     "countryCode": "se",
-     "macCode": "SLM",
-     "name": "Stockholm"
-    }
-   },
-   "departureDate": "2026-12-18T13:15:00",
-   "arrivalDate": "2026-12-18T13:40:00",
-   "price": {
-    "value": 24.63,
-    "valueMainUnit": "24",
-    "valueFractionalUnit": "63",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4606~ ~~KUN~12/18/2026 13:15~ARN~12/18/2026 13:40~~",
-   "flightNumber": "FR4606",
-   "previousPrice": null,
-   "priceUpdated": 1791800563000
-  },
-  "summary": {
-   "price": {
-    "value": 24.63,
-    "valueMainUnit": "24",
-    "valueFractionalUnit": "63",
+    "valueFractionalUnit": "67",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -4564,7 +4462,7 @@
    "flightKey": "FR~2885~ ~~KUN~12/14/2026 06:55~EDI~12/14/2026 07:50~~",
    "flightNumber": "FR2885",
    "previousPrice": null,
-   "priceUpdated": 1791800561000
+   "priceUpdated": 1792433990000
   },
   "summary": {
    "price": {
@@ -4592,18 +4490,69 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
+    "countryName": "United Kingdom",
+    "iataCode": "EDI",
+    "name": "Edinburgh",
+    "seoName": "edinburgh",
     "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
+     "code": "EDINBURGH",
+     "countryCode": "gb",
+     "name": "Edinburgh"
     }
    },
-   "departureDate": "2026-12-18T10:25:00",
-   "arrivalDate": "2026-12-18T11:50:00",
+   "departureDate": "2026-12-13T12:45:00",
+   "arrivalDate": "2026-12-13T13:40:00",
+   "price": {
+    "value": 25.9,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "90",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2885~ ~~KUN~12/13/2026 12:45~EDI~12/13/2026 13:40~~",
+   "flightNumber": "FR2885",
+   "previousPrice": null,
+   "priceUpdated": 1792436863000
+  },
+  "summary": {
+   "price": {
+    "value": 25.9,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "90",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LTN",
+    "name": "London Luton",
+    "seoName": "london-luton",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-17T13:05:00",
+   "arrivalDate": "2026-12-17T13:55:00",
    "price": {
     "value": 26.99,
     "valueMainUnit": "26",
@@ -4611,10 +4560,10 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 939~ ~~KUN~12/18/2026 10:25~CRL~12/18/2026 11:50~~",
-   "flightNumber": "FR939",
+   "flightKey": "FR~2145~ ~~KUN~12/17/2026 13:05~LTN~12/17/2026 13:55~~",
+   "flightNumber": "FR2145",
    "previousPrice": null,
-   "priceUpdated": 1791800561000
+   "priceUpdated": 1792434009000
   },
   "summary": {
    "price": {
@@ -4643,9 +4592,9 @@
    },
    "arrivalAirport": {
     "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
+    "iataCode": "LTN",
+    "name": "London Luton",
+    "seoName": "london-luton",
     "city": {
      "code": "LONDON",
      "countryCode": "gb",
@@ -4653,25 +4602,25 @@
      "name": "London"
     }
    },
-   "departureDate": "2026-12-12T09:45:00",
-   "arrivalDate": "2026-12-12T10:30:00",
+   "departureDate": "2026-12-18T11:30:00",
+   "arrivalDate": "2026-12-18T12:20:00",
    "price": {
-    "value": 27.46,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "46",
+    "value": 26.99,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2745~ ~~KUN~12/12/2026 09:45~STN~12/12/2026 10:30~~",
-   "flightNumber": "FR2745",
+   "flightKey": "FR~2145~ ~~KUN~12/18/2026 11:30~LTN~12/18/2026 12:20~~",
+   "flightNumber": "FR2145",
    "previousPrice": null,
-   "priceUpdated": 1791800567000
+   "priceUpdated": 1792419442000
   },
   "summary": {
    "price": {
-    "value": 27.46,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "46",
+    "value": 26.99,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -4707,8 +4656,8 @@
    "departureDate": "2026-12-16T08:00:00",
    "arrivalDate": "2026-12-16T08:45:00",
    "price": {
-    "value": 27.99,
-    "valueMainUnit": "27",
+    "value": 26.99,
+    "valueMainUnit": "26",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4716,12 +4665,12 @@
    "flightKey": "FR~2745~ ~~KUN~12/16/2026 08:00~STN~12/16/2026 08:45~~",
    "flightNumber": "FR2745",
    "previousPrice": null,
-   "priceUpdated": 1791800564000
+   "priceUpdated": 1792419383000
   },
   "summary": {
    "price": {
-    "value": 27.99,
-    "valueMainUnit": "27",
+    "value": 26.99,
+    "valueMainUnit": "26",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4758,8 +4707,8 @@
    "departureDate": "2026-12-18T12:05:00",
    "arrivalDate": "2026-12-18T12:50:00",
    "price": {
-    "value": 27.99,
-    "valueMainUnit": "27",
+    "value": 26.99,
+    "valueMainUnit": "26",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4767,12 +4716,12 @@
    "flightKey": "FR~2745~ ~~KUN~12/18/2026 12:05~STN~12/18/2026 12:50~~",
    "flightNumber": "FR2745",
    "previousPrice": null,
-   "priceUpdated": 1791802365000
+   "priceUpdated": 1792419410000
   },
   "summary": {
    "price": {
-    "value": 27.99,
-    "valueMainUnit": "27",
+    "value": 26.99,
+    "valueMainUnit": "26",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4796,9 +4745,9 @@
    },
    "arrivalAirport": {
     "countryName": "United Kingdom",
-    "iataCode": "LTN",
-    "name": "London Luton",
-    "seoName": "london-luton",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
     "city": {
      "code": "LONDON",
      "countryCode": "gb",
@@ -4806,76 +4755,25 @@
      "name": "London"
     }
    },
-   "departureDate": "2026-12-17T13:05:00",
-   "arrivalDate": "2026-12-17T13:55:00",
+   "departureDate": "2026-12-14T07:45:00",
+   "arrivalDate": "2026-12-14T08:30:00",
    "price": {
-    "value": 29.4,
-    "valueMainUnit": "29",
+    "value": 28.4,
+    "valueMainUnit": "28",
     "valueFractionalUnit": "40",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2145~ ~~KUN~12/17/2026 13:05~LTN~12/17/2026 13:55~~",
-   "flightNumber": "FR2145",
+   "flightKey": "FR~2745~ ~~KUN~12/14/2026 07:45~STN~12/14/2026 08:30~~",
+   "flightNumber": "FR2745",
    "previousPrice": null,
-   "priceUpdated": 1791800565000
+   "priceUpdated": 1792405493000
   },
   "summary": {
    "price": {
-    "value": 29.4,
-    "valueMainUnit": "29",
+    "value": 28.4,
+    "valueMainUnit": "28",
     "valueFractionalUnit": "40",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LTN",
-    "name": "London Luton",
-    "seoName": "london-luton",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-18T11:30:00",
-   "arrivalDate": "2026-12-18T12:20:00",
-   "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2145~ ~~KUN~12/18/2026 11:30~LTN~12/18/2026 12:20~~",
-   "flightNumber": "FR2145",
-   "previousPrice": null,
-   "priceUpdated": 1791802362000
-  },
-  "summary": {
-   "price": {
-    "value": 29.99,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -4910,8 +4808,8 @@
    "departureDate": "2026-12-17T22:45:00",
    "arrivalDate": "2026-12-18T00:10:00",
    "price": {
-    "value": 30.44,
-    "valueMainUnit": "30",
+    "value": 29.44,
+    "valueMainUnit": "29",
     "valueFractionalUnit": "44",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4919,12 +4817,12 @@
    "flightKey": "FR~6431~ ~~KUN~12/17/2026 22:45~SNN~12/18/2026 00:10~~",
    "flightNumber": "FR6431",
    "previousPrice": null,
-   "priceUpdated": 1791800567000
+   "priceUpdated": 1792413183000
   },
   "summary": {
    "price": {
-    "value": 30.44,
-    "valueMainUnit": "30",
+    "value": 29.44,
+    "valueMainUnit": "29",
     "valueFractionalUnit": "44",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4947,35 +4845,36 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Cyprus",
-    "iataCode": "PFO",
-    "name": "Paphos",
-    "seoName": "paphos",
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
     "city": {
-     "code": "PAPHOS",
-     "countryCode": "cy",
-     "name": "Paphos"
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
     }
    },
-   "departureDate": "2026-12-14T13:50:00",
-   "arrivalDate": "2026-12-14T17:25:00",
+   "departureDate": "2026-12-12T09:45:00",
+   "arrivalDate": "2026-12-12T10:30:00",
    "price": {
-    "value": 31.99,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "99",
+    "value": 29.46,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "46",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~9114~ ~~KUN~12/14/2026 13:50~PFO~12/14/2026 17:25~~",
-   "flightNumber": "FR9114",
+   "flightKey": "FR~2745~ ~~KUN~12/12/2026 09:45~STN~12/12/2026 10:30~~",
+   "flightNumber": "FR2745",
    "previousPrice": null,
-   "priceUpdated": 1791800560000
+   "priceUpdated": 1792405430000
   },
   "summary": {
    "price": {
-    "value": 31.99,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "99",
+    "value": 29.46,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "46",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -5010,8 +4909,8 @@
    "departureDate": "2026-12-18T16:50:00",
    "arrivalDate": "2026-12-18T17:50:00",
    "price": {
-    "value": 34.99,
-    "valueMainUnit": "34",
+    "value": 29.99,
+    "valueMainUnit": "29",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -5019,12 +4918,62 @@
    "flightKey": "FR~8682~ ~~KUN~12/18/2026 16:50~BRS~12/18/2026 17:50~~",
    "flightNumber": "FR8682",
    "previousPrice": null,
-   "priceUpdated": 1791802361000
+   "priceUpdated": 1792419870000
   },
   "summary": {
    "price": {
-    "value": 34.99,
-    "valueMainUnit": "34",
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
+    "city": {
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
+    }
+   },
+   "departureDate": "2026-12-18T10:25:00",
+   "arrivalDate": "2026-12-18T11:50:00",
+   "price": {
+    "value": 33.99,
+    "valueMainUnit": "33",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 939~ ~~KUN~12/18/2026 10:25~CRL~12/18/2026 11:50~~",
+   "flightNumber": "FR939",
+   "previousPrice": null,
+   "priceUpdated": 1792436790000
+  },
+  "summary": {
+   "price": {
+    "value": 33.99,
+    "valueMainUnit": "33",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -5048,34 +4997,35 @@
    },
    "arrivalAirport": {
     "countryName": "United Kingdom",
-    "iataCode": "EDI",
-    "name": "Edinburgh",
-    "seoName": "edinburgh",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
     "city": {
-     "code": "EDINBURGH",
+     "code": "LONDON",
      "countryCode": "gb",
-     "name": "Edinburgh"
+     "macCode": "LON",
+     "name": "London"
     }
    },
-   "departureDate": "2026-12-13T12:45:00",
-   "arrivalDate": "2026-12-13T13:40:00",
+   "departureDate": "2026-12-13T22:50:00",
+   "arrivalDate": "2026-12-13T23:35:00",
    "price": {
-    "value": 35.13,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "13",
+    "value": 34.75,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "75",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2885~ ~~KUN~12/13/2026 12:45~EDI~12/13/2026 13:40~~",
-   "flightNumber": "FR2885",
+   "flightKey": "FR~4940~ ~~KUN~12/13/2026 22:50~STN~12/13/2026 23:35~~",
+   "flightNumber": "FR4940",
    "previousPrice": null,
-   "priceUpdated": 1791800563000
+   "priceUpdated": 1792405427000
   },
   "summary": {
    "price": {
-    "value": 35.13,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "13",
+    "value": 34.75,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "75",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -5097,35 +5047,86 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
+    "countryName": "Cyprus",
+    "iataCode": "PFO",
+    "name": "Paphos",
+    "seoName": "paphos",
     "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
+     "code": "PAPHOS",
+     "countryCode": "cy",
+     "name": "Paphos"
     }
    },
-   "departureDate": "2026-12-13T12:15:00",
-   "arrivalDate": "2026-12-13T15:10:00",
+   "departureDate": "2026-12-14T13:50:00",
+   "arrivalDate": "2026-12-14T17:25:00",
    "price": {
-    "value": 37.85,
-    "valueMainUnit": "37",
-    "valueFractionalUnit": "85",
+    "value": 34.99,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6429~ ~~KUN~12/13/2026 12:15~ALC~12/13/2026 15:10~~",
-   "flightNumber": "FR6429",
+   "flightKey": "FR~9114~ ~~KUN~12/14/2026 13:50~PFO~12/14/2026 17:25~~",
+   "flightNumber": "FR9114",
    "previousPrice": null,
-   "priceUpdated": 1791800564000
+   "priceUpdated": 1792434006000
   },
   "summary": {
    "price": {
-    "value": 37.85,
-    "valueMainUnit": "37",
-    "valueFractionalUnit": "85",
+    "value": 34.99,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Sweden",
+    "iataCode": "ARN",
+    "name": "Stockholm Arlanda",
+    "seoName": "stockholm-arlandia",
+    "city": {
+     "code": "STOCKHOLM",
+     "countryCode": "se",
+     "macCode": "SLM",
+     "name": "Stockholm"
+    }
+   },
+   "departureDate": "2026-12-19T06:10:00",
+   "arrivalDate": "2026-12-19T06:35:00",
+   "price": {
+    "value": 38.14,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "14",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4606~ ~~KUN~12/19/2026 06:10~ARN~12/19/2026 06:35~~",
+   "flightNumber": "FR4606",
+   "previousPrice": null,
+   "priceUpdated": 1792430772000
+  },
+  "summary": {
+   "price": {
+    "value": 38.14,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "14",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -5157,24 +5158,24 @@
      "name": "Bergamo"
     }
    },
-   "departureDate": "2026-12-17T08:35:00",
-   "arrivalDate": "2026-12-17T10:00:00",
+   "departureDate": "2026-12-15T17:15:00",
+   "arrivalDate": "2026-12-15T18:40:00",
    "price": {
-    "value": 37.99,
-    "valueMainUnit": "37",
+    "value": 39.99,
+    "valueMainUnit": "39",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~9293~ ~~KUN~12/17/2026 08:35~BGY~12/17/2026 10:00~~",
+   "flightKey": "FR~9293~ ~~KUN~12/15/2026 17:15~BGY~12/15/2026 18:40~~",
    "flightNumber": "FR9293",
    "previousPrice": null,
-   "priceUpdated": 1791800565000
+   "priceUpdated": 1792441978000
   },
   "summary": {
    "price": {
-    "value": 37.99,
-    "valueMainUnit": "37",
+    "value": 39.99,
+    "valueMainUnit": "39",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -5197,36 +5198,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Sweden",
-    "iataCode": "ARN",
-    "name": "Stockholm Arlanda",
-    "seoName": "stockholm-arlandia",
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
     "city": {
-     "code": "STOCKHOLM",
-     "countryCode": "se",
-     "macCode": "SLM",
-     "name": "Stockholm"
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
     }
    },
-   "departureDate": "2026-12-19T06:10:00",
-   "arrivalDate": "2026-12-19T06:35:00",
+   "departureDate": "2026-12-13T12:15:00",
+   "arrivalDate": "2026-12-13T15:10:00",
    "price": {
-    "value": 39.86,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "86",
+    "value": 41.63,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "63",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~4606~ ~~KUN~12/19/2026 06:10~ARN~12/19/2026 06:35~~",
-   "flightNumber": "FR4606",
+   "flightKey": "FR~6429~ ~~KUN~12/13/2026 12:15~ALC~12/13/2026 15:10~~",
+   "flightNumber": "FR6429",
    "previousPrice": null,
-   "priceUpdated": 1791800563000
+   "priceUpdated": 1792404922000
   },
   "summary": {
    "price": {
-    "value": 39.86,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "86",
+    "value": 41.63,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "63",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -5249,34 +5249,33 @@
    },
    "arrivalAirport": {
     "countryName": "United Kingdom",
-    "iataCode": "LTN",
-    "name": "London Luton",
-    "seoName": "london-luton",
+    "iataCode": "LPL",
+    "name": "Liverpool",
+    "seoName": "liverpool",
     "city": {
-     "code": "LONDON",
+     "code": "LIVERPOOL",
      "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
+     "name": "Liverpool"
     }
    },
-   "departureDate": "2026-12-19T17:15:00",
-   "arrivalDate": "2026-12-19T18:05:00",
+   "departureDate": "2026-12-13T15:05:00",
+   "arrivalDate": "2026-12-13T16:05:00",
    "price": {
-    "value": 40.99,
-    "valueMainUnit": "40",
+    "value": 42.99,
+    "valueMainUnit": "42",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2364~ ~~KUN~12/19/2026 17:15~LTN~12/19/2026 18:05~~",
-   "flightNumber": "FR2364",
+   "flightKey": "FR~5728~ ~~KUN~12/13/2026 15:05~LPL~12/13/2026 16:05~~",
+   "flightNumber": "FR5728",
    "previousPrice": null,
-   "priceUpdated": 1791802364000
+   "priceUpdated": 1792435966000
   },
   "summary": {
    "price": {
-    "value": 40.99,
-    "valueMainUnit": "40",
+    "value": 42.99,
+    "valueMainUnit": "42",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -5322,13 +5321,63 @@
    "flightKey": "FR~2145~ ~~KUN~12/14/2026 11:10~LTN~12/14/2026 12:00~~",
    "flightNumber": "FR2145",
    "previousPrice": null,
-   "priceUpdated": 1791800562000
+   "priceUpdated": 1792419838000
   },
   "summary": {
    "price": {
     "value": 42.99,
     "valueMainUnit": "42",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Germany",
+    "iataCode": "CGN",
+    "name": "Cologne",
+    "seoName": "cologne-bonn",
+    "city": {
+     "code": "COLOGNE",
+     "countryCode": "de",
+     "name": "Cologne"
+    }
+   },
+   "departureDate": "2026-12-12T16:20:00",
+   "arrivalDate": "2026-12-12T17:30:00",
+   "price": {
+    "value": 43.12,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "12",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5603~ ~~KUN~12/12/2026 16:20~CGN~12/12/2026 17:30~~",
+   "flightNumber": "FR5603",
+   "previousPrice": null,
+   "priceUpdated": 1792439284000
+  },
+  "summary": {
+   "price": {
+    "value": 43.12,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "12",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -5364,8 +5413,8 @@
    "departureDate": "2026-12-13T22:55:00",
    "arrivalDate": "2026-12-13T23:45:00",
    "price": {
-    "value": 44.99,
-    "valueMainUnit": "44",
+    "value": 43.99,
+    "valueMainUnit": "43",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -5373,7 +5422,108 @@
    "flightKey": "FR~2145~ ~~KUN~12/13/2026 22:55~LTN~12/13/2026 23:45~~",
    "flightNumber": "FR2145",
    "previousPrice": null,
-   "priceUpdated": 1791800563000
+   "priceUpdated": 1792432465000
+  },
+  "summary": {
+   "price": {
+    "value": 43.99,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-13T18:00:00",
+   "arrivalDate": "2026-12-13T19:25:00",
+   "price": {
+    "value": 43.99,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9293~ ~~KUN~12/13/2026 18:00~BGY~12/13/2026 19:25~~",
+   "flightNumber": "FR9293",
+   "previousPrice": null,
+   "priceUpdated": 1792419387000
+  },
+  "summary": {
+   "price": {
+    "value": 43.99,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LTN",
+    "name": "London Luton",
+    "seoName": "london-luton",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-19T17:15:00",
+   "arrivalDate": "2026-12-19T18:05:00",
+   "price": {
+    "value": 44.99,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2364~ ~~KUN~12/19/2026 17:15~LTN~12/19/2026 18:05~~",
+   "flightNumber": "FR2364",
+   "previousPrice": null,
+   "priceUpdated": 1792429745000
   },
   "summary": {
    "price": {
@@ -5411,8 +5561,8 @@
      "name": "Bergamo"
     }
    },
-   "departureDate": "2026-12-13T18:00:00",
-   "arrivalDate": "2026-12-13T19:25:00",
+   "departureDate": "2026-12-17T08:35:00",
+   "arrivalDate": "2026-12-17T10:00:00",
    "price": {
     "value": 44.99,
     "valueMainUnit": "44",
@@ -5420,10 +5570,10 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~9293~ ~~KUN~12/13/2026 18:00~BGY~12/13/2026 19:25~~",
+   "flightKey": "FR~9293~ ~~KUN~12/17/2026 08:35~BGY~12/17/2026 10:00~~",
    "flightNumber": "FR9293",
    "previousPrice": null,
-   "priceUpdated": 1791800560000
+   "priceUpdated": 1792419468000
   },
   "summary": {
    "price": {
@@ -5435,56 +5585,6 @@
    },
    "previousPrice": null,
    "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LPL",
-    "name": "Liverpool",
-    "seoName": "liverpool",
-    "city": {
-     "code": "LIVERPOOL",
-     "countryCode": "gb",
-     "name": "Liverpool"
-    }
-   },
-   "departureDate": "2026-12-13T15:05:00",
-   "arrivalDate": "2026-12-13T16:05:00",
-   "price": {
-    "value": 45.99,
-    "valueMainUnit": "45",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5728~ ~~KUN~12/13/2026 15:05~LPL~12/13/2026 16:05~~",
-   "flightNumber": "FR5728",
-   "previousPrice": null,
-   "priceUpdated": 1791800564000
-  },
-  "summary": {
-   "price": {
-    "value": 45.99,
-    "valueMainUnit": "45",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
   }
  },
  {
@@ -5523,7 +5623,7 @@
    "flightKey": "FR~6429~ ~~KUN~12/12/2026 15:25~ALC~12/12/2026 18:20~~",
    "flightNumber": "FR6429",
    "previousPrice": null,
-   "priceUpdated": 1791800561000
+   "priceUpdated": 1792413158000
   },
   "summary": {
    "price": {
@@ -5551,35 +5651,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Germany",
-    "iataCode": "CGN",
-    "name": "Cologne",
-    "seoName": "cologne-bonn",
+    "countryName": "Ireland",
+    "iataCode": "SNN",
+    "name": "Shannon",
+    "seoName": "shannon",
     "city": {
-     "code": "COLOGNE",
-     "countryCode": "de",
-     "name": "Cologne"
+     "code": "SHANNON",
+     "countryCode": "ie",
+     "name": "Shannon"
     }
    },
-   "departureDate": "2026-12-12T16:20:00",
-   "arrivalDate": "2026-12-12T17:30:00",
+   "departureDate": "2026-12-19T12:55:00",
+   "arrivalDate": "2026-12-19T14:20:00",
    "price": {
-    "value": 47.91,
-    "valueMainUnit": "47",
-    "valueFractionalUnit": "91",
+    "value": 48.14,
+    "valueMainUnit": "48",
+    "valueFractionalUnit": "14",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~5603~ ~~KUN~12/12/2026 16:20~CGN~12/12/2026 17:30~~",
-   "flightNumber": "FR5603",
+   "flightKey": "FR~6431~ ~~KUN~12/19/2026 12:55~SNN~12/19/2026 14:20~~",
+   "flightNumber": "FR6431",
    "previousPrice": null,
-   "priceUpdated": 1791801955000
+   "priceUpdated": 1792405492000
   },
   "summary": {
    "price": {
-    "value": 47.91,
-    "valueMainUnit": "47",
-    "valueFractionalUnit": "91",
+    "value": 48.14,
+    "valueMainUnit": "48",
+    "valueFractionalUnit": "14",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -5614,8 +5714,8 @@
    "departureDate": "2026-12-19T08:25:00",
    "arrivalDate": "2026-12-19T09:25:00",
    "price": {
-    "value": 51.99,
-    "valueMainUnit": "51",
+    "value": 49.99,
+    "valueMainUnit": "49",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -5623,213 +5723,13 @@
    "flightKey": "FR~5728~ ~~KUN~12/19/2026 08:25~LPL~12/19/2026 09:25~~",
    "flightNumber": "FR5728",
    "previousPrice": null,
-   "priceUpdated": 1791800561000
+   "priceUpdated": 1792436791000
   },
   "summary": {
    "price": {
-    "value": 51.99,
-    "valueMainUnit": "51",
+    "value": 49.99,
+    "valueMainUnit": "49",
     "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
-    "city": {
-     "code": "MALAGA",
-     "countryCode": "es",
-     "name": "Malaga"
-    }
-   },
-   "departureDate": "2026-12-14T15:30:00",
-   "arrivalDate": "2026-12-14T18:55:00",
-   "price": {
-    "value": 51.99,
-    "valueMainUnit": "51",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5502~ ~~KUN~12/14/2026 15:30~AGP~12/14/2026 18:55~~",
-   "flightNumber": "FR5502",
-   "previousPrice": null,
-   "priceUpdated": 1791800563000
-  },
-  "summary": {
-   "price": {
-    "value": 51.99,
-    "valueMainUnit": "51",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Denmark",
-    "iataCode": "CPH",
-    "name": "Copenhagen",
-    "seoName": "copenhagen",
-    "city": {
-     "code": "COPENHAGEN",
-     "countryCode": "dk",
-     "name": "Copenhagen"
-    }
-   },
-   "departureDate": "2026-12-13T19:25:00",
-   "arrivalDate": "2026-12-13T19:55:00",
-   "price": {
-    "value": 53.59,
-    "valueMainUnit": "53",
-    "valueFractionalUnit": "59",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6156~ ~~KUN~12/13/2026 19:25~CPH~12/13/2026 19:55~~",
-   "flightNumber": "FR6156",
-   "previousPrice": null,
-   "priceUpdated": 1791800562000
-  },
-  "summary": {
-   "price": {
-    "value": 53.59,
-    "valueMainUnit": "53",
-    "valueFractionalUnit": "59",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
-    "city": {
-     "code": "MALAGA",
-     "countryCode": "es",
-     "name": "Malaga"
-    }
-   },
-   "departureDate": "2026-12-13T15:35:00",
-   "arrivalDate": "2026-12-13T19:00:00",
-   "price": {
-    "value": 53.99,
-    "valueMainUnit": "53",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5502~ ~~KUN~12/13/2026 15:35~AGP~12/13/2026 19:00~~",
-   "flightNumber": "FR5502",
-   "previousPrice": null,
-   "priceUpdated": 1791800563000
-  },
-  "summary": {
-   "price": {
-    "value": 53.99,
-    "valueMainUnit": "53",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "LPL",
-    "name": "Liverpool",
-    "seoName": "liverpool",
-    "city": {
-     "code": "LIVERPOOL",
-     "countryCode": "gb",
-     "name": "Liverpool"
-    }
-   },
-   "departureDate": "2026-12-14T18:10:00",
-   "arrivalDate": "2026-12-14T19:10:00",
-   "price": {
-    "value": 55.89,
-    "valueMainUnit": "55",
-    "valueFractionalUnit": "89",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5728~ ~~KUN~12/14/2026 18:10~LPL~12/14/2026 19:10~~",
-   "flightNumber": "FR5728",
-   "previousPrice": null,
-   "priceUpdated": 1791800564000
-  },
-  "summary": {
-   "price": {
-    "value": 55.89,
-    "valueMainUnit": "55",
-    "valueFractionalUnit": "89",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -5865,122 +5765,22 @@
    "departureDate": "2026-12-19T09:45:00",
    "arrivalDate": "2026-12-19T10:30:00",
    "price": {
-    "value": 56.85,
-    "valueMainUnit": "56",
-    "valueFractionalUnit": "85",
+    "value": 50.06,
+    "valueMainUnit": "50",
+    "valueFractionalUnit": "06",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~2745~ ~~KUN~12/19/2026 09:45~STN~12/19/2026 10:30~~",
    "flightNumber": "FR2745",
    "previousPrice": null,
-   "priceUpdated": 1791800568000
+   "priceUpdated": 1792405492000
   },
   "summary": {
    "price": {
-    "value": 56.85,
-    "valueMainUnit": "56",
-    "valueFractionalUnit": "85",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
-    "city": {
-     "code": "MALAGA",
-     "countryCode": "es",
-     "name": "Malaga"
-    }
-   },
-   "departureDate": "2026-12-15T19:15:00",
-   "arrivalDate": "2026-12-15T22:40:00",
-   "price": {
-    "value": 57.19,
-    "valueMainUnit": "57",
-    "valueFractionalUnit": "19",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5502~ ~~KUN~12/15/2026 19:15~AGP~12/15/2026 22:40~~",
-   "flightNumber": "FR5502",
-   "previousPrice": null,
-   "priceUpdated": 1791800563000
-  },
-  "summary": {
-   "price": {
-    "value": 57.19,
-    "valueMainUnit": "57",
-    "valueFractionalUnit": "19",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "EDI",
-    "name": "Edinburgh",
-    "seoName": "edinburgh",
-    "city": {
-     "code": "EDINBURGH",
-     "countryCode": "gb",
-     "name": "Edinburgh"
-    }
-   },
-   "departureDate": "2026-12-17T11:35:00",
-   "arrivalDate": "2026-12-17T12:30:00",
-   "price": {
-    "value": 59.99,
-    "valueMainUnit": "59",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2885~ ~~KUN~12/17/2026 11:35~EDI~12/17/2026 12:30~~",
-   "flightNumber": "FR2885",
-   "previousPrice": null,
-   "priceUpdated": 1791800563000
-  },
-  "summary": {
-   "price": {
-    "value": 59.99,
-    "valueMainUnit": "59",
-    "valueFractionalUnit": "99",
+    "value": 50.06,
+    "valueMainUnit": "50",
+    "valueFractionalUnit": "06",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -6015,72 +5815,22 @@
    "departureDate": "2026-12-17T23:20:00",
    "arrivalDate": "2026-12-18T00:30:00",
    "price": {
-    "value": 60.97,
-    "valueMainUnit": "60",
-    "valueFractionalUnit": "97",
+    "value": 51.19,
+    "valueMainUnit": "51",
+    "valueFractionalUnit": "19",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~2972~ ~~KUN~12/17/2026 23:20~DUB~12/18/2026 00:30~~",
    "flightNumber": "FR2972",
    "previousPrice": null,
-   "priceUpdated": 1791800562000
+   "priceUpdated": 1792405436000
   },
   "summary": {
    "price": {
-    "value": 60.97,
-    "valueMainUnit": "60",
-    "valueFractionalUnit": "97",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "SNN",
-    "name": "Shannon",
-    "seoName": "shannon",
-    "city": {
-     "code": "SHANNON",
-     "countryCode": "ie",
-     "name": "Shannon"
-    }
-   },
-   "departureDate": "2026-12-19T12:55:00",
-   "arrivalDate": "2026-12-19T14:20:00",
-   "price": {
-    "value": 61.74,
-    "valueMainUnit": "61",
-    "valueFractionalUnit": "74",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6431~ ~~KUN~12/19/2026 12:55~SNN~12/19/2026 14:20~~",
-   "flightNumber": "FR6431",
-   "previousPrice": null,
-   "priceUpdated": 1791800568000
-  },
-  "summary": {
-   "price": {
-    "value": 61.74,
-    "valueMainUnit": "61",
-    "valueFractionalUnit": "74",
+    "value": 51.19,
+    "valueMainUnit": "51",
+    "valueFractionalUnit": "19",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -6115,171 +5865,21 @@
    "departureDate": "2026-12-12T16:20:00",
    "arrivalDate": "2026-12-12T17:30:00",
    "price": {
-    "value": 61.98,
-    "valueMainUnit": "61",
-    "valueFractionalUnit": "98",
+    "value": 52.99,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~2972~ ~~KUN~12/12/2026 16:20~DUB~12/12/2026 17:30~~",
    "flightNumber": "FR2972",
    "previousPrice": null,
-   "priceUpdated": 1791800562000
+   "priceUpdated": 1792412263000
   },
   "summary": {
    "price": {
-    "value": 61.98,
-    "valueMainUnit": "61",
-    "valueFractionalUnit": "98",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "EDI",
-    "name": "Edinburgh",
-    "seoName": "edinburgh",
-    "city": {
-     "code": "EDINBURGH",
-     "countryCode": "gb",
-     "name": "Edinburgh"
-    }
-   },
-   "departureDate": "2026-12-18T17:50:00",
-   "arrivalDate": "2026-12-18T18:45:00",
-   "price": {
-    "value": 65.55,
-    "valueMainUnit": "65",
-    "valueFractionalUnit": "55",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2885~ ~~KUN~12/18/2026 17:50~EDI~12/18/2026 18:45~~",
-   "flightNumber": "FR2885",
-   "previousPrice": null,
-   "priceUpdated": 1791800562000
-  },
-  "summary": {
-   "price": {
-    "value": 65.55,
-    "valueMainUnit": "65",
-    "valueFractionalUnit": "55",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-13T10:35:00",
-   "arrivalDate": "2026-12-13T11:45:00",
-   "price": {
-    "value": 67.64,
-    "valueMainUnit": "67",
-    "valueFractionalUnit": "64",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2972~ ~~KUN~12/13/2026 10:35~DUB~12/13/2026 11:45~~",
-   "flightNumber": "FR2972",
-   "previousPrice": null,
-   "priceUpdated": 1791800562000
-  },
-  "summary": {
-   "price": {
-    "value": 67.64,
-    "valueMainUnit": "67",
-    "valueFractionalUnit": "64",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-14T22:00:00",
-   "arrivalDate": "2026-12-14T23:10:00",
-   "price": {
-    "value": 73.99,
-    "valueMainUnit": "73",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2972~ ~~KUN~12/14/2026 22:00~DUB~12/14/2026 23:10~~",
-   "flightNumber": "FR2972",
-   "previousPrice": null,
-   "priceUpdated": 1791800562000
-  },
-  "summary": {
-   "price": {
-    "value": 73.99,
-    "valueMainUnit": "73",
+    "value": 52.99,
+    "valueMainUnit": "52",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -6302,35 +5902,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "SNN",
-    "name": "Shannon",
-    "seoName": "shannon",
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
     "city": {
-     "code": "SHANNON",
-     "countryCode": "ie",
-     "name": "Shannon"
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
     }
    },
-   "departureDate": "2026-12-13T13:10:00",
-   "arrivalDate": "2026-12-13T14:35:00",
+   "departureDate": "2026-12-14T15:30:00",
+   "arrivalDate": "2026-12-14T18:55:00",
    "price": {
-    "value": 75.19,
-    "valueMainUnit": "75",
-    "valueFractionalUnit": "19",
+    "value": 54.79,
+    "valueMainUnit": "54",
+    "valueFractionalUnit": "79",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~6431~ ~~KUN~12/13/2026 13:10~SNN~12/13/2026 14:35~~",
-   "flightNumber": "FR6431",
+   "flightKey": "FR~5502~ ~~KUN~12/14/2026 15:30~AGP~12/14/2026 18:55~~",
+   "flightNumber": "FR5502",
    "previousPrice": null,
-   "priceUpdated": 1791800567000
+   "priceUpdated": 1792408907000
   },
   "summary": {
    "price": {
-    "value": 75.19,
-    "valueMainUnit": "75",
-    "valueFractionalUnit": "19",
+    "value": 54.79,
+    "valueMainUnit": "54",
+    "valueFractionalUnit": "79",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -6365,8 +5965,8 @@
    "departureDate": "2026-12-17T07:55:00",
    "arrivalDate": "2026-12-17T11:30:00",
    "price": {
-    "value": 78.99,
-    "valueMainUnit": "78",
+    "value": 56.99,
+    "valueMainUnit": "56",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -6374,12 +5974,662 @@
    "flightKey": "FR~9114~ ~~KUN~12/17/2026 07:55~PFO~12/17/2026 11:30~~",
    "flightNumber": "FR9114",
    "previousPrice": null,
-   "priceUpdated": 1791800564000
+   "priceUpdated": 1792419837000
   },
   "summary": {
    "price": {
-    "value": 78.99,
-    "valueMainUnit": "78",
+    "value": 56.99,
+    "valueMainUnit": "56",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "LPL",
+    "name": "Liverpool",
+    "seoName": "liverpool",
+    "city": {
+     "code": "LIVERPOOL",
+     "countryCode": "gb",
+     "name": "Liverpool"
+    }
+   },
+   "departureDate": "2026-12-14T18:10:00",
+   "arrivalDate": "2026-12-14T19:10:00",
+   "price": {
+    "value": 58.74,
+    "valueMainUnit": "58",
+    "valueFractionalUnit": "74",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5728~ ~~KUN~12/14/2026 18:10~LPL~12/14/2026 19:10~~",
+   "flightNumber": "FR5728",
+   "previousPrice": null,
+   "priceUpdated": 1792405495000
+  },
+  "summary": {
+   "price": {
+    "value": 58.74,
+    "valueMainUnit": "58",
+    "valueFractionalUnit": "74",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-13T10:35:00",
+   "arrivalDate": "2026-12-13T11:45:00",
+   "price": {
+    "value": 58.96,
+    "valueMainUnit": "58",
+    "valueFractionalUnit": "96",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2972~ ~~KUN~12/13/2026 10:35~DUB~12/13/2026 11:45~~",
+   "flightNumber": "FR2972",
+   "previousPrice": null,
+   "priceUpdated": 1792405462000
+  },
+  "summary": {
+   "price": {
+    "value": 58.96,
+    "valueMainUnit": "58",
+    "valueFractionalUnit": "96",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "EDI",
+    "name": "Edinburgh",
+    "seoName": "edinburgh",
+    "city": {
+     "code": "EDINBURGH",
+     "countryCode": "gb",
+     "name": "Edinburgh"
+    }
+   },
+   "departureDate": "2026-12-17T11:35:00",
+   "arrivalDate": "2026-12-17T12:30:00",
+   "price": {
+    "value": 60.99,
+    "valueMainUnit": "60",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2885~ ~~KUN~12/17/2026 11:35~EDI~12/17/2026 12:30~~",
+   "flightNumber": "FR2885",
+   "previousPrice": null,
+   "priceUpdated": 1792436746000
+  },
+  "summary": {
+   "price": {
+    "value": 60.99,
+    "valueMainUnit": "60",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-14T22:00:00",
+   "arrivalDate": "2026-12-14T23:10:00",
+   "price": {
+    "value": 61.99,
+    "valueMainUnit": "61",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2972~ ~~KUN~12/14/2026 22:00~DUB~12/14/2026 23:10~~",
+   "flightNumber": "FR2972",
+   "previousPrice": null,
+   "priceUpdated": 1792436765000
+  },
+  "summary": {
+   "price": {
+    "value": 61.99,
+    "valueMainUnit": "61",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-15T19:15:00",
+   "arrivalDate": "2026-12-15T22:40:00",
+   "price": {
+    "value": 62.13,
+    "valueMainUnit": "62",
+    "valueFractionalUnit": "13",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5502~ ~~KUN~12/15/2026 19:15~AGP~12/15/2026 22:40~~",
+   "flightNumber": "FR5502",
+   "previousPrice": null,
+   "priceUpdated": 1792438018000
+  },
+  "summary": {
+   "price": {
+    "value": 62.13,
+    "valueMainUnit": "62",
+    "valueFractionalUnit": "13",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "SNN",
+    "name": "Shannon",
+    "seoName": "shannon",
+    "city": {
+     "code": "SHANNON",
+     "countryCode": "ie",
+     "name": "Shannon"
+    }
+   },
+   "departureDate": "2026-12-13T13:10:00",
+   "arrivalDate": "2026-12-13T14:35:00",
+   "price": {
+    "value": 64.24,
+    "valueMainUnit": "64",
+    "valueFractionalUnit": "24",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6431~ ~~KUN~12/13/2026 13:10~SNN~12/13/2026 14:35~~",
+   "flightNumber": "FR6431",
+   "previousPrice": null,
+   "priceUpdated": 1792435034000
+  },
+  "summary": {
+   "price": {
+    "value": 64.24,
+    "valueMainUnit": "64",
+    "valueFractionalUnit": "24",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "EDI",
+    "name": "Edinburgh",
+    "seoName": "edinburgh",
+    "city": {
+     "code": "EDINBURGH",
+     "countryCode": "gb",
+     "name": "Edinburgh"
+    }
+   },
+   "departureDate": "2026-12-18T17:50:00",
+   "arrivalDate": "2026-12-18T18:45:00",
+   "price": {
+    "value": 64.34,
+    "valueMainUnit": "64",
+    "valueFractionalUnit": "34",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2885~ ~~KUN~12/18/2026 17:50~EDI~12/18/2026 18:45~~",
+   "flightNumber": "FR2885",
+   "previousPrice": null,
+   "priceUpdated": 1792441980000
+  },
+  "summary": {
+   "price": {
+    "value": 64.34,
+    "valueMainUnit": "64",
+    "valueFractionalUnit": "34",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "BRS",
+    "name": "Bristol",
+    "seoName": "bristol",
+    "city": {
+     "code": "BRISTOL",
+     "countryCode": "gb",
+     "name": "Bristol"
+    }
+   },
+   "departureDate": "2026-12-14T11:15:00",
+   "arrivalDate": "2026-12-14T12:15:00",
+   "price": {
+    "value": 71.68,
+    "valueMainUnit": "71",
+    "valueFractionalUnit": "68",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~8682~ ~~KUN~12/14/2026 11:15~BRS~12/14/2026 12:15~~",
+   "flightNumber": "FR8682",
+   "previousPrice": null,
+   "priceUpdated": 1792412030000
+  },
+  "summary": {
+   "price": {
+    "value": 71.68,
+    "valueMainUnit": "71",
+    "valueFractionalUnit": "68",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-13T15:35:00",
+   "arrivalDate": "2026-12-13T19:00:00",
+   "price": {
+    "value": 77.99,
+    "valueMainUnit": "77",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5502~ ~~KUN~12/13/2026 15:35~AGP~12/13/2026 19:00~~",
+   "flightNumber": "FR5502",
+   "previousPrice": null,
+   "priceUpdated": 1792419417000
+  },
+  "summary": {
+   "price": {
+    "value": 77.99,
+    "valueMainUnit": "77",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-14T18:05:00",
+   "arrivalDate": "2026-12-14T21:00:00",
+   "price": {
+    "value": 82.99,
+    "valueMainUnit": "82",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6429~ ~~KUN~12/14/2026 18:05~ALC~12/14/2026 21:00~~",
+   "flightNumber": "FR6429",
+   "previousPrice": null,
+   "priceUpdated": 1792419419000
+  },
+  "summary": {
+   "price": {
+    "value": 82.99,
+    "valueMainUnit": "82",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-18T10:55:00",
+   "arrivalDate": "2026-12-18T12:20:00",
+   "price": {
+    "value": 83.25,
+    "valueMainUnit": "83",
+    "valueFractionalUnit": "25",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9293~ ~~KUN~12/18/2026 10:55~BGY~12/18/2026 12:20~~",
+   "flightNumber": "FR9293",
+   "previousPrice": null,
+   "priceUpdated": 1792405434000
+  },
+  "summary": {
+   "price": {
+    "value": 83.25,
+    "valueMainUnit": "83",
+    "valueFractionalUnit": "25",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-18T07:40:00",
+   "arrivalDate": "2026-12-18T11:05:00",
+   "price": {
+    "value": 94.95,
+    "valueMainUnit": "94",
+    "valueFractionalUnit": "95",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5502~ ~~KUN~12/18/2026 07:40~AGP~12/18/2026 11:05~~",
+   "flightNumber": "FR5502",
+   "previousPrice": null,
+   "priceUpdated": 1792437577000
+  },
+  "summary": {
+   "price": {
+    "value": 94.95,
+    "valueMainUnit": "94",
+    "valueFractionalUnit": "95",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Germany",
+    "iataCode": "CGN",
+    "name": "Cologne",
+    "seoName": "cologne-bonn",
+    "city": {
+     "code": "COLOGNE",
+     "countryCode": "de",
+     "name": "Cologne"
+    }
+   },
+   "departureDate": "2026-12-19T16:20:00",
+   "arrivalDate": "2026-12-19T17:30:00",
+   "price": {
+    "value": 97.99,
+    "valueMainUnit": "97",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5603~ ~~KUN~12/19/2026 16:20~CGN~12/19/2026 17:30~~",
+   "flightNumber": "FR5603",
+   "previousPrice": null,
+   "priceUpdated": 1792439565000
+  },
+  "summary": {
+   "price": {
+    "value": 97.99,
+    "valueMainUnit": "97",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -6415,8 +6665,8 @@
    "departureDate": "2026-12-19T16:00:00",
    "arrivalDate": "2026-12-19T17:25:00",
    "price": {
-    "value": 80.99,
-    "valueMainUnit": "80",
+    "value": 103.99,
+    "valueMainUnit": "103",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -6424,218 +6674,18 @@
    "flightKey": "FR~9293~ ~~KUN~12/19/2026 16:00~BGY~12/19/2026 17:25~~",
    "flightNumber": "FR9293",
    "previousPrice": null,
-   "priceUpdated": 1791801611000
+   "priceUpdated": 1792419491000
   },
   "summary": {
    "price": {
-    "value": 80.99,
-    "valueMainUnit": "80",
+    "value": 103.99,
+    "valueMainUnit": "103",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "BRS",
-    "name": "Bristol",
-    "seoName": "bristol",
-    "city": {
-     "code": "BRISTOL",
-     "countryCode": "gb",
-     "name": "Bristol"
-    }
-   },
-   "departureDate": "2026-12-14T11:15:00",
-   "arrivalDate": "2026-12-14T12:15:00",
-   "price": {
-    "value": 83.82,
-    "valueMainUnit": "83",
-    "valueFractionalUnit": "82",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~8682~ ~~KUN~12/14/2026 11:15~BRS~12/14/2026 12:15~~",
-   "flightNumber": "FR8682",
-   "previousPrice": null,
-   "priceUpdated": 1791800561000
-  },
-  "summary": {
-   "price": {
-    "value": 83.82,
-    "valueMainUnit": "83",
-    "valueFractionalUnit": "82",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-18T10:55:00",
-   "arrivalDate": "2026-12-18T12:20:00",
-   "price": {
-    "value": 94.15,
-    "valueMainUnit": "94",
-    "valueFractionalUnit": "15",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~9293~ ~~KUN~12/18/2026 10:55~BGY~12/18/2026 12:20~~",
-   "flightNumber": "FR9293",
-   "previousPrice": null,
-   "priceUpdated": 1791800565000
-  },
-  "summary": {
-   "price": {
-    "value": 94.15,
-    "valueMainUnit": "94",
-    "valueFractionalUnit": "15",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-14T18:05:00",
-   "arrivalDate": "2026-12-14T21:00:00",
-   "price": {
-    "value": 94.99,
-    "valueMainUnit": "94",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6429~ ~~KUN~12/14/2026 18:05~ALC~12/14/2026 21:00~~",
-   "flightNumber": "FR6429",
-   "previousPrice": null,
-   "priceUpdated": 1791800562000
-  },
-  "summary": {
-   "price": {
-    "value": 94.99,
-    "valueMainUnit": "94",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-19T16:20:00",
-   "arrivalDate": "2026-12-19T17:30:00",
-   "price": {
-    "value": 110.99,
-    "valueMainUnit": "110",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2972~ ~~KUN~12/19/2026 16:20~DUB~12/19/2026 17:30~~",
-   "flightNumber": "FR2972",
-   "previousPrice": null,
-   "priceUpdated": 1791801643000
-  },
-  "summary": {
-   "price": {
-    "value": 110.99,
-    "valueMainUnit": "110",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
   }
  },
  {
@@ -6665,8 +6715,8 @@
    "departureDate": "2026-12-17T14:40:00",
    "arrivalDate": "2026-12-17T17:35:00",
    "price": {
-    "value": 113.99,
-    "valueMainUnit": "113",
+    "value": 104.99,
+    "valueMainUnit": "104",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -6674,163 +6724,13 @@
    "flightKey": "FR~6429~ ~~KUN~12/17/2026 14:40~ALC~12/17/2026 17:35~~",
    "flightNumber": "FR6429",
    "previousPrice": null,
-   "priceUpdated": 1791800563000
+   "priceUpdated": 1792436799000
   },
   "summary": {
    "price": {
-    "value": 113.99,
-    "valueMainUnit": "113",
+    "value": 104.99,
+    "valueMainUnit": "104",
     "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Germany",
-    "iataCode": "CGN",
-    "name": "Cologne",
-    "seoName": "cologne-bonn",
-    "city": {
-     "code": "COLOGNE",
-     "countryCode": "de",
-     "name": "Cologne"
-    }
-   },
-   "departureDate": "2026-12-19T16:20:00",
-   "arrivalDate": "2026-12-19T17:30:00",
-   "price": {
-    "value": 117.99,
-    "valueMainUnit": "117",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5603~ ~~KUN~12/19/2026 16:20~CGN~12/19/2026 17:30~~",
-   "flightNumber": "FR5603",
-   "previousPrice": null,
-   "priceUpdated": 1791802362000
-  },
-  "summary": {
-   "price": {
-    "value": 117.99,
-    "valueMainUnit": "117",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
-    "city": {
-     "code": "MALAGA",
-     "countryCode": "es",
-     "name": "Malaga"
-    }
-   },
-   "departureDate": "2026-12-18T07:40:00",
-   "arrivalDate": "2026-12-18T11:05:00",
-   "price": {
-    "value": 122.14,
-    "valueMainUnit": "122",
-    "valueFractionalUnit": "14",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5502~ ~~KUN~12/18/2026 07:40~AGP~12/18/2026 11:05~~",
-   "flightNumber": "FR5502",
-   "previousPrice": null,
-   "priceUpdated": 1791800564000
-  },
-  "summary": {
-   "price": {
-    "value": 122.14,
-    "valueMainUnit": "122",
-    "valueFractionalUnit": "14",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Lithuania",
-    "iataCode": "KUN",
-    "name": "Kaunas",
-    "seoName": "kaunas",
-    "city": {
-     "code": "KAUNAS",
-     "countryCode": "lt",
-     "name": "Kaunas"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-18T16:30:00",
-   "arrivalDate": "2026-12-18T19:25:00",
-   "price": {
-    "value": 128.29,
-    "valueMainUnit": "128",
-    "valueFractionalUnit": "29",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6429~ ~~KUN~12/18/2026 16:30~ALC~12/18/2026 19:25~~",
-   "flightNumber": "FR6429",
-   "previousPrice": null,
-   "priceUpdated": 1791800560000
-  },
-  "summary": {
-   "price": {
-    "value": 128.29,
-    "valueMainUnit": "128",
-    "valueFractionalUnit": "29",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -6865,22 +6765,122 @@
    "departureDate": "2026-12-19T06:05:00",
    "arrivalDate": "2026-12-19T09:30:00",
    "price": {
-    "value": 139.47,
-    "valueMainUnit": "139",
-    "valueFractionalUnit": "47",
+    "value": 108.37,
+    "valueMainUnit": "108",
+    "valueFractionalUnit": "37",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~5502~ ~~KUN~12/19/2026 06:05~AGP~12/19/2026 09:30~~",
    "flightNumber": "FR5502",
    "previousPrice": null,
-   "priceUpdated": 1791800562000
+   "priceUpdated": 1792405435000
   },
   "summary": {
    "price": {
-    "value": 139.47,
-    "valueMainUnit": "139",
-    "valueFractionalUnit": "47",
+    "value": 108.37,
+    "valueMainUnit": "108",
+    "valueFractionalUnit": "37",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-19T16:20:00",
+   "arrivalDate": "2026-12-19T17:30:00",
+   "price": {
+    "value": 113.99,
+    "valueMainUnit": "113",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2972~ ~~KUN~12/19/2026 16:20~DUB~12/19/2026 17:30~~",
+   "flightNumber": "FR2972",
+   "previousPrice": null,
+   "priceUpdated": 1792419487000
+  },
+  "summary": {
+   "price": {
+    "value": 113.99,
+    "valueMainUnit": "113",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Lithuania",
+    "iataCode": "KUN",
+    "name": "Kaunas",
+    "seoName": "kaunas",
+    "city": {
+     "code": "KAUNAS",
+     "countryCode": "lt",
+     "name": "Kaunas"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-18T16:30:00",
+   "arrivalDate": "2026-12-18T19:25:00",
+   "price": {
+    "value": 122.27,
+    "valueMainUnit": "122",
+    "valueFractionalUnit": "27",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6429~ ~~KUN~12/18/2026 16:30~ALC~12/18/2026 19:25~~",
+   "flightNumber": "FR6429",
+   "previousPrice": null,
+   "priceUpdated": 1792405438000
+  },
+  "summary": {
+   "price": {
+    "value": 122.27,
+    "valueMainUnit": "122",
+    "valueFractionalUnit": "27",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -6915,22 +6915,22 @@
    "departureDate": "2026-12-19T15:25:00",
    "arrivalDate": "2026-12-19T18:20:00",
    "price": {
-    "value": 146.51,
-    "valueMainUnit": "146",
-    "valueFractionalUnit": "51",
+    "value": 139.79,
+    "valueMainUnit": "139",
+    "valueFractionalUnit": "79",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~6429~ ~~KUN~12/19/2026 15:25~ALC~12/19/2026 18:20~~",
    "flightNumber": "FR6429",
    "previousPrice": null,
-   "priceUpdated": 1791800561000
+   "priceUpdated": 1792405438000
   },
   "summary": {
    "price": {
-    "value": 146.51,
-    "valueMainUnit": "146",
-    "valueFractionalUnit": "51",
+    "value": 139.79,
+    "valueMainUnit": "139",
+    "valueFractionalUnit": "79",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },

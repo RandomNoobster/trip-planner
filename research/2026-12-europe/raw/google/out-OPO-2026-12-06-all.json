@@ -1,7 +1,8 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDZqBRIDVFJEcgUSA09QT0ABSAGYAQI",
- "fetchedAt": "2026-10-11T11:25:55",
+ "fetchedAt": "2026-10-19T23:37:39",
  "priceUnavailable": 18,
+ "via": "html",
  "itineraries": [
   {
    "price": 169.0,
@@ -30,33 +31,7 @@
    "label": "From 169 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Sunday, December 6 and arrives at Francisco Sá Carneiro Airport at 3:25 PM on Sunday, December 6. Total duration 10 hr 5 min.  Layover (1 of 1) is a 5 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 223.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "17:15",
-   "depDate": "2026-12-06",
-   "arrAirportName": "Francisco Sá Carneiro Airport",
-   "arrTime": "22:30",
-   "arrDate": "2026-12-06",
-   "durationMin": 375,
-   "layovers": [
-    {
-     "min": 70,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 223 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:15 PM on Sunday, December 6 and arrives at Francisco Sá Carneiro Airport at 10:30 PM on Sunday, December 6. Total duration 6 hr 15 min.  Layover (1 of 1) is a 1 hr 10 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 393.0,
+   "price": 397.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -85,42 +60,36 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 393 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 9:10 AM on Sunday, December 6 and arrives at Francisco Sá Carneiro Airport at 10:25 PM on Sunday, December 6. Total duration 14 hr 15 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 5 hr 35 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+   "label": "From 397 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 9:10 AM on Sunday, December 6 and arrives at Francisco Sá Carneiro Airport at 10:25 PM on Sunday, December 6. Total duration 14 hr 15 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 5 hr 35 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
   },
   {
-   "price": 530.0,
+   "price": 739.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": "Sas Link",
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "13:15",
+   "depTime": "17:15",
    "depDate": "2026-12-06",
    "arrAirportName": "Francisco Sá Carneiro Airport",
-   "arrTime": "22:00",
+   "arrTime": "22:30",
    "arrDate": "2026-12-06",
-   "durationMin": 585,
+   "durationMin": 375,
    "layovers": [
     {
-     "min": 175,
+     "min": 70,
      "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    },
-    {
-     "min": 45,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
     }
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 530 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 1:15 PM on Sunday, December 6 and arrives at Francisco Sá Carneiro Airport at 10:00 PM on Sunday, December 6. Total duration 9 hr 45 min.  Layover (1 of 2) is a 2 hr 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 45 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "label": "From 739 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:15 PM on Sunday, December 6 and arrives at Francisco Sá Carneiro Airport at 10:30 PM on Sunday, December 6. Total duration 6 hr 15 min. Business Class Layover (1 of 1) is a 1 hr 10 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 393.0,
+   "price": 395.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -149,10 +118,74 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 393 euros. 2 stops flight with KLM and Air France. Operated by KLM Cityhopper for KLM Royal Dutch Airlines, KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Trondheim Airport, Værnes at 5:15 PM on Sunday, December 6 and arrives at Francisco Sá Carneiro Airport at 10:35 AM on Monday, December 7. Total duration 18 hr 20 min.  Layover (1 of 2) is a 11 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 1 hr 5 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "label": "From 395 euros. 2 stops flight with KLM and Air France. Operated by KLM Cityhopper for KLM Royal Dutch Airlines, KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Trondheim Airport, Værnes at 5:15 PM on Sunday, December 6 and arrives at Francisco Sá Carneiro Airport at 10:35 AM on Monday, December 7. Total duration 18 hr 20 min.  Layover (1 of 2) is a 11 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 1 hr 5 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
   },
   {
-   "price": 513.0,
+   "price": 395.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Air France",
+   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:15",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Francisco Sá Carneiro Airport",
+   "arrTime": "10:35",
+   "arrDate": "2026-12-07",
+   "durationMin": 1100,
+   "layovers": [
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    },
+    {
+     "min": 680,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 395 euros. 2 stops flight with KLM and Air France. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Trondheim Airport, Værnes at 5:15 PM on Sunday, December 6 and arrives at Francisco Sá Carneiro Airport at 10:35 AM on Monday, December 7. Total duration 18 hr 20 min.  Layover (1 of 2) is a 55 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 11 hr 20 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+  },
+  {
+   "price": 428.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": "Sas Link",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "05:30",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Francisco Sá Carneiro Airport",
+   "arrTime": "22:00",
+   "arrDate": "2026-12-06",
+   "durationMin": 1050,
+   "layovers": [
+    {
+     "min": 170,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen"
+    },
+    {
+     "min": 515,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 428 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 5:30 AM on Sunday, December 6 and arrives at Francisco Sá Carneiro Airport at 10:00 PM on Sunday, December 6. Total duration 17 hr 30 min.  Layover (1 of 2) is a 2 hr 50 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 8 hr 35 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+  },
+  {
+   "price": 454.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -181,10 +214,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 513 euros. 2 stops flight with Wideroe and Air France. Leaves Trondheim Airport, Værnes at 9:10 AM on Sunday, December 6 and arrives at Francisco Sá Carneiro Airport at 10:00 PM on Sunday, December 6. Total duration 13 hr 50 min.  Layover (1 of 2) is a 2 hr 50 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 5 hr 15 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "label": "From 454 euros. 2 stops flight with Wideroe and Air France. Leaves Trondheim Airport, Værnes at 9:10 AM on Sunday, December 6 and arrives at Francisco Sá Carneiro Airport at 10:00 PM on Sunday, December 6. Total duration 13 hr 50 min.  Layover (1 of 2) is a 2 hr 50 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 5 hr 15 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
   },
   {
-   "price": 694.0,
+   "price": 626.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -213,7 +246,45 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 694 euros. 2 stops flight with Scandinavian Airlines and Tap Air Portugal. Operated by Sas Link, Portugalia - Companhia Portuguesa. Leaves Trondheim Airport, Værnes at 8:00 AM on Sunday, December 6 and arrives at Francisco Sá Carneiro Airport at 7:00 PM on Sunday, December 6. Total duration 12 hr.  Layover (1 of 2) is a 3 hr 50 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 35 min layover at Humberto Delgado Airport in Lisbon. Select flight"
+   "label": "From 626 euros. 2 stops flight with Scandinavian Airlines and Tap Air Portugal. Operated by Sas Link, Portugalia - Companhia Portuguesa. Leaves Trondheim Airport, Værnes at 8:00 AM on Sunday, December 6 and arrives at Francisco Sá Carneiro Airport at 7:00 PM on Sunday, December 6. Total duration 12 hr.  Layover (1 of 2) is a 3 hr 50 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 35 min layover at Humberto Delgado Airport in Lisbon. Select flight"
+  },
+  {
+   "price": 672.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Wideroe, Lufthansa and Tap Air Portugal",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Francisco Sá Carneiro Airport",
+   "arrTime": "22:00",
+   "arrDate": "2026-12-06",
+   "durationMin": 830,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    },
+    {
+     "min": 165,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    },
+    {
+     "min": 65,
+     "overnight": false,
+     "airport": "Humberto Delgado Airport",
+     "city": "Lisbon"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 672 euros. 3 stops flight with Wideroe, Lufthansa and Tap Air Portugal. Leaves Trondheim Airport, Værnes at 9:10 AM on Sunday, December 6 and arrives at Francisco Sá Carneiro Airport at 10:00 PM on Sunday, December 6. Total duration 13 hr 50 min.  Layover (1 of 3) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 2 hr 45 min layover at Frankfurt Airport in Frankfurt am Main. Layover (3 of 3) is a 1 hr 5 min layover at Humberto Delgado Airport in Lisbon. Select flight"
   }
  ]
 }

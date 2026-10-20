@@ -28,8 +28,8 @@
    "departureDate": "2026-12-06T15:00:00",
    "arrivalDate": "2026-12-06T19:40:00",
    "price": {
-    "value": 14.99,
-    "valueMainUnit": "14",
+    "value": 15.99,
+    "valueMainUnit": "15",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -37,58 +37,7 @@
    "flightKey": "FR~4280~ ~~PIK~12/06/2026 15:00~TFS~12/06/2026 19:40~~",
    "flightNumber": "FR4280",
    "previousPrice": null,
-   "priceUpdated": 1791800746000
-  },
-  "summary": {
-   "price": {
-    "value": 14.99,
-    "valueMainUnit": "14",
-    "valueFractionalUnit": "99",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "PIK",
-    "name": "Glasgow Prestwick",
-    "seoName": "glasgow-prestwick",
-    "city": {
-     "code": "GLASGOW",
-     "countryCode": "gb",
-     "macCode": "GLW",
-     "name": "Glasgow"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ACE",
-    "name": "Lanzarote",
-    "seoName": "lanzarote",
-    "city": {
-     "code": "LANZAROTE",
-     "countryCode": "es",
-     "name": "Lanzarote"
-    }
-   },
-   "departureDate": "2026-12-05T15:50:00",
-   "arrivalDate": "2026-12-05T20:15:00",
-   "price": {
-    "value": 15.99,
-    "valueMainUnit": "15",
-    "valueFractionalUnit": "99",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~6153~ ~~PIK~12/05/2026 15:50~ACE~12/05/2026 20:15~~",
-   "flightNumber": "FR6153",
-   "previousPrice": null,
-   "priceUpdated": 1791800744000
+   "priceUpdated": 1792434004000
   },
   "summary": {
    "price": {
@@ -130,8 +79,8 @@
    "departureDate": "2026-12-06T16:50:00",
    "arrivalDate": "2026-12-06T20:50:00",
    "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
+    "value": 19.99,
+    "valueMainUnit": "19",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -139,12 +88,114 @@
    "flightKey": "FR~ 691~ ~~PIK~12/06/2026 16:50~ALC~12/06/2026 20:50~~",
    "flightNumber": "FR691",
    "previousPrice": null,
-   "priceUpdated": 1791800747000
+   "priceUpdated": 1792434035000
   },
   "summary": {
    "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
+    "value": 19.99,
+    "valueMainUnit": "19",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "PIK",
+    "name": "Glasgow Prestwick",
+    "seoName": "glasgow-prestwick",
+    "city": {
+     "code": "GLASGOW",
+     "countryCode": "gb",
+     "macCode": "GLW",
+     "name": "Glasgow"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ACE",
+    "name": "Lanzarote",
+    "seoName": "lanzarote",
+    "city": {
+     "code": "LANZAROTE",
+     "countryCode": "es",
+     "name": "Lanzarote"
+    }
+   },
+   "departureDate": "2026-12-05T15:50:00",
+   "arrivalDate": "2026-12-05T20:15:00",
+   "price": {
+    "value": 19.99,
+    "valueMainUnit": "19",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~6153~ ~~PIK~12/05/2026 15:50~ACE~12/05/2026 20:15~~",
+   "flightNumber": "FR6153",
+   "previousPrice": null,
+   "priceUpdated": 1792434035000
+  },
+  "summary": {
+   "price": {
+    "value": 19.99,
+    "valueMainUnit": "19",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "PIK",
+    "name": "Glasgow Prestwick",
+    "seoName": "glasgow-prestwick",
+    "city": {
+     "code": "GLASGOW",
+     "countryCode": "gb",
+     "macCode": "GLW",
+     "name": "Glasgow"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ACE",
+    "name": "Lanzarote",
+    "seoName": "lanzarote",
+    "city": {
+     "code": "LANZAROTE",
+     "countryCode": "es",
+     "name": "Lanzarote"
+    }
+   },
+   "departureDate": "2026-12-07T15:05:00",
+   "arrivalDate": "2026-12-07T19:30:00",
+   "price": {
+    "value": 22.99,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~6153~ ~~PIK~12/07/2026 15:05~ACE~12/07/2026 19:30~~",
+   "flightNumber": "FR6153",
+   "previousPrice": null,
+   "priceUpdated": 1792434004000
+  },
+  "summary": {
+   "price": {
+    "value": 22.99,
+    "valueMainUnit": "22",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -182,8 +233,8 @@
    "departureDate": "2026-12-11T15:05:00",
    "arrivalDate": "2026-12-11T19:45:00",
    "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
+    "value": 23.99,
+    "valueMainUnit": "23",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -191,12 +242,12 @@
    "flightKey": "FR~ 653~ ~~PIK~12/11/2026 15:05~TFS~12/11/2026 19:45~~",
    "flightNumber": "FR653",
    "previousPrice": null,
-   "priceUpdated": 1791800749000
+   "priceUpdated": 1792434008000
   },
   "summary": {
    "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
+    "value": 23.99,
+    "valueMainUnit": "23",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -230,8 +281,8 @@
      "name": "Lanzarote"
     }
    },
-   "departureDate": "2026-12-04T15:20:00",
-   "arrivalDate": "2026-12-04T19:45:00",
+   "departureDate": "2026-12-11T15:20:00",
+   "arrivalDate": "2026-12-11T19:45:00",
    "price": {
     "value": 24.99,
     "valueMainUnit": "24",
@@ -239,10 +290,10 @@
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
-   "flightKey": "FR~6153~ ~~PIK~12/04/2026 15:20~ACE~12/04/2026 19:45~~",
+   "flightKey": "FR~6153~ ~~PIK~12/11/2026 15:20~ACE~12/11/2026 19:45~~",
    "flightNumber": "FR6153",
    "previousPrice": null,
-   "priceUpdated": 1791800743000
+   "priceUpdated": 1792434031000
   },
   "summary": {
    "price": {
@@ -293,13 +344,169 @@
    "flightKey": "FR~ 655~ ~~PIK~12/07/2026 07:05~AGP~12/07/2026 11:20~~",
    "flightNumber": "FR655",
    "previousPrice": null,
-   "priceUpdated": 1791800746000
+   "priceUpdated": 1792434008000
   },
   "summary": {
    "price": {
     "value": 24.99,
     "valueMainUnit": "24",
     "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "PIK",
+    "name": "Glasgow Prestwick",
+    "seoName": "glasgow-prestwick",
+    "city": {
+     "code": "GLASGOW",
+     "countryCode": "gb",
+     "macCode": "GLW",
+     "name": "Glasgow"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "TFS",
+    "name": "Tenerife South",
+    "seoName": "tenerife-south",
+    "city": {
+     "code": "TENERIFE",
+     "countryCode": "es",
+     "macCode": "TEN",
+     "name": "Tenerife"
+    }
+   },
+   "departureDate": "2026-12-04T15:05:00",
+   "arrivalDate": "2026-12-04T19:45:00",
+   "price": {
+    "value": 24.99,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~ 653~ ~~PIK~12/04/2026 15:05~TFS~12/04/2026 19:45~~",
+   "flightNumber": "FR653",
+   "previousPrice": null,
+   "priceUpdated": 1792434033000
+  },
+  "summary": {
+   "price": {
+    "value": 24.99,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "PIK",
+    "name": "Glasgow Prestwick",
+    "seoName": "glasgow-prestwick",
+    "city": {
+     "code": "GLASGOW",
+     "countryCode": "gb",
+     "macCode": "GLW",
+     "name": "Glasgow"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "TFS",
+    "name": "Tenerife South",
+    "seoName": "tenerife-south",
+    "city": {
+     "code": "TENERIFE",
+     "countryCode": "es",
+     "macCode": "TEN",
+     "name": "Tenerife"
+    }
+   },
+   "departureDate": "2026-12-10T14:25:00",
+   "arrivalDate": "2026-12-10T19:05:00",
+   "price": {
+    "value": 24.99,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~ 653~ ~~PIK~12/10/2026 14:25~TFS~12/10/2026 19:05~~",
+   "flightNumber": "FR653",
+   "previousPrice": null,
+   "priceUpdated": 1792434038000
+  },
+  "summary": {
+   "price": {
+    "value": 24.99,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "PIK",
+    "name": "Glasgow Prestwick",
+    "seoName": "glasgow-prestwick",
+    "city": {
+     "code": "GLASGOW",
+     "countryCode": "gb",
+     "macCode": "GLW",
+     "name": "Glasgow"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "TFS",
+    "name": "Tenerife South",
+    "seoName": "tenerife-south",
+    "city": {
+     "code": "TENERIFE",
+     "countryCode": "es",
+     "macCode": "TEN",
+     "name": "Tenerife"
+    }
+   },
+   "departureDate": "2026-12-07T06:00:00",
+   "arrivalDate": "2026-12-07T10:40:00",
+   "price": {
+    "value": 26.79,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "79",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~ 653~ ~~PIK~12/07/2026 06:00~TFS~12/07/2026 10:40~~",
+   "flightNumber": "FR653",
+   "previousPrice": null,
+   "priceUpdated": 1792434379000
+  },
+  "summary": {
+   "price": {
+    "value": 26.79,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "79",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -332,25 +539,25 @@
      "name": "Lanzarote"
     }
    },
-   "departureDate": "2026-12-07T15:05:00",
-   "arrivalDate": "2026-12-07T19:30:00",
+   "departureDate": "2026-12-04T15:20:00",
+   "arrivalDate": "2026-12-04T19:45:00",
    "price": {
-    "value": 28.99,
-    "valueMainUnit": "28",
-    "valueFractionalUnit": "99",
+    "value": 33.61,
+    "valueMainUnit": "33",
+    "valueFractionalUnit": "61",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
-   "flightKey": "FR~6153~ ~~PIK~12/07/2026 15:05~ACE~12/07/2026 19:30~~",
+   "flightKey": "FR~6153~ ~~PIK~12/04/2026 15:20~ACE~12/04/2026 19:45~~",
    "flightNumber": "FR6153",
    "previousPrice": null,
-   "priceUpdated": 1791800747000
+   "priceUpdated": 1792434005000
   },
   "summary": {
    "price": {
-    "value": 28.99,
-    "valueMainUnit": "28",
-    "valueFractionalUnit": "99",
+    "value": 33.61,
+    "valueMainUnit": "33",
+    "valueFractionalUnit": "61",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -386,8 +593,8 @@
    "departureDate": "2026-12-11T06:10:00",
    "arrivalDate": "2026-12-11T10:25:00",
    "price": {
-    "value": 28.99,
-    "valueMainUnit": "28",
+    "value": 34.99,
+    "valueMainUnit": "34",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -395,12 +602,12 @@
    "flightKey": "FR~ 655~ ~~PIK~12/11/2026 06:10~AGP~12/11/2026 10:25~~",
    "flightNumber": "FR655",
    "previousPrice": null,
-   "priceUpdated": 1791800749000
+   "priceUpdated": 1792419309000
   },
   "summary": {
    "price": {
-    "value": 28.99,
-    "valueMainUnit": "28",
+    "value": 34.99,
+    "valueMainUnit": "34",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -438,68 +645,16 @@
    "departureDate": "2026-12-05T15:00:00",
    "arrivalDate": "2026-12-05T19:40:00",
    "price": {
-    "value": 31.54,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "54",
+    "value": 36.93,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "93",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~ 653~ ~~PIK~12/05/2026 15:00~TFS~12/05/2026 19:40~~",
    "flightNumber": "FR653",
    "previousPrice": null,
-   "priceUpdated": 1791800747000
-  },
-  "summary": {
-   "price": {
-    "value": 31.54,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "54",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "PIK",
-    "name": "Glasgow Prestwick",
-    "seoName": "glasgow-prestwick",
-    "city": {
-     "code": "GLASGOW",
-     "countryCode": "gb",
-     "macCode": "GLW",
-     "name": "Glasgow"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "TFS",
-    "name": "Tenerife South",
-    "seoName": "tenerife-south",
-    "city": {
-     "code": "TENERIFE",
-     "countryCode": "es",
-     "macCode": "TEN",
-     "name": "Tenerife"
-    }
-   },
-   "departureDate": "2026-12-04T15:05:00",
-   "arrivalDate": "2026-12-04T19:45:00",
-   "price": {
-    "value": 36.93,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "93",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~ 653~ ~~PIK~12/04/2026 15:05~TFS~12/04/2026 19:45~~",
-   "flightNumber": "FR653",
-   "previousPrice": null,
-   "priceUpdated": 1791800746000
+   "priceUpdated": 1792430352000
   },
   "summary": {
    "price": {
@@ -529,138 +684,34 @@
    },
    "arrivalAirport": {
     "countryName": "Spain",
-    "iataCode": "TFS",
-    "name": "Tenerife South",
-    "seoName": "tenerife-south",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
     "city": {
-     "code": "TENERIFE",
+     "code": "ALICANTE",
      "countryCode": "es",
-     "macCode": "TEN",
-     "name": "Tenerife"
+     "name": "Alicante"
     }
    },
-   "departureDate": "2026-12-10T14:25:00",
-   "arrivalDate": "2026-12-10T19:05:00",
+   "departureDate": "2026-12-11T06:20:00",
+   "arrivalDate": "2026-12-11T10:20:00",
    "price": {
-    "value": 42.04,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "04",
+    "value": 43.99,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
-   "flightKey": "FR~ 653~ ~~PIK~12/10/2026 14:25~TFS~12/10/2026 19:05~~",
-   "flightNumber": "FR653",
+   "flightKey": "FR~ 691~ ~~PIK~12/11/2026 06:20~ALC~12/11/2026 10:20~~",
+   "flightNumber": "FR691",
    "previousPrice": null,
-   "priceUpdated": 1791800746000
+   "priceUpdated": 1792419334000
   },
   "summary": {
    "price": {
-    "value": 42.04,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "04",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "PIK",
-    "name": "Glasgow Prestwick",
-    "seoName": "glasgow-prestwick",
-    "city": {
-     "code": "GLASGOW",
-     "countryCode": "gb",
-     "macCode": "GLW",
-     "name": "Glasgow"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "TFS",
-    "name": "Tenerife South",
-    "seoName": "tenerife-south",
-    "city": {
-     "code": "TENERIFE",
-     "countryCode": "es",
-     "macCode": "TEN",
-     "name": "Tenerife"
-    }
-   },
-   "departureDate": "2026-12-07T06:00:00",
-   "arrivalDate": "2026-12-07T10:40:00",
-   "price": {
-    "value": 42.09,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "09",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~ 653~ ~~PIK~12/07/2026 06:00~TFS~12/07/2026 10:40~~",
-   "flightNumber": "FR653",
-   "previousPrice": null,
-   "priceUpdated": 1791800749000
-  },
-  "summary": {
-   "price": {
-    "value": 42.09,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "09",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "PIK",
-    "name": "Glasgow Prestwick",
-    "seoName": "glasgow-prestwick",
-    "city": {
-     "code": "GLASGOW",
-     "countryCode": "gb",
-     "macCode": "GLW",
-     "name": "Glasgow"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ACE",
-    "name": "Lanzarote",
-    "seoName": "lanzarote",
-    "city": {
-     "code": "LANZAROTE",
-     "countryCode": "es",
-     "name": "Lanzarote"
-    }
-   },
-   "departureDate": "2026-12-11T15:20:00",
-   "arrivalDate": "2026-12-11T19:45:00",
-   "price": {
-    "value": 48.83,
-    "valueMainUnit": "48",
-    "valueFractionalUnit": "83",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~6153~ ~~PIK~12/11/2026 15:20~ACE~12/11/2026 19:45~~",
-   "flightNumber": "FR6153",
-   "previousPrice": null,
-   "priceUpdated": 1791800745000
-  },
-  "summary": {
-   "price": {
-    "value": 48.83,
-    "valueMainUnit": "48",
-    "valueFractionalUnit": "83",
+    "value": 43.99,
+    "valueMainUnit": "43",
+    "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -705,7 +756,7 @@
    "flightKey": "FR~ 691~ ~~PIK~12/04/2026 06:20~ALC~12/04/2026 10:20~~",
    "flightNumber": "FR691",
    "previousPrice": null,
-   "priceUpdated": 1791800744000
+   "priceUpdated": 1792419262000
   },
   "summary": {
    "price": {
@@ -747,73 +798,22 @@
    "departureDate": "2026-12-07T16:45:00",
    "arrivalDate": "2026-12-07T20:45:00",
    "price": {
-    "value": 58.73,
-    "valueMainUnit": "58",
-    "valueFractionalUnit": "73",
+    "value": 66.15,
+    "valueMainUnit": "66",
+    "valueFractionalUnit": "15",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~ 691~ ~~PIK~12/07/2026 16:45~ALC~12/07/2026 20:45~~",
    "flightNumber": "FR691",
    "previousPrice": null,
-   "priceUpdated": 1791800749000
+   "priceUpdated": 1792405546000
   },
   "summary": {
    "price": {
-    "value": 58.73,
-    "valueMainUnit": "58",
-    "valueFractionalUnit": "73",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "PIK",
-    "name": "Glasgow Prestwick",
-    "seoName": "glasgow-prestwick",
-    "city": {
-     "code": "GLASGOW",
-     "countryCode": "gb",
-     "macCode": "GLW",
-     "name": "Glasgow"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-11T06:20:00",
-   "arrivalDate": "2026-12-11T10:20:00",
-   "price": {
-    "value": 60.99,
-    "valueMainUnit": "60",
-    "valueFractionalUnit": "99",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~ 691~ ~~PIK~12/11/2026 06:20~ALC~12/11/2026 10:20~~",
-   "flightNumber": "FR691",
-   "previousPrice": null,
-   "priceUpdated": 1791800745000
-  },
-  "summary": {
-   "price": {
-    "value": 60.99,
-    "valueMainUnit": "60",
-    "valueFractionalUnit": "99",
+    "value": 66.15,
+    "valueMainUnit": "66",
+    "valueFractionalUnit": "15",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -849,74 +849,22 @@
    "departureDate": "2026-12-04T06:10:00",
    "arrivalDate": "2026-12-04T10:25:00",
    "price": {
-    "value": 70.62,
-    "valueMainUnit": "70",
-    "valueFractionalUnit": "62",
+    "value": 87.74,
+    "valueMainUnit": "87",
+    "valueFractionalUnit": "74",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~ 655~ ~~PIK~12/04/2026 06:10~AGP~12/04/2026 10:25~~",
    "flightNumber": "FR655",
    "previousPrice": null,
-   "priceUpdated": 1791800745000
+   "priceUpdated": 1792421899000
   },
   "summary": {
    "price": {
-    "value": 70.62,
-    "valueMainUnit": "70",
-    "valueFractionalUnit": "62",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "PIK",
-    "name": "Glasgow Prestwick",
-    "seoName": "glasgow-prestwick",
-    "city": {
-     "code": "GLASGOW",
-     "countryCode": "gb",
-     "macCode": "GLW",
-     "name": "Glasgow"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "TFS",
-    "name": "Tenerife South",
-    "seoName": "tenerife-south",
-    "city": {
-     "code": "TENERIFE",
-     "countryCode": "es",
-     "macCode": "TEN",
-     "name": "Tenerife"
-    }
-   },
-   "departureDate": "2026-12-12T15:00:00",
-   "arrivalDate": "2026-12-12T19:40:00",
-   "price": {
-    "value": 18.99,
-    "valueMainUnit": "18",
-    "valueFractionalUnit": "99",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~ 653~ ~~PIK~12/12/2026 15:00~TFS~12/12/2026 19:40~~",
-   "flightNumber": "FR653",
-   "previousPrice": null,
-   "priceUpdated": 1791800749000
-  },
-  "summary": {
-   "price": {
-    "value": 18.99,
-    "valueMainUnit": "18",
-    "valueFractionalUnit": "99",
+    "value": 87.74,
+    "valueMainUnit": "87",
+    "valueFractionalUnit": "74",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -952,8 +900,8 @@
    "departureDate": "2026-12-12T15:50:00",
    "arrivalDate": "2026-12-12T20:15:00",
    "price": {
-    "value": 20.99,
-    "valueMainUnit": "20",
+    "value": 17.99,
+    "valueMainUnit": "17",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -961,7 +909,58 @@
    "flightKey": "FR~6153~ ~~PIK~12/12/2026 15:50~ACE~12/12/2026 20:15~~",
    "flightNumber": "FR6153",
    "previousPrice": null,
-   "priceUpdated": 1791800745000
+   "priceUpdated": 1792437043000
+  },
+  "summary": {
+   "price": {
+    "value": 17.99,
+    "valueMainUnit": "17",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "PIK",
+    "name": "Glasgow Prestwick",
+    "seoName": "glasgow-prestwick",
+    "city": {
+     "code": "GLASGOW",
+     "countryCode": "gb",
+     "macCode": "GLW",
+     "name": "Glasgow"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-14T16:45:00",
+   "arrivalDate": "2026-12-14T20:45:00",
+   "price": {
+    "value": 20.99,
+    "valueMainUnit": "20",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~ 691~ ~~PIK~12/14/2026 16:45~ALC~12/14/2026 20:45~~",
+   "flightNumber": "FR691",
+   "previousPrice": null,
+   "priceUpdated": 1792437048000
   },
   "summary": {
    "price": {
@@ -1003,276 +1002,21 @@
    "departureDate": "2026-12-14T15:05:00",
    "arrivalDate": "2026-12-14T19:30:00",
    "price": {
-    "value": 28.49,
-    "valueMainUnit": "28",
-    "valueFractionalUnit": "49",
+    "value": 24.99,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~6153~ ~~PIK~12/14/2026 15:05~ACE~12/14/2026 19:30~~",
    "flightNumber": "FR6153",
    "previousPrice": null,
-   "priceUpdated": 1791800747000
+   "priceUpdated": 1792434008000
   },
   "summary": {
    "price": {
-    "value": 28.49,
-    "valueMainUnit": "28",
-    "valueFractionalUnit": "49",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "PIK",
-    "name": "Glasgow Prestwick",
-    "seoName": "glasgow-prestwick",
-    "city": {
-     "code": "GLASGOW",
-     "countryCode": "gb",
-     "macCode": "GLW",
-     "name": "Glasgow"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ACE",
-    "name": "Lanzarote",
-    "seoName": "lanzarote",
-    "city": {
-     "code": "LANZAROTE",
-     "countryCode": "es",
-     "name": "Lanzarote"
-    }
-   },
-   "departureDate": "2026-12-19T15:50:00",
-   "arrivalDate": "2026-12-19T20:15:00",
-   "price": {
-    "value": 30.99,
-    "valueMainUnit": "30",
-    "valueFractionalUnit": "99",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~6153~ ~~PIK~12/19/2026 15:50~ACE~12/19/2026 20:15~~",
-   "flightNumber": "FR6153",
-   "previousPrice": null,
-   "priceUpdated": 1791801645000
-  },
-  "summary": {
-   "price": {
-    "value": 30.99,
-    "valueMainUnit": "30",
-    "valueFractionalUnit": "99",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "PIK",
-    "name": "Glasgow Prestwick",
-    "seoName": "glasgow-prestwick",
-    "city": {
-     "code": "GLASGOW",
-     "countryCode": "gb",
-     "macCode": "GLW",
-     "name": "Glasgow"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRN",
-    "name": "Turin",
-    "seoName": "turin",
-    "city": {
-     "code": "TURIN",
-     "countryCode": "it",
-     "name": "Turin"
-    }
-   },
-   "departureDate": "2026-12-12T08:25:00",
-   "arrivalDate": "2026-12-12T11:55:00",
-   "price": {
-    "value": 31.01,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "01",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~1752~ ~~PIK~12/12/2026 08:25~TRN~12/12/2026 11:55~~",
-   "flightNumber": "FR1752",
-   "previousPrice": null,
-   "priceUpdated": 1791800745000
-  },
-  "summary": {
-   "price": {
-    "value": 31.01,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "01",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "PIK",
-    "name": "Glasgow Prestwick",
-    "seoName": "glasgow-prestwick",
-    "city": {
-     "code": "GLASGOW",
-     "countryCode": "gb",
-     "macCode": "GLW",
-     "name": "Glasgow"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRN",
-    "name": "Turin",
-    "seoName": "turin",
-    "city": {
-     "code": "TURIN",
-     "countryCode": "it",
-     "name": "Turin"
-    }
-   },
-   "departureDate": "2026-12-19T08:25:00",
-   "arrivalDate": "2026-12-19T11:55:00",
-   "price": {
-    "value": 31.01,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "01",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~1752~ ~~PIK~12/19/2026 08:25~TRN~12/19/2026 11:55~~",
-   "flightNumber": "FR1752",
-   "previousPrice": null,
-   "priceUpdated": 1791800745000
-  },
-  "summary": {
-   "price": {
-    "value": 31.01,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "01",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "PIK",
-    "name": "Glasgow Prestwick",
-    "seoName": "glasgow-prestwick",
-    "city": {
-     "code": "GLASGOW",
-     "countryCode": "gb",
-     "macCode": "GLW",
-     "name": "Glasgow"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-13T16:50:00",
-   "arrivalDate": "2026-12-13T20:50:00",
-   "price": {
-    "value": 31.22,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "22",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~ 691~ ~~PIK~12/13/2026 16:50~ALC~12/13/2026 20:50~~",
-   "flightNumber": "FR691",
-   "previousPrice": null,
-   "priceUpdated": 1791800747000
-  },
-  "summary": {
-   "price": {
-    "value": 31.22,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "22",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "PIK",
-    "name": "Glasgow Prestwick",
-    "seoName": "glasgow-prestwick",
-    "city": {
-     "code": "GLASGOW",
-     "countryCode": "gb",
-     "macCode": "GLW",
-     "name": "Glasgow"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-14T16:45:00",
-   "arrivalDate": "2026-12-14T20:45:00",
-   "price": {
-    "value": 31.99,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "99",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~ 691~ ~~PIK~12/14/2026 16:45~ALC~12/14/2026 20:45~~",
-   "flightNumber": "FR691",
-   "previousPrice": null,
-   "priceUpdated": 1791800745000
-  },
-  "summary": {
-   "price": {
-    "value": 31.99,
-    "valueMainUnit": "31",
+    "value": 24.99,
+    "valueMainUnit": "24",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -1297,84 +1041,34 @@
    },
    "arrivalAirport": {
     "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
+    "iataCode": "TFS",
+    "name": "Tenerife South",
+    "seoName": "tenerife-south",
     "city": {
-     "code": "MALAGA",
+     "code": "TENERIFE",
      "countryCode": "es",
-     "name": "Malaga"
+     "macCode": "TEN",
+     "name": "Tenerife"
     }
    },
-   "departureDate": "2026-12-14T07:05:00",
-   "arrivalDate": "2026-12-14T11:20:00",
+   "departureDate": "2026-12-14T06:00:00",
+   "arrivalDate": "2026-12-14T10:40:00",
    "price": {
-    "value": 35.99,
-    "valueMainUnit": "35",
+    "value": 24.99,
+    "valueMainUnit": "24",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
-   "flightKey": "FR~ 655~ ~~PIK~12/14/2026 07:05~AGP~12/14/2026 11:20~~",
-   "flightNumber": "FR655",
+   "flightKey": "FR~ 653~ ~~PIK~12/14/2026 06:00~TFS~12/14/2026 10:40~~",
+   "flightNumber": "FR653",
    "previousPrice": null,
-   "priceUpdated": 1791800746000
+   "priceUpdated": 1792434035000
   },
   "summary": {
    "price": {
-    "value": 35.99,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "99",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "PIK",
-    "name": "Glasgow Prestwick",
-    "seoName": "glasgow-prestwick",
-    "city": {
-     "code": "GLASGOW",
-     "countryCode": "gb",
-     "macCode": "GLW",
-     "name": "Glasgow"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-17T06:25:00",
-   "arrivalDate": "2026-12-17T10:25:00",
-   "price": {
-    "value": 36.99,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "99",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~ 691~ ~~PIK~12/17/2026 06:25~ALC~12/17/2026 10:25~~",
-   "flightNumber": "FR691",
-   "previousPrice": null,
-   "priceUpdated": 1791800746000
-  },
-  "summary": {
-   "price": {
-    "value": 36.99,
-    "valueMainUnit": "36",
+    "value": 24.99,
+    "valueMainUnit": "24",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -1412,21 +1106,226 @@
    "departureDate": "2026-12-13T15:00:00",
    "arrivalDate": "2026-12-13T19:40:00",
    "price": {
-    "value": 36.99,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "99",
+    "value": 26.05,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "05",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~4280~ ~~PIK~12/13/2026 15:00~TFS~12/13/2026 19:40~~",
    "flightNumber": "FR4280",
    "previousPrice": null,
-   "priceUpdated": 1791800748000
+   "priceUpdated": 1792437029000
   },
   "summary": {
    "price": {
-    "value": 36.99,
-    "valueMainUnit": "36",
+    "value": 26.05,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "05",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "PIK",
+    "name": "Glasgow Prestwick",
+    "seoName": "glasgow-prestwick",
+    "city": {
+     "code": "GLASGOW",
+     "countryCode": "gb",
+     "macCode": "GLW",
+     "name": "Glasgow"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRN",
+    "name": "Turin",
+    "seoName": "turin",
+    "city": {
+     "code": "TURIN",
+     "countryCode": "it",
+     "name": "Turin"
+    }
+   },
+   "departureDate": "2026-12-12T08:25:00",
+   "arrivalDate": "2026-12-12T11:55:00",
+   "price": {
+    "value": 30.35,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "35",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~1752~ ~~PIK~12/12/2026 08:25~TRN~12/12/2026 11:55~~",
+   "flightNumber": "FR1752",
+   "previousPrice": null,
+   "priceUpdated": 1792405543000
+  },
+  "summary": {
+   "price": {
+    "value": 30.35,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "35",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "PIK",
+    "name": "Glasgow Prestwick",
+    "seoName": "glasgow-prestwick",
+    "city": {
+     "code": "GLASGOW",
+     "countryCode": "gb",
+     "macCode": "GLW",
+     "name": "Glasgow"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-17T06:25:00",
+   "arrivalDate": "2026-12-17T10:25:00",
+   "price": {
+    "value": 30.99,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~ 691~ ~~PIK~12/17/2026 06:25~ALC~12/17/2026 10:25~~",
+   "flightNumber": "FR691",
+   "previousPrice": null,
+   "priceUpdated": 1792436764000
+  },
+  "summary": {
+   "price": {
+    "value": 30.99,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "PIK",
+    "name": "Glasgow Prestwick",
+    "seoName": "glasgow-prestwick",
+    "city": {
+     "code": "GLASGOW",
+     "countryCode": "gb",
+     "macCode": "GLW",
+     "name": "Glasgow"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-14T07:05:00",
+   "arrivalDate": "2026-12-14T11:20:00",
+   "price": {
+    "value": 32.99,
+    "valueMainUnit": "32",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~ 655~ ~~PIK~12/14/2026 07:05~AGP~12/14/2026 11:20~~",
+   "flightNumber": "FR655",
+   "previousPrice": null,
+   "priceUpdated": 1792419406000
+  },
+  "summary": {
+   "price": {
+    "value": 32.99,
+    "valueMainUnit": "32",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "PIK",
+    "name": "Glasgow Prestwick",
+    "seoName": "glasgow-prestwick",
+    "city": {
+     "code": "GLASGOW",
+     "countryCode": "gb",
+     "macCode": "GLW",
+     "name": "Glasgow"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "TFS",
+    "name": "Tenerife South",
+    "seoName": "tenerife-south",
+    "city": {
+     "code": "TENERIFE",
+     "countryCode": "es",
+     "macCode": "TEN",
+     "name": "Tenerife"
+    }
+   },
+   "departureDate": "2026-12-12T15:00:00",
+   "arrivalDate": "2026-12-12T19:40:00",
+   "price": {
+    "value": 32.99,
+    "valueMainUnit": "32",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~ 653~ ~~PIK~12/12/2026 15:00~TFS~12/12/2026 19:40~~",
+   "flightNumber": "FR653",
+   "previousPrice": null,
+   "priceUpdated": 1792434008000
+  },
+  "summary": {
+   "price": {
+    "value": 32.99,
+    "valueMainUnit": "32",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -1463,22 +1362,22 @@
    "departureDate": "2026-12-18T06:20:00",
    "arrivalDate": "2026-12-18T10:20:00",
    "price": {
-    "value": 42.9,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "90",
+    "value": 34.32,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "32",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~ 691~ ~~PIK~12/18/2026 06:20~ALC~12/18/2026 10:20~~",
    "flightNumber": "FR691",
    "previousPrice": null,
-   "priceUpdated": 1791800745000
+   "priceUpdated": 1792405546000
   },
   "summary": {
    "price": {
-    "value": 42.9,
-    "valueMainUnit": "42",
-    "valueFractionalUnit": "90",
+    "value": 34.32,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "32",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -1502,86 +1401,34 @@
    },
    "arrivalAirport": {
     "countryName": "Spain",
-    "iataCode": "TFS",
-    "name": "Tenerife South",
-    "seoName": "tenerife-south",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
     "city": {
-     "code": "TENERIFE",
+     "code": "ALICANTE",
      "countryCode": "es",
-     "macCode": "TEN",
-     "name": "Tenerife"
+     "name": "Alicante"
     }
    },
-   "departureDate": "2026-12-14T06:00:00",
-   "arrivalDate": "2026-12-14T10:40:00",
+   "departureDate": "2026-12-13T16:50:00",
+   "arrivalDate": "2026-12-13T20:50:00",
    "price": {
-    "value": 45.19,
-    "valueMainUnit": "45",
-    "valueFractionalUnit": "19",
+    "value": 34.91,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "91",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
-   "flightKey": "FR~ 653~ ~~PIK~12/14/2026 06:00~TFS~12/14/2026 10:40~~",
-   "flightNumber": "FR653",
+   "flightKey": "FR~ 691~ ~~PIK~12/13/2026 16:50~ALC~12/13/2026 20:50~~",
+   "flightNumber": "FR691",
    "previousPrice": null,
-   "priceUpdated": 1791800749000
+   "priceUpdated": 1792405544000
   },
   "summary": {
    "price": {
-    "value": 45.19,
-    "valueMainUnit": "45",
-    "valueFractionalUnit": "19",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "PIK",
-    "name": "Glasgow Prestwick",
-    "seoName": "glasgow-prestwick",
-    "city": {
-     "code": "GLASGOW",
-     "countryCode": "gb",
-     "macCode": "GLW",
-     "name": "Glasgow"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ACE",
-    "name": "Lanzarote",
-    "seoName": "lanzarote",
-    "city": {
-     "code": "LANZAROTE",
-     "countryCode": "es",
-     "name": "Lanzarote"
-    }
-   },
-   "departureDate": "2026-12-18T15:20:00",
-   "arrivalDate": "2026-12-18T19:45:00",
-   "price": {
-    "value": 46.99,
-    "valueMainUnit": "46",
-    "valueFractionalUnit": "99",
-    "currencyCode": "GBP",
-    "currencySymbol": "£"
-   },
-   "flightKey": "FR~6153~ ~~PIK~12/18/2026 15:20~ACE~12/18/2026 19:45~~",
-   "flightNumber": "FR6153",
-   "previousPrice": null,
-   "priceUpdated": 1791802545000
-  },
-  "summary": {
-   "price": {
-    "value": 46.99,
-    "valueMainUnit": "46",
-    "valueFractionalUnit": "99",
+    "value": 34.91,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "91",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -1617,8 +1464,8 @@
    "departureDate": "2026-12-19T05:55:00",
    "arrivalDate": "2026-12-19T09:55:00",
    "price": {
-    "value": 51.99,
-    "valueMainUnit": "51",
+    "value": 41.99,
+    "valueMainUnit": "41",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -1626,12 +1473,114 @@
    "flightKey": "FR~ 691~ ~~PIK~12/19/2026 05:55~ALC~12/19/2026 09:55~~",
    "flightNumber": "FR691",
    "previousPrice": null,
-   "priceUpdated": 1791801645000
+   "priceUpdated": 1792419437000
   },
   "summary": {
    "price": {
-    "value": 51.99,
-    "valueMainUnit": "51",
+    "value": 41.99,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "PIK",
+    "name": "Glasgow Prestwick",
+    "seoName": "glasgow-prestwick",
+    "city": {
+     "code": "GLASGOW",
+     "countryCode": "gb",
+     "macCode": "GLW",
+     "name": "Glasgow"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ACE",
+    "name": "Lanzarote",
+    "seoName": "lanzarote",
+    "city": {
+     "code": "LANZAROTE",
+     "countryCode": "es",
+     "name": "Lanzarote"
+    }
+   },
+   "departureDate": "2026-12-18T15:20:00",
+   "arrivalDate": "2026-12-18T19:45:00",
+   "price": {
+    "value": 41.99,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~6153~ ~~PIK~12/18/2026 15:20~ACE~12/18/2026 19:45~~",
+   "flightNumber": "FR6153",
+   "previousPrice": null,
+   "priceUpdated": 1792419943000
+  },
+  "summary": {
+   "price": {
+    "value": 41.99,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "PIK",
+    "name": "Glasgow Prestwick",
+    "seoName": "glasgow-prestwick",
+    "city": {
+     "code": "GLASGOW",
+     "countryCode": "gb",
+     "macCode": "GLW",
+     "name": "Glasgow"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ACE",
+    "name": "Lanzarote",
+    "seoName": "lanzarote",
+    "city": {
+     "code": "LANZAROTE",
+     "countryCode": "es",
+     "name": "Lanzarote"
+    }
+   },
+   "departureDate": "2026-12-19T15:50:00",
+   "arrivalDate": "2026-12-19T20:15:00",
+   "price": {
+    "value": 45.99,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "99",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~6153~ ~~PIK~12/19/2026 15:50~ACE~12/19/2026 20:15~~",
+   "flightNumber": "FR6153",
+   "previousPrice": null,
+   "priceUpdated": 1792419944000
+  },
+  "summary": {
+   "price": {
+    "value": 45.99,
+    "valueMainUnit": "45",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -1668,27 +1617,78 @@
    "departureDate": "2026-12-18T06:10:00",
    "arrivalDate": "2026-12-18T10:25:00",
    "price": {
-    "value": 58.55,
-    "valueMainUnit": "58",
-    "valueFractionalUnit": "55",
+    "value": 49.04,
+    "valueMainUnit": "49",
+    "valueFractionalUnit": "04",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~ 655~ ~~PIK~12/18/2026 06:10~AGP~12/18/2026 10:25~~",
    "flightNumber": "FR655",
    "previousPrice": null,
-   "priceUpdated": 1791800747000
+   "priceUpdated": 1792431647000
   },
   "summary": {
    "price": {
-    "value": 58.55,
-    "valueMainUnit": "58",
-    "valueFractionalUnit": "55",
+    "value": 49.04,
+    "valueMainUnit": "49",
+    "valueFractionalUnit": "04",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "previousPrice": null,
    "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "PIK",
+    "name": "Glasgow Prestwick",
+    "seoName": "glasgow-prestwick",
+    "city": {
+     "code": "GLASGOW",
+     "countryCode": "gb",
+     "macCode": "GLW",
+     "name": "Glasgow"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRN",
+    "name": "Turin",
+    "seoName": "turin",
+    "city": {
+     "code": "TURIN",
+     "countryCode": "it",
+     "name": "Turin"
+    }
+   },
+   "departureDate": "2026-12-19T08:25:00",
+   "arrivalDate": "2026-12-19T11:55:00",
+   "price": {
+    "value": 49.19,
+    "valueMainUnit": "49",
+    "valueFractionalUnit": "19",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "flightKey": "FR~1752~ ~~PIK~12/19/2026 08:25~TRN~12/19/2026 11:55~~",
+   "flightNumber": "FR1752",
+   "previousPrice": null,
+   "priceUpdated": 1792434149000
+  },
+  "summary": {
+   "price": {
+    "value": 49.19,
+    "valueMainUnit": "49",
+    "valueFractionalUnit": "19",
+    "currencyCode": "GBP",
+    "currencySymbol": "£"
+   },
+   "previousPrice": null,
+   "newRoute": true
   }
  },
  {
@@ -1720,22 +1720,22 @@
    "departureDate": "2026-12-17T14:25:00",
    "arrivalDate": "2026-12-17T19:05:00",
    "price": {
-    "value": 61.27,
-    "valueMainUnit": "61",
-    "valueFractionalUnit": "27",
+    "value": 57.13,
+    "valueMainUnit": "57",
+    "valueFractionalUnit": "13",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~ 653~ ~~PIK~12/17/2026 14:25~TFS~12/17/2026 19:05~~",
    "flightNumber": "FR653",
    "previousPrice": null,
-   "priceUpdated": 1791800749000
+   "priceUpdated": 1792405549000
   },
   "summary": {
    "price": {
-    "value": 61.27,
-    "valueMainUnit": "61",
-    "valueFractionalUnit": "27",
+    "value": 57.13,
+    "valueMainUnit": "57",
+    "valueFractionalUnit": "13",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -1772,22 +1772,22 @@
    "departureDate": "2026-12-18T15:05:00",
    "arrivalDate": "2026-12-18T19:45:00",
    "price": {
-    "value": 72.74,
-    "valueMainUnit": "72",
-    "valueFractionalUnit": "74",
+    "value": 76.58,
+    "valueMainUnit": "76",
+    "valueFractionalUnit": "58",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
    "flightKey": "FR~ 653~ ~~PIK~12/18/2026 15:05~TFS~12/18/2026 19:45~~",
    "flightNumber": "FR653",
    "previousPrice": null,
-   "priceUpdated": 1791801167000
+   "priceUpdated": 1792405545000
   },
   "summary": {
    "price": {
-    "value": 72.74,
-    "valueMainUnit": "72",
-    "valueFractionalUnit": "74",
+    "value": 76.58,
+    "valueMainUnit": "76",
+    "valueFractionalUnit": "58",
     "currencyCode": "GBP",
     "currencySymbol": "£"
    },
@@ -1824,8 +1824,8 @@
    "departureDate": "2026-12-19T15:00:00",
    "arrivalDate": "2026-12-19T19:40:00",
    "price": {
-    "value": 98.99,
-    "valueMainUnit": "98",
+    "value": 109.99,
+    "valueMainUnit": "109",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"
@@ -1833,12 +1833,12 @@
    "flightKey": "FR~ 653~ ~~PIK~12/19/2026 15:00~TFS~12/19/2026 19:40~~",
    "flightNumber": "FR653",
    "previousPrice": null,
-   "priceUpdated": 1791801661000
+   "priceUpdated": 1792419464000
   },
   "summary": {
    "price": {
-    "value": 98.99,
-    "valueMainUnit": "98",
+    "value": 109.99,
+    "valueMainUnit": "109",
     "valueFractionalUnit": "99",
     "currencyCode": "GBP",
     "currencySymbol": "£"

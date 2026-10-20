@@ -1,17 +1,21 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA0JFRxoaEgoyMDI2LTEyLTEzagUSA0JFR3IFEgNUUkRAAUgBmAEB",
- "via": "ui",
+ "fetchedAt": "2026-10-19T22:53:24",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 294.0,
+   "price": 358.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-05",
+   "arrCode": "BEG",
    "arrAirportName": "Belgrade Nikola Tesla Airport",
    "arrTime": "11:55",
    "arrDate": "2026-12-05",
@@ -19,24 +23,33 @@
    "layovers": [
     {
      "min": 60,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1150",
+    "KL1983"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 348.0,
+   "price": 420.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Wideroe and Lufthansa",
    "operatedBy": null,
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "13:05",
    "depDate": "2026-12-05",
+   "arrCode": "BEG",
    "arrAirportName": "Belgrade Nikola Tesla Airport",
    "arrTime": "23:50",
    "arrDate": "2026-12-05",
@@ -44,30 +57,42 @@
    "layovers": [
     {
      "min": 150,
+     "overnight": false,
      "airport": "Oslo lufthavn",
      "city": "Oslo",
-     "overnight": false
+     "code": "OSL",
+     "changeAirport": false
     },
     {
      "min": 190,
+     "overnight": false,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
-     "overnight": false
+     "code": "FRA",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "WF1448",
+    "LH863",
+    "LH1414"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 502.0,
+   "price": 509.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Wideroe, Air France and Air Serbia",
    "operatedBy": null,
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "13:05",
    "depDate": "2026-12-05",
+   "arrCode": "BEG",
    "arrAirportName": "Belgrade Nikola Tesla Airport",
    "arrTime": "23:55",
    "arrDate": "2026-12-05",
@@ -75,30 +100,42 @@
    "layovers": [
     {
      "min": 185,
+     "overnight": false,
      "airport": "Oslo lufthavn",
      "city": "Oslo",
-     "overnight": false
+     "code": "OSL",
+     "changeAirport": false
     },
     {
      "min": 90,
+     "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
-     "overnight": false
+     "code": "CDG",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "WF1448",
+    "AF1775",
+    "JU243"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 659.0,
+   "price": 667.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines, Air France and Air Serbia",
-   "operatedBy": null,
+   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "13:30",
    "depDate": "2026-12-05",
+   "arrCode": "BEG",
    "arrAirportName": "Belgrade Nikola Tesla Airport",
    "arrTime": "23:55",
    "arrDate": "2026-12-05",
@@ -106,30 +143,42 @@
    "layovers": [
     {
      "min": 160,
+     "overnight": false,
      "airport": "Oslo lufthavn",
      "city": "Oslo",
-     "overnight": false
+     "code": "OSL",
+     "changeAirport": false
     },
     {
      "min": 90,
+     "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
-     "overnight": false
+     "code": "CDG",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "SK355",
+    "AF1775",
+    "JU243"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 679.0,
+   "price": 688.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and KLM",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper, Sas Link",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "13:30",
    "depDate": "2026-12-05",
+   "arrCode": "BEG",
    "arrAirportName": "Belgrade Nikola Tesla Airport",
    "arrTime": "23:25",
    "arrDate": "2026-12-05",
@@ -137,30 +186,85 @@
    "layovers": [
     {
      "min": 155,
+     "overnight": false,
      "airport": "Oslo lufthavn",
      "city": "Oslo",
-     "overnight": false
+     "code": "OSL",
+     "changeAirport": false
     },
     {
      "min": 130,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "SK355",
+    "KL1204",
+    "KL1985"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 942.0,
+   "price": 505.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Lufthansa",
+   "operatedBy": null,
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "16:45",
+   "depDate": "2026-12-05",
+   "arrCode": "BEG",
+   "arrAirportName": "Belgrade Nikola Tesla Airport",
+   "arrTime": "12:45",
+   "arrDate": "2026-12-06",
+   "durationMin": 1200,
+   "layovers": [
+    {
+     "min": 40,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo",
+     "code": "OSL",
+     "changeAirport": false
+    },
+    {
+     "min": 875,
+     "overnight": true,
+     "airport": "Munich International Airport",
+     "city": "Munich",
+     "code": "MUC",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "WF1452",
+    "LH2455",
+    "LH1734"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 1135.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and Air Serbia",
-   "operatedBy": null,
+   "operatedBy": "Cityjet for Scandinavian Airlines",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "10:15",
    "depDate": "2026-12-05",
+   "arrCode": "BEG",
    "arrAirportName": "Belgrade Nikola Tesla Airport",
    "arrTime": "23:55",
    "arrDate": "2026-12-05",
@@ -168,19 +272,29 @@
    "layovers": [
     {
      "min": 55,
+     "overnight": false,
      "airport": "Copenhagen Airport",
      "city": "Copenhagen",
-     "overnight": false
+     "code": "CPH",
+     "changeAirport": false
     },
     {
      "min": 405,
+     "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
-     "overnight": false
+     "code": "CDG",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "SK2889",
+    "SK567",
+    "JU243"
+   ],
+   "via": "rpc"
   }
  ]
 }

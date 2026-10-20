@@ -1,5 +1,238 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDVExMcgUSA1RSREABSAGYAQI",
- "via": "ui",
- "itineraries": []
+ "fetchedAt": "2026-10-19T23:05:47",
+ "priceUnavailable": 12,
+ "via": "html",
+ "itineraries": [
+  {
+   "price": 181.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Finnair and Wideroe",
+   "operatedBy": "Nordic Reg for Finnair, Nordic Reg for Finnair",
+   "depAirportName": "Tallinn Airport",
+   "depTime": "05:50",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-17",
+   "durationMin": 600,
+   "layovers": [
+    {
+     "min": 35,
+     "overnight": false,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki"
+    },
+    {
+     "min": 50,
+     "overnight": false,
+     "airport": "Stockholm Arlanda Airport",
+     "city": "Stockholm"
+    },
+    {
+     "min": 230,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 181 euros. 3 stops flight with Finnair and Wideroe. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Tallinn Airport at 5:50 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 2:50 PM on Thursday, December 17. Total duration 10 hr.  Layover (1 of 3) is a 35 min layover at Helsinki Airport in Helsinki. Layover (2 of 3) is a 50 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 3 hr 50 min layover at Bergen Airport in Bergen. Select flight"
+  },
+  {
+   "price": 287.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Tallinn Airport",
+   "depTime": "06:35",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-17",
+   "durationMin": 555,
+   "layovers": [
+    {
+     "min": 120,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 287 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Tallinn Airport at 6:35 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 2:50 PM on Thursday, December 17. Total duration 9 hr 15 min.  Layover (1 of 2) is a 2 hr layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+  },
+  {
+   "price": 311.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air Baltic, KLM and Scandinavian Airlines",
+   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "depAirportName": "Tallinn Airport",
+   "depTime": "07:25",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:10",
+   "arrDate": "2026-12-17",
+   "durationMin": 465,
+   "layovers": [
+    {
+     "min": 55,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    },
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 311 euros. 2 stops flight with Air Baltic, KLM and Scandinavian Airlines. Operated by Sas Link for Scandinavian Airlines. Leaves Tallinn Airport at 7:25 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 2:10 PM on Thursday, December 17. Total duration 7 hr 45 min.  Layover (1 of 2) is a 55 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 1 hr 25 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 338.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Air Baltic and KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Tallinn Airport",
+   "depTime": "07:25",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-17",
+   "durationMin": 610,
+   "layovers": [
+    {
+     "min": 325,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 338 euros. 1 stop flight with Air Baltic and KLM. Operated by KLM Cityhopper. Leaves Tallinn Airport at 7:25 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 4:35 PM on Thursday, December 17. Total duration 10 hr 10 min.  Layover (1 of 1) is a 5 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 171.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Finnair and Wideroe",
+   "operatedBy": "Nordic Reg for Finnair, Nordic Reg for Finnair, Nordic Reg for Finnair",
+   "depAirportName": "Tallinn Airport",
+   "depTime": "05:50",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "18:10",
+   "arrDate": "2026-12-17",
+   "durationMin": 800,
+   "layovers": [
+    {
+     "min": 60,
+     "overnight": false,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki"
+    },
+    {
+     "min": 25,
+     "overnight": false,
+     "airport": "Stockholm Arlanda Airport",
+     "city": "Stockholm"
+    },
+    {
+     "min": 425,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 171 euros. 3 stops flight with Finnair and Wideroe. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Tallinn Airport at 5:50 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 6:10 PM on Thursday, December 17. Total duration 13 hr 20 min.  Layover (1 of 3) is a 1 hr layover at Helsinki Airport in Helsinki. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 7 hr 5 min layover at Bergen Airport in Bergen. Select flight"
+  },
+  {
+   "price": 381.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air Baltic and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Tallinn Airport",
+   "depTime": "07:25",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:00",
+   "arrDate": "2026-12-17",
+   "durationMin": 575,
+   "layovers": [
+    {
+     "min": 100,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    },
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 381 euros. 2 stops flight with Air Baltic and Scandinavian Airlines. Leaves Tallinn Airport at 7:25 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 4:00 PM on Thursday, December 17. Total duration 9 hr 35 min.  Layover (1 of 2) is a 1 hr 40 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 2 hr 35 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 432.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and KLM",
+   "operatedBy": "Braathens Regional Airways AB for Scandinavian Airlines, KLM Cityhopper",
+   "depAirportName": "Tallinn Airport",
+   "depTime": "14:35",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-17",
+   "durationMin": 575,
+   "layovers": [
+    {
+     "min": 75,
+     "overnight": false,
+     "airport": "Stockholm Arlanda Airport",
+     "city": "Stockholm"
+    },
+    {
+     "min": 165,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 432 euros. 2 stops flight with Scandinavian Airlines and KLM. Operated by Braathens Regional Airways AB for Scandinavian Airlines, KLM Cityhopper. Leaves Tallinn Airport at 2:35 PM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 11:10 PM on Thursday, December 17. Total duration 9 hr 35 min.  Layover (1 of 2) is a 1 hr 15 min layover at Stockholm Arlanda Airport in Stockholm. Layover (2 of 2) is a 2 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  }
+ ]
 }

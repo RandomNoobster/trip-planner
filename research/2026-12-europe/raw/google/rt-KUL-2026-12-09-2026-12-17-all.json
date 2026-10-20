@@ -1,17 +1,21 @@
 {
- "url": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDVFJEcgcIARIDS1VMGh4SCjIwMjYtMTItMTdqBwgBEgNLVUxyBwgBEgNUUkRAAUgBcAGCAQsI____________AZgBAQ&hl=en&gl=NO&curr=EUR",
- "via": "ui",
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDlqBRIDVFJEcgUSA0tVTBoaEgoyMDI2LTEyLTE3agUSA0tVTHIFEgNUUkRAAUgBmAEB",
+ "fetchedAt": "2026-10-19T22:57:37",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 1171.0,
+   "price": 1079.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Wideroe and Lufthansa",
    "operatedBy": null,
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "09:10",
    "depDate": "2026-12-09",
+   "arrCode": "KUL",
    "arrAirportName": "Kuala Lumpur International Airport",
    "arrTime": "16:40",
    "arrDate": "2026-12-10",
@@ -19,30 +23,42 @@
    "layovers": [
     {
      "min": 155,
+     "overnight": false,
      "airport": "Bergen Airport",
      "city": "Bergen",
-     "overnight": false
+     "code": "BGO",
+     "changeAirport": false
     },
     {
      "min": 390,
+     "overnight": true,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
-     "overnight": false
+     "code": "FRA",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "WF1302",
+    "LH873",
+    "LH704"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 1179.0,
+   "price": 1335.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and Etihad",
-   "operatedBy": null,
+   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "05:30",
    "depDate": "2026-12-09",
+   "arrCode": "KUL",
    "arrAirportName": "Kuala Lumpur International Airport",
    "arrTime": "08:05",
    "arrDate": "2026-12-10",
@@ -50,30 +66,42 @@
    "layovers": [
     {
      "min": 180,
+     "overnight": false,
      "airport": "Copenhagen Airport",
      "city": "Copenhagen",
-     "overnight": false
+     "code": "CPH",
+     "changeAirport": false
     },
     {
      "min": 80,
+     "overnight": false,
      "airport": "Zayed International Airport",
      "city": "Abu Dhabi",
-     "overnight": false
+     "code": "AUH",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "SK2885",
+    "EY178",
+    "EY488"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 2256.0,
+   "price": 2199.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-09",
+   "arrCode": "KUL",
    "arrAirportName": "Kuala Lumpur International Airport",
    "arrTime": "15:40",
    "arrDate": "2026-12-10",
@@ -81,13 +109,54 @@
    "layovers": [
     {
      "min": 705,
+     "overnight": true,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1150",
+    "KL809"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 2282.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-09",
+   "arrCode": "KUL",
+   "arrAirportName": "Kuala Lumpur International Airport",
+   "arrTime": "15:40",
+   "arrDate": "2026-12-10",
+   "durationMin": 930,
+   "layovers": [
+    {
+     "min": 50,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1154",
+    "KL809"
+   ],
+   "via": "rpc"
   }
  ]
 }

@@ -1,17 +1,21 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA0ZMUhoaEgoyMDI2LTEyLTE0agUSA0ZMUnIFEgNUUkRAAUgBmAEB",
- "via": "ui",
+ "fetchedAt": "2026-10-19T22:51:50",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 257.0,
+   "price": 275.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-07",
+   "arrCode": "FLR",
    "arrAirportName": "Amerigo Vespucci Airport",
    "arrTime": "12:25",
    "arrDate": "2026-12-07",
@@ -19,24 +23,101 @@
    "layovers": [
     {
      "min": 105,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1150",
+    "KL1653"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 499.0,
+   "price": 411.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-07",
+   "arrCode": "FLR",
+   "arrAirportName": "Amerigo Vespucci Airport",
+   "arrTime": "22:55",
+   "arrDate": "2026-12-07",
+   "durationMin": 345,
+   "layovers": [
+    {
+     "min": 80,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1154",
+    "KL1659"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 439.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-07",
+   "arrCode": "FLR",
+   "arrAirportName": "Amerigo Vespucci Airport",
+   "arrTime": "22:55",
+   "arrDate": "2026-12-07",
+   "durationMin": 995,
+   "layovers": [
+    {
+     "min": 735,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1150",
+    "KL1659"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 446.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Wideroe, Lufthansa and Air Dolomiti",
    "operatedBy": null,
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "09:10",
    "depDate": "2026-12-07",
+   "arrCode": "FLR",
    "arrAirportName": "Amerigo Vespucci Airport",
    "arrTime": "18:30",
    "arrDate": "2026-12-07",
@@ -44,30 +125,42 @@
    "layovers": [
     {
      "min": 155,
+     "overnight": false,
      "airport": "Bergen Airport",
      "city": "Bergen",
-     "overnight": false
+     "code": "BGO",
+     "changeAirport": false
     },
     {
      "min": 115,
+     "overnight": false,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
-     "overnight": false
+     "code": "FRA",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "WF1302",
+    "LH873",
+    "EN316"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 624.0,
+   "price": 743.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": null,
+   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "15:05",
    "depDate": "2026-12-07",
+   "arrCode": "FLR",
    "arrAirportName": "Amerigo Vespucci Airport",
    "arrTime": "22:55",
    "arrDate": "2026-12-07",
@@ -75,19 +168,29 @@
    "layovers": [
     {
      "min": 75,
+     "overnight": false,
      "airport": "Copenhagen Airport",
      "city": "Copenhagen",
-     "overnight": false
+     "code": "CPH",
+     "changeAirport": false
     },
     {
      "min": 65,
+     "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris",
-     "overnight": false
+     "code": "CDG",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "SK2881",
+    "AF1051",
+    "AF1266"
+   ],
+   "via": "rpc"
   }
  ]
 }

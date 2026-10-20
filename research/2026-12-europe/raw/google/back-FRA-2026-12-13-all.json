@@ -1,7 +1,8 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDRlJBcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T11:22:00",
+ "fetchedAt": "2026-10-19T23:14:25",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
    "price": 178.0,
@@ -30,7 +31,7 @@
    "label": "From 178 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Frankfurt Airport at 6:30 PM on Sunday, December 13 and arrives at Trondheim Airport, Værnes at 11:10 PM on Sunday, December 13. Total duration 4 hr 40 min.  Layover (1 of 1) is a 1 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 197.0,
+   "price": 247.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -53,10 +54,132 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 197 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Frankfurt Airport at 11:45 AM on Sunday, December 13 and arrives at Trondheim Airport, Værnes at 4:35 PM on Sunday, December 13. Total duration 4 hr 50 min.  Layover (1 of 1) is a 1 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 247 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Frankfurt Airport at 11:45 AM on Sunday, December 13 and arrives at Trondheim Airport, Værnes at 4:35 PM on Sunday, December 13. Total duration 4 hr 50 min.  Layover (1 of 1) is a 1 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 268.0,
+   "price": 382.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Frankfurt Airport",
+   "depTime": "10:10",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:45",
+   "arrDate": "2026-12-13",
+   "durationMin": 275,
+   "layovers": [
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 382 euros. 1 stop flight with Lufthansa and Wideroe. Leaves Frankfurt Airport at 10:10 AM on Sunday, December 13 and arrives at Trondheim Airport, Værnes at 2:45 PM on Sunday, December 13. Total duration 4 hr 35 min.  Layover (1 of 1) is a 1 hr 25 min layover at Bergen Airport in Bergen. Select flight"
+  },
+  {
+   "price": 280.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air France and Wideroe",
+   "operatedBy": "HOP!",
+   "depAirportName": "Frankfurt Airport",
+   "depTime": "07:05",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:40",
+   "arrDate": "2026-12-13",
+   "durationMin": 575,
+   "layovers": [
+    {
+     "min": 80,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
+    },
+    {
+     "min": 195,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 280 euros. 2 stops flight with Air France and Wideroe. Operated by HOP!. Leaves Frankfurt Airport at 7:05 AM on Sunday, December 13 and arrives at Trondheim Airport, Værnes at 4:40 PM on Sunday, December 13. Total duration 9 hr 35 min.  Layover (1 of 2) is a 1 hr 20 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 3 hr 15 min layover at Bergen Airport in Bergen. Select flight"
+  },
+  {
+   "price": 293.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Finnair and Wideroe",
+   "operatedBy": "Nordic Reg for Finnair, Nordic Reg for Finnair",
+   "depAirportName": "Frankfurt Airport",
+   "depTime": "19:25",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-14",
+   "durationMin": 1165,
+   "layovers": [
+    {
+     "min": 485,
+     "overnight": false,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki"
+    },
+    {
+     "min": 50,
+     "overnight": false,
+     "airport": "Stockholm Arlanda Airport",
+     "city": "Stockholm"
+    },
+    {
+     "min": 230,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 293 euros. 3 stops flight with Finnair and Wideroe. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Frankfurt Airport at 7:25 PM on Sunday, December 13 and arrives at Trondheim Airport, Værnes at 2:50 PM on Monday, December 14. Total duration 19 hr 25 min.  Layover (1 of 3) is a 8 hr 5 min layover at Helsinki Airport in Helsinki. Layover (2 of 3) is a 50 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 3 hr 50 min layover at Bergen Airport in Bergen. Select flight"
+  },
+  {
+   "price": 308.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Frankfurt Airport",
+   "depTime": "21:00",
+   "depDate": "2026-12-13",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-14",
+   "durationMin": 1070,
+   "layovers": [
+    {
+     "min": 885,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 308 euros. 1 stop flight with Lufthansa and Wideroe. Leaves Frankfurt Airport at 9:00 PM on Sunday, December 13 and arrives at Trondheim Airport, Værnes at 2:50 PM on Monday, December 14. Total duration 17 hr 50 min.  Layover (1 of 1) is a 14 hr 45 min layover at Bergen Airport in Bergen. Select flight"
+  },
+  {
+   "price": 316.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -85,100 +208,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 268 euros. 2 stops flight with Air France and Wideroe. Operated by HOP!. Leaves Frankfurt Airport at 7:05 AM on Sunday, December 13 and arrives at Trondheim Airport, Værnes at 2:45 PM on Sunday, December 13. Total duration 7 hr 40 min.  Layover (1 of 2) is a 1 hr 20 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 1 hr 20 min layover at Bergen Airport in Bergen. Select flight"
+   "label": "From 316 euros. 2 stops flight with Air France and Wideroe. Operated by HOP!. Leaves Frankfurt Airport at 7:05 AM on Sunday, December 13 and arrives at Trondheim Airport, Værnes at 2:45 PM on Sunday, December 13. Total duration 7 hr 40 min.  Layover (1 of 2) is a 1 hr 20 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 1 hr 20 min layover at Bergen Airport in Bergen. Select flight"
   },
   {
-   "price": 380.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "Lufthansa and Wideroe",
-   "operatedBy": null,
-   "depAirportName": "Frankfurt Airport",
-   "depTime": "10:10",
-   "depDate": "2026-12-13",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:45",
-   "arrDate": "2026-12-13",
-   "durationMin": 275,
-   "layovers": [
-    {
-     "min": 85,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 380 euros. 1 stop flight with Lufthansa and Wideroe. Leaves Frankfurt Airport at 10:10 AM on Sunday, December 13 and arrives at Trondheim Airport, Værnes at 2:45 PM on Sunday, December 13. Total duration 4 hr 35 min.  Layover (1 of 1) is a 1 hr 25 min layover at Bergen Airport in Bergen. Select flight"
-  },
-  {
-   "price": 283.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 3,
-   "airlines": "Finnair and Wideroe",
-   "operatedBy": "Nordic Reg for Finnair, Nordic Reg for Finnair",
-   "depAirportName": "Frankfurt Airport",
-   "depTime": "19:25",
-   "depDate": "2026-12-13",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-14",
-   "durationMin": 1165,
-   "layovers": [
-    {
-     "min": 55,
-     "overnight": false,
-     "airport": "Helsinki Airport",
-     "city": "Helsinki"
-    },
-    {
-     "min": 490,
-     "overnight": false,
-     "airport": "Stockholm Arlanda Airport",
-     "city": "Stockholm"
-    },
-    {
-     "min": 230,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 283 euros. 3 stops flight with Finnair and Wideroe. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Frankfurt Airport at 7:25 PM on Sunday, December 13 and arrives at Trondheim Airport, Værnes at 2:50 PM on Monday, December 14. Total duration 19 hr 25 min.  Layover (1 of 3) is a 55 min layover at Helsinki Airport in Helsinki. Layover (2 of 3) is a 8 hr 10 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 3 hr 50 min layover at Bergen Airport in Bergen. Select flight"
-  },
-  {
-   "price": 306.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "Lufthansa and Wideroe",
-   "operatedBy": null,
-   "depAirportName": "Frankfurt Airport",
-   "depTime": "21:00",
-   "depDate": "2026-12-13",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-14",
-   "durationMin": 1070,
-   "layovers": [
-    {
-     "min": 885,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 306 euros. 1 stop flight with Lufthansa and Wideroe. Leaves Frankfurt Airport at 9:00 PM on Sunday, December 13 and arrives at Trondheim Airport, Værnes at 2:50 PM on Monday, December 14. Total duration 17 hr 50 min.  Layover (1 of 1) is a 14 hr 45 min layover at Bergen Airport in Bergen. Select flight"
-  },
-  {
-   "price": 468.0,
+   "price": 492.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -207,7 +240,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 468 euros. 2 stops flight with Austrian and Scandinavian Airlines. Operated by Sas Link. Leaves Frankfurt Airport at 12:50 PM on Sunday, December 13 and arrives at Trondheim Airport, Værnes at 7:20 PM on Sunday, December 13. Total duration 6 hr 30 min.  Layover (1 of 2) is a 50 min layover at Vienna International Airport in Vienna. Layover (2 of 2) is a 50 min layover at Copenhagen Airport in Copenhagen. Select flight"
+   "label": "From 492 euros. 2 stops flight with Austrian and Scandinavian Airlines. Operated by Sas Link. Leaves Frankfurt Airport at 12:50 PM on Sunday, December 13 and arrives at Trondheim Airport, Værnes at 7:20 PM on Sunday, December 13. Total duration 6 hr 30 min.  Layover (1 of 2) is a 50 min layover at Vienna International Airport in Vienna. Layover (2 of 2) is a 50 min layover at Copenhagen Airport in Copenhagen. Select flight"
   }
  ]
 }

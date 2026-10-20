@@ -23,8 +23,8 @@
      "name": "Bari"
     }
    },
-   "departureDate": "2026-12-05T19:35:00",
-   "arrivalDate": "2026-12-05T20:55:00",
+   "departureDate": "2026-12-06T06:45:00",
+   "arrivalDate": "2026-12-06T08:05:00",
    "price": {
     "value": 14.99,
     "valueMainUnit": "14",
@@ -32,10 +32,10 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~7086~ ~~TRS~12/05/2026 19:35~BRI~12/05/2026 20:55~~",
+   "flightKey": "FR~7086~ ~~TRS~12/06/2026 06:45~BRI~12/06/2026 08:05~~",
    "flightNumber": "FR7086",
    "previousPrice": null,
-   "priceUpdated": 1791800949000
+   "priceUpdated": 1792434549000
   },
   "summary": {
    "price": {
@@ -64,17 +64,17 @@
    },
    "arrivalAirport": {
     "countryName": "Italy",
-    "iataCode": "BRI",
-    "name": "Bari",
-    "seoName": "bari",
+    "iataCode": "BDS",
+    "name": "Brindisi",
+    "seoName": "brindisi",
     "city": {
-     "code": "BARI",
+     "code": "BRINDISI",
      "countryCode": "it",
-     "name": "Bari"
+     "name": "Brindisi"
     }
    },
-   "departureDate": "2026-12-06T06:45:00",
-   "arrivalDate": "2026-12-06T08:05:00",
+   "departureDate": "2026-12-06T18:45:00",
+   "arrivalDate": "2026-12-06T20:05:00",
    "price": {
     "value": 14.99,
     "valueMainUnit": "14",
@@ -82,10 +82,10 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~7086~ ~~TRS~12/06/2026 06:45~BRI~12/06/2026 08:05~~",
-   "flightNumber": "FR7086",
+   "flightKey": "FR~3031~ ~~TRS~12/06/2026 18:45~BDS~12/06/2026 20:05~~",
+   "flightNumber": "FR3031",
    "previousPrice": null,
-   "priceUpdated": 1791800948000
+   "priceUpdated": 1792405750000
   },
   "summary": {
    "price": {
@@ -96,7 +96,57 @@
     "currencySymbol": "€"
    },
    "previousPrice": null,
-   "newRoute": false
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Poland",
+    "iataCode": "KRK",
+    "name": "Krakow",
+    "seoName": "krakow",
+    "city": {
+     "code": "KRAKOW",
+     "countryCode": "pl",
+     "name": "Krakow"
+    }
+   },
+   "departureDate": "2026-12-06T06:00:00",
+   "arrivalDate": "2026-12-06T07:30:00",
+   "price": {
+    "value": 14.99,
+    "valueMainUnit": "14",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~6783~ ~~TRS~12/06/2026 06:00~KRK~12/06/2026 07:30~~",
+   "flightNumber": "FR6783",
+   "previousPrice": null,
+   "priceUpdated": 1792419571000
+  },
+  "summary": {
+   "price": {
+    "value": 14.99,
+    "valueMainUnit": "14",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
   }
  },
  {
@@ -135,7 +185,7 @@
    "flightKey": "FR~6783~ ~~TRS~12/07/2026 09:55~KRK~12/07/2026 11:25~~",
    "flightNumber": "FR6783",
    "previousPrice": null,
-   "priceUpdated": 1791800950000
+   "priceUpdated": 1792423371000
   },
   "summary": {
    "price": {
@@ -185,7 +235,7 @@
    "flightKey": "FR~5836~ ~~TRS~12/04/2026 09:50~SUF~12/04/2026 11:20~~",
    "flightNumber": "FR5836",
    "previousPrice": null,
-   "priceUpdated": 1791800951000
+   "priceUpdated": 1792432365000
   },
   "summary": {
    "price": {
@@ -216,7 +266,7 @@
     "countryName": "Albania",
     "iataCode": "TIA",
     "name": "Tirana",
-    "seoName": "tirana",
+    "seoName": "Tirana",
     "city": {
      "code": "TIRANA",
      "countryCode": "al",
@@ -235,7 +285,7 @@
    "flightKey": "FR~5649~ ~~TRS~12/07/2026 08:05~TIA~12/07/2026 09:40~~",
    "flightNumber": "FR5649",
    "previousPrice": null,
-   "priceUpdated": 1791800949000
+   "priceUpdated": 1792405750000
   },
   "summary": {
    "price": {
@@ -263,18 +313,18 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Albania",
-    "iataCode": "TIA",
-    "name": "Tirana",
-    "seoName": "tirana",
+    "countryName": "Italy",
+    "iataCode": "BRI",
+    "name": "Bari",
+    "seoName": "bari",
     "city": {
-     "code": "TIRANA",
-     "countryCode": "al",
-     "name": "Tirana"
+     "code": "BARI",
+     "countryCode": "it",
+     "name": "Bari"
     }
    },
-   "departureDate": "2026-12-11T12:20:00",
-   "arrivalDate": "2026-12-11T13:55:00",
+   "departureDate": "2026-12-05T19:35:00",
+   "arrivalDate": "2026-12-05T20:55:00",
    "price": {
     "value": 15.99,
     "valueMainUnit": "15",
@@ -282,115 +332,15 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~5649~ ~~TRS~12/11/2026 12:20~TIA~12/11/2026 13:55~~",
-   "flightNumber": "FR5649",
+   "flightKey": "FR~7086~ ~~TRS~12/05/2026 19:35~BRI~12/05/2026 20:55~~",
+   "flightNumber": "FR7086",
    "previousPrice": null,
-   "priceUpdated": 1791803400000
+   "priceUpdated": 1792434039000
   },
   "summary": {
    "price": {
     "value": 15.99,
     "valueMainUnit": "15",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Poland",
-    "iataCode": "KRK",
-    "name": "Krakow",
-    "seoName": "krakow",
-    "city": {
-     "code": "KRAKOW",
-     "countryCode": "pl",
-     "name": "Krakow"
-    }
-   },
-   "departureDate": "2026-12-06T06:00:00",
-   "arrivalDate": "2026-12-06T07:30:00",
-   "price": {
-    "value": 17.99,
-    "valueMainUnit": "17",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6783~ ~~TRS~12/06/2026 06:00~KRK~12/06/2026 07:30~~",
-   "flightNumber": "FR6783",
-   "previousPrice": null,
-   "priceUpdated": 1791800950000
-  },
-  "summary": {
-   "price": {
-    "value": 17.99,
-    "valueMainUnit": "17",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Malta",
-    "iataCode": "MLA",
-    "name": "Malta",
-    "seoName": "malta",
-    "city": {
-     "code": "MALTA",
-     "countryCode": "mt",
-     "name": "Malta"
-    }
-   },
-   "departureDate": "2026-12-07T21:30:00",
-   "arrivalDate": "2026-12-07T23:25:00",
-   "price": {
-    "value": 17.99,
-    "valueMainUnit": "17",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3695~ ~~TRS~12/07/2026 21:30~MLA~12/07/2026 23:25~~",
-   "flightNumber": "FR3695",
-   "previousPrice": null,
-   "priceUpdated": 1791800951000
-  },
-  "summary": {
-   "price": {
-    "value": 17.99,
-    "valueMainUnit": "17",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -413,40 +363,90 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "SVQ",
-    "name": "Seville",
-    "seoName": "seville",
+    "countryName": "Albania",
+    "iataCode": "TIA",
+    "name": "Tirana",
+    "seoName": "Tirana",
     "city": {
-     "code": "SEVILLE",
-     "countryCode": "es",
-     "name": "Seville"
+     "code": "TIRANA",
+     "countryCode": "al",
+     "name": "Tirana"
     }
    },
-   "departureDate": "2026-12-06T15:30:00",
-   "arrivalDate": "2026-12-06T18:25:00",
+   "departureDate": "2026-12-11T12:20:00",
+   "arrivalDate": "2026-12-11T13:55:00",
    "price": {
-    "value": 17.99,
-    "valueMainUnit": "17",
+    "value": 15.99,
+    "valueMainUnit": "15",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2427~ ~~TRS~12/06/2026 15:30~SVQ~12/06/2026 18:25~~",
-   "flightNumber": "FR2427",
+   "flightKey": "FR~5649~ ~~TRS~12/11/2026 12:20~TIA~12/11/2026 13:55~~",
+   "flightNumber": "FR5649",
    "previousPrice": null,
-   "priceUpdated": 1791800953000
+   "priceUpdated": 1792436813000
   },
   "summary": {
    "price": {
-    "value": 17.99,
-    "valueMainUnit": "17",
+    "value": 15.99,
+    "valueMainUnit": "15",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "PMO",
+    "name": "Palermo",
+    "seoName": "palermo",
+    "city": {
+     "code": "PALERMO",
+     "countryCode": "it",
+     "name": "Palermo"
+    }
+   },
+   "departureDate": "2026-12-06T09:55:00",
+   "arrivalDate": "2026-12-06T11:30:00",
+   "price": {
+    "value": 16.99,
+    "valueMainUnit": "16",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1759~ ~~TRS~12/06/2026 09:55~PMO~12/06/2026 11:30~~",
+   "flightNumber": "FR1759",
+   "previousPrice": null,
+   "priceUpdated": 1792437909000
+  },
+  "summary": {
+   "price": {
+    "value": 16.99,
+    "valueMainUnit": "16",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
   }
  },
  {
@@ -474,24 +474,24 @@
      "name": "Valencia"
     }
    },
-   "departureDate": "2026-12-10T21:40:00",
-   "arrivalDate": "2026-12-10T23:55:00",
+   "departureDate": "2026-12-07T06:35:00",
+   "arrivalDate": "2026-12-07T08:50:00",
    "price": {
-    "value": 19.99,
-    "valueMainUnit": "19",
+    "value": 16.99,
+    "valueMainUnit": "16",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 618~ ~~TRS~12/10/2026 21:40~VLC~12/10/2026 23:55~~",
+   "flightKey": "FR~ 618~ ~~TRS~12/07/2026 06:35~VLC~12/07/2026 08:50~~",
    "flightNumber": "FR618",
    "previousPrice": null,
-   "priceUpdated": 1791800949000
+   "priceUpdated": 1792434548000
   },
   "summary": {
    "price": {
-    "value": 19.99,
-    "valueMainUnit": "19",
+    "value": 16.99,
+    "valueMainUnit": "16",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -514,34 +514,84 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
+    "countryName": "Italy",
+    "iataCode": "NAP",
+    "name": "Naples",
+    "seoName": "naples",
     "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
+     "code": "NAPLES",
+     "countryCode": "it",
+     "name": "Naples"
     }
    },
-   "departureDate": "2026-12-06T16:50:00",
-   "arrivalDate": "2026-12-06T18:35:00",
+   "departureDate": "2026-12-10T08:20:00",
+   "arrivalDate": "2026-12-10T09:35:00",
    "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
+    "value": 17.0,
+    "valueMainUnit": "17",
+    "valueFractionalUnit": "00",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4661~ ~~TRS~12/10/2026 08:20~NAP~12/10/2026 09:35~~",
+   "flightNumber": "FR4661",
+   "previousPrice": null,
+   "priceUpdated": 1792439547000
+  },
+  "summary": {
+   "price": {
+    "value": 17.0,
+    "valueMainUnit": "17",
+    "valueFractionalUnit": "00",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "CTA",
+    "name": "Catania",
+    "seoName": "catania",
+    "city": {
+     "code": "CATANIA",
+     "countryCode": "it",
+     "name": "Catania"
+    }
+   },
+   "departureDate": "2026-12-11T16:30:00",
+   "arrivalDate": "2026-12-11T18:15:00",
+   "price": {
+    "value": 17.99,
+    "valueMainUnit": "17",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~4497~ ~~TRS~12/06/2026 16:50~CRL~12/06/2026 18:35~~",
-   "flightNumber": "FR4497",
+   "flightKey": "FR~9384~ ~~TRS~12/11/2026 16:30~CTA~12/11/2026 18:15~~",
+   "flightNumber": "FR9384",
    "previousPrice": null,
-   "priceUpdated": 1791803346000
+   "priceUpdated": 1792434036000
   },
   "summary": {
    "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
+    "value": 17.99,
+    "valueMainUnit": "17",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -578,8 +628,8 @@
    "departureDate": "2026-12-10T20:20:00",
    "arrivalDate": "2026-12-10T21:30:00",
    "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
+    "value": 18.99,
+    "valueMainUnit": "18",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -587,12 +637,12 @@
    "flightKey": "FR~ 169~ ~~TRS~12/10/2026 20:20~STN~12/10/2026 21:30~~",
    "flightNumber": "FR169",
    "previousPrice": null,
-   "priceUpdated": 1791800952000
+   "priceUpdated": 1792434031000
   },
   "summary": {
    "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
+    "value": 18.99,
+    "valueMainUnit": "18",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -625,25 +675,25 @@
      "name": "Palermo"
     }
    },
-   "departureDate": "2026-12-04T16:40:00",
-   "arrivalDate": "2026-12-04T18:15:00",
+   "departureDate": "2026-12-05T12:55:00",
+   "arrivalDate": "2026-12-05T14:30:00",
    "price": {
-    "value": 22.46,
-    "valueMainUnit": "22",
-    "valueFractionalUnit": "46",
+    "value": 18.99,
+    "valueMainUnit": "18",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2711~ ~~TRS~12/04/2026 16:40~PMO~12/04/2026 18:15~~",
-   "flightNumber": "FR2711",
+   "flightKey": "FR~1759~ ~~TRS~12/05/2026 12:55~PMO~12/05/2026 14:30~~",
+   "flightNumber": "FR1759",
    "previousPrice": null,
-   "priceUpdated": 1791800953000
+   "priceUpdated": 1792436811000
   },
   "summary": {
    "price": {
-    "value": 22.46,
-    "valueMainUnit": "22",
-    "valueFractionalUnit": "46",
+    "value": 18.99,
+    "valueMainUnit": "18",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -665,10 +715,311 @@
     }
    },
    "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "SVQ",
+    "name": "Seville",
+    "seoName": "seville",
+    "city": {
+     "code": "SEVILLE",
+     "countryCode": "es",
+     "name": "Seville"
+    }
+   },
+   "departureDate": "2026-12-06T15:30:00",
+   "arrivalDate": "2026-12-06T18:25:00",
+   "price": {
+    "value": 18.99,
+    "valueMainUnit": "18",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2427~ ~~TRS~12/06/2026 15:30~SVQ~12/06/2026 18:25~~",
+   "flightNumber": "FR2427",
+   "previousPrice": null,
+   "priceUpdated": 1792419260000
+  },
+  "summary": {
+   "price": {
+    "value": 18.99,
+    "valueMainUnit": "18",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "PMO",
+    "name": "Palermo",
+    "seoName": "palermo",
+    "city": {
+     "code": "PALERMO",
+     "countryCode": "it",
+     "name": "Palermo"
+    }
+   },
+   "departureDate": "2026-12-04T16:40:00",
+   "arrivalDate": "2026-12-04T18:15:00",
+   "price": {
+    "value": 21.36,
+    "valueMainUnit": "21",
+    "valueFractionalUnit": "36",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2711~ ~~TRS~12/04/2026 16:40~PMO~12/04/2026 18:15~~",
+   "flightNumber": "FR2711",
+   "previousPrice": null,
+   "priceUpdated": 1792432295000
+  },
+  "summary": {
+   "price": {
+    "value": 21.36,
+    "valueMainUnit": "21",
+    "valueFractionalUnit": "36",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "PMO",
+    "name": "Palermo",
+    "seoName": "palermo",
+    "city": {
+     "code": "PALERMO",
+     "countryCode": "it",
+     "name": "Palermo"
+    }
+   },
+   "departureDate": "2026-12-11T08:00:00",
+   "arrivalDate": "2026-12-11T09:35:00",
+   "price": {
+    "value": 21.36,
+    "valueMainUnit": "21",
+    "valueFractionalUnit": "36",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1759~ ~~TRS~12/11/2026 08:00~PMO~12/11/2026 09:35~~",
+   "flightNumber": "FR1759",
+   "previousPrice": null,
+   "priceUpdated": 1792435685000
+  },
+  "summary": {
+   "price": {
+    "value": 21.36,
+    "valueMainUnit": "21",
+    "valueFractionalUnit": "36",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-11T06:00:00",
+   "arrivalDate": "2026-12-11T07:10:00",
+   "price": {
+    "value": 21.54,
+    "valueMainUnit": "21",
+    "valueFractionalUnit": "54",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 169~ ~~TRS~12/11/2026 06:00~STN~12/11/2026 07:10~~",
+   "flightNumber": "FR169",
+   "previousPrice": null,
+   "priceUpdated": 1792405749000
+  },
+  "summary": {
+   "price": {
+    "value": 21.54,
+    "valueMainUnit": "21",
+    "valueFractionalUnit": "54",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Malta",
+    "iataCode": "MLA",
+    "name": "Malta",
+    "seoName": "malta",
+    "city": {
+     "code": "MALTA",
+     "countryCode": "mt",
+     "name": "Malta"
+    }
+   },
+   "departureDate": "2026-12-07T21:30:00",
+   "arrivalDate": "2026-12-07T23:25:00",
+   "price": {
+    "value": 21.99,
+    "valueMainUnit": "21",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3695~ ~~TRS~12/07/2026 21:30~MLA~12/07/2026 23:25~~",
+   "flightNumber": "FR3695",
+   "previousPrice": null,
+   "priceUpdated": 1792419290000
+  },
+  "summary": {
+   "price": {
+    "value": 21.99,
+    "valueMainUnit": "21",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "NAP",
+    "name": "Naples",
+    "seoName": "naples",
+    "city": {
+     "code": "NAPLES",
+     "countryCode": "it",
+     "name": "Naples"
+    }
+   },
+   "departureDate": "2026-12-07T06:30:00",
+   "arrivalDate": "2026-12-07T07:45:00",
+   "price": {
+    "value": 22.03,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "03",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5153~ ~~TRS~12/07/2026 06:30~NAP~12/07/2026 07:45~~",
+   "flightNumber": "FR5153",
+   "previousPrice": null,
+   "priceUpdated": 1792435249000
+  },
+  "summary": {
+   "price": {
+    "value": 22.03,
+    "valueMainUnit": "22",
+    "valueFractionalUnit": "03",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
     "countryName": "Albania",
     "iataCode": "TIA",
     "name": "Tirana",
-    "seoName": "tirana",
+    "seoName": "Tirana",
     "city": {
      "code": "TIRANA",
      "countryCode": "al",
@@ -678,22 +1029,22 @@
    "departureDate": "2026-12-05T21:50:00",
    "arrivalDate": "2026-12-05T23:25:00",
    "price": {
-    "value": 23.82,
+    "value": 23.21,
     "valueMainUnit": "23",
-    "valueFractionalUnit": "82",
+    "valueFractionalUnit": "21",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~5649~ ~~TRS~12/05/2026 21:50~TIA~12/05/2026 23:25~~",
    "flightNumber": "FR5649",
    "previousPrice": null,
-   "priceUpdated": 1791800950000
+   "priceUpdated": 1792442112000
   },
   "summary": {
    "price": {
-    "value": 23.82,
+    "value": 23.21,
     "valueMainUnit": "23",
-    "valueFractionalUnit": "82",
+    "valueFractionalUnit": "21",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -725,8 +1076,8 @@
      "name": "Catania"
     }
    },
-   "departureDate": "2026-12-11T16:30:00",
-   "arrivalDate": "2026-12-11T18:15:00",
+   "departureDate": "2026-12-05T11:25:00",
+   "arrivalDate": "2026-12-05T13:10:00",
    "price": {
     "value": 23.99,
     "valueMainUnit": "23",
@@ -734,10 +1085,10 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~9384~ ~~TRS~12/11/2026 16:30~CTA~12/11/2026 18:15~~",
-   "flightNumber": "FR9384",
+   "flightKey": "FR~2708~ ~~TRS~12/05/2026 11:25~CTA~12/05/2026 13:10~~",
+   "flightNumber": "FR2708",
    "previousPrice": null,
-   "priceUpdated": 1791800949000
+   "priceUpdated": 1792436743000
   },
   "summary": {
    "price": {
@@ -787,13 +1138,164 @@
    "flightKey": "FR~3695~ ~~TRS~12/11/2026 17:05~MLA~12/11/2026 19:00~~",
    "flightNumber": "FR3695",
    "previousPrice": null,
-   "priceUpdated": 1791800951000
+   "priceUpdated": 1792407346000
   },
   "summary": {
    "price": {
     "value": 24.07,
     "valueMainUnit": "24",
     "valueFractionalUnit": "07",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
+    "city": {
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
+    }
+   },
+   "departureDate": "2026-12-06T16:50:00",
+   "arrivalDate": "2026-12-06T18:35:00",
+   "price": {
+    "value": 24.99,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4497~ ~~TRS~12/06/2026 16:50~CRL~12/06/2026 18:35~~",
+   "flightNumber": "FR4497",
+   "previousPrice": null,
+   "priceUpdated": 1792436796000
+  },
+  "summary": {
+   "price": {
+    "value": 24.99,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
+    "city": {
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
+    }
+   },
+   "departureDate": "2026-12-11T09:50:00",
+   "arrivalDate": "2026-12-11T11:35:00",
+   "price": {
+    "value": 25.11,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "11",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4497~ ~~TRS~12/11/2026 09:50~CRL~12/11/2026 11:35~~",
+   "flightNumber": "FR4497",
+   "previousPrice": null,
+   "priceUpdated": 1792405752000
+  },
+  "summary": {
+   "price": {
+    "value": 25.11,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "11",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "VLC",
+    "name": "Valencia",
+    "seoName": "valencia",
+    "city": {
+     "code": "VALENCIA",
+     "countryCode": "es",
+     "macCode": "VNC",
+     "name": "Valencia"
+    }
+   },
+   "departureDate": "2026-12-10T21:40:00",
+   "arrivalDate": "2026-12-10T23:55:00",
+   "price": {
+    "value": 27.58,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "58",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 618~ ~~TRS~12/10/2026 21:40~VLC~12/10/2026 23:55~~",
+   "flightNumber": "FR618",
+   "previousPrice": null,
+   "priceUpdated": 1792424647000
+  },
+  "summary": {
+   "price": {
+    "value": 27.58,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "58",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -829,8 +1331,8 @@
    "departureDate": "2026-12-07T08:55:00",
    "arrivalDate": "2026-12-07T10:50:00",
    "price": {
-    "value": 24.99,
-    "valueMainUnit": "24",
+    "value": 27.99,
+    "valueMainUnit": "27",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -838,12 +1340,12 @@
    "flightKey": "FR~3929~ ~~TRS~12/07/2026 08:55~BCN~12/07/2026 10:50~~",
    "flightNumber": "FR3929",
    "previousPrice": null,
-   "priceUpdated": 1791800945000
+   "priceUpdated": 1792419679000
   },
   "summary": {
    "price": {
-    "value": 24.99,
-    "valueMainUnit": "24",
+    "value": 27.99,
+    "valueMainUnit": "27",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -879,22 +1381,22 @@
    "departureDate": "2026-12-04T07:35:00",
    "arrivalDate": "2026-12-04T08:55:00",
    "price": {
-    "value": 25.99,
-    "valueMainUnit": "25",
-    "valueFractionalUnit": "99",
+    "value": 28.0,
+    "valueMainUnit": "28",
+    "valueFractionalUnit": "00",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~3031~ ~~TRS~12/04/2026 07:35~BDS~12/04/2026 08:55~~",
    "flightNumber": "FR3031",
    "previousPrice": null,
-   "priceUpdated": 1791800947000
+   "priceUpdated": 1792434380000
   },
   "summary": {
    "price": {
-    "value": 25.99,
-    "valueMainUnit": "25",
-    "valueFractionalUnit": "99",
+    "value": 28.0,
+    "valueMainUnit": "28",
+    "valueFractionalUnit": "00",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -917,236 +1419,83 @@
    },
    "arrivalAirport": {
     "countryName": "Italy",
-    "iataCode": "NAP",
-    "name": "Naples",
-    "seoName": "naples",
+    "iataCode": "CTA",
+    "name": "Catania",
+    "seoName": "catania",
     "city": {
-     "code": "NAPLES",
+     "code": "CATANIA",
      "countryCode": "it",
-     "name": "Naples"
+     "name": "Catania"
     }
    },
-   "departureDate": "2026-12-07T06:30:00",
-   "arrivalDate": "2026-12-07T07:45:00",
+   "departureDate": "2026-12-10T18:25:00",
+   "arrivalDate": "2026-12-10T20:10:00",
    "price": {
-    "value": 26.21,
-    "valueMainUnit": "26",
-    "valueFractionalUnit": "21",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5153~ ~~TRS~12/07/2026 06:30~NAP~12/07/2026 07:45~~",
-   "flightNumber": "FR5153",
-   "previousPrice": null,
-   "priceUpdated": 1791800952000
-  },
-  "summary": {
-   "price": {
-    "value": 26.21,
-    "valueMainUnit": "26",
-    "valueFractionalUnit": "21",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "VLC",
-    "name": "Valencia",
-    "seoName": "valencia",
-    "city": {
-     "code": "VALENCIA",
-     "countryCode": "es",
-     "macCode": "VNC",
-     "name": "Valencia"
-    }
-   },
-   "departureDate": "2026-12-05T06:00:00",
-   "arrivalDate": "2026-12-05T08:15:00",
-   "price": {
-    "value": 26.88,
-    "valueMainUnit": "26",
-    "valueFractionalUnit": "88",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 618~ ~~TRS~12/05/2026 06:00~VLC~12/05/2026 08:15~~",
-   "flightNumber": "FR618",
-   "previousPrice": null,
-   "priceUpdated": 1791800950000
-  },
-  "summary": {
-   "price": {
-    "value": 26.88,
-    "valueMainUnit": "26",
-    "valueFractionalUnit": "88",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BRI",
-    "name": "Bari",
-    "seoName": "bari",
-    "city": {
-     "code": "BARI",
-     "countryCode": "it",
-     "name": "Bari"
-    }
-   },
-   "departureDate": "2026-12-11T12:50:00",
-   "arrivalDate": "2026-12-11T14:10:00",
-   "price": {
-    "value": 26.94,
-    "valueMainUnit": "26",
-    "valueFractionalUnit": "94",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3582~ ~~TRS~12/11/2026 12:50~BRI~12/11/2026 14:10~~",
-   "flightNumber": "FR3582",
-   "previousPrice": null,
-   "priceUpdated": 1791800947000
-  },
-  "summary": {
-   "price": {
-    "value": 26.94,
-    "valueMainUnit": "26",
-    "valueFractionalUnit": "94",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-04T06:00:00",
-   "arrivalDate": "2026-12-04T07:10:00",
-   "price": {
-    "value": 27.91,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "91",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 169~ ~~TRS~12/04/2026 06:00~STN~12/04/2026 07:10~~",
-   "flightNumber": "FR169",
-   "previousPrice": null,
-   "priceUpdated": 1791800950000
-  },
-  "summary": {
-   "price": {
-    "value": 27.91,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "91",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "BCN",
-    "name": "Barcelona",
-    "seoName": "barcelona-el-prat",
-    "city": {
-     "code": "BARCELONA",
-     "countryCode": "es",
-     "macCode": "BAR",
-     "name": "Barcelona"
-    }
-   },
-   "departureDate": "2026-12-11T13:35:00",
-   "arrivalDate": "2026-12-11T15:30:00",
-   "price": {
-    "value": 27.99,
-    "valueMainUnit": "27",
+    "value": 28.99,
+    "valueMainUnit": "28",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~3929~ ~~TRS~12/11/2026 13:35~BCN~12/11/2026 15:30~~",
-   "flightNumber": "FR3929",
+   "flightKey": "FR~2708~ ~~TRS~12/10/2026 18:25~CTA~12/10/2026 20:10~~",
+   "flightNumber": "FR2708",
    "previousPrice": null,
-   "priceUpdated": 1791800947000
+   "priceUpdated": 1792419364000
   },
   "summary": {
    "price": {
-    "value": 27.99,
-    "valueMainUnit": "27",
+    "value": 28.99,
+    "valueMainUnit": "28",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-11T10:25:00",
+   "arrivalDate": "2026-12-11T12:15:00",
+   "price": {
+    "value": 28.99,
+    "valueMainUnit": "28",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9320~ ~~TRS~12/11/2026 10:25~DUB~12/11/2026 12:15~~",
+   "flightNumber": "FR9320",
+   "previousPrice": null,
+   "priceUpdated": 1792436741000
+  },
+  "summary": {
+   "price": {
+    "value": 28.99,
+    "valueMainUnit": "28",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1183,121 +1532,21 @@
    "departureDate": "2026-12-04T13:35:00",
    "arrivalDate": "2026-12-04T15:30:00",
    "price": {
-    "value": 28.1,
-    "valueMainUnit": "28",
-    "valueFractionalUnit": "10",
+    "value": 29.88,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "88",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~3929~ ~~TRS~12/04/2026 13:35~BCN~12/04/2026 15:30~~",
    "flightNumber": "FR3929",
    "previousPrice": null,
-   "priceUpdated": 1791800949000
+   "priceUpdated": 1792439948000
   },
   "summary": {
    "price": {
-    "value": 28.1,
-    "valueMainUnit": "28",
-    "valueFractionalUnit": "10",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "PMO",
-    "name": "Palermo",
-    "seoName": "palermo",
-    "city": {
-     "code": "PALERMO",
-     "countryCode": "it",
-     "name": "Palermo"
-    }
-   },
-   "departureDate": "2026-12-06T09:55:00",
-   "arrivalDate": "2026-12-06T11:30:00",
-   "price": {
-    "value": 28.99,
-    "valueMainUnit": "28",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1759~ ~~TRS~12/06/2026 09:55~PMO~12/06/2026 11:30~~",
-   "flightNumber": "FR1759",
-   "previousPrice": null,
-   "priceUpdated": 1791803374000
-  },
-  "summary": {
-   "price": {
-    "value": 28.99,
-    "valueMainUnit": "28",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
-    "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
-    }
-   },
-   "departureDate": "2026-12-11T09:50:00",
-   "arrivalDate": "2026-12-11T11:35:00",
-   "price": {
-    "value": 30.88,
-    "valueMainUnit": "30",
-    "valueFractionalUnit": "88",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4497~ ~~TRS~12/11/2026 09:50~CRL~12/11/2026 11:35~~",
-   "flightNumber": "FR4497",
-   "previousPrice": null,
-   "priceUpdated": 1791800945000
-  },
-  "summary": {
-   "price": {
-    "value": 30.88,
-    "valueMainUnit": "30",
+    "value": 29.88,
+    "valueMainUnit": "29",
     "valueFractionalUnit": "88",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1333,8 +1582,8 @@
    "departureDate": "2026-12-04T10:25:00",
    "arrivalDate": "2026-12-04T12:15:00",
    "price": {
-    "value": 30.99,
-    "valueMainUnit": "30",
+    "value": 29.99,
+    "valueMainUnit": "29",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1342,13 +1591,164 @@
    "flightKey": "FR~9320~ ~~TRS~12/04/2026 10:25~DUB~12/04/2026 12:15~~",
    "flightNumber": "FR9320",
    "previousPrice": null,
-   "priceUpdated": 1791800948000
+   "priceUpdated": 1792425548000
   },
   "summary": {
    "price": {
-    "value": 30.99,
-    "valueMainUnit": "30",
+    "value": 29.99,
+    "valueMainUnit": "29",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "VLC",
+    "name": "Valencia",
+    "seoName": "valencia",
+    "city": {
+     "code": "VALENCIA",
+     "countryCode": "es",
+     "macCode": "VNC",
+     "name": "Valencia"
+    }
+   },
+   "departureDate": "2026-12-05T06:00:00",
+   "arrivalDate": "2026-12-05T08:15:00",
+   "price": {
+    "value": 30.51,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "51",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 618~ ~~TRS~12/05/2026 06:00~VLC~12/05/2026 08:15~~",
+   "flightNumber": "FR618",
+   "previousPrice": null,
+   "priceUpdated": 1792437371000
+  },
+  "summary": {
+   "price": {
+    "value": 30.51,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "51",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "NAP",
+    "name": "Naples",
+    "seoName": "naples",
+    "city": {
+     "code": "NAPLES",
+     "countryCode": "it",
+     "name": "Naples"
+    }
+   },
+   "departureDate": "2026-12-06T12:00:00",
+   "arrivalDate": "2026-12-06T13:15:00",
+   "price": {
+    "value": 30.66,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "66",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4661~ ~~TRS~12/06/2026 12:00~NAP~12/06/2026 13:15~~",
+   "flightNumber": "FR4661",
+   "previousPrice": null,
+   "priceUpdated": 1792442112000
+  },
+  "summary": {
+   "price": {
+    "value": 30.66,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "66",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BRI",
+    "name": "Bari",
+    "seoName": "bari",
+    "city": {
+     "code": "BARI",
+     "countryCode": "it",
+     "name": "Bari"
+    }
+   },
+   "departureDate": "2026-12-04T12:50:00",
+   "arrivalDate": "2026-12-04T14:10:00",
+   "price": {
+    "value": 30.68,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "68",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3582~ ~~TRS~12/04/2026 12:50~BRI~12/04/2026 14:10~~",
+   "flightNumber": "FR3582",
+   "previousPrice": null,
+   "priceUpdated": 1792432313000
+  },
+  "summary": {
+   "price": {
+    "value": 30.68,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "68",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1383,1024 +1783,22 @@
    "departureDate": "2026-12-04T16:30:00",
    "arrivalDate": "2026-12-04T18:15:00",
    "price": {
-    "value": 31.8,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "80",
+    "value": 30.7,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "70",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~9384~ ~~TRS~12/04/2026 16:30~CTA~12/04/2026 18:15~~",
    "flightNumber": "FR9384",
    "previousPrice": null,
-   "priceUpdated": 1791800948000
+   "priceUpdated": 1792432421000
   },
   "summary": {
    "price": {
-    "value": 31.8,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "80",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "PMO",
-    "name": "Palermo",
-    "seoName": "palermo",
-    "city": {
-     "code": "PALERMO",
-     "countryCode": "it",
-     "name": "Palermo"
-    }
-   },
-   "departureDate": "2026-12-05T12:55:00",
-   "arrivalDate": "2026-12-05T14:30:00",
-   "price": {
-    "value": 31.99,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1759~ ~~TRS~12/05/2026 12:55~PMO~12/05/2026 14:30~~",
-   "flightNumber": "FR1759",
-   "previousPrice": null,
-   "priceUpdated": 1791803400000
-  },
-  "summary": {
-   "price": {
-    "value": 31.99,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-11T06:00:00",
-   "arrivalDate": "2026-12-11T07:10:00",
-   "price": {
-    "value": 32.66,
-    "valueMainUnit": "32",
-    "valueFractionalUnit": "66",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 169~ ~~TRS~12/11/2026 06:00~STN~12/11/2026 07:10~~",
-   "flightNumber": "FR169",
-   "previousPrice": null,
-   "priceUpdated": 1791800951000
-  },
-  "summary": {
-   "price": {
-    "value": 32.66,
-    "valueMainUnit": "32",
-    "valueFractionalUnit": "66",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "VLC",
-    "name": "Valencia",
-    "seoName": "valencia",
-    "city": {
-     "code": "VALENCIA",
-     "countryCode": "es",
-     "macCode": "VNC",
-     "name": "Valencia"
-    }
-   },
-   "departureDate": "2026-12-07T06:35:00",
-   "arrivalDate": "2026-12-07T08:50:00",
-   "price": {
-    "value": 33.25,
-    "valueMainUnit": "33",
-    "valueFractionalUnit": "25",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 618~ ~~TRS~12/07/2026 06:35~VLC~12/07/2026 08:50~~",
-   "flightNumber": "FR618",
-   "previousPrice": null,
-   "priceUpdated": 1791800949000
-  },
-  "summary": {
-   "price": {
-    "value": 33.25,
-    "valueMainUnit": "33",
-    "valueFractionalUnit": "25",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "CTA",
-    "name": "Catania",
-    "seoName": "catania",
-    "city": {
-     "code": "CATANIA",
-     "countryCode": "it",
-     "name": "Catania"
-    }
-   },
-   "departureDate": "2026-12-10T18:25:00",
-   "arrivalDate": "2026-12-10T20:10:00",
-   "price": {
-    "value": 33.99,
-    "valueMainUnit": "33",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2708~ ~~TRS~12/10/2026 18:25~CTA~12/10/2026 20:10~~",
-   "flightNumber": "FR2708",
-   "previousPrice": null,
-   "priceUpdated": 1791800947000
-  },
-  "summary": {
-   "price": {
-    "value": 33.99,
-    "valueMainUnit": "33",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Malta",
-    "iataCode": "MLA",
-    "name": "Malta",
-    "seoName": "malta",
-    "city": {
-     "code": "MALTA",
-     "countryCode": "mt",
-     "name": "Malta"
-    }
-   },
-   "departureDate": "2026-12-04T17:05:00",
-   "arrivalDate": "2026-12-04T19:00:00",
-   "price": {
-    "value": 33.99,
-    "valueMainUnit": "33",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3695~ ~~TRS~12/04/2026 17:05~MLA~12/04/2026 19:00~~",
-   "flightNumber": "FR3695",
-   "previousPrice": null,
-   "priceUpdated": 1791800951000
-  },
-  "summary": {
-   "price": {
-    "value": 33.99,
-    "valueMainUnit": "33",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "NAP",
-    "name": "Naples",
-    "seoName": "naples",
-    "city": {
-     "code": "NAPLES",
-     "countryCode": "it",
-     "name": "Naples"
-    }
-   },
-   "departureDate": "2026-12-10T08:20:00",
-   "arrivalDate": "2026-12-10T09:35:00",
-   "price": {
-    "value": 33.99,
-    "valueMainUnit": "33",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4661~ ~~TRS~12/10/2026 08:20~NAP~12/10/2026 09:35~~",
-   "flightNumber": "FR4661",
-   "previousPrice": null,
-   "priceUpdated": 1791803401000
-  },
-  "summary": {
-   "price": {
-    "value": 33.99,
-    "valueMainUnit": "33",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "SVQ",
-    "name": "Seville",
-    "seoName": "seville",
-    "city": {
-     "code": "SEVILLE",
-     "countryCode": "es",
-     "name": "Seville"
-    }
-   },
-   "departureDate": "2026-12-04T15:05:00",
-   "arrivalDate": "2026-12-04T18:00:00",
-   "price": {
-    "value": 35.72,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "72",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2427~ ~~TRS~12/04/2026 15:05~SVQ~12/04/2026 18:00~~",
-   "flightNumber": "FR2427",
-   "previousPrice": null,
-   "priceUpdated": 1791801850000
-  },
-  "summary": {
-   "price": {
-    "value": 35.72,
-    "valueMainUnit": "35",
-    "valueFractionalUnit": "72",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "NAP",
-    "name": "Naples",
-    "seoName": "naples",
-    "city": {
-     "code": "NAPLES",
-     "countryCode": "it",
-     "name": "Naples"
-    }
-   },
-   "departureDate": "2026-12-06T12:00:00",
-   "arrivalDate": "2026-12-06T13:15:00",
-   "price": {
-    "value": 36.36,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "36",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4661~ ~~TRS~12/06/2026 12:00~NAP~12/06/2026 13:15~~",
-   "flightNumber": "FR4661",
-   "previousPrice": null,
-   "priceUpdated": 1791801852000
-  },
-  "summary": {
-   "price": {
-    "value": 36.36,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "36",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BDS",
-    "name": "Brindisi",
-    "seoName": "brindisi",
-    "city": {
-     "code": "BRINDISI",
-     "countryCode": "it",
-     "name": "Brindisi"
-    }
-   },
-   "departureDate": "2026-12-06T18:45:00",
-   "arrivalDate": "2026-12-06T20:05:00",
-   "price": {
-    "value": 36.65,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "65",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3031~ ~~TRS~12/06/2026 18:45~BDS~12/06/2026 20:05~~",
-   "flightNumber": "FR3031",
-   "previousPrice": null,
-   "priceUpdated": 1791800947000
-  },
-  "summary": {
-   "price": {
-    "value": 36.65,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "65",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-11T10:25:00",
-   "arrivalDate": "2026-12-11T12:15:00",
-   "price": {
-    "value": 37.99,
-    "valueMainUnit": "37",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~9320~ ~~TRS~12/11/2026 10:25~DUB~12/11/2026 12:15~~",
-   "flightNumber": "FR9320",
-   "previousPrice": null,
-   "priceUpdated": 1791800949000
-  },
-  "summary": {
-   "price": {
-    "value": 37.99,
-    "valueMainUnit": "37",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
-    "city": {
-     "code": "MALAGA",
-     "countryCode": "es",
-     "name": "Malaga"
-    }
-   },
-   "departureDate": "2026-12-07T19:20:00",
-   "arrivalDate": "2026-12-07T22:15:00",
-   "price": {
-    "value": 37.99,
-    "valueMainUnit": "37",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4250~ ~~TRS~12/07/2026 19:20~AGP~12/07/2026 22:15~~",
-   "flightNumber": "FR4250",
-   "previousPrice": null,
-   "priceUpdated": 1791800946000
-  },
-  "summary": {
-   "price": {
-    "value": 37.99,
-    "valueMainUnit": "37",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "PMO",
-    "name": "Palermo",
-    "seoName": "palermo",
-    "city": {
-     "code": "PALERMO",
-     "countryCode": "it",
-     "name": "Palermo"
-    }
-   },
-   "departureDate": "2026-12-11T08:00:00",
-   "arrivalDate": "2026-12-11T09:35:00",
-   "price": {
-    "value": 38.91,
-    "valueMainUnit": "38",
-    "valueFractionalUnit": "91",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1759~ ~~TRS~12/11/2026 08:00~PMO~12/11/2026 09:35~~",
-   "flightNumber": "FR1759",
-   "previousPrice": null,
-   "priceUpdated": 1791800949000
-  },
-  "summary": {
-   "price": {
-    "value": 38.91,
-    "valueMainUnit": "38",
-    "valueFractionalUnit": "91",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "NAP",
-    "name": "Naples",
-    "seoName": "naples",
-    "city": {
-     "code": "NAPLES",
-     "countryCode": "it",
-     "name": "Naples"
-    }
-   },
-   "departureDate": "2026-12-11T11:35:00",
-   "arrivalDate": "2026-12-11T12:50:00",
-   "price": {
-    "value": 39.82,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "82",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4661~ ~~TRS~12/11/2026 11:35~NAP~12/11/2026 12:50~~",
-   "flightNumber": "FR4661",
-   "previousPrice": null,
-   "priceUpdated": 1791801850000
-  },
-  "summary": {
-   "price": {
-    "value": 39.82,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "82",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "SUF",
-    "name": "Lamezia",
-    "seoName": "lamezia",
-    "city": {
-     "code": "LAMEZIA",
-     "countryCode": "it",
-     "name": "Lamezia"
-    }
-   },
-   "departureDate": "2026-12-11T09:50:00",
-   "arrivalDate": "2026-12-11T11:20:00",
-   "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5836~ ~~TRS~12/11/2026 09:50~SUF~12/11/2026 11:20~~",
-   "flightNumber": "FR5836",
-   "previousPrice": null,
-   "priceUpdated": 1791800951000
-  },
-  "summary": {
-   "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "CTA",
-    "name": "Catania",
-    "seoName": "catania",
-    "city": {
-     "code": "CATANIA",
-     "countryCode": "it",
-     "name": "Catania"
-    }
-   },
-   "departureDate": "2026-12-05T11:25:00",
-   "arrivalDate": "2026-12-05T13:10:00",
-   "price": {
-    "value": 41.99,
-    "valueMainUnit": "41",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2708~ ~~TRS~12/05/2026 11:25~CTA~12/05/2026 13:10~~",
-   "flightNumber": "FR2708",
-   "previousPrice": null,
-   "priceUpdated": 1791803361000
-  },
-  "summary": {
-   "price": {
-    "value": 41.99,
-    "valueMainUnit": "41",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
-    "city": {
-     "code": "MALAGA",
-     "countryCode": "es",
-     "name": "Malaga"
-    }
-   },
-   "departureDate": "2026-12-10T12:20:00",
-   "arrivalDate": "2026-12-10T15:15:00",
-   "price": {
-    "value": 41.99,
-    "valueMainUnit": "41",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4250~ ~~TRS~12/10/2026 12:20~AGP~12/10/2026 15:15~~",
-   "flightNumber": "FR4250",
-   "previousPrice": null,
-   "priceUpdated": 1791800946000
-  },
-  "summary": {
-   "price": {
-    "value": 41.99,
-    "valueMainUnit": "41",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "SVQ",
-    "name": "Seville",
-    "seoName": "seville",
-    "city": {
-     "code": "SEVILLE",
-     "countryCode": "es",
-     "name": "Seville"
-    }
-   },
-   "departureDate": "2026-12-11T15:05:00",
-   "arrivalDate": "2026-12-11T18:00:00",
-   "price": {
-    "value": 43.25,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "25",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2427~ ~~TRS~12/11/2026 15:05~SVQ~12/11/2026 18:00~~",
-   "flightNumber": "FR2427",
-   "previousPrice": null,
-   "priceUpdated": 1791801852000
-  },
-  "summary": {
-   "price": {
-    "value": 43.25,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "25",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "SUF",
-    "name": "Lamezia",
-    "seoName": "lamezia",
-    "city": {
-     "code": "LAMEZIA",
-     "countryCode": "it",
-     "name": "Lamezia"
-    }
-   },
-   "departureDate": "2026-12-06T14:30:00",
-   "arrivalDate": "2026-12-06T16:00:00",
-   "price": {
-    "value": 43.8,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "80",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5836~ ~~TRS~12/06/2026 14:30~SUF~12/06/2026 16:00~~",
-   "flightNumber": "FR5836",
-   "previousPrice": null,
-   "priceUpdated": 1791800950000
-  },
-  "summary": {
-   "price": {
-    "value": 43.8,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "80",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BDS",
-    "name": "Brindisi",
-    "seoName": "brindisi",
-    "city": {
-     "code": "BRINDISI",
-     "countryCode": "it",
-     "name": "Brindisi"
-    }
-   },
-   "departureDate": "2026-12-11T07:35:00",
-   "arrivalDate": "2026-12-11T08:55:00",
-   "price": {
-    "value": 43.99,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3031~ ~~TRS~12/11/2026 07:35~BDS~12/11/2026 08:55~~",
-   "flightNumber": "FR3031",
-   "previousPrice": null,
-   "priceUpdated": 1791800946000
-  },
-  "summary": {
-   "price": {
-    "value": 43.99,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
-    "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
-    }
-   },
-   "departureDate": "2026-12-04T09:50:00",
-   "arrivalDate": "2026-12-04T11:35:00",
-   "price": {
-    "value": 43.99,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4497~ ~~TRS~12/04/2026 09:50~CRL~12/04/2026 11:35~~",
-   "flightNumber": "FR4497",
-   "previousPrice": null,
-   "priceUpdated": 1791800948000
-  },
-  "summary": {
-   "price": {
-    "value": 43.99,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "99",
+    "value": 30.7,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "70",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2435,22 +1833,474 @@
    "departureDate": "2026-12-06T14:25:00",
    "arrivalDate": "2026-12-06T16:10:00",
    "price": {
-    "value": 47.43,
-    "valueMainUnit": "47",
-    "valueFractionalUnit": "43",
+    "value": 30.7,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "70",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~2708~ ~~TRS~12/06/2026 14:25~CTA~12/06/2026 16:10~~",
    "flightNumber": "FR2708",
    "previousPrice": null,
-   "priceUpdated": 1791800947000
+   "priceUpdated": 1792442111000
   },
   "summary": {
    "price": {
-    "value": 47.43,
-    "valueMainUnit": "47",
-    "valueFractionalUnit": "43",
+    "value": 30.7,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "70",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "BCN",
+    "name": "Barcelona",
+    "seoName": "barcelona-el-prat",
+    "city": {
+     "code": "BARCELONA",
+     "countryCode": "es",
+     "macCode": "BAR",
+     "name": "Barcelona"
+    }
+   },
+   "departureDate": "2026-12-11T13:35:00",
+   "arrivalDate": "2026-12-11T15:30:00",
+   "price": {
+    "value": 30.99,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3929~ ~~TRS~12/11/2026 13:35~BCN~12/11/2026 15:30~~",
+   "flightNumber": "FR3929",
+   "previousPrice": null,
+   "priceUpdated": 1792428248000
+  },
+  "summary": {
+   "price": {
+    "value": 30.99,
+    "valueMainUnit": "30",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "SUF",
+    "name": "Lamezia",
+    "seoName": "lamezia",
+    "city": {
+     "code": "LAMEZIA",
+     "countryCode": "it",
+     "name": "Lamezia"
+    }
+   },
+   "departureDate": "2026-12-06T14:30:00",
+   "arrivalDate": "2026-12-06T16:00:00",
+   "price": {
+    "value": 31.36,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "36",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5836~ ~~TRS~12/06/2026 14:30~SUF~12/06/2026 16:00~~",
+   "flightNumber": "FR5836",
+   "previousPrice": null,
+   "priceUpdated": 1792442110000
+  },
+  "summary": {
+   "price": {
+    "value": 31.36,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "36",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "NAP",
+    "name": "Naples",
+    "seoName": "naples",
+    "city": {
+     "code": "NAPLES",
+     "countryCode": "it",
+     "name": "Naples"
+    }
+   },
+   "departureDate": "2026-12-11T11:35:00",
+   "arrivalDate": "2026-12-11T12:50:00",
+   "price": {
+    "value": 31.49,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "49",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4661~ ~~TRS~12/11/2026 11:35~NAP~12/11/2026 12:50~~",
+   "flightNumber": "FR4661",
+   "previousPrice": null,
+   "priceUpdated": 1792423749000
+  },
+  "summary": {
+   "price": {
+    "value": 31.49,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "49",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BRI",
+    "name": "Bari",
+    "seoName": "bari",
+    "city": {
+     "code": "BARI",
+     "countryCode": "it",
+     "name": "Bari"
+    }
+   },
+   "departureDate": "2026-12-11T12:50:00",
+   "arrivalDate": "2026-12-11T14:10:00",
+   "price": {
+    "value": 31.61,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "61",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3582~ ~~TRS~12/11/2026 12:50~BRI~12/11/2026 14:10~~",
+   "flightNumber": "FR3582",
+   "previousPrice": null,
+   "priceUpdated": 1792411194000
+  },
+  "summary": {
+   "price": {
+    "value": 31.61,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "61",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "SUF",
+    "name": "Lamezia",
+    "seoName": "lamezia",
+    "city": {
+     "code": "LAMEZIA",
+     "countryCode": "it",
+     "name": "Lamezia"
+    }
+   },
+   "departureDate": "2026-12-11T09:50:00",
+   "arrivalDate": "2026-12-11T11:20:00",
+   "price": {
+    "value": 31.99,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5836~ ~~TRS~12/11/2026 09:50~SUF~12/11/2026 11:20~~",
+   "flightNumber": "FR5836",
+   "previousPrice": null,
+   "priceUpdated": 1792419359000
+  },
+  "summary": {
+   "price": {
+    "value": 31.99,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Malta",
+    "iataCode": "MLA",
+    "name": "Malta",
+    "seoName": "malta",
+    "city": {
+     "code": "MALTA",
+     "countryCode": "mt",
+     "name": "Malta"
+    }
+   },
+   "departureDate": "2026-12-04T17:05:00",
+   "arrivalDate": "2026-12-04T19:00:00",
+   "price": {
+    "value": 31.99,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3695~ ~~TRS~12/04/2026 17:05~MLA~12/04/2026 19:00~~",
+   "flightNumber": "FR3695",
+   "previousPrice": null,
+   "priceUpdated": 1792438474000
+  },
+  "summary": {
+   "price": {
+    "value": 31.99,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "SVQ",
+    "name": "Seville",
+    "seoName": "seville",
+    "city": {
+     "code": "SEVILLE",
+     "countryCode": "es",
+     "name": "Seville"
+    }
+   },
+   "departureDate": "2026-12-04T15:05:00",
+   "arrivalDate": "2026-12-04T18:00:00",
+   "price": {
+    "value": 34.72,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "72",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2427~ ~~TRS~12/04/2026 15:05~SVQ~12/04/2026 18:00~~",
+   "flightNumber": "FR2427",
+   "previousPrice": null,
+   "priceUpdated": 1792430802000
+  },
+  "summary": {
+   "price": {
+    "value": 34.72,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "72",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BDS",
+    "name": "Brindisi",
+    "seoName": "brindisi",
+    "city": {
+     "code": "BRINDISI",
+     "countryCode": "it",
+     "name": "Brindisi"
+    }
+   },
+   "departureDate": "2026-12-11T07:35:00",
+   "arrivalDate": "2026-12-11T08:55:00",
+   "price": {
+    "value": 35.99,
+    "valueMainUnit": "35",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3031~ ~~TRS~12/11/2026 07:35~BDS~12/11/2026 08:55~~",
+   "flightNumber": "FR3031",
+   "previousPrice": null,
+   "priceUpdated": 1792419336000
+  },
+  "summary": {
+   "price": {
+    "value": 35.99,
+    "valueMainUnit": "35",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-05T06:05:00",
+   "arrivalDate": "2026-12-05T07:15:00",
+   "price": {
+    "value": 37.99,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 169~ ~~TRS~12/05/2026 06:05~STN~12/05/2026 07:15~~",
+   "flightNumber": "FR169",
+   "previousPrice": null,
+   "priceUpdated": 1792419234000
+  },
+  "summary": {
+   "price": {
+    "value": 37.99,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2485,8 +2335,8 @@
    "departureDate": "2026-12-07T10:45:00",
    "arrivalDate": "2026-12-07T12:35:00",
    "price": {
-    "value": 47.99,
-    "valueMainUnit": "47",
+    "value": 38.99,
+    "valueMainUnit": "38",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2494,12 +2344,12 @@
    "flightKey": "FR~9320~ ~~TRS~12/07/2026 10:45~DUB~12/07/2026 12:35~~",
    "flightNumber": "FR9320",
    "previousPrice": null,
-   "priceUpdated": 1791800945000
+   "priceUpdated": 1792419677000
   },
   "summary": {
    "price": {
-    "value": 47.99,
-    "valueMainUnit": "47",
+    "value": 38.99,
+    "valueMainUnit": "38",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2522,40 +2372,40 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BRI",
-    "name": "Bari",
-    "seoName": "bari",
+    "countryName": "Poland",
+    "iataCode": "KRK",
+    "name": "Krakow",
+    "seoName": "krakow",
     "city": {
-     "code": "BARI",
-     "countryCode": "it",
-     "name": "Bari"
+     "code": "KRAKOW",
+     "countryCode": "pl",
+     "name": "Krakow"
     }
    },
-   "departureDate": "2026-12-04T12:50:00",
-   "arrivalDate": "2026-12-04T14:10:00",
+   "departureDate": "2026-12-04T08:40:00",
+   "arrivalDate": "2026-12-04T10:10:00",
    "price": {
-    "value": 48.39,
-    "valueMainUnit": "48",
-    "valueFractionalUnit": "39",
+    "value": 38.99,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~3582~ ~~TRS~12/04/2026 12:50~BRI~12/04/2026 14:10~~",
-   "flightNumber": "FR3582",
+   "flightKey": "FR~6783~ ~~TRS~12/04/2026 08:40~KRK~12/04/2026 10:10~~",
+   "flightNumber": "FR6783",
    "previousPrice": null,
-   "priceUpdated": 1791800946000
+   "priceUpdated": 1792419220000
   },
   "summary": {
    "price": {
-    "value": 48.39,
-    "valueMainUnit": "48",
-    "valueFractionalUnit": "39",
+    "value": 38.99,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
-   "newRoute": false
+   "newRoute": true
   }
  },
  {
@@ -2572,34 +2422,84 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "NAP",
-    "name": "Naples",
-    "seoName": "naples",
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
     "city": {
-     "code": "NAPLES",
-     "countryCode": "it",
-     "name": "Naples"
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
     }
    },
-   "departureDate": "2026-12-09T15:45:00",
-   "arrivalDate": "2026-12-09T17:00:00",
+   "departureDate": "2026-12-07T19:20:00",
+   "arrivalDate": "2026-12-07T22:15:00",
    "price": {
-    "value": 48.99,
-    "valueMainUnit": "48",
+    "value": 38.99,
+    "valueMainUnit": "38",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~5153~ ~~TRS~12/09/2026 15:45~NAP~12/09/2026 17:00~~",
-   "flightNumber": "FR5153",
+   "flightKey": "FR~4250~ ~~TRS~12/07/2026 19:20~AGP~12/07/2026 22:15~~",
+   "flightNumber": "FR4250",
    "previousPrice": null,
-   "priceUpdated": 1791800954000
+   "priceUpdated": 1792419323000
   },
   "summary": {
    "price": {
-    "value": 48.99,
-    "valueMainUnit": "48",
+    "value": 38.99,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
+    "city": {
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
+    }
+   },
+   "departureDate": "2026-12-10T12:20:00",
+   "arrivalDate": "2026-12-10T15:15:00",
+   "price": {
+    "value": 39.99,
+    "valueMainUnit": "39",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4250~ ~~TRS~12/10/2026 12:20~AGP~12/10/2026 15:15~~",
+   "flightNumber": "FR4250",
+   "previousPrice": null,
+   "priceUpdated": 1792427702000
+  },
+  "summary": {
+   "price": {
+    "value": 39.99,
+    "valueMainUnit": "39",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2635,8 +2535,8 @@
    "departureDate": "2026-12-10T09:10:00",
    "arrivalDate": "2026-12-10T10:45:00",
    "price": {
-    "value": 48.99,
-    "valueMainUnit": "48",
+    "value": 41.99,
+    "valueMainUnit": "41",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2644,12 +2544,12 @@
    "flightKey": "FR~1759~ ~~TRS~12/10/2026 09:10~PMO~12/10/2026 10:45~~",
    "flightNumber": "FR1759",
    "previousPrice": null,
-   "priceUpdated": 1791803408000
+   "priceUpdated": 1792436733000
   },
   "summary": {
    "price": {
-    "value": 48.99,
-    "valueMainUnit": "48",
+    "value": 41.99,
+    "valueMainUnit": "41",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2675,7 +2575,7 @@
     "countryName": "Albania",
     "iataCode": "TIA",
     "name": "Tirana",
-    "seoName": "tirana",
+    "seoName": "Tirana",
     "city": {
      "code": "TIRANA",
      "countryCode": "al",
@@ -2685,8 +2585,8 @@
    "departureDate": "2026-12-04T12:20:00",
    "arrivalDate": "2026-12-04T13:55:00",
    "price": {
-    "value": 48.99,
-    "valueMainUnit": "48",
+    "value": 41.99,
+    "valueMainUnit": "41",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2694,12 +2594,162 @@
    "flightKey": "FR~5649~ ~~TRS~12/04/2026 12:20~TIA~12/04/2026 13:55~~",
    "flightNumber": "FR5649",
    "previousPrice": null,
-   "priceUpdated": 1791800952000
+   "priceUpdated": 1792419256000
   },
   "summary": {
    "price": {
-    "value": 48.99,
-    "valueMainUnit": "48",
+    "value": 41.99,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
+    "city": {
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
+    }
+   },
+   "departureDate": "2026-12-04T09:50:00",
+   "arrivalDate": "2026-12-04T11:35:00",
+   "price": {
+    "value": 44.99,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4497~ ~~TRS~12/04/2026 09:50~CRL~12/04/2026 11:35~~",
+   "flightNumber": "FR4497",
+   "previousPrice": null,
+   "priceUpdated": 1792438696000
+  },
+  "summary": {
+   "price": {
+    "value": 44.99,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "NAP",
+    "name": "Naples",
+    "seoName": "naples",
+    "city": {
+     "code": "NAPLES",
+     "countryCode": "it",
+     "name": "Naples"
+    }
+   },
+   "departureDate": "2026-12-09T15:45:00",
+   "arrivalDate": "2026-12-09T17:00:00",
+   "price": {
+    "value": 44.99,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5153~ ~~TRS~12/09/2026 15:45~NAP~12/09/2026 17:00~~",
+   "flightNumber": "FR5153",
+   "previousPrice": null,
+   "priceUpdated": 1792419647000
+  },
+  "summary": {
+   "price": {
+    "value": 44.99,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Albania",
+    "iataCode": "TIA",
+    "name": "Tirana",
+    "seoName": "Tirana",
+    "city": {
+     "code": "TIRANA",
+     "countryCode": "al",
+     "name": "Tirana"
+    }
+   },
+   "departureDate": "2026-12-08T10:15:00",
+   "arrivalDate": "2026-12-08T11:50:00",
+   "price": {
+    "value": 44.99,
+    "valueMainUnit": "44",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5649~ ~~TRS~12/08/2026 10:15~TIA~12/08/2026 11:50~~",
+   "flightNumber": "FR5649",
+   "previousPrice": null,
+   "priceUpdated": 1792438133000
+  },
+  "summary": {
+   "price": {
+    "value": 44.99,
+    "valueMainUnit": "44",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2735,22 +2785,22 @@
    "departureDate": "2026-12-10T13:20:00",
    "arrivalDate": "2026-12-10T14:40:00",
    "price": {
-    "value": 50.0,
-    "valueMainUnit": "50",
-    "valueFractionalUnit": "00",
+    "value": 45.99,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~3582~ ~~TRS~12/10/2026 13:20~BRI~12/10/2026 14:40~~",
    "flightNumber": "FR3582",
    "previousPrice": null,
-   "priceUpdated": 1791800193000
+   "priceUpdated": 1792425131000
   },
   "summary": {
    "price": {
-    "value": 50.0,
-    "valueMainUnit": "50",
-    "valueFractionalUnit": "00",
+    "value": 45.99,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2772,191 +2822,40 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "PMO",
-    "name": "Palermo",
-    "seoName": "palermo",
+    "countryName": "Spain",
+    "iataCode": "SVQ",
+    "name": "Seville",
+    "seoName": "seville",
     "city": {
-     "code": "PALERMO",
-     "countryCode": "it",
-     "name": "Palermo"
+     "code": "SEVILLE",
+     "countryCode": "es",
+     "name": "Seville"
     }
    },
-   "departureDate": "2026-12-07T12:00:00",
-   "arrivalDate": "2026-12-07T13:35:00",
+   "departureDate": "2026-12-11T15:05:00",
+   "arrivalDate": "2026-12-11T18:00:00",
    "price": {
-    "value": 50.0,
-    "valueMainUnit": "50",
-    "valueFractionalUnit": "00",
+    "value": 46.17,
+    "valueMainUnit": "46",
+    "valueFractionalUnit": "17",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~1759~ ~~TRS~12/07/2026 12:00~PMO~12/07/2026 13:35~~",
-   "flightNumber": "FR1759",
+   "flightKey": "FR~2427~ ~~TRS~12/11/2026 15:05~SVQ~12/11/2026 18:00~~",
+   "flightNumber": "FR2427",
    "previousPrice": null,
-   "priceUpdated": 1791800950000
+   "priceUpdated": 1792405750000
   },
   "summary": {
    "price": {
-    "value": 50.0,
-    "valueMainUnit": "50",
-    "valueFractionalUnit": "00",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Albania",
-    "iataCode": "TIA",
-    "name": "Tirana",
-    "seoName": "tirana",
-    "city": {
-     "code": "TIRANA",
-     "countryCode": "al",
-     "name": "Tirana"
-    }
-   },
-   "departureDate": "2026-12-08T10:15:00",
-   "arrivalDate": "2026-12-08T11:50:00",
-   "price": {
-    "value": 50.99,
-    "valueMainUnit": "50",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5649~ ~~TRS~12/08/2026 10:15~TIA~12/08/2026 11:50~~",
-   "flightNumber": "FR5649",
-   "previousPrice": null,
-   "priceUpdated": 1791800949000
-  },
-  "summary": {
-   "price": {
-    "value": 50.99,
-    "valueMainUnit": "50",
-    "valueFractionalUnit": "99",
+    "value": 46.17,
+    "valueMainUnit": "46",
+    "valueFractionalUnit": "17",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BRI",
-    "name": "Bari",
-    "seoName": "bari",
-    "city": {
-     "code": "BARI",
-     "countryCode": "it",
-     "name": "Bari"
-    }
-   },
-   "departureDate": "2026-12-07T13:50:00",
-   "arrivalDate": "2026-12-07T15:10:00",
-   "price": {
-    "value": 55.99,
-    "valueMainUnit": "55",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3582~ ~~TRS~12/07/2026 13:50~BRI~12/07/2026 15:10~~",
-   "flightNumber": "FR3582",
-   "previousPrice": null,
-   "priceUpdated": 1791800947000
-  },
-  "summary": {
-   "price": {
-    "value": 55.99,
-    "valueMainUnit": "55",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-05T06:05:00",
-   "arrivalDate": "2026-12-05T07:15:00",
-   "price": {
-    "value": 56.99,
-    "valueMainUnit": "56",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 169~ ~~TRS~12/05/2026 06:05~STN~12/05/2026 07:15~~",
-   "flightNumber": "FR169",
-   "previousPrice": null,
-   "priceUpdated": 1791800951000
-  },
-  "summary": {
-   "price": {
-    "value": 56.99,
-    "valueMainUnit": "56",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
   }
  },
  {
@@ -2986,8 +2885,8 @@
    "departureDate": "2026-12-07T19:50:00",
    "arrivalDate": "2026-12-07T21:10:00",
    "price": {
-    "value": 58.99,
-    "valueMainUnit": "58",
+    "value": 48.99,
+    "valueMainUnit": "48",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2995,12 +2894,12 @@
    "flightKey": "FR~3031~ ~~TRS~12/07/2026 19:50~BDS~12/07/2026 21:10~~",
    "flightNumber": "FR3031",
    "previousPrice": null,
-   "priceUpdated": 1791800946000
+   "priceUpdated": 1792435278000
   },
   "summary": {
    "price": {
-    "value": 58.99,
-    "valueMainUnit": "58",
+    "value": 48.99,
+    "valueMainUnit": "48",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3023,40 +2922,41 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "NAP",
-    "name": "Naples",
-    "seoName": "naples",
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
     "city": {
-     "code": "NAPLES",
-     "countryCode": "it",
-     "name": "Naples"
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
     }
    },
-   "departureDate": "2026-12-05T16:10:00",
-   "arrivalDate": "2026-12-05T17:25:00",
+   "departureDate": "2026-12-04T06:00:00",
+   "arrivalDate": "2026-12-04T07:10:00",
    "price": {
-    "value": 61.06,
-    "valueMainUnit": "61",
-    "valueFractionalUnit": "06",
+    "value": 51.37,
+    "valueMainUnit": "51",
+    "valueFractionalUnit": "37",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~4661~ ~~TRS~12/05/2026 16:10~NAP~12/05/2026 17:25~~",
-   "flightNumber": "FR4661",
+   "flightKey": "FR~ 169~ ~~TRS~12/04/2026 06:00~STN~12/04/2026 07:10~~",
+   "flightNumber": "FR169",
    "previousPrice": null,
-   "priceUpdated": 1791801850000
+   "priceUpdated": 1792428502000
   },
   "summary": {
    "price": {
-    "value": 61.06,
-    "valueMainUnit": "61",
-    "valueFractionalUnit": "06",
+    "value": 51.37,
+    "valueMainUnit": "51",
+    "valueFractionalUnit": "37",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
-   "newRoute": true
+   "newRoute": false
   }
  },
  {
@@ -3086,22 +2986,172 @@
    "departureDate": "2026-12-04T11:35:00",
    "arrivalDate": "2026-12-04T12:50:00",
    "price": {
-    "value": 62.35,
-    "valueMainUnit": "62",
-    "valueFractionalUnit": "35",
+    "value": 53.88,
+    "valueMainUnit": "53",
+    "valueFractionalUnit": "88",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~4661~ ~~TRS~12/04/2026 11:35~NAP~12/04/2026 12:50~~",
    "flightNumber": "FR4661",
    "previousPrice": null,
-   "priceUpdated": 1791801851000
+   "priceUpdated": 1792441337000
   },
   "summary": {
    "price": {
-    "value": 62.35,
-    "valueMainUnit": "62",
-    "valueFractionalUnit": "35",
+    "value": 53.88,
+    "valueMainUnit": "53",
+    "valueFractionalUnit": "88",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "PMO",
+    "name": "Palermo",
+    "seoName": "palermo",
+    "city": {
+     "code": "PALERMO",
+     "countryCode": "it",
+     "name": "Palermo"
+    }
+   },
+   "departureDate": "2026-12-07T12:00:00",
+   "arrivalDate": "2026-12-07T13:35:00",
+   "price": {
+    "value": 55.99,
+    "valueMainUnit": "55",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1759~ ~~TRS~12/07/2026 12:00~PMO~12/07/2026 13:35~~",
+   "flightNumber": "FR1759",
+   "previousPrice": null,
+   "priceUpdated": 1792435077000
+  },
+  "summary": {
+   "price": {
+    "value": 55.99,
+    "valueMainUnit": "55",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BRI",
+    "name": "Bari",
+    "seoName": "bari",
+    "city": {
+     "code": "BARI",
+     "countryCode": "it",
+     "name": "Bari"
+    }
+   },
+   "departureDate": "2026-12-07T13:50:00",
+   "arrivalDate": "2026-12-07T15:10:00",
+   "price": {
+    "value": 56.99,
+    "valueMainUnit": "56",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3582~ ~~TRS~12/07/2026 13:50~BRI~12/07/2026 15:10~~",
+   "flightNumber": "FR3582",
+   "previousPrice": null,
+   "priceUpdated": 1792435271000
+  },
+  "summary": {
+   "price": {
+    "value": 56.99,
+    "valueMainUnit": "56",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "NAP",
+    "name": "Naples",
+    "seoName": "naples",
+    "city": {
+     "code": "NAPLES",
+     "countryCode": "it",
+     "name": "Naples"
+    }
+   },
+   "departureDate": "2026-12-05T16:10:00",
+   "arrivalDate": "2026-12-05T17:25:00",
+   "price": {
+    "value": 58.87,
+    "valueMainUnit": "58",
+    "valueFractionalUnit": "87",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4661~ ~~TRS~12/05/2026 16:10~NAP~12/05/2026 17:25~~",
+   "flightNumber": "FR4661",
+   "previousPrice": null,
+   "priceUpdated": 1792423751000
+  },
+  "summary": {
+   "price": {
+    "value": 58.87,
+    "valueMainUnit": "58",
+    "valueFractionalUnit": "87",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -3137,22 +3187,22 @@
    "departureDate": "2026-12-07T11:45:00",
    "arrivalDate": "2026-12-07T12:55:00",
    "price": {
-    "value": 73.37,
-    "valueMainUnit": "73",
-    "valueFractionalUnit": "37",
+    "value": 62.74,
+    "valueMainUnit": "62",
+    "valueFractionalUnit": "74",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~ 169~ ~~TRS~12/07/2026 11:45~STN~12/07/2026 12:55~~",
    "flightNumber": "FR169",
    "previousPrice": null,
-   "priceUpdated": 1791800950000
+   "priceUpdated": 1792415116000
   },
   "summary": {
    "price": {
-    "value": 73.37,
-    "valueMainUnit": "73",
-    "valueFractionalUnit": "37",
+    "value": 62.74,
+    "valueMainUnit": "62",
+    "valueFractionalUnit": "74",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -3184,61 +3234,11 @@
      "name": "Krakow"
     }
    },
-   "departureDate": "2026-12-04T08:40:00",
-   "arrivalDate": "2026-12-04T10:10:00",
-   "price": {
-    "value": 79.99,
-    "valueMainUnit": "79",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~6783~ ~~TRS~12/04/2026 08:40~KRK~12/04/2026 10:10~~",
-   "flightNumber": "FR6783",
-   "previousPrice": null,
-   "priceUpdated": 1791800950000
-  },
-  "summary": {
-   "price": {
-    "value": 79.99,
-    "valueMainUnit": "79",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Poland",
-    "iataCode": "KRK",
-    "name": "Krakow",
-    "seoName": "krakow",
-    "city": {
-     "code": "KRAKOW",
-     "countryCode": "pl",
-     "name": "Krakow"
-    }
-   },
    "departureDate": "2026-12-11T08:40:00",
    "arrivalDate": "2026-12-11T10:10:00",
    "price": {
-    "value": 90.99,
-    "valueMainUnit": "90",
+    "value": 67.99,
+    "valueMainUnit": "67",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3246,12 +3246,12 @@
    "flightKey": "FR~6783~ ~~TRS~12/11/2026 08:40~KRK~12/11/2026 10:10~~",
    "flightNumber": "FR6783",
    "previousPrice": null,
-   "priceUpdated": 1791800951000
+   "priceUpdated": 1792419677000
   },
   "summary": {
    "price": {
-    "value": 90.99,
-    "valueMainUnit": "90",
+    "value": 67.99,
+    "valueMainUnit": "67",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3287,27 +3287,77 @@
    "departureDate": "2026-12-08T20:25:00",
    "arrivalDate": "2026-12-08T21:40:00",
    "price": {
-    "value": 111.13,
-    "valueMainUnit": "111",
-    "valueFractionalUnit": "13",
+    "value": 118.44,
+    "valueMainUnit": "118",
+    "valueFractionalUnit": "44",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~4661~ ~~TRS~12/08/2026 20:25~NAP~12/08/2026 21:40~~",
    "flightNumber": "FR4661",
    "previousPrice": null,
-   "priceUpdated": 1791800949000
+   "priceUpdated": 1792405751000
   },
   "summary": {
    "price": {
-    "value": 111.13,
-    "valueMainUnit": "111",
-    "valueFractionalUnit": "13",
+    "value": 118.44,
+    "valueMainUnit": "118",
+    "valueFractionalUnit": "44",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BRI",
+    "name": "Bari",
+    "seoName": "bari",
+    "city": {
+     "code": "BARI",
+     "countryCode": "it",
+     "name": "Bari"
+    }
+   },
+   "departureDate": "2026-12-12T19:35:00",
+   "arrivalDate": "2026-12-12T20:55:00",
+   "price": {
+    "value": 14.99,
+    "valueMainUnit": "14",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7086~ ~~TRS~12/12/2026 19:35~BRI~12/12/2026 20:55~~",
+   "flightNumber": "FR7086",
+   "previousPrice": null,
+   "priceUpdated": 1792433997000
+  },
+  "summary": {
+   "price": {
+    "value": 14.99,
+    "valueMainUnit": "14",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
   }
  },
  {
@@ -3346,7 +3396,7 @@
    "flightKey": "FR~7086~ ~~TRS~12/13/2026 06:45~BRI~12/13/2026 08:05~~",
    "flightNumber": "FR7086",
    "previousPrice": null,
-   "priceUpdated": 1791800949000
+   "priceUpdated": 1792434009000
   },
   "summary": {
    "price": {
@@ -3396,7 +3446,7 @@
    "flightKey": "FR~6783~ ~~TRS~12/13/2026 06:00~KRK~12/13/2026 07:30~~",
    "flightNumber": "FR6783",
    "previousPrice": null,
-   "priceUpdated": 1791800954000
+   "priceUpdated": 1792419680000
   },
   "summary": {
    "price": {
@@ -3427,7 +3477,7 @@
     "countryName": "Albania",
     "iataCode": "TIA",
     "name": "Tirana",
-    "seoName": "tirana",
+    "seoName": "Tirana",
     "city": {
      "code": "TIRANA",
      "countryCode": "al",
@@ -3446,7 +3496,7 @@
    "flightKey": "FR~5649~ ~~TRS~12/12/2026 21:50~TIA~12/12/2026 23:25~~",
    "flightNumber": "FR5649",
    "previousPrice": null,
-   "priceUpdated": 1791800950000
+   "priceUpdated": 1792405749000
   },
   "summary": {
    "price": {
@@ -3477,7 +3527,7 @@
     "countryName": "Albania",
     "iataCode": "TIA",
     "name": "Tirana",
-    "seoName": "tirana",
+    "seoName": "Tirana",
     "city": {
      "code": "TIRANA",
      "countryCode": "al",
@@ -3496,7 +3546,7 @@
    "flightKey": "FR~5649~ ~~TRS~12/14/2026 08:05~TIA~12/14/2026 09:40~~",
    "flightNumber": "FR5649",
    "previousPrice": null,
-   "priceUpdated": 1791800952000
+   "priceUpdated": 1792405749000
   },
   "summary": {
    "price": {
@@ -3524,19 +3574,69 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "VLC",
-    "name": "Valencia",
-    "seoName": "valencia",
+    "countryName": "Albania",
+    "iataCode": "TIA",
+    "name": "Tirana",
+    "seoName": "Tirana",
     "city": {
-     "code": "VALENCIA",
-     "countryCode": "es",
-     "macCode": "VNC",
-     "name": "Valencia"
+     "code": "TIRANA",
+     "countryCode": "al",
+     "name": "Tirana"
     }
    },
-   "departureDate": "2026-12-12T06:00:00",
-   "arrivalDate": "2026-12-12T08:15:00",
+   "departureDate": "2026-12-18T12:20:00",
+   "arrivalDate": "2026-12-18T13:55:00",
+   "price": {
+    "value": 14.99,
+    "valueMainUnit": "14",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5649~ ~~TRS~12/18/2026 12:20~TIA~12/18/2026 13:55~~",
+   "flightNumber": "FR5649",
+   "previousPrice": null,
+   "priceUpdated": 1792405752000
+  },
+  "summary": {
+   "price": {
+    "value": 14.99,
+    "valueMainUnit": "14",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-12T06:05:00",
+   "arrivalDate": "2026-12-12T07:15:00",
    "price": {
     "value": 15.99,
     "valueMainUnit": "15",
@@ -3544,10 +3644,10 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 618~ ~~TRS~12/12/2026 06:00~VLC~12/12/2026 08:15~~",
-   "flightNumber": "FR618",
+   "flightKey": "FR~ 169~ ~~TRS~12/12/2026 06:05~STN~12/12/2026 07:15~~",
+   "flightNumber": "FR169",
    "previousPrice": null,
-   "priceUpdated": 1791800950000
+   "priceUpdated": 1792436812000
   },
   "summary": {
    "price": {
@@ -3597,7 +3697,7 @@
    "flightKey": "FR~9320~ ~~TRS~12/18/2026 10:25~DUB~12/18/2026 12:15~~",
    "flightNumber": "FR9320",
    "previousPrice": null,
-   "priceUpdated": 1791803451000
+   "priceUpdated": 1792436809000
   },
   "summary": {
    "price": {
@@ -3625,18 +3725,18 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Malta",
-    "iataCode": "MLA",
-    "name": "Malta",
-    "seoName": "malta",
+    "countryName": "Spain",
+    "iataCode": "AGP",
+    "name": "Malaga",
+    "seoName": "malaga",
     "city": {
-     "code": "MALTA",
-     "countryCode": "mt",
-     "name": "Malta"
+     "code": "MALAGA",
+     "countryCode": "es",
+     "name": "Malaga"
     }
    },
-   "departureDate": "2026-12-14T21:30:00",
-   "arrivalDate": "2026-12-14T23:25:00",
+   "departureDate": "2026-12-14T19:20:00",
+   "arrivalDate": "2026-12-14T22:15:00",
    "price": {
     "value": 16.99,
     "valueMainUnit": "16",
@@ -3644,10 +3744,61 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~3695~ ~~TRS~12/14/2026 21:30~MLA~12/14/2026 23:25~~",
-   "flightNumber": "FR3695",
+   "flightKey": "FR~4250~ ~~TRS~12/14/2026 19:20~AGP~12/14/2026 22:15~~",
+   "flightNumber": "FR4250",
    "previousPrice": null,
-   "priceUpdated": 1791800953000
+   "priceUpdated": 1792423745000
+  },
+  "summary": {
+   "price": {
+    "value": 16.99,
+    "valueMainUnit": "16",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "VLC",
+    "name": "Valencia",
+    "seoName": "valencia",
+    "city": {
+     "code": "VALENCIA",
+     "countryCode": "es",
+     "macCode": "VNC",
+     "name": "Valencia"
+    }
+   },
+   "departureDate": "2026-12-14T06:35:00",
+   "arrivalDate": "2026-12-14T08:50:00",
+   "price": {
+    "value": 16.99,
+    "valueMainUnit": "16",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 618~ ~~TRS~12/14/2026 06:35~VLC~12/14/2026 08:50~~",
+   "flightNumber": "FR618",
+   "previousPrice": null,
+   "priceUpdated": 1792434033000
   },
   "summary": {
    "price": {
@@ -3688,8 +3839,8 @@
    "departureDate": "2026-12-14T09:55:00",
    "arrivalDate": "2026-12-14T11:25:00",
    "price": {
-    "value": 18.99,
-    "valueMainUnit": "18",
+    "value": 17.99,
+    "valueMainUnit": "17",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3697,12 +3848,12 @@
    "flightKey": "FR~6783~ ~~TRS~12/14/2026 09:55~KRK~12/14/2026 11:25~~",
    "flightNumber": "FR6783",
    "previousPrice": null,
-   "priceUpdated": 1791800950000
+   "priceUpdated": 1792419575000
   },
   "summary": {
    "price": {
-    "value": 18.99,
-    "valueMainUnit": "18",
+    "value": 17.99,
+    "valueMainUnit": "17",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -3725,19 +3876,119 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
+    "countryName": "Italy",
+    "iataCode": "NAP",
+    "name": "Naples",
+    "seoName": "naples",
     "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
+     "code": "NAPLES",
+     "countryCode": "it",
+     "name": "Naples"
     }
    },
-   "departureDate": "2026-12-12T06:05:00",
-   "arrivalDate": "2026-12-12T07:15:00",
+   "departureDate": "2026-12-14T06:30:00",
+   "arrivalDate": "2026-12-14T07:45:00",
+   "price": {
+    "value": 17.99,
+    "valueMainUnit": "17",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5153~ ~~TRS~12/14/2026 06:30~NAP~12/14/2026 07:45~~",
+   "flightNumber": "FR5153",
+   "previousPrice": null,
+   "priceUpdated": 1792419431000
+  },
+  "summary": {
+   "price": {
+    "value": 17.99,
+    "valueMainUnit": "17",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "VLC",
+    "name": "Valencia",
+    "seoName": "valencia",
+    "city": {
+     "code": "VALENCIA",
+     "countryCode": "es",
+     "macCode": "VNC",
+     "name": "Valencia"
+    }
+   },
+   "departureDate": "2026-12-17T21:40:00",
+   "arrivalDate": "2026-12-17T23:55:00",
+   "price": {
+    "value": 18.15,
+    "valueMainUnit": "18",
+    "valueFractionalUnit": "15",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 618~ ~~TRS~12/17/2026 21:40~VLC~12/17/2026 23:55~~",
+   "flightNumber": "FR618",
+   "previousPrice": null,
+   "priceUpdated": 1792435306000
+  },
+  "summary": {
+   "price": {
+    "value": 18.15,
+    "valueMainUnit": "18",
+    "valueFractionalUnit": "15",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
+    "city": {
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
+    }
+   },
+   "departureDate": "2026-12-13T16:50:00",
+   "arrivalDate": "2026-12-13T18:35:00",
    "price": {
     "value": 19.99,
     "valueMainUnit": "19",
@@ -3745,10 +3996,10 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 169~ ~~TRS~12/12/2026 06:05~STN~12/12/2026 07:15~~",
-   "flightNumber": "FR169",
+   "flightKey": "FR~4497~ ~~TRS~12/13/2026 16:50~CRL~12/13/2026 18:35~~",
+   "flightNumber": "FR4497",
    "previousPrice": null,
-   "priceUpdated": 1791800953000
+   "priceUpdated": 1792434009000
   },
   "summary": {
    "price": {
@@ -3799,7 +4050,7 @@
    "flightKey": "FR~ 169~ ~~TRS~12/18/2026 06:00~STN~12/18/2026 07:10~~",
    "flightNumber": "FR169",
    "previousPrice": null,
-   "priceUpdated": 1791801851000
+   "priceUpdated": 1792419456000
   },
   "summary": {
    "price": {
@@ -3827,18 +4078,18 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "NAP",
-    "name": "Naples",
-    "seoName": "naples",
+    "countryName": "Malta",
+    "iataCode": "MLA",
+    "name": "Malta",
+    "seoName": "malta",
     "city": {
-     "code": "NAPLES",
-     "countryCode": "it",
-     "name": "Naples"
+     "code": "MALTA",
+     "countryCode": "mt",
+     "name": "Malta"
     }
    },
-   "departureDate": "2026-12-14T06:30:00",
-   "arrivalDate": "2026-12-14T07:45:00",
+   "departureDate": "2026-12-14T21:30:00",
+   "arrivalDate": "2026-12-14T23:25:00",
    "price": {
     "value": 19.99,
     "valueMainUnit": "19",
@@ -3846,221 +4097,21 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~5153~ ~~TRS~12/14/2026 06:30~NAP~12/14/2026 07:45~~",
-   "flightNumber": "FR5153",
+   "flightKey": "FR~3695~ ~~TRS~12/14/2026 21:30~MLA~12/14/2026 23:25~~",
+   "flightNumber": "FR3695",
    "previousPrice": null,
-   "priceUpdated": 1791800950000
+   "priceUpdated": 1792436806000
   },
   "summary": {
    "price": {
     "value": 19.99,
     "valueMainUnit": "19",
     "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "NAP",
-    "name": "Naples",
-    "seoName": "naples",
-    "city": {
-     "code": "NAPLES",
-     "countryCode": "it",
-     "name": "Naples"
-    }
-   },
-   "departureDate": "2026-12-16T15:45:00",
-   "arrivalDate": "2026-12-16T17:00:00",
-   "price": {
-    "value": 20.99,
-    "valueMainUnit": "20",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5153~ ~~TRS~12/16/2026 15:45~NAP~12/16/2026 17:00~~",
-   "flightNumber": "FR5153",
-   "previousPrice": null,
-   "priceUpdated": 1791800952000
-  },
-  "summary": {
-   "price": {
-    "value": 20.99,
-    "valueMainUnit": "20",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BRI",
-    "name": "Bari",
-    "seoName": "bari",
-    "city": {
-     "code": "BARI",
-     "countryCode": "it",
-     "name": "Bari"
-    }
-   },
-   "departureDate": "2026-12-12T19:35:00",
-   "arrivalDate": "2026-12-12T20:55:00",
-   "price": {
-    "value": 21.47,
-    "valueMainUnit": "21",
-    "valueFractionalUnit": "47",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~7086~ ~~TRS~12/12/2026 19:35~BRI~12/12/2026 20:55~~",
-   "flightNumber": "FR7086",
-   "previousPrice": null,
-   "priceUpdated": 1791800949000
-  },
-  "summary": {
-   "price": {
-    "value": 21.47,
-    "valueMainUnit": "21",
-    "valueFractionalUnit": "47",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "AGP",
-    "name": "Malaga",
-    "seoName": "malaga",
-    "city": {
-     "code": "MALAGA",
-     "countryCode": "es",
-     "name": "Malaga"
-    }
-   },
-   "departureDate": "2026-12-14T19:20:00",
-   "arrivalDate": "2026-12-14T22:15:00",
-   "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4250~ ~~TRS~12/14/2026 19:20~AGP~12/14/2026 22:15~~",
-   "flightNumber": "FR4250",
-   "previousPrice": null,
-   "priceUpdated": 1791800945000
-  },
-  "summary": {
-   "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "SVQ",
-    "name": "Seville",
-    "seoName": "seville",
-    "city": {
-     "code": "SEVILLE",
-     "countryCode": "es",
-     "name": "Seville"
-    }
-   },
-   "departureDate": "2026-12-13T15:30:00",
-   "arrivalDate": "2026-12-13T18:25:00",
-   "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2427~ ~~TRS~12/13/2026 15:30~SVQ~12/13/2026 18:25~~",
-   "flightNumber": "FR2427",
-   "previousPrice": null,
-   "priceUpdated": 1791800950000
-  },
-  "summary": {
-   "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
   }
  },
  {
@@ -4080,7 +4131,7 @@
     "countryName": "Albania",
     "iataCode": "TIA",
     "name": "Tirana",
-    "seoName": "tirana",
+    "seoName": "Tirana",
     "city": {
      "code": "TIRANA",
      "countryCode": "al",
@@ -4090,8 +4141,8 @@
    "departureDate": "2026-12-19T21:50:00",
    "arrivalDate": "2026-12-19T23:25:00",
    "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
+    "value": 19.99,
+    "valueMainUnit": "19",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4099,114 +4150,13 @@
    "flightKey": "FR~5649~ ~~TRS~12/19/2026 21:50~TIA~12/19/2026 23:25~~",
    "flightNumber": "FR5649",
    "previousPrice": null,
-   "priceUpdated": 1791801851000
+   "priceUpdated": 1792431460000
   },
   "summary": {
    "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
+    "value": 19.99,
+    "valueMainUnit": "19",
     "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-17T20:20:00",
-   "arrivalDate": "2026-12-17T21:30:00",
-   "price": {
-    "value": 22.54,
-    "valueMainUnit": "22",
-    "valueFractionalUnit": "54",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 169~ ~~TRS~12/17/2026 20:20~STN~12/17/2026 21:30~~",
-   "flightNumber": "FR169",
-   "previousPrice": null,
-   "priceUpdated": 1791800954000
-  },
-  "summary": {
-   "price": {
-    "value": 22.54,
-    "valueMainUnit": "22",
-    "valueFractionalUnit": "54",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Albania",
-    "iataCode": "TIA",
-    "name": "Tirana",
-    "seoName": "tirana",
-    "city": {
-     "code": "TIRANA",
-     "countryCode": "al",
-     "name": "Tirana"
-    }
-   },
-   "departureDate": "2026-12-18T12:20:00",
-   "arrivalDate": "2026-12-18T13:55:00",
-   "price": {
-    "value": 22.82,
-    "valueMainUnit": "22",
-    "valueFractionalUnit": "82",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5649~ ~~TRS~12/18/2026 12:20~TIA~12/18/2026 13:55~~",
-   "flightNumber": "FR5649",
-   "previousPrice": null,
-   "priceUpdated": 1791800952000
-  },
-  "summary": {
-   "price": {
-    "value": 22.82,
-    "valueMainUnit": "22",
-    "valueFractionalUnit": "82",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -4242,22 +4192,22 @@
    "departureDate": "2026-12-18T13:35:00",
    "arrivalDate": "2026-12-18T15:30:00",
    "price": {
-    "value": 25.11,
-    "valueMainUnit": "25",
-    "valueFractionalUnit": "11",
+    "value": 20.74,
+    "valueMainUnit": "20",
+    "valueFractionalUnit": "74",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~3929~ ~~TRS~12/18/2026 13:35~BCN~12/18/2026 15:30~~",
    "flightNumber": "FR3929",
    "previousPrice": null,
-   "priceUpdated": 1791800948000
+   "priceUpdated": 1792434014000
   },
   "summary": {
    "price": {
-    "value": 25.11,
-    "valueMainUnit": "25",
-    "valueFractionalUnit": "11",
+    "value": 20.74,
+    "valueMainUnit": "20",
+    "valueFractionalUnit": "74",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -4279,35 +4229,36 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
     "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
     }
    },
-   "departureDate": "2026-12-13T16:50:00",
-   "arrivalDate": "2026-12-13T18:35:00",
+   "departureDate": "2026-12-17T20:20:00",
+   "arrivalDate": "2026-12-17T21:30:00",
    "price": {
-    "value": 25.11,
-    "valueMainUnit": "25",
-    "valueFractionalUnit": "11",
+    "value": 21.54,
+    "valueMainUnit": "21",
+    "valueFractionalUnit": "54",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~4497~ ~~TRS~12/13/2026 16:50~CRL~12/13/2026 18:35~~",
-   "flightNumber": "FR4497",
+   "flightKey": "FR~ 169~ ~~TRS~12/17/2026 20:20~STN~12/17/2026 21:30~~",
+   "flightNumber": "FR169",
    "previousPrice": null,
-   "priceUpdated": 1791800949000
+   "priceUpdated": 1792405752000
   },
   "summary": {
    "price": {
-    "value": 25.11,
-    "valueMainUnit": "25",
-    "valueFractionalUnit": "11",
+    "value": 21.54,
+    "valueMainUnit": "21",
+    "valueFractionalUnit": "54",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -4330,34 +4281,34 @@
    },
    "arrivalAirport": {
     "countryName": "Spain",
-    "iataCode": "BCN",
-    "name": "Barcelona",
-    "seoName": "barcelona-el-prat",
+    "iataCode": "VLC",
+    "name": "Valencia",
+    "seoName": "valencia",
     "city": {
-     "code": "BARCELONA",
+     "code": "VALENCIA",
      "countryCode": "es",
-     "macCode": "BAR",
-     "name": "Barcelona"
+     "macCode": "VNC",
+     "name": "Valencia"
     }
    },
-   "departureDate": "2026-12-17T16:10:00",
-   "arrivalDate": "2026-12-17T18:05:00",
+   "departureDate": "2026-12-12T06:00:00",
+   "arrivalDate": "2026-12-12T08:15:00",
    "price": {
-    "value": 25.99,
-    "valueMainUnit": "25",
+    "value": 22.99,
+    "valueMainUnit": "22",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~3929~ ~~TRS~12/17/2026 16:10~BCN~12/17/2026 18:05~~",
-   "flightNumber": "FR3929",
+   "flightKey": "FR~ 618~ ~~TRS~12/12/2026 06:00~VLC~12/12/2026 08:15~~",
+   "flightNumber": "FR618",
    "previousPrice": null,
-   "priceUpdated": 1791800945000
+   "priceUpdated": 1792436780000
   },
   "summary": {
    "price": {
-    "value": 25.99,
-    "valueMainUnit": "25",
+    "value": 22.99,
+    "valueMainUnit": "22",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4394,8 +4345,8 @@
    "departureDate": "2026-12-19T15:10:00",
    "arrivalDate": "2026-12-19T17:05:00",
    "price": {
-    "value": 25.99,
-    "valueMainUnit": "25",
+    "value": 24.99,
+    "valueMainUnit": "24",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4403,12 +4354,12 @@
    "flightKey": "FR~3929~ ~~TRS~12/19/2026 15:10~BCN~12/19/2026 17:05~~",
    "flightNumber": "FR3929",
    "previousPrice": null,
-   "priceUpdated": 1791801618000
+   "priceUpdated": 1792421049000
   },
   "summary": {
    "price": {
-    "value": 25.99,
-    "valueMainUnit": "25",
+    "value": 24.99,
+    "valueMainUnit": "24",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4431,19 +4382,168 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "VLC",
-    "name": "Valencia",
-    "seoName": "valencia",
+    "countryName": "Italy",
+    "iataCode": "NAP",
+    "name": "Naples",
+    "seoName": "naples",
     "city": {
-     "code": "VALENCIA",
-     "countryCode": "es",
-     "macCode": "VNC",
-     "name": "Valencia"
+     "code": "NAPLES",
+     "countryCode": "it",
+     "name": "Naples"
     }
    },
-   "departureDate": "2026-12-17T21:40:00",
-   "arrivalDate": "2026-12-17T23:55:00",
+   "departureDate": "2026-12-16T15:45:00",
+   "arrivalDate": "2026-12-16T17:00:00",
+   "price": {
+    "value": 24.99,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5153~ ~~TRS~12/16/2026 15:45~NAP~12/16/2026 17:00~~",
+   "flightNumber": "FR5153",
+   "previousPrice": null,
+   "priceUpdated": 1792419379000
+  },
+  "summary": {
+   "price": {
+    "value": 24.99,
+    "valueMainUnit": "24",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "NAP",
+    "name": "Naples",
+    "seoName": "naples",
+    "city": {
+     "code": "NAPLES",
+     "countryCode": "it",
+     "name": "Naples"
+    }
+   },
+   "departureDate": "2026-12-12T16:10:00",
+   "arrivalDate": "2026-12-12T17:25:00",
+   "price": {
+    "value": 25.11,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "11",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4661~ ~~TRS~12/12/2026 16:10~NAP~12/12/2026 17:25~~",
+   "flightNumber": "FR4661",
+   "previousPrice": null,
+   "priceUpdated": 1792423749000
+  },
+  "summary": {
+   "price": {
+    "value": 25.11,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "11",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "PMO",
+    "name": "Palermo",
+    "seoName": "palermo",
+    "city": {
+     "code": "PALERMO",
+     "countryCode": "it",
+     "name": "Palermo"
+    }
+   },
+   "departureDate": "2026-12-17T09:10:00",
+   "arrivalDate": "2026-12-17T10:45:00",
+   "price": {
+    "value": 25.84,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "84",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1759~ ~~TRS~12/17/2026 09:10~PMO~12/17/2026 10:45~~",
+   "flightNumber": "FR1759",
+   "previousPrice": null,
+   "priceUpdated": 1792421047000
+  },
+  "summary": {
+   "price": {
+    "value": 25.84,
+    "valueMainUnit": "25",
+    "valueFractionalUnit": "84",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "NAP",
+    "name": "Naples",
+    "seoName": "naples",
+    "city": {
+     "code": "NAPLES",
+     "countryCode": "it",
+     "name": "Naples"
+    }
+   },
+   "departureDate": "2026-12-17T08:20:00",
+   "arrivalDate": "2026-12-17T09:35:00",
    "price": {
     "value": 25.99,
     "valueMainUnit": "25",
@@ -4451,16 +4551,66 @@
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 618~ ~~TRS~12/17/2026 21:40~VLC~12/17/2026 23:55~~",
-   "flightNumber": "FR618",
+   "flightKey": "FR~4661~ ~~TRS~12/17/2026 08:20~NAP~12/17/2026 09:35~~",
+   "flightNumber": "FR4661",
    "previousPrice": null,
-   "priceUpdated": 1791800951000
+   "priceUpdated": 1792419392000
   },
   "summary": {
    "price": {
     "value": 25.99,
     "valueMainUnit": "25",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "PMO",
+    "name": "Palermo",
+    "seoName": "palermo",
+    "city": {
+     "code": "PALERMO",
+     "countryCode": "it",
+     "name": "Palermo"
+    }
+   },
+   "departureDate": "2026-12-12T12:55:00",
+   "arrivalDate": "2026-12-12T14:30:00",
+   "price": {
+    "value": 26.39,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "39",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1759~ ~~TRS~12/12/2026 12:55~PMO~12/12/2026 14:30~~",
+   "flightNumber": "FR1759",
+   "previousPrice": null,
+   "priceUpdated": 1792405751000
+  },
+  "summary": {
+   "price": {
+    "value": 26.39,
+    "valueMainUnit": "26",
+    "valueFractionalUnit": "39",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -4504,7 +4654,7 @@
    "flightKey": "FR~4497~ ~~TRS~12/18/2026 09:50~CRL~12/18/2026 11:35~~",
    "flightNumber": "FR4497",
    "previousPrice": null,
-   "priceUpdated": 1791803421000
+   "priceUpdated": 1792436754000
   },
   "summary": {
    "price": {
@@ -4533,35 +4683,35 @@
    },
    "arrivalAirport": {
     "countryName": "Spain",
-    "iataCode": "VLC",
-    "name": "Valencia",
-    "seoName": "valencia",
+    "iataCode": "BCN",
+    "name": "Barcelona",
+    "seoName": "barcelona-el-prat",
     "city": {
-     "code": "VALENCIA",
+     "code": "BARCELONA",
      "countryCode": "es",
-     "macCode": "VNC",
-     "name": "Valencia"
+     "macCode": "BAR",
+     "name": "Barcelona"
     }
    },
-   "departureDate": "2026-12-14T06:35:00",
-   "arrivalDate": "2026-12-14T08:50:00",
+   "departureDate": "2026-12-17T16:10:00",
+   "arrivalDate": "2026-12-17T18:05:00",
    "price": {
-    "value": 27.19,
+    "value": 27.99,
     "valueMainUnit": "27",
-    "valueFractionalUnit": "19",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 618~ ~~TRS~12/14/2026 06:35~VLC~12/14/2026 08:50~~",
-   "flightNumber": "FR618",
+   "flightKey": "FR~3929~ ~~TRS~12/17/2026 16:10~BCN~12/17/2026 18:05~~",
+   "flightNumber": "FR3929",
    "previousPrice": null,
-   "priceUpdated": 1791800951000
+   "priceUpdated": 1792419417000
   },
   "summary": {
    "price": {
-    "value": 27.19,
+    "value": 27.99,
     "valueMainUnit": "27",
-    "valueFractionalUnit": "19",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -4583,35 +4733,135 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "PMO",
-    "name": "Palermo",
-    "seoName": "palermo",
+    "countryName": "Spain",
+    "iataCode": "SVQ",
+    "name": "Seville",
+    "seoName": "seville",
     "city": {
-     "code": "PALERMO",
-     "countryCode": "it",
-     "name": "Palermo"
+     "code": "SEVILLE",
+     "countryCode": "es",
+     "name": "Seville"
     }
    },
-   "departureDate": "2026-12-13T09:55:00",
-   "arrivalDate": "2026-12-13T11:30:00",
+   "departureDate": "2026-12-13T15:30:00",
+   "arrivalDate": "2026-12-13T18:25:00",
    "price": {
-    "value": 29.96,
-    "valueMainUnit": "29",
-    "valueFractionalUnit": "96",
+    "value": 27.99,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~1759~ ~~TRS~12/13/2026 09:55~PMO~12/13/2026 11:30~~",
-   "flightNumber": "FR1759",
+   "flightKey": "FR~2427~ ~~TRS~12/13/2026 15:30~SVQ~12/13/2026 18:25~~",
+   "flightNumber": "FR2427",
    "previousPrice": null,
-   "priceUpdated": 1791800952000
+   "priceUpdated": 1792435450000
   },
   "summary": {
    "price": {
-    "value": 29.96,
+    "value": 27.99,
+    "valueMainUnit": "27",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "NAP",
+    "name": "Naples",
+    "seoName": "naples",
+    "city": {
+     "code": "NAPLES",
+     "countryCode": "it",
+     "name": "Naples"
+    }
+   },
+   "departureDate": "2026-12-15T20:25:00",
+   "arrivalDate": "2026-12-15T21:40:00",
+   "price": {
+    "value": 28.0,
+    "valueMainUnit": "28",
+    "valueFractionalUnit": "00",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4661~ ~~TRS~12/15/2026 20:25~NAP~12/15/2026 21:40~~",
+   "flightNumber": "FR4661",
+   "previousPrice": null,
+   "priceUpdated": 1792419462000
+  },
+  "summary": {
+   "price": {
+    "value": 28.0,
+    "valueMainUnit": "28",
+    "valueFractionalUnit": "00",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Ireland",
+    "iataCode": "DUB",
+    "name": "Dublin",
+    "seoName": "dublin",
+    "city": {
+     "code": "DUBLIN",
+     "countryCode": "ie",
+     "name": "Dublin"
+    }
+   },
+   "departureDate": "2026-12-14T10:45:00",
+   "arrivalDate": "2026-12-14T12:35:00",
+   "price": {
+    "value": 29.99,
     "valueMainUnit": "29",
-    "valueFractionalUnit": "96",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9320~ ~~TRS~12/14/2026 10:45~DUB~12/14/2026 12:35~~",
+   "flightNumber": "FR9320",
+   "previousPrice": null,
+   "priceUpdated": 1792419575000
+  },
+  "summary": {
+   "price": {
+    "value": 29.99,
+    "valueMainUnit": "29",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -4646,127 +4896,27 @@
    "departureDate": "2026-12-14T19:50:00",
    "arrivalDate": "2026-12-14T21:10:00",
    "price": {
-    "value": 30.07,
+    "value": 30.17,
     "valueMainUnit": "30",
-    "valueFractionalUnit": "07",
+    "valueFractionalUnit": "17",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~3031~ ~~TRS~12/14/2026 19:50~BDS~12/14/2026 21:10~~",
    "flightNumber": "FR3031",
    "previousPrice": null,
-   "priceUpdated": 1791800946000
+   "priceUpdated": 1792405749000
   },
   "summary": {
    "price": {
-    "value": 30.07,
+    "value": 30.17,
     "valueMainUnit": "30",
-    "valueFractionalUnit": "07",
+    "valueFractionalUnit": "17",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "NAP",
-    "name": "Naples",
-    "seoName": "naples",
-    "city": {
-     "code": "NAPLES",
-     "countryCode": "it",
-     "name": "Naples"
-    }
-   },
-   "departureDate": "2026-12-13T12:00:00",
-   "arrivalDate": "2026-12-13T13:15:00",
-   "price": {
-    "value": 30.99,
-    "valueMainUnit": "30",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4661~ ~~TRS~12/13/2026 12:00~NAP~12/13/2026 13:15~~",
-   "flightNumber": "FR4661",
-   "previousPrice": null,
-   "priceUpdated": 1791800954000
-  },
-  "summary": {
-   "price": {
-    "value": 30.99,
-    "valueMainUnit": "30",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "CTA",
-    "name": "Catania",
-    "seoName": "catania",
-    "city": {
-     "code": "CATANIA",
-     "countryCode": "it",
-     "name": "Catania"
-    }
-   },
-   "departureDate": "2026-12-13T14:25:00",
-   "arrivalDate": "2026-12-13T16:10:00",
-   "price": {
-    "value": 31.8,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "80",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2708~ ~~TRS~12/13/2026 14:25~CTA~12/13/2026 16:10~~",
-   "flightNumber": "FR2708",
-   "previousPrice": null,
-   "priceUpdated": 1791800949000
-  },
-  "summary": {
-   "price": {
-    "value": 31.8,
-    "valueMainUnit": "31",
-    "valueFractionalUnit": "80",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
   }
  },
  {
@@ -4796,8 +4946,8 @@
    "departureDate": "2026-12-17T12:20:00",
    "arrivalDate": "2026-12-17T15:15:00",
    "price": {
-    "value": 31.99,
-    "valueMainUnit": "31",
+    "value": 30.99,
+    "valueMainUnit": "30",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -4805,13 +4955,415 @@
    "flightKey": "FR~4250~ ~~TRS~12/17/2026 12:20~AGP~12/17/2026 15:15~~",
    "flightNumber": "FR4250",
    "previousPrice": null,
-   "priceUpdated": 1791800946000
+   "priceUpdated": 1792419418000
   },
   "summary": {
    "price": {
-    "value": 31.99,
-    "valueMainUnit": "31",
+    "value": 30.99,
+    "valueMainUnit": "30",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "PMO",
+    "name": "Palermo",
+    "seoName": "palermo",
+    "city": {
+     "code": "PALERMO",
+     "countryCode": "it",
+     "name": "Palermo"
+    }
+   },
+   "departureDate": "2026-12-13T09:55:00",
+   "arrivalDate": "2026-12-13T11:30:00",
+   "price": {
+    "value": 31.61,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "61",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1759~ ~~TRS~12/13/2026 09:55~PMO~12/13/2026 11:30~~",
+   "flightNumber": "FR1759",
+   "previousPrice": null,
+   "priceUpdated": 1792442110000
+  },
+  "summary": {
+   "price": {
+    "value": 31.61,
+    "valueMainUnit": "31",
+    "valueFractionalUnit": "61",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Albania",
+    "iataCode": "TIA",
+    "name": "Tirana",
+    "seoName": "Tirana",
+    "city": {
+     "code": "TIRANA",
+     "countryCode": "al",
+     "name": "Tirana"
+    }
+   },
+   "departureDate": "2026-12-15T10:15:00",
+   "arrivalDate": "2026-12-15T11:50:00",
+   "price": {
+    "value": 32.99,
+    "valueMainUnit": "32",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5649~ ~~TRS~12/15/2026 10:15~TIA~12/15/2026 11:50~~",
+   "flightNumber": "FR5649",
+   "previousPrice": null,
+   "priceUpdated": 1792419574000
+  },
+  "summary": {
+   "price": {
+    "value": 32.99,
+    "valueMainUnit": "32",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "VLC",
+    "name": "Valencia",
+    "seoName": "valencia",
+    "city": {
+     "code": "VALENCIA",
+     "countryCode": "es",
+     "macCode": "VNC",
+     "name": "Valencia"
+    }
+   },
+   "departureDate": "2026-12-19T06:00:00",
+   "arrivalDate": "2026-12-19T08:15:00",
+   "price": {
+    "value": 32.99,
+    "valueMainUnit": "32",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 618~ ~~TRS~12/19/2026 06:00~VLC~12/19/2026 08:15~~",
+   "flightNumber": "FR618",
+   "previousPrice": null,
+   "priceUpdated": 1792436786000
+  },
+  "summary": {
+   "price": {
+    "value": 32.99,
+    "valueMainUnit": "32",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BDS",
+    "name": "Brindisi",
+    "seoName": "brindisi",
+    "city": {
+     "code": "BRINDISI",
+     "countryCode": "it",
+     "name": "Brindisi"
+    }
+   },
+   "departureDate": "2026-12-13T18:45:00",
+   "arrivalDate": "2026-12-13T20:05:00",
+   "price": {
+    "value": 33.99,
+    "valueMainUnit": "33",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3031~ ~~TRS~12/13/2026 18:45~BDS~12/13/2026 20:05~~",
+   "flightNumber": "FR3031",
+   "previousPrice": null,
+   "priceUpdated": 1792419403000
+  },
+  "summary": {
+   "price": {
+    "value": 33.99,
+    "valueMainUnit": "33",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BDS",
+    "name": "Brindisi",
+    "seoName": "brindisi",
+    "city": {
+     "code": "BRINDISI",
+     "countryCode": "it",
+     "name": "Brindisi"
+    }
+   },
+   "departureDate": "2026-12-18T07:35:00",
+   "arrivalDate": "2026-12-18T08:55:00",
+   "price": {
+    "value": 35.99,
+    "valueMainUnit": "35",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3031~ ~~TRS~12/18/2026 07:35~BDS~12/18/2026 08:55~~",
+   "flightNumber": "FR3031",
+   "previousPrice": null,
+   "priceUpdated": 1792419449000
+  },
+  "summary": {
+   "price": {
+    "value": 35.99,
+    "valueMainUnit": "35",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "PMO",
+    "name": "Palermo",
+    "seoName": "palermo",
+    "city": {
+     "code": "PALERMO",
+     "countryCode": "it",
+     "name": "Palermo"
+    }
+   },
+   "departureDate": "2026-12-18T08:00:00",
+   "arrivalDate": "2026-12-18T09:35:00",
+   "price": {
+    "value": 36.45,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "45",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~1759~ ~~TRS~12/18/2026 08:00~PMO~12/18/2026 09:35~~",
+   "flightNumber": "FR1759",
+   "previousPrice": null,
+   "priceUpdated": 1792441142000
+  },
+  "summary": {
+   "price": {
+    "value": 36.45,
+    "valueMainUnit": "36",
+    "valueFractionalUnit": "45",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-19T06:05:00",
+   "arrivalDate": "2026-12-19T07:15:00",
+   "price": {
+    "value": 37.17,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "17",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~ 169~ ~~TRS~12/19/2026 06:05~STN~12/19/2026 07:15~~",
+   "flightNumber": "FR169",
+   "previousPrice": null,
+   "priceUpdated": 1792405749000
+  },
+  "summary": {
+   "price": {
+    "value": 37.17,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "17",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "SUF",
+    "name": "Lamezia",
+    "seoName": "lamezia",
+    "city": {
+     "code": "LAMEZIA",
+     "countryCode": "it",
+     "name": "Lamezia"
+    }
+   },
+   "departureDate": "2026-12-13T14:30:00",
+   "arrivalDate": "2026-12-13T16:00:00",
+   "price": {
+    "value": 37.88,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "88",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5836~ ~~TRS~12/13/2026 14:30~SUF~12/13/2026 16:00~~",
+   "flightNumber": "FR5836",
+   "previousPrice": null,
+   "priceUpdated": 1792431853000
+  },
+  "summary": {
+   "price": {
+    "value": 37.88,
+    "valueMainUnit": "37",
+    "valueFractionalUnit": "88",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -4847,22 +5399,22 @@
    "departureDate": "2026-12-14T11:45:00",
    "arrivalDate": "2026-12-14T12:55:00",
    "price": {
-    "value": 32.77,
-    "valueMainUnit": "32",
-    "valueFractionalUnit": "77",
+    "value": 38.45,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "45",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~ 169~ ~~TRS~12/14/2026 11:45~STN~12/14/2026 12:55~~",
    "flightNumber": "FR169",
    "previousPrice": null,
-   "priceUpdated": 1791800952000
+   "priceUpdated": 1792441558000
   },
   "summary": {
    "price": {
-    "value": 32.77,
-    "valueMainUnit": "32",
-    "valueFractionalUnit": "77",
+    "value": 38.45,
+    "valueMainUnit": "38",
+    "valueFractionalUnit": "45",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -4894,181 +5446,30 @@
      "name": "Naples"
     }
    },
-   "departureDate": "2026-12-15T20:25:00",
-   "arrivalDate": "2026-12-15T21:40:00",
+   "departureDate": "2026-12-13T12:00:00",
+   "arrivalDate": "2026-12-13T13:15:00",
    "price": {
-    "value": 32.99,
-    "valueMainUnit": "32",
-    "valueFractionalUnit": "99",
+    "value": 39.0,
+    "valueMainUnit": "39",
+    "valueFractionalUnit": "00",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~4661~ ~~TRS~12/15/2026 20:25~NAP~12/15/2026 21:40~~",
+   "flightKey": "FR~4661~ ~~TRS~12/13/2026 12:00~NAP~12/13/2026 13:15~~",
    "flightNumber": "FR4661",
    "previousPrice": null,
-   "priceUpdated": 1791800954000
+   "priceUpdated": 1792419379000
   },
   "summary": {
    "price": {
-    "value": 32.99,
-    "valueMainUnit": "32",
-    "valueFractionalUnit": "99",
+    "value": 39.0,
+    "valueMainUnit": "39",
+    "valueFractionalUnit": "00",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
    "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-19T06:05:00",
-   "arrivalDate": "2026-12-19T07:15:00",
-   "price": {
-    "value": 33.77,
-    "valueMainUnit": "33",
-    "valueFractionalUnit": "77",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~ 169~ ~~TRS~12/19/2026 06:05~STN~12/19/2026 07:15~~",
-   "flightNumber": "FR169",
-   "previousPrice": null,
-   "priceUpdated": 1791800953000
-  },
-  "summary": {
-   "price": {
-    "value": 33.77,
-    "valueMainUnit": "33",
-    "valueFractionalUnit": "77",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BDS",
-    "name": "Brindisi",
-    "seoName": "brindisi",
-    "city": {
-     "code": "BRINDISI",
-     "countryCode": "it",
-     "name": "Brindisi"
-    }
-   },
-   "departureDate": "2026-12-13T18:45:00",
-   "arrivalDate": "2026-12-13T20:05:00",
-   "price": {
-    "value": 34.99,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3031~ ~~TRS~12/13/2026 18:45~BDS~12/13/2026 20:05~~",
-   "flightNumber": "FR3031",
-   "previousPrice": null,
-   "priceUpdated": 1791800948000
-  },
-  "summary": {
-   "price": {
-    "value": 34.99,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Ireland",
-    "iataCode": "DUB",
-    "name": "Dublin",
-    "seoName": "dublin",
-    "city": {
-     "code": "DUBLIN",
-     "countryCode": "ie",
-     "name": "Dublin"
-    }
-   },
-   "departureDate": "2026-12-14T10:45:00",
-   "arrivalDate": "2026-12-14T12:35:00",
-   "price": {
-    "value": 34.99,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~9320~ ~~TRS~12/14/2026 10:45~DUB~12/14/2026 12:35~~",
-   "flightNumber": "FR9320",
-   "previousPrice": null,
-   "priceUpdated": 1791800949000
-  },
-  "summary": {
-   "price": {
-    "value": 34.99,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
   }
  },
  {
@@ -5086,185 +5487,35 @@
    },
    "arrivalAirport": {
     "countryName": "Spain",
-    "iataCode": "VLC",
-    "name": "Valencia",
-    "seoName": "valencia",
+    "iataCode": "BCN",
+    "name": "Barcelona",
+    "seoName": "barcelona-el-prat",
     "city": {
-     "code": "VALENCIA",
+     "code": "BARCELONA",
      "countryCode": "es",
-     "macCode": "VNC",
-     "name": "Valencia"
+     "macCode": "BAR",
+     "name": "Barcelona"
     }
    },
-   "departureDate": "2026-12-19T06:00:00",
-   "arrivalDate": "2026-12-19T08:15:00",
+   "departureDate": "2026-12-14T08:55:00",
+   "arrivalDate": "2026-12-14T10:50:00",
    "price": {
-    "value": 34.99,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "99",
+    "value": 40.41,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "41",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~ 618~ ~~TRS~12/19/2026 06:00~VLC~12/19/2026 08:15~~",
-   "flightNumber": "FR618",
+   "flightKey": "FR~3929~ ~~TRS~12/14/2026 08:55~BCN~12/14/2026 10:50~~",
+   "flightNumber": "FR3929",
    "previousPrice": null,
-   "priceUpdated": 1791803383000
+   "priceUpdated": 1792405753000
   },
   "summary": {
    "price": {
-    "value": 34.99,
-    "valueMainUnit": "34",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "NAP",
-    "name": "Naples",
-    "seoName": "naples",
-    "city": {
-     "code": "NAPLES",
-     "countryCode": "it",
-     "name": "Naples"
-    }
-   },
-   "departureDate": "2026-12-17T08:20:00",
-   "arrivalDate": "2026-12-17T09:35:00",
-   "price": {
-    "value": 36.99,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4661~ ~~TRS~12/17/2026 08:20~NAP~12/17/2026 09:35~~",
-   "flightNumber": "FR4661",
-   "previousPrice": null,
-   "priceUpdated": 1791800953000
-  },
-  "summary": {
-   "price": {
-    "value": 36.99,
-    "valueMainUnit": "36",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "NAP",
-    "name": "Naples",
-    "seoName": "naples",
-    "city": {
-     "code": "NAPLES",
-     "countryCode": "it",
-     "name": "Naples"
-    }
-   },
-   "departureDate": "2026-12-12T16:10:00",
-   "arrivalDate": "2026-12-12T17:25:00",
-   "price": {
-    "value": 37.46,
-    "valueMainUnit": "37",
-    "valueFractionalUnit": "46",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4661~ ~~TRS~12/12/2026 16:10~NAP~12/12/2026 17:25~~",
-   "flightNumber": "FR4661",
-   "previousPrice": null,
-   "priceUpdated": 1791801852000
-  },
-  "summary": {
-   "price": {
-    "value": 37.46,
-    "valueMainUnit": "37",
-    "valueFractionalUnit": "46",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "PMO",
-    "name": "Palermo",
-    "seoName": "palermo",
-    "city": {
-     "code": "PALERMO",
-     "countryCode": "it",
-     "name": "Palermo"
-    }
-   },
-   "departureDate": "2026-12-12T12:55:00",
-   "arrivalDate": "2026-12-12T14:30:00",
-   "price": {
-    "value": 37.55,
-    "valueMainUnit": "37",
-    "valueFractionalUnit": "55",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1759~ ~~TRS~12/12/2026 12:55~PMO~12/12/2026 14:30~~",
-   "flightNumber": "FR1759",
-   "previousPrice": null,
-   "priceUpdated": 1791800949000
-  },
-  "summary": {
-   "price": {
-    "value": 37.55,
-    "valueMainUnit": "37",
-    "valueFractionalUnit": "55",
+    "value": 40.41,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "41",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -5299,8 +5550,8 @@
    "departureDate": "2026-12-18T17:05:00",
    "arrivalDate": "2026-12-18T19:00:00",
    "price": {
-    "value": 37.99,
-    "valueMainUnit": "37",
+    "value": 40.99,
+    "valueMainUnit": "40",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -5308,12 +5559,12 @@
    "flightKey": "FR~3695~ ~~TRS~12/18/2026 17:05~MLA~12/18/2026 19:00~~",
    "flightNumber": "FR3695",
    "previousPrice": null,
-   "priceUpdated": 1791801673000
+   "priceUpdated": 1792419573000
   },
   "summary": {
    "price": {
-    "value": 37.99,
-    "valueMainUnit": "37",
+    "value": 40.99,
+    "valueMainUnit": "40",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -5337,239 +5588,39 @@
    },
    "arrivalAirport": {
     "countryName": "Italy",
-    "iataCode": "BDS",
-    "name": "Brindisi",
-    "seoName": "brindisi",
+    "iataCode": "PMO",
+    "name": "Palermo",
+    "seoName": "palermo",
     "city": {
-     "code": "BRINDISI",
+     "code": "PALERMO",
      "countryCode": "it",
-     "name": "Brindisi"
+     "name": "Palermo"
     }
    },
-   "departureDate": "2026-12-18T07:35:00",
-   "arrivalDate": "2026-12-18T08:55:00",
+   "departureDate": "2026-12-14T12:00:00",
+   "arrivalDate": "2026-12-14T13:35:00",
    "price": {
-    "value": 39.0,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "00",
+    "value": 41.82,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "82",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~3031~ ~~TRS~12/18/2026 07:35~BDS~12/18/2026 08:55~~",
-   "flightNumber": "FR3031",
+   "flightKey": "FR~1759~ ~~TRS~12/14/2026 12:00~PMO~12/14/2026 13:35~~",
+   "flightNumber": "FR1759",
    "previousPrice": null,
-   "priceUpdated": 1791801810000
+   "priceUpdated": 1792421948000
   },
   "summary": {
    "price": {
-    "value": 39.0,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "00",
+    "value": 41.82,
+    "valueMainUnit": "41",
+    "valueFractionalUnit": "82",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "SVQ",
-    "name": "Seville",
-    "seoName": "seville",
-    "city": {
-     "code": "SEVILLE",
-     "countryCode": "es",
-     "name": "Seville"
-    }
-   },
-   "departureDate": "2026-12-18T15:05:00",
-   "arrivalDate": "2026-12-18T18:00:00",
-   "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2427~ ~~TRS~12/18/2026 15:05~SVQ~12/18/2026 18:00~~",
-   "flightNumber": "FR2427",
-   "previousPrice": null,
-   "priceUpdated": 1791801853000
-  },
-  "summary": {
-   "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Albania",
-    "iataCode": "TIA",
-    "name": "Tirana",
-    "seoName": "tirana",
-    "city": {
-     "code": "TIRANA",
-     "countryCode": "al",
-     "name": "Tirana"
-    }
-   },
-   "departureDate": "2026-12-15T10:15:00",
-   "arrivalDate": "2026-12-15T11:50:00",
-   "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5649~ ~~TRS~12/15/2026 10:15~TIA~12/15/2026 11:50~~",
-   "flightNumber": "FR5649",
-   "previousPrice": null,
-   "priceUpdated": 1791800951000
-  },
-  "summary": {
-   "price": {
-    "value": 39.99,
-    "valueMainUnit": "39",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "SUF",
-    "name": "Lamezia",
-    "seoName": "lamezia",
-    "city": {
-     "code": "LAMEZIA",
-     "countryCode": "it",
-     "name": "Lamezia"
-    }
-   },
-   "departureDate": "2026-12-13T14:30:00",
-   "arrivalDate": "2026-12-13T16:00:00",
-   "price": {
-    "value": 40.21,
-    "valueMainUnit": "40",
-    "valueFractionalUnit": "21",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5836~ ~~TRS~12/13/2026 14:30~SUF~12/13/2026 16:00~~",
-   "flightNumber": "FR5836",
-   "previousPrice": null,
-   "priceUpdated": 1791800953000
-  },
-  "summary": {
-   "price": {
-    "value": 40.21,
-    "valueMainUnit": "40",
-    "valueFractionalUnit": "21",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "NAP",
-    "name": "Naples",
-    "seoName": "naples",
-    "city": {
-     "code": "NAPLES",
-     "countryCode": "it",
-     "name": "Naples"
-    }
-   },
-   "departureDate": "2026-12-19T16:10:00",
-   "arrivalDate": "2026-12-19T17:25:00",
-   "price": {
-    "value": 43.51,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "51",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~4661~ ~~TRS~12/19/2026 16:10~NAP~12/19/2026 17:25~~",
-   "flightNumber": "FR4661",
-   "previousPrice": null,
-   "priceUpdated": 1791800953000
-  },
-  "summary": {
-   "price": {
-    "value": 43.51,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "51",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
+   "newRoute": false
   }
  },
  {
@@ -5596,25 +5647,25 @@
      "name": "Catania"
     }
    },
-   "departureDate": "2026-12-12T11:25:00",
-   "arrivalDate": "2026-12-12T13:10:00",
+   "departureDate": "2026-12-13T14:25:00",
+   "arrivalDate": "2026-12-13T16:10:00",
    "price": {
-    "value": 43.99,
+    "value": 43.38,
     "valueMainUnit": "43",
-    "valueFractionalUnit": "99",
+    "valueFractionalUnit": "38",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2708~ ~~TRS~12/12/2026 11:25~CTA~12/12/2026 13:10~~",
+   "flightKey": "FR~2708~ ~~TRS~12/13/2026 14:25~CTA~12/13/2026 16:10~~",
    "flightNumber": "FR2708",
    "previousPrice": null,
-   "priceUpdated": 1791800947000
+   "priceUpdated": 1792409286000
   },
   "summary": {
    "price": {
-    "value": 43.99,
+    "value": 43.38,
     "valueMainUnit": "43",
-    "valueFractionalUnit": "99",
+    "valueFractionalUnit": "38",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -5636,36 +5687,85 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "BCN",
-    "name": "Barcelona",
-    "seoName": "barcelona-el-prat",
+    "countryName": "Italy",
+    "iataCode": "CTA",
+    "name": "Catania",
+    "seoName": "catania",
     "city": {
-     "code": "BARCELONA",
-     "countryCode": "es",
-     "macCode": "BAR",
-     "name": "Barcelona"
+     "code": "CATANIA",
+     "countryCode": "it",
+     "name": "Catania"
     }
    },
-   "departureDate": "2026-12-14T08:55:00",
-   "arrivalDate": "2026-12-14T10:50:00",
+   "departureDate": "2026-12-17T18:25:00",
+   "arrivalDate": "2026-12-17T20:10:00",
    "price": {
-    "value": 47.91,
-    "valueMainUnit": "47",
-    "valueFractionalUnit": "91",
+    "value": 45.82,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "82",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~3929~ ~~TRS~12/14/2026 08:55~BCN~12/14/2026 10:50~~",
-   "flightNumber": "FR3929",
+   "flightKey": "FR~2708~ ~~TRS~12/17/2026 18:25~CTA~12/17/2026 20:10~~",
+   "flightNumber": "FR2708",
    "previousPrice": null,
-   "priceUpdated": 1791800949000
+   "priceUpdated": 1792429029000
   },
   "summary": {
    "price": {
-    "value": 47.91,
-    "valueMainUnit": "47",
-    "valueFractionalUnit": "91",
+    "value": 45.82,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "82",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BRI",
+    "name": "Bari",
+    "seoName": "bari",
+    "city": {
+     "code": "BARI",
+     "countryCode": "it",
+     "name": "Bari"
+    }
+   },
+   "departureDate": "2026-12-17T13:20:00",
+   "arrivalDate": "2026-12-17T14:40:00",
+   "price": {
+    "value": 46.28,
+    "valueMainUnit": "46",
+    "valueFractionalUnit": "28",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3582~ ~~TRS~12/17/2026 13:20~BRI~12/17/2026 14:40~~",
+   "flightNumber": "FR3582",
+   "previousPrice": null,
+   "priceUpdated": 1792415161000
+  },
+  "summary": {
+   "price": {
+    "value": 46.28,
+    "valueMainUnit": "46",
+    "valueFractionalUnit": "28",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -5709,13 +5809,63 @@
    "flightKey": "FR~2708~ ~~TRS~12/18/2026 06:40~CTA~12/18/2026 08:25~~",
    "flightNumber": "FR2708",
    "previousPrice": null,
-   "priceUpdated": 1791800946000
+   "priceUpdated": 1792405750000
   },
   "summary": {
    "price": {
     "value": 49.3,
     "valueMainUnit": "49",
     "valueFractionalUnit": "30",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BRI",
+    "name": "Bari",
+    "seoName": "bari",
+    "city": {
+     "code": "BARI",
+     "countryCode": "it",
+     "name": "Bari"
+    }
+   },
+   "departureDate": "2026-12-19T19:35:00",
+   "arrivalDate": "2026-12-19T20:55:00",
+   "price": {
+    "value": 49.74,
+    "valueMainUnit": "49",
+    "valueFractionalUnit": "74",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~7086~ ~~TRS~12/19/2026 19:35~BRI~12/19/2026 20:55~~",
+   "flightNumber": "FR7086",
+   "previousPrice": null,
+   "priceUpdated": 1792421834000
+  },
+  "summary": {
+   "price": {
+    "value": 49.74,
+    "valueMainUnit": "49",
+    "valueFractionalUnit": "74",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -5747,25 +5897,25 @@
      "name": "Catania"
     }
    },
-   "departureDate": "2026-12-17T18:25:00",
-   "arrivalDate": "2026-12-17T20:10:00",
+   "departureDate": "2026-12-12T11:25:00",
+   "arrivalDate": "2026-12-12T13:10:00",
    "price": {
-    "value": 50.4,
+    "value": 50.0,
     "valueMainUnit": "50",
-    "valueFractionalUnit": "40",
+    "valueFractionalUnit": "00",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2708~ ~~TRS~12/17/2026 18:25~CTA~12/17/2026 20:10~~",
+   "flightKey": "FR~2708~ ~~TRS~12/12/2026 11:25~CTA~12/12/2026 13:10~~",
    "flightNumber": "FR2708",
    "previousPrice": null,
-   "priceUpdated": 1791802690000
+   "priceUpdated": 1792438266000
   },
   "summary": {
    "price": {
-    "value": 50.4,
+    "value": 50.0,
     "valueMainUnit": "50",
-    "valueFractionalUnit": "40",
+    "valueFractionalUnit": "00",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -5809,113 +5959,13 @@
    "flightKey": "FR~3582~ ~~TRS~12/18/2026 12:50~BRI~12/18/2026 14:10~~",
    "flightNumber": "FR3582",
    "previousPrice": null,
-   "priceUpdated": 1791801697000
+   "priceUpdated": 1792419574000
   },
   "summary": {
    "price": {
     "value": 51.99,
     "valueMainUnit": "51",
     "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "SUF",
-    "name": "Lamezia",
-    "seoName": "lamezia",
-    "city": {
-     "code": "LAMEZIA",
-     "countryCode": "it",
-     "name": "Lamezia"
-    }
-   },
-   "departureDate": "2026-12-18T09:50:00",
-   "arrivalDate": "2026-12-18T11:20:00",
-   "price": {
-    "value": 52.57,
-    "valueMainUnit": "52",
-    "valueFractionalUnit": "57",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~5836~ ~~TRS~12/18/2026 09:50~SUF~12/18/2026 11:20~~",
-   "flightNumber": "FR5836",
-   "previousPrice": null,
-   "priceUpdated": 1791801854000
-  },
-  "summary": {
-   "price": {
-    "value": 52.57,
-    "valueMainUnit": "52",
-    "valueFractionalUnit": "57",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": true
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "PMO",
-    "name": "Palermo",
-    "seoName": "palermo",
-    "city": {
-     "code": "PALERMO",
-     "countryCode": "it",
-     "name": "Palermo"
-    }
-   },
-   "departureDate": "2026-12-18T08:00:00",
-   "arrivalDate": "2026-12-18T09:35:00",
-   "price": {
-    "value": 52.7,
-    "valueMainUnit": "52",
-    "valueFractionalUnit": "70",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1759~ ~~TRS~12/18/2026 08:00~PMO~12/18/2026 09:35~~",
-   "flightNumber": "FR1759",
-   "previousPrice": null,
-   "priceUpdated": 1791800953000
-  },
-  "summary": {
-   "price": {
-    "value": 52.7,
-    "valueMainUnit": "52",
-    "valueFractionalUnit": "70",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -5947,11 +5997,161 @@
      "name": "Naples"
     }
    },
+   "departureDate": "2026-12-19T09:10:00",
+   "arrivalDate": "2026-12-19T10:25:00",
+   "price": {
+    "value": 51.99,
+    "valueMainUnit": "51",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~4711~ ~~TRS~12/19/2026 09:10~NAP~12/19/2026 10:25~~",
+   "flightNumber": "FR4711",
+   "previousPrice": null,
+   "priceUpdated": 1792419572000
+  },
+  "summary": {
+   "price": {
+    "value": 51.99,
+    "valueMainUnit": "51",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "SUF",
+    "name": "Lamezia",
+    "seoName": "lamezia",
+    "city": {
+     "code": "LAMEZIA",
+     "countryCode": "it",
+     "name": "Lamezia"
+    }
+   },
+   "departureDate": "2026-12-18T09:50:00",
+   "arrivalDate": "2026-12-18T11:20:00",
+   "price": {
+    "value": 52.0,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "00",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~5836~ ~~TRS~12/18/2026 09:50~SUF~12/18/2026 11:20~~",
+   "flightNumber": "FR5836",
+   "previousPrice": null,
+   "priceUpdated": 1792440273000
+  },
+  "summary": {
+   "price": {
+    "value": 52.0,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "00",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "SVQ",
+    "name": "Seville",
+    "seoName": "seville",
+    "city": {
+     "code": "SEVILLE",
+     "countryCode": "es",
+     "name": "Seville"
+    }
+   },
+   "departureDate": "2026-12-18T15:05:00",
+   "arrivalDate": "2026-12-18T18:00:00",
+   "price": {
+    "value": 52.99,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2427~ ~~TRS~12/18/2026 15:05~SVQ~12/18/2026 18:00~~",
+   "flightNumber": "FR2427",
+   "previousPrice": null,
+   "priceUpdated": 1792441041000
+  },
+  "summary": {
+   "price": {
+    "value": 52.99,
+    "valueMainUnit": "52",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": true
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Italy",
+    "iataCode": "TRS",
+    "name": "Trieste",
+    "seoName": "trieste",
+    "city": {
+     "code": "TRIESTE",
+     "countryCode": "it",
+     "name": "Trieste"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "NAP",
+    "name": "Naples",
+    "seoName": "naples",
+    "city": {
+     "code": "NAPLES",
+     "countryCode": "it",
+     "name": "Naples"
+    }
+   },
    "departureDate": "2026-12-18T11:35:00",
    "arrivalDate": "2026-12-18T12:50:00",
    "price": {
-    "value": 55.99,
-    "valueMainUnit": "55",
+    "value": 57.99,
+    "valueMainUnit": "57",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -5959,12 +6159,12 @@
    "flightKey": "FR~4661~ ~~TRS~12/18/2026 11:35~NAP~12/18/2026 12:50~~",
    "flightNumber": "FR4661",
    "previousPrice": null,
-   "priceUpdated": 1791803428000
+   "priceUpdated": 1792436894000
   },
   "summary": {
    "price": {
-    "value": 55.99,
-    "valueMainUnit": "55",
+    "value": 57.99,
+    "valueMainUnit": "57",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -5997,225 +6197,25 @@
      "name": "Bari"
     }
    },
-   "departureDate": "2026-12-17T13:20:00",
-   "arrivalDate": "2026-12-17T14:40:00",
-   "price": {
-    "value": 57.2,
-    "valueMainUnit": "57",
-    "valueFractionalUnit": "20",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3582~ ~~TRS~12/17/2026 13:20~BRI~12/17/2026 14:40~~",
-   "flightNumber": "FR3582",
-   "previousPrice": null,
-   "priceUpdated": 1791800945000
-  },
-  "summary": {
-   "price": {
-    "value": 57.2,
-    "valueMainUnit": "57",
-    "valueFractionalUnit": "20",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BRI",
-    "name": "Bari",
-    "seoName": "bari",
-    "city": {
-     "code": "BARI",
-     "countryCode": "it",
-     "name": "Bari"
-    }
-   },
-   "departureDate": "2026-12-19T19:35:00",
-   "arrivalDate": "2026-12-19T20:55:00",
-   "price": {
-    "value": 57.85,
-    "valueMainUnit": "57",
-    "valueFractionalUnit": "85",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~7086~ ~~TRS~12/19/2026 19:35~BRI~12/19/2026 20:55~~",
-   "flightNumber": "FR7086",
-   "previousPrice": null,
-   "priceUpdated": 1791800053000
-  },
-  "summary": {
-   "price": {
-    "value": 57.85,
-    "valueMainUnit": "57",
-    "valueFractionalUnit": "85",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BRI",
-    "name": "Bari",
-    "seoName": "bari",
-    "city": {
-     "code": "BARI",
-     "countryCode": "it",
-     "name": "Bari"
-    }
-   },
    "departureDate": "2026-12-14T13:50:00",
    "arrivalDate": "2026-12-14T15:10:00",
    "price": {
-    "value": 61.0,
-    "valueMainUnit": "61",
-    "valueFractionalUnit": "00",
+    "value": 62.99,
+    "valueMainUnit": "62",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~3582~ ~~TRS~12/14/2026 13:50~BRI~12/14/2026 15:10~~",
    "flightNumber": "FR3582",
    "previousPrice": null,
-   "priceUpdated": 1791800948000
+   "priceUpdated": 1792437604000
   },
   "summary": {
    "price": {
-    "value": 61.0,
-    "valueMainUnit": "61",
-    "valueFractionalUnit": "00",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "PMO",
-    "name": "Palermo",
-    "seoName": "palermo",
-    "city": {
-     "code": "PALERMO",
-     "countryCode": "it",
-     "name": "Palermo"
-    }
-   },
-   "departureDate": "2026-12-17T09:10:00",
-   "arrivalDate": "2026-12-17T10:45:00",
-   "price": {
-    "value": 61.25,
-    "valueMainUnit": "61",
-    "valueFractionalUnit": "25",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1759~ ~~TRS~12/17/2026 09:10~PMO~12/17/2026 10:45~~",
-   "flightNumber": "FR1759",
-   "previousPrice": null,
-   "priceUpdated": 1791800953000
-  },
-  "summary": {
-   "price": {
-    "value": 61.25,
-    "valueMainUnit": "61",
-    "valueFractionalUnit": "25",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Italy",
-    "iataCode": "TRS",
-    "name": "Trieste",
-    "seoName": "trieste",
-    "city": {
-     "code": "TRIESTE",
-     "countryCode": "it",
-     "name": "Trieste"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "PMO",
-    "name": "Palermo",
-    "seoName": "palermo",
-    "city": {
-     "code": "PALERMO",
-     "countryCode": "it",
-     "name": "Palermo"
-    }
-   },
-   "departureDate": "2026-12-14T12:00:00",
-   "arrivalDate": "2026-12-14T13:35:00",
-   "price": {
-    "value": 66.4,
-    "valueMainUnit": "66",
-    "valueFractionalUnit": "40",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~1759~ ~~TRS~12/14/2026 12:00~PMO~12/14/2026 13:35~~",
-   "flightNumber": "FR1759",
-   "previousPrice": null,
-   "priceUpdated": 1791800953000
-  },
-  "summary": {
-   "price": {
-    "value": 66.4,
-    "valueMainUnit": "66",
-    "valueFractionalUnit": "40",
+    "value": 62.99,
+    "valueMainUnit": "62",
+    "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -6250,8 +6250,8 @@
    "departureDate": "2026-12-19T12:55:00",
    "arrivalDate": "2026-12-19T14:30:00",
    "price": {
-    "value": 79.99,
-    "valueMainUnit": "79",
+    "value": 65.99,
+    "valueMainUnit": "65",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -6259,12 +6259,12 @@
    "flightKey": "FR~1759~ ~~TRS~12/19/2026 12:55~PMO~12/19/2026 14:30~~",
    "flightNumber": "FR1759",
    "previousPrice": null,
-   "priceUpdated": 1791800954000
+   "priceUpdated": 1792436794000
   },
   "summary": {
    "price": {
-    "value": 79.99,
-    "valueMainUnit": "79",
+    "value": 65.99,
+    "valueMainUnit": "65",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -6300,8 +6300,8 @@
    "departureDate": "2026-12-19T11:25:00",
    "arrivalDate": "2026-12-19T13:10:00",
    "price": {
-    "value": 89.99,
-    "valueMainUnit": "89",
+    "value": 86.99,
+    "valueMainUnit": "86",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -6309,12 +6309,12 @@
    "flightKey": "FR~2708~ ~~TRS~12/19/2026 11:25~CTA~12/19/2026 13:10~~",
    "flightNumber": "FR2708",
    "previousPrice": null,
-   "priceUpdated": 1791803413000
+   "priceUpdated": 1792436929000
   },
   "summary": {
    "price": {
-    "value": 89.99,
-    "valueMainUnit": "89",
+    "value": 86.99,
+    "valueMainUnit": "86",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -6350,22 +6350,22 @@
    "departureDate": "2026-12-18T08:40:00",
    "arrivalDate": "2026-12-18T10:10:00",
    "price": {
-    "value": 139.74,
-    "valueMainUnit": "139",
-    "valueFractionalUnit": "74",
+    "value": 132.24,
+    "valueMainUnit": "132",
+    "valueFractionalUnit": "24",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~6783~ ~~TRS~12/18/2026 08:40~KRK~12/18/2026 10:10~~",
    "flightNumber": "FR6783",
    "previousPrice": null,
-   "priceUpdated": 1791800954000
+   "priceUpdated": 1792405751000
   },
   "summary": {
    "price": {
-    "value": 139.74,
-    "valueMainUnit": "139",
-    "valueFractionalUnit": "74",
+    "value": 132.24,
+    "valueMainUnit": "132",
+    "valueFractionalUnit": "24",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },

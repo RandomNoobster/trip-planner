@@ -1,7 +1,8 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDS1JLcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T11:18:57",
+ "fetchedAt": "2026-10-19T23:08:45",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
    "price": 38.0,
@@ -23,22 +24,22 @@
    "label": "From 38 euros.This price does not include overhead bin access. Nonstop flight with Norwegian. Leaves John Paul II Kraków Balice International Airport at 2:30 PM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 4:55 PM on Thursday, December 17. Total duration 2 hr 25 min.   Select flight"
   },
   {
-   "price": 141.0,
+   "price": 192.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
-   "operatedBy": "German Airways, KLM Cityhopper",
+   "operatedBy": "KLM Cityhopper",
    "depAirportName": "John Paul II Kraków Balice International Airport",
-   "depTime": "14:00",
+   "depTime": "11:55",
    "depDate": "2026-12-17",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "23:10",
    "arrDate": "2026-12-17",
-   "durationMin": 550,
+   "durationMin": 675,
    "layovers": [
     {
-     "min": 300,
+     "min": 425,
      "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam"
@@ -46,62 +47,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 141 euros. 1 stop flight with KLM. Operated by German Airways, KLM Cityhopper. Leaves John Paul II Kraków Balice International Airport at 2:00 PM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 11:10 PM on Thursday, December 17. Total duration 9 hr 10 min.  Layover (1 of 1) is a 5 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 192 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves John Paul II Kraków Balice International Airport at 11:55 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 11:10 PM on Thursday, December 17. Total duration 11 hr 15 min.  Layover (1 of 1) is a 7 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 160.0,
-   "roundTripTotal": false,
-   "noOverheadBin": true,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
-   "depAirportName": "John Paul II Kraków Balice International Airport",
-   "depTime": "17:35",
-   "depDate": "2026-12-17",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "23:10",
-   "arrDate": "2026-12-17",
-   "durationMin": 335,
-   "layovers": [
-    {
-     "min": 85,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 160 euros.This price does not include overhead bin access. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves John Paul II Kraków Balice International Airport at 5:35 PM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 11:10 PM on Thursday, December 17. Total duration 5 hr 35 min.  Layover (1 of 1) is a 1 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 182.0,
-   "roundTripTotal": false,
-   "noOverheadBin": true,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
-   "depAirportName": "John Paul II Kraków Balice International Airport",
-   "depTime": "06:00",
-   "depDate": "2026-12-17",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
-   "arrDate": "2026-12-17",
-   "durationMin": 635,
-   "layovers": [
-    {
-     "min": 380,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 182 euros.This price does not include overhead bin access. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves John Paul II Kraków Balice International Airport at 6:00 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 4:35 PM on Thursday, December 17. Total duration 10 hr 35 min.  Layover (1 of 1) is a 6 hr 20 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 209.0,
+   "price": 210.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -130,10 +79,36 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 209 euros. 2 stops flight with KLM and Scandinavian Airlines. Operated by KLM Cityhopper, Sas Link for Scandinavian Airlines. Leaves John Paul II Kraków Balice International Airport at 6:00 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 2:10 PM on Thursday, December 17. Total duration 8 hr 10 min.  Layover (1 of 2) is a 1 hr 50 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 1 hr 25 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 210 euros. 2 stops flight with KLM and Scandinavian Airlines. Operated by KLM Cityhopper, Sas Link for Scandinavian Airlines. Leaves John Paul II Kraków Balice International Airport at 6:00 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 2:10 PM on Thursday, December 17. Total duration 8 hr 10 min.  Layover (1 of 2) is a 1 hr 50 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 1 hr 25 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 290.0,
+   "price": 226.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
+   "depAirportName": "John Paul II Kraków Balice International Airport",
+   "depTime": "17:35",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-17",
+   "durationMin": 335,
+   "layovers": [
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 226 euros.This price does not include overhead bin access. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves John Paul II Kraków Balice International Airport at 5:35 PM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 11:10 PM on Thursday, December 17. Total duration 5 hr 35 min.  Layover (1 of 1) is a 1 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 260.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -168,7 +143,33 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 290 euros. 3 stops flight with Finnair and Wideroe. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves John Paul II Kraków Balice International Airport at 9:15 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 2:50 PM on Friday, December 18. Total duration 29 hr 35 min.  Layover (1 of 3) is a 19 hr 5 min layover at Helsinki Airport in Helsinki. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 3 hr 50 min layover at Bergen Airport in Bergen. Select flight"
+   "label": "From 260 euros. 3 stops flight with Finnair and Wideroe. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves John Paul II Kraków Balice International Airport at 9:15 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 2:50 PM on Friday, December 18. Total duration 29 hr 35 min.  Layover (1 of 3) is a 19 hr 5 min layover at Helsinki Airport in Helsinki. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 3 hr 50 min layover at Bergen Airport in Bergen. Select flight"
+  },
+  {
+   "price": 265.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
+   "depAirportName": "John Paul II Kraków Balice International Airport",
+   "depTime": "06:00",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-17",
+   "durationMin": 635,
+   "layovers": [
+    {
+     "min": 380,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 265 euros.This price does not include overhead bin access. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves John Paul II Kraków Balice International Airport at 6:00 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 4:35 PM on Thursday, December 17. Total duration 10 hr 35 min.  Layover (1 of 1) is a 6 hr 20 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   }
  ]
 }

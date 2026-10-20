@@ -1,36 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTRqBRIDQlVEcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T11:22:55",
- "priceUnavailable": 0,
+ "fetchedAt": "2026-10-19T23:20:46",
+ "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
-   "price": 152.0,
-   "roundTripTotal": false,
-   "noOverheadBin": true,
-   "stops": 1,
-   "airlines": "Norwegian",
-   "operatedBy": "Norwegian",
-   "depAirportName": "Budapest Ferenc Liszt International Airport",
-   "depTime": "12:10",
-   "depDate": "2026-12-14",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "21:40",
-   "arrDate": "2026-12-14",
-   "durationMin": 570,
-   "layovers": [
-    {
-     "min": 360,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 152 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Budapest Ferenc Liszt International Airport at 12:10 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 9:40 PM on Monday, December 14. Total duration 9 hr 30 min.  Layover (1 of 1) is a 6 hr layover at Oslo lufthavn in Oslo. Select flight"
-  },
-  {
-   "price": 169.0,
+   "price": 155.0,
    "roundTripTotal": false,
    "noOverheadBin": true,
    "stops": 1,
@@ -53,7 +28,161 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 169 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian, Norwegian. Leaves Budapest Ferenc Liszt International Airport at 12:10 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 5:15 PM on Monday, December 14. Total duration 5 hr 5 min.  Layover (1 of 1) is a 1 hr 40 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 155 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian, Norwegian. Leaves Budapest Ferenc Liszt International Airport at 12:10 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 5:15 PM on Monday, December 14. Total duration 5 hr 5 min.  Layover (1 of 1) is a 1 hr 40 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 156.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Budapest Ferenc Liszt International Airport",
+   "depTime": "17:20",
+   "depDate": "2026-12-14",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-14",
+   "durationMin": 350,
+   "layovers": [
+    {
+     "min": 90,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 156 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Budapest Ferenc Liszt International Airport at 5:20 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 11:10 PM on Monday, December 14. Total duration 5 hr 50 min.  Layover (1 of 1) is a 1 hr 30 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 353.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air France and Scandinavian Airlines",
+   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "depAirportName": "Budapest Ferenc Liszt International Airport",
+   "depTime": "18:00",
+   "depDate": "2026-12-14",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:30",
+   "arrDate": "2026-12-15",
+   "durationMin": 1230,
+   "layovers": [
+    {
+     "min": 645,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
+    },
+    {
+     "min": 220,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 353 euros. 2 stops flight with Air France and Scandinavian Airlines. Operated by Sas Link for Scandinavian Airlines. Leaves Budapest Ferenc Liszt International Airport at 6:00 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:30 PM on Tuesday, December 15. Total duration 20 hr 30 min.  Layover (1 of 2) is a 10 hr 45 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 3 hr 40 min layover at Copenhagen Airport in Copenhagen. Select flight"
+  },
+  {
+   "price": 518.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Austrian and Scandinavian Airlines",
+   "operatedBy": null,
+   "depAirportName": "Budapest Ferenc Liszt International Airport",
+   "depTime": "07:50",
+   "depDate": "2026-12-14",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:00",
+   "arrDate": "2026-12-14",
+   "durationMin": 490,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Vienna International Airport",
+     "city": "Vienna"
+    },
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 518 euros. 2 stops flight with Austrian and Scandinavian Airlines. Leaves Budapest Ferenc Liszt International Airport at 7:50 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:00 PM on Monday, December 14. Total duration 8 hr 10 min. Business Class + Economy Layover (1 of 2) is a 2 hr 35 min layover at Vienna International Airport in Vienna. Layover (2 of 2) is a 1 hr 25 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 546.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depAirportName": "Budapest Ferenc Liszt International Airport",
+   "depTime": "06:40",
+   "depDate": "2026-12-14",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-14",
+   "durationMin": 490,
+   "layovers": [
+    {
+     "min": 105,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 546 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Budapest Ferenc Liszt International Airport at 6:40 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:50 PM on Monday, December 14. Total duration 8 hr 10 min.  Layover (1 of 2) is a 1 hr 45 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+  },
+  {
+   "price": 1236.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Austrian and Scandinavian Airlines",
+   "operatedBy": "Sas Link",
+   "depAirportName": "Budapest Ferenc Liszt International Airport",
+   "depTime": "07:50",
+   "depDate": "2026-12-14",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:30",
+   "arrDate": "2026-12-14",
+   "durationMin": 400,
+   "layovers": [
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Vienna International Airport",
+     "city": "Vienna"
+    },
+    {
+     "min": 50,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 1236 euros. 2 stops flight with Austrian and Scandinavian Airlines. Operated by Sas Link. Leaves Budapest Ferenc Liszt International Airport at 7:50 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:30 PM on Monday, December 14. Total duration 6 hr 40 min.  Layover (1 of 2) is a 1 hr 35 min layover at Vienna International Airport in Vienna. Layover (2 of 2) is a 50 min layover at Copenhagen Airport in Copenhagen. Select flight"
   }
  ]
 }

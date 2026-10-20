@@ -1,17 +1,21 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDZqBRIDVFJEcgUSA0JTTBoaEgoyMDI2LTEyLTE0agUSA0JTTHIFEgNUUkRAAUgBmAEB",
- "via": "ui",
+ "fetchedAt": "2026-10-19T22:54:46",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 352.0,
+   "price": 357.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-06",
+   "arrCode": "BSL",
    "arrAirportName": "EuroAirport Basel-Mulhouse-Freiburg",
    "arrTime": "13:25",
    "arrDate": "2026-12-06",
@@ -19,123 +23,33 @@
    "layovers": [
     {
      "min": 210,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 483.0,
-   "roundTripTotal": true,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Wideroe and Lufthansa",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "09:10",
-   "depDate": "2026-12-06",
-   "arrAirportName": "EuroAirport Basel-Mulhouse-Freiburg",
-   "arrTime": "22:35",
-   "arrDate": "2026-12-06",
-   "durationMin": 805,
-   "layovers": [
-    {
-     "min": 155,
-     "airport": "Bergen Airport",
-     "city": "Bergen",
-     "overnight": false
-    },
-    {
-     "min": 400,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main",
-     "overnight": false
-    }
+   "flights": [
+    "KL1150",
+    "KL1945"
    ],
-   "separateTickets": false,
-   "changeAirport": false
+   "via": "rpc"
   },
   {
-   "price": 496.0,
-   "roundTripTotal": true,
-   "noOverheadBin": false,
-   "stops": 3,
-   "airlines": "Wideroe, Lufthansa and Air Dolomiti",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "09:10",
-   "depDate": "2026-12-06",
-   "arrAirportName": "EuroAirport Basel-Mulhouse-Freiburg",
-   "arrTime": "19:20",
-   "arrDate": "2026-12-06",
-   "durationMin": 610,
-   "layovers": [
-    {
-     "min": 155,
-     "airport": "Bergen Airport",
-     "city": "Bergen",
-     "overnight": false
-    },
-    {
-     "min": 75,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main",
-     "overnight": false
-    },
-    {
-     "min": 75,
-     "airport": "Munich International Airport",
-     "city": "Munich",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 574.0,
-   "roundTripTotal": true,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Air France",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "17:15",
-   "depDate": "2026-12-06",
-   "arrAirportName": "EuroAirport Basel-Mulhouse-Freiburg",
-   "arrTime": "10:00",
-   "arrDate": "2026-12-07",
-   "durationMin": 1005,
-   "layovers": [
-    {
-     "min": 55,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "overnight": false
-    },
-    {
-     "min": 655,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris",
-     "overnight": false
-    }
-   ],
-   "separateTickets": false,
-   "changeAirport": false
-  },
-  {
-   "price": 383.0,
+   "price": 388.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "17:15",
    "depDate": "2026-12-06",
+   "arrCode": "BSL",
    "arrAirportName": "EuroAirport Basel-Mulhouse-Freiburg",
    "arrTime": "21:55",
    "arrDate": "2026-12-06",
@@ -143,13 +57,158 @@
    "layovers": [
     {
      "min": 65,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1154",
+    "KL1949"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 428.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe and Lufthansa",
+   "operatedBy": "Air Dolomiti",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-06",
+   "arrCode": "BSL",
+   "arrAirportName": "EuroAirport Basel-Mulhouse-Freiburg",
+   "arrTime": "22:35",
+   "arrDate": "2026-12-06",
+   "durationMin": 805,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    },
+    {
+     "min": 400,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "WF1302",
+    "LH873",
+    "LH1208"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 489.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Wideroe, Lufthansa and Air Dolomiti",
+   "operatedBy": null,
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-06",
+   "arrCode": "BSL",
+   "arrAirportName": "EuroAirport Basel-Mulhouse-Freiburg",
+   "arrTime": "19:20",
+   "arrDate": "2026-12-06",
+   "durationMin": 610,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    },
+    {
+     "min": 75,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    },
+    {
+     "min": 75,
+     "overnight": false,
+     "airport": "Munich International Airport",
+     "city": "Munich",
+     "code": "MUC",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "WF1302",
+    "LH873",
+    "LH114",
+    "EN2400"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 546.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Air France",
+   "operatedBy": "HOP!, KLM Cityhopper for KLM Royal Dutch Airlines",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-06",
+   "arrCode": "BSL",
+   "arrAirportName": "EuroAirport Basel-Mulhouse-Freiburg",
+   "arrTime": "13:55",
+   "arrDate": "2026-12-06",
+   "durationMin": 455,
+   "layovers": [
+    {
+     "min": 105,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    },
+    {
+     "min": 60,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1150",
+    "AF1341",
+    "AF1292"
+   ],
+   "via": "rpc"
   }
  ]
 }

@@ -1,10 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA1NUT0ABSAGYAQI",
- "fetchedAt": "2026-10-11T11:19:50",
+ "fetchedAt": "2026-10-19T23:01:04",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
-   "price": 116.0,
+   "price": 135.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -27,36 +28,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 116 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Stockholm Arlanda Airport at 4:40 PM on Saturday, December 5. Total duration 10 hr 20 min.  Layover (1 of 1) is a 6 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 135 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Stockholm Arlanda Airport at 4:40 PM on Saturday, December 5. Total duration 10 hr 20 min.  Layover (1 of 1) is a 6 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 133.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Stockholm Arlanda Airport",
-   "arrTime": "12:45",
-   "arrDate": "2026-12-05",
-   "durationMin": 385,
-   "layovers": [
-    {
-     "min": 125,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 133 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Stockholm Arlanda Airport at 12:45 PM on Saturday, December 5. Total duration 6 hr 25 min.  Layover (1 of 1) is a 2 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 168.0,
+   "price": 150.0,
    "roundTripTotal": false,
    "noOverheadBin": true,
    "stops": 1,
@@ -79,10 +54,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 168 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian, Norwegian. Leaves Trondheim Airport, Værnes at 7:15 AM on Saturday, December 5 and arrives at Stockholm Arlanda Airport at 1:10 PM on Saturday, December 5. Total duration 5 hr 55 min.  Layover (1 of 1) is a 3 hr 55 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 150 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian, Norwegian. Leaves Trondheim Airport, Værnes at 7:15 AM on Saturday, December 5 and arrives at Stockholm Arlanda Airport at 1:10 PM on Saturday, December 5. Total duration 5 hr 55 min.  Layover (1 of 1) is a 3 hr 55 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 182.0,
+   "price": 180.0,
    "roundTripTotal": false,
    "noOverheadBin": true,
    "stops": 1,
@@ -105,10 +80,36 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 182 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian, Norwegian. Leaves Trondheim Airport, Værnes at 10:20 AM on Saturday, December 5 and arrives at Stockholm Arlanda Airport at 1:10 PM on Saturday, December 5. Total duration 2 hr 50 min.  Layover (1 of 1) is a 55 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 180 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian, Norwegian. Leaves Trondheim Airport, Værnes at 10:20 AM on Saturday, December 5 and arrives at Stockholm Arlanda Airport at 1:10 PM on Saturday, December 5. Total duration 2 hr 50 min.  Layover (1 of 1) is a 55 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 205.0,
+   "price": 179.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:20",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Stockholm Arlanda Airport",
+   "arrTime": "12:45",
+   "arrDate": "2026-12-05",
+   "durationMin": 385,
+   "layovers": [
+    {
+     "min": 125,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 179 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Stockholm Arlanda Airport at 12:45 PM on Saturday, December 5. Total duration 6 hr 25 min.  Layover (1 of 1) is a 2 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 207.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -131,74 +132,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 205 euros. 1 stop flight with KLM and Scandinavian Airlines. Operated by KLM Cityhopper, Sas Connect for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Stockholm Arlanda Airport at 1:35 PM on Saturday, December 5. Total duration 7 hr 15 min.  Layover (1 of 1) is a 3 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 207 euros. 1 stop flight with KLM and Scandinavian Airlines. Operated by KLM Cityhopper, Sas Connect for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 6:20 AM on Saturday, December 5 and arrives at Stockholm Arlanda Airport at 1:35 PM on Saturday, December 5. Total duration 7 hr 15 min.  Layover (1 of 1) is a 3 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 263.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Wideroe and Lufthansa",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "13:05",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Stockholm Arlanda Airport",
-   "arrTime": "23:55",
-   "arrDate": "2026-12-05",
-   "durationMin": 650,
-   "layovers": [
-    {
-     "min": 150,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    },
-    {
-     "min": 180,
-     "overnight": false,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 263 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Stockholm Arlanda Airport at 11:55 PM on Saturday, December 5. Total duration 10 hr 50 min.  Layover (1 of 2) is a 2 hr 30 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 3 hr layover at Frankfurt Airport in Frankfurt am Main. Select flight"
-  },
-  {
-   "price": 282.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and KLM",
-   "operatedBy": "Sas Link for Scandinavian Airlines",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "13:30",
-   "depDate": "2026-12-05",
-   "arrAirportName": "Stockholm Arlanda Airport",
-   "arrTime": "23:00",
-   "arrDate": "2026-12-05",
-   "durationMin": 570,
-   "layovers": [
-    {
-     "min": 155,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    },
-    {
-     "min": 120,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 282 euros. 2 stops flight with Scandinavian Airlines and KLM. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 1:30 PM on Saturday, December 5 and arrives at Stockholm Arlanda Airport at 11:00 PM on Saturday, December 5. Total duration 9 hr 30 min.  Layover (1 of 2) is a 2 hr 35 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 358.0,
+   "price": 229.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -227,31 +164,95 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 358 euros. 2 stops flight with Wideroe and Air France. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Stockholm Arlanda Airport at 11:35 PM on Saturday, December 5. Total duration 10 hr 30 min.  Layover (1 of 2) is a 3 hr 5 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "label": "From 229 euros. 2 stops flight with Wideroe and Air France. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Stockholm Arlanda Airport at 11:35 PM on Saturday, December 5. Total duration 10 hr 30 min.  Layover (1 of 2) is a 3 hr 5 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
   },
   {
-   "price": 533.0,
+   "price": 269.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
-   "airlines": "Scandinavian Airlines",
-   "operatedBy": "Sas Link for Scandinavian Airlines, Sas Connect for Scandinavian Airlines",
+   "airlines": "Wideroe and Lufthansa",
+   "operatedBy": null,
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "07:00",
+   "depTime": "13:05",
    "depDate": "2026-12-05",
    "arrAirportName": "Stockholm Arlanda Airport",
-   "arrTime": "15:10",
+   "arrTime": "23:55",
    "arrDate": "2026-12-05",
-   "durationMin": 490,
+   "durationMin": 650,
    "layovers": [
     {
-     "min": 35,
+     "min": 150,
      "overnight": false,
      "airport": "Oslo lufthavn",
      "city": "Oslo"
     },
     {
-     "min": 80,
+     "min": 180,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 269 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 1:05 PM on Saturday, December 5 and arrives at Stockholm Arlanda Airport at 11:55 PM on Saturday, December 5. Total duration 10 hr 50 min.  Layover (1 of 2) is a 2 hr 30 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 3 hr layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 285.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and KLM",
+   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "13:30",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Stockholm Arlanda Airport",
+   "arrTime": "23:00",
+   "arrDate": "2026-12-05",
+   "durationMin": 570,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    },
+    {
+     "min": 120,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 285 euros. 2 stops flight with Scandinavian Airlines and KLM. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 1:30 PM on Saturday, December 5 and arrives at Stockholm Arlanda Airport at 11:00 PM on Saturday, December 5. Total duration 9 hr 30 min.  Layover (1 of 2) is a 2 hr 35 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 2 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 472.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": "Sas Link for Scandinavian Airlines",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "13:30",
+   "depDate": "2026-12-05",
+   "arrAirportName": "Stockholm Arlanda Airport",
+   "arrTime": "23:35",
+   "arrDate": "2026-12-05",
+   "durationMin": 605,
+   "layovers": [
+    {
+     "min": 160,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    },
+    {
+     "min": 60,
      "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris"
@@ -259,7 +260,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 533 euros. 2 stops flight with Scandinavian Airlines. Operated by Sas Link for Scandinavian Airlines, Sas Connect for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 7:00 AM on Saturday, December 5 and arrives at Stockholm Arlanda Airport at 3:10 PM on Saturday, December 5. Total duration 8 hr 10 min.  Layover (1 of 2) is a 35 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 20 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "label": "From 472 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 1:30 PM on Saturday, December 5 and arrives at Stockholm Arlanda Airport at 11:35 PM on Saturday, December 5. Total duration 10 hr 5 min.  Layover (1 of 2) is a 2 hr 40 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
   }
  ]
 }

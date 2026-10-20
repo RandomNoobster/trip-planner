@@ -1,17 +1,21 @@
 {
- "url": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEyLTA3agcIARIDVFJEcgcIARIDVEJTGh4SCjIwMjYtMTItMTRqBwgBEgNUQlNyBwgBEgNUUkRAAUgBcAGCAQsI____________AZgBAQ&hl=en&gl=NO&curr=EUR",
- "via": "ui",
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA1RCUxoaEgoyMDI2LTEyLTE0agUSA1RCU3IFEgNUUkRAAUgBmAEB",
+ "fetchedAt": "2026-10-19T22:57:08",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 424.0,
+   "price": 442.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM and Georgian Airways",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-07",
+   "arrCode": "TBS",
    "arrAirportName": "Tbilisi International Airport",
    "arrTime": "17:50",
    "arrDate": "2026-12-07",
@@ -19,13 +23,149 @@
    "layovers": [
     {
      "min": 100,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1150",
+    "A9652"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 738.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Georgian Airways",
+   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-07",
+   "arrCode": "TBS",
+   "arrAirportName": "Tbilisi International Airport",
+   "arrTime": "22:00",
+   "arrDate": "2026-12-08",
+   "durationMin": 1550,
+   "layovers": [
+    {
+     "min": 765,
+     "overnight": true,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    },
+    {
+     "min": 305,
+     "overnight": true,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1154",
+    "KL1405",
+    "A9628"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 738.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Georgian Airways",
+   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-07",
+   "arrCode": "TBS",
+   "arrAirportName": "Tbilisi International Airport",
+   "arrTime": "22:00",
+   "arrDate": "2026-12-08",
+   "durationMin": 1550,
+   "layovers": [
+    {
+     "min": 710,
+     "overnight": true,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    },
+    {
+     "min": 350,
+     "overnight": true,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1154",
+    "KL1403",
+    "A9628"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 738.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "KLM and Georgian Airways",
+   "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-07",
+   "arrCode": "TBS",
+   "arrAirportName": "Tbilisi International Airport",
+   "arrTime": "22:00",
+   "arrDate": "2026-12-08",
+   "durationMin": 1550,
+   "layovers": [
+    {
+     "min": 680,
+     "overnight": true,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam",
+     "code": "AMS",
+     "changeAirport": false
+    },
+    {
+     "min": 390,
+     "overnight": true,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris",
+     "code": "CDG",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "KL1154",
+    "KL1401",
+    "A9628"
+   ],
+   "via": "rpc"
   }
  ]
 }

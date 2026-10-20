@@ -1,17 +1,21 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDhqBRIDVFJEcgUSA0FMQxoaEgoyMDI2LTEyLTE3agUSA0FMQ3IFEgNUUkRAAUgBmAEB",
- "via": "ui",
+ "fetchedAt": "2026-10-19T22:50:30",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 382.0,
+   "price": 390.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM and Transavia",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-08",
+   "arrCode": "ALC",
    "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
    "arrTime": "12:40",
    "arrDate": "2026-12-08",
@@ -19,24 +23,33 @@
    "layovers": [
     {
      "min": 80,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1150",
+    "HV6141"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 410.0,
+   "price": 494.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "KLM and Air Europa",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-08",
+   "arrCode": "ALC",
    "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
    "arrTime": "16:20",
    "arrDate": "2026-12-08",
@@ -44,19 +57,29 @@
    "layovers": [
     {
      "min": 60,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     },
     {
      "min": 180,
+     "overnight": false,
      "airport": "Adolfo Suárez Madrid-Barajas Airport",
      "city": "Madrid",
-     "overnight": false
+     "code": "MAD",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1150",
+    "KL1503",
+    "UX4049"
+   ],
+   "via": "rpc"
   }
  ]
 }

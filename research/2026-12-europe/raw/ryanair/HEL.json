@@ -27,8 +27,8 @@
    "departureDate": "2026-12-04T23:40:00",
    "arrivalDate": "2026-12-05T00:50:00",
    "price": {
-    "value": 18.99,
-    "valueMainUnit": "18",
+    "value": 16.99,
+    "valueMainUnit": "16",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -36,12 +36,12 @@
    "flightKey": "FR~2345~ ~~HEL~12/04/2026 23:40~STN~12/05/2026 00:50~~",
    "flightNumber": "FR2345",
    "previousPrice": null,
-   "priceUpdated": 1791800522000
+   "priceUpdated": 1792434284000
   },
   "summary": {
    "price": {
-    "value": 18.99,
-    "valueMainUnit": "18",
+    "value": 16.99,
+    "valueMainUnit": "16",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -78,8 +78,8 @@
    "departureDate": "2026-12-11T23:40:00",
    "arrivalDate": "2026-12-12T00:50:00",
    "price": {
-    "value": 23.99,
-    "valueMainUnit": "23",
+    "value": 21.99,
+    "valueMainUnit": "21",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -87,12 +87,12 @@
    "flightKey": "FR~2345~ ~~HEL~12/11/2026 23:40~STN~12/12/2026 00:50~~",
    "flightNumber": "FR2345",
    "previousPrice": null,
-   "priceUpdated": 1791800549000
+   "priceUpdated": 1792434038000
   },
   "summary": {
    "price": {
-    "value": 23.99,
-    "valueMainUnit": "23",
+    "value": 21.99,
+    "valueMainUnit": "21",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -129,72 +129,22 @@
    "departureDate": "2026-12-05T21:10:00",
    "arrivalDate": "2026-12-05T22:20:00",
    "price": {
-    "value": 25.23,
+    "value": 25.47,
     "valueMainUnit": "25",
-    "valueFractionalUnit": "23",
+    "valueFractionalUnit": "47",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~9144~ ~~HEL~12/05/2026 21:10~STN~12/05/2026 22:20~~",
    "flightNumber": "FR9144",
    "previousPrice": null,
-   "priceUpdated": 1791800518000
+   "priceUpdated": 1792436325000
   },
   "summary": {
    "price": {
-    "value": 25.23,
+    "value": 25.47,
     "valueMainUnit": "25",
-    "valueFractionalUnit": "23",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-05T10:35:00",
-   "arrivalDate": "2026-12-05T12:45:00",
-   "price": {
-    "value": 27.99,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3393~ ~~HEL~12/05/2026 10:35~BGY~12/05/2026 12:45~~",
-   "flightNumber": "FR3393",
-   "previousPrice": null,
-   "priceUpdated": 1791802206000
-  },
-  "summary": {
-   "price": {
-    "value": 27.99,
-    "valueMainUnit": "27",
-    "valueFractionalUnit": "99",
+    "valueFractionalUnit": "47",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -238,7 +188,7 @@
    "flightKey": "FR~2617~ ~~HEL~12/06/2026 18:45~ALC~12/06/2026 22:25~~",
    "flightNumber": "FR2617",
    "previousPrice": null,
-   "priceUpdated": 1791800543000
+   "priceUpdated": 1792434006000
   },
   "summary": {
    "price": {
@@ -266,56 +216,6 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Austria",
-    "iataCode": "VIE",
-    "name": "Vienna",
-    "seoName": "vienna",
-    "city": {
-     "code": "VIENNA",
-     "countryCode": "at",
-     "name": "Vienna"
-    }
-   },
-   "departureDate": "2026-12-07T20:40:00",
-   "arrivalDate": "2026-12-07T22:15:00",
-   "price": {
-    "value": 40.19,
-    "valueMainUnit": "40",
-    "valueFractionalUnit": "19",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~9856~ ~~HEL~12/07/2026 20:40~VIE~12/07/2026 22:15~~",
-   "flightNumber": "FR9856",
-   "previousPrice": null,
-   "priceUpdated": 1791800549000
-  },
-  "summary": {
-   "price": {
-    "value": 40.19,
-    "valueMainUnit": "40",
-    "valueFractionalUnit": "19",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
     "countryName": "United Kingdom",
     "iataCode": "STN",
     "name": "London Stansted",
@@ -327,628 +227,25 @@
      "name": "London"
     }
    },
-   "departureDate": "2026-12-10T22:05:00",
-   "arrivalDate": "2026-12-10T23:15:00",
+   "departureDate": "2026-12-09T21:45:00",
+   "arrivalDate": "2026-12-09T22:55:00",
    "price": {
-    "value": 41.57,
-    "valueMainUnit": "41",
-    "valueFractionalUnit": "57",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~9144~ ~~HEL~12/10/2026 22:05~STN~12/10/2026 23:15~~",
-   "flightNumber": "FR9144",
-   "previousPrice": null,
-   "priceUpdated": 1791800552000
-  },
-  "summary": {
-   "price": {
-    "value": 41.57,
-    "valueMainUnit": "41",
-    "valueFractionalUnit": "57",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
-    "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
-    }
-   },
-   "departureDate": "2026-12-05T10:35:00",
-   "arrivalDate": "2026-12-05T12:30:00",
-   "price": {
-    "value": 43.57,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "57",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~9327~ ~~HEL~12/05/2026 10:35~CRL~12/05/2026 12:30~~",
-   "flightNumber": "FR9327",
-   "previousPrice": null,
-   "priceUpdated": 1791800546000
-  },
-  "summary": {
-   "price": {
-    "value": 43.57,
-    "valueMainUnit": "43",
-    "valueFractionalUnit": "57",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-10T19:55:00",
-   "arrivalDate": "2026-12-10T23:35:00",
-   "price": {
-    "value": 48.09,
-    "valueMainUnit": "48",
-    "valueFractionalUnit": "09",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2617~ ~~HEL~12/10/2026 19:55~ALC~12/10/2026 23:35~~",
-   "flightNumber": "FR2617",
-   "previousPrice": null,
-   "priceUpdated": 1791800547000
-  },
-  "summary": {
-   "price": {
-    "value": 48.09,
-    "valueMainUnit": "48",
-    "valueFractionalUnit": "09",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-07T19:25:00",
-   "arrivalDate": "2026-12-07T23:05:00",
-   "price": {
-    "value": 49.11,
-    "valueMainUnit": "49",
-    "valueFractionalUnit": "11",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2617~ ~~HEL~12/07/2026 19:25~ALC~12/07/2026 23:05~~",
-   "flightNumber": "FR2617",
-   "previousPrice": null,
-   "priceUpdated": 1791800547000
-  },
-  "summary": {
-   "price": {
-    "value": 49.11,
-    "valueMainUnit": "49",
-    "valueFractionalUnit": "11",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
-    "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
-    }
-   },
-   "departureDate": "2026-12-07T12:05:00",
-   "arrivalDate": "2026-12-07T14:00:00",
-   "price": {
-    "value": 54.99,
-    "valueMainUnit": "54",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~9327~ ~~HEL~12/07/2026 12:05~CRL~12/07/2026 14:00~~",
-   "flightNumber": "FR9327",
-   "previousPrice": null,
-   "priceUpdated": 1791802315000
-  },
-  "summary": {
-   "price": {
-    "value": 54.99,
-    "valueMainUnit": "54",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-10T22:30:00",
-   "arrivalDate": "2026-12-11T00:40:00",
-   "price": {
-    "value": 55.15,
-    "valueMainUnit": "55",
-    "valueFractionalUnit": "15",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3393~ ~~HEL~12/10/2026 22:30~BGY~12/11/2026 00:40~~",
-   "flightNumber": "FR3393",
-   "previousPrice": null,
-   "priceUpdated": 1791800547000
-  },
-  "summary": {
-   "price": {
-    "value": 55.15,
-    "valueMainUnit": "55",
-    "valueFractionalUnit": "15",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-11T12:00:00",
-   "arrivalDate": "2026-12-11T15:40:00",
-   "price": {
-    "value": 55.79,
-    "valueMainUnit": "55",
-    "valueFractionalUnit": "79",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2617~ ~~HEL~12/11/2026 12:00~ALC~12/11/2026 15:40~~",
-   "flightNumber": "FR2617",
-   "previousPrice": null,
-   "priceUpdated": 1791800546000
-  },
-  "summary": {
-   "price": {
-    "value": 55.79,
-    "valueMainUnit": "55",
-    "valueFractionalUnit": "79",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-06T21:10:00",
-   "arrivalDate": "2026-12-06T22:20:00",
-   "price": {
-    "value": 58.37,
-    "valueMainUnit": "58",
+    "value": 35.37,
+    "valueMainUnit": "35",
     "valueFractionalUnit": "37",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~9144~ ~~HEL~12/06/2026 21:10~STN~12/06/2026 22:20~~",
+   "flightKey": "FR~9144~ ~~HEL~12/09/2026 21:45~STN~12/09/2026 22:55~~",
    "flightNumber": "FR9144",
    "previousPrice": null,
-   "priceUpdated": 1791800517000
+   "priceUpdated": 1792424217000
   },
   "summary": {
    "price": {
-    "value": 58.37,
-    "valueMainUnit": "58",
+    "value": 35.37,
+    "valueMainUnit": "35",
     "valueFractionalUnit": "37",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-04T12:00:00",
-   "arrivalDate": "2026-12-04T15:40:00",
-   "price": {
-    "value": 61.99,
-    "valueMainUnit": "61",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2617~ ~~HEL~12/04/2026 12:00~ALC~12/04/2026 15:40~~",
-   "flightNumber": "FR2617",
-   "previousPrice": null,
-   "priceUpdated": 1791800544000
-  },
-  "summary": {
-   "price": {
-    "value": 61.99,
-    "valueMainUnit": "61",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-07T12:30:00",
-   "arrivalDate": "2026-12-07T14:40:00",
-   "price": {
-    "value": 62.36,
-    "valueMainUnit": "62",
-    "valueFractionalUnit": "36",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3393~ ~~HEL~12/07/2026 12:30~BGY~12/07/2026 14:40~~",
-   "flightNumber": "FR3393",
-   "previousPrice": null,
-   "priceUpdated": 1791802313000
-  },
-  "summary": {
-   "price": {
-    "value": 62.36,
-    "valueMainUnit": "62",
-    "valueFractionalUnit": "36",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-07T20:25:00",
-   "arrivalDate": "2026-12-07T21:35:00",
-   "price": {
-    "value": 63.81,
-    "valueMainUnit": "63",
-    "valueFractionalUnit": "81",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2345~ ~~HEL~12/07/2026 20:25~STN~12/07/2026 21:35~~",
-   "flightNumber": "FR2345",
-   "previousPrice": null,
-   "priceUpdated": 1791800551000
-  },
-  "summary": {
-   "price": {
-    "value": 63.81,
-    "valueMainUnit": "63",
-    "valueFractionalUnit": "81",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Austria",
-    "iataCode": "VIE",
-    "name": "Vienna",
-    "seoName": "vienna",
-    "city": {
-     "code": "VIENNA",
-     "countryCode": "at",
-     "name": "Vienna"
-    }
-   },
-   "departureDate": "2026-12-06T19:30:00",
-   "arrivalDate": "2026-12-06T21:05:00",
-   "price": {
-    "value": 66.99,
-    "valueMainUnit": "66",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~9856~ ~~HEL~12/06/2026 19:30~VIE~12/06/2026 21:05~~",
-   "flightNumber": "FR9856",
-   "previousPrice": null,
-   "priceUpdated": 1791800520000
-  },
-  "summary": {
-   "price": {
-    "value": 66.99,
-    "valueMainUnit": "66",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-09T13:20:00",
-   "arrivalDate": "2026-12-09T14:30:00",
-   "price": {
-    "value": 67.02,
-    "valueMainUnit": "67",
-    "valueFractionalUnit": "02",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2345~ ~~HEL~12/09/2026 13:20~STN~12/09/2026 14:30~~",
-   "flightNumber": "FR2345",
-   "previousPrice": null,
-   "priceUpdated": 1791800553000
-  },
-  "summary": {
-   "price": {
-    "value": 67.02,
-    "valueMainUnit": "67",
-    "valueFractionalUnit": "02",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -984,8 +281,8 @@
    "departureDate": "2026-12-08T21:30:00",
    "arrivalDate": "2026-12-08T22:40:00",
    "price": {
-    "value": 71.99,
-    "valueMainUnit": "71",
+    "value": 38.99,
+    "valueMainUnit": "38",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -993,13 +290,565 @@
    "flightKey": "FR~2345~ ~~HEL~12/08/2026 21:30~STN~12/08/2026 22:40~~",
    "flightNumber": "FR2345",
    "previousPrice": null,
-   "priceUpdated": 1791803387000
+   "priceUpdated": 1792436819000
   },
   "summary": {
    "price": {
-    "value": 71.99,
-    "valueMainUnit": "71",
+    "value": 38.99,
+    "valueMainUnit": "38",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-05T10:35:00",
+   "arrivalDate": "2026-12-05T12:45:00",
+   "price": {
+    "value": 40.42,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "42",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3393~ ~~HEL~12/05/2026 10:35~BGY~12/05/2026 12:45~~",
+   "flightNumber": "FR3393",
+   "previousPrice": null,
+   "priceUpdated": 1792433600000
+  },
+  "summary": {
+   "price": {
+    "value": 40.42,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "42",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-10T22:30:00",
+   "arrivalDate": "2026-12-11T00:40:00",
+   "price": {
+    "value": 48.27,
+    "valueMainUnit": "48",
+    "valueFractionalUnit": "27",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3393~ ~~HEL~12/10/2026 22:30~BGY~12/11/2026 00:40~~",
+   "flightNumber": "FR3393",
+   "previousPrice": null,
+   "priceUpdated": 1792425152000
+  },
+  "summary": {
+   "price": {
+    "value": 48.27,
+    "valueMainUnit": "48",
+    "valueFractionalUnit": "27",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
+    "city": {
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
+    }
+   },
+   "departureDate": "2026-12-05T10:35:00",
+   "arrivalDate": "2026-12-05T12:30:00",
+   "price": {
+    "value": 49.68,
+    "valueMainUnit": "49",
+    "valueFractionalUnit": "68",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9327~ ~~HEL~12/05/2026 10:35~CRL~12/05/2026 12:30~~",
+   "flightNumber": "FR9327",
+   "previousPrice": null,
+   "priceUpdated": 1792433790000
+  },
+  "summary": {
+   "price": {
+    "value": 49.68,
+    "valueMainUnit": "49",
+    "valueFractionalUnit": "68",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-07T12:30:00",
+   "arrivalDate": "2026-12-07T14:40:00",
+   "price": {
+    "value": 55.15,
+    "valueMainUnit": "55",
+    "valueFractionalUnit": "15",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3393~ ~~HEL~12/07/2026 12:30~BGY~12/07/2026 14:40~~",
+   "flightNumber": "FR3393",
+   "previousPrice": null,
+   "priceUpdated": 1792405449000
+  },
+  "summary": {
+   "price": {
+    "value": 55.15,
+    "valueMainUnit": "55",
+    "valueFractionalUnit": "15",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-06T21:10:00",
+   "arrivalDate": "2026-12-06T22:20:00",
+   "price": {
+    "value": 56.97,
+    "valueMainUnit": "56",
+    "valueFractionalUnit": "97",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9144~ ~~HEL~12/06/2026 21:10~STN~12/06/2026 22:20~~",
+   "flightNumber": "FR9144",
+   "previousPrice": null,
+   "priceUpdated": 1792405457000
+  },
+  "summary": {
+   "price": {
+    "value": 56.97,
+    "valueMainUnit": "56",
+    "valueFractionalUnit": "97",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-07T20:25:00",
+   "arrivalDate": "2026-12-07T21:35:00",
+   "price": {
+    "value": 57.92,
+    "valueMainUnit": "57",
+    "valueFractionalUnit": "92",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2345~ ~~HEL~12/07/2026 20:25~STN~12/07/2026 21:35~~",
+   "flightNumber": "FR2345",
+   "previousPrice": null,
+   "priceUpdated": 1792405452000
+  },
+  "summary": {
+   "price": {
+    "value": 57.92,
+    "valueMainUnit": "57",
+    "valueFractionalUnit": "92",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-04T12:00:00",
+   "arrivalDate": "2026-12-04T15:40:00",
+   "price": {
+    "value": 57.99,
+    "valueMainUnit": "57",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2617~ ~~HEL~12/04/2026 12:00~ALC~12/04/2026 15:40~~",
+   "flightNumber": "FR2617",
+   "previousPrice": null,
+   "priceUpdated": 1792438669000
+  },
+  "summary": {
+   "price": {
+    "value": 57.99,
+    "valueMainUnit": "57",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-10T19:55:00",
+   "arrivalDate": "2026-12-10T23:35:00",
+   "price": {
+    "value": 60.29,
+    "valueMainUnit": "60",
+    "valueFractionalUnit": "29",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2617~ ~~HEL~12/10/2026 19:55~ALC~12/10/2026 23:35~~",
+   "flightNumber": "FR2617",
+   "previousPrice": null,
+   "priceUpdated": 1792405450000
+  },
+  "summary": {
+   "price": {
+    "value": 60.29,
+    "valueMainUnit": "60",
+    "valueFractionalUnit": "29",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
+    "city": {
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
+    }
+   },
+   "departureDate": "2026-12-07T12:05:00",
+   "arrivalDate": "2026-12-07T14:00:00",
+   "price": {
+    "value": 61.99,
+    "valueMainUnit": "61",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9327~ ~~HEL~12/07/2026 12:05~CRL~12/07/2026 14:00~~",
+   "flightNumber": "FR9327",
+   "previousPrice": null,
+   "priceUpdated": 1792437318000
+  },
+  "summary": {
+   "price": {
+    "value": 61.99,
+    "valueMainUnit": "61",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-11T12:00:00",
+   "arrivalDate": "2026-12-11T15:40:00",
+   "price": {
+    "value": 63.13,
+    "valueMainUnit": "63",
+    "valueFractionalUnit": "13",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2617~ ~~HEL~12/11/2026 12:00~ALC~12/11/2026 15:40~~",
+   "flightNumber": "FR2617",
+   "previousPrice": null,
+   "priceUpdated": 1792405448000
+  },
+  "summary": {
+   "price": {
+    "value": 63.13,
+    "valueMainUnit": "63",
+    "valueFractionalUnit": "13",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-07T19:25:00",
+   "arrivalDate": "2026-12-07T23:05:00",
+   "price": {
+    "value": 65.96,
+    "valueMainUnit": "65",
+    "valueFractionalUnit": "96",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2617~ ~~HEL~12/07/2026 19:25~ALC~12/07/2026 23:05~~",
+   "flightNumber": "FR2617",
+   "previousPrice": null,
+   "priceUpdated": 1792439781000
+  },
+  "summary": {
+   "price": {
+    "value": 65.96,
+    "valueMainUnit": "65",
+    "valueFractionalUnit": "96",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1035,22 +884,123 @@
    "departureDate": "2026-12-11T14:25:00",
    "arrivalDate": "2026-12-11T15:15:00",
    "price": {
-    "value": 76.24,
-    "valueMainUnit": "76",
-    "valueFractionalUnit": "24",
+    "value": 71.49,
+    "valueMainUnit": "71",
+    "valueFractionalUnit": "49",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~8908~ ~~HEL~12/11/2026 14:25~WMI~12/11/2026 15:15~~",
    "flightNumber": "FR8908",
    "previousPrice": null,
-   "priceUpdated": 1791800552000
+   "priceUpdated": 1792405452000
   },
   "summary": {
    "price": {
-    "value": 76.24,
-    "valueMainUnit": "76",
-    "valueFractionalUnit": "24",
+    "value": 71.49,
+    "valueMainUnit": "71",
+    "valueFractionalUnit": "49",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Austria",
+    "iataCode": "VIE",
+    "name": "Vienna",
+    "seoName": "vienna",
+    "city": {
+     "code": "VIENNA",
+     "countryCode": "at",
+     "name": "Vienna"
+    }
+   },
+   "departureDate": "2026-12-06T19:30:00",
+   "arrivalDate": "2026-12-06T21:05:00",
+   "price": {
+    "value": 74.99,
+    "valueMainUnit": "74",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9856~ ~~HEL~12/06/2026 19:30~VIE~12/06/2026 21:05~~",
+   "flightNumber": "FR9856",
+   "previousPrice": null,
+   "priceUpdated": 1792434705000
+  },
+  "summary": {
+   "price": {
+    "value": 74.99,
+    "valueMainUnit": "74",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-10T22:05:00",
+   "arrivalDate": "2026-12-10T23:15:00",
+   "price": {
+    "value": 75.31,
+    "valueMainUnit": "75",
+    "valueFractionalUnit": "31",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9144~ ~~HEL~12/10/2026 22:05~STN~12/10/2026 23:15~~",
+   "flightNumber": "FR9144",
+   "previousPrice": null,
+   "priceUpdated": 1792412065000
+  },
+  "summary": {
+   "price": {
+    "value": 75.31,
+    "valueMainUnit": "75",
+    "valueFractionalUnit": "31",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1086,8 +1036,8 @@
    "departureDate": "2026-12-06T11:00:00",
    "arrivalDate": "2026-12-06T11:50:00",
    "price": {
-    "value": 79.99,
-    "valueMainUnit": "79",
+    "value": 76.99,
+    "valueMainUnit": "76",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1095,13 +1045,63 @@
    "flightKey": "FR~8908~ ~~HEL~12/06/2026 11:00~WMI~12/06/2026 11:50~~",
    "flightNumber": "FR8908",
    "previousPrice": null,
-   "priceUpdated": 1791801418000
+   "priceUpdated": 1792419255000
   },
   "summary": {
    "price": {
-    "value": 79.99,
-    "valueMainUnit": "79",
+    "value": 76.99,
+    "valueMainUnit": "76",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Austria",
+    "iataCode": "VIE",
+    "name": "Vienna",
+    "seoName": "vienna",
+    "city": {
+     "code": "VIENNA",
+     "countryCode": "at",
+     "name": "Vienna"
+    }
+   },
+   "departureDate": "2026-12-07T20:40:00",
+   "arrivalDate": "2026-12-07T22:15:00",
+   "price": {
+    "value": 83.49,
+    "valueMainUnit": "83",
+    "valueFractionalUnit": "49",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9856~ ~~HEL~12/07/2026 20:40~VIE~12/07/2026 22:15~~",
+   "flightNumber": "FR9856",
+   "previousPrice": null,
+   "priceUpdated": 1792436821000
+  },
+  "summary": {
+   "price": {
+    "value": 83.49,
+    "valueMainUnit": "83",
+    "valueFractionalUnit": "49",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1137,22 +1137,22 @@
    "departureDate": "2026-12-04T14:25:00",
    "arrivalDate": "2026-12-04T15:15:00",
    "price": {
-    "value": 84.12,
-    "valueMainUnit": "84",
-    "valueFractionalUnit": "12",
+    "value": 118.24,
+    "valueMainUnit": "118",
+    "valueFractionalUnit": "24",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~8908~ ~~HEL~12/04/2026 14:25~WMI~12/04/2026 15:15~~",
    "flightNumber": "FR8908",
    "previousPrice": null,
-   "priceUpdated": 1791801420000
+   "priceUpdated": 1792405455000
   },
   "summary": {
    "price": {
-    "value": 84.12,
-    "valueMainUnit": "84",
-    "valueFractionalUnit": "12",
+    "value": 118.24,
+    "valueMainUnit": "118",
+    "valueFractionalUnit": "24",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1187,22 +1187,22 @@
    "departureDate": "2026-12-11T15:20:00",
    "arrivalDate": "2026-12-11T16:55:00",
    "price": {
-    "value": 122.99,
-    "valueMainUnit": "122",
-    "valueFractionalUnit": "99",
+    "value": 125.39,
+    "valueMainUnit": "125",
+    "valueFractionalUnit": "39",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~9856~ ~~HEL~12/11/2026 15:20~VIE~12/11/2026 16:55~~",
    "flightNumber": "FR9856",
    "previousPrice": null,
-   "priceUpdated": 1791800551000
+   "priceUpdated": 1792405449000
   },
   "summary": {
    "price": {
-    "value": 122.99,
-    "valueMainUnit": "122",
-    "valueFractionalUnit": "99",
+    "value": 125.39,
+    "valueMainUnit": "125",
+    "valueFractionalUnit": "39",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1246,7 +1246,7 @@
    "flightKey": "FR~9856~ ~~HEL~12/04/2026 15:20~VIE~12/04/2026 16:55~~",
    "flightNumber": "FR9856",
    "previousPrice": null,
-   "priceUpdated": 1791800520000
+   "priceUpdated": 1792405455000
   },
   "summary": {
    "price": {
@@ -1285,24 +1285,24 @@
      "name": "London"
     }
    },
-   "departureDate": "2026-12-17T22:05:00",
-   "arrivalDate": "2026-12-17T23:15:00",
+   "departureDate": "2026-12-12T21:10:00",
+   "arrivalDate": "2026-12-12T22:20:00",
    "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
+    "value": 28.99,
+    "valueMainUnit": "28",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~9144~ ~~HEL~12/17/2026 22:05~STN~12/17/2026 23:15~~",
+   "flightKey": "FR~9144~ ~~HEL~12/12/2026 21:10~STN~12/12/2026 22:20~~",
    "flightNumber": "FR9144",
    "previousPrice": null,
-   "priceUpdated": 1791800523000
+   "priceUpdated": 1792435059000
   },
   "summary": {
    "price": {
-    "value": 21.99,
-    "valueMainUnit": "21",
+    "value": 28.99,
+    "valueMainUnit": "28",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1336,24 +1336,75 @@
      "name": "London"
     }
    },
-   "departureDate": "2026-12-12T21:10:00",
-   "arrivalDate": "2026-12-12T22:20:00",
+   "departureDate": "2026-12-15T21:30:00",
+   "arrivalDate": "2026-12-15T22:40:00",
    "price": {
-    "value": 27.99,
-    "valueMainUnit": "27",
+    "value": 34.76,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "76",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2345~ ~~HEL~12/15/2026 21:30~STN~12/15/2026 22:40~~",
+   "flightNumber": "FR2345",
+   "previousPrice": null,
+   "priceUpdated": 1792427583000
+  },
+  "summary": {
+   "price": {
+    "value": 34.76,
+    "valueMainUnit": "34",
+    "valueFractionalUnit": "76",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
+    "city": {
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
+    }
+   },
+   "departureDate": "2026-12-17T22:05:00",
+   "arrivalDate": "2026-12-17T23:15:00",
+   "price": {
+    "value": 37.99,
+    "valueMainUnit": "37",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~9144~ ~~HEL~12/12/2026 21:10~STN~12/12/2026 22:20~~",
+   "flightKey": "FR~9144~ ~~HEL~12/17/2026 22:05~STN~12/17/2026 23:15~~",
    "flightNumber": "FR9144",
    "previousPrice": null,
-   "priceUpdated": 1791800551000
+   "priceUpdated": 1792419461000
   },
   "summary": {
    "price": {
-    "value": 27.99,
-    "valueMainUnit": "27",
+    "value": 37.99,
+    "valueMainUnit": "37",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1390,223 +1441,22 @@
    "departureDate": "2026-12-16T21:45:00",
    "arrivalDate": "2026-12-16T22:55:00",
    "price": {
-    "value": 32.38,
-    "valueMainUnit": "32",
-    "valueFractionalUnit": "38",
+    "value": 40.65,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "65",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~9144~ ~~HEL~12/16/2026 21:45~STN~12/16/2026 22:55~~",
    "flightNumber": "FR9144",
    "previousPrice": null,
-   "priceUpdated": 1791800523000
+   "priceUpdated": 1792413074000
   },
   "summary": {
    "price": {
-    "value": 32.38,
-    "valueMainUnit": "32",
-    "valueFractionalUnit": "38",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-12T10:35:00",
-   "arrivalDate": "2026-12-12T12:45:00",
-   "price": {
-    "value": 46.05,
-    "valueMainUnit": "46",
-    "valueFractionalUnit": "05",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3393~ ~~HEL~12/12/2026 10:35~BGY~12/12/2026 12:45~~",
-   "flightNumber": "FR3393",
-   "previousPrice": null,
-   "priceUpdated": 1791802314000
-  },
-  "summary": {
-   "price": {
-    "value": 46.05,
-    "valueMainUnit": "46",
-    "valueFractionalUnit": "05",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-15T21:30:00",
-   "arrivalDate": "2026-12-15T22:40:00",
-   "price": {
-    "value": 52.32,
-    "valueMainUnit": "52",
-    "valueFractionalUnit": "32",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2345~ ~~HEL~12/15/2026 21:30~STN~12/15/2026 22:40~~",
-   "flightNumber": "FR2345",
-   "previousPrice": null,
-   "priceUpdated": 1791800523000
-  },
-  "summary": {
-   "price": {
-    "value": 52.32,
-    "valueMainUnit": "52",
-    "valueFractionalUnit": "32",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-14T12:30:00",
-   "arrivalDate": "2026-12-14T14:40:00",
-   "price": {
-    "value": 53.86,
-    "valueMainUnit": "53",
-    "valueFractionalUnit": "86",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3393~ ~~HEL~12/14/2026 12:30~BGY~12/14/2026 14:40~~",
-   "flightNumber": "FR3393",
-   "previousPrice": null,
-   "priceUpdated": 1791802314000
-  },
-  "summary": {
-   "price": {
-    "value": 53.86,
-    "valueMainUnit": "53",
-    "valueFractionalUnit": "86",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-13T18:45:00",
-   "arrivalDate": "2026-12-13T22:25:00",
-   "price": {
-    "value": 55.99,
-    "valueMainUnit": "55",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2617~ ~~HEL~12/13/2026 18:45~ALC~12/13/2026 22:25~~",
-   "flightNumber": "FR2617",
-   "previousPrice": null,
-   "priceUpdated": 1791800544000
-  },
-  "summary": {
-   "price": {
-    "value": 55.99,
-    "valueMainUnit": "55",
-    "valueFractionalUnit": "99",
+    "value": 40.65,
+    "valueMainUnit": "40",
+    "valueFractionalUnit": "65",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1642,8 +1492,8 @@
    "departureDate": "2026-12-18T23:40:00",
    "arrivalDate": "2026-12-19T00:50:00",
    "price": {
-    "value": 57.99,
-    "valueMainUnit": "57",
+    "value": 40.99,
+    "valueMainUnit": "40",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1651,13 +1501,213 @@
    "flightKey": "FR~2345~ ~~HEL~12/18/2026 23:40~STN~12/19/2026 00:50~~",
    "flightNumber": "FR2345",
    "previousPrice": null,
-   "priceUpdated": 1791802318000
+   "priceUpdated": 1792419493000
   },
   "summary": {
    "price": {
-    "value": 57.99,
-    "valueMainUnit": "57",
+    "value": 40.99,
+    "valueMainUnit": "40",
     "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
+    "city": {
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
+    }
+   },
+   "departureDate": "2026-12-14T12:05:00",
+   "arrivalDate": "2026-12-14T14:00:00",
+   "price": {
+    "value": 45.99,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9327~ ~~HEL~12/14/2026 12:05~CRL~12/14/2026 14:00~~",
+   "flightNumber": "FR9327",
+   "previousPrice": null,
+   "priceUpdated": 1792419872000
+  },
+  "summary": {
+   "price": {
+    "value": 45.99,
+    "valueMainUnit": "45",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-12T10:35:00",
+   "arrivalDate": "2026-12-12T12:45:00",
+   "price": {
+    "value": 48.11,
+    "valueMainUnit": "48",
+    "valueFractionalUnit": "11",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3393~ ~~HEL~12/12/2026 10:35~BGY~12/12/2026 12:45~~",
+   "flightNumber": "FR3393",
+   "previousPrice": null,
+   "priceUpdated": 1792427768000
+  },
+  "summary": {
+   "price": {
+    "value": 48.11,
+    "valueMainUnit": "48",
+    "valueFractionalUnit": "11",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-14T12:30:00",
+   "arrivalDate": "2026-12-14T14:40:00",
+   "price": {
+    "value": 56.44,
+    "valueMainUnit": "56",
+    "valueFractionalUnit": "44",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3393~ ~~HEL~12/14/2026 12:30~BGY~12/14/2026 14:40~~",
+   "flightNumber": "FR3393",
+   "previousPrice": null,
+   "priceUpdated": 1792434206000
+  },
+  "summary": {
+   "price": {
+    "value": 56.44,
+    "valueMainUnit": "56",
+    "valueFractionalUnit": "44",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-13T18:45:00",
+   "arrivalDate": "2026-12-13T22:25:00",
+   "price": {
+    "value": 58.19,
+    "valueMainUnit": "58",
+    "valueFractionalUnit": "19",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2617~ ~~HEL~12/13/2026 18:45~ALC~12/13/2026 22:25~~",
+   "flightNumber": "FR2617",
+   "previousPrice": null,
+   "priceUpdated": 1792405452000
+  },
+  "summary": {
+   "price": {
+    "value": 58.19,
+    "valueMainUnit": "58",
+    "valueFractionalUnit": "19",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -1701,12 +1751,112 @@
    "flightKey": "FR~9327~ ~~HEL~12/12/2026 10:35~CRL~12/12/2026 12:30~~",
    "flightNumber": "FR9327",
    "previousPrice": null,
-   "priceUpdated": 1791800544000
+   "priceUpdated": 1792419364000
   },
   "summary": {
    "price": {
     "value": 58.99,
     "valueMainUnit": "58",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Belgium",
+    "iataCode": "CRL",
+    "name": "Brussels Charleroi",
+    "seoName": "brussels-charleroi",
+    "city": {
+     "code": "CHARLEROI",
+     "countryCode": "be",
+     "name": "Charleroi"
+    }
+   },
+   "departureDate": "2026-12-19T10:35:00",
+   "arrivalDate": "2026-12-19T12:30:00",
+   "price": {
+    "value": 63.99,
+    "valueMainUnit": "63",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9327~ ~~HEL~12/19/2026 10:35~CRL~12/19/2026 12:30~~",
+   "flightNumber": "FR9327",
+   "previousPrice": null,
+   "priceUpdated": 1792419484000
+  },
+  "summary": {
+   "price": {
+    "value": 63.99,
+    "valueMainUnit": "63",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-14T19:25:00",
+   "arrivalDate": "2026-12-14T23:05:00",
+   "price": {
+    "value": 68.99,
+    "valueMainUnit": "68",
+    "valueFractionalUnit": "99",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~2617~ ~~HEL~12/14/2026 19:25~ALC~12/14/2026 23:05~~",
+   "flightNumber": "FR2617",
+   "previousPrice": null,
+   "priceUpdated": 1792436824000
+  },
+  "summary": {
+   "price": {
+    "value": 68.99,
+    "valueMainUnit": "68",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1743,8 +1893,8 @@
    "departureDate": "2026-12-19T21:10:00",
    "arrivalDate": "2026-12-19T22:20:00",
    "price": {
-    "value": 60.99,
-    "valueMainUnit": "60",
+    "value": 68.99,
+    "valueMainUnit": "68",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -1752,158 +1902,7 @@
    "flightKey": "FR~9144~ ~~HEL~12/19/2026 21:10~STN~12/19/2026 22:20~~",
    "flightNumber": "FR9144",
    "previousPrice": null,
-   "priceUpdated": 1791801642000
-  },
-  "summary": {
-   "price": {
-    "value": 60.99,
-    "valueMainUnit": "60",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Poland",
-    "iataCode": "WMI",
-    "name": "Warsaw Modlin",
-    "seoName": "warsaw-modlin",
-    "city": {
-     "code": "WARSAW",
-     "countryCode": "pl",
-     "macCode": "WWA",
-     "name": "Warsaw"
-    }
-   },
-   "departureDate": "2026-12-13T11:00:00",
-   "arrivalDate": "2026-12-13T11:50:00",
-   "price": {
-    "value": 62.49,
-    "valueMainUnit": "62",
-    "valueFractionalUnit": "49",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~8908~ ~~HEL~12/13/2026 11:00~WMI~12/13/2026 11:50~~",
-   "flightNumber": "FR8908",
-   "previousPrice": null,
-   "priceUpdated": 1791800553000
-  },
-  "summary": {
-   "price": {
-    "value": 62.49,
-    "valueMainUnit": "62",
-    "valueFractionalUnit": "49",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Italy",
-    "iataCode": "BGY",
-    "name": "Milan Bergamo",
-    "seoName": "milan-bergamo",
-    "city": {
-     "code": "BERGAMO",
-     "countryCode": "it",
-     "name": "Bergamo"
-    }
-   },
-   "departureDate": "2026-12-17T22:30:00",
-   "arrivalDate": "2026-12-18T00:40:00",
-   "price": {
-    "value": 67.72,
-    "valueMainUnit": "67",
-    "valueFractionalUnit": "72",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~3393~ ~~HEL~12/17/2026 22:30~BGY~12/18/2026 00:40~~",
-   "flightNumber": "FR3393",
-   "previousPrice": null,
-   "priceUpdated": 1791800518000
-  },
-  "summary": {
-   "price": {
-    "value": 67.72,
-    "valueMainUnit": "67",
-    "valueFractionalUnit": "72",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
-    "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
-    }
-   },
-   "departureDate": "2026-12-19T10:35:00",
-   "arrivalDate": "2026-12-19T12:30:00",
-   "price": {
-    "value": 68.99,
-    "valueMainUnit": "68",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~9327~ ~~HEL~12/19/2026 10:35~CRL~12/19/2026 12:30~~",
-   "flightNumber": "FR9327",
-   "previousPrice": null,
-   "priceUpdated": 1791801639000
+   "priceUpdated": 1792434067000
   },
   "summary": {
    "price": {
@@ -1931,134 +1930,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Belgium",
-    "iataCode": "CRL",
-    "name": "Brussels Charleroi",
-    "seoName": "brussels-charleroi",
+    "countryName": "United Kingdom",
+    "iataCode": "STN",
+    "name": "London Stansted",
+    "seoName": "london-stansted",
     "city": {
-     "code": "CHARLEROI",
-     "countryCode": "be",
-     "name": "Charleroi"
+     "code": "LONDON",
+     "countryCode": "gb",
+     "macCode": "LON",
+     "name": "London"
     }
    },
-   "departureDate": "2026-12-14T12:05:00",
-   "arrivalDate": "2026-12-14T14:00:00",
+   "departureDate": "2026-12-13T12:35:00",
+   "arrivalDate": "2026-12-13T13:45:00",
    "price": {
-    "value": 69.99,
-    "valueMainUnit": "69",
+    "value": 77.99,
+    "valueMainUnit": "77",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~9327~ ~~HEL~12/14/2026 12:05~CRL~12/14/2026 14:00~~",
-   "flightNumber": "FR9327",
+   "flightKey": "FR~2345~ ~~HEL~12/13/2026 12:35~STN~12/13/2026 13:45~~",
+   "flightNumber": "FR2345",
    "previousPrice": null,
-   "priceUpdated": 1791800515000
+   "priceUpdated": 1792437091000
   },
   "summary": {
    "price": {
-    "value": 69.99,
-    "valueMainUnit": "69",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Austria",
-    "iataCode": "VIE",
-    "name": "Vienna",
-    "seoName": "vienna",
-    "city": {
-     "code": "VIENNA",
-     "countryCode": "at",
-     "name": "Vienna"
-    }
-   },
-   "departureDate": "2026-12-13T19:30:00",
-   "arrivalDate": "2026-12-13T21:05:00",
-   "price": {
-    "value": 70.74,
-    "valueMainUnit": "70",
-    "valueFractionalUnit": "74",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~9856~ ~~HEL~12/13/2026 19:30~VIE~12/13/2026 21:05~~",
-   "flightNumber": "FR9856",
-   "previousPrice": null,
-   "priceUpdated": 1791802322000
-  },
-  "summary": {
-   "price": {
-    "value": 70.74,
-    "valueMainUnit": "70",
-    "valueFractionalUnit": "74",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
-    "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
-    }
-   },
-   "departureDate": "2026-12-14T19:25:00",
-   "arrivalDate": "2026-12-14T23:05:00",
-   "price": {
-    "value": 70.99,
-    "valueMainUnit": "70",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2617~ ~~HEL~12/14/2026 19:25~ALC~12/14/2026 23:05~~",
-   "flightNumber": "FR2617",
-   "previousPrice": null,
-   "priceUpdated": 1791800515000
-  },
-  "summary": {
-   "price": {
-    "value": 70.99,
-    "valueMainUnit": "70",
+    "value": 77.99,
+    "valueMainUnit": "77",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2095,22 +1995,22 @@
    "departureDate": "2026-12-14T20:25:00",
    "arrivalDate": "2026-12-14T21:35:00",
    "price": {
-    "value": 75.31,
-    "valueMainUnit": "75",
-    "valueFractionalUnit": "31",
+    "value": 78.97,
+    "valueMainUnit": "78",
+    "valueFractionalUnit": "97",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~2345~ ~~HEL~12/14/2026 20:25~STN~12/14/2026 21:35~~",
    "flightNumber": "FR2345",
    "previousPrice": null,
-   "priceUpdated": 1791800523000
+   "priceUpdated": 1792427580000
   },
   "summary": {
    "price": {
-    "value": 75.31,
-    "valueMainUnit": "75",
-    "valueFractionalUnit": "31",
+    "value": 78.97,
+    "valueMainUnit": "78",
+    "valueFractionalUnit": "97",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2132,35 +2032,36 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Austria",
-    "iataCode": "VIE",
-    "name": "Vienna",
-    "seoName": "vienna",
+    "countryName": "Poland",
+    "iataCode": "WMI",
+    "name": "Warsaw Modlin",
+    "seoName": "warsaw-modlin",
     "city": {
-     "code": "VIENNA",
-     "countryCode": "at",
-     "name": "Vienna"
+     "code": "WARSAW",
+     "countryCode": "pl",
+     "macCode": "WWA",
+     "name": "Warsaw"
     }
    },
-   "departureDate": "2026-12-14T20:40:00",
-   "arrivalDate": "2026-12-14T22:15:00",
+   "departureDate": "2026-12-13T11:00:00",
+   "arrivalDate": "2026-12-13T11:50:00",
    "price": {
-    "value": 81.62,
-    "valueMainUnit": "81",
-    "valueFractionalUnit": "62",
+    "value": 84.12,
+    "valueMainUnit": "84",
+    "valueFractionalUnit": "12",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~9856~ ~~HEL~12/14/2026 20:40~VIE~12/14/2026 22:15~~",
-   "flightNumber": "FR9856",
+   "flightKey": "FR~8908~ ~~HEL~12/13/2026 11:00~WMI~12/13/2026 11:50~~",
+   "flightNumber": "FR8908",
    "previousPrice": null,
-   "priceUpdated": 1791800519000
+   "priceUpdated": 1792438239000
   },
   "summary": {
    "price": {
-    "value": 81.62,
-    "valueMainUnit": "81",
-    "valueFractionalUnit": "62",
+    "value": 84.12,
+    "valueMainUnit": "84",
+    "valueFractionalUnit": "12",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2196,8 +2097,8 @@
    "departureDate": "2026-12-17T16:55:00",
    "arrivalDate": "2026-12-17T17:45:00",
    "price": {
-    "value": 88.99,
-    "valueMainUnit": "88",
+    "value": 85.99,
+    "valueMainUnit": "85",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2205,12 +2106,12 @@
    "flightKey": "FR~8908~ ~~HEL~12/17/2026 16:55~WMI~12/17/2026 17:45~~",
    "flightNumber": "FR8908",
    "previousPrice": null,
-   "priceUpdated": 1791800522000
+   "priceUpdated": 1792419437000
   },
   "summary": {
    "price": {
-    "value": 88.99,
-    "valueMainUnit": "88",
+    "value": 85.99,
+    "valueMainUnit": "85",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2233,35 +2134,184 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Poland",
-    "iataCode": "WMI",
-    "name": "Warsaw Modlin",
-    "seoName": "warsaw-modlin",
+    "countryName": "Austria",
+    "iataCode": "VIE",
+    "name": "Vienna",
+    "seoName": "vienna",
     "city": {
-     "code": "WARSAW",
-     "countryCode": "pl",
-     "macCode": "WWA",
-     "name": "Warsaw"
+     "code": "VIENNA",
+     "countryCode": "at",
+     "name": "Vienna"
     }
    },
-   "departureDate": "2026-12-18T14:25:00",
-   "arrivalDate": "2026-12-18T15:15:00",
+   "departureDate": "2026-12-13T19:30:00",
+   "arrivalDate": "2026-12-13T21:05:00",
    "price": {
-    "value": 88.99,
-    "valueMainUnit": "88",
+    "value": 87.24,
+    "valueMainUnit": "87",
+    "valueFractionalUnit": "24",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9856~ ~~HEL~12/13/2026 19:30~VIE~12/13/2026 21:05~~",
+   "flightNumber": "FR9856",
+   "previousPrice": null,
+   "priceUpdated": 1792405448000
+  },
+  "summary": {
+   "price": {
+    "value": 87.24,
+    "valueMainUnit": "87",
+    "valueFractionalUnit": "24",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Austria",
+    "iataCode": "VIE",
+    "name": "Vienna",
+    "seoName": "vienna",
+    "city": {
+     "code": "VIENNA",
+     "countryCode": "at",
+     "name": "Vienna"
+    }
+   },
+   "departureDate": "2026-12-14T20:40:00",
+   "arrivalDate": "2026-12-14T22:15:00",
+   "price": {
+    "value": 87.24,
+    "valueMainUnit": "87",
+    "valueFractionalUnit": "24",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~9856~ ~~HEL~12/14/2026 20:40~VIE~12/14/2026 22:15~~",
+   "flightNumber": "FR9856",
+   "previousPrice": null,
+   "priceUpdated": 1792405492000
+  },
+  "summary": {
+   "price": {
+    "value": 87.24,
+    "valueMainUnit": "87",
+    "valueFractionalUnit": "24",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Italy",
+    "iataCode": "BGY",
+    "name": "Milan Bergamo",
+    "seoName": "milan-bergamo",
+    "city": {
+     "code": "BERGAMO",
+     "countryCode": "it",
+     "name": "Bergamo"
+    }
+   },
+   "departureDate": "2026-12-17T22:30:00",
+   "arrivalDate": "2026-12-18T00:40:00",
+   "price": {
+    "value": 87.52,
+    "valueMainUnit": "87",
+    "valueFractionalUnit": "52",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "flightKey": "FR~3393~ ~~HEL~12/17/2026 22:30~BGY~12/18/2026 00:40~~",
+   "flightNumber": "FR3393",
+   "previousPrice": null,
+   "priceUpdated": 1792432690000
+  },
+  "summary": {
+   "price": {
+    "value": 87.52,
+    "valueMainUnit": "87",
+    "valueFractionalUnit": "52",
+    "currencyCode": "EUR",
+    "currencySymbol": "€"
+   },
+   "previousPrice": null,
+   "newRoute": false
+  }
+ },
+ {
+  "outbound": {
+   "departureAirport": {
+    "countryName": "Finland",
+    "iataCode": "HEL",
+    "name": "Helsinki",
+    "seoName": "helsinki",
+    "city": {
+     "code": "HELSINKI",
+     "countryCode": "fi",
+     "name": "Helsinki"
+    }
+   },
+   "arrivalAirport": {
+    "countryName": "Spain",
+    "iataCode": "ALC",
+    "name": "Alicante",
+    "seoName": "alicante",
+    "city": {
+     "code": "ALICANTE",
+     "countryCode": "es",
+     "name": "Alicante"
+    }
+   },
+   "departureDate": "2026-12-19T20:40:00",
+   "arrivalDate": "2026-12-20T00:20:00",
+   "price": {
+    "value": 89.99,
+    "valueMainUnit": "89",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~8908~ ~~HEL~12/18/2026 14:25~WMI~12/18/2026 15:15~~",
-   "flightNumber": "FR8908",
+   "flightKey": "FR~2617~ ~~HEL~12/19/2026 20:40~ALC~12/20/2026 00:20~~",
+   "flightNumber": "FR2617",
    "previousPrice": null,
-   "priceUpdated": 1791801679000
+   "priceUpdated": 1792419446000
   },
   "summary": {
    "price": {
-    "value": 88.99,
-    "valueMainUnit": "88",
+    "value": 89.99,
+    "valueMainUnit": "89",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2297,8 +2347,8 @@
    "departureDate": "2026-12-17T19:35:00",
    "arrivalDate": "2026-12-17T21:10:00",
    "price": {
-    "value": 93.99,
-    "valueMainUnit": "93",
+    "value": 102.99,
+    "valueMainUnit": "102",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2306,12 +2356,12 @@
    "flightKey": "FR~9856~ ~~HEL~12/17/2026 19:35~VIE~12/17/2026 21:10~~",
    "flightNumber": "FR9856",
    "previousPrice": null,
-   "priceUpdated": 1791800520000
+   "priceUpdated": 1792436828000
   },
   "summary": {
    "price": {
-    "value": 93.99,
-    "valueMainUnit": "93",
+    "value": 102.99,
+    "valueMainUnit": "102",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2347,73 +2397,22 @@
    "departureDate": "2026-12-17T19:55:00",
    "arrivalDate": "2026-12-17T23:35:00",
    "price": {
-    "value": 102.79,
-    "valueMainUnit": "102",
-    "valueFractionalUnit": "79",
+    "value": 108.11,
+    "valueMainUnit": "108",
+    "valueFractionalUnit": "11",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~2617~ ~~HEL~12/17/2026 19:55~ALC~12/17/2026 23:35~~",
    "flightNumber": "FR2617",
    "previousPrice": null,
-   "priceUpdated": 1791800518000
+   "priceUpdated": 1792405488000
   },
   "summary": {
    "price": {
-    "value": 102.79,
-    "valueMainUnit": "102",
-    "valueFractionalUnit": "79",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "previousPrice": null,
-   "newRoute": false
-  }
- },
- {
-  "outbound": {
-   "departureAirport": {
-    "countryName": "Finland",
-    "iataCode": "HEL",
-    "name": "Helsinki",
-    "seoName": "helsinki",
-    "city": {
-     "code": "HELSINKI",
-     "countryCode": "fi",
-     "name": "Helsinki"
-    }
-   },
-   "arrivalAirport": {
-    "countryName": "United Kingdom",
-    "iataCode": "STN",
-    "name": "London Stansted",
-    "seoName": "london-stansted",
-    "city": {
-     "code": "LONDON",
-     "countryCode": "gb",
-     "macCode": "LON",
-     "name": "London"
-    }
-   },
-   "departureDate": "2026-12-13T12:35:00",
-   "arrivalDate": "2026-12-13T13:45:00",
-   "price": {
-    "value": 115.99,
-    "valueMainUnit": "115",
-    "valueFractionalUnit": "99",
-    "currencyCode": "EUR",
-    "currencySymbol": "€"
-   },
-   "flightKey": "FR~2345~ ~~HEL~12/13/2026 12:35~STN~12/13/2026 13:45~~",
-   "flightNumber": "FR2345",
-   "previousPrice": null,
-   "priceUpdated": 1791800549000
-  },
-  "summary": {
-   "price": {
-    "value": 115.99,
-    "valueMainUnit": "115",
-    "valueFractionalUnit": "99",
+    "value": 108.11,
+    "valueMainUnit": "108",
+    "valueFractionalUnit": "11",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2448,22 +2447,22 @@
    "departureDate": "2026-12-18T12:00:00",
    "arrivalDate": "2026-12-18T15:40:00",
    "price": {
-    "value": 119.71,
-    "valueMainUnit": "119",
-    "valueFractionalUnit": "71",
+    "value": 122.14,
+    "valueMainUnit": "122",
+    "valueFractionalUnit": "14",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
    "flightKey": "FR~2617~ ~~HEL~12/18/2026 12:00~ALC~12/18/2026 15:40~~",
    "flightNumber": "FR2617",
    "previousPrice": null,
-   "priceUpdated": 1791800514000
+   "priceUpdated": 1792405492000
   },
   "summary": {
    "price": {
-    "value": 119.71,
-    "valueMainUnit": "119",
-    "valueFractionalUnit": "71",
+    "value": 122.14,
+    "valueMainUnit": "122",
+    "valueFractionalUnit": "14",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
@@ -2485,34 +2484,35 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Austria",
-    "iataCode": "VIE",
-    "name": "Vienna",
-    "seoName": "vienna",
+    "countryName": "Poland",
+    "iataCode": "WMI",
+    "name": "Warsaw Modlin",
+    "seoName": "warsaw-modlin",
     "city": {
-     "code": "VIENNA",
-     "countryCode": "at",
-     "name": "Vienna"
+     "code": "WARSAW",
+     "countryCode": "pl",
+     "macCode": "WWA",
+     "name": "Warsaw"
     }
    },
-   "departureDate": "2026-12-18T15:20:00",
-   "arrivalDate": "2026-12-18T16:55:00",
+   "departureDate": "2026-12-18T14:25:00",
+   "arrivalDate": "2026-12-18T15:15:00",
    "price": {
-    "value": 128.99,
-    "valueMainUnit": "128",
+    "value": 131.99,
+    "valueMainUnit": "131",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~9856~ ~~HEL~12/18/2026 15:20~VIE~12/18/2026 16:55~~",
-   "flightNumber": "FR9856",
+   "flightKey": "FR~8908~ ~~HEL~12/18/2026 14:25~WMI~12/18/2026 15:15~~",
+   "flightNumber": "FR8908",
    "previousPrice": null,
-   "priceUpdated": 1791801666000
+   "priceUpdated": 1792419420000
   },
   "summary": {
    "price": {
-    "value": 128.99,
-    "valueMainUnit": "128",
+    "value": 131.99,
+    "valueMainUnit": "131",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2548,8 +2548,8 @@
    "departureDate": "2026-12-19T10:35:00",
    "arrivalDate": "2026-12-19T12:45:00",
    "price": {
-    "value": 134.99,
-    "valueMainUnit": "134",
+    "value": 132.99,
+    "valueMainUnit": "132",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2557,12 +2557,12 @@
    "flightKey": "FR~3393~ ~~HEL~12/19/2026 10:35~BGY~12/19/2026 12:45~~",
    "flightNumber": "FR3393",
    "previousPrice": null,
-   "priceUpdated": 1791801616000
+   "priceUpdated": 1792425311000
   },
   "summary": {
    "price": {
-    "value": 134.99,
-    "valueMainUnit": "134",
+    "value": 132.99,
+    "valueMainUnit": "132",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
@@ -2585,34 +2585,34 @@
     }
    },
    "arrivalAirport": {
-    "countryName": "Spain",
-    "iataCode": "ALC",
-    "name": "Alicante",
-    "seoName": "alicante",
+    "countryName": "Austria",
+    "iataCode": "VIE",
+    "name": "Vienna",
+    "seoName": "vienna",
     "city": {
-     "code": "ALICANTE",
-     "countryCode": "es",
-     "name": "Alicante"
+     "code": "VIENNA",
+     "countryCode": "at",
+     "name": "Vienna"
     }
    },
-   "departureDate": "2026-12-19T20:40:00",
-   "arrivalDate": "2026-12-20T00:20:00",
+   "departureDate": "2026-12-18T15:20:00",
+   "arrivalDate": "2026-12-18T16:55:00",
    "price": {
-    "value": 142.99,
-    "valueMainUnit": "142",
+    "value": 132.99,
+    "valueMainUnit": "132",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"
    },
-   "flightKey": "FR~2617~ ~~HEL~12/19/2026 20:40~ALC~12/20/2026 00:20~~",
-   "flightNumber": "FR2617",
+   "flightKey": "FR~9856~ ~~HEL~12/18/2026 15:20~VIE~12/18/2026 16:55~~",
+   "flightNumber": "FR9856",
    "previousPrice": null,
-   "priceUpdated": 1791801672000
+   "priceUpdated": 1792419477000
   },
   "summary": {
    "price": {
-    "value": 142.99,
-    "valueMainUnit": "142",
+    "value": 132.99,
+    "valueMainUnit": "132",
     "valueFractionalUnit": "99",
     "currencyCode": "EUR",
     "currencySymbol": "€"

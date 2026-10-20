@@ -1,17 +1,21 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDhqBRIDVFJEcgUSA0FMQxoaEgoyMDI2LTEyLTE2agUSA0FMQ3IFEgNUUkRAAUgBmAEB",
- "via": "ui",
+ "fetchedAt": "2026-10-19T22:50:15",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 451.0,
+   "price": 430.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM and Transavia",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-08",
+   "arrCode": "ALC",
    "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
    "arrTime": "12:40",
    "arrDate": "2026-12-08",
@@ -19,24 +23,33 @@
    "layovers": [
     {
      "min": 80,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1150",
+    "HV6141"
+   ],
+   "via": "rpc"
   },
   {
-   "price": 617.0,
+   "price": 631.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 3,
    "airlines": "Wideroe, Lufthansa and Lufthansa City Airlines",
    "operatedBy": null,
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "09:10",
    "depDate": "2026-12-08",
+   "arrCode": "ALC",
    "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
    "arrTime": "10:55",
    "arrDate": "2026-12-09",
@@ -44,25 +57,142 @@
    "layovers": [
     {
      "min": 155,
+     "overnight": false,
      "airport": "Bergen Airport",
      "city": "Bergen",
-     "overnight": false
+     "code": "BGO",
+     "changeAirport": false
     },
     {
      "min": 135,
+     "overnight": false,
      "airport": "Frankfurt Airport",
      "city": "Frankfurt am Main",
-     "overnight": false
+     "code": "FRA",
+     "changeAirport": false
     },
     {
      "min": 845,
+     "overnight": true,
      "airport": "Munich International Airport",
      "city": "Munich",
-     "overnight": false
+     "code": "MUC",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "WF1302",
+    "LH873",
+    "LH116",
+    "VL1848"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 631.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Wideroe, Lufthansa and Lufthansa City Airlines",
+   "operatedBy": null,
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-08",
+   "arrCode": "ALC",
+   "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "arrTime": "10:55",
+   "arrDate": "2026-12-09",
+   "durationMin": 1545,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    },
+    {
+     "min": 75,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    },
+    {
+     "min": 905,
+     "overnight": true,
+     "airport": "Munich International Airport",
+     "city": "Munich",
+     "code": "MUC",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "WF1302",
+    "LH873",
+    "LH114",
+    "VL1848"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 631.0,
+   "roundTripTotal": true,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Wideroe, Lufthansa and Lufthansa City Airlines",
+   "operatedBy": null,
+   "depCode": "TRD",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-08",
+   "arrCode": "ALC",
+   "arrAirportName": "Alicante-Elche Miguel Hernández Airport",
+   "arrTime": "10:55",
+   "arrDate": "2026-12-09",
+   "durationMin": 1545,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    },
+    {
+     "min": 255,
+     "overnight": true,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    },
+    {
+     "min": 725,
+     "overnight": true,
+     "airport": "Munich International Airport",
+     "city": "Munich",
+     "code": "MUC",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "WF1302",
+    "LH873",
+    "LH122",
+    "VL1848"
+   ],
+   "via": "rpc"
   }
  ]
 }

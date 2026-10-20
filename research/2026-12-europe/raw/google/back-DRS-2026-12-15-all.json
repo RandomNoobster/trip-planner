@@ -1,11 +1,54 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTVqBRIDRFJTcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T12:17:57",
+ "fetchedAt": "2026-10-19T23:15:28",
  "priceUnavailable": 0,
  "via": "rpc",
  "itineraries": [
   {
-   "price": 259.0,
+   "price": 227.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depCode": "DRS",
+   "depAirportName": "Dresden Airport",
+   "depTime": "06:10",
+   "depDate": "2026-12-15",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-15",
+   "durationMin": 520,
+   "layovers": [
+    {
+     "min": 175,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    },
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "LH69",
+    "LH872",
+    "WF1311"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 263.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -57,50 +100,7 @@
    "via": "rpc"
   },
   {
-   "price": 381.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Lufthansa and Wideroe",
-   "operatedBy": null,
-   "depCode": "DRS",
-   "depAirportName": "Dresden Airport",
-   "depTime": "06:10",
-   "depDate": "2026-12-15",
-   "arrCode": "TRD",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-15",
-   "durationMin": 520,
-   "layovers": [
-    {
-     "min": 175,
-     "overnight": false,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main",
-     "code": "FRA",
-     "changeAirport": false
-    },
-    {
-     "min": 95,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen",
-     "code": "BGO",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "LH69",
-    "LH872",
-    "WF1311"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 387.0,
+   "price": 278.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

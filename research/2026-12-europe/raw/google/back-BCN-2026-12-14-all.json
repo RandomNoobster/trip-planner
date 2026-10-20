@@ -1,7 +1,8 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTRqBRIDQkNOcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T11:24:39",
+ "fetchedAt": "2026-10-19T23:31:32",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
    "price": 101.0,
@@ -82,7 +83,7 @@
    "label": "From 131 euros. 1 stop flight with Transavia and KLM. Operated by KLM Cityhopper. Leaves Josep Tarradellas Barcelona-El Prat Airport at 10:05 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:35 PM on Monday, December 14. Total duration 6 hr 30 min.  Layover (1 of 1) is a 1 hr 50 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 159.0,
+   "price": 150.0,
    "roundTripTotal": false,
    "noOverheadBin": true,
    "stops": 1,
@@ -105,33 +106,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 159 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Josep Tarradellas Barcelona-El Prat Airport at 1:15 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 6:45 PM on Monday, December 14. Total duration 5 hr 30 min.  Layover (1 of 1) is a 1 hr 10 min layover at Oslo lufthavn in Oslo. Select flight"
-  },
-  {
-   "price": 142.0,
-   "roundTripTotal": false,
-   "noOverheadBin": true,
-   "stops": 1,
-   "airlines": "Norwegian",
-   "operatedBy": "Norwegian",
-   "depAirportName": "Josep Tarradellas Barcelona-El Prat Airport",
-   "depTime": "13:15",
-   "depDate": "2026-12-14",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "21:40",
-   "arrDate": "2026-12-14",
-   "durationMin": 505,
-   "layovers": [
-    {
-     "min": 240,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 142 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Josep Tarradellas Barcelona-El Prat Airport at 1:15 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 9:40 PM on Monday, December 14. Total duration 8 hr 25 min.  Layover (1 of 1) is a 4 hr layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 150 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Josep Tarradellas Barcelona-El Prat Airport at 1:15 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 6:45 PM on Monday, December 14. Total duration 5 hr 30 min.  Layover (1 of 1) is a 1 hr 10 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
    "price": 218.0,
@@ -141,21 +116,21 @@
    "airlines": "Air France and KLM",
    "operatedBy": "KLM Cityhopper for KLM Royal Dutch Airlines",
    "depAirportName": "Josep Tarradellas Barcelona-El Prat Airport",
-   "depTime": "06:00",
+   "depTime": "20:20",
    "depDate": "2026-12-14",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "16:35",
-   "arrDate": "2026-12-14",
-   "durationMin": 635,
+   "arrDate": "2026-12-15",
+   "durationMin": 1215,
    "layovers": [
     {
-     "min": 220,
+     "min": 580,
      "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris"
     },
     {
-     "min": 75,
+     "min": 300,
      "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam"
@@ -163,7 +138,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 218 euros. 2 stops flight with Air France and KLM. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Josep Tarradellas Barcelona-El Prat Airport at 6:00 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:35 PM on Monday, December 14. Total duration 10 hr 35 min.  Layover (1 of 2) is a 3 hr 40 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 1 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 218 euros. 2 stops flight with Air France and KLM. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Josep Tarradellas Barcelona-El Prat Airport at 8:20 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:35 PM on Tuesday, December 15. Total duration 20 hr 15 min.  Layover (1 of 2) is a 9 hr 40 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 5 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
    "price": 218.0,
@@ -198,39 +173,7 @@
    "label": "From 218 euros. 2 stops flight with Air France and KLM. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Josep Tarradellas Barcelona-El Prat Airport at 8:20 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:35 PM on Tuesday, December 15. Total duration 20 hr 15 min.  Layover (1 of 2) is a 8 hr 35 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 6 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 236.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "KLM and Scandinavian Airlines",
-   "operatedBy": null,
-   "depAirportName": "Josep Tarradellas Barcelona-El Prat Airport",
-   "depTime": "06:00",
-   "depDate": "2026-12-14",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:00",
-   "arrDate": "2026-12-14",
-   "durationMin": 600,
-   "layovers": [
-    {
-     "min": 95,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    },
-    {
-     "min": 195,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 236 euros. 2 stops flight with KLM and Scandinavian Airlines. Leaves Josep Tarradellas Barcelona-El Prat Airport at 6:00 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:00 PM on Monday, December 14. Total duration 10 hr.  Layover (1 of 2) is a 1 hr 35 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 3 hr 15 min layover at Oslo lufthavn in Oslo. Select flight"
-  },
-  {
-   "price": 274.0,
+   "price": 277.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -259,7 +202,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 274 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Josep Tarradellas Barcelona-El Prat Airport at 6:50 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:50 PM on Monday, December 14. Total duration 8 hr.  Layover (1 of 2) is a 1 hr 10 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+   "label": "From 277 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Josep Tarradellas Barcelona-El Prat Airport at 6:50 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:50 PM on Monday, December 14. Total duration 8 hr.  Layover (1 of 2) is a 1 hr 10 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
   },
   {
    "price": 283.0,
@@ -267,23 +210,23 @@
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Air France and Scandinavian Airlines",
-   "operatedBy": null,
+   "operatedBy": "HOP!",
    "depAirportName": "Josep Tarradellas Barcelona-El Prat Airport",
-   "depTime": "06:00",
+   "depTime": "15:55",
    "depDate": "2026-12-14",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "20:30",
-   "arrDate": "2026-12-14",
-   "durationMin": 870,
+   "arrTime": "09:05",
+   "arrDate": "2026-12-15",
+   "durationMin": 1030,
    "layovers": [
     {
-     "min": 350,
+     "min": 175,
      "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris"
     },
     {
-     "min": 200,
+     "min": 520,
      "overnight": false,
      "airport": "Oslo lufthavn",
      "city": "Oslo"
@@ -291,10 +234,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 283 euros. 2 stops flight with Air France and Scandinavian Airlines. Leaves Josep Tarradellas Barcelona-El Prat Airport at 6:00 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 8:30 PM on Monday, December 14. Total duration 14 hr 30 min.  Layover (1 of 2) is a 5 hr 50 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 3 hr 20 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 283 euros. 2 stops flight with Air France and Scandinavian Airlines. Operated by HOP!. Leaves Josep Tarradellas Barcelona-El Prat Airport at 3:55 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 9:05 AM on Tuesday, December 15. Total duration 17 hr 10 min.  Layover (1 of 2) is a 2 hr 55 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 8 hr 40 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 846.0,
+   "price": 851.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -323,7 +266,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 846 euros. 2 stops flight with Air France and Scandinavian Airlines. Operated by HOP!, Sas Link for Scandinavian Airlines. Leaves Josep Tarradellas Barcelona-El Prat Airport at 3:55 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 12:40 AM on Tuesday, December 15. Total duration 8 hr 45 min.  Layover (1 of 2) is a 2 hr 15 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 55 min layover at Copenhagen Airport in Copenhagen. Select flight"
+   "label": "From 851 euros. 2 stops flight with Air France and Scandinavian Airlines. Operated by HOP!, Sas Link for Scandinavian Airlines. Leaves Josep Tarradellas Barcelona-El Prat Airport at 3:55 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 12:40 AM on Tuesday, December 15. Total duration 8 hr 45 min.  Layover (1 of 2) is a 2 hr 15 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 55 min layover at Copenhagen Airport in Copenhagen. Select flight"
   }
  ]
 }

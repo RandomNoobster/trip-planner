@@ -1,8 +1,87 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTRqBRIDUEFScgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T11:24:06",
+ "fetchedAt": "2026-10-19T23:28:17",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
+  {
+   "price": 121.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Air France and KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Aéroport de Paris-Charles de Gaulle",
+   "depTime": "11:40",
+   "depDate": "2026-12-14",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-14",
+   "durationMin": 295,
+   "layovers": [
+    {
+     "min": 75,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 121 euros. 1 stop flight with Air France and KLM. Operated by KLM Cityhopper. Leaves Aéroport de Paris-Charles de Gaulle at 11:40 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:35 PM on Monday, December 14. Total duration 4 hr 55 min.  Layover (1 of 1) is a 1 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 123.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Aéroport de Paris-Charles de Gaulle",
+   "depTime": "09:45",
+   "depDate": "2026-12-14",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-14",
+   "durationMin": 410,
+   "layovers": [
+    {
+     "min": 195,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 123 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Aéroport de Paris-Charles de Gaulle at 9:45 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:35 PM on Monday, December 14. Total duration 6 hr 50 min.  Layover (1 of 1) is a 3 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 182.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": "Norwegian",
+   "depAirportName": "Aéroport de Paris-Charles de Gaulle",
+   "depTime": "12:25",
+   "depDate": "2026-12-14",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "17:15",
+   "arrDate": "2026-12-14",
+   "durationMin": 290,
+   "layovers": [
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 182 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Aéroport de Paris-Charles de Gaulle at 12:25 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 5:15 PM on Monday, December 14. Total duration 4 hr 50 min.  Layover (1 of 1) is a 1 hr 35 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
   {
    "price": 121.0,
    "roundTripTotal": false,
@@ -30,85 +109,7 @@
    "label": "From 121 euros. 1 stop flight with Air France and KLM. Operated by KLM Cityhopper. Leaves Aéroport de Paris-Charles de Gaulle at 6:10 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 11:10 PM on Monday, December 14. Total duration 5 hr.  Layover (1 of 1) is a 1 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 123.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
-   "depAirportName": "Aéroport de Paris-Charles de Gaulle",
-   "depTime": "18:40",
-   "depDate": "2026-12-14",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "23:10",
-   "arrDate": "2026-12-14",
-   "durationMin": 270,
-   "layovers": [
-    {
-     "min": 60,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 123 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Aéroport de Paris-Charles de Gaulle at 6:40 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 11:10 PM on Monday, December 14. Total duration 4 hr 30 min.  Layover (1 of 1) is a 1 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 183.0,
-   "roundTripTotal": false,
-   "noOverheadBin": true,
-   "stops": 1,
-   "airlines": "Norwegian",
-   "operatedBy": "Norwegian",
-   "depAirportName": "Aéroport de Paris-Charles de Gaulle",
-   "depTime": "12:25",
-   "depDate": "2026-12-14",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "17:15",
-   "arrDate": "2026-12-14",
-   "durationMin": 290,
-   "layovers": [
-    {
-     "min": 95,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 183 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Aéroport de Paris-Charles de Gaulle at 12:25 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 5:15 PM on Monday, December 14. Total duration 4 hr 50 min.  Layover (1 of 1) is a 1 hr 35 min layover at Oslo lufthavn in Oslo. Select flight"
-  },
-  {
-   "price": 121.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "Air France and KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depAirportName": "Aéroport de Paris-Charles de Gaulle",
-   "depTime": "08:00",
-   "depDate": "2026-12-14",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
-   "arrDate": "2026-12-14",
-   "durationMin": 515,
-   "layovers": [
-    {
-     "min": 300,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 121 euros. 1 stop flight with Air France and KLM. Operated by KLM Cityhopper. Leaves Aéroport de Paris-Charles de Gaulle at 8:00 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:35 PM on Monday, December 14. Total duration 8 hr 35 min.  Layover (1 of 1) is a 5 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 123.0,
+   "price": 143.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -131,25 +132,25 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 123 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Aéroport de Paris-Charles de Gaulle at 10:20 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:35 PM on Monday, December 14. Total duration 6 hr 15 min.  Layover (1 of 1) is a 2 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 143 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Aéroport de Paris-Charles de Gaulle at 10:20 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:35 PM on Monday, December 14. Total duration 6 hr 15 min.  Layover (1 of 1) is a 2 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 141.0,
+   "price": 143.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
-   "airlines": "Air France and KLM",
-   "operatedBy": "KLM Cityhopper",
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
    "depAirportName": "Aéroport de Paris-Charles de Gaulle",
-   "depTime": "11:40",
+   "depTime": "18:40",
    "depDate": "2026-12-14",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
+   "arrTime": "23:10",
    "arrDate": "2026-12-14",
-   "durationMin": 295,
+   "durationMin": 270,
    "layovers": [
     {
-     "min": 75,
+     "min": 60,
      "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam"
@@ -157,63 +158,31 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 141 euros. 1 stop flight with Air France and KLM. Operated by KLM Cityhopper. Leaves Aéroport de Paris-Charles de Gaulle at 11:40 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:35 PM on Monday, December 14. Total duration 4 hr 55 min.  Layover (1 of 1) is a 1 hr 15 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 143 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Aéroport de Paris-Charles de Gaulle at 6:40 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 11:10 PM on Monday, December 14. Total duration 4 hr 30 min.  Layover (1 of 1) is a 1 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 165.0,
-   "roundTripTotal": false,
-   "noOverheadBin": true,
-   "stops": 1,
-   "airlines": "Norwegian",
-   "operatedBy": null,
-   "depAirportName": "Aéroport de Paris-Charles de Gaulle",
-   "depTime": "12:25",
-   "depDate": "2026-12-14",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "21:40",
-   "arrDate": "2026-12-14",
-   "durationMin": 555,
-   "layovers": [
-    {
-     "min": 355,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 165 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Aéroport de Paris-Charles de Gaulle at 12:25 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 9:40 PM on Monday, December 14. Total duration 9 hr 15 min.  Layover (1 of 1) is a 5 hr 55 min layover at Oslo lufthavn in Oslo. Select flight"
-  },
-  {
-   "price": 227.0,
+   "price": 297.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 3,
-   "airlines": "Finnair and Wideroe",
-   "operatedBy": "Nordic Reg for Finnair, Nordic Reg for Finnair",
+   "stops": 2,
+   "airlines": "Lufthansa and Wideroe",
+   "operatedBy": null,
    "depAirportName": "Aéroport de Paris-Charles de Gaulle",
-   "depTime": "19:00",
+   "depTime": "06:40",
    "depDate": "2026-12-14",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "14:50",
-   "arrDate": "2026-12-15",
-   "durationMin": 1190,
+   "arrDate": "2026-12-14",
+   "durationMin": 490,
    "layovers": [
     {
-     "min": 55,
+     "min": 135,
      "overnight": false,
-     "airport": "Helsinki Airport",
-     "city": "Helsinki"
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
     },
     {
-     "min": 490,
-     "overnight": false,
-     "airport": "Stockholm Arlanda Airport",
-     "city": "Stockholm"
-    },
-    {
-     "min": 230,
+     "min": 95,
      "overnight": false,
      "airport": "Bergen Airport",
      "city": "Bergen"
@@ -221,36 +190,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 227 euros. 3 stops flight with Finnair and Wideroe. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Aéroport de Paris-Charles de Gaulle at 7:00 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:50 PM on Tuesday, December 15. Total duration 19 hr 50 min.  Layover (1 of 3) is a 55 min layover at Helsinki Airport in Helsinki. Layover (2 of 3) is a 8 hr 10 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 3 hr 50 min layover at Bergen Airport in Bergen. Select flight"
+   "label": "From 297 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Aéroport de Paris-Charles de Gaulle at 6:40 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:50 PM on Monday, December 14. Total duration 8 hr 10 min.  Layover (1 of 2) is a 2 hr 15 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
   },
   {
-   "price": 255.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "Air France and Scandinavian Airlines",
-   "operatedBy": null,
-   "depAirportName": "Aéroport de Paris-Charles de Gaulle",
-   "depTime": "13:50",
-   "depDate": "2026-12-14",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "19:15",
-   "arrDate": "2026-12-14",
-   "durationMin": 325,
-   "layovers": [
-    {
-     "min": 125,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 255 euros. 1 stop flight with Air France and Scandinavian Airlines. Leaves Aéroport de Paris-Charles de Gaulle at 1:50 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 7:15 PM on Monday, December 14. Total duration 5 hr 25 min.  Layover (1 of 1) is a 2 hr 5 min layover at Oslo lufthavn in Oslo. Unknown emissions. Select flight"
-  },
-  {
-   "price": 284.0,
+   "price": 372.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -273,7 +216,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 284 euros. 1 stop flight with Air France and Scandinavian Airlines. Leaves Aéroport de Paris-Charles de Gaulle at 1:50 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 8:30 PM on Monday, December 14. Total duration 6 hr 40 min.  Layover (1 of 1) is a 3 hr 20 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 372 euros. 1 stop flight with Air France and Scandinavian Airlines. Leaves Aéroport de Paris-Charles de Gaulle at 1:50 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 8:30 PM on Monday, December 14. Total duration 6 hr 40 min.  Layover (1 of 1) is a 3 hr 20 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
    "price": 443.0,
@@ -283,15 +226,15 @@
    "airlines": "Tap Air Portugal and Scandinavian Airlines",
    "operatedBy": null,
    "depAirportName": "Paris Orly Airport",
-   "depTime": "06:40",
+   "depTime": "08:00",
    "depDate": "2026-12-14",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "20:30",
    "arrDate": "2026-12-14",
-   "durationMin": 830,
+   "durationMin": 750,
    "layovers": [
     {
-     "min": 265,
+     "min": 185,
      "overnight": false,
      "airport": "Humberto Delgado Airport",
      "city": "Lisbon"
@@ -305,7 +248,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 443 euros. 2 stops flight with Tap Air Portugal and Scandinavian Airlines. Leaves Paris Orly Airport at 6:40 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 8:30 PM on Monday, December 14. Total duration 13 hr 50 min.  Layover (1 of 2) is a 4 hr 25 min layover at Humberto Delgado Airport in Lisbon. Layover (2 of 2) is a 1 hr 35 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 443 euros. 2 stops flight with Tap Air Portugal and Scandinavian Airlines. Leaves Paris Orly Airport at 8:00 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 8:30 PM on Monday, December 14. Total duration 12 hr 30 min.  Layover (1 of 2) is a 3 hr 5 min layover at Humberto Delgado Airport in Lisbon. Layover (2 of 2) is a 1 hr 35 min layover at Oslo lufthavn in Oslo. Select flight"
   }
  ]
 }

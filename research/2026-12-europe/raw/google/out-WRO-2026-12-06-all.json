@@ -1,10 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDZqBRIDVFJEcgUSA1dST0ABSAGYAQI",
- "fetchedAt": "2026-10-11T11:21:04",
+ "fetchedAt": "2026-10-19T23:09:29",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
-   "price": 164.0,
+   "price": 166.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -27,10 +28,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 164 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Sunday, December 6 and arrives at Nicolaus Copernicus Wrocław Airport at 11:20 AM on Sunday, December 6. Total duration 5 hr.  Layover (1 of 1) is a 1 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 166 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Sunday, December 6 and arrives at Nicolaus Copernicus Wrocław Airport at 11:20 AM on Sunday, December 6. Total duration 5 hr.  Layover (1 of 1) is a 1 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 279.0,
+   "price": 283.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -53,42 +54,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 279 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:15 PM on Sunday, December 6 and arrives at Nicolaus Copernicus Wrocław Airport at 11:00 PM on Sunday, December 6. Total duration 5 hr 45 min.  Layover (1 of 1) is a 1 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 283 euros. 1 stop flight with KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:15 PM on Sunday, December 6 and arrives at Nicolaus Copernicus Wrocław Airport at 11:00 PM on Sunday, December 6. Total duration 5 hr 45 min.  Layover (1 of 1) is a 1 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 561.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Wideroe and Lufthansa",
-   "operatedBy": "Air Dolomiti",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "09:10",
-   "depDate": "2026-12-06",
-   "arrAirportName": "Nicolaus Copernicus Wrocław Airport",
-   "arrTime": "10:10",
-   "arrDate": "2026-12-07",
-   "durationMin": 1500,
-   "layovers": [
-    {
-     "min": 155,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen"
-    },
-    {
-     "min": 1065,
-     "overnight": false,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 561 euros. 2 stops flight with Wideroe and Lufthansa. Operated by Air Dolomiti. Leaves Trondheim Airport, Værnes at 9:10 AM on Sunday, December 6 and arrives at Nicolaus Copernicus Wrocław Airport at 10:10 AM on Monday, December 7. Total duration 25 hr.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 17 hr 45 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
-  },
-  {
-   "price": 564.0,
+   "price": 448.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -117,7 +86,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 564 euros. 2 stops flight with Wideroe and Lufthansa. Operated by Air Dolomiti. Leaves Trondheim Airport, Værnes at 9:10 AM on Sunday, December 6 and arrives at Nicolaus Copernicus Wrocław Airport at 11:40 PM on Sunday, December 6. Total duration 14 hr 30 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 7 hr 15 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+   "label": "From 448 euros. 2 stops flight with Wideroe and Lufthansa. Operated by Air Dolomiti. Leaves Trondheim Airport, Værnes at 9:10 AM on Sunday, December 6 and arrives at Nicolaus Copernicus Wrocław Airport at 11:40 PM on Sunday, December 6. Total duration 14 hr 30 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 7 hr 15 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
   }
  ]
 }

@@ -1,10 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDdqBRIDVFJEcgUSA1JJWEABSAGYAQI",
- "fetchedAt": "2026-10-11T11:20:26",
+ "fetchedAt": "2026-10-19T23:05:58",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
-   "price": 108.0,
+   "price": 117.0,
    "roundTripTotal": false,
    "noOverheadBin": true,
    "stops": 1,
@@ -27,10 +28,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 108 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Trondheim Airport, Værnes at 10:20 AM on Monday, December 7 and arrives at Riga Airport at 4:05 PM on Monday, December 7. Total duration 4 hr 45 min.  Layover (1 of 1) is a 2 hr 20 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 117 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Trondheim Airport, Værnes at 10:20 AM on Monday, December 7 and arrives at Riga Airport at 4:05 PM on Monday, December 7. Total duration 4 hr 45 min.  Layover (1 of 1) is a 2 hr 20 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 240.0,
+   "price": 260.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -53,10 +54,48 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 240 euros. 1 stop flight with KLM and Air Baltic. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Monday, December 7 and arrives at Riga Airport at 5:20 PM on Monday, December 7. Total duration 10 hr.  Layover (1 of 1) is a 5 hr 30 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 260 euros. 1 stop flight with KLM and Air Baltic. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Monday, December 7 and arrives at Riga Airport at 5:20 PM on Monday, December 7. Total duration 10 hr.  Layover (1 of 1) is a 5 hr 30 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 250.0,
+   "price": 261.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 3,
+   "airlines": "Wideroe and Finnair",
+   "operatedBy": "Nordic Reg for Finnair, Nordic Reg for Finnair, Nordic Reg for Finnair",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "06:00",
+   "depDate": "2026-12-07",
+   "arrAirportName": "Riga Airport",
+   "arrTime": "17:40",
+   "arrDate": "2026-12-07",
+   "durationMin": 640,
+   "layovers": [
+    {
+     "min": 195,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    },
+    {
+     "min": 25,
+     "overnight": false,
+     "airport": "Stockholm Arlanda Airport",
+     "city": "Stockholm"
+    },
+    {
+     "min": 105,
+     "overnight": false,
+     "airport": "Helsinki Airport",
+     "city": "Helsinki"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 261 euros. 3 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 6:00 AM on Monday, December 7 and arrives at Riga Airport at 5:40 PM on Monday, December 7. Total duration 10 hr 40 min.  Layover (1 of 3) is a 3 hr 15 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 1 hr 45 min layover at Helsinki Airport in Helsinki. Select flight"
+  },
+  {
+   "price": 270.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -79,48 +118,42 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 250 euros. 1 stop flight with KLM and Air Baltic. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Monday, December 7 and arrives at Riga Airport at 1:10 PM on Monday, December 7. Total duration 5 hr 50 min.  Layover (1 of 1) is a 1 hr 20 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 270 euros. 1 stop flight with KLM and Air Baltic. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Monday, December 7 and arrives at Riga Airport at 1:10 PM on Monday, December 7. Total duration 5 hr 50 min.  Layover (1 of 1) is a 1 hr 20 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 258.0,
+   "price": 329.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 3,
-   "airlines": "Wideroe and Finnair",
-   "operatedBy": "Nordic Reg for Finnair, Nordic Reg for Finnair, Nordic Reg for Finnair",
+   "stops": 2,
+   "airlines": "Scandinavian Airlines, Air France and Air Baltic",
+   "operatedBy": "Sas Link for Scandinavian Airlines",
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:00",
+   "depTime": "10:25",
    "depDate": "2026-12-07",
    "arrAirportName": "Riga Airport",
-   "arrTime": "21:45",
+   "arrTime": "23:10",
    "arrDate": "2026-12-07",
-   "durationMin": 885,
+   "durationMin": 705,
    "layovers": [
     {
-     "min": 195,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen"
-    },
-    {
-     "min": 25,
+     "min": 70,
      "overnight": false,
      "airport": "Stockholm Arlanda Airport",
      "city": "Stockholm"
     },
     {
-     "min": 350,
+     "min": 230,
      "overnight": false,
-     "airport": "Helsinki Airport",
-     "city": "Helsinki"
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
     }
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 258 euros. 3 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 6:00 AM on Monday, December 7 and arrives at Riga Airport at 9:45 PM on Monday, December 7. Total duration 14 hr 45 min.  Layover (1 of 3) is a 3 hr 15 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 5 hr 50 min layover at Helsinki Airport in Helsinki. Select flight"
+   "label": "From 329 euros. 2 stops flight with Scandinavian Airlines, Air France and Air Baltic. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 10:25 AM on Monday, December 7 and arrives at Riga Airport at 11:10 PM on Monday, December 7. Total duration 11 hr 45 min.  Layover (1 of 2) is a 1 hr 10 min layover at Stockholm Arlanda Airport in Stockholm. Layover (2 of 2) is a 3 hr 50 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
   },
   {
-   "price": 391.0,
+   "price": 397.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -149,48 +182,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 391 euros. 2 stops flight with Scandinavian Airlines and Air Baltic. Leaves Trondheim Airport, Værnes at 1:00 PM on Monday, December 7 and arrives at Riga Airport at 11:10 PM on Monday, December 7. Total duration 9 hr 10 min.  Layover (1 of 2) is a 1 hr 15 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 45 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "label": "From 397 euros. 2 stops flight with Scandinavian Airlines and Air Baltic. Leaves Trondheim Airport, Værnes at 1:00 PM on Monday, December 7 and arrives at Riga Airport at 11:10 PM on Monday, December 7. Total duration 9 hr 10 min.  Layover (1 of 2) is a 1 hr 15 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 1 hr 45 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
   },
   {
-   "price": 358.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 3,
-   "airlines": "Wideroe and Finnair",
-   "operatedBy": "Nordic Reg for Finnair, Jettime A/S for Finnair, Nordic Reg for Finnair",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:00",
-   "depDate": "2026-12-07",
-   "arrAirportName": "Riga Airport",
-   "arrTime": "17:40",
-   "arrDate": "2026-12-07",
-   "durationMin": 640,
-   "layovers": [
-    {
-     "min": 195,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen"
-    },
-    {
-     "min": 65,
-     "overnight": false,
-     "airport": "Stockholm Arlanda Airport",
-     "city": "Stockholm"
-    },
-    {
-     "min": 80,
-     "overnight": false,
-     "airport": "Helsinki Airport",
-     "city": "Helsinki"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 358 euros. 3 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair, Jettime A/S for Finnair, Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 6:00 AM on Monday, December 7 and arrives at Riga Airport at 5:40 PM on Monday, December 7. Total duration 10 hr 40 min.  Layover (1 of 3) is a 3 hr 15 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 1 hr 5 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 1 hr 20 min layover at Helsinki Airport in Helsinki. Select flight"
-  },
-  {
-   "price": 468.0,
+   "price": 476.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -219,7 +214,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 468 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 9:10 AM on Monday, December 7 and arrives at Riga Airport at 11:55 PM on Monday, December 7. Total duration 13 hr 45 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 5 hr 45 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+   "label": "From 476 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 9:10 AM on Monday, December 7 and arrives at Riga Airport at 11:55 PM on Monday, December 7. Total duration 13 hr 45 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 5 hr 45 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
   }
  ]
 }

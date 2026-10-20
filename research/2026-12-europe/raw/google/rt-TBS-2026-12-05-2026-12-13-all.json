@@ -1,17 +1,21 @@
 {
- "url": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEyLTA1agcIARIDVFJEcgcIARIDVEJTGh4SCjIwMjYtMTItMTNqBwgBEgNUQlNyBwgBEgNUUkRAAUgBcAGCAQsI____________AZgBAQ&hl=en&gl=NO&curr=EUR",
- "via": "ui",
+ "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDVqBRIDVFJEcgUSA1RCUxoaEgoyMDI2LTEyLTEzagUSA1RCU3IFEgNUUkRAAUgBmAEB",
+ "fetchedAt": "2026-10-19T22:56:55",
+ "priceUnavailable": 0,
+ "via": "rpc",
  "itineraries": [
   {
-   "price": 1285.0,
+   "price": 1298.0,
    "roundTripTotal": true,
    "noOverheadBin": false,
    "stops": 1,
    "airlines": "KLM and Georgian Airways",
-   "operatedBy": null,
+   "operatedBy": "KLM Cityhopper",
+   "depCode": "TRD",
    "depAirportName": "Trondheim Airport, Værnes",
    "depTime": "06:20",
    "depDate": "2026-12-05",
+   "arrCode": "TBS",
    "arrAirportName": "Tbilisi International Airport",
    "arrTime": "17:50",
    "arrDate": "2026-12-05",
@@ -19,13 +23,20 @@
    "layovers": [
     {
      "min": 100,
+     "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
      "city": "Amsterdam",
-     "overnight": false
+     "code": "AMS",
+     "changeAirport": false
     }
    ],
+   "changeAirport": false,
    "separateTickets": false,
-   "changeAirport": false
+   "flights": [
+    "KL1150",
+    "A9652"
+   ],
+   "via": "rpc"
   }
  ]
 }

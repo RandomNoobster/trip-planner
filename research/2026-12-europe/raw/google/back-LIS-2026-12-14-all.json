@@ -1,7 +1,8 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTRqBRIDTElTcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T11:25:49",
+ "fetchedAt": "2026-10-19T23:37:20",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
    "price": 114.0,
@@ -152,38 +153,6 @@
    "label": "From 234 euros. 2 stops flight with KLM and Scandinavian Airlines. Leaves Humberto Delgado Airport at 5:00 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 4:00 PM on Monday, December 14. Total duration 10 hr.  Layover (1 of 2) is a 55 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 3 hr 15 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 259.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Air France and Scandinavian Airlines",
-   "operatedBy": null,
-   "depAirportName": "Humberto Delgado Airport",
-   "depTime": "05:30",
-   "depDate": "2026-12-14",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "19:15",
-   "arrDate": "2026-12-14",
-   "durationMin": 765,
-   "layovers": [
-    {
-     "min": 280,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    },
-    {
-     "min": 125,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 259 euros. 2 stops flight with Air France and Scandinavian Airlines. Leaves Humberto Delgado Airport at 5:30 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 7:15 PM on Monday, December 14. Total duration 12 hr 45 min.  Layover (1 of 2) is a 4 hr 40 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 2 hr 5 min layover at Oslo lufthavn in Oslo. Unknown emissions. Select flight"
-  },
-  {
    "price": 289.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
@@ -191,21 +160,21 @@
    "airlines": "Air France and Scandinavian Airlines",
    "operatedBy": null,
    "depAirportName": "Humberto Delgado Airport",
-   "depTime": "05:30",
+   "depTime": "16:10",
    "depDate": "2026-12-14",
    "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "20:30",
-   "arrDate": "2026-12-14",
-   "durationMin": 840,
+   "arrTime": "09:05",
+   "arrDate": "2026-12-15",
+   "durationMin": 955,
    "layovers": [
     {
-     "min": 280,
+     "min": 60,
      "overnight": false,
      "airport": "Aéroport de Paris-Charles de Gaulle",
      "city": "Paris"
     },
     {
-     "min": 200,
+     "min": 520,
      "overnight": false,
      "airport": "Oslo lufthavn",
      "city": "Oslo"
@@ -213,86 +182,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 289 euros. 2 stops flight with Air France and Scandinavian Airlines. Leaves Humberto Delgado Airport at 5:30 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 8:30 PM on Monday, December 14. Total duration 14 hr.  Layover (1 of 2) is a 4 hr 40 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 3 hr 20 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 289 euros. 2 stops flight with Air France and Scandinavian Airlines. Leaves Humberto Delgado Airport at 4:10 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 9:05 AM on Tuesday, December 15. Total duration 15 hr 55 min.  Layover (1 of 2) is a 1 hr layover at Aéroport de Paris-Charles de Gaulle in Paris. Layover (2 of 2) is a 8 hr 40 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 293.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 3,
-   "airlines": "Finnair and Wideroe",
-   "operatedBy": "Nordic Reg for Finnair",
-   "depAirportName": "Humberto Delgado Airport",
-   "depTime": "16:10",
-   "depDate": "2026-12-14",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-15",
-   "durationMin": 1300,
-   "layovers": [
-    {
-     "min": 490,
-     "overnight": false,
-     "airport": "Helsinki Airport",
-     "city": "Helsinki"
-    },
-    {
-     "min": 50,
-     "overnight": false,
-     "airport": "Stockholm Arlanda Airport",
-     "city": "Stockholm"
-    },
-    {
-     "min": 230,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 293 euros. 3 stops flight with Finnair and Wideroe. Operated by Nordic Reg for Finnair. Leaves Humberto Delgado Airport at 4:10 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:50 PM on Tuesday, December 15. Total duration 21 hr 40 min.  Layover (1 of 3) is a 8 hr 10 min layover at Helsinki Airport in Helsinki. Layover (2 of 3) is a 50 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 3 hr 50 min layover at Bergen Airport in Bergen. Select flight"
-  },
-  {
-   "price": 293.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 3,
-   "airlines": "Finnair and Wideroe",
-   "operatedBy": "Nordic Reg for Finnair, Nordic Reg for Finnair",
-   "depAirportName": "Humberto Delgado Airport",
-   "depTime": "16:10",
-   "depDate": "2026-12-14",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-15",
-   "durationMin": 1300,
-   "layovers": [
-    {
-     "min": 60,
-     "overnight": false,
-     "airport": "Helsinki Airport",
-     "city": "Helsinki"
-    },
-    {
-     "min": 490,
-     "overnight": false,
-     "airport": "Stockholm Arlanda Airport",
-     "city": "Stockholm"
-    },
-    {
-     "min": 230,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 293 euros. 3 stops flight with Finnair and Wideroe. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Humberto Delgado Airport at 4:10 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:50 PM on Tuesday, December 15. Total duration 21 hr 40 min.  Layover (1 of 3) is a 1 hr layover at Helsinki Airport in Helsinki. Layover (2 of 3) is a 8 hr 10 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 3 hr 50 min layover at Bergen Airport in Bergen. Select flight"
-  },
-  {
-   "price": 335.0,
+   "price": 338.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -321,7 +214,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 335 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Humberto Delgado Airport at 5:00 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:50 PM on Monday, December 14. Total duration 8 hr 50 min.  Layover (1 of 2) is a 1 hr 10 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+   "label": "From 338 euros. 2 stops flight with Lufthansa and Wideroe. Leaves Humberto Delgado Airport at 5:00 AM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 2:50 PM on Monday, December 14. Total duration 8 hr 50 min.  Layover (1 of 2) is a 1 hr 10 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
   },
   {
    "price": 371.0,
@@ -350,7 +243,7 @@
    "label": "From 371 euros. 1 stop flight with Tap Air Portugal and Scandinavian Airlines. Leaves Humberto Delgado Airport at 12:40 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 8:30 PM on Monday, December 14. Total duration 6 hr 50 min.  Layover (1 of 1) is a 1 hr 35 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 1313.0,
+   "price": 1314.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -379,7 +272,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 1313 euros. 2 stops flight with Tap Air Portugal and Scandinavian Airlines. Operated by Cityjet, Sas Link. Leaves Humberto Delgado Airport at 2:15 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 12:40 AM on Tuesday, December 15. Total duration 9 hr 25 min.  Layover (1 of 2) is a 1 hr 15 min layover at Vienna International Airport in Vienna. Layover (2 of 2) is a 1 hr 10 min layover at Copenhagen Airport in Copenhagen. Select flight"
+   "label": "From 1314 euros. 2 stops flight with Tap Air Portugal and Scandinavian Airlines. Operated by Cityjet, Sas Link. Leaves Humberto Delgado Airport at 2:15 PM on Monday, December 14 and arrives at Trondheim Airport, Værnes at 12:40 AM on Tuesday, December 15. Total duration 9 hr 25 min.  Layover (1 of 2) is a 1 hr 15 min layover at Vienna International Airport in Vienna. Layover (2 of 2) is a 1 hr 10 min layover at Copenhagen Airport in Copenhagen. Select flight"
   }
  ]
 }

@@ -1,10 +1,37 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTdqBRIDSEVMcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T11:20:11",
+ "fetchedAt": "2026-10-19T23:05:09",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
-   "price": 138.0,
+   "price": 134.0,
+   "roundTripTotal": false,
+   "noOverheadBin": true,
+   "stops": 1,
+   "airlines": "Norwegian",
+   "operatedBy": "Norwegian",
+   "depAirportName": "Helsinki Airport",
+   "depTime": "12:25",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:25",
+   "arrDate": "2026-12-17",
+   "durationMin": 300,
+   "layovers": [
+    {
+     "min": 150,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 134 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Operated by Norwegian. Leaves Helsinki Airport at 12:25 PM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 4:25 PM on Thursday, December 17. Total duration 5 hr.  Layover (1 of 1) is a 2 hr 30 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 140.0,
    "roundTripTotal": false,
    "noOverheadBin": true,
    "stops": 1,
@@ -27,36 +54,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 138 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Helsinki Airport at 12:25 PM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 3:35 PM on Thursday, December 17. Total duration 4 hr 10 min.  Layover (1 of 1) is a 1 hr 40 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 140 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Helsinki Airport at 12:25 PM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 3:35 PM on Thursday, December 17. Total duration 4 hr 10 min.  Layover (1 of 1) is a 1 hr 40 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 182.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depAirportName": "Helsinki Airport",
-   "depTime": "18:20",
-   "depDate": "2026-12-17",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "23:10",
-   "arrDate": "2026-12-17",
-   "durationMin": 350,
-   "layovers": [
-    {
-     "min": 65,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 182 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Helsinki Airport at 6:20 PM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 11:10 PM on Thursday, December 17. Total duration 5 hr 50 min.  Layover (1 of 1) is a 1 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 210.0,
+   "price": 190.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -85,10 +86,36 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 210 euros. 2 stops flight with Finnair and Wideroe. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Helsinki Airport at 7:25 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 2:50 PM on Thursday, December 17. Total duration 8 hr 25 min.  Layover (1 of 2) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (2 of 2) is a 3 hr 50 min layover at Bergen Airport in Bergen. Select flight"
+   "label": "From 190 euros. 2 stops flight with Finnair and Wideroe. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Helsinki Airport at 7:25 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 2:50 PM on Thursday, December 17. Total duration 8 hr 25 min.  Layover (1 of 2) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (2 of 2) is a 3 hr 50 min layover at Bergen Airport in Bergen. Select flight"
   },
   {
-   "price": 309.0,
+   "price": 251.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Helsinki Airport",
+   "depTime": "18:20",
+   "depDate": "2026-12-17",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-17",
+   "durationMin": 350,
+   "layovers": [
+    {
+     "min": 65,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 251 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Helsinki Airport at 6:20 PM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 11:10 PM on Thursday, December 17. Total duration 5 hr 50 min.  Layover (1 of 1) is a 1 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 312.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -117,7 +144,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 309 euros. 2 stops flight with Lufthansa City Airlines, Lufthansa and Wideroe. Leaves Helsinki Airport at 7:00 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 2:50 PM on Thursday, December 17. Total duration 8 hr 50 min.  Layover (1 of 2) is a 1 hr 25 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
+   "label": "From 312 euros. 2 stops flight with Lufthansa City Airlines, Lufthansa and Wideroe. Leaves Helsinki Airport at 7:00 AM on Thursday, December 17 and arrives at Trondheim Airport, Værnes at 2:50 PM on Thursday, December 17. Total duration 8 hr 50 min.  Layover (1 of 2) is a 1 hr 25 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
   }
  ]
 }

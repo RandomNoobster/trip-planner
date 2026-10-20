@@ -1,10 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDhqBRIDVFJEcgUSA0xQQUABSAGYAQI",
- "fetchedAt": "2026-10-11T11:25:33",
+ "fetchedAt": "2026-10-19T23:35:57",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
-   "price": 196.0,
+   "price": 186.0,
    "roundTripTotal": false,
    "noOverheadBin": true,
    "stops": 1,
@@ -27,68 +28,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 196 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 9:25 AM on Tuesday, December 8 and arrives at Gran Canaria Airport at 3:55 PM on Tuesday, December 8. Total duration 7 hr 30 min.  Layover (1 of 1) is a 50 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 186 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 9:25 AM on Tuesday, December 8 and arrives at Gran Canaria Airport at 3:55 PM on Tuesday, December 8. Total duration 7 hr 30 min.  Layover (1 of 1) is a 50 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 703.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM and Transavia",
-   "operatedBy": "KLM Cityhopper",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "06:20",
-   "depDate": "2026-12-08",
-   "arrAirportName": "Gran Canaria Airport",
-   "arrTime": "18:00",
-   "arrDate": "2026-12-08",
-   "durationMin": 760,
-   "layovers": [
-    {
-     "min": 340,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 703 euros. 1 stop flight with KLM and Transavia. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Tuesday, December 8 and arrives at Gran Canaria Airport at 6:00 PM on Tuesday, December 8. Total duration 12 hr 40 min. Business Class + Economy Layover (1 of 1) is a 5 hr 40 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 905.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Air Europa",
-   "operatedBy": "Sas Link",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "10:15",
-   "depDate": "2026-12-08",
-   "arrAirportName": "Gran Canaria Airport",
-   "arrTime": "22:10",
-   "arrDate": "2026-12-08",
-   "durationMin": 775,
-   "layovers": [
-    {
-     "min": 55,
-     "overnight": false,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen"
-    },
-    {
-     "min": 240,
-     "overnight": false,
-     "airport": "Adolfo Suárez Madrid-Barajas Airport",
-     "city": "Madrid"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 905 euros. 2 stops flight with Scandinavian Airlines and Air Europa. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 10:15 AM on Tuesday, December 8 and arrives at Gran Canaria Airport at 10:10 PM on Tuesday, December 8. Total duration 12 hr 55 min.  Layover (1 of 2) is a 55 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 4 hr layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Select flight"
-  },
-  {
-   "price": 458.0,
+   "price": 460.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -123,42 +66,68 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 458 euros. 3 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 3:35 PM on Tuesday, December 8 and arrives at Gran Canaria Airport at 12:00 PM on Wednesday, December 9. Total duration 21 hr 25 min.  Layover (1 of 3) is a 2 hr 15 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 8 hr 10 min layover at Helsinki Airport in Helsinki. Select flight"
+   "label": "From 460 euros. 3 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair. Leaves Trondheim Airport, Værnes at 3:35 PM on Tuesday, December 8 and arrives at Gran Canaria Airport at 12:00 PM on Wednesday, December 9. Total duration 21 hr 25 min.  Layover (1 of 3) is a 2 hr 15 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 8 hr 10 min layover at Helsinki Airport in Helsinki. Select flight"
   },
   {
-   "price": 774.0,
+   "price": 707.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Air Europa",
-   "operatedBy": "Sas Link",
+   "stops": 1,
+   "airlines": "KLM and Transavia",
+   "operatedBy": "KLM Cityhopper",
    "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "10:15",
+   "depTime": "06:20",
    "depDate": "2026-12-08",
    "arrAirportName": "Gran Canaria Airport",
-   "arrTime": "09:00",
-   "arrDate": "2026-12-09",
-   "durationMin": 1425,
+   "arrTime": "18:00",
+   "arrDate": "2026-12-08",
+   "durationMin": 760,
    "layovers": [
     {
-     "min": 55,
+     "min": 340,
      "overnight": false,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen"
-    },
-    {
-     "min": 890,
-     "overnight": false,
-     "airport": "Adolfo Suárez Madrid-Barajas Airport",
-     "city": "Madrid"
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
     }
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 774 euros. 2 stops flight with Scandinavian Airlines and Air Europa. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 10:15 AM on Tuesday, December 8 and arrives at Gran Canaria Airport at 9:00 AM on Wednesday, December 9. Total duration 23 hr 45 min.  Layover (1 of 2) is a 55 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 14 hr 50 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Select flight"
+   "label": "From 707 euros. 1 stop flight with KLM and Transavia. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Tuesday, December 8 and arrives at Gran Canaria Airport at 6:00 PM on Tuesday, December 8. Total duration 12 hr 40 min. Business Class + Economy Layover (1 of 1) is a 5 hr 40 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 905.0,
+   "price": 884.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Wideroe, Lufthansa and Discover Airlines",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "09:10",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Gran Canaria Airport",
+   "arrTime": "13:35",
+   "arrDate": "2026-12-09",
+   "durationMin": 1765,
+   "layovers": [
+    {
+     "min": 155,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    },
+    {
+     "min": 1130,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 884 euros. 2 stops flight with Wideroe, Lufthansa and Discover Airlines. Leaves Trondheim Airport, Værnes at 9:10 AM on Tuesday, December 8 and arrives at Gran Canaria Airport at 1:35 PM on Wednesday, December 9. Total duration 29 hr 25 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 18 hr 50 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+  },
+  {
+   "price": 913.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -193,10 +162,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 905 euros. 3 stops flight with Wideroe, Lufthansa and Edelweiss Air. Leaves Trondheim Airport, Værnes at 9:10 AM on Tuesday, December 8 and arrives at Gran Canaria Airport at 12:55 PM on Wednesday, December 9. Total duration 28 hr 45 min.  Layover (1 of 3) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 6 hr layover at Frankfurt Airport in Frankfurt am Main. Layover (3 of 3) is a 11 hr 30 min layover at Zurich Airport in Zürich. Select flight"
+   "label": "From 913 euros. 3 stops flight with Wideroe, Lufthansa and Edelweiss Air. Leaves Trondheim Airport, Værnes at 9:10 AM on Tuesday, December 8 and arrives at Gran Canaria Airport at 12:55 PM on Wednesday, December 9. Total duration 28 hr 45 min.  Layover (1 of 3) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 6 hr layover at Frankfurt Airport in Frankfurt am Main. Layover (3 of 3) is a 11 hr 30 min layover at Zurich Airport in Zürich. Select flight"
   },
   {
-   "price": 1164.0,
+   "price": 1484.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -225,7 +194,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 1164 euros. 2 stops flight with KLM and Air Europa. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Tuesday, December 8 and arrives at Gran Canaria Airport at 5:05 PM on Tuesday, December 8. Total duration 11 hr 45 min.  Layover (1 of 2) is a 1 hr layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 2 hr 55 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Select flight"
+   "label": "From 1484 euros. 2 stops flight with KLM and Air Europa. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Tuesday, December 8 and arrives at Gran Canaria Airport at 5:05 PM on Tuesday, December 8. Total duration 11 hr 45 min.  Layover (1 of 2) is a 1 hr layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 2 hr 55 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Select flight"
   }
  ]
 }

@@ -1,11 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTNqBRIDTVJTcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T12:23:27",
+ "fetchedAt": "2026-10-19T23:30:43",
  "priceUnavailable": 0,
  "via": "rpc",
  "itineraries": [
   {
-   "price": 201.0,
+   "price": 221.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -73,7 +73,7 @@
    "via": "rpc"
   },
   {
-   "price": 266.0,
+   "price": 310.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -111,49 +111,6 @@
    "flights": [
     "AF7347",
     "AF1252",
-    "WF1311"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 274.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Lufthansa City Airlines, Lufthansa and Wideroe",
-   "operatedBy": null,
-   "depCode": "MRS",
-   "depAirportName": "Marseille Provence Airport",
-   "depTime": "10:40",
-   "depDate": "2026-12-13",
-   "arrCode": "TRD",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-14",
-   "durationMin": 1690,
-   "layovers": [
-    {
-     "min": 1310,
-     "overnight": true,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main",
-     "code": "FRA",
-     "changeAirport": false
-    },
-    {
-     "min": 95,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen",
-     "code": "BGO",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "VL1087",
-    "LH872",
     "WF1311"
    ],
    "via": "rpc"
@@ -202,7 +159,50 @@
    "via": "rpc"
   },
   {
-   "price": 460.0,
+   "price": 273.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Lufthansa City Airlines, Lufthansa and Wideroe",
+   "operatedBy": null,
+   "depCode": "MRS",
+   "depAirportName": "Marseille Provence Airport",
+   "depTime": "10:40",
+   "depDate": "2026-12-13",
+   "arrCode": "TRD",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-14",
+   "durationMin": 1690,
+   "layovers": [
+    {
+     "min": 520,
+     "overnight": true,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main",
+     "code": "FRA",
+     "changeAirport": false
+    },
+    {
+     "min": 885,
+     "overnight": true,
+     "airport": "Bergen Airport",
+     "city": "Bergen",
+     "code": "BGO",
+     "changeAirport": false
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "flights": [
+    "VL1087",
+    "LH876",
+    "WF1311"
+   ],
+   "via": "rpc"
+  },
+  {
+   "price": 500.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,

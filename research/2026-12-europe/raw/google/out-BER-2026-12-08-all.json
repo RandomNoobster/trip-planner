@@ -1,10 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDhqBRIDVFJEcgUSA0JFUkABSAGYAQI",
- "fetchedAt": "2026-10-11T11:21:21",
+ "fetchedAt": "2026-10-19T23:11:36",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
-   "price": 99.0,
+   "price": 115.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -27,36 +28,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 99 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Tuesday, December 8 and arrives at Berlin Brandenburg Airport at 11:05 AM on Tuesday, December 8. Total duration 4 hr 45 min.  Layover (1 of 1) is a 1 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 115 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Tuesday, December 8 and arrives at Berlin Brandenburg Airport at 11:05 AM on Tuesday, December 8. Total duration 4 hr 45 min.  Layover (1 of 1) is a 1 hr 5 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 132.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "17:10",
-   "depDate": "2026-12-08",
-   "arrAirportName": "Berlin Brandenburg Airport",
-   "arrTime": "22:15",
-   "arrDate": "2026-12-08",
-   "durationMin": 305,
-   "layovers": [
-    {
-     "min": 85,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 132 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:10 PM on Tuesday, December 8 and arrives at Berlin Brandenburg Airport at 10:15 PM on Tuesday, December 8. Total duration 5 hr 5 min.  Layover (1 of 1) is a 1 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
-  },
-  {
-   "price": 136.0,
+   "price": 131.0,
    "roundTripTotal": false,
    "noOverheadBin": true,
    "stops": 1,
@@ -79,10 +54,36 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 136 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 9:25 AM on Tuesday, December 8 and arrives at Berlin Brandenburg Airport at 1:15 PM on Tuesday, December 8. Total duration 3 hr 50 min.  Layover (1 of 1) is a 1 hr 20 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 131 euros.This price does not include overhead bin access. 1 stop flight with Norwegian. Leaves Trondheim Airport, Værnes at 9:25 AM on Tuesday, December 8 and arrives at Berlin Brandenburg Airport at 1:15 PM on Tuesday, December 8. Total duration 3 hr 50 min.  Layover (1 of 1) is a 1 hr 20 min layover at Oslo lufthavn in Oslo. Select flight"
   },
   {
-   "price": 274.0,
+   "price": 134.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "17:10",
+   "depDate": "2026-12-08",
+   "arrAirportName": "Berlin Brandenburg Airport",
+   "arrTime": "22:15",
+   "arrDate": "2026-12-08",
+   "durationMin": 305,
+   "layovers": [
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 134 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:10 PM on Tuesday, December 8 and arrives at Berlin Brandenburg Airport at 10:15 PM on Tuesday, December 8. Total duration 5 hr 5 min.  Layover (1 of 1) is a 1 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 277.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -111,10 +112,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 274 euros. 2 stops flight with KLM and Air France. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Trondheim Airport, Værnes at 5:10 PM on Tuesday, December 8 and arrives at Berlin Brandenburg Airport at 9:05 AM on Wednesday, December 9. Total duration 15 hr 55 min.  Layover (1 of 2) is a 1 hr layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 9 hr 20 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "label": "From 277 euros. 2 stops flight with KLM and Air France. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Trondheim Airport, Værnes at 5:10 PM on Tuesday, December 8 and arrives at Berlin Brandenburg Airport at 9:05 AM on Wednesday, December 9. Total duration 15 hr 55 min.  Layover (1 of 2) is a 1 hr layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 9 hr 20 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
   },
   {
-   "price": 315.0,
+   "price": 319.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 3,
@@ -149,10 +150,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 315 euros. 3 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair, Jettime A/S for Finnair. Leaves Trondheim Airport, Værnes at 3:35 PM on Tuesday, December 8 and arrives at Berlin Brandenburg Airport at 8:00 AM on Wednesday, December 9. Total duration 16 hr 25 min.  Layover (1 of 3) is a 2 hr 15 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 7 hr 40 min layover at Helsinki Airport in Helsinki. Select flight"
+   "label": "From 319 euros. 3 stops flight with Wideroe and Finnair. Operated by Nordic Reg for Finnair, Nordic Reg for Finnair, Jettime A/S for Finnair. Leaves Trondheim Airport, Værnes at 3:35 PM on Tuesday, December 8 and arrives at Berlin Brandenburg Airport at 8:00 AM on Wednesday, December 9. Total duration 16 hr 25 min.  Layover (1 of 3) is a 2 hr 15 min layover at Bergen Airport in Bergen. Layover (2 of 3) is a 25 min layover at Stockholm Arlanda Airport in Stockholm. Layover (3 of 3) is a 7 hr 40 min layover at Helsinki Airport in Helsinki. Select flight"
   },
   {
-   "price": 405.0,
+   "price": 412.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -181,42 +182,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 405 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 9:10 AM on Tuesday, December 8 and arrives at Berlin Brandenburg Airport at 4:50 PM on Tuesday, December 8. Total duration 7 hr 40 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 45 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+   "label": "From 412 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 9:10 AM on Tuesday, December 8 and arrives at Berlin Brandenburg Airport at 4:50 PM on Tuesday, December 8. Total duration 7 hr 40 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 45 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
   },
   {
-   "price": 564.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": "Sas Link for Scandinavian Airlines",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "15:05",
-   "depDate": "2026-12-08",
-   "arrAirportName": "Berlin Brandenburg Airport",
-   "arrTime": "22:40",
-   "arrDate": "2026-12-08",
-   "durationMin": 455,
-   "layovers": [
-    {
-     "min": 75,
-     "overnight": false,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen"
-    },
-    {
-     "min": 55,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 564 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link for Scandinavian Airlines. Leaves Trondheim Airport, Værnes at 3:05 PM on Tuesday, December 8 and arrives at Berlin Brandenburg Airport at 10:40 PM on Tuesday, December 8. Total duration 7 hr 35 min.  Layover (1 of 2) is a 1 hr 15 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 55 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
-  },
-  {
-   "price": 687.0,
+   "price": 698.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -245,7 +214,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 687 euros. 2 stops flight with Scandinavian Airlines and Austrian. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 3:05 PM on Tuesday, December 8 and arrives at Berlin Brandenburg Airport at 10:15 PM on Tuesday, December 8. Total duration 7 hr 10 min.  Layover (1 of 2) is a 55 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 1 hr 40 min layover at Vienna International Airport in Vienna. Select flight"
+   "label": "From 698 euros. 2 stops flight with Scandinavian Airlines and Austrian. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 3:05 PM on Tuesday, December 8 and arrives at Berlin Brandenburg Airport at 10:15 PM on Tuesday, December 8. Total duration 7 hr 10 min.  Layover (1 of 2) is a 55 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 1 hr 40 min layover at Vienna International Airport in Vienna. Select flight"
   }
  ]
 }

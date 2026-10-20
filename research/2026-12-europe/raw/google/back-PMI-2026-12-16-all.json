@@ -1,193 +1,51 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMTZqBRIDUE1JcgUSA1RSREABSAGYAQI",
- "fetchedAt": "2026-10-11T12:27:33",
- "priceUnavailable": 0,
- "via": "rpc",
+ "fetchedAt": "2026-10-19T23:35:40",
+ "priceUnavailable": 12,
+ "via": "html",
  "itineraries": [
   {
-   "price": 252.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Air Europa, Transavia and KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depCode": "PMI",
-   "depAirportName": "Palma de Mallorca Airport",
-   "depTime": "07:00",
-   "depDate": "2026-12-16",
-   "arrCode": "TRD",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
-   "arrDate": "2026-12-16",
-   "durationMin": 575,
-   "layovers": [
-    {
-     "min": 95,
-     "overnight": false,
-     "airport": "Josep Tarradellas Barcelona-El Prat Airport",
-     "city": "Barcelona",
-     "code": "BCN",
-     "changeAirport": false
-    },
-    {
-     "min": 145,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "code": "AMS",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "UX6006",
-    "HV5132",
-    "KL1153"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 215.0,
+   "price": 209.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Air Europa and KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depCode": "PMI",
+   "operatedBy": "Air Europa Express, KLM Cityhopper, KLM Cityhopper",
    "depAirportName": "Palma de Mallorca Airport",
-   "depTime": "12:25",
+   "depTime": "10:40",
    "depDate": "2026-12-16",
-   "arrCode": "TRD",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "23:10",
    "arrDate": "2026-12-16",
-   "durationMin": 645,
+   "durationMin": 750,
    "layovers": [
     {
-     "min": 190,
+     "min": 320,
      "overnight": false,
-     "airport": "Adolfo Suárez Madrid-Barajas Airport",
-     "city": "Madrid",
-     "code": "MAD",
-     "changeAirport": false
+     "airport": "Valencia Airport",
+     "city": "València"
     },
     {
      "min": 85,
      "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "code": "AMS",
-     "changeAirport": false
+     "city": "Amsterdam"
     }
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "flights": [
-    "UX6048",
-    "KL1506",
-    "KL1155"
-   ],
-   "via": "rpc"
+   "label": "From 209 euros. 2 stops flight with Air Europa and KLM. Operated by Air Europa Express, KLM Cityhopper, KLM Cityhopper. Leaves Palma de Mallorca Airport at 10:40 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 11:10 PM on Wednesday, December 16. Total duration 12 hr 30 min.  Layover (1 of 2) is a 5 hr 20 min layover at Valencia Airport in València. Layover (2 of 2) is a 1 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 220.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Discover Airlines, Lufthansa and Wideroe",
-   "operatedBy": null,
-   "depCode": "PMI",
-   "depAirportName": "Palma de Mallorca Airport",
-   "depTime": "11:35",
-   "depDate": "2026-12-16",
-   "arrCode": "TRD",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "14:50",
-   "arrDate": "2026-12-17",
-   "durationMin": 1635,
-   "layovers": [
-    {
-     "min": 425,
-     "overnight": true,
-     "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main",
-     "code": "FRA",
-     "changeAirport": false
-    },
-    {
-     "min": 885,
-     "overnight": true,
-     "airport": "Bergen Airport",
-     "city": "Bergen",
-     "code": "BGO",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "4Y513",
-    "LH876",
-    "WF1311"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 252.0,
+   "price": 214.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Air Europa and KLM",
    "operatedBy": "KLM Cityhopper",
-   "depCode": "PMI",
-   "depAirportName": "Palma de Mallorca Airport",
-   "depTime": "07:00",
-   "depDate": "2026-12-16",
-   "arrCode": "TRD",
-   "arrAirportName": "Trondheim Airport, Værnes",
-   "arrTime": "16:35",
-   "arrDate": "2026-12-16",
-   "durationMin": 575,
-   "layovers": [
-    {
-     "min": 200,
-     "overnight": false,
-     "airport": "Josep Tarradellas Barcelona-El Prat Airport",
-     "city": "Barcelona",
-     "code": "BCN",
-     "changeAirport": false
-    },
-    {
-     "min": 45,
-     "overnight": false,
-     "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "code": "AMS",
-     "changeAirport": false
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "flights": [
-    "UX6006",
-    "KL1512",
-    "KL1153"
-   ],
-   "via": "rpc"
-  },
-  {
-   "price": 252.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Air Europa and KLM",
-   "operatedBy": "KLM Cityhopper",
-   "depCode": "PMI",
    "depAirportName": "Palma de Mallorca Airport",
    "depTime": "13:35",
    "depDate": "2026-12-16",
-   "arrCode": "TRD",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "23:10",
    "arrDate": "2026-12-16",
@@ -197,40 +55,157 @@
      "min": 180,
      "overnight": false,
      "airport": "Josep Tarradellas Barcelona-El Prat Airport",
-     "city": "Barcelona",
-     "code": "BCN",
-     "changeAirport": false
+     "city": "Barcelona"
     },
     {
      "min": 60,
      "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "code": "AMS",
-     "changeAirport": false
+     "city": "Amsterdam"
     }
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "flights": [
-    "UX6060",
-    "KL1518",
-    "KL1155"
+   "label": "From 214 euros. 2 stops flight with Air Europa and KLM. Operated by KLM Cityhopper. Leaves Palma de Mallorca Airport at 1:35 PM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 11:10 PM on Wednesday, December 16. Total duration 9 hr 35 min.  Layover (1 of 2) is a 3 hr layover at Josep Tarradellas Barcelona-El Prat Airport in Barcelona. Layover (2 of 2) is a 1 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 233.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air Europa and KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Palma de Mallorca Airport",
+   "depTime": "12:25",
+   "depDate": "2026-12-16",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "23:10",
+   "arrDate": "2026-12-16",
+   "durationMin": 645,
+   "layovers": [
+    {
+     "min": 190,
+     "overnight": false,
+     "airport": "Adolfo Suárez Madrid-Barajas Airport",
+     "city": "Madrid"
+    },
+    {
+     "min": 85,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
    ],
-   "via": "rpc"
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 233 euros. 2 stops flight with Air Europa and KLM. Operated by KLM Cityhopper. Leaves Palma de Mallorca Airport at 12:25 PM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 11:10 PM on Wednesday, December 16. Total duration 10 hr 45 min.  Layover (1 of 2) is a 3 hr 10 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Layover (2 of 2) is a 1 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
    "price": 252.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
+   "airlines": "Air Europa and KLM",
+   "operatedBy": "KLM Cityhopper, KLM Cityhopper",
+   "depAirportName": "Palma de Mallorca Airport",
+   "depTime": "07:00",
+   "depDate": "2026-12-16",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-16",
+   "durationMin": 575,
+   "layovers": [
+    {
+     "min": 200,
+     "overnight": false,
+     "airport": "Josep Tarradellas Barcelona-El Prat Airport",
+     "city": "Barcelona"
+    },
+    {
+     "min": 45,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 252 euros. 2 stops flight with Air Europa and KLM. Operated by KLM Cityhopper, KLM Cityhopper. Leaves Palma de Mallorca Airport at 7:00 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 4:35 PM on Wednesday, December 16. Total duration 9 hr 35 min.  Layover (1 of 2) is a 3 hr 20 min layover at Josep Tarradellas Barcelona-El Prat Airport in Barcelona. Layover (2 of 2) is a 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 252.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air Europa, Transavia and KLM",
+   "operatedBy": "KLM Cityhopper",
+   "depAirportName": "Palma de Mallorca Airport",
+   "depTime": "07:00",
+   "depDate": "2026-12-16",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "16:35",
+   "arrDate": "2026-12-16",
+   "durationMin": 575,
+   "layovers": [
+    {
+     "min": 95,
+     "overnight": false,
+     "airport": "Josep Tarradellas Barcelona-El Prat Airport",
+     "city": "Barcelona"
+    },
+    {
+     "min": 145,
+     "overnight": false,
+     "airport": "Amsterdam Airport Schiphol",
+     "city": "Amsterdam"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 252 euros. 2 stops flight with Air Europa, Transavia and KLM. Operated by KLM Cityhopper. Leaves Palma de Mallorca Airport at 7:00 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 4:35 PM on Wednesday, December 16. Total duration 9 hr 35 min.  Layover (1 of 2) is a 1 hr 35 min layover at Josep Tarradellas Barcelona-El Prat Airport in Barcelona. Layover (2 of 2) is a 2 hr 25 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 250.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
    "airlines": "Discover Airlines, Lufthansa and Wideroe",
    "operatedBy": null,
-   "depCode": "PMI",
+   "depAirportName": "Palma de Mallorca Airport",
+   "depTime": "11:35",
+   "depDate": "2026-12-16",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "14:50",
+   "arrDate": "2026-12-17",
+   "durationMin": 1635,
+   "layovers": [
+    {
+     "min": 425,
+     "overnight": false,
+     "airport": "Frankfurt Airport",
+     "city": "Frankfurt am Main"
+    },
+    {
+     "min": 885,
+     "overnight": false,
+     "airport": "Bergen Airport",
+     "city": "Bergen"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 250 euros. 2 stops flight with Discover Airlines, Lufthansa and Wideroe. Leaves Palma de Mallorca Airport at 11:35 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 2:50 PM on Thursday, December 17. Total duration 27 hr 15 min.  Layover (1 of 2) is a 7 hr 5 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 14 hr 45 min layover at Bergen Airport in Bergen. Select flight"
+  },
+  {
+   "price": 282.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Discover Airlines, Lufthansa and Wideroe",
+   "operatedBy": null,
    "depAirportName": "Palma de Mallorca Airport",
    "depTime": "18:35",
    "depDate": "2026-12-16",
-   "arrCode": "TRD",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "14:50",
    "arrDate": "2026-12-17",
@@ -238,42 +213,31 @@
    "layovers": [
     {
      "min": 795,
-     "overnight": true,
+     "overnight": false,
      "airport": "Frankfurt Airport",
-     "city": "Frankfurt am Main",
-     "code": "FRA",
-     "changeAirport": false
+     "city": "Frankfurt am Main"
     },
     {
      "min": 95,
      "overnight": false,
      "airport": "Bergen Airport",
-     "city": "Bergen",
-     "code": "BGO",
-     "changeAirport": false
+     "city": "Bergen"
     }
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "flights": [
-    "4Y515",
-    "LH872",
-    "WF1311"
-   ],
-   "via": "rpc"
+   "label": "From 282 euros. 2 stops flight with Discover Airlines, Lufthansa and Wideroe. Leaves Palma de Mallorca Airport at 6:35 PM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 2:50 PM on Thursday, December 17. Total duration 20 hr 15 min.  Layover (1 of 2) is a 13 hr 15 min layover at Frankfurt Airport in Frankfurt am Main. Layover (2 of 2) is a 1 hr 35 min layover at Bergen Airport in Bergen. Select flight"
   },
   {
-   "price": 253.0,
+   "price": 300.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
    "airlines": "Air Europa and KLM",
    "operatedBy": "KLM Cityhopper",
-   "depCode": "PMI",
    "depAirportName": "Palma de Mallorca Airport",
    "depTime": "08:00",
    "depDate": "2026-12-16",
-   "arrCode": "TRD",
    "arrAirportName": "Trondheim Airport, Værnes",
    "arrTime": "16:35",
    "arrDate": "2026-12-16",
@@ -283,27 +247,50 @@
      "min": 85,
      "overnight": false,
      "airport": "Adolfo Suárez Madrid-Barajas Airport",
-     "city": "Madrid",
-     "code": "MAD",
-     "changeAirport": false
+     "city": "Madrid"
     },
     {
      "min": 60,
      "overnight": false,
      "airport": "Amsterdam Airport Schiphol",
-     "city": "Amsterdam",
-     "code": "AMS",
-     "changeAirport": false
+     "city": "Amsterdam"
     }
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "flights": [
-    "UX6012",
-    "KL1502",
-    "KL1153"
+   "label": "From 300 euros. 2 stops flight with Air Europa and KLM. Operated by KLM Cityhopper. Leaves Palma de Mallorca Airport at 8:00 AM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 4:35 PM on Wednesday, December 16. Total duration 8 hr 35 min.  Layover (1 of 2) is a 1 hr 25 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Layover (2 of 2) is a 1 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+  },
+  {
+   "price": 664.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Air Europa and Scandinavian Airlines",
+   "operatedBy": "Sas Link",
+   "depAirportName": "Palma de Mallorca Airport",
+   "depTime": "12:25",
+   "depDate": "2026-12-16",
+   "arrAirportName": "Trondheim Airport, Værnes",
+   "arrTime": "00:40",
+   "arrDate": "2026-12-17",
+   "durationMin": 735,
+   "layovers": [
+    {
+     "min": 190,
+     "overnight": false,
+     "airport": "Adolfo Suárez Madrid-Barajas Airport",
+     "city": "Madrid"
+    },
+    {
+     "min": 160,
+     "overnight": false,
+     "airport": "Copenhagen Airport",
+     "city": "Copenhagen"
+    }
    ],
-   "via": "rpc"
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 664 euros. 2 stops flight with Air Europa and Scandinavian Airlines. Operated by Sas Link. Leaves Palma de Mallorca Airport at 12:25 PM on Wednesday, December 16 and arrives at Trondheim Airport, Værnes at 12:40 AM on Thursday, December 17. Total duration 12 hr 15 min.  Layover (1 of 2) is a 3 hr 10 min layover at Adolfo Suárez Madrid-Barajas Airport in Madrid. Layover (2 of 2) is a 2 hr 40 min layover at Copenhagen Airport in Copenhagen. Select flight"
   }
  ]
 }

@@ -1,10 +1,11 @@
 {
  "url": "https://www.google.com/travel/flights?hl=en&curr=EUR&gl=NO&tfs=GhoSCjIwMjYtMTItMDZqBRIDVFJEcgUSA0xJU0ABSAGYAQI",
- "fetchedAt": "2026-10-11T11:25:47",
+ "fetchedAt": "2026-10-19T23:37:02",
  "priceUnavailable": 6,
+ "via": "html",
  "itineraries": [
   {
-   "price": 169.0,
+   "price": 151.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -27,10 +28,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 169 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Sunday, December 6 and arrives at Humberto Delgado Airport at 2:40 PM on Sunday, December 6. Total duration 9 hr 20 min.  Layover (1 of 1) is a 4 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 151 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Sunday, December 6 and arrives at Humberto Delgado Airport at 2:40 PM on Sunday, December 6. Total duration 9 hr 20 min.  Layover (1 of 1) is a 4 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 202.0,
+   "price": 184.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -53,10 +54,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 202 euros. 1 stop flight with KLM and Transavia. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Sunday, December 6 and arrives at Humberto Delgado Airport at 6:40 PM on Sunday, December 6. Total duration 13 hr 20 min.  Layover (1 of 1) is a 8 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 184 euros. 1 stop flight with KLM and Transavia. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 6:20 AM on Sunday, December 6 and arrives at Humberto Delgado Airport at 6:40 PM on Sunday, December 6. Total duration 13 hr 20 min.  Layover (1 of 1) is a 8 hr layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 252.0,
+   "price": 253.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 1,
@@ -79,74 +80,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 252 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:15 PM on Sunday, December 6 and arrives at Humberto Delgado Airport at 11:10 PM on Sunday, December 6. Total duration 6 hr 55 min.  Layover (1 of 1) is a 1 hr 35 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
+   "label": "From 253 euros. 1 stop flight with KLM. Operated by KLM Cityhopper. Leaves Trondheim Airport, Værnes at 5:15 PM on Sunday, December 6 and arrives at Humberto Delgado Airport at 11:10 PM on Sunday, December 6. Total duration 6 hr 55 min.  Layover (1 of 1) is a 1 hr 35 min layover at Amsterdam Airport Schiphol in Amsterdam. Select flight"
   },
   {
-   "price": 274.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "21:10",
-   "depDate": "2026-12-06",
-   "arrAirportName": "Humberto Delgado Airport",
-   "arrTime": "15:10",
-   "arrDate": "2026-12-07",
-   "durationMin": 1140,
-   "layovers": [
-    {
-     "min": 485,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    },
-    {
-     "min": 260,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 274 euros. 2 stops flight with Scandinavian Airlines and Air France. Leaves Trondheim Airport, Værnes at 9:10 PM on Sunday, December 6 and arrives at Humberto Delgado Airport at 3:10 PM on Monday, December 7. Total duration 19 hr.  Layover (1 of 2) is a 8 hr 5 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 4 hr 20 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
-  },
-  {
-   "price": 307.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Scandinavian Airlines and Air France",
-   "operatedBy": "Sas Link",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "19:55",
-   "depDate": "2026-12-06",
-   "arrAirportName": "Humberto Delgado Airport",
-   "arrTime": "11:25",
-   "arrDate": "2026-12-07",
-   "durationMin": 990,
-   "layovers": [
-    {
-     "min": 555,
-     "overnight": false,
-     "airport": "Copenhagen Airport",
-     "city": "Copenhagen"
-    },
-    {
-     "min": 45,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 307 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 7:55 PM on Sunday, December 6 and arrives at Humberto Delgado Airport at 11:25 AM on Monday, December 7. Total duration 16 hr 30 min.  Layover (1 of 2) is a 9 hr 15 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 45 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
-  },
-  {
-   "price": 362.0,
+   "price": 286.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -175,10 +112,42 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 362 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 5:30 AM on Sunday, December 6 and arrives at Humberto Delgado Airport at 3:10 PM on Sunday, December 6. Total duration 10 hr 40 min.  Layover (1 of 2) is a 2 hr 50 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 1 hr 15 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "label": "From 286 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 5:30 AM on Sunday, December 6 and arrives at Humberto Delgado Airport at 3:10 PM on Sunday, December 6. Total duration 10 hr 40 min.  Layover (1 of 2) is a 2 hr 50 min layover at Copenhagen Airport in Copenhagen. Layover (2 of 2) is a 1 hr 15 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
   },
   {
-   "price": 376.0,
+   "price": 275.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 2,
+   "airlines": "Scandinavian Airlines and Air France",
+   "operatedBy": null,
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "21:10",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Humberto Delgado Airport",
+   "arrTime": "15:10",
+   "arrDate": "2026-12-07",
+   "durationMin": 1140,
+   "layovers": [
+    {
+     "min": 485,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    },
+    {
+     "min": 260,
+     "overnight": false,
+     "airport": "Aéroport de Paris-Charles de Gaulle",
+     "city": "Paris"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 275 euros. 2 stops flight with Scandinavian Airlines and Air France. Leaves Trondheim Airport, Værnes at 9:10 PM on Sunday, December 6 and arrives at Humberto Delgado Airport at 3:10 PM on Monday, December 7. Total duration 19 hr.  Layover (1 of 2) is a 8 hr 5 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 4 hr 20 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+  },
+  {
+   "price": 359.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -207,42 +176,10 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 376 euros. 2 stops flight with KLM and Air France. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Trondheim Airport, Værnes at 6:20 AM on Sunday, December 6 and arrives at Humberto Delgado Airport at 3:10 PM on Sunday, December 6. Total duration 9 hr 50 min.  Layover (1 of 2) is a 1 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 1 hr 35 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
+   "label": "From 359 euros. 2 stops flight with KLM and Air France. Operated by KLM Cityhopper for KLM Royal Dutch Airlines. Leaves Trondheim Airport, Værnes at 6:20 AM on Sunday, December 6 and arrives at Humberto Delgado Airport at 3:10 PM on Sunday, December 6. Total duration 9 hr 50 min.  Layover (1 of 2) is a 1 hr 45 min layover at Amsterdam Airport Schiphol in Amsterdam. Layover (2 of 2) is a 1 hr 35 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
   },
   {
-   "price": 389.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 2,
-   "airlines": "Wideroe and Air France",
-   "operatedBy": null,
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "09:10",
-   "depDate": "2026-12-06",
-   "arrAirportName": "Humberto Delgado Airport",
-   "arrTime": "22:25",
-   "arrDate": "2026-12-06",
-   "durationMin": 855,
-   "layovers": [
-    {
-     "min": 170,
-     "overnight": false,
-     "airport": "Bergen Airport",
-     "city": "Bergen"
-    },
-    {
-     "min": 315,
-     "overnight": false,
-     "airport": "Aéroport de Paris-Charles de Gaulle",
-     "city": "Paris"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 389 euros. 2 stops flight with Wideroe and Air France. Leaves Trondheim Airport, Værnes at 9:10 AM on Sunday, December 6 and arrives at Humberto Delgado Airport at 10:25 PM on Sunday, December 6. Total duration 14 hr 15 min.  Layover (1 of 2) is a 2 hr 50 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 5 hr 15 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
-  },
-  {
-   "price": 435.0,
+   "price": 439.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -271,10 +208,36 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 435 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 9:10 AM on Sunday, December 6 and arrives at Humberto Delgado Airport at 10:50 PM on Sunday, December 6. Total duration 14 hr 40 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 5 hr 40 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
+   "label": "From 439 euros. 2 stops flight with Wideroe and Lufthansa. Leaves Trondheim Airport, Værnes at 9:10 AM on Sunday, December 6 and arrives at Humberto Delgado Airport at 10:50 PM on Sunday, December 6. Total duration 14 hr 40 min.  Layover (1 of 2) is a 2 hr 35 min layover at Bergen Airport in Bergen. Layover (2 of 2) is a 5 hr 40 min layover at Frankfurt Airport in Frankfurt am Main. Select flight"
   },
   {
-   "price": 546.0,
+   "price": 598.0,
+   "roundTripTotal": false,
+   "noOverheadBin": false,
+   "stops": 1,
+   "airlines": "Scandinavian Airlines and Tap Air Portugal",
+   "operatedBy": "Sas Link",
+   "depAirportName": "Trondheim Airport, Værnes",
+   "depTime": "08:00",
+   "depDate": "2026-12-06",
+   "arrAirportName": "Humberto Delgado Airport",
+   "arrTime": "16:25",
+   "arrDate": "2026-12-06",
+   "durationMin": 565,
+   "layovers": [
+    {
+     "min": 230,
+     "overnight": false,
+     "airport": "Oslo lufthavn",
+     "city": "Oslo"
+    }
+   ],
+   "changeAirport": false,
+   "separateTickets": false,
+   "label": "From 598 euros. 1 stop flight with Scandinavian Airlines and Tap Air Portugal. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 8:00 AM on Sunday, December 6 and arrives at Humberto Delgado Airport at 4:25 PM on Sunday, December 6. Total duration 9 hr 25 min.  Layover (1 of 1) is a 3 hr 50 min layover at Oslo lufthavn in Oslo. Select flight"
+  },
+  {
+   "price": 691.0,
    "roundTripTotal": false,
    "noOverheadBin": false,
    "stops": 2,
@@ -303,33 +266,7 @@
    ],
    "changeAirport": false,
    "separateTickets": false,
-   "label": "From 546 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 1:15 PM on Sunday, December 6 and arrives at Humberto Delgado Airport at 10:25 PM on Sunday, December 6. Total duration 10 hr 10 min.  Layover (1 of 2) is a 2 hr 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 45 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
-  },
-  {
-   "price": 666.0,
-   "roundTripTotal": false,
-   "noOverheadBin": false,
-   "stops": 1,
-   "airlines": "Scandinavian Airlines and Tap Air Portugal",
-   "operatedBy": "Sas Link",
-   "depAirportName": "Trondheim Airport, Værnes",
-   "depTime": "08:00",
-   "depDate": "2026-12-06",
-   "arrAirportName": "Humberto Delgado Airport",
-   "arrTime": "16:25",
-   "arrDate": "2026-12-06",
-   "durationMin": 565,
-   "layovers": [
-    {
-     "min": 230,
-     "overnight": false,
-     "airport": "Oslo lufthavn",
-     "city": "Oslo"
-    }
-   ],
-   "changeAirport": false,
-   "separateTickets": false,
-   "label": "From 666 euros. 1 stop flight with Scandinavian Airlines and Tap Air Portugal. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 8:00 AM on Sunday, December 6 and arrives at Humberto Delgado Airport at 4:25 PM on Sunday, December 6. Total duration 9 hr 25 min.  Layover (1 of 1) is a 3 hr 50 min layover at Oslo lufthavn in Oslo. Select flight"
+   "label": "From 691 euros. 2 stops flight with Scandinavian Airlines and Air France. Operated by Sas Link. Leaves Trondheim Airport, Værnes at 1:15 PM on Sunday, December 6 and arrives at Humberto Delgado Airport at 10:25 PM on Sunday, December 6. Total duration 10 hr 10 min.  Layover (1 of 2) is a 2 hr 55 min layover at Oslo lufthavn in Oslo. Layover (2 of 2) is a 45 min layover at Aéroport de Paris-Charles de Gaulle in Paris. Select flight"
   }
  ]
 }
