@@ -34,6 +34,8 @@ export type Filters = {
   maxCentreKm: number | null
   /** allowed departure dates (ISO) */
   starts: string[]
+  /** allowed return dates (ISO) */
+  ends: string[]
   nights: number[]
   schengenOnly: boolean
   /** country codes no stop may be in */
@@ -70,6 +72,7 @@ export const NO_FILTERS: Filters = {
   needs: [],
   maxCentreKm: null,
   starts: [],
+  ends: [],
   nights: [],
   schengenOnly: false,
   avoidCountries: [],
@@ -187,6 +190,7 @@ export function readFilters(p: URLSearchParams): Filters {
     needs: pick(p.get('needs'), AMENITIES),
     maxCentreKm: numberIn(p.get('centre'), (n) => n > 0),
     starts: list(p.get('leave')).filter((d) => ISO.test(d)),
+    ends: list(p.get('back')).filter((d) => ISO.test(d)),
     nights: ints(p.get('nights')),
     schengenOnly: p.get('schengen') === '1',
     avoidCountries: list(p.get('skip')).map((c) => c.toUpperCase()),
@@ -220,6 +224,7 @@ export function writeFilters(next: URLSearchParams, f: Filters): void {
   put('needs', join(f.needs))
   put('centre', f.maxCentreKm != null ? String(f.maxCentreKm) : null)
   put('leave', join(f.starts))
+  put('back', join(f.ends))
   put('nights', join(f.nights))
   put('schengen', f.schengenOnly ? '1' : null)
   put('skip', join(f.avoidCountries))
@@ -244,8 +249,8 @@ export function evalKey(f: Filters): string {
 
 /** The filters that keep or drop whole trips, as a string (see evalKey). */
 export function tripKey(f: Filters): string {
-  const { maxPrice, cities, starts, nights, schengenOnly, avoidCountries, minHighC, dry, sunny, maxBeer, maxFoodIx, maxPaper, whatsOn, city } = f
-  return JSON.stringify({ maxPrice, cities, starts, nights, schengenOnly, avoidCountries, minHighC, dry, sunny, maxBeer, maxFoodIx, maxPaper, whatsOn, city })
+  const { maxPrice, cities, starts, ends, nights, schengenOnly, avoidCountries, minHighC, dry, sunny, maxBeer, maxFoodIx, maxPaper, whatsOn, city } = f
+  return JSON.stringify({ maxPrice, cities, starts, ends, nights, schengenOnly, avoidCountries, minHighC, dry, sunny, maxBeer, maxFoodIx, maxPaper, whatsOn, city })
 }
 
 export function fromKey(key: string): Filters {
@@ -348,7 +353,7 @@ export function weatherPasses(c: Climate | null | undefined, f: Filters): boolea
   return true
 }
 
-export type Facet = 'price' | 'cities' | 'starts' | 'nights' | 'place' | 'paper' | 'weather' | 'beer' | 'food' | 'whatsOn' | 'city'
+export type Facet = 'price' | 'cities' | 'starts' | 'ends' | 'nights' | 'place' | 'paper' | 'weather' | 'beer' | 'food' | 'whatsOn' | 'city'
 
 /** The priciest bar beer and the highest food index among a trip's cities (Infinity when a city has no price). */
 export function tripBeer(e: EvalTrip): number {
@@ -369,6 +374,7 @@ export function tripPasses(e: EvalTrip, f: Filters, except?: Facet): boolean {
   if (except !== 'price' && f.maxPrice != null && e.totalPP > f.maxPrice) return false
   if (except !== 'cities' && f.cities.length && !f.cities.includes(e.cities.length)) return false
   if (except !== 'starts' && f.starts.length && !f.starts.includes(e.trip.start)) return false
+  if (except !== 'ends' && f.ends.length && !f.ends.includes(e.trip.end)) return false
   if (except !== 'nights' && f.nights.length && !f.nights.includes(e.trip.nights)) return false
   if (except !== 'place') {
     if (f.schengenOnly && e.stops.some((st) => st.dest.schengen === false)) return false
@@ -448,6 +454,7 @@ export function describeFilters(f: Filters, names: { city: (code: string) => str
   for (const a of f.needs) out.push({ id: `needs-${a}`, label: `${AMENITY_LABEL[a]} in every stay`, patch: { needs: f.needs.filter((x) => x !== a) } })
   if (f.maxCentreKm != null) out.push({ id: 'centre', label: `Stays within ${f.maxCentreKm} km of the centre`, patch: { maxCentreKm: null } })
   if (f.starts.length) out.push({ id: 'leave', label: `Leave ${orList([...f.starts].sort().map(shortDate))}`, patch: { starts: [] } })
+  if (f.ends.length) out.push({ id: 'back', label: `Back ${orList([...f.ends].sort().map(shortDate))}`, patch: { ends: [] } })
   if (f.nights.length) out.push({ id: 'nights', label: `${orList([...f.nights].sort((a, b) => a - b))} nights`, patch: { nights: [] } })
   if (f.schengenOnly) out.push({ id: 'schengen', label: 'Schengen only', patch: { schengenOnly: false } })
   if (f.avoidCountries.length) {

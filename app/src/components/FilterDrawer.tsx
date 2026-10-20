@@ -41,13 +41,14 @@ type Props = {
     cities: Map<number, number>
     nights: Map<number, number>
     starts: Map<string, number>
+    ends: Map<string, number>
     countries: Map<string, number>
     whatsOn: Map<WhatsOn, number>
     beer: Map<number, number>
     food: Map<number, number>
     paper: Map<string, number>
   }
-  options: { cities: number[]; nights: number[]; starts: string[]; countries: { cc: string; name: string }[]; carriers: string[]; places: { code: string; name: string }[] }
+  options: { cities: number[]; nights: number[]; starts: string[]; ends: string[]; countries: { cc: string; name: string }[]; carriers: string[]; places: { code: string; name: string }[] }
   shownRoutes: number
 }
 
@@ -55,7 +56,7 @@ type Props = {
 const SECTIONS = [
   { id: 'price', icon: ICON.price, short: 'Price', on: (f: Filters) => +(f.maxPrice != null) + +f.exactOnly },
   { id: 'stays', icon: ICON.stays, short: 'Stays', on: (f: Filters) => +(f.minRating > 0) + +(f.minReviews > 0) + +(f.maxCentreKm != null) + +(f.stayKinds.length > 0) + f.needs.length },
-  { id: 'route', icon: ICON.dates, short: 'Route & dates', on: (f: Filters) => +(f.cities.length > 0) + +(f.starts.length > 0) + +(f.nights.length > 0) },
+  { id: 'route', icon: ICON.dates, short: 'Route & dates', on: (f: Filters) => +(f.cities.length > 0) + +(f.starts.length > 0) + +(f.ends.length > 0) + +(f.nights.length > 0) },
   { id: 'around', icon: ICON.transport, short: 'Getting around', on: (f: Filters) => +(f.maxLegH != null) + +(f.modes.length > 0) + +(f.maxStops != null) + f.avoidOps.length },
   { id: 'weather', icon: ICON.weather, short: 'Weather', on: (f: Filters) => +(f.minHighC != null) + +f.dry + +f.sunny },
   { id: 'eat', icon: ICON.food, short: 'Food & drink', on: (f: Filters) => +(f.maxBeer != null) + +(f.maxFoodIx != null) },
@@ -199,6 +200,14 @@ export function FilterDrawer({ open, onClose, f, setF, onClearAll, routeMins, co
                 options={options.starts.map((d) => ({ value: d, label: dayLabel(d), count: counts.starts.get(d) ?? 0 }))}
                 selected={f.starts}
                 onChange={(starts) => setF({ starts })}
+              />
+            </Row>
+            <Row label="Back on">
+              <ChipSet
+                legend="Return date"
+                options={options.ends.map((d) => ({ value: d, label: dayLabel(d), count: counts.ends.get(d) ?? 0 }))}
+                selected={f.ends}
+                onChange={(ends) => setF({ ends })}
               />
             </Row>
             <Row label="Nights">

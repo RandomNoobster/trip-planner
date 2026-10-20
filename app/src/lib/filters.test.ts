@@ -10,7 +10,7 @@ describe('filters in the URL', () => {
   it('round-trips every filter and leaves defaults out', () => {
     const all = f({
       maxPrice: 450, minRating: 4.6, minReviews: 50, cities: [2, 1], maxLegH: 6, modes: ['train', 'flight'], maxStops: 1,
-      avoidOps: ['Ryanair', 'Wizz Air'], exactOnly: true, stayKinds: ['whole'], needs: ['kitchen'], starts: ['2026-12-07'],
+      avoidOps: ['Ryanair', 'Wizz Air'], exactOnly: true, stayKinds: ['whole'], needs: ['kitchen'], starts: ['2026-12-07'], ends: ['2026-12-15'],
       nights: [8], schengenOnly: true, avoidCountries: ['GB'], minHighC: 10, dry: true, sunny: true, city: 'KRK',
       maxCentreKm: 2, whatsOn: ['xmas'], maxBeer: 4, maxFoodIx: 80,
     })

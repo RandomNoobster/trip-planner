@@ -110,6 +110,7 @@ export function ExploreLayout() {
       cities: facetCounts(evals, tf, 'cities', (e) => [e.cities.length]),
       nights: facetCounts(evals, tf, 'nights', (e) => [e.trip.nights]),
       starts: facetCounts(evals, tf, 'starts', (e) => [e.trip.start]),
+      ends: facetCounts(evals, tf, 'ends', (e) => [e.trip.end]),
       countries: facetCounts(evals, tf, 'place', (e) => [...new Set(e.stops.map((st) => st.dest.cc ?? ''))]),
       whatsOn: facetCounts(evals, tf, 'whatsOn', (e) => [...tripEventKinds(e)]),
       beer: facetCounts(evals, tf, 'beer', (e) => BEER_STEPS.filter((s) => tripBeer(e) <= s)),
@@ -127,6 +128,7 @@ export function ExploreLayout() {
       cities: [...new Set(model.trips.map((t) => t.stops.length))].sort((a, b) => a - b),
       nights: [...new Set(model.trips.map((t) => t.nights))].sort((a, b) => a - b),
       starts: [...new Set(model.trips.map((t) => t.start))].sort(),
+      ends: [...new Set(model.trips.map((t) => t.end))].sort(),
       countries: [...byCountry].map(([cc, name]) => ({ cc, name })).sort((a, b) => a.name.localeCompare(b.name)),
       carriers: [...carrierCount].sort((a, b) => b[1] - a[1]).slice(0, CARRIER_CHOICES).map(([c]) => c),
       // only cities some trip goes through, so the list offers no dead ends
